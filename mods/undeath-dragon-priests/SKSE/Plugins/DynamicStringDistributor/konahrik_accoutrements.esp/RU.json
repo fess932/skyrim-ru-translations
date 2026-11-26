@@ -1,0 +1,178 @@
+[
+ {
+  "original": "[null]",
+  "string": "[пусто]",
+  "form_id": "000FE7E6|konahrik_accoutrements.esp",
+  "type": "MGEF FULL",
+  "index": null,
+  "editor_id": "KA_EnchVolsungFAKE"
+ },
+ {
+  "original": "[hidden]",
+  "string": "[скрыто]",
+  "form_id": "0012A098|konahrik_accoutrements.esp",
+  "type": "MGEF FULL",
+  "index": null,
+  "editor_id": "KA_PowerAbjurationCost"
+ },
+ {
+  "original": "fx",
+  "string": "эффект",
+  "form_id": "001229DF|konahrik_accoutrements.esp",
+  "type": "MGEF FULL",
+  "index": null,
+  "editor_id": "KA_dlcLorkanFX"
+ },
+ {
+  "original": "Goo FX",
+  "string": "Эффект слизи",
+  "form_id": "001A08F2|konahrik_accoutrements.esp",
+  "type": "MGEF FULL",
+  "index": null,
+  "editor_id": "KA_dlcGooShader"
+ },
+ {
+  "original": "null",
+  "string": "пусто",
+  "form_id": "00224583|konahrik_accoutrements.esp",
+  "type": "MGEF FULL",
+  "index": null,
+  "editor_id": "KA_DLCmiraakGearChecker"
+ },
+ {
+  "original": "Goo Shader",
+  "string": "Шейдер слизи",
+  "form_id": "001A08F3|konahrik_accoutrements.esp",
+  "type": "SPEL FULL",
+  "index": null,
+  "editor_id": "KA_DLCAbGooFX"
+ },
+ {
+  "original": "<Cool graphic>",
+  "string": "<Cool graphic>",
+  "form_id": "000F3E7B|konahrik_accoutrements.esp",
+  "type": "BOOK DESC",
+  "index": null,
+  "editor_id": "KA_ElderScrollWarlord"
+ },
+ {
+  "original": "<font face='$DragonFont'><p align=\"center\">\r\n\r\n\r\n\r\nAG NAAN VOLAAN\r\n</p></font>",
+  "string": "<font face='$DragonFont'><p align=\"center\">\r\n\r\n\r\n\r\nAG NAAN VOLAAN\r\n</p></font>",
+  "form_id": "00139D44|konahrik_accoutrements.esp",
+  "type": "BOOK DESC",
+  "index": null,
+  "editor_id": "KA_FodiizNote"
+ },
+ {
+  "original": "[Hidden]",
+  "string": "[Скрыто]",
+  "form_id": "000FCC92|konahrik_accoutrements.esp",
+  "type": "PERK DESC",
+  "index": null,
+  "editor_id": "KA_KrosisCritDam"
+ },
+ {
+  "original": "Abjuration Bolt",
+  "string": "Клятвенное отречение",
+  "form_id": "0010C931|konahrik_accoutrements.esp",
+  "type": "MESG ITXT",
+  "index": 0,
+  "editor_id": "KA_MsgElderScrolls00"
+ },
+ {
+  "original": "Sustained Thu'um",
+  "string": "Непрерывный Ту'ум",
+  "form_id": "0010C931|konahrik_accoutrements.esp",
+  "type": "MESG ITXT",
+  "index": 1,
+  "editor_id": "KA_MsgElderScrolls00"
+ },
+ {
+  "original": "Eye of Akatosh",
+  "string": "Взор Акатоша",
+  "form_id": "0010C931|konahrik_accoutrements.esp",
+  "type": "MESG ITXT",
+  "index": 2,
+  "editor_id": "KA_MsgElderScrolls00"
+ },
+ {
+  "original": "Done",
+  "string": "Готово",
+  "form_id": "0010C931|konahrik_accoutrements.esp",
+  "type": "MESG ITXT",
+  "index": 3,
+  "editor_id": "KA_MsgElderScrolls00"
+ },
+ {
+  "original": "Back",
+  "string": "Назад",
+  "form_id": "0010C932|konahrik_accoutrements.esp",
+  "type": "MESG ITXT",
+  "index": 0,
+  "editor_id": "KA_MsgElderScrolls01"
+ },
+ {
+  "original": "Accept",
+  "string": "Принять",
+  "form_id": "0010C932|konahrik_accoutrements.esp",
+  "type": "MESG ITXT",
+  "index": 1,
+  "editor_id": "KA_MsgElderScrolls01"
+ },
+ {
+  "original": "Back",
+  "string": "Назад",
+  "form_id": "0010CEA4|konahrik_accoutrements.esp",
+  "type": "MESG ITXT",
+  "index": 0,
+  "editor_id": "KA_MsgElderScrolls03"
+ },
+ {
+  "original": "Accept",
+  "string": "Принять",
+  "form_id": "0010CEA4|konahrik_accoutrements.esp",
+  "type": "MESG ITXT",
+  "index": 1,
+  "editor_id": "KA_MsgElderScrolls03"
+ },
+ {
+  "original": "Back",
+  "string": "Назад",
+  "form_id": "0010CEA3|konahrik_accoutrements.esp",
+  "type": "MESG ITXT",
+  "index": 0,
+  "editor_id": "KA_MsgElderScrolls02"
+ },
+ {
+  "original": "Accept",
+  "string": "Принять",
+  "form_id": "0010CEA3|konahrik_accoutrements.esp",
+  "type": "MESG ITXT",
+  "index": 1,
+  "editor_id": "KA_MsgElderScrolls02"
+ },
+ {
+  "original": "OK",
+  "string": "ОК",
+  "form_id": "0010D98A|konahrik_accoutrements.esp",
+  "type": "MESG ITXT",
+  "index": 0,
+  "editor_id": "KA_MsgElderScrollsStory01"
+ },
+ {
+  "original": "OK",
+  "string": "ОК",
+  "form_id": "0010D98B|konahrik_accoutrements.esp",
+  "type": "MESG ITXT",
+  "index": 0,
+  "editor_id": "KA_MsgElderScrollsStory02"
+ },
+ {
+  "original": "OK",
+  "string": "ОК",
+  "form_id": "0010D98C|konahrik_accoutrements.esp",
+  "type": "MESG ITXT",
+  "index": 0,
+  "editor_id": "KA_MsgElderScrollsStory03"
+ }
+]

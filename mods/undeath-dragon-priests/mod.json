@@ -1,0 +1,25 @@
+{
+  "slug": "undeath-dragon-priests",
+  "name": "Undeath, жрецы драконов и маски (недостающие строки)",
+  "reuse_installed": true,
+  "plugins": [
+    "UndeathFixes.esp",
+    "Undeath.esp",
+    "Unslaad Vanilla Mask Fix.esp",
+    "konahrik_accoutrements.esp",
+    "UndeathHumanoidDragonPriests.esp",
+    "YASTM_UndeathPatch.esp",
+    "World Eater's Influence.esp",
+    "Humanoid Dragon Priest.esp"
+  ],
+  "sources": {
+    "UndeathFixes.esp": "Undeath - Classical Lichdom",
+    "Undeath.esp": "Undeath Remastered",
+    "Unslaad Vanilla Mask Fix.esp": "Unslaad Dragon Priest Mask Fix",
+    "konahrik_accoutrements.esp": "Konahrik's Accoutrements - Fixed Esp",
+    "UndeathHumanoidDragonPriests.esp": "Undeath - Humanoid Dragon Priests",
+    "YASTM_UndeathPatch.esp": "YASTM - Yet Another Soul Trap Manager",
+    "World Eater's Influence.esp": "Cult of the World Eater - Dragon Priests Buff Alduin",
+    "Humanoid Dragon Priest.esp": "Humanoid Dragon Priests"
+  }
+}

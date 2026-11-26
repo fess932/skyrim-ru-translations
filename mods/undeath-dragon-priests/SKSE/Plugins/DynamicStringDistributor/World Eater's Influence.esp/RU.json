@@ -1,0 +1,42 @@
+[
+ {
+  "original": "Restore Health",
+  "string": "Восстановление здоровья",
+  "form_id": "00000800|World Eater's Influence.esp",
+  "type": "MGEF FULL",
+  "index": null,
+  "editor_id": "RestoreHealthConcSelfDUPLICATE001"
+ },
+ {
+  "original": "Heals the caster <mag> points per second.",
+  "string": "Восстанавливает <mag> ед. здоровья заклинателя в секунду.",
+  "form_id": "00000800|World Eater's Influence.esp",
+  "type": "MGEF DNAM",
+  "index": null,
+  "editor_id": "RestoreHealthConcSelfDUPLICATE001"
+ },
+ {
+  "original": "Alduin Buff",
+  "string": "Усиление Алдуина",
+  "form_id": "00000803|World Eater's Influence.esp",
+  "type": "SPEL FULL",
+  "index": null,
+  "editor_id": "aaa_AlduinBuff"
+ },
+ {
+  "original": "Old Record",
+  "string": "Старая запись",
+  "form_id": "00000801|World Eater's Influence.esp",
+  "type": "BOOK FULL",
+  "index": null,
+  "editor_id": "aaa_BladesRecord"
+ },
+ {
+  "original": "<font face='$HandwrittenFont'>It is said that the high ranking priests of the Dragon Cult performed rites to bind their very essences to Alduin, granting him strength beyond his natural capabilities. After poring over texts that belonged to the Dragon Cult, I have found some information on what those boons entail.\r\n[pagebreak]\r\nMorokei was always pushing the limits of his arcane capabilities. His attunement to Aetherius, the source of all magic, was further amplified by the mask which was bestowed unto him for loyal servitude to the dragons. His heightened attunement and arcane prowess allowed his rite to bind an arcane barrier to Alduin, dampening the effects of the spells and Shouts of those who dared challenge him.\r\n[pagebreak]\r\nNahkriin, Rahgot, and Volsung bound their vital essence to the World Eater, granting him increased health and vitality. It has been alluded to that Nahkriin's rite was significantly less potent than those of Rahgot and Volsung. Perhaps there was something else he bound to.\r\n\r\nTogether, the three made Alduin significantly more durable.\r\n[pagebreak]\r\nKrosis and Otar further heightened Alduin's vitality by imbuing his midnight scales with restorative energies, allowing any sustained wound to close and recover with unnatural speed.\r\n\r\nHevnoraak's rite granted Alduin similar capabilities to that of Krosis and Otar, but the means with which he accomplished this are undocumented. It is speculated that Hevnoraak spent much of his lifetime becoming adept with the very forces of life, that he planned his own resurrection through blood rites. It is also speculated that he mastered the art of enthrallment. Perhaps his rite originates from this unnatural talent.\r\n\r\nTogether, the three made Alduin practically impossible to wound significantly.\r\n[pagebreak]\r\nI do not know much about Vokun. Perhaps subtlety was his intent, as his name literally translates to \"Shadow.\" The mask which was bestowed unto him allows for greater utilization of some of the schools of magic.\r\n\r\nIt is recorded in these texts that his rite acted as a second arcane barrier for Alduin, though the texts do not go into how he achieved his rite (perhaps he, much like Morokei, was adept at utilizing magic, as his mask would suggest). When combined with Morokei's barrier, Alduin was made nearly invulnerable to all manner of spell or Shout.\r\n[pagebreak]\r\nIn summary of what I have gleaned from these texts, it would be nearly impossible to harm Alduin should the priests retain their power. Theoretically it could be done by a warrior of immense prowess, but to hypothetically challenge the masterwork of Akatosh at his highest power would be suicide.\r\n</font>",
+  "string": "<font face='$HandwrittenFont'>Говорят, что высшие жрецы Культа драконов совершали обряды, связывавшие саму их сущность с Алдуином и дававшие ему силу, превосходящую его природные возможности. Изучив тексты, принадлежавшие Культу драконов, я нашел кое-какие сведения о том, в чем заключались эти дары.\r\n[pagebreak]\r\nМорокей всегда стремился раздвинуть пределы своих магических способностей. Его настройка на Этериус, источник всей магии, многократно усиливалась маской, дарованной ему за верную службу драконам. Обостренная настройка и магическое мастерство позволили ему своим обрядом наложить на Алдуина магический барьер, ослаблявший заклинания и Крики тех, кто осмеливался бросить ему вызов.\r\n[pagebreak]\r\nНакрин, Рагот и Вольсунг связали свою жизненную сущность с Пожирателем Мира, даровав ему увеличенное здоровье и живучесть. Есть намеки, что обряд Накрина был заметно слабее обрядов Рагота и Вольсунга. Возможно, он связал себя с чем-то еще.\r\n\r\nВместе эти трое сделали Алдуина куда более выносливым.\r\n[pagebreak]\r\nКросис и Отар еще больше укрепили живучесть Алдуина, напитав его чешую цвета полуночи целительной энергией, благодаря которой любая полученная рана затягивалась и заживала с неестественной быстротой.\r\n\r\nОбряд Хевнорака дал Алдуину способности, схожие с теми, что дали Кросис и Отар, однако то, каким образом он этого добился, нигде не записано. Предполагают, что Хевнорак посвятил большую часть жизни постижению самих сил жизни и задумал собственное воскрешение через кровавые обряды. Предполагают также, что он овладел искусством порабощения разума. Быть может, его обряд берет начало в этом противоестественном таланте.\r\n\r\nВместе эти трое сделали так, что нанести Алдуину серьезную рану стало практически невозможно.\r\n[pagebreak]\r\nО Вокуне мне известно немного. Возможно, он намеренно держался в тени, ведь его имя буквально означает \"Тень\". Дарованная ему маска позволяет лучше владеть некоторыми школами магии.\r\n\r\nВ этих текстах записано, что его обряд служил Алдуину вторым магическим барьером, хотя тексты не объясняют, как ему это удалось (быть может, он, подобно Морокею, искусно владел магией, на что указывает и его маска). Вкупе с барьером Морокея это делало Алдуина почти неуязвимым для любых заклинаний и Криков.\r\n[pagebreak]\r\nПодводя итог тому, что мне удалось почерпнуть из этих текстов: пока жрецы сохраняют свою силу, ранить Алдуина почти невозможно. Теоретически это под силу воину невероятного мастерства, но бросить вызов величайшему творению Акатоша на пике его могущества было бы самоубийством.\r\n</font>",
+  "form_id": "00000801|World Eater's Influence.esp",
+  "type": "BOOK DESC",
+  "index": null,
+  "editor_id": "aaa_BladesRecord"
+ }
+]

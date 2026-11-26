@@ -1,0 +1,26 @@
+[
+ {
+  "original": "Dragon Priest Humanoid",
+  "string": "Драконий жрец (гуманоид)",
+  "form_id": "00000858|Humanoid Dragon Priest.esp",
+  "type": "RACE FULL",
+  "index": null,
+  "editor_id": "DragonPriestHumanoid"
+ },
+ {
+  "original": "Dragon Priest Humanoid Eye Glow",
+  "string": "Свечение глаз драконьего жреца",
+  "form_id": "00000895|Humanoid Dragon Priest.esp",
+  "type": "MGEF FULL",
+  "index": null,
+  "editor_id": "AbFXDragonPriestEye"
+ },
+ {
+  "original": "Dragon Priest Humanoid Eye Glow",
+  "string": "Свечение глаз драконьего жреца",
+  "form_id": "00000896|Humanoid Dragon Priest.esp",
+  "type": "SPEL FULL",
+  "index": null,
+  "editor_id": "AbDragonPriestEyeGlowEffect"
+ }
+]

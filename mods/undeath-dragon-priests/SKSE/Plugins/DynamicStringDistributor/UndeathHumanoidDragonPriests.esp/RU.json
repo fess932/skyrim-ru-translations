@@ -1,0 +1,74 @@
+[
+ {
+  "original": "Krosis",
+  "string": "Кросис",
+  "form_id": "00061CB9|Skyrim.esm",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "ArmorDragonPriestMaskBronzeHelmet"
+ },
+ {
+  "original": "Lockpicking, Archery, and Alchemy are <20>% better.",
+  "string": "Навыки взлома, стрельбы из лука и алхимии увеличены на <20>%.",
+  "form_id": "00061CB9|Skyrim.esm",
+  "type": "ARMO DESC",
+  "index": null,
+  "editor_id": "ArmorDragonPriestMaskBronzeHelmet"
+ },
+ {
+  "original": "Rahgot",
+  "string": "Рагот",
+  "form_id": "00061CC0|Skyrim.esm",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "ArmorDragonPriestMaskOrichalumHelmet"
+ },
+ {
+  "original": "Zahkriisos",
+  "string": "Закрисош",
+  "form_id": "00024037|Dragonborn.esm",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "DLC2ArmorAcolyteMaskShock"
+ },
+ {
+  "original": "Increases Shock Resistance by <50>% and Shock spell damage by <25>%.",
+  "string": "Увеличивает сопротивление электричеству на <50>% и урон от электрических заклинаний на <25>%.",
+  "form_id": "00024037|Dragonborn.esm",
+  "type": "ARMO DESC",
+  "index": null,
+  "editor_id": "DLC2ArmorAcolyteMaskShock"
+ },
+ {
+  "original": "Ahzidal",
+  "string": "Азидал",
+  "form_id": "000240FE|Dragonborn.esm",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "DLC2ArmorAcolyteMaskFire"
+ },
+ {
+  "original": "Increases Fire Resistance by <50>% and Fire spell damage by <25>%.",
+  "string": "Увеличивает сопротивление огню на <50>% и урон от заклинаний огня на <25>%.",
+  "form_id": "000240FE|Dragonborn.esm",
+  "type": "ARMO DESC",
+  "index": null,
+  "editor_id": "DLC2ArmorAcolyteMaskFire"
+ },
+ {
+  "original": "Dukaan",
+  "string": "Дукан",
+  "form_id": "000240FF|Dragonborn.esm",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "DLC2ArmorAcolyteMaskFrost"
+ },
+ {
+  "original": "Increases Frost Resistance by <50>% and Frost spell damage by <25>%.",
+  "string": "Увеличивает сопротивление холоду на <50>% и урон от заклинаний холода на <25>%.",
+  "form_id": "000240FF|Dragonborn.esm",
+  "type": "ARMO DESC",
+  "index": null,
+  "editor_id": "DLC2ArmorAcolyteMaskFrost"
+ }
+]

@@ -1,0 +1,42 @@
+[
+ {
+  "original": "Fake Black Soul Gem",
+  "string": "Фальшивый черный камень душ",
+  "form_id": "00000800|YASTM_UndeathPatch.esp",
+  "type": "SLGM FULL",
+  "index": null,
+  "editor_id": "NecroSoulGemBlackFilledPetty"
+ },
+ {
+  "original": "Fake Black Soul Gem",
+  "string": "Фальшивый черный камень душ",
+  "form_id": "00000801|YASTM_UndeathPatch.esp",
+  "type": "SLGM FULL",
+  "index": null,
+  "editor_id": "NecroSoulGemBlackFilledLesser"
+ },
+ {
+  "original": "Fake Black Soul Gem",
+  "string": "Фальшивый черный камень душ",
+  "form_id": "00000802|YASTM_UndeathPatch.esp",
+  "type": "SLGM FULL",
+  "index": null,
+  "editor_id": "NecroSoulGemBlackFilledCommon"
+ },
+ {
+  "original": "Fake Black Soul Gem",
+  "string": "Фальшивый черный камень душ",
+  "form_id": "00000803|YASTM_UndeathPatch.esp",
+  "type": "SLGM FULL",
+  "index": null,
+  "editor_id": "NecroSoulGemBlackFilledGreater"
+ },
+ {
+  "original": "Fake Black Soul Gem (White)",
+  "string": "Фальшивый черный камень душ (белый)",
+  "form_id": "00000804|YASTM_UndeathPatch.esp",
+  "type": "SLGM FULL",
+  "index": null,
+  "editor_id": "NecroSoulGemBlackFilledWhite"
+ }
+]

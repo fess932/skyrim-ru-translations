@@ -1,0 +1,250 @@
+[
+ {
+  "original": "LichSkin04Green",
+  "string": "LichSkin04Green",
+  "form_id": "000903D6|Undeath.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "NecroLichSkin08"
+ },
+ {
+  "original": "LichSkin03Green",
+  "string": "LichSkin03Green",
+  "form_id": "000903D4|Undeath.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "NecroLichSkin06"
+ },
+ {
+  "original": "LichSkin01Red",
+  "string": "LichSkin01Red",
+  "form_id": "00007E47|Undeath.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "NecroLichSkin01"
+ },
+ {
+  "original": "SkinSkeleton",
+  "string": "SkinSkeleton",
+  "form_id": "000B799A|Skyrim.esm",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "SkinSkeleton"
+ },
+ {
+  "original": "LichSkin01Green",
+  "string": "LichSkin01Green",
+  "form_id": "000903D0|Undeath.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "NecroLichSkin02"
+ },
+ {
+  "original": "LichSkin02Red",
+  "string": "LichSkin02Red",
+  "form_id": "000903D1|Undeath.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "NecroLichSkin03"
+ },
+ {
+  "original": "LichSkinSpectral",
+  "string": "LichSkinSpectral",
+  "form_id": "003377E9|Undeath.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "NecroLichSkinSpectral01"
+ },
+ {
+  "original": "SkinLich",
+  "string": "SkinLich",
+  "form_id": "00081629|Undeath.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "NecroSkinLich"
+ },
+ {
+  "original": "LichSkin02Green",
+  "string": "LichSkin02Green",
+  "form_id": "000903D2|Undeath.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "NecroLichSkin04"
+ },
+ {
+  "original": "LichSkin03Red",
+  "string": "LichSkin03Red",
+  "form_id": "000903D3|Undeath.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "NecroLichSkin05"
+ },
+ {
+  "original": "ZombieSkin",
+  "string": "ZombieSkin",
+  "form_id": "000BD7DA|Undeath.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "SkinZombie01"
+ },
+ {
+  "original": "LichSkin04Red",
+  "string": "LichSkin04Red",
+  "form_id": "000903D5|Undeath.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "NecroLichSkin07"
+ },
+ {
+  "original": "LichSkin01Black",
+  "string": "LichSkin01Black",
+  "form_id": "000F2489|Undeath.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "NecroLichSkin09"
+ },
+ {
+  "original": "LichSkin02Black",
+  "string": "LichSkin02Black",
+  "form_id": "000F248A|Undeath.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "NecroLichSkin10"
+ },
+ {
+  "original": "LichSkin03Black",
+  "string": "LichSkin03Black",
+  "form_id": "000F248B|Undeath.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "NecroLichSkin11"
+ },
+ {
+  "original": "LichSkin04Black",
+  "string": "LichSkin04Black",
+  "form_id": "000F248C|Undeath.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "NecroLichSkin12"
+ },
+ {
+  "original": "<img src='img://Textures/Interface/Books/NecroBookRitual/tomeofunlife01.png' height='451' width='256'>\r\n<img src='img://Textures/Interface/Books/NecroBookRitual/tomeofunlife02.png' height='451' width='256'>\r\n",
+  "string": "<img src='img://Textures/Interface/Books/NecroBookRitual/tomeofunlife01.png' height='451' width='256'>\r\n<img src='img://Textures/Interface/Books/NecroBookRitual/tomeofunlife02.png' height='451' width='256'>\r\n",
+  "form_id": "002BDBC4|Undeath.esp",
+  "type": "BOOK DESC",
+  "index": null,
+  "editor_id": "NecroTomeofUnlife"
+ },
+ {
+  "original": "AudioTemplateRieklingQuiet",
+  "string": "AudioTemplateRieklingQuiet",
+  "form_id": "0003D589|Dragonborn.esm",
+  "type": "NPC_ FULL",
+  "index": null,
+  "editor_id": "AudioTemplateRieklingQuiet"
+ },
+ {
+  "original": "AudioTemplateRiekling",
+  "string": "AudioTemplateRiekling",
+  "form_id": "0003D588|Dragonborn.esm",
+  "type": "NPC_ FULL",
+  "index": null,
+  "editor_id": "AudioTemplateRiekling"
+ },
+ {
+  "original": "Load Dummy",
+  "string": "Манекен загрузки",
+  "form_id": "000145A5|Dawnguard.esm",
+  "type": "NPC_ FULL",
+  "index": null,
+  "editor_id": "DLC1VQ02VampLordLoadDummy"
+ },
+ {
+  "original": "AudioTemplateVampireLord",
+  "string": "AudioTemplateVampireLord",
+  "form_id": "00011CD2|Dawnguard.esm",
+  "type": "NPC_ FULL",
+  "index": null,
+  "editor_id": "AudioTemplateVampireLord"
+ },
+ {
+  "original": "AudioTemplateWerebear",
+  "string": "AudioTemplateWerebear",
+  "form_id": "0001E290|Dragonborn.esm",
+  "type": "NPC_ FULL",
+  "index": null,
+  "editor_id": "AudioTemplateWerebear"
+ },
+ {
+  "original": "I have defeated all of Antioch's followers throughout Skyrim as they attempted to obtain various artifacts and components for him. I should search their bodies and see if they hold any clues as to their leader's whereabouts.",
+  "string": "Мне удалось устранить всех приспешников Антиоха в Скайриме, пытавшихся добыть для своего предводителя различные предметы. Нужно обыскать их тела и попробовать выведать какие-нибудь подсказки о местонахождении Антиоха.",
+  "form_id": "002BDBBF|Undeath.esp",
+  "type": "QUST CNAM",
+  "index": 10,
+  "editor_id": "NecroQuest05"
+ },
+ {
+  "original": "From a note I found on the body of a Necromancer, I have learned that their leader, Antioch, has traveled deep into the Dragontail Mountains in search of an ancient crypt known as 'Scourg Barrow'. He believes that he is closer than ever to the forbidden secrets he is searching for. I should hurry to the Dragontail Mountains myself, and put a stop to him before he finds what he is looking for.",
+  "string": "Из записки, обнаруженной на теле некроманта, мне удалось узнать, что их глава, Антиох, отправился в горы Драконий Хвост на поиски древнего склепа - Кургана Бедствий. Он убежден, что уже очень близок к тому, чтобы постичь запретные тайны. Мне стоит поспешить в горы Драконий Хвост и остановить его, пока этого не случилось.",
+  "form_id": "002BDBBF|Undeath.esp",
+  "type": "QUST CNAM",
+  "index": 20,
+  "editor_id": "NecroQuest05"
+ },
+ {
+  "original": "I have arrived at a frigid cliffisde trail, deep in the peaks of the Dragontail Mountains. An ancient crypt known as 'Scourg Barrow' is allegedly hidden here, where the Necromancer Antioch is attempting to unearth dark and forbidden knowledge. I should seek it out and put a stop to him.",
+  "string": "Я иду по холодной скалистой тропе в глубине гор Драконий Хвост. Здесь якобы спрятан древний склеп - Курган Бедствий, в котором хочет постичь запретные таинства некромант Антиох. Нужно найти его и остановить.",
+  "form_id": "002BDBBF|Undeath.esp",
+  "type": "QUST CNAM",
+  "index": 30,
+  "editor_id": "NecroQuest05"
+ },
+ {
+  "original": "I have entered the ancient crypt known as Scourg Barrow. The Necromancer Antioch is undoubtedly in the depths of these forgotten catacombs, seeking its forbidden secrets. I should find him and put a stop to his search personally.",
+  "string": "Я внутри древнего склепа, известного как Курган Бедствий. Некромант Антиох наверняка находится где-то в этих забытых пещерах - ищет запретные тайны. Нужно добраться до него и прекратить его изыскания.",
+  "form_id": "002BDBBF|Undeath.esp",
+  "type": "QUST CNAM",
+  "index": 40,
+  "editor_id": "NecroQuest05"
+ },
+ {
+  "original": "Antioch is defeated, and his artifacts and knowledge now lie in my possession, thus ending the threat to Skyrim. The secrets that he was searching for in these catacombs may still lie within, however...",
+  "string": "Антиох повержен! Его артефакты и знания отныне навсегда со мной. Некромант больше не будет грозить Скайриму. Однако тайны, за которыми он охотился в этих пещерах, по-прежнему не раскрыты...",
+  "form_id": "002BDBBF|Undeath.esp",
+  "type": "QUST CNAM",
+  "index": 50,
+  "editor_id": "NecroQuest05"
+ },
+ {
+  "original": "I have found and read the Black Book called \"Whispers of the Veil\" deep within Scourg Barrow, and found myself in Hermaeus Mora's realm of Apocrypha. The forbidden knowledge hidden here may be the secrets of the ritual the necromancer Antioch was seeking. I should press on to uncover it, or read the book again to escape.",
+  "string": "В глубинах Кургана Бедствий мне довелось найти и прочесть Черную Книгу под названием \"Шепот завесы\". Она перенесла меня в Апокриф, царство Хермеуса Мора. Среди скрытых здесь запретных знаний могут быть и тайны ритуала, которые искал некромант Антиох. Нужно скорее раскрыть их - или перечесть книгу, чтобы выбраться из Апокрифа.",
+  "form_id": "00125089|Undeath.esp",
+  "type": "QUST CNAM",
+  "index": 10,
+  "editor_id": "NecroBlackBookQuest01"
+ },
+ {
+  "original": "I have uncovered the forbidden knowledge contained in the Black Book \"Whispers of the Veil\" from deep within Apocrypha. The arcane secrets of transcendence have flooded my memory and I now know the lost rituals necessary to make myself an undead Lich. I have commited the ritual and it's components to parchment, and with the proper materials and preparation, I will have the means to become immortal. ",
+  "string": "Теперь мне ведомо запретное знание из глубин Апокрифа, что хранила в себе Черная книга \"Шепот завесы\". Секреты превосходства заполонили мое сознание: мне открылся забытый ритуал по превращению в лича. Оставив записи о нем и необходимых компонентах, я могу начать тщательно готовиться к обретению бессмертия.",
+  "form_id": "00125089|Undeath.esp",
+  "type": "QUST CNAM",
+  "index": 20,
+  "editor_id": "NecroBlackBookQuest01"
+ },
+ {
+  "original": "MultipleSummons",
+  "string": "Множественный вызов",
+  "form_id": "00106092|Skyrim.esm",
+  "type": "PERK FULL",
+  "index": null,
+  "editor_id": "doomRitualPerk"
+ },
+ {
+  "original": "NecroMultipleSummons",
+  "string": "Множественный вызов (некромантия)",
+  "form_id": "000F248E|Undeath.esp",
+  "type": "PERK FULL",
+  "index": null,
+  "editor_id": "NecroMassReanimatePerk"
+ }
+]

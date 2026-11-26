@@ -1,0 +1,1794 @@
+[
+ {
+  "original": "Construct Bone Pedestal",
+  "string": "Возведение костяного пьедестала",
+  "form_id": "0018BBF6|UndeathFixes.esp",
+  "type": "MGEF FULL",
+  "index": null,
+  "editor_id": "NecroUCLMovePhylacteryFFLocation"
+ },
+ {
+  "original": "Constructs a pedestal made of bone, suitable to house your phylactery.",
+  "string": "Возводит пьедестал из костей, пригодный для хранения вашей филактерии.",
+  "form_id": "0018BBF6|UndeathFixes.esp",
+  "type": "MGEF DNAM",
+  "index": null,
+  "editor_id": "NecroUCLMovePhylacteryFFLocation"
+ },
+ {
+  "original": "Evil Eye Glow Muahaha",
+  "string": "Зловещее свечение глаз (муа-ха-ха)",
+  "form_id": "00232FAD|UndeathFixes.esp",
+  "type": "MGEF FULL",
+  "index": null,
+  "editor_id": "NecroUCLHumanEyeFX"
+ },
+ {
+  "original": "Unused for now as eye glow is fucking ugly and not compatible with mesh replacers. ",
+  "string": "Пока не используется: свечение глаз чертовски уродливо и несовместимо с заменителями моделей.",
+  "form_id": "00232FAD|UndeathFixes.esp",
+  "type": "MGEF DNAM",
+  "index": null,
+  "editor_id": "NecroUCLHumanEyeFX"
+ },
+ {
+  "original": "Icepick Lobotomy",
+  "string": "Ледяная лоботомия",
+  "form_id": "00232FB0|UndeathFixes.esp",
+  "type": "MGEF FULL",
+  "index": null,
+  "editor_id": "NecroUCLIceCoffinBlockMagicka"
+ },
+ {
+  "original": "Living creatures encased in ice cannot cast spells for <30> seconds.",
+  "string": "Живые существа, заключенные в лед, не могут колдовать в течение <30> сек.",
+  "form_id": "00232FB0|UndeathFixes.esp",
+  "type": "MGEF DNAM",
+  "index": null,
+  "editor_id": "NecroUCLIceCoffinBlockMagicka"
+ },
+ {
+  "original": "Bane of Life Cloak Dmg",
+  "string": "Плащ Бич Жизни: урон",
+  "form_id": "0011735C|UndeathFixes.esp",
+  "type": "MGEF FULL",
+  "index": null,
+  "editor_id": "NecroPoisonBaneofLifeFFDmg"
+ },
+ {
+  "original": "Bane of Life Cloak Dmg",
+  "string": "Плащ Бич Жизни: урон",
+  "form_id": "0011735D|UndeathFixes.esp",
+  "type": "MGEF FULL",
+  "index": null,
+  "editor_id": "NecroPoisonBaneofLifeFFHeal"
+ },
+ {
+  "original": "Unshackled Phylactery",
+  "string": "Освобожденная филактерия",
+  "form_id": "001F628A|UndeathFixes.esp",
+  "type": "MGEF FULL",
+  "index": null,
+  "editor_id": "NecroPerkPhylacteryDisabled"
+ },
+ {
+  "original": "Dark Resurgence is inactive while your phylactery is unshackled.",
+  "string": "Нечестивое Воскрешение не действует, пока ваша филактерия не закреплена.",
+  "form_id": "001F628A|UndeathFixes.esp",
+  "type": "MGEF DNAM",
+  "index": null,
+  "editor_id": "NecroPerkPhylacteryDisabled"
+ },
+ {
+  "original": "only used by dracolich in UCL. ",
+  "string": "Используется только драколичем в UCL.",
+  "form_id": "0005839B|Undeath.esp",
+  "type": "SPEL DESC",
+  "index": null,
+  "editor_id": "NecroPoisonSpray"
+ },
+ {
+  "original": "Construct Bone Pedestal",
+  "string": "Возведение костяного пьедестала",
+  "form_id": "0018BBF7|UndeathFixes.esp",
+  "type": "SPEL FULL",
+  "index": null,
+  "editor_id": "NecroUCLMovePhylacterySpell"
+ },
+ {
+  "original": "Phylactery",
+  "string": "Филактерия",
+  "form_id": "00190D21|UndeathFixes.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "NecroLichRitualPhylacteryActivatorMovableOrb"
+ },
+ {
+  "original": "Activate",
+  "string": "Активировать:",
+  "form_id": "00190D21|UndeathFixes.esp",
+  "type": "ACTI RNAM",
+  "index": null,
+  "editor_id": "NecroLichRitualPhylacteryActivatorMovableOrb"
+ },
+ {
+  "original": "Pedestal",
+  "string": "Пьедестал",
+  "form_id": "00186AE1|UndeathFixes.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "NecroLichRitualPhylacteryActivatorMovablePedestal"
+ },
+ {
+  "original": "LichSkinWhiteSkel_Elf",
+  "string": "LichSkinWhiteSkel_Elf",
+  "form_id": "0020A6D8|UndeathFixes.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "NecroLichSkinWhiteSkel_Elf"
+ },
+ {
+  "original": "LichSkinWhiteSkel_Orc",
+  "string": "LichSkinWhiteSkel_Orc",
+  "form_id": "0020A6D9|UndeathFixes.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "NecroLichSkinWhiteSkel_Orc"
+ },
+ {
+  "original": "LichSkin01Red",
+  "string": "LichSkin01Red",
+  "form_id": "00007E47|Undeath.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "NecroLichSkin01"
+ },
+ {
+  "original": "LichSkinBlackFlesh_Argonian",
+  "string": "LichSkinBlackFlesh_Argonian",
+  "form_id": "00247415|UndeathFixes.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "NecroLichSkinBlackFlesh_Argonian"
+ },
+ {
+  "original": "LichSkinBlackFlesh_Khajiit",
+  "string": "LichSkinBlackFlesh_Khajiit",
+  "form_id": "00247416|UndeathFixes.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "NecroLichSkinBlackFlesh_Khajiit"
+ },
+ {
+  "original": "LichSkinRedSkel_Elf",
+  "string": "LichSkinRedSkel_Elf",
+  "form_id": "0020A6E0|UndeathFixes.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "NecroLichSkinRedSkel_Elf"
+ },
+ {
+  "original": "LichSkinRedSkel_Orc",
+  "string": "LichSkinRedSkel_Orc",
+  "form_id": "0020A6E1|UndeathFixes.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "NecroLichSkinRedSkel_Orc"
+ },
+ {
+  "original": "LichSkinWhiteFlesh",
+  "string": "LichSkinWhiteFlesh",
+  "form_id": "000E99AA|UndeathFixes.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "NecroLichSkinWhiteFlesh"
+ },
+ {
+  "original": "LichSkinWhiteSkel",
+  "string": "LichSkinWhiteSkel",
+  "form_id": "000E99AB|UndeathFixes.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "NecroLichSkinWhiteSkel"
+ },
+ {
+  "original": "LichSkinDragonPriest",
+  "string": "LichSkinDragonPriest",
+  "form_id": "000E99B5|UndeathFixes.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "NecroLichSkinDragonPriest"
+ },
+ {
+  "original": "LichSkinAyleid",
+  "string": "LichSkinAyleid",
+  "form_id": "000F3BE0|UndeathFixes.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "NecroLichSkinAyleid"
+ },
+ {
+  "original": "LichSkinBlackFlesh_Elf",
+  "string": "LichSkinBlackFlesh_Elf",
+  "form_id": "00247413|UndeathFixes.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "NecroLichSkinBlackFlesh_Elf"
+ },
+ {
+  "original": "LichSkinBlackFlesh_Orc",
+  "string": "LichSkinBlackFlesh_Orc",
+  "form_id": "00247414|UndeathFixes.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "NecroLichSkinBlackFlesh_Orc"
+ },
+ {
+  "original": "LichSkinWhiteSkel_Argonian",
+  "string": "LichSkinWhiteSkel_Argonian",
+  "form_id": "0020A6DA|UndeathFixes.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "NecroLichSkinWhiteSkel_Argonian"
+ },
+ {
+  "original": "LichSkinWhiteSkel_Khajiit",
+  "string": "LichSkinWhiteSkel_Khajiit",
+  "form_id": "0020A6DB|UndeathFixes.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "NecroLichSkinWhiteSkel_Khajiit"
+ },
+ {
+  "original": "LichSkinGreenFlesh_Argonian",
+  "string": "LichSkinGreenFlesh_Argonian",
+  "form_id": "00247411|UndeathFixes.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "NecroLichSkinGreenFlesh_Argonian"
+ },
+ {
+  "original": "LichSkinGreenFlesh_Khajiit",
+  "string": "LichSkinGreenFlesh_Khajiit",
+  "form_id": "00247412|UndeathFixes.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "NecroLichSkinGreenFlesh_Khajiit"
+ },
+ {
+  "original": "LichSkinRedSkel_Argonian",
+  "string": "LichSkinRedSkel_Argonian",
+  "form_id": "0020A6E2|UndeathFixes.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "NecroLichSkinRedSkel_Argonian"
+ },
+ {
+  "original": "LichSkinRedSkel_Khajiit",
+  "string": "LichSkinRedSkel_Khajiit",
+  "form_id": "0020A6E3|UndeathFixes.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "NecroLichSkinRedSkel_Khajiit"
+ },
+ {
+  "original": "LichSkinGreenSkel_Elf",
+  "string": "LichSkinGreenSkel_Elf",
+  "form_id": "0020A6E8|UndeathFixes.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "NecroLichSkinGreenSkel_Elf"
+ },
+ {
+  "original": "LichSkinGreenSkel_Orc",
+  "string": "LichSkinGreenSkel_Orc",
+  "form_id": "0020A6E9|UndeathFixes.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "NecroLichSkinGreenSkel_Orc"
+ },
+ {
+  "original": "LichSkinGreenSkel_Argonian",
+  "string": "LichSkinGreenSkel_Argonian",
+  "form_id": "0020A6EA|UndeathFixes.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "NecroLichSkinGreenSkel_Argonian"
+ },
+ {
+  "original": "LichSkinGreenSkel_Khajiit",
+  "string": "LichSkinGreenSkel_Khajiit",
+  "form_id": "0020A6EB|UndeathFixes.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "NecroLichSkinGreenSkel_Khajiit"
+ },
+ {
+  "original": "LichSkinBlackSkel_Elf",
+  "string": "LichSkinBlackSkel_Elf",
+  "form_id": "0020A6F0|UndeathFixes.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "NecroLichSkinBlackSkel_Elf"
+ },
+ {
+  "original": "LichSkinBlackSkel_Orc",
+  "string": "LichSkinBlackSkel_Orc",
+  "form_id": "0020A6F1|UndeathFixes.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "NecroLichSkinBlackSkel_Orc"
+ },
+ {
+  "original": "LichSkinBlackSkel_Argonian",
+  "string": "LichSkinBlackSkel_Argonian",
+  "form_id": "0020A6F2|UndeathFixes.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "NecroLichSkinBlackSkel_Argonian"
+ },
+ {
+  "original": "LichSkinBlackSkel_Khajiit",
+  "string": "LichSkinBlackSkel_Khajiit",
+  "form_id": "0020A6F3|UndeathFixes.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "NecroLichSkinBlackSkel_Khajiit"
+ },
+ {
+  "original": "LichSkinUnderking",
+  "string": "LichSkinUnderking",
+  "form_id": "00214921|UndeathFixes.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "NecroLichSkinUnderking"
+ },
+ {
+  "original": "LichSkinWhiteFlesh_Elf",
+  "string": "LichSkinWhiteFlesh_Elf",
+  "form_id": "00247407|UndeathFixes.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "NecroLichSkinWhiteFlesh_Elf"
+ },
+ {
+  "original": "LichSkinWhiteFlesh_Orc",
+  "string": "LichSkinWhiteFlesh_Orc",
+  "form_id": "00247408|UndeathFixes.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "NecroLichSkinWhiteFlesh_Orc"
+ },
+ {
+  "original": "LichSkinWhiteFlesh_Argonian",
+  "string": "LichSkinWhiteFlesh_Argonian",
+  "form_id": "00247409|UndeathFixes.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "NecroLichSkinWhiteFlesh_Argonian"
+ },
+ {
+  "original": "LichSkinWhiteFlesh_Khajiit",
+  "string": "LichSkinWhiteFlesh_Khajiit",
+  "form_id": "0024740A|UndeathFixes.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "NecroLichSkinWhiteFlesh_Khajiit"
+ },
+ {
+  "original": "LichSkinRedFlesh_Elf",
+  "string": "LichSkinRedFlesh_Elf",
+  "form_id": "0024740B|UndeathFixes.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "NecroLichSkinRedFlesh_Elf"
+ },
+ {
+  "original": "LichSkinRedFlesh_Orc",
+  "string": "LichSkinRedFlesh_Orc",
+  "form_id": "0024740C|UndeathFixes.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "NecroLichSkinRedFlesh_Orc"
+ },
+ {
+  "original": "LichSkinRedFlesh_Argonian",
+  "string": "LichSkinRedFlesh_Argonian",
+  "form_id": "0024740D|UndeathFixes.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "NecroLichSkinRedFlesh_Argonian"
+ },
+ {
+  "original": "LichSkinRedFlesh_Khajiit",
+  "string": "LichSkinRedFlesh_Khajiit",
+  "form_id": "0024740E|UndeathFixes.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "NecroLichSkinRedFlesh_Khajiit"
+ },
+ {
+  "original": "LichSkinGreenFlesh_Elf",
+  "string": "LichSkinGreenFlesh_Elf",
+  "form_id": "0024740F|UndeathFixes.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "NecroLichSkinGreenFlesh_Elf"
+ },
+ {
+  "original": "LichSkinGreenFlesh_Orc",
+  "string": "LichSkinGreenFlesh_Orc",
+  "form_id": "00247410|UndeathFixes.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "NecroLichSkinGreenFlesh_Orc"
+ },
+ {
+  "original": "<img src='img://Textures/Interface/Books/NecroBookRitual/tomeofunlife01.png' height='451' width='256'>\r\n<img src='img://Textures/Interface/Books/NecroBookRitual/tomeofunlife02.png' height='451' width='256'>\r\n",
+  "string": "<img src='img://Textures/Interface/Books/NecroBookRitual/tomeofunlife01.png' height='451' width='256'>\r\n<img src='img://Textures/Interface/Books/NecroBookRitual/tomeofunlife02.png' height='451' width='256'>\r\n",
+  "form_id": "002BDBC4|Undeath.esp",
+  "type": "BOOK DESC",
+  "index": null,
+  "editor_id": "NecroTomeofUnlife"
+ },
+ {
+  "original": "Poem Of An Ancient Lich",
+  "string": "Стихи древнего лича",
+  "form_id": "001A0057|UndeathFixes.esp",
+  "type": "BOOK FULL",
+  "index": null,
+  "editor_id": "NecroUCL_PoemHorace"
+ },
+ {
+  "original": "<font face=\"$HandwrittenFont\">\r\n\r\nSee Scourg Barrow shining in the snow.\r\nSee how the laboring overladen trees\r\nCan scarcely bear their burdens any longer.\r\nSee how the streams are frozen in the cold.\r\n\r\n\r\n</font>",
+  "string": "<font face=\"$HandwrittenFont\">\r\n\r\nВзгляни: Курган Бедствий в снегу сияет.\r\nВзгляни, как деревья, отягощенные трудом,\r\nЕдва выносят ношу из последних сил.\r\nВзгляни, как реки скованы морозом.\r\n\r\n\r\n</font>",
+  "form_id": "001A0057|UndeathFixes.esp",
+  "type": "BOOK DESC",
+  "index": null,
+  "editor_id": "NecroUCL_PoemHorace"
+ },
+ {
+  "original": "My Phylactery",
+  "string": "Моя филактерия",
+  "form_id": "001BE6C5|UndeathFixes.esp",
+  "type": "MISC FULL",
+  "index": null,
+  "editor_id": "NecroLichPhylacteryDuplicate"
+ },
+ {
+  "original": "Priest of Arkay",
+  "string": "Жрец Аркея",
+  "form_id": "0026ABA0|UndeathFixes.esp",
+  "type": "NPC_ FULL",
+  "index": null,
+  "editor_id": "JS_NecroArkayPriest03b"
+ },
+ {
+  "original": "Priest",
+  "string": "Священник ",
+  "form_id": "0026ABA0|UndeathFixes.esp",
+  "type": "NPC_ SHRT",
+  "index": null,
+  "editor_id": "JS_NecroArkayPriest03b"
+ },
+ {
+  "original": "You're a priest? Who do you serve?",
+  "string": "Ты священник? Кому ты служишь?",
+  "form_id": "0026FCB4|UndeathFixes.esp",
+  "type": "DIAL FULL",
+  "index": null,
+  "editor_id": "JS_ArkayTemple_PriestOutsideTopic"
+ },
+ {
+  "original": "Arkay. One of the Eight Divines. God of the Cycle of Birth and Death.",
+  "string": "Аркей. Один из Восьми божеств. Бог Цикла Рождения и Смерти.",
+  "form_id": "0026FCB5|UndeathFixes.esp",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "Do followers of Arkay embrace death?",
+  "string": "Последователи Аркея принимают смерть?",
+  "form_id": "0026FCB7|UndeathFixes.esp",
+  "type": "DIAL FULL",
+  "index": null,
+  "editor_id": "JS_ArkayTemple_EmbraceDeathTopic"
+ },
+ {
+  "original": "We all come into Arkay's light in the end, but there's no need to rush.",
+  "string": "В конце концов все мы уходим в свет Аркея, но зачем торопиться?",
+  "form_id": "0026FCB8|UndeathFixes.esp",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "Be careful, friend. Arkay keep you and protect you.",
+  "string": "Будь осторожен, друг. Да хранит и оберегает тебя Аркей.",
+  "form_id": "0026FCB8|UndeathFixes.esp",
+  "type": "INFO NAM1",
+  "index": 2,
+  "editor_id": null
+ },
+ {
+  "original": "You seem young for a priest. Wouldn't you rather be an adventurer?",
+  "string": "Для священника ты слишком молод. Не хочешь стать искателем приключений?",
+  "form_id": "0026FCBA|UndeathFixes.esp",
+  "type": "DIAL FULL",
+  "index": null,
+  "editor_id": "JS_ArkayTemple_TooYoungTopic"
+ },
+ {
+  "original": "Hmph. I'd rather stay here, have a glass of wine, and perform my rites to Arkay in peace.",
+  "string": "Хм. Я уж лучше останусь здесь, выпью бокал вина и спокойно буду служить Аркею.",
+  "form_id": "0026FCBB|UndeathFixes.esp",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "It's not the most exciting place in the world, but I'm content, and isn't that all that matters?",
+  "string": "Не самое увлекательное место на свете, но я доволен. А разве не это главное?",
+  "form_id": "0026FCBB|UndeathFixes.esp",
+  "type": "INFO NAM1",
+  "index": 2,
+  "editor_id": null
+ },
+ {
+  "original": "Isn't it dangerous out here?",
+  "string": "Разве здесь не опасно?",
+  "form_id": "0026FCBD|UndeathFixes.esp",
+  "type": "DIAL FULL",
+  "index": null,
+  "editor_id": "JS_ArkayTemple_TroubleOutHereTopic"
+ },
+ {
+  "original": "Don't worry, Arkay's protection is absolute.",
+  "string": "Не бойся, защита Аркея всесильна.",
+  "form_id": "0026FCBE|UndeathFixes.esp",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "Is there anything I can do for you?",
+  "string": "Могу ли я чем-то тебе помочь?",
+  "form_id": "0026FCC0|UndeathFixes.esp",
+  "type": "DIAL FULL",
+  "index": null,
+  "editor_id": "JS_ArkayTemple_HelpWithAnythingTopic"
+ },
+ {
+  "original": "Well, the Priesthood of Arkay always accepts generous donations.",
+  "string": "Что ж, жрецы Аркея не отвергают щедрых пожертвований.",
+  "form_id": "0026FCC1|UndeathFixes.esp",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "Here, this is for the Temple. (200 Gold)",
+  "string": "Вот, это для Храма. (200 золотых)",
+  "form_id": "0026FCC2|UndeathFixes.esp",
+  "type": "DIAL FULL",
+  "index": null,
+  "editor_id": "JS_ArkayTemple_Donation"
+ },
+ {
+  "original": "That's no small amount of coin, friend.",
+  "string": "Это немаленькие деньги, друг.",
+  "form_id": "0026FCC3|UndeathFixes.esp",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "Thank you. Here, this is for you.",
+  "string": "Спасибо. Вот, это тебе.",
+  "form_id": "0026FCC3|UndeathFixes.esp",
+  "type": "INFO NAM1",
+  "index": 2,
+  "editor_id": null
+ },
+ {
+  "original": "You seem to be a little short on coin. Come back and see me when you've got the gold.",
+  "string": "Похоже, у тебя маловато монет. Когда наберешь достаточно, возвращайся.",
+  "form_id": "0026FCC4|UndeathFixes.esp",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "Not today, sorry.",
+  "string": "Не сегодня, извини.",
+  "form_id": "0026FCC5|UndeathFixes.esp",
+  "type": "DIAL FULL",
+  "index": null,
+  "editor_id": "JS_ArkayTemple_NopeSorry"
+ },
+ {
+  "original": "Sure, I understand.",
+  "string": "Конечно, я понимаю.",
+  "form_id": "0026FCC6|UndeathFixes.esp",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "Stay safe out here, brother.",
+  "string": "Береги себя, брат.",
+  "form_id": "0026FCC8|UndeathFixes.esp",
+  "type": "DIAL FULL",
+  "index": null,
+  "editor_id": "JS_ArkayTemple_BlessingOfArkayTopic"
+ },
+ {
+  "original": "Of course. Arkay keep you and protect you.",
+  "string": "Разумеется. Да хранит и оберегает тебя Аркей.",
+  "form_id": "0026FCC9|UndeathFixes.esp",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "Hello friend! Arkay's blessing to you. What brings you out this way?",
+  "string": "Привет, друг! Благословение Аркея тебе. Что привело тебя в эти края?",
+  "form_id": "0026FCCB|UndeathFixes.esp",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "Arkay's blessing to you.",
+  "string": "Да благословит тебя Аркей.",
+  "form_id": "0026FCCC|UndeathFixes.esp",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "Arkay watch over you.",
+  "string": "Да хранит тебя Аркей.",
+  "form_id": "0026FCCD|UndeathFixes.esp",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "The blessing of Arkay be upon you.",
+  "string": "Да благословит тебя Аркей.",
+  "form_id": "0026FCCE|UndeathFixes.esp",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "Hello, my child. Arkay watch over you.",
+  "string": "Приветствую, дитя мое. Да хранит тебя Аркей.",
+  "form_id": "0026FCCF|UndeathFixes.esp",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "Blessings of Arkay be upon you.",
+  "string": "Да пребудет с тобой благословение Аркея.",
+  "form_id": "0026FCD0|UndeathFixes.esp",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "Too few remember to honor the god of the dead. Do not be one of those.",
+  "string": "Слишком многие забывают почтить бога мертвых. Не уподобляйся им.",
+  "form_id": "0026FCD1|UndeathFixes.esp",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "I'm busy, and you're bothering me. So go away.",
+  "string": "Я занята, а ты меня отвлекаешь. Уходи уже.",
+  "form_id": "0026FCD2|UndeathFixes.esp",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "Please to meet you, I'm a priestess at the Temple of Arkay. What can I help you with, my child?",
+  "string": "Рада знакомству. Я жрица Храма Аркея. Чем я могу помочь тебе, дитя мое?",
+  "form_id": "0026FCD3|UndeathFixes.esp",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "Did you want something? I'm quite busy.",
+  "string": "Тебе что-то нужно? Я очень занята.",
+  "form_id": "0026FCD4|UndeathFixes.esp",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "Arkay protect you.",
+  "string": "Храни тебя Аркей.",
+  "form_id": "0026FCD6|UndeathFixes.esp",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "Why build a temple of Arkay out here?",
+  "string": "Зачем строить храм Аркея в такой глуши?",
+  "form_id": "0026FCD8|UndeathFixes.esp",
+  "type": "DIAL FULL",
+  "index": null,
+  "editor_id": "JS_ArkayTemple_MaleNord_TempleTopic"
+ },
+ {
+  "original": "This is very peaceful place. Very... disconnected from the troubles of this world.",
+  "string": "Это очень спокойное место. Очень... отрешенное от бед этого мира.",
+  "form_id": "0026FCD9|UndeathFixes.esp",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "What are your thoughts on necromancy?",
+  "string": "Что ты думаешь о некромантии?",
+  "form_id": "0026FCDB|UndeathFixes.esp",
+  "type": "DIAL FULL",
+  "index": null,
+  "editor_id": "JS_ArkayTemple_MaleNord_NecromancyTopic"
+ },
+ {
+  "original": "As a priest of Arkay, I've had to deal with Necromancy before...",
+  "string": "Как жрецу Аркея, мне уже приходилось сталкиваться с некромантией...",
+  "form_id": "0026FCDC|UndeathFixes.esp",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "Seen enough magic in my day to know to stay away from it. ",
+  "string": "Насмотрелся я на своем веку магии, так что знаю: от нее лучше держаться подальше.",
+  "form_id": "0026FCDC|UndeathFixes.esp",
+  "type": "INFO NAM1",
+  "index": 2,
+  "editor_id": null
+ },
+ {
+  "original": "The spirits of the dead won't look kindly upon it.",
+  "string": "Духам мертвых это не понравится.",
+  "form_id": "0026FCDC|UndeathFixes.esp",
+  "type": "INFO NAM1",
+  "index": 3,
+  "editor_id": null
+ },
+ {
+  "original": "Arkay helps us find peace with death.",
+  "string": "Аркей помогает нам обрести покой в смерти.",
+  "form_id": "0026FCDC|UndeathFixes.esp",
+  "type": "INFO NAM1",
+  "index": 4,
+  "editor_id": null
+ },
+ {
+  "original": "Thank you, traveler. I'm getting out of here!",
+  "string": "Спасибо, путник. Я ухожу отсюда!",
+  "form_id": "00274DEF|UndeathFixes.esp",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "Please... mercy...",
+  "string": "Прошу... пощады...",
+  "form_id": "00274DF1|UndeathFixes.esp",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "Are you here to save me?",
+  "string": "Ты здесь, чтобы спасти меня?",
+  "form_id": "00274DF2|UndeathFixes.esp",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "Are you here to save me?",
+  "string": "Ты здесь, чтобы спасти меня?",
+  "form_id": "00274DF4|UndeathFixes.esp",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "Please... mercy...",
+  "string": "Прошу... пощады...",
+  "form_id": "00274DF5|UndeathFixes.esp",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "What is this place?",
+  "string": "Что это за место?",
+  "form_id": "00274DF7|UndeathFixes.esp",
+  "type": "DIAL FULL",
+  "index": null,
+  "editor_id": "JS_ArkayTemple_SlyMaraTopic"
+ },
+ {
+  "original": "What does this look like, the Temple of Mara? Ha ha!",
+  "string": "А на что это похоже, на Храм Мары? Ха-ха!",
+  "form_id": "00274DF8|UndeathFixes.esp",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "Arkay is the god of life and death. You'll find his temples and Halls of the Dead all across Tamriel.",
+  "string": "Аркей - бог жизни и смерти. Его храмы и Залы мертвых есть по всему Тамриэлю.",
+  "form_id": "00274DF8|UndeathFixes.esp",
+  "type": "INFO NAM1",
+  "index": 2,
+  "editor_id": null
+ },
+ {
+  "original": "What do you do here?",
+  "string": "Чем ты здесь занимаешься?",
+  "form_id": "00274DFA|UndeathFixes.esp",
+  "type": "DIAL FULL",
+  "index": null,
+  "editor_id": "JS_ArkayTemple_SlyDoHereTopic"
+ },
+ {
+  "original": "Priests of Arkay such as myself perform rites for the dead and sometimes console the bereaved.",
+  "string": "Жрецы Аркея, вроде меня, проводят ритуалы по усопшим и изредка утешают горюющих.",
+  "form_id": "00274DFB|UndeathFixes.esp",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "Now go, leave me to my work.",
+  "string": "Теперь уходи. Мне нужно работать.",
+  "form_id": "00274DFB|UndeathFixes.esp",
+  "type": "INFO NAM1",
+  "index": 2,
+  "editor_id": null
+ },
+ {
+  "original": "What should I know about Arkay?",
+  "string": "Что мне нужно знать об Аркее?",
+  "form_id": "00274DFD|UndeathFixes.esp",
+  "type": "DIAL FULL",
+  "index": null,
+  "editor_id": "JS_ArkayTemple_OldArkayTopic"
+ },
+ {
+  "original": "Without birth there is no life, without death there is only stasis. Such is the truth of Arkay.",
+  "string": "Без рождения нет жизни, но без смерти есть только застой. Такова истина Аркея.",
+  "form_id": "00274DFE|UndeathFixes.esp",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "Life and death? I'd much rather stay alive.",
+  "string": "Жизнь и смерть? Я бы предпочел остаться в живых.",
+  "form_id": "00274DFF|UndeathFixes.esp",
+  "type": "DIAL FULL",
+  "index": null,
+  "editor_id": "JS_ArkayTemple_StayAlive"
+ },
+ {
+  "original": "We'll all meet Arkay sooner or later. Best to enjoy the time we've got.",
+  "string": "Рано или поздно мы все уходим к Аркею. Нужно наслаждаться тем сроком, что нам отпущен.",
+  "form_id": "00274E00|UndeathFixes.esp",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "May Arkay bless you with a long life, a proud death, and a restful grave.",
+  "string": "Пусть дарует тебе милостивый Аркей долгую жизнь, достойную смерть и покой после смерти.",
+  "form_id": "00274E00|UndeathFixes.esp",
+  "type": "INFO NAM1",
+  "index": 2,
+  "editor_id": null
+ },
+ {
+  "original": "I have defeated all of Antioch's followers throughout Skyrim as they attempted to obtain various artifacts and components for him. I should search their bodies and see if they hold any clues as to their leader's whereabouts.",
+  "string": "Мне удалось устранить всех приспешников Антиоха в Скайриме, пытавшихся добыть для своего предводителя различные предметы. Нужно обыскать их тела и попробовать выведать какие-нибудь подсказки о местонахождении Антиоха.",
+  "form_id": "002BDBBF|Undeath.esp",
+  "type": "QUST CNAM",
+  "index": 10,
+  "editor_id": "NecroQuest05"
+ },
+ {
+  "original": "From a note I found on the body of a Necromancer, I have learned that their leader, Antioch, has traveled deep into the Dragontail Mountains in search of an ancient crypt known as 'Scourg Barrow'. He believes that he is closer than ever to the forbidden secrets he is searching for. I should hurry to the Dragontail Mountains myself, and put a stop to him before he finds what he is looking for.",
+  "string": "Из записки, обнаруженной на теле некроманта, мне удалось узнать, что их глава, Антиох, отправился в горы Драконий Хвост на поиски древнего склепа - Кургана Бедствий. Он убежден, что уже очень близок к тому, чтобы постичь запретные тайны. Мне стоит поспешить в горы Драконий Хвост и остановить его, пока этого не случилось.",
+  "form_id": "002BDBBF|Undeath.esp",
+  "type": "QUST CNAM",
+  "index": 20,
+  "editor_id": "NecroQuest05"
+ },
+ {
+  "original": "I have arrived at a frigid cliffisde trail, deep in the peaks of the Dragontail Mountains. An ancient crypt known as 'Scourg Barrow' is allegedly hidden here, where the Necromancer Antioch is attempting to unearth dark and forbidden knowledge. I should seek it out and put a stop to him.",
+  "string": "Я иду по холодной скалистой тропе в глубине гор Драконий Хвост. Здесь якобы спрятан древний склеп - Курган Бедствий, в котором хочет постичь запретные таинства некромант Антиох. Нужно найти его и остановить.",
+  "form_id": "002BDBBF|Undeath.esp",
+  "type": "QUST CNAM",
+  "index": 30,
+  "editor_id": "NecroQuest05"
+ },
+ {
+  "original": "I have entered the ancient crypt known as Scourg Barrow. The Necromancer Antioch is undoubtedly in the depths of these forgotten catacombs, seeking its forbidden secrets. I should find him and put a stop to his search personally.",
+  "string": "Я внутри древнего склепа, известного как Курган Бедствий. Некромант Антиох наверняка находится где-то в этих забытых пещерах - ищет запретные тайны. Нужно добраться до него и прекратить его изыскания.",
+  "form_id": "002BDBBF|Undeath.esp",
+  "type": "QUST CNAM",
+  "index": 40,
+  "editor_id": "NecroQuest05"
+ },
+ {
+  "original": "Antioch is defeated, and his artifacts and knowledge now lie in my possession, thus ending the threat to Skyrim. The secrets that he was searching for in these catacombs may still lie within, however...",
+  "string": "Антиох повержен! Его артефакты и знания отныне навсегда со мной. Некромант больше не будет грозить Скайриму. Однако тайны, за которыми он охотился в этих пещерах, по-прежнему не раскрыты...",
+  "form_id": "002BDBBF|Undeath.esp",
+  "type": "QUST CNAM",
+  "index": 50,
+  "editor_id": "NecroQuest05"
+ },
+ {
+  "original": "A Lich Pilgrimage",
+  "string": "Паломничество лича",
+  "form_id": "001B449D|UndeathFixes.esp",
+  "type": "QUST FULL",
+  "index": null,
+  "editor_id": "NecroUCLRelocatePhylacteryQuest"
+ },
+ {
+  "original": "I am vulnerable while my phylactery is unshackled. This pilgrimage may be perilous, though I have overcome far greater dangers in my mortal life.",
+  "string": "Пока моя филактерия не закреплена, я уязвим. Это паломничество может быть опасным, но в своей смертной жизни мне доводилось преодолевать куда большие опасности.",
+  "form_id": "001B449D|UndeathFixes.esp",
+  "type": "QUST CNAM",
+  "index": 10,
+  "editor_id": "NecroUCLRelocatePhylacteryQuest"
+ },
+ {
+  "original": "I must retrieve my phylactery before I can continue. Without my phylactery with me, I am unable to reform upon death.",
+  "string": "Прежде чем продолжить, нужно забрать филактерию. Без нее я не смогу возродиться после смерти.",
+  "form_id": "001B449D|UndeathFixes.esp",
+  "type": "QUST CNAM",
+  "index": 20,
+  "editor_id": "NecroUCLRelocatePhylacteryQuest"
+ },
+ {
+  "original": "I have retrieved my phylactery.",
+  "string": "Филактерия снова у меня.",
+  "form_id": "001B449D|UndeathFixes.esp",
+  "type": "QUST CNAM",
+  "index": 25,
+  "editor_id": "NecroUCLRelocatePhylacteryQuest"
+ },
+ {
+  "original": "I have erected a pedestal for my phylactery. I must now reshackle my phylactery to the pedestal.",
+  "string": "Пьедестал для филактерии возведен. Теперь нужно снова закрепить на нем филактерию.",
+  "form_id": "001B449D|UndeathFixes.esp",
+  "type": "QUST CNAM",
+  "index": 40,
+  "editor_id": "NecroUCLRelocatePhylacteryQuest"
+ },
+ {
+  "original": "I have rehoused my phylactery in a new lair. Henceforth, my physical form will reform at this location, should I fall in battle.",
+  "string": "Моя филактерия обрела новое убежище. Отныне, если мне доведется пасть в бою, мое тело будет возрождаться здесь.",
+  "form_id": "001B449D|UndeathFixes.esp",
+  "type": "QUST CNAM",
+  "index": 50,
+  "editor_id": "NecroUCLRelocatePhylacteryQuest"
+ },
+ {
+  "original": "Belethor has offered me a price I cannot refuse. I shall serve Him and aid the store in whatever way I can.",
+  "string": "Белетор сделал мне предложение, от которого невозможно отказаться. Я буду служить Ему и помогать лавке всем, чем смогу.",
+  "form_id": "001B449D|UndeathFixes.esp",
+  "type": "QUST CNAM",
+  "index": 66,
+  "editor_id": "NecroUCLRelocatePhylacteryQuest"
+ },
+ {
+  "original": "Alas, I have sold my soul to Belethor. I shall serve Him and aid the store in whatever way I can.",
+  "string": "Увы, моя душа продана Белетору. Я буду служить Ему и помогать лавке всем, чем смогу.",
+  "form_id": "001B449D|UndeathFixes.esp",
+  "type": "QUST CNAM",
+  "index": 67,
+  "editor_id": "NecroUCLRelocatePhylacteryQuest"
+ },
+ {
+  "original": "Find A New Lair For Your Phylactery",
+  "string": "Найти новое убежище для филактерии",
+  "form_id": "001B449D|UndeathFixes.esp",
+  "type": "QUST NNAM",
+  "index": 10,
+  "editor_id": "NecroUCLRelocatePhylacteryQuest"
+ },
+ {
+  "original": "Erect A Pedestal For Your Phylactery",
+  "string": "Возвести пьедестал для филактерии",
+  "form_id": "001B449D|UndeathFixes.esp",
+  "type": "QUST NNAM",
+  "index": 11,
+  "editor_id": "NecroUCLRelocatePhylacteryQuest"
+ },
+ {
+  "original": "Retrieve Your Phylactery",
+  "string": "Забрать свою филактерию",
+  "form_id": "001B449D|UndeathFixes.esp",
+  "type": "QUST NNAM",
+  "index": 20,
+  "editor_id": "NecroUCLRelocatePhylacteryQuest"
+ },
+ {
+  "original": "Place Your Phylactery On The Pedestal",
+  "string": "Поместить филактерию на пьедестал",
+  "form_id": "001B449D|UndeathFixes.esp",
+  "type": "QUST NNAM",
+  "index": 40,
+  "editor_id": "NecroUCLRelocatePhylacteryQuest"
+ },
+ {
+  "original": "Sell Your Soul To Belethor",
+  "string": "Продать душу Белетору",
+  "form_id": "001B449D|UndeathFixes.esp",
+  "type": "QUST NNAM",
+  "index": 66,
+  "editor_id": "NecroUCLRelocatePhylacteryQuest"
+ },
+ {
+  "original": "Deprecated",
+  "string": "Устарело",
+  "form_id": "0001EEA6|UndeathFixes.esp",
+  "type": "PERK FULL",
+  "index": null,
+  "editor_id": "NecroHeartOfDarknessPerk"
+ },
+ {
+  "original": "This perk record is as pointless as your existence.",
+  "string": "Эта запись перка так же бессмысленна, как ваше существование.",
+  "form_id": "0001EEA6|UndeathFixes.esp",
+  "type": "PERK DESC",
+  "index": null,
+  "editor_id": "NecroHeartOfDarknessPerk"
+ },
+ {
+  "original": "The editor id is a lie this isnt a healing perk, this is used to check for which necro spells should be buffed by the third phylactery perk",
+  "string": "Editor ID врет: это не перк лечения, он используется, чтобы проверить, какие некромантские заклинания усиливает третий перк филактерии",
+  "form_id": "0001EEBA|UndeathFixes.esp",
+  "type": "PERK DESC",
+  "index": null,
+  "editor_id": "NecroUCLHealingPerk"
+ },
+ {
+  "original": "Unholy Will",
+  "string": "Нечестивая воля",
+  "form_id": "0009377F|UndeathFixes.esp",
+  "type": "PERK FULL",
+  "index": null,
+  "editor_id": "NecroUnholyWillPerkDuplicate"
+ },
+ {
+  "original": "perk duplicated so that it works properly for people that dont clean the base undeath esp",
+  "string": "Перк продублирован, чтобы он правильно работал у тех, кто не чистит базовый esp Undeath",
+  "form_id": "0009377F|UndeathFixes.esp",
+  "type": "PERK DESC",
+  "index": null,
+  "editor_id": "NecroUnholyWillPerkDuplicate"
+ },
+ {
+  "original": "50 soul capstone perk that lets player lich rehome their phylactery.\r Follow Eternity's Sunrise.\n\r\n",
+  "string": "Перк-вершина на 50 душ, позволяющий игроку-личу переселить филактерию.\r Следуйте за Рассветом вечности.\n\r\n",
+  "form_id": "00186AE4|UndeathFixes.esp",
+  "type": "PERK DESC",
+  "index": null,
+  "editor_id": "NecroUCLMovablePerk"
+ },
+ {
+  "original": "Perk that disables phylactery respawn when player is moving their phylactery\r\n",
+  "string": "Перк, отключающий возрождение у филактерии, пока игрок ее переносит\r\n",
+  "form_id": "001F6286|UndeathFixes.esp",
+  "type": "PERK DESC",
+  "index": null,
+  "editor_id": "NecroUCLDisableRespawnPerk"
+ },
+ {
+  "original": "You are eternally bound to the service of Belethor's General Goods",
+  "string": "Вы навеки обязаны служить в Товарах Белетора",
+  "form_id": "00223C69|UndeathFixes.esp",
+  "type": "PERK DESC",
+  "index": null,
+  "editor_id": "NecroUCLBelethorSlavePerk"
+ },
+ {
+  "original": "unused.",
+  "string": "Не используется.",
+  "form_id": "000D4638|Undeath.esp",
+  "type": "PERK DESC",
+  "index": null,
+  "editor_id": "NecroUnholyWillPerk"
+ },
+ {
+  "original": "transcendence + visions of apocrypha (18 souls perk) xp gain",
+  "string": "Опыт за Необремененный Разум + Видения Апокрифа (перк на 18 душ)",
+  "form_id": "0000AA3D|UndeathFixes.esp",
+  "type": "PERK DESC",
+  "index": null,
+  "editor_id": "NecroTranscendencePerk"
+ },
+ {
+  "original": "This perk tells the lich transformation scripts to not trigger aggro when transforming",
+  "string": "Этот перк сообщает скриптам Трансформации Лича, что при превращении не нужно вызывать агрессию",
+  "form_id": "00033311|UndeathFixes.esp",
+  "type": "PERK DESC",
+  "index": null,
+  "editor_id": "NecroUCLMasqueradePerk"
+ },
+ {
+  "original": "Yes",
+  "string": "Да",
+  "form_id": "00075113|UndeathFixes.esp",
+  "type": "MESG ITXT",
+  "index": 0,
+  "editor_id": "NecroDragontailTravelMsg"
+ },
+ {
+  "original": "No",
+  "string": "Нет",
+  "form_id": "00075113|UndeathFixes.esp",
+  "type": "MESG ITXT",
+  "index": 1,
+  "editor_id": "NecroDragontailTravelMsg"
+ },
+ {
+  "original": "Yes",
+  "string": "Да",
+  "form_id": "00075115|UndeathFixes.esp",
+  "type": "MESG ITXT",
+  "index": 0,
+  "editor_id": "NecroDragontailTravelOutMsg"
+ },
+ {
+  "original": "No",
+  "string": "Нет",
+  "form_id": "00075115|UndeathFixes.esp",
+  "type": "MESG ITXT",
+  "index": 1,
+  "editor_id": "NecroDragontailTravelOutMsg"
+ },
+ {
+  "original": "Embalmed Flesh",
+  "string": "Забальзамированная плоть",
+  "form_id": "000F3BDB|UndeathFixes.esp",
+  "type": "MESG ITXT",
+  "index": 0,
+  "editor_id": "NecroUCLReconstructMenu"
+ },
+ {
+  "original": "Corroded Bone",
+  "string": "Изъеденная кость",
+  "form_id": "000F3BDB|UndeathFixes.esp",
+  "type": "MESG ITXT",
+  "index": 1,
+  "editor_id": "NecroUCLReconstructMenu"
+ },
+ {
+  "original": "Dragon Cult",
+  "string": "Культ драконов",
+  "form_id": "000F3BDB|UndeathFixes.esp",
+  "type": "MESG ITXT",
+  "index": 2,
+  "editor_id": "NecroUCLReconstructMenu"
+ },
+ {
+  "original": "Ancient Ayleid",
+  "string": "Древний айлейд",
+  "form_id": "000F3BDB|UndeathFixes.esp",
+  "type": "MESG ITXT",
+  "index": 3,
+  "editor_id": "NecroUCLReconstructMenu"
+ },
+ {
+  "original": "Underking",
+  "string": "Король-под-горой",
+  "form_id": "000F3BDB|UndeathFixes.esp",
+  "type": "MESG ITXT",
+  "index": 4,
+  "editor_id": "NecroUCLReconstructMenu"
+ },
+ {
+  "original": "Exit",
+  "string": "Выйти",
+  "form_id": "000F3BDB|UndeathFixes.esp",
+  "type": "MESG ITXT",
+  "index": 5,
+  "editor_id": "NecroUCLReconstructMenu"
+ },
+ {
+  "original": "Red",
+  "string": "Красный",
+  "form_id": "000F3BDC|UndeathFixes.esp",
+  "type": "MESG ITXT",
+  "index": 0,
+  "editor_id": "NecroUClColorMenu"
+ },
+ {
+  "original": "Green",
+  "string": "Зеленый",
+  "form_id": "000F3BDC|UndeathFixes.esp",
+  "type": "MESG ITXT",
+  "index": 1,
+  "editor_id": "NecroUClColorMenu"
+ },
+ {
+  "original": "Black",
+  "string": "Черный",
+  "form_id": "000F3BDC|UndeathFixes.esp",
+  "type": "MESG ITXT",
+  "index": 2,
+  "editor_id": "NecroUClColorMenu"
+ },
+ {
+  "original": "White",
+  "string": "Белый",
+  "form_id": "000F3BDC|UndeathFixes.esp",
+  "type": "MESG ITXT",
+  "index": 3,
+  "editor_id": "NecroUClColorMenu"
+ },
+ {
+  "original": "Incorporeal",
+  "string": "Бестелесный",
+  "form_id": "000F3BDC|UndeathFixes.esp",
+  "type": "MESG ITXT",
+  "index": 4,
+  "editor_id": "NecroUClColorMenu"
+ },
+ {
+  "original": "Exit",
+  "string": "Выйти",
+  "form_id": "000F3BDC|UndeathFixes.esp",
+  "type": "MESG ITXT",
+  "index": 5,
+  "editor_id": "NecroUClColorMenu"
+ },
+ {
+  "original": "Undying Flesh",
+  "string": "Бессмертная плоть",
+  "form_id": "000F3BDD|UndeathFixes.esp",
+  "type": "MESG ITXT",
+  "index": 0,
+  "editor_id": "NecroUCLLimitedColorMenu"
+ },
+ {
+  "original": "Incorporeal",
+  "string": "Бестелесный",
+  "form_id": "000F3BDD|UndeathFixes.esp",
+  "type": "MESG ITXT",
+  "index": 1,
+  "editor_id": "NecroUCLLimitedColorMenu"
+ },
+ {
+  "original": "Exit",
+  "string": "Выйти",
+  "form_id": "000F3BDD|UndeathFixes.esp",
+  "type": "MESG ITXT",
+  "index": 2,
+  "editor_id": "NecroUCLLimitedColorMenu"
+ },
+ {
+  "original": "Offer Grand Soul Gem",
+  "string": "Предложить Великий Камень Душ",
+  "form_id": "00154030|UndeathFixes.esp",
+  "type": "MESG ITXT",
+  "index": 0,
+  "editor_id": "NecroUCL_RevenantPromptBox"
+ },
+ {
+  "original": "Offer Black Soul Gem",
+  "string": "Принести в жертву черный камень душ",
+  "form_id": "00154030|UndeathFixes.esp",
+  "type": "MESG ITXT",
+  "index": 1,
+  "editor_id": "NecroUCL_RevenantPromptBox"
+ },
+ {
+  "original": "Do Nothing",
+  "string": "Ничего не делать",
+  "form_id": "00154030|UndeathFixes.esp",
+  "type": "MESG ITXT",
+  "index": 2,
+  "editor_id": "NecroUCL_RevenantPromptBox"
+ },
+ {
+  "original": "You have reached the maximum soul capacity.",
+  "string": "Достигнут предел вместимости душ.",
+  "form_id": "001B95AF|UndeathFixes.esp",
+  "type": "MESG DESC",
+  "index": null,
+  "editor_id": "NecroPhyMsgMaxSoul"
+ },
+ {
+  "original": "You do not have any filled black soul gems to feed to your phylactery.",
+  "string": "У вас нет заполненных черных камней душ, чтобы скормить их филактерии.",
+  "form_id": "001B95B0|UndeathFixes.esp",
+  "type": "MESG DESC",
+  "index": null,
+  "editor_id": "NecroPhyMsgNoSoul"
+ },
+ {
+  "original": "Your phylactery absorbs a black soul.",
+  "string": "Ваша филактерия поглощает черную душу.",
+  "form_id": "001B95B1|UndeathFixes.esp",
+  "type": "MESG DESC",
+  "index": null,
+  "editor_id": "NecroPhyMsgAbsorbSoul"
+ },
+ {
+  "original": "You may now alter the appearance of your lich form. At your phylactery, weave flesh and bone to conjure a visage most befitting of you.",
+  "string": "Теперь вы можете изменить облик своей Формы Лича. У филактерии сплетите плоть и кости, чтобы создать облик, наиболее вам подобающий.",
+  "form_id": "001B95B2|UndeathFixes.esp",
+  "type": "MESG DESC",
+  "index": null,
+  "editor_id": "NecroPhyMsgReconstructForm"
+ },
+ {
+  "original": "Activate your phylactery to reconstruct your lich appearance.",
+  "string": "Активируйте филактерию, чтобы изменить облик лича.",
+  "form_id": "001B95B3|UndeathFixes.esp",
+  "type": "MESG DESC",
+  "index": null,
+  "editor_id": "NecroPhyMsgReconstructFormNotification"
+ },
+ {
+  "original": "<Alias=Player>'s Phylactery",
+  "string": "Филактерия: <Alias=Player>",
+  "form_id": "001C37D7|UndeathFixes.esp",
+  "type": "MESG DESC",
+  "index": null,
+  "editor_id": "NecroUCLPhyName"
+ },
+ {
+  "original": "<Alias=Player>'s Phylactery",
+  "string": "Филактерия: <Alias=Player>",
+  "form_id": "001C37D7|UndeathFixes.esp",
+  "type": "MESG FULL",
+  "index": null,
+  "editor_id": "NecroUCLPhyName"
+ },
+ {
+  "original": "Pedestal",
+  "string": "Пьедестал",
+  "form_id": "001CD9FA|UndeathFixes.esp",
+  "type": "MESG DESC",
+  "index": null,
+  "editor_id": "NecroUCLPedestalName"
+ },
+ {
+  "original": "Pedestal",
+  "string": "Пьедестал",
+  "form_id": "001CD9FA|UndeathFixes.esp",
+  "type": "MESG FULL",
+  "index": null,
+  "editor_id": "NecroUCLPedestalName"
+ },
+ {
+  "original": "You do not have your phylactery.",
+  "string": "У вас нет филактерии.",
+  "form_id": "001F6287|UndeathFixes.esp",
+  "type": "MESG DESC",
+  "index": null,
+  "editor_id": "NecroUCLPhylacteryMissingMsg"
+ },
+ {
+  "original": "Your phylactery shatters...",
+  "string": "Ваша филактерия раскалывается...",
+  "form_id": "001F6288|UndeathFixes.esp",
+  "type": "MESG DESC",
+  "index": null,
+  "editor_id": "NecroUCLPhylacteryShatterMsg"
+ },
+ {
+  "original": "With your defeat in Sovngarde, the thread of prophecy is severed. Restore a saved game to restore the weave of fate, or persist in the doomed world you have created.",
+  "string": "С вашим поражением в Совнгарде нить пророчества оборвалась. Загрузите сохранение, чтобы восстановить узор судьбы, или продолжайте жить в обреченном мире, который вы создали.",
+  "form_id": "001F628B|UndeathFixes.esp",
+  "type": "MESG DESC",
+  "index": null,
+  "editor_id": "NecroUCLSovngardeDeathMsg"
+ },
+ {
+  "original": "Choose a skull shape for your lich form appearance.",
+  "string": "Выберите форму черепа для облика лича.",
+  "form_id": "0020A6D2|UndeathFixes.esp",
+  "type": "MESG DESC",
+  "index": null,
+  "editor_id": "NecroUCLRaceMenu"
+ },
+ {
+  "original": "Hubris Of Man",
+  "string": "Гордыня людей",
+  "form_id": "0020A6D2|UndeathFixes.esp",
+  "type": "MESG ITXT",
+  "index": 0,
+  "editor_id": "NecroUCLRaceMenu"
+ },
+ {
+  "original": "Elven Worm",
+  "string": "Эльфийский червь",
+  "form_id": "0020A6D2|UndeathFixes.esp",
+  "type": "MESG ITXT",
+  "index": 1,
+  "editor_id": "NecroUCLRaceMenu"
+ },
+ {
+  "original": "Orc Warlock",
+  "string": "Орк-чернокнижник",
+  "form_id": "0020A6D2|UndeathFixes.esp",
+  "type": "MESG ITXT",
+  "index": 2,
+  "editor_id": "NecroUCLRaceMenu"
+ },
+ {
+  "original": "Reptilian Fossil",
+  "string": "Окаменелость рептилии",
+  "form_id": "0020A6D2|UndeathFixes.esp",
+  "type": "MESG ITXT",
+  "index": 3,
+  "editor_id": "NecroUCLRaceMenu"
+ },
+ {
+  "original": "Arum'Khal's Empire",
+  "string": "Империя Арум-Хала",
+  "form_id": "0020A6D2|UndeathFixes.esp",
+  "type": "MESG ITXT",
+  "index": 4,
+  "editor_id": "NecroUCLRaceMenu"
+ },
+ {
+  "original": "Exit",
+  "string": "Выйти",
+  "form_id": "0020A6D2|UndeathFixes.esp",
+  "type": "MESG ITXT",
+  "index": 5,
+  "editor_id": "NecroUCLRaceMenu"
+ },
+ {
+  "original": "Lich Transformation is not yet ready.",
+  "string": "Трансформация Лича еще не готова.",
+  "form_id": "0020F805|UndeathFixes.esp",
+  "type": "MESG DESC",
+  "index": null,
+  "editor_id": "NecroTransformationNotReadyMsg"
+ },
+ {
+  "original": "You cannot Assume Lich Form when you are already in lich form!",
+  "string": "Нельзя Принять Форму Лича, когда вы уже в облике лича!",
+  "form_id": "0020F806|UndeathFixes.esp",
+  "type": "MESG DESC",
+  "index": null,
+  "editor_id": "NecroTransformationAlreadyLichMsg"
+ },
+ {
+  "original": "You cannot Revert Lich Form when you are not in lich form!",
+  "string": "Нельзя Восстановить Облик, когда вы не в облике лича!",
+  "form_id": "0020F807|UndeathFixes.esp",
+  "type": "MESG DESC",
+  "index": null,
+  "editor_id": "NecroTransformationAlreadyRevertedMsg"
+ },
+ {
+  "original": "You reform at Belethor's General Goods, to which you are eternally bound.",
+  "string": "Вы возрождаетесь в Товарах Белетора, к которым навеки привязаны.",
+  "form_id": "00214919|UndeathFixes.esp",
+  "type": "MESG DESC",
+  "index": null,
+  "editor_id": "NecroUCLBelethorReformMsg"
+ },
+ {
+  "original": "Are you sure you want to relocate? Dark Resurgence will be disabled while your phylactery is unshackled.",
+  "string": "Перенести филактерию? Пока она не закреплена, Нечестивое Воскрешение будет отключено.",
+  "form_id": "00219A40|UndeathFixes.esp",
+  "type": "MESG DESC",
+  "index": null,
+  "editor_id": "NecroUCLRelocatePhylacteryMenu"
+ },
+ {
+  "original": "Yes",
+  "string": "Да",
+  "form_id": "00219A40|UndeathFixes.esp",
+  "type": "MESG ITXT",
+  "index": 0,
+  "editor_id": "NecroUCLRelocatePhylacteryMenu"
+ },
+ {
+  "original": "Exit",
+  "string": "Выйти",
+  "form_id": "00219A40|UndeathFixes.esp",
+  "type": "MESG ITXT",
+  "index": 1,
+  "editor_id": "NecroUCLRelocatePhylacteryMenu"
+ },
+ {
+  "original": "Choose an eye color for your lich form appearance.",
+  "string": "Выберите цвет глаз для облика лича.",
+  "form_id": "00219A41|UndeathFixes.esp",
+  "type": "MESG DESC",
+  "index": null,
+  "editor_id": "NecroUCLEyeFXMenu"
+ },
+ {
+  "original": "Purple Eyes",
+  "string": "Фиолетовые глаза",
+  "form_id": "00219A41|UndeathFixes.esp",
+  "type": "MESG ITXT",
+  "index": 0,
+  "editor_id": "NecroUCLEyeFXMenu"
+ },
+ {
+  "original": "Blue Eyes",
+  "string": "Синие глаза",
+  "form_id": "00219A41|UndeathFixes.esp",
+  "type": "MESG ITXT",
+  "index": 1,
+  "editor_id": "NecroUCLEyeFXMenu"
+ },
+ {
+  "original": "Red Eyes",
+  "string": "Красные глаза",
+  "form_id": "00219A41|UndeathFixes.esp",
+  "type": "MESG ITXT",
+  "index": 2,
+  "editor_id": "NecroUCLEyeFXMenu"
+ },
+ {
+  "original": "Green Eyes",
+  "string": "Зеленые глаза",
+  "form_id": "00219A41|UndeathFixes.esp",
+  "type": "MESG ITXT",
+  "index": 3,
+  "editor_id": "NecroUCLEyeFXMenu"
+ },
+ {
+  "original": "No Eyes",
+  "string": "Без глаз",
+  "form_id": "00219A41|UndeathFixes.esp",
+  "type": "MESG ITXT",
+  "index": 4,
+  "editor_id": "NecroUCLEyeFXMenu"
+ },
+ {
+  "original": "Exit",
+  "string": "Выйти",
+  "form_id": "00219A41|UndeathFixes.esp",
+  "type": "MESG ITXT",
+  "index": 5,
+  "editor_id": "NecroUCLEyeFXMenu"
+ },
+ {
+  "original": "You cannot cast unbind soul as a vampire!",
+  "string": "Вампир не может использовать Освобождение Души!",
+  "form_id": "0022DE90|UndeathFixes.esp",
+  "type": "MESG DESC",
+  "index": null,
+  "editor_id": "NecroUCLUnbindSoulVampMsg"
+ },
+ {
+  "original": "A God Amongst Men",
+  "string": "Бог среди людей",
+  "form_id": "0001EEB5|UndeathFixes.esp",
+  "type": "MESG FULL",
+  "index": null,
+  "editor_id": "NecroPhyMsg25"
+ },
+ {
+  "original": "You have attained lichdom!",
+  "string": "Вы стали личем!",
+  "form_id": "0022DE92|UndeathFixes.esp",
+  "type": "MESG DESC",
+  "index": null,
+  "editor_id": "NecroUCLAttainedLichdomMsg1"
+ },
+ {
+  "original": "When your health depletes to zero, you will regenerate at your phylactery.",
+  "string": "Когда ваше здоровье упадет до нуля, вы возродитесь у своей филактерии.",
+  "form_id": "0022DE93|UndeathFixes.esp",
+  "type": "MESG DESC",
+  "index": null,
+  "editor_id": "NecroUCLAttainedLichdomMsg2"
+ },
+ {
+  "original": "You cannot equip weapons in lich form.",
+  "string": "В облике лича нельзя экипировать оружие.",
+  "form_id": "00232FAF|UndeathFixes.esp",
+  "type": "MESG DESC",
+  "index": null,
+  "editor_id": "NecroUCLUnequipWpnMsg"
+ },
+ {
+  "original": "You cannot equip arrows in lich form.",
+  "string": "В облике лича нельзя экипировать стрелы.",
+  "form_id": "00232FB1|UndeathFixes.esp",
+  "type": "MESG DESC",
+  "index": null,
+  "editor_id": "NecroUCLUnequipAmmoMsg"
+ },
+ {
+  "original": "Visions Of Apocrypha",
+  "string": "Видения Апокрифа",
+  "form_id": "0001EEB4|UndeathFixes.esp",
+  "type": "MESG FULL",
+  "index": null,
+  "editor_id": "NecroPhyMsg22"
+ },
+ {
+  "original": "Your body reforms at your phylactery.",
+  "string": "Ваше тело возрождается у филактерии.",
+  "form_id": "001F6289|UndeathFixes.esp",
+  "type": "MESG DESC",
+  "index": null,
+  "editor_id": "NecroUCLPhylacteryReformMsg"
+ },
+ {
+  "original": "Feed Soul",
+  "string": "Скормить душу",
+  "form_id": "0000FB54|UndeathFixes.esp",
+  "type": "MESG ITXT",
+  "index": 0,
+  "editor_id": "NecroUCLSoulMenu"
+ },
+ {
+  "original": "Reconstruct Form",
+  "string": "Изменить облик",
+  "form_id": "0000FB54|UndeathFixes.esp",
+  "type": "MESG ITXT",
+  "index": 1,
+  "editor_id": "NecroUCLSoulMenu"
+ },
+ {
+  "original": "Relocate Phylactery",
+  "string": "Перенести филактерию",
+  "form_id": "0000FB54|UndeathFixes.esp",
+  "type": "MESG ITXT",
+  "index": 2,
+  "editor_id": "NecroUCLSoulMenu"
+ },
+ {
+  "original": "Exit",
+  "string": "Выйти",
+  "form_id": "0000FB54|UndeathFixes.esp",
+  "type": "MESG ITXT",
+  "index": 3,
+  "editor_id": "NecroUCLSoulMenu"
+ },
+ {
+  "original": "Magicka Flood",
+  "string": "Прилив Магии",
+  "form_id": "00019D8D|UndeathFixes.esp",
+  "type": "MESG FULL",
+  "index": null,
+  "editor_id": "NecroPhyMsg1"
+ },
+ {
+  "original": "Sea Of Souls",
+  "string": "Барьер Лича",
+  "form_id": "00019D8E|UndeathFixes.esp",
+  "type": "MESG FULL",
+  "index": null,
+  "editor_id": "NecroPhyMsg2"
+ },
+ {
+  "original": "Bane Of Life",
+  "string": "Бич Жизни",
+  "form_id": "0001EEAC|UndeathFixes.esp",
+  "type": "MESG FULL",
+  "index": null,
+  "editor_id": "NecroPhyMsg3"
+ },
+ {
+  "original": "Will To Necromancy",
+  "string": "Воля к некромантии",
+  "form_id": "0001EEAD|UndeathFixes.esp",
+  "type": "MESG FULL",
+  "index": null,
+  "editor_id": "NecroPhyMsg5"
+ },
+ {
+  "original": "Conduit",
+  "string": "Магопровод",
+  "form_id": "0001EEAE|UndeathFixes.esp",
+  "type": "MESG FULL",
+  "index": null,
+  "editor_id": "NecroPhyMsg8"
+ },
+ {
+  "original": "Unliving Flesh I",
+  "string": "Неживая плоть I",
+  "form_id": "0001EEAF|UndeathFixes.esp",
+  "type": "MESG FULL",
+  "index": null,
+  "editor_id": "NecroPhyMsg10"
+ },
+ {
+  "original": "Unliving Flesh II",
+  "string": "Неживая плоть II",
+  "form_id": "0001EEB0|UndeathFixes.esp",
+  "type": "MESG FULL",
+  "index": null,
+  "editor_id": "NecroPhyMsg12"
+ },
+ {
+  "original": "Icepick Lobotomy",
+  "string": "Ледяная лоботомия",
+  "form_id": "0001EEB1|UndeathFixes.esp",
+  "type": "MESG FULL",
+  "index": null,
+  "editor_id": "NecroPhyMsg18"
+ },
+ {
+  "original": "Conflagration Of The Living",
+  "string": "Пожар живых",
+  "form_id": "0001EEB2|UndeathFixes.esp",
+  "type": "MESG FULL",
+  "index": null,
+  "editor_id": "NecroPhyMsg15"
+ },
+ {
+  "original": "Enslave Mind",
+  "string": "Порабощение Разума",
+  "form_id": "0001EEB3|UndeathFixes.esp",
+  "type": "MESG FULL",
+  "index": null,
+  "editor_id": "NecroPhyMsg20"
+ },
+ {
+  "original": "Your soul has been successfully bound to your phylactery.",
+  "string": "Ваша душа успешно привязана к филактерии.",
+  "form_id": "0022DE91|UndeathFixes.esp",
+  "type": "MESG DESC",
+  "index": null,
+  "editor_id": "NecroUCLUnbindSoulCompleteMsg"
+ },
+ {
+  "original": "Will Of Mannimarco",
+  "string": "Воля Маннимарко",
+  "form_id": "0001EEB6|UndeathFixes.esp",
+  "type": "MESG FULL",
+  "index": null,
+  "editor_id": "NecroPhyMsg35"
+ },
+ {
+  "original": "Eternity's Sunrise",
+  "string": "Рассвет вечности",
+  "form_id": "0001EEB7|UndeathFixes.esp",
+  "type": "MESG FULL",
+  "index": null,
+  "editor_id": "NecroPhyMsg50"
+ },
+ {
+  "original": "World Of Corpses",
+  "string": "Массовое Поднятие Нежити",
+  "form_id": "0001EEB8|UndeathFixes.esp",
+  "type": "MESG FULL",
+  "index": null,
+  "editor_id": "NecroPhyMsg40"
+ },
+ {
+  "original": "Dracolich",
+  "string": "Драколич",
+  "form_id": "0005BBBA|UndeathFixes.esp",
+  "type": "MESG FULL",
+  "index": null,
+  "editor_id": "NecroPhyMsg45"
+ }
+]
