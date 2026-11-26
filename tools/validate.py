@@ -18,11 +18,15 @@ CYR = re.compile('[Ѐ-ӿ]')
 TECHNICAL = re.compile(r'[A-Za-z0-9_:.\-]*(?:[a-z][A-Z]|_|\d)[A-Za-z0-9_:.\-]*|[A-Z0-9_]+')
 # text set in a glyph font: the letters are a cipher, not English
 CIPHER = re.compile(r"<font face='\$(?:MageScript|Dragon|Falmer|Daedric|Dwemer)[^']*'>.*?</font>", re.S | re.I)
+# <Nightlord>, <Vitae>: a word in angle brackets is shown highlighted in effect/perk
+# descriptions - it is text to translate, not markup. Engine tokens and HTML stay tags.
+HIGHLIGHT = re.compile(r"<(?!(?:mag|dur|area|br|p|b|i|u|font|img|alias|global)\b)"
+                       r"[A-Za-zЀ-ӿ][A-Za-zЀ-ӿ '\-]*>", re.I)
 LATIN_WORD = re.compile(r'(?<![<\w=\'"/.])[A-Za-z]{4,}(?![\w>])')
 
 
 def tags(s):
-    return Counter(t for t in TAG.findall(s) if not DROPCAP.fullmatch(t))
+    return Counter(t for t in TAG.findall(s) if not DROPCAP.fullmatch(t) and not HIGHLIGHT.fullmatch(t))
 
 
 def strip_tags(s):
