@@ -1,0 +1,130 @@
+[
+ {
+  "original": "Frostveil Fastness",
+  "string": "Твердыня Ледяной Завесы",
+  "form_id": "00013818|Skyrim.esm",
+  "type": "CELL FULL",
+  "index": null,
+  "editor_id": "WinterholdJarlsLonghouse"
+ },
+ {
+  "original": "Skyrim",
+  "string": "Скайрим",
+  "form_id": "0000003C|Skyrim.esm",
+  "type": "WRLD FULL",
+  "index": null,
+  "editor_id": "Tamriel"
+ },
+ {
+  "original": "The Thalmor War has begun. Thalmor Battlezones have appeared in your map. Visit those zones to fight against the Thalmor!",
+  "string": "Началась война с Талмором. На карте появились зоны боя с Талмором. Нужно посетить их и сразиться с Талмором!",
+  "form_id": "00006E8B|BecomeKingofSkyrimTNG.esp",
+  "type": "QUST CNAM",
+  "index": 5,
+  "editor_id": "AAKingSkyrim"
+ },
+ {
+  "original": "You have negotiated for a peace treaty. To resume the war, talk to the Thalmor Ambassador again.",
+  "string": "Мне удалось договориться о мире. Чтобы возобновить войну, нужно снова поговорить с послом Талмора.",
+  "form_id": "00006E8B|BecomeKingofSkyrimTNG.esp",
+  "type": "QUST CNAM",
+  "index": 10,
+  "editor_id": "AAKingSkyrim"
+ },
+ {
+  "original": "Talk to your High Council.",
+  "string": "Поговорить с Верховным советом.",
+  "form_id": "00006E8B|BecomeKingofSkyrimTNG.esp",
+  "type": "QUST NNAM",
+  "index": 0,
+  "editor_id": "AAKingSkyrim"
+ },
+ {
+  "original": "Thalmor Army: <Global=AAThalmorTotalCount>",
+  "string": "Армия Талмора: <Global=AAThalmorTotalCount>",
+  "form_id": "00006E8B|BecomeKingofSkyrimTNG.esp",
+  "type": "QUST NNAM",
+  "index": 20,
+  "editor_id": "AAKingSkyrim"
+ },
+ {
+  "original": "Defeat the Thalmor near the gates of Morrowind.",
+  "string": "Разбить Талмор у ворот Морровинда.",
+  "form_id": "00006E8B|BecomeKingofSkyrimTNG.esp",
+  "type": "QUST NNAM",
+  "index": 21,
+  "editor_id": "AAKingSkyrim"
+ },
+ {
+  "original": "Defeat the Thalmor outside Whiterun.",
+  "string": "Разбить Талмор под Вайтраном.",
+  "form_id": "00006E8B|BecomeKingofSkyrimTNG.esp",
+  "type": "QUST NNAM",
+  "index": 22,
+  "editor_id": "AAKingSkyrim"
+ },
+ {
+  "original": "Surgus has told me of a man named Brother Arthorian, a former priest turned political firebrand who now preaches among the graves in Falkreath. If I can convince him to join my court, he may serve as Skyrim's High Priest in spiritual matters.",
+  "string": "Сургус рассказал мне о человеке по имени Брат Арториан, бывшем жреце, ставшем политическим смутьяном, который теперь проповедует среди могил Фолкрита. Если удастся убедить его присоединиться к моему двору, он может стать Верховным жрецом Скайрима в духовных делах.",
+  "form_id": "00039AEF|BecomeKingofSkyrimTNG.esp",
+  "type": "QUST CNAM",
+  "index": 10,
+  "editor_id": "AAKingCouncilHighPriest"
+ },
+ {
+  "original": "Brother Arthorian has rejected my offer to become High Priest. Hopefully, Surgus has someone else he can recommend. Shame...",
+  "string": "Брат Арториан отверг мое предложение стать Верховным жрецом. Надеюсь, Сургус сможет порекомендовать кого-то еще. Жаль...",
+  "form_id": "00039AEF|BecomeKingofSkyrimTNG.esp",
+  "type": "QUST CNAM",
+  "index": 20,
+  "editor_id": "AAKingCouncilHighPriest"
+ },
+ {
+  "original": "Surgus has informed me that Brother Arthorian is about to be assassinated by members of House Devereaux. If I can stop the attack, I might convince him to help my rule. I need to hurry back to Falkreath.",
+  "string": "Сургус сообщил мне, что на Брата Арториана готовят покушение члены дома Деверо. Если удастся остановить нападение, возможно, получится убедить его поддержать мое правление. Нужно скорее вернуться в Фолкрит.",
+  "form_id": "00039AEF|BecomeKingofSkyrimTNG.esp",
+  "type": "QUST CNAM",
+  "index": 30,
+  "editor_id": "AAKingCouncilHighPriest"
+ },
+ {
+  "original": "I've killed the assassins. I should check with Brother Arthorian to make sure he is ok.",
+  "string": "Убийцы мертвы. Нужно проверить, все ли в порядке с Братом Арторианом.",
+  "form_id": "00039AEF|BecomeKingofSkyrimTNG.esp",
+  "type": "QUST CNAM",
+  "index": 40,
+  "editor_id": "AAKingCouncilHighPriest"
+ },
+ {
+  "original": "Find Brother Arthrorian in Falkreath",
+  "string": "Найти брата Арториана в Фолкрите",
+  "form_id": "00039AEF|BecomeKingofSkyrimTNG.esp",
+  "type": "QUST NNAM",
+  "index": 10,
+  "editor_id": "AAKingCouncilHighPriest"
+ },
+ {
+  "original": "Tell Surgus of Arthorian's rejection",
+  "string": "Сообщить Сургусу об отказе Арториана",
+  "form_id": "00039AEF|BecomeKingofSkyrimTNG.esp",
+  "type": "QUST NNAM",
+  "index": 20,
+  "editor_id": "AAKingCouncilHighPriest"
+ },
+ {
+  "original": "Hurry back to Arthorian before he is killed!",
+  "string": "Поспешить к Арториану, пока его не убили!",
+  "form_id": "00039AEF|BecomeKingofSkyrimTNG.esp",
+  "type": "QUST NNAM",
+  "index": 30,
+  "editor_id": "AAKingCouncilHighPriest"
+ },
+ {
+  "original": "Speak to Arthorian",
+  "string": "Поговорить с Арторианом",
+  "form_id": "00039AEF|BecomeKingofSkyrimTNG.esp",
+  "type": "QUST NNAM",
+  "index": 40,
+  "editor_id": "AAKingCouncilHighPriest"
+ }
+]

@@ -20,6 +20,7 @@
 | Мод | Версия | Папка |
 |---|---|---|
 | [Become High King of Skyrim TNG](https://www.nexusmods.com/skyrimspecialedition/mods/142993) | 2.3 | `mods/become-high-king-tng` (DSD + интерфейс «Королевской книги» в `Magelight/`) |
+| BHKS - TNG - Official Patch Collection | 1.0.6 | `mods/bhks-tng-patches` |
 
 ## Как устроен перевод
 

@@ -1,0 +1,16 @@
+{
+  "slug": "bhks-tng-patches",
+  "name": "BHKS - TNG - Official Patch Collection",
+  "nexus_id": 142993,
+  "version": "1.0.6",
+  "plugins": [
+    "BHKS-TNG-GreatCityWinterhold-Patch.esp",
+    "BHKS-TNG-JKsBluePalace-Patch.esp",
+    "BHKS-TNG-JKsMistveilKeep-Patch.esp",
+    "BHKS-TNG-JKsPalaceoftheKings-Patch.esp",
+    "BHKS-TNG-JKsTempleofDibella-Patch.esp",
+    "BHKS-TNG-JKsTempleofTalos-Patch.esp",
+    "BHKS-TNG-JKsUnderstoneKeep-Patch.esp",
+    "BHKS-TNG-Northern-Roads-Patch.esp"
+  ]
+}
