@@ -32,6 +32,7 @@ def main(mod_dir, allow_missing):
     _, covered = installed(mod)
 
     report, total_ok, total = [], 0, 0
+    written = set()
     for f in sorted(glob.glob(os.path.join(work, 'en', '*.json'))):
         plugin = os.path.splitext(os.path.basename(f))[0]
         out = []
@@ -58,7 +59,15 @@ def main(mod_dir, allow_missing):
         dst = os.path.join(mod_dir, 'SKSE', 'Plugins', 'DynamicStringDistributor', plugin)
         os.makedirs(dst, exist_ok=True)
         json.dump(out, open(os.path.join(dst, 'RU.json'), 'w', encoding='utf-8'), ensure_ascii=False, indent=1)
+        written.add(plugin)
         print(f'{plugin}: {len(out)} strings')
+    root = os.path.join(mod_dir, 'SKSE', 'Plugins', 'DynamicStringDistributor')
+    for plugin in os.listdir(root) if os.path.isdir(root) else []:
+        stale = os.path.join(root, plugin, 'RU.json')
+        if plugin not in written and os.path.exists(stale):
+            os.remove(stale)  # nothing of ours left for this plugin
+            if not os.listdir(os.path.join(root, plugin)):
+                os.rmdir(os.path.join(root, plugin))
     open(os.path.join(work, 'build_report.txt'), 'w', encoding='utf-8').write('\n'.join(report))
     print(f'translated {total_ok}/{total}; problems: {len(report)} (see work/{mod["slug"]}/build_report.txt)')
     if report and not allow_missing:

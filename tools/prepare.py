@@ -24,6 +24,8 @@ import os
 import re
 import sys
 
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 BATCH_CHARS = 18000
 WORD = re.compile(r"[A-Za-z][A-Za-z'\-]*")
@@ -57,7 +59,7 @@ def wanted(e, covered):
     """False for strings that need no DSD entry from us."""
     if CYR.search(e['original']):
         return False
-    return f"{e['form_id'].lower()}|{e['type']}|{e['index']}" not in covered
+    return record_key(e) not in covered
 
 
 SPACE = re.compile(r'\s+')
@@ -88,6 +90,11 @@ class Exact:
             if base:
                 return f'{base} (копия)'
         return None
+
+
+def record_key(e):
+    from harvest import key
+    return key(e)
 
 
 def common_words():

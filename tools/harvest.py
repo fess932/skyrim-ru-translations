@@ -26,7 +26,14 @@ CYR = re.compile('[А-Яа-яЁё]')
 
 
 def key(e):
-    return f"{(e.get('form_id') or '').lower()}|{e.get('type')}|{e.get('index')}"
+    """Record key that ignores the load-order byte: other tools (SSE-AT) write
+    '0517657A|Mod.esp' where extract.py writes '0017657A|Mod.esp' - same record."""
+    fid, _, plugin = (e.get('form_id') or '').partition('|')
+    try:
+        fid = f'{int(fid, 16) & 0xFFFFFF:06x}'
+    except ValueError:
+        fid = fid.lower()
+    return f"{fid}|{plugin.lower()}|{e.get('type')}|{e.get('index')}"
 
 
 def digest(path):
