@@ -1,0 +1,210 @@
+[
+ {
+  "original": "Moonpath to Elsweyr Quest Display",
+  "string": "Экспозиция квестов Moonpath to Elsweyr",
+  "form_id": "0000081C|DBM_Moonpath_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_QPlaqueMoonpath"
+ },
+ {
+  "original": "Ancient Siligonder Armor",
+  "string": "Древняя броня из силигондера",
+  "form_id": "00000816|DBM_Moonpath_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTSiligonderArmor"
+ },
+ {
+  "original": "Tenmar Forest, Elsweyr",
+  "string": "Лес Тенмар, Эльсвейр",
+  "form_id": "00000817|DBM_Moonpath_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_MoonpathPortal"
+ },
+ {
+  "original": "Dragonborn Hall",
+  "string": "Зал Драконорожденного",
+  "form_id": "00741ACF|LegacyoftheDragonborn.esm",
+  "type": "CELL FULL",
+  "index": null,
+  "editor_id": "DBMDGDragonbornHall"
+ },
+ {
+  "original": "Topal Sea Island",
+  "string": "Остров в море Топал",
+  "form_id": "0003E4CB|moonpath.esp",
+  "type": "CELL FULL",
+  "index": null,
+  "editor_id": "anviltopalbase"
+ },
+ {
+  "original": "I believe you sent us a letter, sir?",
+  "string": "Кажется, это вы прислали нам письмо?",
+  "form_id": "00000823|DBM_Moonpath_Patch.esp",
+  "type": "DIAL FULL",
+  "index": null,
+  "editor_id": "DBM_MoonpathIndarysRakisHello"
+ },
+ {
+  "original": "Oh, you are from the museum in Skyrim, no? Wonderful.",
+  "string": "О, ты из музея в Скайриме, да? Чудесно.",
+  "form_id": "00000826|DBM_Moonpath_Patch.esp",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "Rakis is glad you have made it here safely, and he is sorry for the troubles in bringing you here, but as you have plainly seen,",
+  "string": "Ракис рад, что ты здесь в целости, и сожалеет о трудностях в пути, но, как ты и сам можешь видеть,",
+  "form_id": "00000826|DBM_Moonpath_Patch.esp",
+  "type": "INFO NAM1",
+  "index": 2,
+  "editor_id": null
+ },
+ {
+  "original": "Elsweyr has great troubles. During the first Dominion, Elsweyr was a protectorate of the Aldmeri Dominion, a reluctant ally if you will.",
+  "string": "у Эльсвейра большие беды. Во времена первого Доминиона Эльсвейр был протекторатом Альдмерского Доминиона - союзником поневоле, если угодно.",
+  "form_id": "00000826|DBM_Moonpath_Patch.esp",
+  "type": "INFO NAM1",
+  "index": 3,
+  "editor_id": null
+ },
+ {
+  "original": "And now that the Dominion has risen once more, it seeks to bring Elsweyr under its thumb once again. There are those of us who would not have this.",
+  "string": "А теперь, когда Доминион возродился, он снова хочет прибрать Эльсвейр к рукам. Но есть те из нас, кто этого не допустит.",
+  "form_id": "00000826|DBM_Moonpath_Patch.esp",
+  "type": "INFO NAM1",
+  "index": 4,
+  "editor_id": null
+ },
+ {
+  "original": "So Rakis happens upon this relic a number of years ago, brings it into his safe keeping, but word spreads swiftly on the warm winds of Elsweyr.",
+  "string": "И вот несколько лет назад Ракис находит эту реликвию и берет ее на хранение, но на теплых ветрах Эльсвейра слухи разлетаются быстро.",
+  "form_id": "00000826|DBM_Moonpath_Patch.esp",
+  "type": "INFO NAM1",
+  "index": 5,
+  "editor_id": null
+ },
+ {
+  "original": "And now the Thalmor seek to obtain it. Every piece of power they get their hands on brings them that much closer to dominating all of Tamriel.",
+  "string": "И теперь Талмор хочет ее заполучить. Каждая крупица силы, что попадает им в руки, приближает их к власти над всем Тамриэлем.",
+  "form_id": "00000826|DBM_Moonpath_Patch.esp",
+  "type": "INFO NAM1",
+  "index": 6,
+  "editor_id": null
+ },
+ {
+  "original": "And so Rakis gives to you the staff of Indarys so that you may safe keep it, and keep it from the clutches of the Thalmor.",
+  "string": "И поэтому Ракис отдает тебе Посох Индариса на хранение, чтобы он не попал в лапы Талмора.",
+  "form_id": "00000827|DBM_Moonpath_Patch.esp",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "And may the blessings of the clan mothers be with you. After what you have achieved here, the Thalmor are sure to take more notice of you",
+  "string": "И да пребудет с тобой благословение матерей клана. После всего, что здесь случилось по твоей воле, Талмор наверняка обратит на тебя больше внимания,",
+  "form_id": "00000827|DBM_Moonpath_Patch.esp",
+  "type": "INFO NAM1",
+  "index": 2,
+  "editor_id": null
+ },
+ {
+  "original": "and you do not want that. Take care, my friend.",
+  "string": "а тебе этого не нужно. Береги себя, друг мой.",
+  "form_id": "00000827|DBM_Moonpath_Patch.esp",
+  "type": "INFO NAM1",
+  "index": 3,
+  "editor_id": null
+ },
+ {
+  "original": "Good to see you Rakis. How are things in Elsweyr?",
+  "string": "Ракис, хорошо, что ты здесь. Как дела в Эльсвейре?",
+  "form_id": "0000092F|DBM_Moonpath_Patch.esp",
+  "type": "DIAL FULL",
+  "index": null,
+  "editor_id": "DBM_AirshipQuestRakisGreet2"
+ },
+ {
+  "original": "Much progress has been made against the Thalmor, thanks to your first steps, and the Pahmar wish to thank you again.",
+  "string": "Благодаря твоим первым шагам в борьбе с Талмором достигнуто многое, и пахмары снова хотят поблагодарить тебя.",
+  "form_id": "00000931|DBM_Moonpath_Patch.esp",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "So they have sent me with a recently captured airship to give to you! It is called the Dev Aveza.",
+  "string": "Поэтому они прислали меня с недавно захваченным воздушным кораблем, чтобы отдать его тебе! Он называется \"Дев Авеза\".",
+  "form_id": "00000931|DBM_Moonpath_Patch.esp",
+  "type": "INFO NAM1",
+  "index": 2,
+  "editor_id": null
+ },
+ {
+  "original": "Khajiit have made it more to the style of the Dovahkiin. I think you will like it. There is a manual on how to fly it inside.",
+  "string": "Каджиты переделали его на вкус Довакина. Думаю, тебе понравится. Внутри есть руководство, как им управлять.",
+  "form_id": "00000931|DBM_Moonpath_Patch.esp",
+  "type": "INFO NAM1",
+  "index": 3,
+  "editor_id": null
+ },
+ {
+  "original": "...and may your road lead you to warm sands.",
+  "string": "...и пусть твой путь ведет к теплым пескам.",
+  "form_id": "00000931|DBM_Moonpath_Patch.esp",
+  "type": "INFO NAM1",
+  "index": 4,
+  "editor_id": null
+ },
+ {
+  "original": "Greetings, Dovahkiin. Once again our paths cross one another. But this time it is I coming to you.",
+  "string": "Приветствую, Довакин. Наши пути снова пересеклись. Но на этот раз это я пришел к тебе.",
+  "form_id": "00000932|DBM_Moonpath_Patch.esp",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "It Belongs in a Museum",
+  "string": "Место ему в музее",
+  "form_id": "0000081F|DBM_Moonpath_Patch.esp",
+  "type": "QUST FULL",
+  "index": null,
+  "editor_id": "DBM_MoonpathIndarys"
+ },
+ {
+  "original": "Auryen has sent me to find a Khajiit named <Alias=Rakis> in Elsweyr who is offering to donate the <Alias=Staff> to the museum. I should seek out the caravan in Falkreath to gain passage to Elsweyr and then try and locate <Alias=Rakis>.",
+  "string": "Ауриен отправил меня в Эльсвейр найти каджита по имени <Alias=Rakis>, который хочет пожертвовать музею <Alias=Staff>. Мне нужно найти караван в Фолкрите, чтобы добраться до Эльсвейра, а затем разыскать <Alias=Rakis>.",
+  "form_id": "0000081F|DBM_Moonpath_Patch.esp",
+  "type": "QUST CNAM",
+  "index": 0,
+  "editor_id": "DBM_MoonpathIndarys"
+ },
+ {
+  "original": "I have met <Alias=Rakis> and been given the <Alias=Staff> for safe keeping.",
+  "string": "<Alias=Rakis> отдал мне на хранение <Alias=Staff>.",
+  "form_id": "0000081F|DBM_Moonpath_Patch.esp",
+  "type": "QUST CNAM",
+  "index": 10,
+  "editor_id": "DBM_MoonpathIndarys"
+ },
+ {
+  "original": "Retrieve the <Alias=Staff> from <Alias=Rakis>",
+  "string": "Забрать у <Alias=Rakis>: <Alias=Staff>",
+  "form_id": "0000081F|DBM_Moonpath_Patch.esp",
+  "type": "QUST NNAM",
+  "index": 0,
+  "editor_id": "DBM_MoonpathIndarys"
+ },
+ {
+  "original": "Moonpaths Support Handler",
+  "string": "Поддержка Moonpath (служебный)",
+  "form_id": "00000818|DBM_Moonpath_Patch.esp",
+  "type": "QUST FULL",
+  "index": null,
+  "editor_id": "DBM_SupportedModMoonpath"
+ }
+]

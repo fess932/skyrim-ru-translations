@@ -1,0 +1,9 @@
+{
+  "slug": "lotd-moonpath-patch",
+  "name": "Legacy of the Dragonborn Patches (Official) - Moonpath to Elsweyr",
+  "nexus_id": 30980,
+  "version": "6.10.9.0",
+  "plugins": [
+    "DBM_Moonpath_Patch.esp"
+  ]
+}
