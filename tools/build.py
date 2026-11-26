@@ -50,6 +50,7 @@ def main(mod_dir, allow_missing):
             if probs:
                 report.append(f'INVALID {plugin} {e["form_id"]} {e["type"]} {probs}: {e["original"][:80]!r}')
                 continue
+            ru = ru.replace('ё', 'е').replace('Ё', 'Е')  # vanilla book fonts have no glyph for it
             out.append({**{k: v for k, v in e.items() if not k.startswith('_')}, 'string': ru})
             total_ok += 1
         if not out:
