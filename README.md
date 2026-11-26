@@ -27,6 +27,7 @@
 | Undeath, Classical Lichdom, Humanoid Dragon Priests, Konahrik's Accoutrements, маски жрецов | 8 плагинов | `mods/undeath-dragon-priests` (недостающие строки, ставится как `RU_undeath-dragon-priests.json`) |
 | Atlas Map Markers SE и патчи | 8 плагинов | `mods/atlas-map-markers` (метки карты и компаса, ставится как `RU_atlas-map-markers.json`) |
 | Feathers of Kyne - An Alternate Death Mod | 1.x | `mods/feathers-of-kyne` |
+| Rogues 'n Raiders, Lawless, OBIS SE | 7 плагинов | `mods/bandits` (имена противников, перки, заклинания, книги; ставится как `RU_bandits.json`) |
 
 ## Как устроен перевод
 

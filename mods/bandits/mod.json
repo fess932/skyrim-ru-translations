@@ -1,0 +1,23 @@
+{
+  "slug": "bandits",
+  "name": "Rogues 'n Raiders, Lawless, OBIS (недостающие строки)",
+  "reuse_installed": true,
+  "plugins": [
+    "Rogues 'n Raiders.esp",
+    "RnR-TRD Patch (No Penalty System).esp",
+    "RnR-VCB Patch (No Penalty System).esp",
+    "JadesRogueDaedra.esp",
+    "Bandit War.esp",
+    "OBIS SE.esp",
+    "OBIS SE Patrols Addon.esp"
+  ],
+  "sources": {
+    "Rogues 'n Raiders.esp": "Rogues 'n Raiders",
+    "RnR-TRD Patch (No Penalty System).esp": "Rogues 'n Raiders",
+    "RnR-VCB Patch (No Penalty System).esp": "Rogues 'n Raiders",
+    "JadesRogueDaedra.esp": "Jade's Rogue Daedra (Rogues n' Raiders - Mihail's Daedra Pack Integration Patch)",
+    "Bandit War.esp": "Lawless - A Bandit Overhaul",
+    "OBIS SE.esp": "OBIS SE - Organized Bandits In Skyrim Special Edition",
+    "OBIS SE Patrols Addon.esp": "OBIS SE Patrols Addon"
+  }
+}

@@ -1,0 +1,74 @@
+[
+ {
+  "original": "OBIS Patrol Stable Raids Faction",
+  "string": "Фракция OBIS Рейды на стойла",
+  "form_id": "000DA39C|OBIS SE Patrols Addon.esp",
+  "type": "FACT FULL",
+  "index": null,
+  "editor_id": "OBIS_Patrol_StableRaids_Faction"
+ },
+ {
+  "original": "- 6",
+  "string": "- 6",
+  "form_id": "000D5299|OBIS SE Patrols Addon.esp",
+  "type": "MESG ITXT",
+  "index": 2,
+  "editor_id": "OBIS_Patrol_Menu50"
+ },
+ {
+  "original": "- 1",
+  "string": "- 1",
+  "form_id": "000D5299|OBIS SE Patrols Addon.esp",
+  "type": "MESG ITXT",
+  "index": 3,
+  "editor_id": "OBIS_Patrol_Menu50"
+ },
+ {
+  "original": "+ 1",
+  "string": "+ 1",
+  "form_id": "000D5299|OBIS SE Patrols Addon.esp",
+  "type": "MESG ITXT",
+  "index": 4,
+  "editor_id": "OBIS_Patrol_Menu50"
+ },
+ {
+  "original": "+ 6",
+  "string": "+ 6",
+  "form_id": "000D5299|OBIS SE Patrols Addon.esp",
+  "type": "MESG ITXT",
+  "index": 5,
+  "editor_id": "OBIS_Patrol_Menu50"
+ },
+ {
+  "original": "-6",
+  "string": "-6",
+  "form_id": "00098664|OBIS SE Patrols Addon.esp",
+  "type": "MESG ITXT",
+  "index": 2,
+  "editor_id": "OBIS_Patrol_Menu20"
+ },
+ {
+  "original": "-1",
+  "string": "-1",
+  "form_id": "00098664|OBIS SE Patrols Addon.esp",
+  "type": "MESG ITXT",
+  "index": 3,
+  "editor_id": "OBIS_Patrol_Menu20"
+ },
+ {
+  "original": "+1",
+  "string": "+1",
+  "form_id": "00098664|OBIS SE Patrols Addon.esp",
+  "type": "MESG ITXT",
+  "index": 4,
+  "editor_id": "OBIS_Patrol_Menu20"
+ },
+ {
+  "original": "+6",
+  "string": "+6",
+  "form_id": "00098664|OBIS SE Patrols Addon.esp",
+  "type": "MESG ITXT",
+  "index": 5,
+  "editor_id": "OBIS_Patrol_Menu20"
+ }
+]

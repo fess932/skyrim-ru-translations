@@ -1,0 +1,122 @@
+[
+ {
+  "original": "Skeleton Fighter",
+  "string": "Скелет-боец",
+  "form_id": "0083B797|Rogues 'n Raiders.esp",
+  "type": "NPC_ FULL",
+  "index": null,
+  "editor_id": "zzRnR_UndeadWarriorS01"
+ },
+ {
+  "original": "Skeleton Warrior",
+  "string": "Скелет-воин",
+  "form_id": "0083B7A0|Rogues 'n Raiders.esp",
+  "type": "NPC_ FULL",
+  "index": null,
+  "editor_id": "zzRnR_UndeadWarriorS02"
+ },
+ {
+  "original": "Skeleton Raider",
+  "string": "Скелет-налетчик",
+  "form_id": "0083B7A1|Rogues 'n Raiders.esp",
+  "type": "NPC_ FULL",
+  "index": null,
+  "editor_id": "zzRnR_UndeadWarriorS03"
+ },
+ {
+  "original": "Skeleton Reaver",
+  "string": "Скелет-разбойник",
+  "form_id": "0083B7A2|Rogues 'n Raiders.esp",
+  "type": "NPC_ FULL",
+  "index": null,
+  "editor_id": "zzRnR_UndeadWarriorS04"
+ },
+ {
+  "original": "Skeleton Marauder",
+  "string": "Скелет-мародер",
+  "form_id": "0083B7A3|Rogues 'n Raiders.esp",
+  "type": "NPC_ FULL",
+  "index": null,
+  "editor_id": "zzRnR_UndeadWarriorS05"
+ },
+ {
+  "original": "Skeleton Champion",
+  "string": "Скелет",
+  "form_id": "0083B7A4|Rogues 'n Raiders.esp",
+  "type": "NPC_ FULL",
+  "index": null,
+  "editor_id": "zzRnR_UndeadWarriorS06"
+ },
+ {
+  "original": "Skeleton Hero",
+  "string": "Скелет-герой",
+  "form_id": "0083B7A5|Rogues 'n Raiders.esp",
+  "type": "NPC_ FULL",
+  "index": null,
+  "editor_id": "zzRnR_UndeadWarriorS07"
+ },
+ {
+  "original": "Bloodletter I",
+  "string": "Кровопускатель I",
+  "form_id": "001E0D8C|The Restless Dead.esp",
+  "type": "PERK FULL",
+  "index": null,
+  "editor_id": "zzRnR_TRD_ClassBloodletter01"
+ },
+ {
+  "original": "Bruiser III",
+  "string": "Громила III",
+  "form_id": "00D3AC22|The Restless Dead.esp",
+  "type": "PERK FULL",
+  "index": null,
+  "editor_id": "zzRnR_TRD_ClassBruiser03"
+ },
+ {
+  "original": "Manhunter III",
+  "string": "Охотник на людей III",
+  "form_id": "00D5922D|The Restless Dead.esp",
+  "type": "PERK FULL",
+  "index": null,
+  "editor_id": "zzRnR_TRD_ClassManhunter03"
+ },
+ {
+  "original": "Bloodletter III",
+  "string": "Кровопускатель III",
+  "form_id": "00D72733|The Restless Dead.esp",
+  "type": "PERK FULL",
+  "index": null,
+  "editor_id": "zzRnR_TRD_ClassBloodletter03"
+ },
+ {
+  "original": "Ravager I",
+  "string": "Опустошитель I",
+  "form_id": "00D77835|The Restless Dead.esp",
+  "type": "PERK FULL",
+  "index": null,
+  "editor_id": "zzRnR_TRD_ClassRavager01"
+ },
+ {
+  "original": "Ravager II",
+  "string": "Опустошитель II",
+  "form_id": "00D77836|The Restless Dead.esp",
+  "type": "PERK FULL",
+  "index": null,
+  "editor_id": "zzRnR_TRD_ClassRavager02"
+ },
+ {
+  "original": "Ravager III",
+  "string": "Опустошитель III",
+  "form_id": "00D77837|The Restless Dead.esp",
+  "type": "PERK FULL",
+  "index": null,
+  "editor_id": "zzRnR_TRD_ClassRavager03"
+ },
+ {
+  "original": "Bloodletter II",
+  "string": "Кровопускатель II",
+  "form_id": "001E0D8B|The Restless Dead.esp",
+  "type": "PERK FULL",
+  "index": null,
+  "editor_id": "zzRnR_TRD_ClassBloodletter02"
+ }
+]

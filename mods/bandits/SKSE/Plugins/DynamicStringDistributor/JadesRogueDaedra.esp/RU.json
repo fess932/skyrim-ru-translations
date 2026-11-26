@@ -1,0 +1,162 @@
+[
+ {
+  "original": "Conjure Dark Seducer Warrior",
+  "string": "Вызов воина темных соблазнителей",
+  "form_id": "00000816|JadesRogueDaedra.esp",
+  "type": "MGEF FULL",
+  "index": null,
+  "editor_id": "JRD_ccBGSSSE025_SummonDarkSeducerWarriorMidden"
+ },
+ {
+  "original": "Summons a Dark Seducer Warrior for <dur> seconds wherever the caster is pointing.",
+  "string": "Призывает воина темных соблазнителей на <dur> сек. в точку, в которую указывает заклинатель.",
+  "form_id": "00000816|JadesRogueDaedra.esp",
+  "type": "MGEF DNAM",
+  "index": null,
+  "editor_id": "JRD_ccBGSSSE025_SummonDarkSeducerWarriorMidden"
+ },
+ {
+  "original": "Conjure Dark Seducer Archer",
+  "string": "Вызов лучника темных соблазнителей",
+  "form_id": "00000818|JadesRogueDaedra.esp",
+  "type": "MGEF FULL",
+  "index": null,
+  "editor_id": "JRD_ccBGSSSE025_SummonDarkSeducerArcherMidden"
+ },
+ {
+  "original": "Summons a Dark Seducer Warrior for <dur> seconds wherever the caster is pointing.",
+  "string": "Призывает воина темных соблазнителей на <dur> сек. в точку, в которую указывает заклинатель.",
+  "form_id": "00000818|JadesRogueDaedra.esp",
+  "type": "MGEF DNAM",
+  "index": null,
+  "editor_id": "JRD_ccBGSSSE025_SummonDarkSeducerArcherMidden"
+ },
+ {
+  "original": "Conjure Dark Seducer Warrior",
+  "string": "Вызов воина темных соблазнителей",
+  "form_id": "00000808|JadesRogueDaedra.esp",
+  "type": "SPEL FULL",
+  "index": null,
+  "editor_id": "zzJRD_ConjureDarkSeducer02LH"
+ },
+ {
+  "original": "Conjure Daedrat",
+  "string": "Вызов даэдрысы",
+  "form_id": "00000809|JadesRogueDaedra.esp",
+  "type": "SPEL FULL",
+  "index": null,
+  "editor_id": "zzJRD_Mihail_ConjureDaedrat00LH"
+ },
+ {
+  "original": "Conjure High Clannfear",
+  "string": "Вызов высшего кланфира",
+  "form_id": "0000080A|JadesRogueDaedra.esp",
+  "type": "SPEL FULL",
+  "index": null,
+  "editor_id": "zzJRD_Mihail_ConjureHighClannfear02LH"
+ },
+ {
+  "original": "Conjure Hunger",
+  "string": "Вызов алчущего",
+  "form_id": "0000080B|JadesRogueDaedra.esp",
+  "type": "SPEL FULL",
+  "index": null,
+  "editor_id": "zzJRD_Mihail_ConjureHunger02LH"
+ },
+ {
+  "original": "Conjure Lesser Daedroth Deathdealer",
+  "string": "Вызов младшего даэдрота – вестника смерти",
+  "form_id": "0000080C|JadesRogueDaedra.esp",
+  "type": "SPEL FULL",
+  "index": null,
+  "editor_id": "zzJRD_Mihail_ConjureDaedrothDeathdealer03LH"
+ },
+ {
+  "original": "Conjure Lesser Daedroth Dreadclaw",
+  "string": "Вызов младшего даэдрота – когтя ужаса",
+  "form_id": "0000080D|JadesRogueDaedra.esp",
+  "type": "SPEL FULL",
+  "index": null,
+  "editor_id": "zzJRD_Mihail_ConjureDaedrothDreadclaw02LH"
+ },
+ {
+  "original": "Conjure Lesser Daedroth Painbringer",
+  "string": "Вызов младшего даэдрота-мучителя",
+  "form_id": "0000080E|JadesRogueDaedra.esp",
+  "type": "SPEL FULL",
+  "index": null,
+  "editor_id": "zzJRD_Mihail_ConjureDaedrothPainbringuer02LH"
+ },
+ {
+  "original": "Conjure Ogrim",
+  "string": "Вызов огрима",
+  "form_id": "0000080F|JadesRogueDaedra.esp",
+  "type": "SPEL FULL",
+  "index": null,
+  "editor_id": "zzJRD_Mihail_ConjureOgrim04LH"
+ },
+ {
+  "original": "Conjure Scamp",
+  "string": "Вызов скампа",
+  "form_id": "00000810|JadesRogueDaedra.esp",
+  "type": "SPEL FULL",
+  "index": null,
+  "editor_id": "zzJRD_Mihail_ConjureScamp01LH"
+ },
+ {
+  "original": "Conjure Widow Daedra",
+  "string": "Вызов вдовы даэдра",
+  "form_id": "00000811|JadesRogueDaedra.esp",
+  "type": "SPEL FULL",
+  "index": null,
+  "editor_id": "zzJRD_Mihail_ConjureWidowDaedra03LH"
+ },
+ {
+  "original": "Conjure Xivilai Immolator",
+  "string": "Вызов зивилая-опалителя",
+  "form_id": "00000812|JadesRogueDaedra.esp",
+  "type": "SPEL FULL",
+  "index": null,
+  "editor_id": "zzJRD_Mihail_ConjureXivilaiImmolator03LH"
+ },
+ {
+  "original": "Conjure Xivilai Ravager",
+  "string": "Вызов зивилая-опустошителя",
+  "form_id": "00000813|JadesRogueDaedra.esp",
+  "type": "SPEL FULL",
+  "index": null,
+  "editor_id": "zzJRD_Mihail_ConjureXivilaiRavager03LH"
+ },
+ {
+  "original": "Conjure Xivilai Slaughter Priest",
+  "string": "Вызов зивилая – жреца резни",
+  "form_id": "00000814|JadesRogueDaedra.esp",
+  "type": "SPEL FULL",
+  "index": null,
+  "editor_id": "zzJRD_Mihail_ConjureXivilaiSlaughterPriest04LH"
+ },
+ {
+  "original": "Conjure Xivilai Tormentor",
+  "string": "Вызов зивилая-мучителя",
+  "form_id": "00000815|JadesRogueDaedra.esp",
+  "type": "SPEL FULL",
+  "index": null,
+  "editor_id": "zzJRD_Mihail_ConjureXivilaiTormentor04LH"
+ },
+ {
+  "original": "Conjure Dark Seducer Warrior",
+  "string": "Вызов воина темных соблазнителей",
+  "form_id": "00000817|JadesRogueDaedra.esp",
+  "type": "SPEL FULL",
+  "index": null,
+  "editor_id": "zzJRD_ConjureDarkSeducerWarrior04LH"
+ },
+ {
+  "original": "Conjure Dark Seducer Archer",
+  "string": "Вызов лучника темных соблазнителей",
+  "form_id": "00000819|JadesRogueDaedra.esp",
+  "type": "SPEL FULL",
+  "index": null,
+  "editor_id": "zzJRD_ConjureDarkSeducerArcher04LH"
+ }
+]

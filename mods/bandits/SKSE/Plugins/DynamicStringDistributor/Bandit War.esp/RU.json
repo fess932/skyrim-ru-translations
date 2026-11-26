@@ -1,0 +1,346 @@
+[
+ {
+  "original": "Reaver Spellsword",
+  "string": "Разбойник - воин-маг",
+  "form_id": "0001E8AC|Dragonborn.esm",
+  "type": "CLAS FULL",
+  "index": null,
+  "editor_id": "OREO_DLC2EncClassBanditHeavySpellswordBoss"
+ },
+ {
+  "original": "Bandit Vanguard",
+  "string": "Бандит-заступник",
+  "form_id": "00005904|Bandit War.esp",
+  "type": "CLAS FULL",
+  "index": null,
+  "editor_id": "OREO_EncClassBanditVanguard"
+ },
+ {
+  "original": "Bandit Restoration Spellsword",
+  "string": "Бандит - воин-маг восстановления",
+  "form_id": "0000AA09|Bandit War.esp",
+  "type": "CLAS FULL",
+  "index": null,
+  "editor_id": "OREO_EncClassBanditRestorationSpellsword"
+ },
+ {
+  "original": "Bandit Sorcerer",
+  "string": "Бандит-чародей",
+  "form_id": "00024F8A|Bandit War.esp",
+  "type": "CLAS FULL",
+  "index": null,
+  "editor_id": "OREO_EncClassBanditSorcerer"
+ },
+ {
+  "original": "Bandit Sniper",
+  "string": "Бандит-снайпер",
+  "form_id": "00024F8B|Bandit War.esp",
+  "type": "CLAS FULL",
+  "index": null,
+  "editor_id": "OREO_EncClassBanditSniper"
+ },
+ {
+  "original": "Bandit Champion",
+  "string": "Бандит-защитник",
+  "form_id": "0006295D|Bandit War.esp",
+  "type": "CLAS FULL",
+  "index": null,
+  "editor_id": "OREO_EncClassBanditChampion"
+ },
+ {
+  "original": "Bandit Spellsword",
+  "string": "Бандит - воин-маг",
+  "form_id": "0000AA0A|Bandit War.esp",
+  "type": "CLAS FULL",
+  "index": null,
+  "editor_id": "OREO_EncClassBanditSpellsword"
+ },
+ {
+  "original": "Bandit Warrior",
+  "string": "Бандит-воин",
+  "form_id": "00071CAF|Bandit War.esp",
+  "type": "CLAS FULL",
+  "index": null,
+  "editor_id": "OREO_EncClassBanditWarrior"
+ },
+ {
+  "original": "Bandit Monk",
+  "string": "Бандит-монах",
+  "form_id": "000B3B4B|Bandit War.esp",
+  "type": "CLAS FULL",
+  "index": null,
+  "editor_id": "OREO_EncClassBanditMonk"
+ },
+ {
+  "original": "Bandit Nightblade",
+  "string": "Бандит - ночной клинок",
+  "form_id": "00024F8C|Bandit War.esp",
+  "type": "CLAS FULL",
+  "index": null,
+  "editor_id": "OREO_EncClassBanditNightblade"
+ },
+ {
+  "original": "Bandit Berserker",
+  "string": "Бандит берсерк",
+  "form_id": "00024F8D|Bandit War.esp",
+  "type": "CLAS FULL",
+  "index": null,
+  "editor_id": "OREO_EncClassBanditBerserker"
+ },
+ {
+  "original": "Bandit Battlemage",
+  "string": "Бандит-боевой маг",
+  "form_id": "00024F8E|Bandit War.esp",
+  "type": "CLAS FULL",
+  "index": null,
+  "editor_id": "OREO_EncClassBanditBattlemage"
+ },
+ {
+  "original": "Bandit Brawler",
+  "string": "Бандит-дебошир",
+  "form_id": "00024F8F|Bandit War.esp",
+  "type": "CLAS FULL",
+  "index": null,
+  "editor_id": "OREO_EncClassBanditBrawler"
+ },
+ {
+  "original": "Bandit Witchhunter",
+  "string": "Бандит-инквизитор",
+  "form_id": "00024F90|Bandit War.esp",
+  "type": "CLAS FULL",
+  "index": null,
+  "editor_id": "OREO_EncClassBanditWitchhunter"
+ },
+ {
+  "original": "Bandit Barbarian",
+  "string": "Бандит-варвар",
+  "form_id": "0006295C|Bandit War.esp",
+  "type": "CLAS FULL",
+  "index": null,
+  "editor_id": "OREO_EncClassBanditBarbarian"
+ },
+ {
+  "original": "Bandit Battlemage",
+  "string": "Бандит-боевой маг",
+  "form_id": "000B8D6B|Bandit War.esp",
+  "type": "CLAS FULL",
+  "index": null,
+  "editor_id": "OREO_EncClassBanditBattlemageRestoration"
+ },
+ {
+  "original": "Bandit Agent",
+  "string": "Бандит Агент",
+  "form_id": "000D2361|Bandit War.esp",
+  "type": "CLAS FULL",
+  "index": null,
+  "editor_id": "OREO_EncClassBanditAgent"
+ },
+ {
+  "original": "Bandit Healer",
+  "string": "Бандит-целитель",
+  "form_id": "0014BFDE|Bandit War.esp",
+  "type": "CLAS FULL",
+  "index": null,
+  "editor_id": "OREO_EncClassBanditHealer"
+ },
+ {
+  "original": "Bandit Berserker",
+  "string": "Бандит берсерк",
+  "form_id": "0015637B|Bandit War.esp",
+  "type": "CLAS FULL",
+  "index": null,
+  "editor_id": "OREO_EncClassBanditVendil"
+ },
+ {
+  "original": "Rage - Movement Speed",
+  "string": "Ярость: скорость передвижения",
+  "form_id": "00067A7D|Bandit War.esp",
+  "type": "MGEF FULL",
+  "index": null,
+  "editor_id": "OREO_RageMgef"
+ },
+ {
+  "original": "Ward Priority",
+  "string": "Приоритет оберега",
+  "form_id": "000A47AD|Bandit War.esp",
+  "type": "MGEF FULL",
+  "index": null,
+  "editor_id": "OREO_WardConcSelfPriorityDummy"
+ },
+ {
+  "original": "Invisibility Priority Dummy",
+  "string": "Приоритет невидимости (манекен)",
+  "form_id": "000C8101|Bandit War.esp",
+  "type": "MGEF FULL",
+  "index": null,
+  "editor_id": "OREO_crInvisibillityPriorityDummy"
+ },
+ {
+  "original": "Bound Bow Fix",
+  "string": "Исправление призванного лука",
+  "form_id": "000D74C7|Bandit War.esp",
+  "type": "MGEF FULL",
+  "index": null,
+  "editor_id": "OREO_BoundBowFix"
+ },
+ {
+  "original": "Bound Bow 40 Fix",
+  "string": "Исправление призванного лука 40",
+  "form_id": "000E16CA|Bandit War.esp",
+  "type": "MGEF FULL",
+  "index": null,
+  "editor_id": "OREO_BoundBow40Fix"
+ },
+ {
+  "original": "Bound Bow 80 Fix",
+  "string": "Исправление призванного лука 80",
+  "form_id": "000E16CB|Bandit War.esp",
+  "type": "MGEF FULL",
+  "index": null,
+  "editor_id": "OREO_BoundBow80Fix"
+ },
+ {
+  "original": "Flesh Priority",
+  "string": "Приоритет заклинаний кожи",
+  "form_id": "0014C0AC|Bandit War.esp",
+  "type": "MGEF FULL",
+  "index": null,
+  "editor_id": "OREO_FleshFFSelfPriority"
+ },
+ {
+  "original": "Invisibility Priority Dummy",
+  "string": "Приоритет невидимости (манекен)",
+  "form_id": "00156368|Bandit War.esp",
+  "type": "MGEF FULL",
+  "index": null,
+  "editor_id": "OREO_crInvisibillityRangedDummy"
+ },
+ {
+  "original": "Bound Weapon Priority",
+  "string": "Приоритет призванного оружия",
+  "form_id": "0002AD53|Bandit War.esp",
+  "type": "MGEF FULL",
+  "index": null,
+  "editor_id": "OREO_BoundWeaponFFSelfPriority"
+ },
+ {
+  "original": "Health Regeneration",
+  "string": "Восстановление здоровья",
+  "form_id": "000A47AB|Bandit War.esp",
+  "type": "SPEL FULL",
+  "index": null,
+  "editor_id": "OREO_AbHeavyRegen"
+ },
+ {
+  "original": "Bound Bow Enabler",
+  "string": "Активатор призванного лука",
+  "form_id": "000D74C9|Bandit War.esp",
+  "type": "SPEL FULL",
+  "index": null,
+  "editor_id": "OREO_crBoundBowFixSpell"
+ },
+ {
+  "original": "Bound Bow Enabler",
+  "string": "Активатор призванного лука",
+  "form_id": "000E16CD|Bandit War.esp",
+  "type": "SPEL FULL",
+  "index": null,
+  "editor_id": "OREO_crBoundBowFix40Spell"
+ },
+ {
+  "original": "Bound Bow Enabler",
+  "string": "Активатор призванного лука",
+  "form_id": "000E16CE|Bandit War.esp",
+  "type": "SPEL FULL",
+  "index": null,
+  "editor_id": "OREO_crBoundBowFix80Spell"
+ },
+ {
+  "original": "Bound Bow Fix",
+  "string": "Исправление призванного лука",
+  "form_id": "000D74C8|Bandit War.esp",
+  "type": "PERK FULL",
+  "index": null,
+  "editor_id": "OREO_BoundBowFixPerk"
+ },
+ {
+  "original": "Bound Bow Fix",
+  "string": "Исправление призванного лука",
+  "form_id": "000E16CC|Bandit War.esp",
+  "type": "PERK FULL",
+  "index": null,
+  "editor_id": "OREO_BoundBowFix40Perk"
+ },
+ {
+  "original": "Bound Bow Fix",
+  "string": "Исправление призванного лука",
+  "form_id": "000E16D5|Bandit War.esp",
+  "type": "PERK FULL",
+  "index": null,
+  "editor_id": "OREO_BoundBowFix80Perk"
+ },
+ {
+  "original": "NPC Restoration Costs",
+  "string": "Стоимость заклинаний восстановления (NPC)",
+  "form_id": "00119437|Bandit War.esp",
+  "type": "PERK FULL",
+  "index": null,
+  "editor_id": "OREO_RestorationSpellCost"
+ },
+ {
+  "original": "Cast Restoration spells for reduced Magicka.",
+  "string": "Заклинания школы Восстановления расходуют меньше магии.",
+  "form_id": "00119437|Bandit War.esp",
+  "type": "PERK DESC",
+  "index": null,
+  "editor_id": "OREO_RestorationSpellCost"
+ },
+ {
+  "original": "NPC Alteration Costs",
+  "string": "Стоимость заклинаний изменения (NPC)",
+  "form_id": "0014C0A7|Bandit War.esp",
+  "type": "PERK FULL",
+  "index": null,
+  "editor_id": "OREO_AlterationSpellCost"
+ },
+ {
+  "original": "Cast Alteration spells for reduced Magicka.",
+  "string": "Заклинания школы Изменения расходуют меньше магии.",
+  "form_id": "0014C0A7|Bandit War.esp",
+  "type": "PERK DESC",
+  "index": null,
+  "editor_id": "OREO_AlterationSpellCost"
+ },
+ {
+  "original": "Cloak go long",
+  "string": "Долгий плащ",
+  "form_id": "00156445|Bandit War.esp",
+  "type": "PERK FULL",
+  "index": null,
+  "editor_id": "OREO_CloakGoLong"
+ },
+ {
+  "original": "Make cloak go long",
+  "string": "Продлевает действие плаща",
+  "form_id": "00156445|Bandit War.esp",
+  "type": "PERK DESC",
+  "index": null,
+  "editor_id": "OREO_CloakGoLong"
+ },
+ {
+  "original": "NPC Destruction Costs",
+  "string": "Стоимость заклинаний разрушения (NPC)",
+  "form_id": "0003F194|Bandit War.esp",
+  "type": "PERK FULL",
+  "index": null,
+  "editor_id": "OREO_DestructionSpellCost"
+ },
+ {
+  "original": "Cast Destruction spells for reduced Magicka.",
+  "string": "Заклинания школы Разрушения расходуют меньше магии.",
+  "form_id": "0003F194|Bandit War.esp",
+  "type": "PERK DESC",
+  "index": null,
+  "editor_id": "OREO_DestructionSpellCost"
+ }
+]
