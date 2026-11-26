@@ -16,6 +16,8 @@ PAGEBREAK = re.compile(r'\[pagebreak\]', re.I)
 FMT = re.compile(r'%[0-9.]*[sdif%]')
 CYR = re.compile('[Ѐ-ӿ]')
 TECHNICAL = re.compile(r'[A-Za-z0-9_:.\-]*(?:[a-z][A-Z]|_|\d)[A-Za-z0-9_:.\-]*|[A-Z0-9_]+')
+# text set in a glyph font: the letters are a cipher, not English
+CIPHER = re.compile(r"<font face='\$(?:MageScript|Dragon|Falmer|Daedric|Dwemer)[^']*'>.*?</font>", re.S | re.I)
 LATIN_WORD = re.compile(r'(?<![<\w=\'"/.])[A-Za-z]{4,}(?![\w>])')
 
 
@@ -34,6 +36,8 @@ def check(en, ru):
         return ['empty']
     if ru == en and TECHNICAL.fullmatch(en):
         return []  # editor IDs and similar are left as is on purpose
+    if ru == en and CIPHER.search(en) and not strip_tags(CIPHER.sub('', en)).strip():
+        return []  # MageScript/Dragon/Falmer/Daedric fonts draw Latin letters as glyphs: keep as is
     if tags(en) != tags(ru):
         p.append('tags differ: %s' % tag_diff(en, ru)[:4])
     if len(PAGEBREAK.findall(en)) != len(PAGEBREAK.findall(ru)):
