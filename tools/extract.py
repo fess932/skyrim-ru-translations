@@ -129,6 +129,8 @@ def extract(path):
                 key = ('MGEF DNAM', None)
             elif rt == 'BOOK' and st == 'CNAM':
                 key = ('BOOK CNAM', None)
+            elif rt == 'QUST' and st == 'FULL':
+                key = ('QUST FULL', None)
             elif st in GENERIC and rt not in ('INFO', 'QUST'):
                 if st == 'RNAM' and rt not in ('ACTI', 'FLOR'):
                     continue  # NPC_/HDPT/RACE RNAM are form ids, not text
