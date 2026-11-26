@@ -83,7 +83,8 @@ def mod_status(work):
 
 
 def status():
-    mods = [mod_status(w) for w in sorted(glob.glob(os.path.join(ROOT, 'work', '*'))) if os.path.isdir(w)]
+    mods = [mod_status(w) for w in sorted(glob.glob(os.path.join(ROOT, 'work', '*')))
+            if os.path.isdir(os.path.join(w, 'batches'))]  # skip scratch folders
     return {'time': time.strftime('%H:%M:%S'), 'mods': mods}
 
 

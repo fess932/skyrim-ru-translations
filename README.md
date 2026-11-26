@@ -10,7 +10,7 @@
 ## Установка перевода
 
 1. Поставьте мод и **Dynamic String Distributor**.
-2. Скопируйте папку `mods/<мод>/SKSE` в игру (или в отдельный мод в MO2/Vortex).
+2. Скопируйте папки `mods/<мод>/SKSE` (и `Magelight`, если есть) в игру или в отдельный мод в MO2/Vortex с приоритетом выше оригинала.
 3. Язык игры — русский (`sLanguage=RUSSIAN`).
 
 Строки без перевода остаются английскими, игра от этого не ломается.
@@ -19,7 +19,7 @@
 
 | Мод | Версия | Папка |
 |---|---|---|
-| [Become High King of Skyrim TNG](https://www.nexusmods.com/skyrimspecialedition/mods/142993) | 2.3 | `mods/become-high-king-tng` |
+| [Become High King of Skyrim TNG](https://www.nexusmods.com/skyrimspecialedition/mods/142993) | 2.3 | `mods/become-high-king-tng` (DSD + интерфейс «Королевской книги» в `Magelight/`) |
 
 ## Как устроен перевод
 
