@@ -1,0 +1,9 @@
+{
+  "slug": "guard-dialogue-overhaul",
+  "name": "Guard Dialogue Overhaul Redux",
+  "nexus_id": 20791,
+  "version": "1.8.1.0",
+  "plugins": [
+    "Guard Dialogue Overhaul.esp"
+  ]
+}

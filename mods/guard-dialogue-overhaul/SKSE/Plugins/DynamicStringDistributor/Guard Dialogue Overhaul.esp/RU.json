@@ -1,0 +1,2850 @@
+[
+ {
+  "original": "DialogueGenericHello",
+  "string": "DialogueGenericHello",
+  "form_id": "000142B5|Skyrim.esm",
+  "type": "DIAL FULL",
+  "index": null,
+  "editor_id": "DialogueGenericHello"
+ },
+ {
+  "original": "Speak, elf.",
+  "string": "Говори, эльф.",
+  "form_id": "00087937|Skyrim.esm",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "What do you want, cat?",
+  "string": "Что тебе нужно, кошатина?",
+  "form_id": "00087938|Skyrim.esm",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "What do you want, lizard?",
+  "string": "Что тебе нужно, ящерица?",
+  "form_id": "00087939|Skyrim.esm",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "What do you want, Imperial?",
+  "string": "Что тебе нужно, имперец?",
+  "form_id": "0008793A|Skyrim.esm",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "What do you want, little elf?",
+  "string": "Что тебе нужно, малявка-эльф?",
+  "form_id": "00087936|Skyrim.esm",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "Too bad. There's more where that came from.",
+  "string": "Ну и? Что хочу, то и делаю.",
+  "form_id": "000167B8|Skyrim.esm",
+  "type": "DIAL FULL",
+  "index": null,
+  "editor_id": "WICastMagic03NotSorry"
+ },
+ {
+  "original": "Can't say I've heard of any laws against... whatever that is you're doing. But I'll lock you up if I have to.",
+  "string": "Не стану утверждать, что... то, что ты делаешь... запрещено законом. Но я арестую тебя, если придется.",
+  "form_id": "000167CA|Skyrim.esm",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "Hello.",
+  "string": "Привет.",
+  "form_id": "000167BA|Skyrim.esm",
+  "type": "DIAL FULL",
+  "index": null,
+  "editor_id": "WICastMagic03BranchTopic"
+ },
+ {
+  "original": "I need to ask you to stop. That... shouting... is making people nervous. ",
+  "string": "Прошу тебя прекратить. Все эти... крики... Люди нервничают.",
+  "form_id": "000167BC|Skyrim.esm",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "You look tired, friend. The Bannered Mare has beds for rent.",
+  "string": "У тебя усталый вид. В Гарцующей кобыле можно остановиться на ночлег.",
+  "form_id": "0002BDF1|Skyrim.esm",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "Cause trouble in Whiterun, and I'll haul you into the Dragonsreach dungeon myself.",
+  "string": "Будешь в Вайтране дурить - я тебя лично в подземелья упрячу.",
+  "form_id": "000AD808|Skyrim.esm",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "You know, I could have gone into that Sanctuary. Killed all those Dark Brotherhood types. But I was... sick that day.",
+  "string": "Знаешь, меня тоже могло занести в это убежище. Чтобы перебить там все Темное Братство. Только у меня в этот день... живот болел.",
+  "form_id": "000DD0C1|Skyrim.esm",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "Helgen... destroyed by a dragon. Hard to believe, isn't it?",
+  "string": "Хелген... разрушен драконом. Даже не верится, правда?",
+  "form_id": "000DD0C0|Skyrim.esm",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "I know who you are, assassin. I guess the rumors about your kind's \"extinction\" have been... exaggerated.",
+  "string": "Я знаю, кто ты, ассасин. Похоже, слухи о том, что твои сородичи вымерли несколько... преувеличены.",
+  "form_id": "000DD0C2|Skyrim.esm",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "So the Emperor had a decoy. Poor bastard got murdered, too. But then, I guess that was his job...",
+  "string": "Итак, у императора был двойник. И бедолагу убили. Но ведь это и была его работа - умереть за императора...",
+  "form_id": "000DD0C3|Skyrim.esm",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "Now, I know who you are. And... and I know your business... Just, please... These are good folk we got here. Mostly...",
+  "string": "Эй, я знаю, кто ты. И... и я знаю, чем ты занимаешься... Только, пожалуйста... У нас тут хорошие люди. В основном...",
+  "form_id": "000DD0C4|Skyrim.esm",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "It ain't true what they say about you and... and the Dark Brotherhood? Is it?",
+  "string": "Слушай, это ведь неправда, что говорят про тебя и... и Темное Братство? Или правда?",
+  "form_id": "000DD0C5|Skyrim.esm",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "There are stories about you, and dark tidings in Dawnstar...",
+  "string": "О тебе много чего любопытного рассказывают...",
+  "form_id": "000DD0C6|Skyrim.esm",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "Seems the Emperor's coming to Skyrim... and one of his own protectors was going to have him assassinated. Can't trust anyone these days.",
+  "string": "Император приезжает в Скайрим... И его же телохранитель собирается его убить. В наши дни никому верить нельзя.",
+  "form_id": "000DD0C7|Skyrim.esm",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "Riften's under my protection. You watch yourself, now.",
+  "string": "Рифтен находится под моей защитой. Так что без глупостей.",
+  "form_id": "00011AF0|Guard Dialogue Overhaul.esp",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "Cause trouble in Whiterun, and I'll haul you into the Dragonsreach dungeon myself.",
+  "string": "Будешь в Вайтране дурить - я тебя лично в подземелья упрячу.",
+  "form_id": "00014B68|Guard Dialogue Overhaul.esp",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "Now that the Empire's arrived in Riften, we've finally established a launching point into Morrowind... just in case.",
+  "string": "Теперь, когда Империя закрепилась в Рифтене, мы наконец создали отправную точку в Морровинд... на всякий случай.",
+  "form_id": "0000CF64|Guard Dialogue Overhaul.esp",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "Keep clear of the College, and keep yourself out of trouble.",
+  "string": "Держись подальше от Коллегии и не впутывайся в неприятности.",
+  "form_id": "0000CF5F|Guard Dialogue Overhaul.esp",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "Outsiders aren't trusted in Markarth. Best keep that in mind.",
+  "string": "В Маркарте не доверяют чужакам. Учти на будущее.",
+  "form_id": "0000CF62|Guard Dialogue Overhaul.esp",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "It's too bad they executed Roggvir before we got here.",
+  "string": "Жаль, Роггвира казнили до нашего приезда.",
+  "form_id": "000DD062|Skyrim.esm",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "They say Helgen got hit by a dragon. One of those horrors comes here, we'll be ready.",
+  "string": "Говорят, на Хелген напал дракон. Если такое чудище явится сюда - мы будем готовы.",
+  "form_id": "000EA261|Skyrim.esm",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "Brigands I can handle, but this talk of dragons? World's gone mad, I say.",
+  "string": "С разбойниками я еще могу справиться, но теперь вона драконы объявились... Как по мне, так мир сошел с ума.",
+  "form_id": "000D27DF|Skyrim.esm",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "The Greybeards have summoned the Dragonborn to High Hrothgar. Such a thing has not happened for... hundreds of years.",
+  "string": "Седобородые призвали Довакина в Высокий Хротгар. Такого не случалось уже... сотни лет.",
+  "form_id": "000DD063|Skyrim.esm",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "There was a fight down in the Ratway, but reports are... sketchy. Some say it was Thalmor Agents, others say Thieves Guild. Some say it was both.",
+  "string": "В Крысиной норе была заварушка, но слухи до нас доходят... разные. Кто-то говорит, что там орудовали агенты Талмора, кто-то - что Гильдия воров. А кто-то - что и те, и другие.",
+  "form_id": "000DD064|Skyrim.esm",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "Word is Elenwen's furious. Big party at the Thalmor Embassy, and one of the guests went someplace they shouldn't. Caused quite a commotion.",
+  "string": "Ходят слухи, будто Эленвен в ярости. В талморском посольстве был большой прием, и одного из гостей занесло, куда не следовало. Шороху было...",
+  "form_id": "000DD065|Skyrim.esm",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "Have you heard? There's been another dragon attack. Kynesgrove, this time.",
+  "string": "Знаешь уже, нет? Дракон снова напал. На этот раз на Рощу Кин.",
+  "form_id": "000DD066|Skyrim.esm",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "What could it mean? The return of the Dragonborn? And who among us could possibly hold that honor? And such power?",
+  "string": "Что бы это значило? Возвращение Довакина? И кто из нас мог бы оказаться достойным такой чести? И такой силы?",
+  "form_id": "000DD067|Skyrim.esm",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "By the gods, it's true, isn't it? A dragon has attacked Whiterun. How could mere men bring down such a beast?",
+  "string": "Боги, неужто правда? На Вайтран напал дракон. Как нам, обычным людям, справиться с таким созданьем?",
+  "form_id": "000DD068|Skyrim.esm",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "By Ysmir, you did it. You killed a dragon.",
+  "string": "Клянусь Исмиром, тебе удалось убить дракона.",
+  "form_id": "000DD069|Skyrim.esm",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "There's been talk amongst the guards. That you are... Dragonborn. But such a thing... Surely that's not possible...",
+  "string": "Стражники болтали, что ты... Довакин. Но это же... Конечно, это невозможно...",
+  "form_id": "000DD06A|Skyrim.esm",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "The guards in Dragonsreach say you've aided the Jarl. On behalf of Whiterun, I thank you.",
+  "string": "Стража Драконьего Предела говорит, что твоя помощь была неоценима для ярла. Благодарю тебя от имени всего Вайтрана.",
+  "form_id": "000DD06B|Skyrim.esm",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "I've seen you helping the Jarl. If only all visitors to Whiterun were as noble.",
+  "string": "Я знаю, что ты помогаешь ярлу. Вот бы все гости Вайтрана были столь же благородны.",
+  "form_id": "000DD06C|Skyrim.esm",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "It was you who convinced the Jarl to trap that dragon in the keep. And by Ysmir, it actually worked.",
+  "string": "Это ведь ты убедил ярла заманить того дракона в замок. И, клянусь Исмиром, сработало.",
+  "form_id": "000DD06D|Skyrim.esm",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "There's a dragon. Here. In Dragonsreach. And I thought it was just a name.",
+  "string": "Дракон здесь. В Драконьем Пределе. А мне-то казалось, это просто название.",
+  "form_id": "000DD06E|Skyrim.esm",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "We had that beast contained. And you released it! Why? Why would you do such a thing?",
+  "string": "Мы заперли это чудовище. А ты его выпускаешь! Зачем? Как тебе такое пришло в голову?",
+  "form_id": "000DD06F|Skyrim.esm",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "Is it true what they say? There was a dragon held captive in Whiterun, and you... you released it? By the gods, man, why?",
+  "string": "Это правда, что все болтают? Мол, в Вайтране поймали дракона, а ты его выпустил? Святые боги, парень, зачем ты это сделал?",
+  "form_id": "000DD070|Skyrim.esm",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "Is it true what they say? There was a dragon held captive in Whiterun, and you... you released it? By the gods, woman, why?",
+  "string": "Это правда, что все болтают? Мол, в Вайтране поймали дракона, а ты его выпустила? Святые боги, женщина, зачем ты это сделала?",
+  "form_id": "000DD071|Skyrim.esm",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "The Greybeards have arranged a truce between the Stormcloaks and Imperials. How long can such a thing last?",
+  "string": "Седобородые устроили перемирие между имперцами и Братьями Бури. Интересно, сколько оно продлится?",
+  "form_id": "000DD072|Skyrim.esm",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "The Greybeards have called a peace council, at High Hrothgar. And can you believe it - both Ulfric Stormcloak and General Tullius have agreed to go.",
+  "string": "Седобородые созвали мирный совет в Высоком Хротгаре. И веришь ли - и Ульфрик Буревестник, и генерал Туллий согласились прийти.",
+  "form_id": "000DD073|Skyrim.esm",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "Word is spreading like magefire! The great evil has been vanquished! You have truly saved us all!",
+  "string": "Вести распространяются, как чума! Великое зло уничтожено! Благодаря тебе мы все спасены!",
+  "form_id": "000DD074|Skyrim.esm",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "All hail the Dragonborn!",
+  "string": "Слава Довакину!",
+  "form_id": "000DD075|Skyrim.esm",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "In the ancient tongue, you are Dovahkiin - Dragonborn!",
+  "string": "Тебя называют Довакин. Это слово из древнего языка драконов.",
+  "form_id": "000DD076|Skyrim.esm",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "You! You're the one who wiped out the Dark Brotherhood! All the guards are talking about it... You're a hero to us all!",
+  "string": "Это ты! Это ты победитель Темного Братства! Вся стража только об этом и говорит... Ты настоящий герой!",
+  "form_id": "000D3BF7|Skyrim.esm",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "You hear the news? The Emperor has been murdered! Right here, in Skyrim. By the gods, if the Dark Brotherhood can do that, nobody's safe...",
+  "string": "Слышали новость? Императора убили! Прямо здесь, в Скайриме. Богами клянусь, если Темное Братство способно на такое, то все мы в опасности...",
+  "form_id": "00101ACD|Skyrim.esm",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "By the gods. The Emperor's been murdered. On his own ship... moored in the inlet. It was... the Dark Brotherhood. There was nothing we could do...",
+  "string": "Святые боги! Императора убили. На собственном корабле... в бухте. Дело рук... Темного Братства. Мы ничего не могли сделать...",
+  "form_id": "000DD077|Skyrim.esm",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "That old woman who runs the orphanage has been murdered. Say, didn't I see you coming out of there...? ",
+  "string": "Старуху, что держала приют для сирот, убили. Слушай, мы часом не встречались с тобой на выходе из приюта?",
+  "form_id": "000DD078|Skyrim.esm",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "Been a murder, over in Riften. Some old lady who runs an orphanage. Those poor children must be heartbroken.",
+  "string": "В Рифтене произошло убийство. Грохнули старушку, хозяйку приюта. Должно быть, несчастные сироты рыдают от горя.",
+  "form_id": "000DD079|Skyrim.esm",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "Hey! You're the one who killed Alain Dufont, up in Raldbthar. Oh yeah, word about that got around. Man was a piece of bandit trash, is what I hear.",
+  "string": "Эй! Это ведь тебе мы обязаны смертью Алена Дюфона в Ральдбтхаре. Слухами земля полнится. Говорят, он был отпетый бандит.",
+  "form_id": "000DD07A|Skyrim.esm",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "The Emperor's cousin, killed. Right here in Solitude. I feel nothing but shame...",
+  "string": "Кузину императора убили. Прямо тут, в Солитьюде. Так ее жаль...",
+  "form_id": "000DD07B|Skyrim.esm",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "The cousin of the Emperor was murdered! In Solitude, at her own damn wedding. Not a chance we would have let that happen here.",
+  "string": "Кузину императора убили! В Солитьюде, на ее собственной свадьбе, представляешь? Вот у нас такого бы никогда не случилось.",
+  "form_id": "000DD07C|Skyrim.esm",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "You didn't hear this from me, but we've uncovered a plot to kill the Emperor! It gets better. The ringleader? One of the Emperor's own elite guard...",
+  "string": "Открою тебе страшную тайну - мы раскрыли заговор с целью убийства императора! Больше того! Главный заговорщик? Личный страж императора...",
+  "form_id": "000DD07D|Skyrim.esm",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "There was some ruckus over by that weird black door. You weren't involved in that craziness, were you?",
+  "string": "У той черной двери была неслабая потасовка. Просто безумие! Тебя же там не было, надеюсь?",
+  "form_id": "000DD07E|Skyrim.esm",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "Careful. Riften's not the safest place for a nighttime stroll.",
+  "string": "Будь осторожней. Рифтен не лучшее место для прогулок при луне.",
+  "form_id": "0000CF5D|Guard Dialogue Overhaul.esp",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "Break the law in Markarth, and it's off to Cidhna Mine with you.",
+  "string": "Только попробуй нарушить закон в Маркарте - отправишься прямиком в шахту Сидна.",
+  "form_id": "0000CF61|Guard Dialogue Overhaul.esp",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "Just my luck, stuck in the sticks with this crazy old woman.",
+  "string": "Ну что за везенье! Застрял в глухомани с безумной старухой.",
+  "form_id": "0001F468|Guard Dialogue Overhaul.esp",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "I grew up hearing songs about Eyldi the Bear! She wrestled a storm out of the sky!",
+  "string": "Я с детства помню песни про Эйлди Медведицу! Она победила даже грозу в небе!",
+  "form_id": "0001F469|Guard Dialogue Overhaul.esp",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "If you're here to join the Stormcloaks, the palace is inside. ",
+  "string": "Если ты хочешь примкнуть к Братьям Бури, дворец прямо за стеной.",
+  "form_id": "00024536|Guard Dialogue Overhaul.esp",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "Another quiet day.",
+  "string": "Очередной спокойный денек.",
+  "form_id": "0002AB84|Guard Dialogue Overhaul.esp",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "Another quiet day... I hope.",
+  "string": "Очередной спокойный денек... Надеюсь.",
+  "form_id": "0002AB83|Guard Dialogue Overhaul.esp",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "Those rebels better not try coming to Haafingar.",
+  "string": "Лучше этим мятежникам не соваться в Хаафингар.",
+  "form_id": "0002AB82|Guard Dialogue Overhaul.esp",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "Heard there were wolves on the road up north.",
+  "string": "Говорят, на севере видели волков у дороги.",
+  "form_id": "0002AB81|Guard Dialogue Overhaul.esp",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "Fear not. Come dragon or giant, we'll be ready.",
+  "string": "Не бойся. Хоть драконы, хоть великаны - мы будем готовы их встретить.",
+  "form_id": "0002AB80|Guard Dialogue Overhaul.esp",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "There are some that say the Dark Brotherhood is back, and stronger than ever. That they've made Dawnstar their home. Tell me - am I wrong?",
+  "string": "Говорят, будто Темное Братство вернулось - и оно сильнее, чем когда-либо. Вроде как поселились в Данстаре. Ты ничего не знаешь об этом?",
+  "form_id": "000DD080|Skyrim.esm",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "The guards have been saying things about you... That you're the one that... Well... They say the Dark Brotherhood... Well. Never mind. Sir.",
+  "string": "Стражники про тебя разные вещи говорят... Что именно ты... Ну... В общем, говорят, Темное Братство... Ладно. Неважно. Господин.",
+  "form_id": "000DD081|Skyrim.esm",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "The guards have been saying things about you... That you're the one that... Well... They say the Dark Brotherhood... Well. Never mind. Ma'am.",
+  "string": "Стражники про тебя разные вещи говорят... Что именно ты... Ну... В общем, говорят, Темное Братство... Ладно. Неважно. Госпожа.",
+  "form_id": "000DD082|Skyrim.esm",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "Wait, I know you. You went into the Emperor's Tower, just before... before his decoy was murdered...",
+  "string": "Погоди, я тебя знаю. Это тебя видели у входа в Императорскую башню прямо перед тем, как... как убили его двойника...",
+  "form_id": "000DD083|Skyrim.esm",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "We just received word that somebody tried to kill the Emperor! Turned out just to be his double, but can you imagine if he had succeeded?",
+  "string": "Только что пришла весть: кто-то пытался убить императора! Оказалось, это был всего лишь его двойник, но ты только представь, если бы у них получилось?",
+  "form_id": "000DD084|Skyrim.esm",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "They're saying the Dark Brotherhood has been destroyed. Wiped off the face of Tamriel. But that's not entirely true... is it?",
+  "string": "Говорят, Темное Братство уничтожено. Стерто с лица Тамриэля. Но это не совсем так... верно?",
+  "form_id": "000DD085|Skyrim.esm",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "You're the one all the guards are talking about. You went into that Sanctuary... wiped out the Dark Brotherhood! Friend, I owe you a drink.",
+  "string": "О тебе все стражники говорят. Тебе удалось проникнуть в убежище... и уничтожить все Темное Братство! Друг, с меня выпивка.",
+  "form_id": "000DD086|Skyrim.esm",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "They say the College has been snooping around Saarthal. Mages in a burial crypt. No good can come of that...",
+  "string": "Говорят, Коллегия что-то вынюхивает в Саартале. Маги в склепе. Ничего хорошего из этого не выйдет...",
+  "form_id": "000DD08C|Skyrim.esm",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "Some are saying the Psijic Monks have been seen in Skyrim. They're an ancient order. I had 'em figured for dead.",
+  "string": "Говорят, в Скайриме видели монахов-псиджиков. Это жутко древний орден. Мне-то казалось, они все давно вымерли.",
+  "form_id": "000DD08D|Skyrim.esm",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "You hear the news? Those damn mages blew up Winterhold! Guess it was just a matter of time...",
+  "string": "Ты уже знаешь? Эти треклятые маги подорвали Винтерхолд! Наверное, это был вопрос времени...",
+  "form_id": "000DD08E|Skyrim.esm",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "Word is the College of Mages is back to normal. If there's such a thing for that lot.",
+  "string": "Прошел слух, что Коллегия магов снова в порядке. Если они вообще понимают, что такое порядок...",
+  "form_id": "000DD08F|Skyrim.esm",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "Your name's been cleared... by Thonar Silver-Blood. Consider yourself lucky.",
+  "string": "Твое доброе имя восстановлено... Тонаром Серебряная кровь. Считай, что тебе повезло.",
+  "form_id": "000DD090|Skyrim.esm",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "So Madanach was behind those murders. Gods help us.",
+  "string": "Значит, за преступлениями стоит Маданах. Боги, смилуйтесь.",
+  "form_id": "000DD091|Skyrim.esm",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "By Shor, is that... is that Azura's Star? How did you come to possess such a rare treasure?",
+  "string": "Во имя Шора, это же... это Звезда Азуры? Как к тебе попало такое сокровище?",
+  "form_id": "000DD092|Skyrim.esm",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "Who did you have to kill to get that blade?",
+  "string": "Кого тебе пришлось убить, чтобы получить это оружие?",
+  "form_id": "000DD093|Skyrim.esm",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "That is one... big hammer.",
+  "string": "Вот это я понимаю, молот.",
+  "form_id": "000C7F5F|Skyrim.esm",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "That mace... get it away from me. Get it away...",
+  "string": "Убери свою палицу подальше от меня. Убери, говорю...",
+  "form_id": "000DD094|Skyrim.esm",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "Your shield... Dwarf-make, is it not? But yet it seems so much... more.",
+  "string": "Твой щит... Двемерская работа, так ведь? И, как будто, есть в нем что-то... большее.",
+  "form_id": "000C7F60|Skyrim.esm",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "That hammer... Why that's Aegisbane, heirloom of Clan Shatter-Shield! Last I heard, it was stolen by a couple of swindlers. Alain and... Muiri. Yeah.",
+  "string": "Этот молот... Да это же Проклятие Эгиды, наследие клана Расколотый Щит! Говорили, будто его украли какие-то жулики. Ален и... Муири. Да.",
+  "form_id": "000D2AED|Skyrim.esm",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "What a foul and unnatural weapon you wield. Never have I seen its like.",
+  "string": "Что у тебя за мерзкое неестественное оружие... В жизни мне такие не встречались.",
+  "form_id": "000C7F61|Skyrim.esm",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "As if Skyrim didn't have enough outsiders. Now we've got mercenaries from Hammerfell struttin' about...",
+  "string": "Как будто в Скайриме и без того чужаков мало... Теперь у нас еще и наемники из Хаммерфелла шляются...",
+  "form_id": "000DD096|Skyrim.esm",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "From what I hear, you're the one gave the Thalmor a black eye. Sure know how to pick your enemies, don't you?",
+  "string": "Говорят, твое присутствие действует на талморцев как дурной глаз. Вижу, ты умеешь выбирать себе врагов.",
+  "form_id": "000DD097|Skyrim.esm",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "You've come to Dawnstar at a strange time, friend. Seems everyone in the town is having nightmares...",
+  "string": "Твое появление в Данстаре как нельзя кстати. Всему городу снятся жуткие кошмары. Хотя чем ты нам поможешь...",
+  "form_id": "000DD098|Skyrim.esm",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "The damned nightmares have finally stopped. Don't suppose you'd know anything about that?",
+  "string": "Проклятые кошмары наконец прекратились. Но ты, небось, ничего про них не знаешь, да?",
+  "form_id": "000DD099|Skyrim.esm",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "You've been seen in the company of the Companions. That's an honorable path you're on, friend.",
+  "string": "Тебя видели в компании Соратников. Правильной дорогой идешь, серьезно.",
+  "form_id": "000DD09A|Skyrim.esm",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "I know of your deeds, and am honored to address a member of the Companions.",
+  "string": "Я знаю о твоих деяниях, и для меня честь разговаривать с тобой, Соратник.",
+  "form_id": "000DD09B|Skyrim.esm",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "Heard about what you did. Killing those foul witches. Well done, Companion.",
+  "string": "Говорят, тебе удалось прикончить тех гнусных ведьм. Молодец, не зря ты в Соратниках.",
+  "form_id": "000DD09D|Skyrim.esm",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "Kodlak killed, Jorrvaskr attacked. How could this happen, within the walls of Whiterun?",
+  "string": "Кодлак убит, на Йоррваскр напали. Как такое могло случиться в стенах Вайтрана?",
+  "form_id": "000DD09E|Skyrim.esm",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "I heard about the attack on Jorrvaskr, and the killing of your honored leader. You have my sympathies, Companion.",
+  "string": "Я знаю о нападении на Йоррваскр и смерти вашего почтенного вождя. Мои соболезнования всем Соратникам.",
+  "form_id": "000DD09F|Skyrim.esm",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "Kodlak White-Mane has been laid to rest, I know. May his soul live forever in the halls of Sovngarde.",
+  "string": "Я знаю, Кодлак Белая Грива ушел на вечный покой. Да возрадуется его душа в залах Совнгарда.",
+  "form_id": "000DD0A0|Skyrim.esm",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "I hear the East Empire Company has reopened, thanks in no small part to you. Well done. All of Skyrim benefits from their trade.",
+  "string": "Ходят слухи, что Восточная имперская компания снова открыта - и это во многом твоя заслуга. Молодец. От их торговли польза всему Скайриму.",
+  "form_id": "000DD0A5|Skyrim.esm",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "You did this city a great service by catching that killer. Well done.",
+  "string": "Весь город благодарен тебе за поимку этого убийцы. Молодец.",
+  "form_id": "000DD0A6|Skyrim.esm",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "Good thing you did for Nurelion, retrieving that phial for him before he died. Man was obsessed.",
+  "string": "С твоей стороны было очень благородно принести Нурелиону флакон перед смертью. Он был просто одержим.",
+  "form_id": "000DD0A7|Skyrim.esm",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "By Ysmir, you've helped save the Gildergreen. Words can't express what that means to this city.",
+  "string": "Во имя Исмира, тебе удалось спасти Златолист. Словами не выразить, что это значит для города.",
+  "form_id": "000DD0A8|Skyrim.esm",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "That sapling you recovered means the Gildergreen will live again. Your deed honors the people of Whiterun.",
+  "string": "Тебе удалось найти побег, и это значит, что Златолист снова оживет. Твой подвиг делает честь людям Вайтрана.",
+  "form_id": "000DD0A9|Skyrim.esm",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "You've actually done it. You've found the Sybil of Dibella. You have done Markarth a tremendous service. ",
+  "string": "У тебя получилось! Тебе удалось найти пророчицу Дибеллы. Твоя помощь просто неоценима для Маркарта.",
+  "form_id": "000DD0AA|Skyrim.esm",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "You... you were talking to that murderous savage. And then he escaped. What are you hiding?",
+  "string": "Ты... сначала ты говоришь с этим кровожадным дикарем. А потом он исчезает. Что ты скрываешь?",
+  "form_id": "000DD0AB|Skyrim.esm",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "Solitude wouldn't be the same without the Fire Festival. City owes you a debt of gratitude.",
+  "string": "Без Праздника Огня Солитьюд не был бы прежним. Город перед тобой в неоплатном долгу.",
+  "form_id": "000E0D59|Skyrim.esm",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "It's no secret the Aretino boy is doing some ritual, trying to call the Dark Brotherhood. But who's going to stop him? Me? I'll have no part of that.",
+  "string": "Все знают, что мальчишка Аретино проводит какой-то ритуал, чтобы воззвать к Темному Братству. Кто ему помешает? Я точно не хочу в это лезть.",
+  "form_id": "000DD0CC|Skyrim.esm",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "Releasing a captured dragon. I don't think I'll ever understand that one...",
+  "string": "Выпустить пойманного дракона. Нет, этого мне никогда не понять...",
+  "form_id": "000DD0AE|Skyrim.esm",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "Whatever you need, Dragonborn. Just say the word.",
+  "string": "Тебе что-то нужно, Довакин? Скажи только слово.",
+  "form_id": "000D27E4|Skyrim.esm",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "Yes, Dovahkiin? How can I help you?",
+  "string": "Да, Довакин? Чем могу помочь?",
+  "form_id": "000DD0AF|Skyrim.esm",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "You have vanquished a great evil from Skyrim. You have saved this land... and our very souls.",
+  "string": "Тебе удалось изгнать из Скайрима великое зло. Спасти эту землю... и наши души.",
+  "form_id": "000DD0B0|Skyrim.esm",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "No matter what else happens, the guards will always be grateful for everything you've done.",
+  "string": "Что бы ни произошло теперь, стражники всегда будут благодарны тебе за твои подвиги.",
+  "form_id": "000DD0B1|Skyrim.esm",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "Looks like it's really happening. A peace council, attended by both Ulfric and Tullius, up on High Hrothgar. Maybe there's hope for Skyrim yet.",
+  "string": "Похоже, все это по правде. Мирные переговоры, Ульфрик и Туллий садятся за один стол на Высоком Хротгаре. Может быть, для Скайрима еще есть надежда.",
+  "form_id": "000DD0B2|Skyrim.esm",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "This truce with the Stormcloaks won't last a fortnight. Bloody savages will kill us while we sleep.",
+  "string": "Перемирие с Братьями Бури не продлится и двух недель. Проклятые дикари прикончат нас, пока мы спим.",
+  "form_id": "000DD0B3|Skyrim.esm",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "A truce? With the Imperials? They'll murder us all, first chance they get.",
+  "string": "Перемирие? С имперцами? Да они перебьют нас всех при первой же возможности.",
+  "form_id": "000DD0B4|Skyrim.esm",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "I caught a glimpse of that captured dragon. It's.. beautiful. In its own way.",
+  "string": "Мне удалось увидеть дракона одним глазком. Он... прекрасен. По-своему.",
+  "form_id": "000DD0B5|Skyrim.esm",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "Trapping a dragon in Dragonsreach. Damn clever idea you had, I have to admit.",
+  "string": "Запереть дракона в Драконьем Пределе. Признаю, удачная мысль пришла тебе в голову.",
+  "form_id": "000DD0B6|Skyrim.esm",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "I heard you were at the wedding of the Emperor's cousin. In Solitude? Gods, that must have been horrible...",
+  "string": "Я слышал, ты был на свадьбе кузена императора. В Солитьюде? Боги, это, наверное, был кошмар...",
+  "form_id": "000DD0C8|Skyrim.esm",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "Look, that Vici woman had a bodyguard. I know it's terrible she got murdered at her own wedding, but the city guard is hardly to blame...",
+  "string": "Слушай, у этой дамы Вичи был телохранитель. Ужасно, конечно, что ее убили на собственной свадьбе, но городскую стражу в этом винить нельзя...",
+  "form_id": "000DD0C9|Skyrim.esm",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "You ask me, those brats in the orphanage are better off, now that old Grelod is dead.",
+  "string": "Как по мне, так мелюзге в приюте повезло, что Грелод умерла.",
+  "form_id": "000DD0CB|Skyrim.esm",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "The Emperor's cousin Vittoria Vici is getting married soon. The reception will be public - anyone in Solitude can attend.",
+  "string": "Кузина императора Виттория Вичи скоро выходит замуж. Свадьба будет грандиозная - приглашен весь Солитьюд.",
+  "form_id": "000DD0CD|Skyrim.esm",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "The Emperor of Tamriel. Dead. These are dark times, my friend. Dark times, indeed...",
+  "string": "Император Тамриэля. Мертв. Темные настали времена, друг мой. Темные времена...",
+  "form_id": "000DD0CE|Skyrim.esm",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "You couldn't possibly be the Dragonborn of legend. Could you?",
+  "string": "Ты не можешь быть легендарным Довакином. Или можешь?",
+  "form_id": "000DD0B8|Skyrim.esm",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "If we killed a dragon once, we can do it again. With your help, of course.",
+  "string": "Если мы убили дракона однажды, мы сделаем это снова. С твоей помощью, конечно.",
+  "form_id": "000DD0B9|Skyrim.esm",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "If those Whiterun guards can take down a dragon, so can we.",
+  "string": "Если стражники Вайтрана могут победить дракона - то мы-то подавно.",
+  "form_id": "000DD0BA|Skyrim.esm",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "Got to thinking, maybe I'm the Dragonborn, and I just don't know it yet.",
+  "string": "А вообще говоря, может, это я Довакин, только я этого еще не знаю.",
+  "form_id": "000DD0BB|Skyrim.esm",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "For a dragon to attack Kynesgrove... Why? Why there? Is no place safe?",
+  "string": "Дракон напал на Рощу Кин... Почему? Почему там? Неужели нигде не безопасно?",
+  "form_id": "000DD0BC|Skyrim.esm",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "If I'd been on guard at the Thalmor Embassy, wouldn't nobody be disturbing that party... ",
+  "string": "Будь я на месте стражников в талморском посольстве, никто бы не испортил этот прием...",
+  "form_id": "000DD0BD|Skyrim.esm",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "Thalmor in the Ratway? What's next, Spriggans in the Bee and Barb?",
+  "string": "Талморцы в Крысиной норе? Что будет дальше - спригганы в Пчеле и жале?",
+  "form_id": "000DD0BE|Skyrim.esm",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "I have to wonder... what does the Dragonborn do once he's been summoned by the Greybeards? Can the Thu'um be taught, like any skill?",
+  "string": "Вот интересно... что делает Довакин, когда его призывают Седобородые? Можно ли научиться Ту'уму, как любому другому умению?",
+  "form_id": "000DD0BF|Skyrim.esm",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "I have to wonder... what does the Dragonborn do once he's been summoned by the Greybeards? Can the Thu'um be taught, like any skill?",
+  "string": "Вот интересно... что делает Довакин, когда его призывают Седобородые? Можно ли научиться Ту'уму, как любому другому умению?",
+  "form_id": "000DD0BF|Guard Dialogue Overhaul.esp",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "What business do College mages have in a place like Saarthal, anyway? It's a place for Nord dead... not your weird experiments.",
+  "string": "И все-таки, что за дело может быть у Коллегии магов в Саартале? Это место отдано мертвым нордам... а не вашим диким экспериментам.",
+  "form_id": "000DD0D5|Skyrim.esm",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "One of the guards said he saw a mage appear out of thin air. Claimed it was one of those Psijic Monks. Man's been hitting the skooma, I say.",
+  "string": "Один стражник говорит, будто видел, как маг появился из ниоткуда. Клялся, что это был монах-псиджик. По-моему, парень пристрастился к скуме.",
+  "form_id": "000DD0D6|Skyrim.esm",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "Imagine, blowing up an entire town. Damn College... Winterhold will never be the same.",
+  "string": "Только представь, подорвать целый город. Проклятая Коллегия... Винтерхолд никогда не будет прежним.",
+  "form_id": "000DD0D7|Skyrim.esm",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "You're that Mage from the College. Right? Hear things have finally calmed down over there.",
+  "string": "Ты - маг из Коллегии, верно? Говорят, в последнее время тут все успокоилось.",
+  "form_id": "000DD0D8|Skyrim.esm",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "You put those Forsworn down. Good job.",
+  "string": "Тебе удалось уничтожить этих Изгоев. Молодец.",
+  "form_id": "000DD0D9|Skyrim.esm",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "Gods damn those Forsworn. So many dead...",
+  "string": "Проклятье богов на головы Изгоев. Столько погибших...",
+  "form_id": "000DD0DA|Skyrim.esm",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "You see those warriors from Hammerfell? They've got curved swords. Curved. Swords.",
+  "string": "Видишь тех воинов из Хаммерфелла? У них кривые мечи. Кривые. Мечи.",
+  "form_id": "000DD0DB|Skyrim.esm",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "Wonder what it's like for those Thalmor, now that they've been taken down a notch...",
+  "string": "Интересно, как теперь запоют талморцы, когда с них сбили спесь...",
+  "form_id": "000DD0DC|Skyrim.esm",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "The people here are still plagued with nightmares. It's... unnatural.",
+  "string": "Местные жители все еще страдают от ночных кошмаров. Это... противоестественно.",
+  "form_id": "000DD0DD|Skyrim.esm",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "No more nightmares. Thank the gods for that.",
+  "string": "Благодарение богам, кошмары закончились.",
+  "form_id": "000DD0DE|Skyrim.esm",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "Honored Companion. How can I assist you?",
+  "string": "Досточтимый Соратник. Чем могу служить?",
+  "form_id": "000DD0E0|Skyrim.esm",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "Is that... fur? Coming out of your ears?",
+  "string": "Это что... мех? У тебя из ушей торчит?",
+  "form_id": "000DD0E1|Skyrim.esm",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "I'm telling you, I heard it. Howling. Those werewolf tales are true.",
+  "string": "Говорю тебе, мне не послышалось. Кто-то выл. Рассказы о вервольфах - правда.",
+  "form_id": "000DD0E2|Skyrim.esm",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "I find your wolfish grin... unsettling.",
+  "string": "Меня твоя волчья ухмылка как-то... напрягает.",
+  "form_id": "000DD0E3|Skyrim.esm",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "If it isn't the slayer of the Glenmoril Witches. How can I assist you, Companion?",
+  "string": "Неужели это убийца гленморильских ведьм! Чем могу помочь, Соратник?",
+  "form_id": "000DD0E5|Skyrim.esm",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "Who would dare attack the leader of the Companions? In his own hall? There'll be blood for this, I know it.",
+  "string": "Кто осмелится напасть на вождя Соратников? В его собственном зале? Убийца заплатит своей кровью, я знаю.",
+  "form_id": "000DD0E6|Skyrim.esm",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "Kodlak White-Mane is in a better place now. For is there any place better than Sovngarde?",
+  "string": "Кодлак Белая Грива сейчас в лучшем мире. Ибо нет мира лучше Совнгарда.",
+  "form_id": "000DD0E7|Skyrim.esm",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "Thanks again for helping reopen the East Empire Company. Gonna have them import me some of that aged Breton cheese.",
+  "string": "Еще раз спасибо за помощь в восстановлении Восточной имперской компании. Наконец закажу себе бретонского сыра с плесенью.",
+  "form_id": "000DD0ED|Skyrim.esm",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "I was this close to catching that killer. I swear it.",
+  "string": "Мне пары секунд не хватило, чтобы поймать убийцу. Клянусь.",
+  "form_id": "000DD0EE|Skyrim.esm",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "With Nurelion gone, I suppose Quintus has taken over business in the White Phial.",
+  "string": "Без Нурелиона, я полагаю, делами в Белом флаконе заправляет Квинт.",
+  "form_id": "000DD0EF|Skyrim.esm",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "The Gildergreen blooms again. All thanks to you.",
+  "string": "Златолист снова в цвету. И все благодаря тебе.",
+  "form_id": "000DD0F0|Skyrim.esm",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "The Gildergreen will bloom again. All thanks to you.",
+  "string": "Златолист зацветет вновь. И все благодаря тебе.",
+  "form_id": "000DD0F1|Skyrim.esm",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "Thanks for clearing out that vampire nest. You saved Morthal.",
+  "string": "Спасибо тебе за уничтожение вампирьего гнезда. Морфал спит спокойно благодаря тебе.",
+  "form_id": "000B8240|Skyrim.esm",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "Wonder what kinds of things they've got the Dibella doing, over in the temple. Mostly praying, I reckon...",
+  "string": "Интересно, о чем они там просят Дибеллу в храме. Хотя, наверное, просто молятся...",
+  "form_id": "000DD0F2|Skyrim.esm",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "I know you had some part in Sinding's escape. Don't deny it...",
+  "string": "Я знаю, без тебя не обошлось при побеге Синдинга. И не отрицай...",
+  "form_id": "000DD0F3|Skyrim.esm",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "Watch the skies, traveler.",
+  "string": "Поглядывай в небо и будь настороже.",
+  "form_id": "000D27E0|Skyrim.esm",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "How can I help a brother Nord?",
+  "string": "Чем я могу помочь брату-норду?",
+  "form_id": "000E0FA7|Skyrim.esm",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "Hail, Companion.",
+  "string": "Приветствую, Соратник.",
+  "form_id": "000AC12C|Skyrim.esm",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "You're that one from the College. Heard about you.",
+  "string": "Ты из Коллегии. Приходилось о тебе слышать.",
+  "form_id": "000D5E8D|Skyrim.esm",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "Try to hide it all you want. I know you're in the Thieves Guild... and so do the other guards.",
+  "string": "Отрицай сколько влезет, но я-то знаю, что ты из Гильдии воров... Все стражники знают.",
+  "form_id": "000D5E8E|Skyrim.esm",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "Psst. Hey, I know who you are. Hail Sithis.",
+  "string": "Тс-с. Эй, я знаю, кто ты. Слава Ситису.",
+  "form_id": "000D5E91|Skyrim.esm",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "Ah, now that's a fine shield. And not mere Dwarven... is it?",
+  "string": "О, да у тебя отличный щит. И не просто двемерский... да?",
+  "form_id": "000D5E93|Skyrim.esm",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "What manner of staff is that? Such a horror...",
+  "string": "Это что еще за жалкое подобие посоха? Ну и жуть...",
+  "form_id": "000C7F62|Skyrim.esm",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "You wield... Azura's Star? How... how can such a thing be possible?",
+  "string": "Ты сражаешься... Звездой Азуры? Как... как это вообще может быть?",
+  "form_id": "000C7F63|Skyrim.esm",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "Fine armor you've got there. Dwarven make, am I right?",
+  "string": "Хорошая у тебя броня. Гномья работа, что ли?",
+  "form_id": "000C7F64|Skyrim.esm",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "Ebony armor. By Ysmir, 'tis a wondrous sight. ",
+  "string": "Эбонитовая броня. Во имя Исмира, что за дивное зрелище.",
+  "form_id": "000D5E94|Skyrim.esm",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "Is your armor made of... dragon bones? By the gods, what I wouldn't do for a set of that.",
+  "string": "На тебе броня из... драконьей кости? Во имя богов, да я мать родную продам за такую.",
+  "form_id": "000D5E95|Skyrim.esm",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "Is your armor made of... dragon scales? By the gods, what I wouldn't do for a set of that.",
+  "string": "На тебе броня из... драконьей чешуи? Во имя богов, да я мать родную продам за такую.",
+  "form_id": "000D5E96|Skyrim.esm",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "Some advice, friend. That armor won't offer much protection in a real fight.",
+  "string": "Дам тебе совет, по доброте душевной. Твоя броня - барахло, в бою от нее толку мало.",
+  "form_id": "000D5E97|Skyrim.esm",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "That's some fine Imperial armor you've got there.",
+  "string": "О, да у тебя отличная имперская броня.",
+  "form_id": "000D5E99|Skyrim.esm",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "Judging by your armor, I'd say you're an Imperial scout. If so, well met.",
+  "string": "Судя по твоей броне, ты шпионишь для Империи. Если так - рад знакомству.",
+  "form_id": "000D5E9A|Skyrim.esm",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "You wear the armor of a mercenary. Now that's the life.",
+  "string": "Вижу, на тебе броня наемника. Вот это я понимаю - жизнь.",
+  "form_id": "000D5E9C|Skyrim.esm",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "That's good armor you've got there, friend. Iron, solid and true.",
+  "string": "Отличная у тебя броня. Старое доброе железо не подводит.",
+  "form_id": "000D5E9D|Skyrim.esm",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "Hmph. You wear that armor well. Iron may be simple, but it'll stop enough to keep you in the fight.",
+  "string": "Хмф. Броня на тебе сидит неплохо. Материал, может, и простоват, но в бою защитит.",
+  "form_id": "000AD7CF|Skyrim.esm",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "Fancy the leather armor, huh? Something to be said for going light.",
+  "string": "Любишь кожаную броню, да? Легкость движения - правильный выбор.",
+  "form_id": "000D5E9E|Skyrim.esm",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "That armor... it's like nothing I've ever seen. Like forged midnight...",
+  "string": "Твоя броня... никогда такой не видел. Как лунное серебро...",
+  "form_id": "000D5E9F|Skyrim.esm",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "Orcish armor, hmm? Had me a set of that once. Ugly and strong, like those that forged it.",
+  "string": "Орочья броня, м-м? Когда-то у меня была такая. Уродливая, но крепкая - как и те, кто ее ковал.",
+  "form_id": "000D5EA0|Skyrim.esm",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "That armor... Are you one of the Emperor's protectors? Can't say I envy you that job.",
+  "string": "Твоя броня... Ты что, из защитников императора? Не могу сказать, что завидую твоей работе.",
+  "form_id": "000D5EA1|Skyrim.esm",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "That's fine scale armor you've got on there. Shiny.",
+  "string": "Какая прекрасная чешуйчатая броня. А как блестит!",
+  "form_id": "000D5EA3|Skyrim.esm",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "Aye, now that's some fine armor. Good old-fashioned steel.",
+  "string": "О, да у тебя отличная броня. Старая добрая сталь.",
+  "form_id": "000D5EA4|Skyrim.esm",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "Ah, steel plate. Now that's a solid choice of armor.",
+  "string": "О, стальные латы. Вот это правильный выбор брони.",
+  "form_id": "000D5EA5|Skyrim.esm",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "What do you aim to do with that hammer, friend? Knock down a house?",
+  "string": "Что ты собираешься делать этим молотом? Дома, что ли, сносить?",
+  "form_id": "000C7F65|Skyrim.esm",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "No... get that accursed mace away from me...",
+  "string": "Нет... убери от меня эту проклятую булаву...",
+  "form_id": "000C7F66|Skyrim.esm",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "You wear the armor of the bear, my friend. A fine choice.",
+  "string": "Вижу, ты носишь медвежьи доспехи. Отличный выбор.",
+  "form_id": "000D5EA6|Skyrim.esm",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "You wear that Stormcloak armor well, friend.",
+  "string": "Броня Братьев Бури неплохо на тебе смотрится.",
+  "form_id": "000D5EA9|Skyrim.esm",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "You wear the garb of a true Nord. I salute you.",
+  "string": "Смотрю, на тебе одежды настоящего норда. Приветствую тебя.",
+  "form_id": "000D5EAC|Skyrim.esm",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "Pigsticker like that's not going to get you far. Best visit the blacksmith.",
+  "string": "С такой зубочисткой далеко не уедешь. Тебе бы к оружейнику заглянуть.",
+  "form_id": "000D5EAD|Skyrim.esm",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "That iron sword's pretty undependable. You should try steel.",
+  "string": "Железные мечи - барахло. Лучше попробуй сталь.",
+  "form_id": "000D5F13|Skyrim.esm",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "Aye, now that there's a beautiful sword. Like a sliver of midnight.",
+  "string": "Ого, до чего красивый меч. Как лунная дорожка на воде.",
+  "form_id": "000D5EAE|Skyrim.esm",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "Favor a steel sword, do ya? Good choice for slashing or stabbing.",
+  "string": "Предпочитаешь стальные мечи, да? Такими удобно рубить с размаха да колоть исподтишка.",
+  "form_id": "000D5EB0|Skyrim.esm",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "I've a lot of respect for the Restoration School. Skyrim could use more healers.",
+  "string": "Я весьма уважаю Школу восстановления. Скайриму нужны целители как никогда.",
+  "form_id": "000D5EB7|Skyrim.esm",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "Lightly armored means light on your feet. Smart.",
+  "string": "В легких доспехах и ходить легко. Умно.",
+  "form_id": "000D5EB8|Skyrim.esm",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "Fancy yourself an alchemist, hmm? Never could get the hang of that.",
+  "string": "Ты, значит, считаешься алхимиком, м-м? Мне вот никогда эта наука не давалась.",
+  "form_id": "000D5EBE|Skyrim.esm",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "You're the one casts those illusions. Impressive.",
+  "string": "Так это ты тут иллюзии наводишь. Впечатляет.",
+  "form_id": "000D5EBF|Skyrim.esm",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "Best offense is a good defense, am I right?",
+  "string": "Лучшее нападение - это хорошая защита, правда?",
+  "form_id": "000D5EC1|Skyrim.esm",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "Don't suppose you'd enchant my sword? Dull old blade can barely cut butter.",
+  "string": "Ты часом не сможешь зачаровать мой меч? Лезвие такое тупое, что и масла не разрежет.",
+  "form_id": "000D5EC2|Skyrim.esm",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "Heard about you and your honeyed words...",
+  "string": "Приходилось слышать о тебе и твоих сладких речах...",
+  "form_id": "000D5EC3|Skyrim.esm",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "Hail, summoner. Conjure me up a warm bed, would you?",
+  "string": "Приветствую знатока магии. Наколдуй мне теплую кровать, а?",
+  "form_id": "000D5EC4|Skyrim.esm",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "Destruction magic's fine, just don't go burning down any buildings.",
+  "string": "Ничего не имею против магии разрушения - только не вздумай мне тут набедокурить!",
+  "form_id": "000D5EC5|Skyrim.esm",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "Takes a fair bit of strength to carry a greatsword like that. But can you use it?",
+  "string": "Такой огромный меч и в руках-то удержать сложно. Неужто ты им сражаться можешь?",
+  "form_id": "000D5EB1|Skyrim.esm",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "Favor the bow, eh? I'm a sword man, myself.",
+  "string": "Нравятся луки, а? Я-то предпочитаю меч.",
+  "form_id": "000D5EC7|Skyrim.esm",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "The gods gave you two hands, and you use them both for your weapon. I can respect that.",
+  "string": "Боги дали тебе две руки - и ты используешь обе, чтобы держать оружие. Это достойно уважения.",
+  "form_id": "000D5EC8|Skyrim.esm",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "You're like me, eh? Don't fancy those clunky two-handed weapons.",
+  "string": "Ты прямо как я, а? Не любишь эти неповоротливые двуручники.",
+  "form_id": "000D5EC9|Skyrim.esm",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "I heard the Gourmet is hiding out somewhere in Skyrim. You know, fella who wrote that cookbook.",
+  "string": "Говорят, будто Гурман прячется где-то в Скайриме. Ну знаешь, тот тип, что написал поваренную книгу.",
+  "form_id": "000D3D67|Skyrim.esm",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "We got a nickname for anyone who trifles with us guards here in Windhelm - \"Suicide.\"",
+  "string": "Знаешь, как мы зовем тех, кто шутит со стражей Виндхельма? Самоубийцы.",
+  "form_id": "000D2AF3|Skyrim.esm",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "Citizen.",
+  "string": "Гражданин.",
+  "form_id": "00060B23|Skyrim.esm",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "I fear the night. Because the werewolves and vampires don't.",
+  "string": "Я боюсь ночи. Потому что оборотни да вампиры вылазят из своих нор.",
+  "form_id": "000D5EB2|Skyrim.esm",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "Bit late to be wandering around, isn't it?",
+  "string": "Поздновато для прогулок, не считаешь?",
+  "form_id": "000E0FAE|Skyrim.esm",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "You hear that? I swear, there's something out there. In the dark.",
+  "string": "Слышишь? Клянусь, там что-то есть. В темноте.",
+  "form_id": "000E0FB0|Skyrim.esm",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "Could sure use a warm bed right about now...",
+  "string": "Эх, сейчас бы в теплую постель...",
+  "form_id": "0002BE11|Skyrim.esm",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "Just a few more hours and I can crawl under some furs...",
+  "string": "Еще пару часов, и я смогу забраться под теплые шкуры...",
+  "form_id": "0002094A|Skyrim.esm",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "Thinking of settling in? There's a house for sale - Breezehome. You should talk to the steward up in the keep if you're interested.",
+  "string": "Не хочешь поселиться тут? Дом теплых ветров как раз продается. Если интересно, поговори с управителем в крепости.",
+  "form_id": "000E0FB1|Skyrim.esm",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "You're the one that lives in Breezehome, right? Fine place. Almost bought it myself.",
+  "string": "Это ведь ты живешь в Доме теплых ветров? Хорошее место. Я сам чуть его не купил.",
+  "form_id": "000E0FB2|Skyrim.esm",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "Hjerim is a fine house, and it's up for sale. You should talk to the steward in the keep if you're interested.",
+  "string": "Хьерим - отличный дом. И как раз продается. Если захочешь купить, поговори с управителем в крепости.",
+  "form_id": "000E0FB3|Skyrim.esm",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "Don't think you'll get special treatment just because you have a house in the city...",
+  "string": "Только не думай, что к тебе будет особое отношение, если у тебя будет свой дом в городе...",
+  "form_id": "000E0FB4|Skyrim.esm",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "Proudspire Manor, now there's a fine home. Up for sale, too. If you're interested, talk to the steward, in the keep.",
+  "string": "Поместье Высокий шпиль - чудесный дом. И кстати, продается. Если захочешь купить, поговори с управителем в крепости.",
+  "form_id": "000E0FB5|Skyrim.esm",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "You own Proudspire Manor, hmm? Beautiful house. At least from the outside.",
+  "string": "Так Высокий шпиль теперь твой? Красивый дом. По крайней мере, снаружи.",
+  "form_id": "000E0FB6|Skyrim.esm",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "If you're looking to settle in Riften, there's a house for sale - Honeyside. See the steward in the keep if you want it.",
+  "string": "Если хочешь обосноваться в Рифтене, тут продается дом - Медовик. Захочешь купить - ступай к управителю в крепость.",
+  "form_id": "000E0FB7|Skyrim.esm",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "Smart thing you did, buying Honeyside. Nice place, and why pay for an inn?",
+  "string": "Умное решение - купить Медовик. Хорошее местечко, да и зачем платить за комнату в таверне?",
+  "form_id": "000E0FB8|Skyrim.esm",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "Ah, Vlindrel Hall's a fine home, if you can afford it. The steward in the keep can tell you more.",
+  "string": "О, Влиндрел-холл - хороший дом, если у тебя хватит денег. Управитель в крепости знает подробности.",
+  "form_id": "000E0FB9|Skyrim.esm",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "So you bought Vlindrel Hall, eh? Wish I could afford a house that nice.",
+  "string": "Так ты теперь владеешь Влиндрел-холлом? Эх, кто б мне золота дал на такой дом.",
+  "form_id": "000E0FBA|Skyrim.esm",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "They say Ulfric Stormcloak murdered the High King... with his voice! Shouted him apart!",
+  "string": "Говорят, Ульфрик Буревестник убил верховного короля... своим голосом! Тот помер от его крика!",
+  "form_id": "0002094D|Skyrim.esm",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "What is it? Dragons?",
+  "string": "В чем дело? Драконы?",
+  "form_id": "00045FA1|Skyrim.esm",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "I used to be an adventurer like you. Then I took an arrow in the knee...",
+  "string": "Когда-то и меня вела дорога приключений... А потом мне прострелили колено...",
+  "form_id": "00020954|Skyrim.esm",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "Everything all right?",
+  "string": "Все в порядке?",
+  "form_id": "000AD7E7|Skyrim.esm",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "Everything's all right?",
+  "string": "Все в порядке?",
+  "form_id": "000AD7E7|Guard Dialogue Overhaul.esp",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "Trouble?",
+  "string": "Неприятности?",
+  "form_id": "000AD7E8|Skyrim.esm",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "'Tis a wicked axe you wield there, friend. That blade looks sharp enough to cut through a god.",
+  "string": "Опасная у тебя секира, смотрю. Лезвие такое острое, что и бога разрежет в два счета.",
+  "form_id": "0002095C|Skyrim.esm",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "You're the one saved the Fire Festival. I remember.",
+  "string": "Это тебе мы обязаны спасением Праздника Огня. Помню-помню.",
+  "form_id": "000E0D5A|Skyrim.esm",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "What do you need, bard?",
+  "string": "Что тебе нужно, бард?",
+  "form_id": "000E0D5B|Skyrim.esm",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "City's quiet enough now. But when the sun goes down, you best keep on your guard.",
+  "string": "Сейчас в городе все спокойно. Но после захода солнца лучше быть начеку.",
+  "form_id": "00014B69|Guard Dialogue Overhaul.esp",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "Everything's in order.",
+  "string": "Все в порядке.",
+  "form_id": "00014B6A|Guard Dialogue Overhaul.esp",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "I'm not paying you a bribe.",
+  "string": "Не буду я тебя подмазывать.",
+  "form_id": "0002C6A1|Skyrim.esm",
+  "type": "DIAL FULL",
+  "index": null,
+  "editor_id": "WiRemoveItem01NotPayFine"
+ },
+ {
+  "original": "Is that so? Well then, I'll have to charge you with disturbing the Jarl's peace.",
+  "string": "Вот как? Ну, тогда мы тебя привлечем за нарушение покоя ярла.",
+  "form_id": "0002C6AA|Skyrim.esm",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "I'm sorry.",
+  "string": "Прошу прощения.",
+  "form_id": "0002C6A4|Skyrim.esm",
+  "type": "DIAL FULL",
+  "index": null,
+  "editor_id": "WIRemoveItem01MainBranchSorry"
+ },
+ {
+  "original": "See that it doesn't happen again.",
+  "string": "Смотри, чтобы это не повторилось.",
+  "form_id": "0002C6A6|Skyrim.esm",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "What's the problem?",
+  "string": "В чем проблема?",
+  "form_id": "0002C6A5|Skyrim.esm",
+  "type": "DIAL FULL",
+  "index": null,
+  "editor_id": "WIRemoveItem01MainTopic"
+ },
+ {
+  "original": "You shouldn't leave weapons laying around. Someone could get hurt. And if I see you do it again, that someone will be you.",
+  "string": "Нечего разбрасывать тут оружие. Кто-то мог и пораниться. И если я еще раз такое увижу - пораниться можешь ты.",
+  "form_id": "000167C8|Skyrim.esm",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "Have I made myself clear?",
+  "string": "Я ясно выражаюсь?",
+  "form_id": "000167C8|Skyrim.esm",
+  "type": "INFO NAM1",
+  "index": 2,
+  "editor_id": null
+ },
+ {
+  "original": "The Winking Skeever's got warm beds and cold mead. You look like you could use both.",
+  "string": "В Смеющейся крысе есть теплые постели и холодный мед. Тебе бы точно пригодилось и то, и другое.",
+  "form_id": "000DA64D|Skyrim.esm",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "Been up to the Blue Palace? It's a sight to see. Even if it is filled with fops...",
+  "string": "Приходилось бывать в Синем Дворце? Его нужно увидеть. Даже если в нем сейчас одни пижоны...",
+  "form_id": "000D90CC|Skyrim.esm",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "If it's bed or board you're after, Candlehearth Hall's got both.",
+  "string": "Если ты ищешь место, где можно поесть или переночевать, в таверне Очаг и свеча ты найдешь и стол, и кров.",
+  "form_id": "000DA668|Skyrim.esm",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "I've no problem with your kind, Orc. But that stronghold you've got in the southeast? Narzulbur? It's an affront to my people.",
+  "string": "Слушай, орк, я против вашего брата ничего не имею. Но эта ваша крепость на юго-востоке... Нарзулбур! Это просто оскорбление моего народа.",
+  "form_id": "000DA66F|Skyrim.esm",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "I've no problem with Orcs. But that stronghold they've got in the southeast? Narzulbur? It's an affront to my people.",
+  "string": "Я нормально отношусь к оркам. Но эта их крепость на юго-востоке... Нарзулбур! Это просто оскорбление моего народа.",
+  "form_id": "000DA670|Skyrim.esm",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "If it's a bed you need, talk to Keerava in the Bee and Barb. She'll set you right.",
+  "string": "Если ищешь ночлег, обратись к Кираве в таверне Пчела и жало. Она найдет тебе комнату.",
+  "form_id": "000DA65A|Skyrim.esm",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "Oh, forgive me, Thane. I didn't realize it was you.",
+  "string": "Ох, прошу прощения, тан. Кто ж знал, что это ты.",
+  "form_id": "000A2C51|Skyrim.esm",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": "DialougeCrimeGuardsThane01"
+ },
+ {
+  "original": "We'll look the other way this time, but even the Jarl's influence has its limits. Be more careful.",
+  "string": "В этот раз мы, так и быть, отвернемся, но влияние ярла тоже не безгранично. Будь аккуратнее.",
+  "form_id": "000A2C51|Skyrim.esm",
+  "type": "INFO NAM1",
+  "index": 2,
+  "editor_id": "DialougeCrimeGuardsThane01"
+ },
+ {
+  "original": "I'm a proud supporter of Ulfric Stormcloak. What of it?",
+  "string": "Я поддерживаю Ульфрика Буревестника и горжусь этим. И что?",
+  "form_id": "000AC117|Skyrim.esm",
+  "type": "DIAL FULL",
+  "index": null,
+  "editor_id": "DialogueGuardsGeneralEnemyA3"
+ },
+ {
+  "original": "Is that right? Here's how the Legion deals with rebel scum like you.",
+  "string": "Да неужели? Сейчас увидишь, как Легион расправляется с мятежниками вроде тебя.",
+  "form_id": "000AC123|Skyrim.esm",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "I'm loyal to the Empire and don't care who knows it.",
+  "string": "Я храню верность Империи, и мне все равно, кто там что думает.",
+  "form_id": "000AC118|Skyrim.esm",
+  "type": "DIAL FULL",
+  "index": null,
+  "editor_id": "DialogueGuardsGeneralEnemyA2"
+ },
+ {
+  "original": "You don't seem to realize there's a war on. What you are is a damn Imperial spy!",
+  "string": "Похоже, ты не понимаешь, что идет война. Признайся, ты здесь, чтобы шпионить для Империи!",
+  "form_id": "000AC11C|Skyrim.esm",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "Sorry, I didn't mean anything by it.",
+  "string": "Прошу прощения, у меня никакого такого умысла не было.",
+  "form_id": "000AC119|Skyrim.esm",
+  "type": "DIAL FULL",
+  "index": null,
+  "editor_id": "DialogueGuardsGeneralEnemyA1"
+ },
+ {
+  "original": "Well. I'll let it slide this time. But you'd be smart to take that off. Someone might get the wrong idea.",
+  "string": "Ладно. На этот раз спущу тебе. Но лучше бы тебе переодеться. Кто-нибудь может подумать что не то.",
+  "form_id": "000AC127|Skyrim.esm",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "Hmm. I still don't like it, but I guess I'll overlook it. This time.",
+  "string": "Хм-м. Мне это не нравится, но я спущу тебе на этот раз.",
+  "form_id": "000AC128|Skyrim.esm",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "What's the problem?",
+  "string": "В чем проблема?",
+  "form_id": "000AC11A|Skyrim.esm",
+  "type": "DIAL FULL",
+  "index": null,
+  "editor_id": "DialogueGuardsGeneralEnemyBlockingTopic"
+ },
+ {
+  "original": "What do you think you're doing, walking around dressed like a damn Stormcloak traitor?",
+  "string": "Как ты смеешь разгуливать здесь в броне проклятых мятежников Братьев Бури?",
+  "form_id": "000AC120|Skyrim.esm",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "You've got a lot of nerve, walking around here dressed like an Imperial Legionnaire.",
+  "string": "Храбрости тебе не занимать, раз ты ходишь тут в форме имперского легионера.",
+  "form_id": "000AC121|Skyrim.esm",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "What do you need?",
+  "string": "Что тебе нужно?",
+  "form_id": "000D5F11|Skyrim.esm",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "What is it?",
+  "string": "В чем дело?",
+  "form_id": "000D5F12|Skyrim.esm",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "A pleasure, Thane.",
+  "string": "Рад видеть, тан.",
+  "form_id": "0000FA9B|Guard Dialogue Overhaul.esp",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": "GuardCommanderThane"
+ },
+ {
+  "original": "You have the Jarl's confidence, friend. And so you have mine.",
+  "string": "Ярл доверяет тебе, друг. Поэтому я тоже доверяю.",
+  "form_id": "000DD0B7|Skyrim.esm",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": "GuardJarlsConfidence"
+ },
+ {
+  "original": "I hope you're finding the city in proper order, Thane.",
+  "string": "Надеюсь, город в должном порядке, тан.",
+  "form_id": "0000CF65|Guard Dialogue Overhaul.esp",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": "GuardThaneCity"
+ },
+ {
+  "original": "I trust the day's found you well, Thane.",
+  "string": "Надеюсь, день у тебя выдался добрый, тан.",
+  "form_id": "0000EA61|Guard Dialogue Overhaul.esp",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": "GuardThaneDay"
+ },
+ {
+  "original": "How do you do, Thane?",
+  "string": "Как поживаешь, тан?",
+  "form_id": "0000EA62|Guard Dialogue Overhaul.esp",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": "GuardThaneGreet"
+ },
+ {
+  "original": "We couldn't have taken this city without you, ma'am.",
+  "string": "Без вас, госпожа, мы не смогли бы взять этот город.",
+  "form_id": "00014B65|Guard Dialogue Overhaul.esp",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": "GuardCWCityF"
+ },
+ {
+  "original": "We couldn't have taken this city without you, sir.",
+  "string": "Без вас, господин, мы не смогли бы взять этот город.",
+  "form_id": "00014B64|Guard Dialogue Overhaul.esp",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": "GuardCWCityM"
+ },
+ {
+  "original": "Ugh. Your breath is foul. What've you been eating?",
+  "string": "Фу, у тебя изо рта несет. Что это ты жрешь?",
+  "form_id": "000DD095|Skyrim.esm",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": "GuardRingOfNamira"
+ },
+ {
+  "original": "So you can cast a few spells. Am I supposed to be impressed?",
+  "string": "Так ты знаешь пару заклинаний? Мне что, в ладоши похлопать или в обморок грохнуться?",
+  "form_id": "000D5EB6|Skyrim.esm",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": "GuardMageRude"
+ },
+ {
+  "original": "Ugh. That armor stinks of death. You been grave robbing?",
+  "string": "Ух. От этой брони несет смертью. Ты что, могилы грабишь?",
+  "form_id": "000D5E92|Skyrim.esm",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": "GuardArmorDraugr"
+ },
+ {
+  "original": "No lollygaggin'.",
+  "string": "Нечего бездельничать.",
+  "form_id": "0002BE0B|Skyrim.esm",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": "GuardLollygaggin"
+ },
+ {
+  "original": "Disrespect the law, and you disrespect me.",
+  "string": "Неуважение к закону - неуважение ко мне.",
+  "form_id": "0002BE12|Skyrim.esm",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": "GuardLaw"
+ },
+ {
+  "original": "Let me guess - someone stole your sweetroll...",
+  "string": "Дай-ка угадаю - кто-то украл твой сладкий рулет...",
+  "form_id": "0002BE10|Skyrim.esm",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": "GuardSweetroll"
+ },
+ {
+  "original": "Only burglars and vampires creep around after dark. So which are you?",
+  "string": "В темноте шастают только взломщики, либо вампиры. Ты из которых?",
+  "form_id": "000E0FAF|Skyrim.esm",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": "GuardNightRude"
+ },
+ {
+  "original": "Keep your arrows in their quiver, archer.",
+  "string": "Держи свои стрелы в колчане. С вами, лучниками, надо быть настороже.",
+  "form_id": "000D5EC6|Skyrim.esm",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": "GuardArcherRude"
+ },
+ {
+  "original": "Don't think you can barter with me like one of those damned shopkeepers.",
+  "string": "Даже не думай торговаться со мной, как с этими проклятыми лавочниками.",
+  "form_id": "000D5EC0|Skyrim.esm",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": "GuardBarterRude"
+ },
+ {
+  "original": "Don't think you can barter with me like one of those damned shopkeepers.",
+  "string": "Даже не думай торговаться со мной, как с этими проклятыми лавочниками.",
+  "form_id": "000D5EC0|Guard Dialogue Overhaul.esp",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": "GuardBarterRude2"
+ },
+ {
+  "original": "Go fiddling with any locks around here, we're going to have a real problem.",
+  "string": "Если ты тут какой замок хоть пальцем ковырнешь, я тебе устрою кару божью.",
+  "form_id": "000D5EBD|Skyrim.esm",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": "GuardLockpick"
+ },
+ {
+  "original": "I know your kind, always sneaking about.",
+  "string": "Знаю я таких, вечно рыщут, чем бы поживиться.",
+  "form_id": "000D5EBC|Skyrim.esm",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": "GuardSneak"
+ },
+ {
+  "original": "Hands to yourself, sneak thief.",
+  "string": "Не распускай руки, воришка.",
+  "form_id": "000D5EBA|Skyrim.esm",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": "GuardSneakThief"
+ },
+ {
+  "original": "I find your hand in my pocket, I'm going to cut it off.",
+  "string": "Найду твою руку у себя в кармане - отрублю.",
+  "form_id": "000D5EBB|Skyrim.esm",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": "GuardPickpocket"
+ },
+ {
+  "original": "Hey, you mix potions, right? Can you brew me an ale?",
+  "string": "Эй, так ты умеешь варить зелья, да? Может, сваришь мне пивка?",
+  "form_id": "000D5EB9|Skyrim.esm",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": "GuardAlchemy"
+ },
+ {
+  "original": "Iron sword, huh? What are you killing, butterflies?",
+  "string": "Серьезно, железный меч? Кого ты убиваешь, бабочек?",
+  "form_id": "000AD7E3|Skyrim.esm",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": "GuardSwordIronRude"
+ },
+ {
+  "original": "Why the Elven blade, hmm? Nord steel not good enough for you?",
+  "string": "Что это ты с эльфийским клинком, а? Нордская сталь недостаточно хороша?",
+  "form_id": "000D5EAF|Skyrim.esm",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": "GuardSwordElven"
+ },
+ {
+  "original": "I know Thieves Guild armor when I see it. You're not fooling anyone.",
+  "string": "Броню Гильдии воров я и в темноте узнаю. Ты никого не одурачишь.",
+  "form_id": "000D5EAB|Skyrim.esm",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": "GuardArmorThief"
+ },
+ {
+  "original": "You wear the armor of a brigand. Best not cause any trouble on my watch.",
+  "string": "Смотрю, на тебе броня разбойника. Попробуй только что учудить в мою смену!",
+  "form_id": "000D5EAA|Skyrim.esm",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": "GuardArmorBandit"
+ },
+ {
+  "original": "That Stormcloak armor's getting on my nerves...",
+  "string": "Броня Братьев Бури действует мне на нервы...",
+  "form_id": "000D5EA8|Skyrim.esm",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": "GuardArmorSons1"
+ },
+ {
+  "original": "You dare strut around here, wearing that filthy Stormcloak hide?",
+  "string": "Как ты смеешь здесь расхаживать, напялив гнусную шкуру Братьев Бури?",
+  "form_id": "000D5EA7|Skyrim.esm",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": "GuardArmorSons2"
+ },
+ {
+  "original": "That armor... Are you one of the Emperor's protectors? Not very good at your job, are you?",
+  "string": "Эта броня... Ты что, из защитников императора? Не слишком-то хорошо вы работаете, а?",
+  "form_id": "000D5EA2|Skyrim.esm",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": "GuardArmorPenitus"
+ },
+ {
+  "original": "For your sake, I hope you took that armor from a dead Imperial scout...",
+  "string": "Надеюсь, ради твоего же блага, ты снял эту броню с мертвого имперского разведчика...",
+  "form_id": "000D5E9B|Skyrim.esm",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": "GuardArmorImperial1"
+ },
+ {
+  "original": "You come talking to me wearing Imperial armor? You got stew for brains?",
+  "string": "Ты приходишь сюда в имперской броне и надеешься поболтать? У тебя что, каша вместо мозгов?",
+  "form_id": "000D5E98|Skyrim.esm",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": "GuardArmorImperial2"
+ },
+ {
+  "original": "Now I remember - you're that new member of the Companions. So you, what - fetch the mead?",
+  "string": "Теперь я припоминаю - ты из новичков-Соратников. Так ты что, выпивку им разносишь?",
+  "form_id": "000DD0DF|Skyrim.esm",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": "GuardCompanion"
+ },
+ {
+  "original": "Uch. Been tending your hounds? You smell like a wet dog.",
+  "string": "Фу. Опять возился со своими псами? От тебя несет мокрой собакой.",
+  "form_id": "000DD09C|Skyrim.esm",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": "GuardWolfSmell"
+ },
+ {
+  "original": "If you're an Imperial spy, better turn around right now.",
+  "string": "Если ты - имперский шпион, лучше проваливай.",
+  "form_id": "00014B67|Guard Dialogue Overhaul.esp",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": "GuardSonsSpy"
+ },
+ {
+  "original": "Loyal Nords are always welcome here. Anyone else better watch their step.",
+  "string": "Истинным нордам здесь всегда рады. Остальным лучше поостеречься.",
+  "form_id": "00014B66|Guard Dialogue Overhaul.esp",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": "GuardSonsLoyal"
+ },
+ {
+  "original": "This is Stormcloak territory. If you're one of those craven Imperials, don't expect a warm welcome.",
+  "string": "Здесь территория Братьев Бури. Если ты - из имперских трусов, не жди теплого приема.",
+  "form_id": "00013079|Guard Dialogue Overhaul.esp",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": "GuardSonsTerritory"
+ },
+ {
+  "original": "You come up to me, fists raised? You looking for a beating?",
+  "string": "Ты что это на меня с кулаками? Хочешь, чтоб тебе бока намяли?",
+  "form_id": "000AD7CA|Skyrim.esm",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": "GuardWarnFist"
+ },
+ {
+  "original": "Sheathe those claws, Khajiit...",
+  "string": "Втяни свои когти, каджит...",
+  "form_id": "000E7B98|Skyrim.esm",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": "GuardWarnKhajiit"
+ },
+ {
+  "original": "Guard might get nervous, a man approaches with his weapon drawn...",
+  "string": "Когда человек подходит с оружием наготове - немудрено занервничать...",
+  "form_id": "000D27E3|Skyrim.esm",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": "GuardWarnArmedM"
+ },
+ {
+  "original": "Guard might get nervous, a woman approaches with her weapon drawn...",
+  "string": "Когда женщина подходит с оружием наготове - немудрено занервничать...",
+  "form_id": "000AD7C9|Skyrim.esm",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": "GuardWarnArmedW"
+ },
+ {
+  "original": "Go cast your fancy magic someplace else.",
+  "string": "Иди твори свою дурацкую магию где-нибудь еще.",
+  "form_id": "000D27E2|Skyrim.esm",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": "GuardWarnMagic"
+ },
+ {
+  "original": "Whoa, whoa, whoa! Watch the magic!",
+  "string": "Эй, ты! Поосторожней с магией тут!",
+  "form_id": "000D27E1|Skyrim.esm",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": "GuardWarnSpell"
+ },
+ {
+  "original": "Stay out of trouble, Argonian.",
+  "string": "Смотри без шуток мне тут, аргонианин.",
+  "form_id": "000AC12A|Skyrim.esm",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": "GuardArgonianWarn"
+ },
+ {
+  "original": "What is it, Argonian?",
+  "string": "В чем дело, аргонианин?",
+  "form_id": "000E0FA6|Skyrim.esm",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": "GuardArgonianGreet"
+ },
+ {
+  "original": "Stay out of trouble, lizard.",
+  "string": "Чтобы без глупостей тут, ящерица.",
+  "form_id": "000D27E5|Skyrim.esm",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": "GuardArgonianSons"
+ },
+ {
+  "original": "Stay out of trouble, Khajiit.",
+  "string": "Я слежу за тобой, каджит.",
+  "form_id": "000D27E9|Skyrim.esm",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": "GuardKhajiitWarn"
+ },
+ {
+  "original": "What is it, Khajiit?",
+  "string": "В чем дело, каджит?",
+  "form_id": "000E0FA9|Skyrim.esm",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": "GuardKhajiitGreet"
+ },
+ {
+  "original": "What do you want... cat?",
+  "string": "Что тебе нужно... кошатина?",
+  "form_id": "000E0FAA|Skyrim.esm",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": "GuardKhajiitSons"
+ },
+ {
+  "original": "Stay out of trouble, Orc.",
+  "string": "Смотри без глупостей, орк.",
+  "form_id": "000D27EC|Skyrim.esm",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": "GuardOrcWarn"
+ },
+ {
+  "original": "What is it, Orc?",
+  "string": "В чем дело, орк?",
+  "form_id": "000E0FAD|Skyrim.esm",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": "GuardOrcGreet"
+ },
+ {
+  "original": "Don't cross me, Elf.",
+  "string": "Не испытывай меня, эльф.",
+  "form_id": "000D27E7|Skyrim.esm",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": "GuardElfSons"
+ },
+ {
+  "original": "Stay out of trouble, Elf.",
+  "string": "Смотри без глупостей, эльф.",
+  "form_id": "000D27E8|Skyrim.esm",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": "GuardElfWarn"
+ },
+ {
+  "original": "What is it, Elf?",
+  "string": "В чем дело, эльф?",
+  "form_id": "000E0FA8|Skyrim.esm",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": "GuardElfGreet"
+ },
+ {
+  "original": "Stay out of trouble, Imperial.",
+  "string": "Смотри без глупостей, имперец.",
+  "form_id": "000D27EB|Skyrim.esm",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": "GuardImperialWarn"
+ },
+ {
+  "original": "What is it, Imperial?",
+  "string": "В чем дело, воин Империи?",
+  "form_id": "000E0FAC|Skyrim.esm",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": "GuardImperialGreet"
+ },
+ {
+  "original": "Stay out of trouble, Redguard.",
+  "string": "Надеюсь, от тебя не будет неприятностей, редгард.",
+  "form_id": "000D27EA|Skyrim.esm",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": "GuardRedguardWarn"
+ },
+ {
+  "original": "What is it, Redguard?",
+  "string": "В чем дело, редгард?",
+  "form_id": "000E0FAB|Skyrim.esm",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": "GuardRedguardGreet"
+ },
+ {
+  "original": "Staying out of trouble, kinsman?",
+  "string": "Смотри не подводи меня. Мы ж, все-таки, земляки.",
+  "form_id": "000D27E6|Skyrim.esm",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": "GuardKinsman"
+ },
+ {
+  "original": "Stay out of trouble, Nord.",
+  "string": "Смотри без шуток мне тут, норд.",
+  "form_id": "000D33A7|Skyrim.esm",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": "GuardNordWarn"
+ },
+ {
+  "original": "You... you're the Harbinger. Of the Companions. It is my honor to stand before you.",
+  "string": "Ты... ты Предвестник! Из Соратников. Для меня честь встретиться с тобой.",
+  "form_id": "000DD0A1|Skyrim.esm",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": "GuardHarbinger"
+ },
+ {
+  "original": "I am your Thane! Don't presume to order me.",
+  "string": "Я твой тан! Не смей мне приказывать.",
+  "form_id": "00019C3C|Guard Dialogue Overhaul.esp",
+  "type": "DIAL FULL",
+  "index": null,
+  "editor_id": "WICastMagic03Thane"
+ },
+ {
+  "original": "I'm Archmage of the College of Winterhold. Leave me at once, FOOL!",
+  "string": "Я Архимаг Коллегии Винтерхолда. Оставь меня немедленно, ДУРАК!",
+  "form_id": "00019C46|Guard Dialogue Overhaul.esp",
+  "type": "DIAL FULL",
+  "index": null,
+  "editor_id": "WICastMagic03Archmage"
+ },
+ {
+  "original": "Placeholder For Remarks Culled From Other Topics",
+  "string": "Заготовка для реплик из других тем",
+  "form_id": "0001B27C|Guard Dialogue Overhaul.esp",
+  "type": "DIAL FULL",
+  "index": null,
+  "editor_id": "DoNotDelete"
+ },
+ {
+  "original": "Break the law in Markarth, and it's off to Cidhna Mine with you.",
+  "string": "Только попробуй нарушить закон в Маркарте - отправишься прямиком в шахту Сидна.",
+  "form_id": "000DA642|Skyrim.esm",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "Outsiders aren't trusted in Markarth. Best keep that in mind.",
+  "string": "В Маркарте не доверяют чужакам. Учти на будущее.",
+  "form_id": "00036A34|Skyrim.esm",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "Riften's under my protection. You watch yourself, now.",
+  "string": "Рифтен находится под моей защитой. Так что без глупостей.",
+  "form_id": "000AD80A|Skyrim.esm",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "Keep clear of the College, and keep yourself out of trouble.",
+  "string": "Держись подальше от Коллегии и не впутывайся в неприятности.",
+  "form_id": "0002A167|Skyrim.esm",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "Just my luck, stuck in the sticks with this crazy old woman.",
+  "string": "Ну что за везенье! Застрял в глухомани с безумной старухой.",
+  "form_id": "0002180F|Skyrim.esm",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "I grew up hearing songs about Eyldi the Bear! She wrestled a storm out of the sky!",
+  "string": "Я с детства помню песни про Эйлди Медведицу! Она победила даже грозу в небе!",
+  "form_id": "00021811|Skyrim.esm",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "This is Stormcloak territory. If you're one of those craven Imperials, don't expect a warm welcome.",
+  "string": "Здесь территория Братьев Бури. Если ты - из имперских трусов, не жди теплого приема.",
+  "form_id": "0003ED50|Skyrim.esm",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "Loyal Nords are always welcome here. Anyone else better watch their step.",
+  "string": "Истинным нордам здесь всегда рады. Остальным лучше поостеречься.",
+  "form_id": "0003ED52|Skyrim.esm",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "If you're an Imperial spy, better turn around right now.",
+  "string": "Если ты - имперский шпион, лучше проваливай.",
+  "form_id": "0003ED8D|Skyrim.esm",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "If you're here to join the Stormcloaks, the palace is inside. ",
+  "string": "Если ты хочешь примкнуть к Братьям Бури, дворец прямо за стеной.",
+  "form_id": "0003ED51|Skyrim.esm",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "Now that the Empire's arrived in Riften, we've finally established a launching point into Morrowind... just in case.",
+  "string": "Теперь, когда Империя закрепилась в Рифтене, мы наконец создали отправную точку в Морровинд... на всякий случай.",
+  "form_id": "00065C4C|Skyrim.esm",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "I hope you're finding the city in proper order, thane.",
+  "string": "Надеюсь, тан, ты оценишь, какой в городе порядок.",
+  "form_id": "000E156E|Skyrim.esm",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "I trust the day's found you well, thane.",
+  "string": "Надеюсь, этот день удачен для тебя, тан.",
+  "form_id": "00065C69|Skyrim.esm",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "How do you do, thane?",
+  "string": "Как дела, тан?",
+  "form_id": "00065C6A|Skyrim.esm",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "Careful. Riften's not the safest place for a nighttime stroll.",
+  "string": "Будь осторожней. Рифтен не лучшее место для прогулок при луне.",
+  "form_id": "000AD80B|Skyrim.esm",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "City's quiet enough now. But when the sun goes down, you best keep on your guard.",
+  "string": "Сейчас в городе все спокойно. Но после захода солнца лучше быть начеку.",
+  "form_id": "000AD80F|Skyrim.esm",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "Fear not. Come dragon or giant, we'll be ready.",
+  "string": "Не бойся. Хоть драконы, хоть великаны - мы будем готовы их встретить.",
+  "form_id": "0002BDE9|Skyrim.esm",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "Those rebels better not try coming to Haafingar.",
+  "string": "Лучше этим мятежникам не соваться в Хаафингар.",
+  "form_id": "000212A4|Skyrim.esm",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "Another quiet day... I hope.",
+  "string": "Очередной спокойный денек... Надеюсь.",
+  "form_id": "000212A2|Skyrim.esm",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "Another quiet day.",
+  "string": "Очередной спокойный денек.",
+  "form_id": "000212A1|Skyrim.esm",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "I'm the Harbinger of the Companions. You have no need to fear on my account.",
+  "string": "Я Предвестник Соратников. Из-за меня тебе бояться нечего.",
+  "form_id": "0001B901|Guard Dialogue Overhaul.esp",
+  "type": "DIAL FULL",
+  "index": null,
+  "editor_id": "WICastMagic03Harbinger"
+ },
+ {
+  "original": "They are right to fear me for I am The Void. Would you like to see my truth?",
+  "string": "Они правы, что боятся меня, ведь я - Пустота. Хочешь увидеть мою истину?",
+  "form_id": "0001B903|Guard Dialogue Overhaul.esp",
+  "type": "DIAL FULL",
+  "index": null,
+  "editor_id": "WICastMagic03Listener"
+ },
+ {
+  "original": "Cowards like that should learn to keep their mouths shut. See to it Soldier.",
+  "string": "Таким трусам стоит научиться держать язык за зубами. Займись этим, солдат.",
+  "form_id": "0001BE67|Guard Dialogue Overhaul.esp",
+  "type": "DIAL FULL",
+  "index": null,
+  "editor_id": "WICastMagic03CWSoldier"
+ },
+ {
+  "original": "I didn't win this war so that civilians like you could order me around...",
+  "string": "Я выиграл эту войну не для того, чтобы мной командовали всякие гражданские...",
+  "form_id": "0001BE69|Guard Dialogue Overhaul.esp",
+  "type": "DIAL FULL",
+  "index": null,
+  "editor_id": "WICastMagic03CWGuard"
+ },
+ {
+  "original": "I am your Thane! Don't interfere with my business. Have I made myself clear?",
+  "string": "Я твой тан! Не лезь в мои дела. Я ясно выразился?",
+  "form_id": "0001D3F7|Guard Dialogue Overhaul.esp",
+  "type": "DIAL FULL",
+  "index": null,
+  "editor_id": "WIRemoveItem01Thane"
+ },
+ {
+  "original": "Did your mother not teach you never to test the patience of an Archmage?",
+  "string": "Тебя мать не учила, что не стоит испытывать терпение Архимага?",
+  "form_id": "0001D96B|Guard Dialogue Overhaul.esp",
+  "type": "DIAL FULL",
+  "index": null,
+  "editor_id": "WIRemoveItem01Archmage"
+ },
+ {
+  "original": "Do you really think it wise to bring yourself to my attention? Very well...",
+  "string": "Ты правда думаешь, что разумно привлекать мое внимание? Что ж...",
+  "form_id": "0001D96C|Guard Dialogue Overhaul.esp",
+  "type": "DIAL FULL",
+  "index": null,
+  "editor_id": "WIRemoveItem01Listener"
+ },
+ {
+  "original": "Very funny. One of the Companions put you up to this, didn't they?",
+  "string": "Очень смешно. Тебя кто-то из Соратников подговорил, да?",
+  "form_id": "0001D96D|Guard Dialogue Overhaul.esp",
+  "type": "DIAL FULL",
+  "index": null,
+  "editor_id": "WIRemoveItem01Harbinger"
+ },
+ {
+  "original": "I didn't win this war so that civilians like you could order me around...",
+  "string": "Я выиграл эту войну не для того, чтобы мной командовали всякие гражданские...",
+  "form_id": "0001D96E|Guard Dialogue Overhaul.esp",
+  "type": "DIAL FULL",
+  "index": null,
+  "editor_id": "WIRemoveItem01CWGuard"
+ },
+ {
+  "original": "I know what I'm doing soldier. As you were!",
+  "string": "Я знаю, что делаю, солдат. Вольно!",
+  "form_id": "0001D96F|Guard Dialogue Overhaul.esp",
+  "type": "DIAL FULL",
+  "index": null,
+  "editor_id": "WIRemoveItem01CWSoldier"
+ },
+ {
+  "original": "Don't make me angry. You wouldn't like me when I'm angry...",
+  "string": "Не зли меня. Тебе не понравится, когда я злюсь...",
+  "form_id": "0001D978|Guard Dialogue Overhaul.esp",
+  "type": "DIAL FULL",
+  "index": null,
+  "editor_id": "WIRemoveItem01Dragonborn"
+ },
+ {
+  "original": "I'm not shouting. I speak in Dragon's Language.",
+  "string": "Я не кричу. Я говорю на языке драконов.",
+  "form_id": "0001DEDE|Guard Dialogue Overhaul.esp",
+  "type": "DIAL FULL",
+  "index": null,
+  "editor_id": "WICastMagic03Dragonborn"
+ },
+ {
+  "original": "Shout - Guard says stop",
+  "string": "Крик - стражник просит прекратить",
+  "form_id": "000167D3|Skyrim.esm",
+  "type": "QUST FULL",
+  "index": null,
+  "editor_id": "WICastMagic03"
+ }
+]

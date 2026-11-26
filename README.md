@@ -21,6 +21,7 @@
 |---|---|---|
 | [Become High King of Skyrim TNG](https://www.nexusmods.com/skyrimspecialedition/mods/142993) | 2.3 | `mods/become-high-king-tng` (DSD + интерфейс «Королевской книги» в `Magelight/`) |
 | BHKS - TNG - Official Patch Collection | 1.0.6 | `mods/bhks-tng-patches` |
+| [Guard Dialogue Overhaul Redux](https://www.nexusmods.com/skyrimspecialedition/mods/20791) | 1.8.1 | `mods/guard-dialogue-overhaul` (298 строк из ванильного перевода + 36 новых) |
 
 ## Как устроен перевод
 
