@@ -1,0 +1,26 @@
+[
+ {
+  "original": "Vampire - Mockery of Life",
+  "string": "Вампир: насмешка над жизнью",
+  "form_id": "0066A7D6|Everdamned.esp",
+  "type": "SPEL FULL",
+  "index": null,
+  "editor_id": "ED_BeingVampire_Ab_HealingDampenController_Spell"
+ },
+ {
+  "original": "Vampire recieves no Healing",
+  "string": "Вампир не получает лечения",
+  "form_id": "001CDC25|Everdamned.esp",
+  "type": "PERK FULL",
+  "index": null,
+  "editor_id": "ED_BeingVampire_Ab_HealDampen_Perk"
+ },
+ {
+  "original": "No restoration healing / regen unless player has Necromage. Resto regen spell are supposed to also have MagicRestoreHealth keyword?",
+  "string": "Нет лечения и регенерации от школы Восстановления, если у игрока нет перка \"Некромаг\". Заклинания регенерации школы Восстановления должны также иметь ключевое слово MagicRestoreHealth?",
+  "form_id": "001CDC25|Everdamned.esp",
+  "type": "PERK DESC",
+  "index": null,
+  "editor_id": "ED_BeingVampire_Ab_HealDampen_Perk"
+ }
+]

@@ -1,0 +1,26 @@
+[
+ {
+  "original": "Potion of Blood",
+  "string": "Зелье крови",
+  "form_id": "00018EF3|Dawnguard.esm",
+  "type": "ALCH FULL",
+  "index": null,
+  "editor_id": "ED_Mechanics_BloodPotion_BloodPotion"
+ },
+ {
+  "original": "Greater Potion of Blood",
+  "string": "Большое зелье крови",
+  "form_id": "0009A1A3|Everdamned.esp",
+  "type": "ALCH FULL",
+  "index": null,
+  "editor_id": "ED_Mechanics_BloodPotion_BloodPotionGreater"
+ },
+ {
+  "original": "Blood Wine",
+  "string": "Кровавое вино",
+  "form_id": "006512B9|Everdamned.esp",
+  "type": "ALCH FULL",
+  "index": null,
+  "editor_id": "ED_Mechanics_BloodPotion_BloodWine"
+ }
+]

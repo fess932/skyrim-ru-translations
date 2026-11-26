@@ -28,6 +28,7 @@
 | Atlas Map Markers SE и патчи | 8 плагинов | `mods/atlas-map-markers` (метки карты и компаса, ставится как `RU_atlas-map-markers.json`) |
 | Feathers of Kyne - An Alternate Death Mod | 1.x | `mods/feathers-of-kyne` |
 | Rogues 'n Raiders, Lawless, OBIS SE | 7 плагинов | `mods/bandits` (имена противников, перки, заклинания, книги; ставится как `RU_bandits.json`) |
+| [Everdamned](https://www.nexusmods.com/skyrimspecialedition/mods/162489) | 1.6.3 | `mods/everdamned` (полный перевод вместо машинного + название ветки навыков в `SKSE/Plugins/CustomSkills`) |
 
 ## Как устроен перевод
 

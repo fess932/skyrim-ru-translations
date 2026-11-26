@@ -1,0 +1,22 @@
+{
+  "slug": "everdamned",
+  "name": "Everdamned - a new generation Vampirism overhaul",
+  "reuse_installed": false,
+  "plugins": [
+    "Everdamned.esp",
+    "Everdamned_Ordntr_Patch.esp",
+    "Everdamned_SurvMode_patch.esp",
+    "Everdamned_VFT_Patch.esp",
+    "Everdamned_WSN_Patch.esp"
+  ],
+  "sources": {
+    "Everdamned.esp": "Everdamned - a new generation Vampirism overhaul",
+    "Everdamned_Ordntr_Patch.esp": "Everdamned - a new generation Vampirism overhaul",
+    "Everdamned_SurvMode_patch.esp": "Everdamned - a new generation Vampirism overhaul",
+    "Everdamned_VFT_Patch.esp": "Everdamned - a new generation Vampirism overhaul",
+    "Everdamned_WSN_Patch.esp": "Everdamned - a new generation Vampirism overhaul"
+  },
+  "nexus_id": 162489,
+  "version": "1.6.3",
+  "notes": "Полный перевод вместо машинного. Плюс SKSE/Plugins/CustomSkills/EverdamnedMain.json (название и описание ветки)."
+}
