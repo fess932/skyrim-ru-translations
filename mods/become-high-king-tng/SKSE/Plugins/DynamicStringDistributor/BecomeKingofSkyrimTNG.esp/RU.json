@@ -75872,6 +75872,22 @@
   "editor_id": null
  },
  {
+  "original": "Imperials on the Road",
+  "string": "Имперцы на дороге",
+  "form_id": "00105173|Skyrim.esm",
+  "type": "QUST FULL",
+  "index": null,
+  "editor_id": "WERoad05"
+ },
+ {
+  "original": "To Wear the Crown of the High King",
+  "string": "Надеть корону Верховного короля",
+  "form_id": "00000D64|BecomeKingofSkyrimTNG.esp",
+  "type": "QUST FULL",
+  "index": null,
+  "editor_id": "AABecomeKingSkyrim"
+ },
+ {
   "original": "I've received a strange note. I should follow the instructions and find this strange sender.",
   "string": "Мне пришла странная записка. Нужно следовать указаниям и найти этого загадочного отправителя.",
   "form_id": "00000D64|BecomeKingofSkyrimTNG.esp",
@@ -76024,6 +76040,14 @@
   "editor_id": "AABecomeKingSkyrim"
  },
  {
+  "original": "The King Reigns",
+  "string": "Король правит",
+  "form_id": "00006E8B|BecomeKingofSkyrimTNG.esp",
+  "type": "QUST FULL",
+  "index": null,
+  "editor_id": "AAKingSkyrim"
+ },
+ {
   "original": "The Thalmor War has begun. Thalmor Battlezones have appeared in your map. Visit those zones to fight against the Thalmor!",
   "string": "Началась война с Талмором. На карте появились зоны боя с Талмором. Нужно посетить их и сразиться с Талмором!",
   "form_id": "00006E8B|BecomeKingofSkyrimTNG.esp",
@@ -76070,6 +76094,14 @@
   "type": "QUST NNAM",
   "index": 22,
   "editor_id": "AAKingSkyrim"
+ },
+ {
+  "original": "Finding The High Priest of Skyrim",
+  "string": "В поисках Верховного жреца Скайрима",
+  "form_id": "00039AEF|BecomeKingofSkyrimTNG.esp",
+  "type": "QUST FULL",
+  "index": null,
+  "editor_id": "AAKingCouncilHighPriest"
  },
  {
   "original": "Surgus has told me of a man named Brother Arthorian, a former priest turned political firebrand who now preaches among the graves in Falkreath. If I can convince him to join my court, he may serve as Skyrim's High Priest in spiritual matters.",
@@ -76136,12 +76168,220 @@
   "editor_id": "AAKingCouncilHighPriest"
  },
  {
+  "original": "AAFollowerGrandAdvisorDialogue",
+  "string": "AAFollowerGrandAdvisorDialogue",
+  "form_id": "0006AD36|BecomeKingofSkyrimTNG.esp",
+  "type": "QUST FULL",
+  "index": null,
+  "editor_id": "AAFollowerGrandAdvisorDialogue"
+ },
+ {
+  "original": "AAKingBardSonyaDialogue",
+  "string": "AAKingBardSonyaDialogue",
+  "form_id": "000751F8|BecomeKingofSkyrimTNG.esp",
+  "type": "QUST FULL",
+  "index": null,
+  "editor_id": "AAKingBardSonyaDialogue"
+ },
+ {
+  "original": "AAKingCitizenMurobDialogue",
+  "string": "AAKingCitizenMurobDialogue",
+  "form_id": "000762D2|BecomeKingofSkyrimTNG.esp",
+  "type": "QUST FULL",
+  "index": null,
+  "editor_id": "AAKingCitizenMurobDialogue"
+ },
+ {
+  "original": "AAKingMercHanzaDialogueQuest",
+  "string": "AAKingMercHanzaDialogueQuest",
+  "form_id": "000762DE|BecomeKingofSkyrimTNG.esp",
+  "type": "QUST FULL",
+  "index": null,
+  "editor_id": "AAKingMercHanzaDialogueQuest"
+ },
+ {
+  "original": "AAFollowerEldisDialogueQuest",
+  "string": "AAFollowerEldisDialogueQuest",
+  "form_id": "000762F2|BecomeKingofSkyrimTNG.esp",
+  "type": "QUST FULL",
+  "index": null,
+  "editor_id": "AAFollowerEldisDialogueQuest"
+ },
+ {
   "original": "Eldis has agreed to join you.",
   "string": "Эльдис теперь со мной.",
   "form_id": "000762F2|BecomeKingofSkyrimTNG.esp",
   "type": "QUST CNAM",
   "index": 10,
   "editor_id": "AAFollowerEldisDialogueQuest"
+ },
+ {
+  "original": "AAKingCitizenBagamuGarDialogue",
+  "string": "AAKingCitizenBagamuGarDialogue",
+  "form_id": "00076300|BecomeKingofSkyrimTNG.esp",
+  "type": "QUST FULL",
+  "index": null,
+  "editor_id": "AAKingCitizenBagamuGarDialogue"
+ },
+ {
+  "original": "AAKingCitizenUramulDialogue",
+  "string": "AAKingCitizenUramulDialogue",
+  "form_id": "00076317|BecomeKingofSkyrimTNG.esp",
+  "type": "QUST FULL",
+  "index": null,
+  "editor_id": "AAKingCitizenUramulDialogue"
+ },
+ {
+  "original": "AAKingCitizenElberondDialogue",
+  "string": "AAKingCitizenElberondDialogue",
+  "form_id": "00076328|BecomeKingofSkyrimTNG.esp",
+  "type": "QUST FULL",
+  "index": null,
+  "editor_id": "AAKingCitizenElberondDialogue"
+ },
+ {
+  "original": "AAKingCitizenIndrethDialogue",
+  "string": "AAKingCitizenIndrethDialogue",
+  "form_id": "0007633F|BecomeKingofSkyrimTNG.esp",
+  "type": "QUST FULL",
+  "index": null,
+  "editor_id": "AAKingCitizenIndrethDialogue"
+ },
+ {
+  "original": "AAKingCitizenArangaDialogue",
+  "string": "AAKingCitizenArangaDialogue",
+  "form_id": "00076357|BecomeKingofSkyrimTNG.esp",
+  "type": "QUST FULL",
+  "index": null,
+  "editor_id": "AAKingCitizenArangaDialogue"
+ },
+ {
+  "original": "AAKingCitizenSifkningDialogue",
+  "string": "AAKingCitizenSifkningDialogue",
+  "form_id": "00076368|BecomeKingofSkyrimTNG.esp",
+  "type": "QUST FULL",
+  "index": null,
+  "editor_id": "AAKingCitizenSifkningDialogue"
+ },
+ {
+  "original": "AAKingCitizenBalfheDialogue",
+  "string": "AAKingCitizenBalfheDialogue",
+  "form_id": "0007637C|BecomeKingofSkyrimTNG.esp",
+  "type": "QUST FULL",
+  "index": null,
+  "editor_id": "AAKingCitizenBalfheDialogue"
+ },
+ {
+  "original": "AAKingCitizenHulgarDialogue",
+  "string": "AAKingCitizenHulgarDialogue",
+  "form_id": "00076390|BecomeKingofSkyrimTNG.esp",
+  "type": "QUST FULL",
+  "index": null,
+  "editor_id": "AAKingCitizenHulgarDialogue"
+ },
+ {
+  "original": "AAKingCitizenBrasteDialogue",
+  "string": "AAKingCitizenBrasteDialogue",
+  "form_id": "0007693A|BecomeKingofSkyrimTNG.esp",
+  "type": "QUST FULL",
+  "index": null,
+  "editor_id": "AAKingCitizenBrasteDialogue"
+ },
+ {
+  "original": "AAKingCitizenHaemaDialogue",
+  "string": "AAKingCitizenHaemaDialogue",
+  "form_id": "00076951|BecomeKingofSkyrimTNG.esp",
+  "type": "QUST FULL",
+  "index": null,
+  "editor_id": "AAKingCitizenHaemaDialogue"
+ },
+ {
+  "original": "AAKingCitizenRamkuDialogue",
+  "string": "AAKingCitizenRamkuDialogue",
+  "form_id": "00076968|BecomeKingofSkyrimTNG.esp",
+  "type": "QUST FULL",
+  "index": null,
+  "editor_id": "AAKingCitizenRamkuDialogue"
+ },
+ {
+  "original": "AAKingCitizenNeeseiDialogue",
+  "string": "AAKingCitizenNeeseiDialogue",
+  "form_id": "00076980|BecomeKingofSkyrimTNG.esp",
+  "type": "QUST FULL",
+  "index": null,
+  "editor_id": "AAKingCitizenNeeseiDialogue"
+ },
+ {
+  "original": "AAKingCitizenRiDatDialogue",
+  "string": "AAKingCitizenRiDatDialogue",
+  "form_id": "00076997|BecomeKingofSkyrimTNG.esp",
+  "type": "QUST FULL",
+  "index": null,
+  "editor_id": "AAKingCitizenRiDatDialogue"
+ },
+ {
+  "original": "AAKingCitizenTsabhiDialogue",
+  "string": "AAKingCitizenTsabhiDialogue",
+  "form_id": "000769AE|BecomeKingofSkyrimTNG.esp",
+  "type": "QUST FULL",
+  "index": null,
+  "editor_id": "AAKingCitizenTsabhiDialogue"
+ },
+ {
+  "original": "AAKingCitizenSorinkDialogue",
+  "string": "AAKingCitizenSorinkDialogue",
+  "form_id": "000769C5|BecomeKingofSkyrimTNG.esp",
+  "type": "QUST FULL",
+  "index": null,
+  "editor_id": "AAKingCitizenSorinkDialogue"
+ },
+ {
+  "original": "AAKingCitizenLairahDialogue",
+  "string": "AAKingCitizenLairahDialogue",
+  "form_id": "000769DC|BecomeKingofSkyrimTNG.esp",
+  "type": "QUST FULL",
+  "index": null,
+  "editor_id": "AAKingCitizenLairahDialogue"
+ },
+ {
+  "original": "AAKingBardArtmoorDialogue",
+  "string": "AAKingBardArtmoorDialogue",
+  "form_id": "000769F3|BecomeKingofSkyrimTNG.esp",
+  "type": "QUST FULL",
+  "index": null,
+  "editor_id": "AAKingBardArtmoorDialogue"
+ },
+ {
+  "original": "AAKingBardYsseDialogue",
+  "string": "AAKingBardYsseDialogue",
+  "form_id": "00076A0A|BecomeKingofSkyrimTNG.esp",
+  "type": "QUST FULL",
+  "index": null,
+  "editor_id": "AAKingBardYsseDialogue"
+ },
+ {
+  "original": "AAKingBardRoebarDialogue",
+  "string": "AAKingBardRoebarDialogue",
+  "form_id": "00076A21|BecomeKingofSkyrimTNG.esp",
+  "type": "QUST FULL",
+  "index": null,
+  "editor_id": "AAKingBardRoebarDialogue"
+ },
+ {
+  "original": "AAKingBardAstrelleDialogue",
+  "string": "AAKingBardAstrelleDialogue",
+  "form_id": "00076A38|BecomeKingofSkyrimTNG.esp",
+  "type": "QUST FULL",
+  "index": null,
+  "editor_id": "AAKingBardAstrelleDialogue"
+ },
+ {
+  "original": "AAKingCitizenHaakhorDialogue",
+  "string": "AAKingCitizenHaakhorDialogue",
+  "form_id": "00076FE8|BecomeKingofSkyrimTNG.esp",
+  "type": "QUST FULL",
+  "index": null,
+  "editor_id": "AAKingCitizenHaakhorDialogue"
  },
  {
   "original": "Find and deal with the rebellion's leader in Whiterun",
@@ -76216,6 +76456,14 @@
   "editor_id": "AARebelionManager"
  },
  {
+  "original": "AAFollowerVeldarDialogueQuest",
+  "string": "AAFollowerVeldarDialogueQuest",
+  "form_id": "000F2A3C|BecomeKingofSkyrimTNG.esp",
+  "type": "QUST FULL",
+  "index": null,
+  "editor_id": "AAFollowerVeldarDialogueQuest"
+ },
+ {
   "original": "Veldar has agreed to join you.",
   "string": "Вельдар теперь со мной.",
   "form_id": "000F2A3C|BecomeKingofSkyrimTNG.esp",
@@ -76224,12 +76472,28 @@
   "editor_id": "AAFollowerVeldarDialogueQuest"
  },
  {
+  "original": "AAFollowerKalelDialogueQuest",
+  "string": "AAFollowerKalelDialogueQuest",
+  "form_id": "000F2AF7|BecomeKingofSkyrimTNG.esp",
+  "type": "QUST FULL",
+  "index": null,
+  "editor_id": "AAFollowerKalelDialogueQuest"
+ },
+ {
   "original": "Kalel has agreed to join you.",
   "string": "Калель теперь со мной.",
   "form_id": "000F2AF7|BecomeKingofSkyrimTNG.esp",
   "type": "QUST CNAM",
   "index": 10,
   "editor_id": "AAFollowerKalelDialogueQuest"
+ },
+ {
+  "original": "Finding the Will of the Crown",
+  "string": "В поисках Воли Короны",
+  "form_id": "000FD100|BecomeKingofSkyrimTNG.esp",
+  "type": "QUST FULL",
+  "index": null,
+  "editor_id": "AAKingCouncilWillofCrown"
  },
  {
   "original": "Surgus has recommended a man named Thenius Marbrand to serve as my Will of the Crown. Once a quartermaster for the Imperial Legion, Thenius earned a reputation for discipline, brilliance, and an unshakable commitment to structure. After the war, he attempted to reform several broken holds-but abandoned the effort in disgust. Surgus believes Thenius might still be convinced to serve, if I can prove I am not just another pretender with a crown. He was last seen camping in the foothills south of the Pale's Imperial camp.",
@@ -76328,12 +76592,28 @@
   "editor_id": "AAKingCouncilWillofCrown"
  },
  {
+  "original": "AAKingNahlotviingDialogue",
+  "string": "AAKingNahlotviingDialogue",
+  "form_id": "001164FD|BecomeKingofSkyrimTNG.esp",
+  "type": "QUST FULL",
+  "index": null,
+  "editor_id": "AAKingNahlotviingDialogue"
+ },
+ {
   "original": "Meet conversation ended.",
   "string": "Разговор окончен.",
   "form_id": "001164FD|BecomeKingofSkyrimTNG.esp",
   "type": "QUST CNAM",
   "index": 10,
   "editor_id": "AAKingNahlotviingDialogue"
+ },
+ {
+  "original": "Building Towers",
+  "string": "Строительство башен",
+  "form_id": "00126657|BecomeKingofSkyrimTNG.esp",
+  "type": "QUST FULL",
+  "index": null,
+  "editor_id": "AAKingTowerConstruction"
  },
  {
   "original": "Build the Eastmarch Watchtower",
@@ -76528,6 +76808,22 @@
   "editor_id": "AAKingTowerConstruction"
  },
  {
+  "original": "The Realm in Other Hands",
+  "string": "Королевство в чужих руках",
+  "form_id": "00145BA3|BecomeKingofSkyrimTNG.esp",
+  "type": "QUST FULL",
+  "index": null,
+  "editor_id": "AAKingDontBeKingofSkyrimDialogue"
+ },
+ {
+  "original": "Rescue your lost child",
+  "string": "Спасти пропавшего ребенка",
+  "form_id": "0014A89A|BecomeKingofSkyrimTNG.esp",
+  "type": "QUST FULL",
+  "index": null,
+  "editor_id": "AAKingWoCDMRescue"
+ },
+ {
   "original": "Thenius has discovered the location of my missing child. He has sent me to rescue them from captivity, but there will likely be trouble waiting.",
   "string": "Тениус узнал, где держат моего пропавшего ребенка. Он отправил меня вызволить его из плена, но там наверняка ждут неприятности.",
   "form_id": "0014A89A|BecomeKingofSkyrimTNG.esp",
@@ -76590,6 +76886,14 @@
   "type": "QUST NNAM",
   "index": 1,
   "editor_id": "AAKingNSArmor"
+ },
+ {
+  "original": "Finding the Master of Coin",
+  "string": "В поисках Мастера над монетой",
+  "form_id": "00153F42|BecomeKingofSkyrimTNG.esp",
+  "type": "QUST FULL",
+  "index": null,
+  "editor_id": "AAKingCouncilMasterofCoin"
  },
  {
   "original": "Surgus has recommended a man named Hadrian Quintus to serve as my Master of Coin. Once a respected accountant for the East Empire Company, Hadrian was cast out for exposing corruption. He is said to be brilliant, uncompromising, and deeply skeptical of those in power. Surgus believes he can be convinced to join my court, if I can prove myself worthy of his trust. He was last seen in Markarth.",
@@ -76656,12 +76960,28 @@
   "editor_id": "AAKingCouncilMasterofCoin"
  },
  {
+  "original": "Royal Spouse Quest",
+  "string": "Королевский супруг",
+  "form_id": "00176EA6|BecomeKingofSkyrimTNG.esp",
+  "type": "QUST FULL",
+  "index": null,
+  "editor_id": "AAKingRoyalSpouseQuest"
+ },
+ {
   "original": "Eliminate the threat identified by intelligence",
   "string": "Устранить угрозу, выявленную разведкой",
   "form_id": "00176EA6|BecomeKingofSkyrimTNG.esp",
   "type": "QUST NNAM",
   "index": 50,
   "editor_id": "AAKingRoyalSpouseQuest"
+ },
+ {
+  "original": "By Oath and Crown",
+  "string": "Клятвой и короной",
+  "form_id": "001AF4CF|BecomeKingofSkyrimTNG.esp",
+  "type": "QUST FULL",
+  "index": null,
+  "editor_id": "AAMarriageBypass"
  },
  {
   "original": "To marry as High King, I must begin by acquiring a suitable ring.",
@@ -76912,6 +77232,22 @@
   "editor_id": "AAMarriageBypass"
  },
  {
+  "original": "Lady of the Lake Dialogue",
+  "string": "Владычица озера",
+  "form_id": "001DE09B|BecomeKingofSkyrimTNG.esp",
+  "type": "QUST FULL",
+  "index": null,
+  "editor_id": "AAKingLadyoftheLakeDialogue"
+ },
+ {
+  "original": "Moot of the Jarls",
+  "string": "Мут ярлов",
+  "form_id": "002322EB|BecomeKingofSkyrimTNG.esp",
+  "type": "QUST FULL",
+  "index": null,
+  "editor_id": "AAMootOfJarls"
+ },
+ {
   "original": "Surgus has agreed to arrange the ancient moot - a gathering of all nine Jarls to decide Skyrim's next ruler. The preparations will take time, but when ready, I should let me know.",
   "string": "Сургус согласился созвать древний Мут - собрание всех девяти ярлов, которое решит, кто будет следующим правителем Скайрима. Подготовка займет время, но когда все будет готово, он даст мне знать.",
   "form_id": "002322EB|BecomeKingofSkyrimTNG.esp",
@@ -77112,6 +77448,14 @@
   "editor_id": "AAMootOfJarls"
  },
  {
+  "original": "The Coronation in Highreach",
+  "string": "Коронация в Горном Пределе",
+  "form_id": "00241A85|BecomeKingofSkyrimTNG.esp",
+  "type": "QUST FULL",
+  "index": null,
+  "editor_id": "AAKingSkyrimCoronation"
+ },
+ {
   "original": "The time has come for my coronation as ruler of Skyrim. Surgus told me to meet him at the Church of Skyrim in the halls of Highreach Keep Castle to begin the ceremony.",
   "string": "Настало время моей коронации как правителя Скайрима. Сургус велел встретиться с ним в Церкви Скайрима в чертогах замка Крепости Горного Предела, чтобы начать церемонию.",
   "form_id": "00241A85|BecomeKingofSkyrimTNG.esp",
@@ -77176,6 +77520,14 @@
   "editor_id": "AAKingSkyrimCoronation"
  },
  {
+  "original": "Finding The Royal Blacksmith of Highreach Keep",
+  "string": "В поисках королевского кузнеца Крепости Горного Предела",
+  "form_id": "0024BEDC|BecomeKingofSkyrimTNG.esp",
+  "type": "QUST FULL",
+  "index": null,
+  "editor_id": "AAKingCouncilRoyalBlacksmith"
+ },
+ {
   "original": "Surgus has told me of a man named Brodran Steel-Eater, a grizzled blacksmith who works the forge alone near Old Hroldan. Once a mercenary, now a master of steel, Brodran is said to craft weapons and armor worthy of kings. If I can convince him to enter royal service, he may become Highreach's Royal Blacksmith.",
   "string": "Сургус рассказал мне о человеке по имени Бродран Стальной Зуб - бывалом кузнеце, который в одиночку работает в кузнице близ Старого Хролдана. Когда-то он был наемником, а теперь стал мастером стали. Говорят, Бродран кует оружие и броню, достойные королей. Если удастся уговорить его поступить на королевскую службу, он может стать королевским кузнецом Горного Предела.",
   "form_id": "0024BEDC|BecomeKingofSkyrimTNG.esp",
@@ -77198,6 +77550,14 @@
   "type": "QUST NNAM",
   "index": 11,
   "editor_id": "AAKingCouncilRoyalBlacksmith"
+ },
+ {
+  "original": "The Crown Beneath the Waves",
+  "string": "Корона под волнами",
+  "form_id": "00251C07|BecomeKingofSkyrimTNG.esp",
+  "type": "QUST FULL",
+  "index": null,
+  "editor_id": "AAStrmCrownQuest"
  },
  {
   "original": "I discovered a book in Highreach Castle that speaks of the Stormcrown - a relic tied to ancient High Kings and long-lost prophecies. Perhaps I should talk to an advisor about the book.",
@@ -77350,6 +77710,14 @@
   "type": "QUST NNAM",
   "index": 36,
   "editor_id": "AAStrmCrownQuest"
+ },
+ {
+  "original": "Ashes of Exile",
+  "string": "Пепел изгнания",
+  "form_id": "00256D52|BecomeKingofSkyrimTNG.esp",
+  "type": "QUST FULL",
+  "index": null,
+  "editor_id": "AAEldisCompanionQuest"
  },
  {
   "original": "Quest initialized, not yet active.",
@@ -77696,6 +78064,14 @@
   "editor_id": "AAEldisCompanionQuest"
  },
  {
+  "original": "Visit Highreach Keep",
+  "string": "Посетить Крепость Горного Предела",
+  "form_id": "00260FF9|BecomeKingofSkyrimTNG.esp",
+  "type": "QUST FULL",
+  "index": null,
+  "editor_id": "AAKingVisitHighreach"
+ },
+ {
   "original": "An local mentioned a place called Highreach. Seems like it might be worth the time to visit it.",
   "string": "Один местный житель упомянул место под названием Горный Предел. Похоже, туда стоит наведаться.",
   "form_id": "00260FF9|BecomeKingofSkyrimTNG.esp",
@@ -77718,6 +78094,14 @@
   "type": "QUST NNAM",
   "index": 1,
   "editor_id": "AAKingBookofCouncilQuest"
+ },
+ {
+  "original": "Finding The Royal Chronicler of Highreach Keep",
+  "string": "В поисках Королевского летописца Крепости Горного Предела",
+  "form_id": "003A2FE1|BecomeKingofSkyrimTNG.esp",
+  "type": "QUST FULL",
+  "index": null,
+  "editor_id": "AAKingCouncilRoyalChronicler"
  },
  {
   "original": "Surgus has told me of a man named Thaldrin Marrow-Quill - a bone-reading chronicler said to dwell in Highreach. If I wish to keep a record of my reign, I should speak with him.",
@@ -77792,6 +78176,14 @@
   "editor_id": "AAKingCouncilRoyalChronicler"
  },
  {
+  "original": "AAFollowerSurgusDialogueQuest",
+  "string": "AAFollowerSurgusDialogueQuest",
+  "form_id": "003B0292|BecomeKingofSkyrimTNG.esp",
+  "type": "QUST FULL",
+  "index": null,
+  "editor_id": "AAFollowerSurgusDialogueQuest"
+ },
+ {
   "original": "Thaldrin has agreed to write a chronicle of my rise to power. He’s asked for a day to compose the first draft. I should return to him soon.",
   "string": "Талдрин согласился написать хронику моего восхождения к власти. Он попросил день, чтобы составить первый черновик. Скоро нужно к нему вернуться.",
   "form_id": "003D13A9|BecomeKingofSkyrimTNG.esp",
@@ -77814,6 +78206,14 @@
   "type": "QUST NNAM",
   "index": 10,
   "editor_id": "AAKingChronicle"
+ },
+ {
+  "original": "Finding The Steward of Highreach Keep",
+  "string": "В поисках управителя Крепости Горного Предела",
+  "form_id": "003D65F5|BecomeKingofSkyrimTNG.esp",
+  "type": "QUST FULL",
+  "index": null,
+  "editor_id": "AAKingCouncilSteward"
  },
  {
   "original": "Surgus has told me of a woman named Nyra Senvale, an Imperial with exceptional organizational talents who manages logistics for the East Empire Company. Known for her sharp mind and sharper instincts, she could make an ideal steward for Highreach Castle. I should speak with the dockmaster at the East Empire Company warehouse in Solitude to find her.",
@@ -77864,6 +78264,14 @@
   "editor_id": "AAKingCouncilSteward"
  },
  {
+  "original": "Finding The Overseer of Slaves",
+  "string": "В поисках надсмотрщика рабов",
+  "form_id": "003D65F6|BecomeKingofSkyrimTNG.esp",
+  "type": "QUST FULL",
+  "index": null,
+  "editor_id": "AAKingCouncilOverseerOfSlaves"
+ },
+ {
   "original": "Surgus has told me of a woman named Ylfa Grimhart, a former laborer who now works ore at Left Hand Mine near Markarth. If I can convince her to take the role, she may serve as Overseer of Bonded Labor.",
   "string": "Сургус рассказал мне о женщине по имени Ильфа Гримхарт - бывшей работнице, которая теперь добывает руду в шахте Левой Руки близ Маркарта. Если удастся убедить ее взяться за эту работу, она может стать надзирателем подневольного труда.",
   "form_id": "003D65F6|BecomeKingofSkyrimTNG.esp",
@@ -77886,6 +78294,14 @@
   "type": "QUST NNAM",
   "index": 11,
   "editor_id": "AAKingCouncilOverseerOfSlaves"
+ },
+ {
+  "original": "Finding The Master of Assassins",
+  "string": "В поисках Мастера убийц",
+  "form_id": "003D65F7|BecomeKingofSkyrimTNG.esp",
+  "type": "QUST FULL",
+  "index": null,
+  "editor_id": "AAKingCouncilMasterOfAssassins"
  },
  {
   "original": "Surgus has told me of a woman named Cassia Virelli, a Colovian baker who runs the Bread & Mortar Bakery in Highreach. Though she appears to be a simple proprietor of pastries, Surgus suspects she possesses far deadlier talents beneath her refined exterior. If I can find proof of her hidden skills and convince her to enter royal service, she may become Skyrim's Master of Assassins.",
@@ -77934,6 +78350,14 @@
   "type": "QUST NNAM",
   "index": 12,
   "editor_id": "AAKingCouncilMasterOfAssassins"
+ },
+ {
+  "original": "Finding The First Mage of Skyrim",
+  "string": "В поисках Первого мага Скайрима",
+  "form_id": "003D65F8|BecomeKingofSkyrimTNG.esp",
+  "type": "QUST FULL",
+  "index": null,
+  "editor_id": "AAKingCouncilFirstMage"
  },
  {
   "original": "Surgus has told me of a mysterious Dunmer woman known only as \"the witch\" who has been working quiet miracles in Falkreath's outskirts. He believes she may be powerful enough to serve as Skyrim's First Mage. He s directed me to Dead Man's Drink, where the innkeeper, Valga, may know more.",
@@ -77998,6 +78422,14 @@
   "type": "QUST NNAM",
   "index": 15,
   "editor_id": "AAKingCouncilFirstMage"
+ },
+ {
+  "original": "Finding The Master of Chains",
+  "string": "В поисках Мастера цепей",
+  "form_id": "003D65F9|BecomeKingofSkyrimTNG.esp",
+  "type": "QUST FULL",
+  "index": null,
+  "editor_id": "AAKingCouncilMasterofChains"
  },
  {
   "original": "Surgus has told me of a man named Ogrun Steelvein, a former prison-warlord who once served the Empire as Executioner. He may be convinced to take charge of Highreach's dungeons... but only if I find out why he quit.",
@@ -78072,6 +78504,14 @@
   "editor_id": "AAKingCouncilMasterofChains"
  },
  {
+  "original": "Finding the Lord Commander of Skyrim's Armies",
+  "string": "В поисках Лорда-командующего армиями Скайрима",
+  "form_id": "003D65FA|BecomeKingofSkyrimTNG.esp",
+  "type": "QUST FULL",
+  "index": null,
+  "editor_id": "AAKingCouncilLordCommander"
+ },
+ {
   "original": "Surgus has told me of a warrior named Ghorlak Stone-Fist, an Orc exile who now trains villagers in Karthwasten to defend themselves from Forsworn attacks. If I wish to name him Lord Commander, I must travel there and prove myself worthy of his loyalty.",
   "string": "Сургус рассказал мне о воине по имени Горлак Каменный Кулак - орке-изгнаннике, который теперь учит жителей Картвастена защищаться от набегов Изгоев. Если я хочу назначить его лордом-командующим, нужно отправиться туда и доказать, что я достоин его верности.",
   "form_id": "003D65FA|BecomeKingofSkyrimTNG.esp",
@@ -78110,6 +78550,14 @@
   "type": "QUST NNAM",
   "index": 15,
   "editor_id": "AAKingCouncilLordCommander"
+ },
+ {
+  "original": "Finding the Voice of the Crown",
+  "string": "В поисках Гласа Короны",
+  "form_id": "003D65FB|BecomeKingofSkyrimTNG.esp",
+  "type": "QUST FULL",
+  "index": null,
+  "editor_id": "AAKingCouncilVoiceofCrown"
  },
  {
   "original": "Surgus has informed me that the Ambassadors of Skyrim and her allies are being held inside the Thalmor Embassy. A woman named Calveera Valenne claims to have discovered their location and wishes to speak with me. I should find her outside the embassy walls and prepare for a diplomatic encounter... or a confrontation.",
@@ -78264,6 +78712,14 @@
   "editor_id": "AAKingTrialQuest"
  },
  {
+  "original": "Trade Summit of Skyrim",
+  "string": "Торговый саммит Скайрима",
+  "form_id": "00514FA3|BecomeKingofSkyrimTNG.esp",
+  "type": "QUST FULL",
+  "index": null,
+  "editor_id": "AAKingTradeSummit"
+ },
+ {
   "original": "The Voice of the Crown, Calveera Valenne, has convened the first Highreach Trade Summit within the Embassy Hall. Ambassadors from every province have gathered to present their demands and proposals. I should take my seat and hear what each has to say before rendering judgment.",
   "string": "Глас короны, Кальвира Валенн, созвала первый торговый совет Горного Предела в посольском зале. Послы всех провинций собрались, чтобы изложить свои требования и предложения. Нужно занять свое место и выслушать каждого, прежде чем выносить решение.",
   "form_id": "00514FA3|BecomeKingofSkyrimTNG.esp",
@@ -78294,6 +78750,54 @@
   "type": "QUST NNAM",
   "index": 30,
   "editor_id": "AAKingTradeSummit"
+ },
+ {
+  "original": "Generic crime dialogue",
+  "string": "Общие диалоги о преступлениях",
+  "form_id": "000267EB|Skyrim.esm",
+  "type": "QUST FULL",
+  "index": null,
+  "editor_id": "DialogueCrimeGuards"
+ },
+ {
+  "original": "Imperial Scout Patrol",
+  "string": "Имперский дозор",
+  "form_id": "00074928|Skyrim.esm",
+  "type": "QUST FULL",
+  "index": null,
+  "editor_id": "WE27"
+ },
+ {
+  "original": "Stormcloak Scout Patrol",
+  "string": "Дозор Братьев Бури",
+  "form_id": "0007492B|Skyrim.esm",
+  "type": "QUST FULL",
+  "index": null,
+  "editor_id": "WE28"
+ },
+ {
+  "original": "Thalmor vs Stormcloaks",
+  "string": "Талмор против Братьев Бури",
+  "form_id": "000BA0B4|Skyrim.esm",
+  "type": "QUST FULL",
+  "index": null,
+  "editor_id": "WE33"
+ },
+ {
+  "original": "Stormcloaks on the Road",
+  "string": "Братья Бури на дороге",
+  "form_id": "00105172|Skyrim.esm",
+  "type": "QUST FULL",
+  "index": null,
+  "editor_id": "WERoad04"
+ },
+ {
+  "original": "Visit The Accorded Guild",
+  "string": "Посетить гильдию Согласия",
+  "form_id": "000A58C2|BecomeKingofSkyrimTNG.esp",
+  "type": "QUST FULL",
+  "index": null,
+  "editor_id": "AAKingVisitGuildHall"
  },
  {
   "original": "Surgus mentioned something about The Accorded Guild Hall. I should stop in and see its members.",
