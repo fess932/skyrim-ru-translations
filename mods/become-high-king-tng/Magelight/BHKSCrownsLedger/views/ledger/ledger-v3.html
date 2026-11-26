@@ -1,0 +1,1432 @@
+<!doctype html><html lang="ru"><meta charset="utf-8"><title>Королевская книга</title>
+<style>
+*{box-sizing:border-box}html,body{height:100%;margin:0}
+body{display:grid;grid-template-rows:auto minmax(0,1fr) auto;background:radial-gradient(ellipse at 65% 10%,#3b3327,#181915 65%,#10110f);color:#f1e6d1;font:clamp(16px,1.13vw,25px) Georgia,serif;border:2px solid #8c7047}
+header{text-align:center;padding:2vh;border-bottom:1px solid #8c7047;background:#191915}
+small,h1,h2{color:#e6c488}small{letter-spacing:.19em}h1{margin:.25em 0;font-size:clamp(32px,3.5vw,72px);font-variant:small-caps}
+main{display:grid;grid-template-columns:clamp(165px,15vw,310px) minmax(0,1fr);min-height:0}
+nav{border-right:1px solid #8c7047;padding:1.5vh 1vw;overflow:auto;background:#1a1b17}
+button{color:inherit;background:#26251d;border:1px solid #695637;padding:.55em .8em;font:inherit;cursor:pointer}
+nav button{display:block;width:100%;text-align:left;margin:.35em 0}button:disabled{opacity:.4;cursor:default}
+button:focus,button:hover:not(:disabled),button[aria-current],button[aria-pressed=true]{border-color:#efd095;background:#453922;outline:none}
+article{overflow:auto;padding:2vh 2vw;min-width:0}h2{margin:.25em 0 .7em}
+dl{margin:0}dl div{display:flex;justify-content:space-between;gap:1em;border-bottom:1px solid #514434;padding:.65em 0}dd{color:#f3cf95;margin:0;text-align:right}
+.cards{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:.7em;margin-bottom:1em}
+.card,.map,.hold{border:1px solid #8c7047;background:#24251d;padding:.85em;min-width:0}
+.card strong{display:block;color:#f3d299;font-size:1.45em;margin-top:.35em}
+.atlas{display:grid;grid-template-columns:2fr 1fr;gap:1em}
+.map{position:relative;aspect-ratio:1.65;background:#293a3b;overflow:hidden;padding:0}
+.map svg{width:100%;height:100%;position:absolute;inset:0}
+.map button{position:absolute;transform:translate(-50%,-50%);font-size:clamp(11px,1vw,22px);white-space:nowrap;padding:.35em .45em;background:#26251d}
+.map button[aria-pressed=true]{background:#695334}.hold h3{color:#e6c488;margin:.2em 0}
+footer{padding:.6em 1.5em;border-top:1px solid #8c7047;color:#d3bd96;background:#191915}
+@media(max-width:1000px){.atlas{grid-template-columns:1fr}.cards{grid-template-columns:repeat(2,1fr)}}
+
+header{position:relative;min-height:17vh;display:grid;place-content:end center;background:#24231e center 46%/cover no-repeat;padding:1.6vh 2vw}
+header small{position:absolute;top:1.5vh;left:2vw;text-shadow:0 2px 4px #000}
+header h1{padding:.18em 1.4em;background:linear-gradient(90deg,transparent,#151513e8 14%,#151513e8 86%,transparent);text-shadow:0 2px 3px #000}
+body{background:radial-gradient(ellipse at 55% 30%,#30312c,#121413);border:3px double #aa8b51}
+main{grid-template-columns:clamp(175px,14vw,295px) minmax(0,1fr)}
+nav{background:linear-gradient(130deg,#292923,#161917);padding:1vh .8vw}
+nav button{display:flex;align-items:center;gap:.55em;border-width:0 0 1px;background:transparent}
+nav button[aria-current]{border:1px solid #ddbd78;box-shadow:inset 0 0 12px #a7834350}
+nav img,.card img,.attention img{width:1.55em;height:1.55em;object-fit:contain}
+nav .sigil{display:block;width:65%;height:auto;margin:1em auto;opacity:.37}
+article{padding:1.3vh 1vw}
+.card,.hold,.map,.attention{border:3px double #a48957;border-radius:13px;background-color:#242622;box-shadow:inset 0 0 20px #0007}
+.card{display:grid;grid-template-columns:auto 1fr;align-items:center;column-gap:.65em;background-image:linear-gradient(120deg,#34362e,#171a18)}
+.card img{grid-row:span 2;width:2em;height:2em}.card strong{margin:0}
+.atlas{grid-template-columns:minmax(0,1.9fr) minmax(0,1fr);gap:.65em}
+.map{background-position:center;background-repeat:no-repeat;background-size:100% 100%}
+.map button{border-radius:5px;box-shadow:0 2px 5px #000a}
+.map button[aria-pressed=true]{box-shadow:0 0 12px #f1c87d;border-color:#ffe0a1}
+.hold{background-image:linear-gradient(135deg,#353832,#171a18);padding:1em}
+.hold h3{font-size:1.55em;font-variant:small-caps;border-bottom:1px solid #a48957;padding-bottom:.4em}
+.attention{margin-top:.65em;display:flex;align-items:center;gap:1em;padding:.45em .75em}.attention button{margin-left:auto}
+@media(max-width:1000px){.atlas{grid-template-columns:1fr}}
+.hold-art{width:100%;aspect-ratio:16/9;object-fit:cover;border:1px solid #8c7047}.hold-crest{width:3em;height:3em;object-fit:contain;vertical-align:middle;margin-right:.4em}.hold select{font:inherit;color:#f3d299;background:#26251d;padding:.3em}.hold button{margin-left:.45em}.military-heading{margin:1em 0 .3em;color:#e6c488}
+.positive{color:#a9d983}.negative{color:#f19789}
+.section-banner{display:flex;align-items:center;gap:1.35em;margin-bottom:1em;padding:1em;border:3px double #a48957;border-radius:12px;background:linear-gradient(110deg,#484131,#242622 65%,#191b18)}
+.section-banner img{width:clamp(85px,10vw,170px);height:clamp(95px,12vw,190px);object-fit:cover;object-position:center 28%;border:1px solid #c5a36e;border-radius:8px}
+.section-banner p{color:#d8c4a0;margin:.5em 0}.section-banner small{text-transform:uppercase}
+.record-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(min(100%,260px),1fr));gap:.65em}
+.record-grid div{display:block;border:1px solid #786343;background:linear-gradient(145deg,#34352c,#1d201c);padding:.85em;border-radius:8px}
+.record-grid dt{color:#dfc59b}.record-grid dd{text-align:left;font-weight:bold;font-size:1.3em;margin-top:.3em}
+.court-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(min(100%,290px),1fr));gap:.7em}
+.court-office{border:1px solid #786343;border-radius:8px;padding:1em;background:#282a23}
+.court-office h3{color:#edca92;margin:0 0 .35em}.court-office p{margin:0}
+
+.council-portrait,.section-banner img{background:#ecdec0}
+.council-portrait{width:100%;height:165px;object-fit:contain;display:block;border-radius:6px;margin-bottom:.6em}
+.court-office button{margin-top:.65em}.summon-result{min-height:1.4em;color:#e6c488}
+
+.treasury-summary,.treasury-columns{display:grid;gap:.8em;margin:1em 0}
+.treasury-summary{grid-template-columns:repeat(auto-fit,minmax(155px,1fr))}
+.treasury-columns{grid-template-columns:repeat(auto-fit,minmax(min(100%,320px),1fr))}
+.ledger-sheet{padding:1em;border:1px solid #a48957;border-radius:9px;background:linear-gradient(135deg,#313027,#1b1e1a)}
+.ledger-sheet h3{color:#e6c488;margin:0 0 .45em}.ledger-note{color:#cbbb9d;font-size:.88em}
+.ledger-entry{margin:.8em 0}.ledger-entry div{display:flex;justify-content:space-between;gap:1em}
+.ledger-entry progress{display:block;width:100%;height:.45em;margin-top:.35em;accent-color:#cba768}
+.justice-layout{display:grid;grid-template-columns:minmax(150px,1fr) minmax(0,2fr);gap:1em}.justice-layout button{display:block;width:100%;text-align:left;margin:.35em 0}.justice-layout button[aria-pressed=true]{background:#594728;border-color:#e6c488}
+.hold-gallery-layout{display:grid;grid-template-columns:minmax(0,1.65fr) minmax(0,1fr);gap:1em;align-items:start}
+.hold-gallery{display:grid;grid-template-columns:repeat(auto-fit,minmax(min(100%,190px),1fr));gap:.7em}
+.hold-tile{padding:0;overflow:hidden;border-radius:8px;text-align:left;background:#272821}
+.hold-tile img{display:block;width:100%;aspect-ratio:16/9;object-fit:cover}
+.hold-tile-caption{display:grid;gap:.2em;padding:.55em .7em}
+.hold-tile-caption strong{color:#e6c488}.hold-tile-caption span{font-size:.8em}
+.hold-gallery-layout>.hold{position:sticky;top:0}
+@media(max-width:1000px){.hold-gallery-layout{grid-template-columns:1fr}.hold-gallery-layout>.hold{position:static}}
+
+.war-table{display:grid;grid-template-columns:minmax(0,1.65fr) minmax(0,1fr);gap:1em;align-items:start}
+.war-map{aspect-ratio:1402/1122}.war-table label,.war-table select{display:block;margin:.7em 0}.march-current{color:#e6c488}
+@media(max-width:1000px){.war-table{grid-template-columns:1fr}}
+.church-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(min(100%,260px),1fr));gap:.8em;margin-top:1em}.church-landscape{width:100%;aspect-ratio:16/9;object-fit:cover;border-radius:6px;margin-bottom:.7em}.church-grid meter{width:100%;height:1em}.register-tabs{display:flex;flex-wrap:wrap;gap:.6em;margin-bottom:1em}.register-tabs button[aria-selected=true]{background:#594728;border-color:#e6c488}.register-roster{display:grid;grid-template-columns:repeat(auto-fit,minmax(min(100%,240px),1fr));gap:.7em}.register-roster h3{margin-top:.35em}.spouse-profile{display:grid;grid-template-columns:minmax(140px,1fr) minmax(0,2fr);gap:2em;align-items:center;min-height:45vh}.spouse-seal{width:100%;max-height:340px;object-fit:contain;opacity:.75}.spouse-profile meter{width:100%;height:1.5em}@media(max-width:800px){.spouse-profile{grid-template-columns:1fr}.spouse-seal{max-height:150px}}
+.moot-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(min(100%,230px),1fr));gap:.7em;margin:1em 0}
+.handbook-search{width:100%;padding:.7em;margin-bottom:1em;font:inherit;background:#24251e;border:1px solid #a48957;color:#f3e9d8}
+.handbook-layout{display:grid;grid-template-columns:minmax(180px,1fr) minmax(0,2.7fr);gap:1em;align-items:start}
+.handbook-topics button{display:block;width:100%;text-align:left;margin-bottom:.35em}
+.handbook-topics button[aria-pressed=true]{border-color:#e6c488;background:#594728}
+.handbook-reading p{line-height:1.65;max-width:75ch}.handbook-reading button{margin:.35em .4em .35em 0}
+.handbook-source{overflow-wrap:anywhere;font-size:.8em;color:#cbbb9d}
+.register-tabs{margin-top:1em}details.ledger-sheet{margin-top:1em}details summary{cursor:pointer}
+.treasury-columns progress{width:100%;accent-color:#cba768}
+@media(max-width:850px){.handbook-layout{grid-template-columns:1fr}}
+.tax-preview{margin-top:1em}.tax-preview select{font:inherit;padding:.4em;background:#26251d;color:#f3d299;border:1px solid #a48957}.tax-preview input[type=range]{display:block;width:100%;margin:1em 0;accent-color:#cba768}.tax-preview-results p{display:flex;justify-content:space-between;gap:1em}.hold-tax-preview{margin-top:1em}.attention{flex-wrap:wrap}.attention button{margin-left:0}.tax-preview-status{min-height:1.2em}.ledger-refresh{position:absolute;right:1em;top:1em;font-size:.75em}.ledger-notice{position:fixed;right:1em;bottom:3em;max-width:min(520px,85vw);padding:.7em 1em;border:1px solid #cba768;background:#20231af5;color:#f3e9d8;z-index:50;box-shadow:0 3px 15px #0008}.ledger-notice:empty{display:none}button:focus-visible,select:focus-visible,input:focus-visible,summary:focus-visible{outline:2px solid #f1ce86;outline-offset:3px}button:disabled{cursor:default;opacity:.5}
+.npc-portrait{display:block;object-fit:contain;background:#ecdec0;border:1px solid #a48957;border-radius:7px}
+.jarl-profile{display:flex;align-items:center;gap:.8em;margin:.8em 0;padding:.6em;background:#15191480;border-radius:8px}.jarl-profile img{width:80px;height:106px;flex-shrink:0}.jarl-profile small{display:block;font-size:.65em;margin-bottom:.5em}.jarl-profile strong{color:#edca92}
+.register-portrait{width:100%;height:220px;margin-bottom:.8em}.spouse-seal.npc-portrait{opacity:1;height:410px;max-height:45vh;padding:.5em}
+@media(max-width:800px){.spouse-seal.npc-portrait{height:260px;max-height:35vh}}
+.settings-select{display:inline-block;max-width:100%;padding:.5em;margin-right:.6em;font:inherit;background:#24251d;color:#f3d299;border:1px solid #a48957}.war-table{margin-top:1.2em}.military-heading{font-size:1.5em}.army-summary{display:flex;align-items:center;justify-content:space-between;gap:1em}.army-control{display:grid;gap:.5em;margin:.9em 0}.army-quantity{font:inherit;padding:.45em;width:7em;background:#24251d;color:#f3d299;border:1px solid #a48957}.army-cost{color:#edca92}.army-counts dd{font-size:1.3em}.army-operations{margin:1.3em 0}.profile-summon{display:block;margin:.8em 0 .3em}[hidden]{display:none!important}.royal-duties{margin-top:1em}.royal-duties>section{margin-top:.7em}</style><header><small>BECOME HIGH KING OF SKYRIM TNG · КОРОЛЕВСКИЕ ЗАПИСИ</small><h1>Королевская книга</h1><button class="ledger-refresh" type="button" aria-label="Обновить записи королевства">Обновить</button></header>
+<main><nav aria-label="Разделы книги"></nav><article>Ожидание данных скрипта Ledger V3…</article></main><footer>ГОРНЫЙ ПРЕДЕЛ · КОРОЛЕВСКИЕ ЗАПИСИ <span style="float:right">Esc · Вернуться в Скайрим</span></footer>
+<script src="ledger-art.js"></script>
+<script src="ledger-hold-art.js"></script>
+<script src="ledger-hold-scenes.js"></script>
+<script src="ledger-council-art.js"></script>
+<script src="ledger-npc-portraits.js"></script>
+<script src="ledger-npc-portraits-2.js"></script>
+<script src="ledger-npc-portraits-3.js"></script>
+<script src="ledger-npc-portraits-4.js"></script>
+<script src="ledger-handbook.js"></script>
+<script>
+// RU: display-only lookup. Logic keeps the English keys; only shown text passes through ruText().
+const ledgerRu = {"Whiterun": "Вайтран", "Eastmarch": "Истмарк", "Falkreath": "Фолкрит", "Hjaalmarch": "Хьялмарк", "The Pale": "Белый Берег", "The Reach": "Предел", "Reach": "Предел", "Winterhold": "Винтерхолд", "The Rift": "Рифт", "Haafingar": "Хаафингар", "Highreach": "Горный Предел", "Highreach Keep": "Крепость Горного Предела", "Solitude": "Солитьюд", "Windhelm": "Виндхельм", "Markarth": "Маркарт", "Riften": "Рифтен", "Dawnstar": "Данстар", "Morthal": "Морфал", "Path to the Crown": "Путь к короне", "Overview": "Обзор", "Holds": "Владения", "Treasury": "Казна", "Economy": "Экономика", "Court": "Двор", "Military": "Армия", "Faith": "Вера", "Justice": "Правосудие", "Appointments": "Назначения", "Royal Spouse": "Королевский супруг", "Settings": "Настройки", "Help": "Королевское руководство", "Tax Rates": "Налоговые ставки", "Jarls": "Ярлы", "Thanes": "Таны", "Knights": "Рыцари", "Rangers": "Следопыты", "Citizens": "Граждане", "Thane": "Тан", "Knight": "Рыцарь", "Ranger": "Следопыт", "Skyrim Approval": "Одобрение Скайрима", "Faith Level": "Уровень веры", "Economy Status": "Состояние экономики", "Weekly Net": "Итог недели", "Balance": "Баланс", "Weekly Income": "Доход за неделю", "Mine Revenue": "Доход шахт", "Weekly Expenses": "Расходы за неделю", "Net Profit/Loss": "Чистая прибыль/убыток", "Greymoor": "Греймур", "Hraggstad": "Храгстад", "Amol": "Амол", "Greenwall": "Гринвол", "Sungard": "Сангард", "Neugrad": "Нойград", "Dunstad": "Дунстад", "Snowhawk": "Сноухок", "Kastav": "Кастав", "Surgus of the Black": "Сургус Черный", "Hadrian Quintus": "Адриан Квинт", "Thenius Marbrand": "Тениус Марбранд", "Calveera Valenne": "Кальвира Валенн", "Brother Arthorian": "Брат Арториан", "Ghorlak Stone-Fist": "Горлак Каменный Кулак", "Ghorlak": "Горлак", "Ogrun Steelvein": "Огрун Стальная Жила", "Zathra Nightfire": "Затра Ночной Огонь", "Brodran Steel-Eater": "Бродран Сталеед", "Nyra Senvale": "Нира Сенвейл", "Cassia Virelli": "Кассия Вирелли", "Ylfa Grimhart": "Ильфа Гримхарт", "Thaldrin Marrow-Quill": "Талдрин Костяное Перо"};
+function ruText(text) { return Object.prototype.hasOwnProperty.call(ledgerRu, text) ? ledgerRu[text] : text; }
+// RU: names arrive from the game in Russian; portraits are keyed by the English name.
+const ledgerRuNames = {"Сургус Черный": "Surgus of the Black", "Сургус": "Surgus", "Фалион": "Falion", "Сиддгейр": "Siddgeir", "Балгруф Старший": "Balgruuf the Greater", "Сорли Строительница": "Sorli the Builder", "Ульфрик Буревестник": "Ulfric Stormcloak", "Рерик": "Raerek", "Тонгвор Серебряная Кровь": "Thongvor Silver-Blood", "Брюлин": "Bryling", "Хемминг Черный Вереск": "Hemming Black-Briar", "Элисиф Прекрасная": "Elisif the Fair", "Утгерд Несломленная": "Uthgerd the Unbroken", "Брунвульф Зимний Простор": "Brunwulf Free-Winter", "Торстен Жестокое Море": "Torsten Cruel-Sea", "Тонар Серебряная Кровь": "Thonar Silver-Blood", "Скальд": "Skald", "Болунд": "Bolund", "Бенор": "Benor", "Назим": "Nazeem", "Серлунд": "Saerlund", "Сэйма": "Sayma", "Идгрод Черная": "Idgrod Ravencrone", "Ревин Садри": "Revyn Sadri", "Ингун Черный Вереск": "Ingun Black-Briar", "Игмунд": "Igmund", "Кувалда": "Maul", "Амрен": "Amren", "Нильсин Расколотый Щит": "Nilsine Shatter-Shield", "Мьол Львица": "Mjoll the Lioness", "Скагги Меченый": "Skaggi Scar-Face", "Корир": "Korir", "Ранмир": "Ranmir", "Ненья": "Nenya", "Лод": "Lod", "Неласар": "Nelacar", "Горм": "Gorm", "Мавен Черный Вереск": "Maven Black-Briar", "Хорик Полруки": "Horik Halfhand", "Провентус Авениччи": "Proventus Avenicci", "Вигнар Серая Грива": "Vignar Gray-Mane", "Денгейр Стунский": "Dengeir of Stuhn", "Брина Мерилис": "Brina Merilis", "Кралдар": "Kraldar", "Лайла Рука Закона": "Laila Law-Giver", "Бейтильд": "Beitild", "Виттория Вичи": "Vittoria Vici", "Денгейр": "Dengeir", "Тонар": "Thonar", "Виттория": "Vittoria", "Скагги": "Skaggi", "Нильсин": "Nilsine", "Брунвульф": "Brunwulf", "Тонгвор": "Thongvor", "Вигнар": "Vignar", "Мавен": "Maven", "Ульфрик": "Ulfric", "Брина": "Brina", "Сорли": "Sorli", "Идгрод": "Idgrod", "Элисиф": "Elisif", "Хорик": "Horik", "Ревин": "Revyn", "Балгруф": "Balgruuf"};
+function enName(name) { let s = String(name || '').replace(/^(Верховн(ый|ая) (король|королева)|Ярл|Король|Королева)\s+/, '');
+  return Object.prototype.hasOwnProperty.call(ledgerRuNames, s) ? ledgerRuNames[s] : name; }
+function npcPortrait(name) {
+  name = enName(name);
+  const key = String(name || '').replace(/^(high king|high queen|jarl|king|queen)\s+/i,'').toLowerCase().replace(/[^a-z0-9]/g,'');
+  const aliases = window.ledgerNpcPortraitAliases || {};
+  return (window.ledgerNpcPortraits || {})[aliases[key]] || null;
+}
+function npcImage(name,className) {
+  const source = npcPortrait(name);
+  if (!source) return null;
+  const image = makeElement('img','npc-portrait ' + (className || ''));
+  image.src = source;
+  image.alt = name;
+  return image;
+}
+const labels = {"Overview":["Approval Skyrim","Treasure Total Gold","Faith Skyrim","Economy Tier","Skyrim"],"Holds":["Approval Whiterun","Approval Windhelm","Approval Solitude","Approval Riften","Approval Markarth","Approval Morthal","Approval Falkreath","Approval Dawnstar","Approval Winterhold","Approval Whiterun Delta","Approval Solitude Delta","Approval Windhelm Delta","Approval Riften Delta","Approval Markarth Delta","Approval Falkreath Delta","Approval Dawnstar Delta","Approval Winterhold Delta","Approval Morthal Delta"],"Treasury":["Tax Revenue Whiterun","Tax Revenue Eastmarch","Tax Revenue Falkreath","Tax Revenue Hjaalmarch","Tax Revenue The Pale","Tax Revenue Winterhold","Tax Revenue Riften","Tax Revenue Haafingar","Tax Revenue Highreach Keep","Last Mine Revenue","Tax Revenue Reach","Total"],"Court":["High Priest quest stage","Willof Crown quest stage","Masterof Coin quest stage","Royal Blacksmith quest stage","Royal Chronicler quest stage","Steward quest stage","Overseer Of Slaves quest stage","Master Of Assassins quest stage","First Mage quest stage","Masterof Chains quest stage","Lord Commander quest stage","Voiceof Crown quest stage"],"Military":["Army Count"],"Faith":["Faith Whiterun","Faith Falkreath","Faith Solitude","Faith Windhelm","Faith Riften","Faith Markarth","Faith Dawnstar","Faith Winterhold","Faith Morthal","Faith Highreach"],"Justice":["Detainee Count"],"Appointments":["Citizen Count","Noble Count","Ranger Count","Knight Count"]};
+const pathLabels = ['Crown quest stage','Moot quest stage','Coronation quest stage'];
+const nav = document.querySelector('nav');
+const article = document.querySelector('article');
+document.querySelector('.ledger-refresh').onclick = event => {
+  const button = event.currentTarget;
+  if (sendLedgerAction('bhksRefresh','',button)) ledgerNotice('Обновление записей королевства…');
+};
+let selected;
+
+const pendingLedgerActions = new Map();
+function ledgerNotice(message) {
+  let notice = document.querySelector('.ledger-notice');
+  if (!notice) {
+    notice = makeElement('div','ledger-notice');
+    notice.setAttribute('role','status');
+    notice.setAttribute('aria-live','polite');
+    document.body.appendChild(notice);
+  }
+  notice.textContent = message;
+}
+function finishLedgerAction(action,message) {
+  const pending = pendingLedgerActions.get(action);
+  if (pending) {
+    clearTimeout(pending.timeout);
+    pending.button.disabled = false;
+    pendingLedgerActions.delete(action);
+  }
+  ledgerNotice(message);
+  if (action === 'bhksSummon') document.querySelectorAll('.profile-summon').forEach(button => { button.disabled = !window.magelight; });
+  if (action === 'bhksArmy') armyOperationStatus = message;
+  if (['bhksArmy','bhksMarch'].includes(action) && latestRealm && selected === 'Military') window.showRealmV3(latestRealm);
+}
+function sendLedgerAction(action,payload,button) {
+  if (pendingLedgerActions.has(action)) return false;
+  if (!window.magelight || typeof window.magelight.send !== 'function') {
+    ledgerNotice('Нет связи с игрой.');
+    return false;
+  }
+  button.disabled = true;
+  const timeout = setTimeout(() => finishLedgerAction(action,bridgeConnected ? 'Скрипт подключен, но запрос не завершился. Закройте и снова откройте книгу. Если ошибка повторится, проверьте журнал Papyrus.' : 'Скрипт не ответил. Закройте книгу и откройте ее снова. Если ошибка не исчезнет, убедитесь, что последняя версия скрипта книги скомпилирована, и перезагрузите сохранение.'),45000);
+  pendingLedgerActions.set(action,{button,timeout});
+  try {
+    window.magelight.send(action,payload);
+    return true;
+  } catch (_) {
+    finishLedgerAction(action,'Не удалось отправить запрос. Откройте книгу заново и повторите попытку.');
+    return false;
+  }
+}
+let bridgeConnected = false;
+let settingsState = null;
+let settingsError = '';
+window.showBridgeReady = message => { bridgeConnected = true; ledgerNotice(message); };
+window.showSnapshotComplete = message => {
+  finishLedgerAction('bhksRefresh',message);
+};
+window.showSettingResult = message => finishLedgerAction('bhksSetting',message);
+window.showSettingsError = message => { settingsError = message; if (selected === 'Settings') drawSettings(); };
+window.showLedgerSettings = payload => {
+  try {
+    const values = typeof payload === 'string' ? JSON.parse(payload) : payload;
+    if (!Array.isArray(values) || values.length !== 7) return;
+    settingsState = values;
+    settingsError = '';
+    if (selected === 'Settings') drawSettings();
+  } catch (_) { settingsError = 'Не удалось прочитать ответ с настройками.'; }
+};
+function drawSettings() {
+  article.replaceChildren(makeElement('h2','','Настройки'));
+  article.appendChild(makeElement('p','ledger-note','Здесь те же параметры, что и в MCM.'));
+  if (!settingsState) {
+    article.appendChild(makeElement('p','ledger-sheet',settingsError || 'Ожидание настроек MCM. Если игра не отвечает, закройте и снова откройте книгу.'));
+    return;
+  }
+  const grid = makeElement('div','treasury-columns');
+  const rows = [
+    ['title','Обращение',[[0,'Король'],[1,'Королева'],[2,'Монарх']],'Выберите свой королевский титул.'],
+    ['difficulty','Сложность',[[1,'Низкая'],[2,'Средняя'],[3,'Высокая']],'Влияет на налоговый доход, штрафы к одобрению и расходы королевства.'],
+    ['protected','Защита от смерти',[[0,'Выкл.'],[1,'Вкл.']],'Использует настройку защиты из MCM в ключевых сценах.'],
+    ['statues','Статуи в Крепости Горного Предела',[[0,'Скрыты'],[1,'Видны']],'Показать или скрыть декоративные статуи.'],
+    ['errands','Поручения',[[0,'Выкл.'],[1,'Вкл.']],'Жители смогут предлагать стандартные поручения и задания.'],
+    ['helmets','Стражники в шлемах',[[0,'Нет'],[1,'Да']],'Изменить правила формы стражи.'],
+    ['hotkey','Открыть Королевскую книгу',[[199,'Home'],[207,'End'],[210,'Insert'],[211,'Delete'],[59,'F1'],[60,'F2'],[61,'F3'],[62,'F4'],[65,'F7'],[66,'F8'],[68,'F10'],[87,'F11']],'Выберите свободную клавишу. В MCM можно назначить любую другую.']
+  ];
+  rows.forEach(([key,label,options,note],index) => {
+    const card = makeElement('section','ledger-sheet');
+    const select = makeElement('select','settings-select');
+    select.setAttribute('aria-label',label);
+    let value = settingsState[index];
+    if (key === 'helmets' && value != null) value = 1-value;
+    const choices = options.slice();
+    if (key === 'hotkey' && value != null && !choices.some(([code]) => code === value)) choices.push([value,'Своя клавиша (' + value + ')']);
+    choices.forEach(([code,text]) => { const option = makeElement('option','',text); option.value = code; select.appendChild(option); });
+    select.value = value == null ? '' : String(value);
+    const apply = makeElement('button','','Применить');
+    apply.disabled = value == null;
+    select.disabled = value == null;
+    apply.onclick = () => sendLedgerAction('bhksSetting',key + ':' + select.value,apply);
+    card.append(makeElement('h3','',label),makeElement('p','ledger-note',note),select,apply);
+    grid.appendChild(card);
+  });
+  article.appendChild(grid);
+}
+window.beginLedgerSnapshot = () => {
+  armyState = null;
+  armyError = "";
+  councilAccess = null;
+  economyState = null;
+  royalDuties = null;
+  latestRealm = null;
+  officeholders = null;
+  justiceCases = null;
+  marchState = [];
+  churchState = null;
+  royalRegister = null;
+  royalSpouse = null;
+  taxPreviewState = null;
+};
+window.showTaxResult = message => finishLedgerAction('bhksSetTax',message);
+
+let taxPreviewState = null;
+window.showTaxPreviewState = payload => {
+  try {
+    const values = typeof payload === 'string' ? JSON.parse(payload) : payload;
+    taxPreviewState = Array.isArray(values) && values.length === 20 &&
+      values.every(value => value === null || Number.isFinite(value)) ? values : null;
+  } catch (_) { taxPreviewState = null; }
+  document.querySelectorAll('.tax-preview').forEach(node => node.dispatchEvent(new Event('refreshPreview')));
+};
+function drawTaxPreview(pages, initialHold) {
+  const panel = makeElement('section','ledger-sheet tax-preview');
+  panel.append(makeElement('h3','','Расчет налога'),makeElement('p','ledger-note','Оценка следующего сбора с выбранного владения по текущей налоговой базе и подушной подати. Поправки камней-хранителей для всего королевства применяются после сбора со всех владений.'));
+  const hold = makeElement('select','');
+  hold.setAttribute('aria-label','Владение для расчета налога');
+  taxHolds.forEach(name => {
+    const option = makeElement('option','',ruText(name));
+    option.value = name;
+    hold.appendChild(option);
+  });
+  hold.value = initialHold || activeHold;
+  const rate = makeElement('input','');
+  rate.type = 'range'; rate.min = '0'; rate.max = '20'; rate.step = '1';
+  rate.setAttribute('aria-label','Предлагаемая ставка налога');
+  const output = makeElement('div','tax-preview-results');
+  const apply = makeElement('button','','Применить ставку');
+  const status = makeElement('p','tax-preview-status');
+  status.setAttribute('role','status');
+  function loadRate() {
+    const record = pages['Tax Rates'].find(([name]) => name === (hold.value === 'Highreach' ? 'Highreach Keep' : hold.value));
+    const current = record && record[1] != null ? parseInt(record[1],10) : null;
+    rate.disabled = !Number.isFinite(current);
+    rate.value = current ?? 0;
+    return current;
+  }
+  function refresh() {
+    const index = taxHolds.indexOf(hold.value);
+    const base = taxPreviewState ? taxPreviewState[index * 2] : null;
+    const headTax = taxPreviewState ? taxPreviewState[index * 2 + 1] : null;
+    const record = pages['Tax Rates'].find(([name]) => name === (hold.value === 'Highreach' ? 'Highreach Keep' : hold.value));
+    const current = record && record[1] != null ? parseInt(record[1],10) : null;
+    const available = Number.isFinite(base) && Number.isFinite(headTax) && Number.isFinite(current);
+    const proposed = Number(rate.value);
+    output.replaceChildren();
+    const rows = [['Текущая ставка',current == null ? 'Нет данных' : current + '%'],['Предлагаемая ставка',proposed + '%']];
+    if (available) {
+      const now = Math.floor(base * current / 100 + headTax + .5);
+      const projected = Math.floor(base * proposed / 100 + headTax + .5);
+      rows.push(['Ожидаемый сбор',projected.toLocaleString() + ' зол.'],['Разница с текущей ставкой',(projected-now > 0 ? '+' : '') + (projected-now).toLocaleString() + ' зол.']);
+    } else rows.push(['Ожидаемый сбор','Ожидание налоговых записей…']);
+    rows.forEach(([label,value]) => {
+      const row = makeElement('p','');
+      row.append(makeElement('span','',label),makeElement('strong','',value));
+      output.appendChild(row);
+    });
+    apply.disabled = !available || !window.magelight || typeof window.magelight.send !== 'function' || proposed === current;
+  }
+  hold.onchange = () => { status.textContent = ''; loadRate(); refresh(); };
+  rate.oninput = refresh;
+  panel.addEventListener('refreshPreview',refresh);
+  apply.onclick = () => {
+    if (!sendLedgerAction('bhksSetTax',taxHolds.indexOf(hold.value) + ':' + rate.value,apply)) return;
+    status.textContent = 'Применение ставки…';
+  };
+  panel.append(hold,rate,output,apply,status);
+  loadRate();
+  refresh();
+  return panel;
+}
+
+let crownProgress = null;
+let crownRouteTab = 'traditional';
+let handbookQuery = '';
+let handbookArticle = 'start';
+const crownObjectives = [{"key":"crown","rows":[[8,"Прочесть записку \"Странная просьба\""],[7,"Найти отправителя записки"],[0,"Заручиться поддержкой 40 жителей Скайрима"],[1,"Собрать 50 000 золотых"],[2,"Завершить гражданскую войну"],[4,"Успешно провести Мут"],[5,"Вернуться к Сургусу, когда все условия будут выполнены"],[6,"Все требования выполнены. Вернуться к Сургусу"]]},{"key":"moot","rows":[[10,"Попросить Сургуса начать Мут"],[20,"Отправиться в Высокий Хротгар и поговорить с Арнгейром"],[30,"Поговорить с Сургусом"],[31,"Занять свое место, чтобы начать"],[40,"Поговорить с ярлом Хаафингара"],[41,"Поговорить с ярлом Хьялмарка"],[42,"Поговорить с ярлом Предела"],[43,"Поговорить с ярлом Фолкрита"],[44,"Поговорить с ярлом Вайтрана"],[45,"Поговорить с ярлом Белого Берега"],[46,"Поговорить с ярлом Рифта"],[47,"Поговорить с ярлом Винтерхолда"],[48,"Поговорить с ярлом Истмарка"],[49,"Попросить совета у Сургуса"],[50,"Поговорить с Сургусом, чтобы продолжить Мут"],[55,"Снова занять свое место, чтобы продолжить Мут"]]},{"key":"coronation","rows":[[5,"Отправиться в замок Крепости Горного Предела"],[10,"Поговорить с Сургусом, чтобы начать церемонию коронации"],[30,"Поговорить с Сургусом о правлении Скайримом"]]}];
+const mootHolds = [
+ ['Whiterun',4,3],['Haafingar',4,3],['Eastmarch',4,2],['Hjaalmarch',2,1],
+ ['The Reach',3,2],['The Pale',2,1],['The Rift',3,2],['Winterhold',2,1],['Falkreath',2,1]
+];
+function guideButton(label,id) {
+  const button = makeElement('button','',label);
+  button.onclick = () => {
+    handbookArticle = id;
+    const help = Array.from(nav.querySelectorAll('button')).find(button => button.dataset.page === 'Help');
+    if (help) help.click();
+  };
+  return button;
+}
+function drawCrownPath() {
+  if (!crownProgress) { article.append('Ожидание записей о заданиях…'); return; }
+  const values = crownProgress;
+  const [gold,supporters,required,crownStage,mootStage,coronationStage] = values;
+  const states = {};
+  let cursor = 6;
+  crownObjectives.forEach(group => {
+    states[group.key] = group.rows.map(([id,text]) => ({id,text,state:values[cursor++]}));
+  });
+  const points = values.slice(cursor);
+  const ceremony = coronationStage > 0;
+  const next = makeElement('section','ledger-sheet');
+  next.append(makeElement('h3','',ceremony ? 'Ваша коронация' : mootStage > 0 ? 'Мут идет' : crownStage > 0 ? 'Укрепите свои притязания' : 'Странная просьба'));
+  const active = (ceremony ? states.coronation : mootStage > 0 ? states.moot : states.crown).filter(row => row.state === 1);
+  if (active.length) active.forEach(row => next.appendChild(makeElement('p','',row.text)));
+  else next.appendChild(makeElement('p','',ceremony ? 'Загляните в журнал и поговорите с Сургусом, чтобы узнать, что дальше.' : 'Прочтите записку "Странная просьба" и следуйте ее указаниям к Сургусу в Муравейник Маркарта.'));
+  next.appendChild(guideButton('Читать руководство',ceremony ? 'coronation' : mootStage > 0 ? 'moot' : 'start'));
+  article.appendChild(next);
+  const tabs = makeElement('div','register-tabs');
+  const body = makeElement('div','');
+  function openRoute(route) {
+    crownRouteTab = route;
+    body.replaceChildren();
+    tabs.querySelectorAll('button').forEach(button => button.setAttribute('aria-selected',String(button.dataset.route === route)));
+    const complete = id => states.crown.find(row => row.id === id)?.state === 2;
+    const requirement = (label,value,goal,done) => {
+      const card = makeElement('section','ledger-sheet');
+      card.append(makeElement('h3','',label),makeElement('p','',value == null ? 'Нет данных' : value.toLocaleString() + ' / ' + goal.toLocaleString()));
+      if (value != null) {
+        const progress = makeElement('progress','');
+        progress.max = goal; progress.value = Math.max(0,value);
+        progress.setAttribute('aria-label',label);
+        card.appendChild(progress);
+      }
+      card.appendChild(makeElement('p',done ? 'positive' : 'ledger-note',done ? 'Условие задания выполнено' : 'Условие задания не выполнено'));
+      return card;
+    };
+    if (route === 'traditional') {
+      const cards = makeElement('div','treasury-columns');
+      cards.append(requirement('Сторонники',supporters,40,complete(0)),requirement('Золото при себе',gold,50000,complete(1)));
+      body.append(cards,makeElement('p','ledger-sheet','Гражданская война: ' + (complete(2) ? 'завершена' : 'не завершена')),
+        makeElement('p','ledger-note','Текущие значения и отметки о выполнении задания могут расходиться. Возвращайтесь к Сургусу, когда этого потребует активная цель.'),
+        guideButton('Справка о традиционном пути','paths'));
+    } else {
+      const estimate = points.every(value => value != null) ? points.reduce((sum,value,i) => sum + (value >= mootHolds[i][1] ? mootHolds[i][2] : 0),0) : null;
+      const summary = makeElement('section','ledger-sheet');
+      summary.append(makeElement('h3','','Мут · 16 взвешенных голосов'),
+        makeElement('p','',required == null ? 'Порог победы неизвестен' : 'Нужно голосов на текущей сложности: ' + required),
+        makeElement('p','',estimate == null ? 'Оценка переговоров недоступна' : 'Голосов по итогам текущих переговоров: ' + estimate),
+        makeElement('p','ledger-note','Это лишь оценка до итогового голосования. Исход определят само собрание и ваши активные цели.'),
+        makeElement('p','',complete(4) ? 'Условие Мута выполнено' : 'Условие Мута не выполнено'));
+      body.appendChild(summary);
+      const grid = makeElement('div','moot-grid');
+      mootHolds.forEach(([name,need,weight],i) => {
+        const card = makeElement('section','ledger-sheet');
+        card.append(makeElement('h3','',ruText(name)),makeElement('p','','Голосов: ' + weight),
+          makeElement('p','',points[i] == null ? 'Очки неизвестны' : 'Очки переговоров: ' + points[i] + ' / ' + need),
+          makeElement('p',points[i] != null && points[i] >= need ? 'positive' : 'ledger-note',points[i] == null ? 'Поддержка неизвестна' : points[i] >= need ? 'Порог достигнут' : 'Ведите переговоры с ярлом'));
+        grid.appendChild(card);
+      });
+      body.append(grid,guideButton('Правила Мута и переговоры','moot'));
+    }
+    const journal = makeElement('details','ledger-sheet');
+    journal.appendChild(makeElement('summary','','Ход задания'));
+    crownObjectives.forEach(group => {
+      const visible = states[group.key].filter(row => row.state > 0);
+      if (!visible.length) return;
+      journal.appendChild(makeElement('h3','',group.key === 'crown' ? 'Притязание на корону' : group.key === 'moot' ? 'Мут' : 'Коронация'));
+      visible.forEach(row => journal.appendChild(makeElement('p',row.state === 2 ? 'positive' : row.state === 3 ? 'negative' : '',(row.state === 2 ? 'Выполнено · ' : row.state === 3 ? 'Провалено · ' : 'Активно · ') + row.text)));
+    });
+    body.appendChild(journal);
+  }
+  [['traditional','Традиционный путь'],['moot','Путь через Мут']].forEach(([route,label]) => {
+    const button = makeElement('button','',label);
+    button.dataset.route = route;
+    button.onclick = () => openRoute(route);
+    tabs.appendChild(button);
+  });
+  article.append(tabs,body);
+  openRoute(crownRouteTab);
+}
+function drawHandbook() {
+  const articles = window.ledgerHandbook || [];
+  if (!articles.length) { article.append('Файл руководства не найден. Положите ledger-handbook.js рядом с этой страницей.'); return; }
+  const search = makeElement('input','handbook-search');
+  search.type = 'search';
+  search.placeholder = 'Поиск по темам, советникам и механикам';
+  search.setAttribute('aria-label','Поиск по Королевскому руководству');
+  search.value = handbookQuery;
+  const layout = makeElement('div','handbook-layout');
+  const list = makeElement('section','handbook-topics');
+  list.setAttribute('aria-label','Темы руководства');
+  const reading = makeElement('section','ledger-sheet handbook-reading');
+  function read(id) {
+    const entry = articles.find(item => item.id === id);
+    if (!entry) return;
+    handbookArticle = id;
+    reading.replaceChildren(makeElement('small','',entry.category),makeElement('h2','',entry.title));
+    list.querySelectorAll('button').forEach(button => button.setAttribute('aria-pressed',String(button.dataset.article === id)));
+    function fill(parent) { entry.paragraphs.forEach(text => parent.appendChild(makeElement('p','',text))); }
+    if (entry.spoiler) {
+      const spoiler = makeElement('details','');
+      spoiler.appendChild(makeElement('summary','','Показать подсказки к заданиям'));
+      fill(spoiler);
+      reading.appendChild(spoiler);
+    } else fill(reading);
+    (entry.links || []).forEach(link => {
+      const target = articles.find(item => item.id === link);
+      if (!target) return;
+      const button = makeElement('button','',target.title);
+      button.onclick = () => read(link);
+      reading.appendChild(button);
+    });
+    if (entry.sources) entry.sources.forEach(([label,url]) => {
+      reading.append(makeElement('p','ledger-note',label),makeElement('p','handbook-source',url));
+    });
+  }
+  function filter() {
+    handbookQuery = search.value;
+    const query = handbookQuery.trim().toLowerCase();
+    const matches = articles.filter(entry => (entry.title + ' ' + entry.category + ' ' + entry.paragraphs.join(' ')).toLowerCase().includes(query));
+    list.replaceChildren();
+    matches.forEach(entry => {
+      const button = makeElement('button','',entry.title);
+      button.dataset.article = entry.id;
+      button.onclick = () => read(entry.id);
+      list.appendChild(button);
+    });
+    if (!matches.length) { reading.replaceChildren(makeElement('p','','Ничего не найдено. Попробуйте имя советника или название системы.')); return; }
+    read(matches.some(entry => entry.id === handbookArticle) ? handbookArticle : matches[0].id);
+  }
+  search.oninput = filter;
+  layout.append(list,reading);
+  article.append(search,layout);
+  filter();
+}
+
+let royalSpouse = null;
+window.showRoyalSpouse = payload => {
+  if (!latestRealm || typeof payload !== 'string') return;
+  const [married,happiness,duty,...name] = payload.split('|');
+  const read = value => value === 'null' ? null : Number(value);
+  royalSpouse = {married:read(married),happiness:read(happiness),duty:read(duty),name:name.join('|')};
+  if (latestRealm && selected !== 'Help') window.showRealmV3(latestRealm);
+};
+function profileSummon(person,request) {
+  const button = makeElement('button','profile-summon','Призвать: ' + ruText(person));
+  button.setAttribute('aria-label','Призвать: ' + ruText(person));
+  button.disabled = !window.magelight || pendingLedgerActions.has('bhksSummon');
+  button.onclick = () => {
+    if (sendLedgerAction('bhksSummon',request,button)) {
+      document.querySelectorAll('.profile-summon').forEach(item => { item.disabled = true; });
+    }
+  };
+  return button;
+}
+let councilAccess = null;
+let economyState = null;
+let royalDuties = null;
+let royalDutyResult = "";
+let councilResult = "";
+const councilPageRoles = {Treasury:1,Economy:3,Military:5,Faith:4,Justice:6};
+function councilPageAvailable(page) {
+  if (page === 'Royal Spouse') return Boolean(royalSpouse && royalSpouse.married >= 1);
+  const role = councilPageRoles[page];
+  return role == null || Boolean(councilAccess && councilAccess[role] === 1);
+}
+window.showCouncilAccess = payload => {
+  try { const values = typeof payload === 'string' ? JSON.parse(payload) : payload; councilAccess = Array.isArray(values) && values.length === 13 ? values : null; }
+  catch (_) { councilAccess = null; }
+  if (latestRealm) window.showRealmV3(latestRealm);
+};
+window.showEconomyState = payload => {
+  try { const values = typeof payload === 'string' ? JSON.parse(payload) : payload; economyState = Array.isArray(values) && values.length === 20 ? values : null; }
+  catch (_) { economyState = null; }
+  if (latestRealm && ['Economy','Overview','Treasury'].includes(selected)) {
+    if(economyState)latestRealm[1]=economyState[4];
+    window.showRealmV3(latestRealm);
+  }
+};
+window.showRoyalDuties = payload => {
+  try { const values = typeof payload === 'string' ? JSON.parse(payload) : payload; royalDuties = Array.isArray(values) && values.length === 9 ? values : null; }
+  catch (_) { royalDuties = null; }
+  if (latestRealm && selected === 'Royal Spouse') window.showRealmV3(latestRealm);
+};
+window.showCouncilResult = message => { councilResult = message; finishLedgerAction('bhksCouncil',message); };
+window.showDutyResult = message => { royalDutyResult = message; finishLedgerAction('bhksDuty',message); };
+function drawEconomy() {
+  if (!economyState) { article.appendChild(makeElement('p','ledger-sheet','Ожидание записей об экономике и дипломатии…')); return; }
+  const [score,tier,lastApproval,approval,treasury,tariffs,charter,construction,stage,hour,...criers] = economyState;
+  const cards = makeElement('div','treasury-summary');
+  [['Экономический рейтинг',score == null?'Нет данных':score+' / 100'],['Экономическая обстановка',['Крах','Спад','Застой','Стабильность','Процветание'][tier] || 'Нет данных'],['Одобрение в королевстве',approval == null?'Нет данных':approval+'%'],['Одобрение при последнем пересчете экономики',lastApproval == null?'Нет данных':lastApproval+'%']].forEach(([label,value])=>{const card=makeElement('section','ledger-sheet');card.append(makeElement('small','',ruText(label)),makeElement('h3','',value));cards.appendChild(card);});
+  article.appendChild(cards);
+  if(councilResult) article.appendChild(makeElement('p','ledger-sheet',councilResult));
+  const policies=makeElement('section','ledger-sheet');policies.append(makeElement('h3','','Экономическая политика'),makeElement('p','','Пошлины: '+(tariffs===1?'введены, 500 золотых в неделю':'не введены')),makeElement('p','','Королевская торговая хартия: '+(charter===1?'действует':'не действует')),makeElement('p','','Иностранное строительство: '+(construction===1?'финансируется':'не финансируется')),makeElement('p','ledger-note','При пересчете экономики учитываются изменения одобрения в королевстве, сложность, политические модификаторы и Камень Печати. Уровень экономики влияет на золото торговцев и экономический перк игрока.'));
+  article.appendChild(policies);
+  const summit=makeElement('section','ledger-sheet');summit.append(makeElement('h3','','Торговый саммит'),makeElement('p','','Соберите послов Тамриэля за столом переговоров в посольстве.'),makeElement('p','ledger-note','Нужны экономический рейтинг не ниже 40, не меньше 5000 золотых в казне и рабочее время с 08:00 до 20:00. Золото в казне - только условие: проведение саммита его не тратит.'));
+  const reason=economyState[19]===1?'Торговый саммит уже идет. Продолжите его в посольстве.':score==null||treasury==null?'Нет данных об экономике или казне.':score<40?'Поднимите экономический рейтинг хотя бы до 40.':treasury<5000?'В казне должно быть не меньше 5000 золотых.':hour<8||hour>20?'Послы принимают с 08:00 до 20:00.':'';
+  const start=makeElement('button','','Начать торговый саммит');start.disabled=Boolean(reason)||pendingLedgerActions.has('bhksCouncil');start.onclick=()=>sendLedgerAction('bhksCouncil','summit',start);summit.append(start,makeElement('p','ledger-note',reason));article.appendChild(summit);
+  const grid=makeElement('div','church-grid');
+  const cities=['Solitude','Whiterun','Falkreath','Windhelm','Markarth','Winterhold','Riften','Dawnstar','Morthal'];const costs=[1000,1000,500,700,700,300,700,500,400];
+  cities.forEach((city,index)=>{const card=makeElement('section','ledger-sheet');const hired=criers[index]===1;const button=makeElement('button','',hired?'Глашатай нанят':'Нанять глашатая');button.disabled=hired||criers[index]==null||treasury==null||treasury<costs[index]||pendingLedgerActions.has('bhksCouncil');button.onclick=()=>sendLedgerAction('bhksCouncil','crier:'+index,button);card.append(makeElement('h3','',ruText(city)),makeElement('p','',costs[index].toLocaleString()+' зол. · +5 к местному одобрению'),button);grid.appendChild(card);});
+  article.append(makeElement('h3','military-heading','Глашатаи'),grid);
+}
+function drawRoyalDuties() {
+  const box=makeElement('section','ledger-sheet royal-duties');
+  box.append(makeElement('h3','','Королевские обязанности'),makeElement('p','','Отправьте весть о королевском поручении. Кому: '+(royalSpouse.name || 'супругу')+'.'));
+  article.appendChild(box);
+  if(royalDutyResult)box.appendChild(makeElement('p','ledger-note',royalDutyResult));
+  if(!royalDuties){box.appendChild(makeElement('p','ledger-note','Ожидание записей о королевских обязанностях…'));return;}
+  const [choice,forced,treasury,day,diplomaticCooldown,inspectionCooldown,wages,approval,activeThreat]=royalDuties;
+  if(forced!==0||![1,2].includes(choice)){box.appendChild(makeElement('p','ledger-note','Эти обязанности доступны, если королевским супругом по доброй воле стали Элисиф или Ульфрик.'));return;}
+  const entries=choice===1?[['diplomatic','Дипломатическая миссия',1000,'Отправить супруга с дипломатической миссией. Снова доступно через семь дней.',day<diplomaticCooldown],['patronage','Покровительство искусствам',2000,'Финансировать культурные события: +1 к одобрению во всех десяти владениях.',false],['court','Прием знати',0,'Выслушать мелкую знать: +1 к одобрению в одном случайном владении.',false]]:[['inspection','Военная инспекция',0,'Получить доклад о боевом духе с учетом одобрения в королевстве и указа о справедливом жаловании.',false],['rally','Нордское собрание',3000,'+2 к одобрению в Вайтране, Истмарке, Белом Береге и Винтерхолде.',false]];
+  entries.forEach(([request,title,cost,note,cooldown])=>{const card=makeElement('section','ledger-sheet');const button=makeElement('button','','Отправить весть');button.disabled=cooldown||treasury==null||treasury<cost||pendingLedgerActions.has('bhksDuty');button.onclick=()=>sendLedgerAction('bhksDuty',request,button);card.append(makeElement('h3','',title),makeElement('p','ledger-note',note),makeElement('p','',cost?cost.toLocaleString()+' зол.':'Без затрат из казны'),button);if(cooldown)card.appendChild(makeElement('p','ledger-note','Снова доступно через игровых дней: '+Math.ceil(diplomaticCooldown-day)+'.'));box.appendChild(card);});
+  if(choice===2){const card=makeElement('section','ledger-sheet');const select=makeElement('select','settings-select');select.setAttribute('aria-label','Цель разведки');['Агенты Талмора','Главарь бандитов','Некромант','Налетчики-Изгои','Ковен вампиров','Имперские шпионы','Культисты драконов','Ковен ведьм','Убийца','Контрабандисты'].forEach((name,index)=>{const option=makeElement('option','',name);option.value=index+1;select.appendChild(option);});select.value='1';const button=makeElement('button','','Заказать разведку');button.disabled=treasury==null||treasury<500||activeThreat===1||pendingLedgerActions.has('bhksDuty');button.onclick=()=>sendLedgerAction('bhksDuty','intelligence:'+select.value,button);card.append(makeElement('h3','','Сбор сведений'),makeElement('p','ledger-note','Заказать расследование угрозы за 500 золотых. Цель будет отмечена в журнале.'),select,button);if(activeThreat===1)card.appendChild(makeElement('p','ledger-note','Завершите текущее разведывательное задание, прежде чем назначать новое.'));box.appendChild(card);}
+}
+
+function drawRoyalSpouse() {
+  const panel = makeElement('section','spouse-profile ledger-sheet');
+  const seal = makeElement('img','spouse-seal');
+  seal.src = art.sigil;
+  seal.alt = 'Королевская семья';
+  const details = makeElement('div','');
+  panel.append(seal,details);
+  article.appendChild(panel);
+  if (!royalSpouse) {
+    details.append('Ожидание записей о королевской семье…');
+    return;
+  }
+  if (royalSpouse.married < 1 || royalSpouse.married == null) {
+    details.appendChild(makeElement('h3','','Королевский брак'));
+    details.appendChild(makeElement('p','',royalSpouse.married == null ? 'Нет данных о браке.' : 'Королевского супруга нет.'));
+    return;
+  }
+  const portrait = npcPortrait(royalSpouse.name);
+  if (portrait) { seal.src = portrait; seal.alt = royalSpouse.name; seal.className += ' npc-portrait'; }
+  details.appendChild(makeElement('h2','',royalSpouse.name || 'Имя супруга неизвестно'));
+  details.appendChild(profileSummon(royalSpouse.name || 'Royal Spouse','spouse'));
+  const duties = ['Дома / возвращается','Следует за вами','Патрулирует','В Драконьем Пределе','В Синем дворце','В крепости Миствейл'];
+  details.appendChild(makeElement('p','','Текущее занятие: ' + (duties[royalSpouse.duty] || 'Нет данных')));
+  details.appendChild(makeElement('p','','Счастье в браке: ' + (royalSpouse.happiness == null ? 'Нет данных' : royalSpouse.happiness + ' / 100')));
+  if (royalSpouse.happiness != null && Number.isFinite(royalSpouse.happiness)) {
+    const meter = makeElement('meter','');
+    meter.min = 0; meter.max = 100; meter.value = royalSpouse.happiness;
+    meter.setAttribute('aria-label','Счастье в браке');
+    details.appendChild(meter);
+  }
+  drawRoyalDuties();
+  details.appendChild(makeElement('p','ledger-note','На счастье в браке влияют разговоры и проведенное вместе время. Через обычный диалог супругу можно поручить сопровождать вас, патрулировать или посещать королевские дворы.'));
+}
+let royalRegister = null;
+let registerTab = 'Jarls';
+window.showRoyalRegister = payload => {
+  if (!latestRealm || typeof payload !== 'string' || !payload.startsWith('Register\n')) return;
+  const groups = {Jarls:[],Thanes:[],Knights:[],Rangers:[],Citizens:[]};
+  payload.split('\n').slice(1).forEach(line => {
+    const [group,slot,...name] = line.split('|');
+    if (groups[group]) groups[group].push({slot:Number(slot),name:name.join('|')});
+  });
+  royalRegister = groups;
+  if (selected === 'Appointments') window.showRealmV3(latestRealm);
+};
+function drawRoyalRegister(pages) {
+  const labels = ['Jarls','Thanes','Knights','Rangers','Citizens'];
+  const tabs = makeElement('div','register-tabs');
+  tabs.setAttribute('role','tablist');
+  const content = makeElement('section','ledger-sheet');
+  content.id = 'royal-register-panel';
+  content.setAttribute('role','tabpanel');
+  function open(tab) {
+    registerTab = tab;
+    tabs.querySelectorAll('button').forEach(button => button.setAttribute('aria-selected',String(button.textContent === ruText(tab))));
+    content.replaceChildren(makeElement('h3','',tab === 'Citizens' ? 'Граждане Горного Предела' : ruText(tab)));
+    const recorded = pages.Appointments.find(([label]) => label === tab);
+    if (recorded) content.appendChild(makeElement('p','ledger-note','Записано назначений: ' + (recorded[1] ?? 'Нет данных')));
+    if (!royalRegister) {
+      content.append('Ожидание королевского реестра…');
+      return;
+    }
+    const entries = royalRegister[tab];
+    const list = makeElement('div','register-roster');
+    const holds = ['Whiterun','Eastmarch','Falkreath','Hjaalmarch','The Pale','The Reach','The Rift','Haafingar','Winterhold'];
+    entries.filter(entry => tab === 'Jarls' || entry.name).forEach(entry => {
+      const card = makeElement('section','court-office');
+      const portrait = npcImage(entry.name,'register-portrait');
+      if (portrait) card.appendChild(portrait);
+      card.append(makeElement('small','',tab === 'Jarls' ? ruText(holds[entry.slot]) : tab === 'Citizens' ? 'Гражданин Горного Предела' : ruText(tab.slice(0,-1))),
+        makeElement('h3','',entry.name || 'Место пустует'));
+      list.appendChild(card);
+    });
+    content.appendChild(makeElement('p','ledger-note','Именных назначений: ' + entries.filter(entry => entry.name).length));
+    if (list.childElementCount) content.appendChild(list);
+    else content.appendChild(makeElement('p','','Именных назначений нет.'));
+  }
+  labels.forEach(tab => {
+    const button = makeElement('button','',ruText(tab));
+    button.setAttribute('role','tab');
+    button.setAttribute('aria-controls','royal-register-panel');
+    button.onclick = () => open(tab);
+    tabs.appendChild(button);
+  });
+  article.append(tabs,content);
+  open(registerTab);
+}
+let churchState = null;
+window.showChurchState = payload => {
+  try {
+    const values = typeof payload === 'string' ? JSON.parse(payload) : payload;
+    churchState = Array.isArray(values) && values.length === 20 &&
+      values.every(value => value === null || Number.isFinite(value)) ? values : null;
+  } catch (_) { churchState = null; }
+  if (latestRealm && (selected === 'Faith' || selected === 'Overview')) window.showRealmV3(latestRealm);
+};
+function drawChurch(pages) {
+  const names = ["Whiterun","Haafingar","Eastmarch","The Rift","The Reach","Falkreath","The Pale","Winterhold","Hjaalmarch","Highreach"];
+  const suffixes = ["Whiterun","Solitude","Windhelm","Riften","Markarth","Falkreath","Dawnstar","Winterhold","Morthal","Highreach"];
+  const realmFaith = pages.Overview.find(([label]) => label === 'Faith Level')[1];
+  const summary = makeElement('section','ledger-sheet');
+  const declared = churchState && churchState.filter((_,i) => i % 2 === 0);
+  const clergy = churchState && churchState.filter((_,i) => i % 2 === 1);
+  const count = values => values && values.every(value => value != null) ? values.filter(value => value === 1).length : null;
+  summary.append(makeElement('h3','','Церковь Скайрима'),
+    makeElement('p','','Вера в королевстве: ' + (realmFaith == null ? 'Нет данных' : realmFaith + ' / 100')),
+    makeElement('p','','Признали Церковь: ' + (count(declared) ?? 'Нет данных') + ' · Назначено жрецов: ' + (count(clergy) ?? 'Нет данных')),
+    makeElement('p','ledger-note','Вера в королевстве считается с учетом веса каждого владения. Назначенные жрецы укрепляют местную веру, но требуют еженедельных расходов.'));
+  article.appendChild(summary);
+  const grid = makeElement('div','church-grid');
+  names.forEach((name,i) => {
+    const faith = pages.Faith.find(([label]) => label === 'Faith ' + suffixes[i]);
+    const value = faith ? faith[1] : null;
+    const card = makeElement('section','ledger-sheet');
+    const scene = (window.ledgerHoldScenes || {})[name];
+    if (scene) {
+      const image = makeElement('img','church-landscape');
+      image.src = scene;
+      image.alt = '';
+      card.appendChild(image);
+    }
+    card.append(makeElement('h3','',ruText(name)),makeElement('p','','Вера: ' + (value == null ? 'Нет данных' : value + ' / 100')));
+    if (value != null) {
+      const meter = makeElement('meter','');
+      meter.min = 0; meter.max = 100; meter.value = value;
+      meter.setAttribute('aria-label','Вера: ' + ruText(name));
+      card.appendChild(meter);
+    }
+    const declaration = declared ? declared[i] : null;
+    const priest = clergy ? clergy[i] : null;
+    card.append(makeElement('p','',declaration == null ? 'Нет данных о Церкви' : declaration === 1 ? 'Церковь признана' : 'Церковь не признана'),
+      makeElement('p','',priest == null ? 'Нет данных о жреце' : priest === 1 ? 'Служит назначенный жрец' : 'Жрец не назначен'));
+    grid.appendChild(card);
+  });
+  article.appendChild(grid);
+}
+let justiceCases = null;
+let selectedCaseSlot;
+window.showJusticeCases = payload => {
+  if (!latestRealm || typeof payload !== 'string' || !payload.startsWith('Cases\n')) return;
+  justiceCases = payload.split('\n').slice(1).filter(Boolean).map(line => {
+    const [slot,charge,evidence,status,...name] = line.split('|');
+    return {slot,charge,evidence,status,name:name.join('|')};
+  });
+  if (selected === 'Justice' || selected === 'Overview') window.showRealmV3(latestRealm);
+};
+
+function drawJustice(rows) {
+  const count = rows[0][1];
+  article.appendChild(makeElement('p','ledger-note',count == null ? 'Число задержанных неизвестно' : 'Задержанных: ' + count));
+  if (!justiceCases || !justiceCases.length) {
+    article.appendChild(makeElement('p','ledger-sheet',!justiceCases ? 'Ожидание записей о делах…' : 'Задержанных нет.'));
+    return;
+  }
+  const layout = makeElement('div','justice-layout');
+  const docket = makeElement('section','ledger-sheet');
+  docket.appendChild(makeElement('h3','','Список дел'));
+  const detail = makeElement('section','ledger-sheet');
+  function openCase(entry) {
+    selectedCaseSlot = entry.slot;
+    detail.replaceChildren(makeElement('small','',entry.status),makeElement('h2','',entry.name));
+    const facts = makeElement('dl','record-grid');
+    [['Обвинение',entry.charge],['Доказательства',entry.evidence]].forEach(([label,value]) => {
+      const row = makeElement('div','');
+      row.append(makeElement('dt','',label),makeElement('dd','',value));
+      facts.appendChild(row);
+    });
+    detail.appendChild(facts);
+    docket.querySelectorAll('button').forEach(button => button.setAttribute('aria-pressed',String(button.dataset.slot === entry.slot)));
+  }
+  justiceCases.forEach(entry => {
+    const button = makeElement('button','',entry.name);
+    button.dataset.slot = entry.slot;
+    button.onclick = () => openCase(entry);
+    docket.appendChild(button);
+  });
+  layout.append(docket,detail);
+  article.appendChild(layout);
+  openCase(justiceCases.find(entry => entry.slot === selectedCaseSlot) || justiceCases[0]);
+}
+window.showMarchResult = message => {
+  finishLedgerAction('bhksMarch',message);
+  const status = document.querySelector('.march-status');
+  if (status) status.textContent = message;
+};
+
+const forts = [
+  ['Greymoor','Whiterun',48,53],['Hraggstad','Haafingar',23,20],['Amol','Eastmarch',72,49],
+  ['Greenwall','The Rift',87,68],['Sungard','The Reach',30,62],['Neugrad','Falkreath',51,81],
+  ['Dunstad','The Pale',57,30],['Snowhawk','Hjaalmarch',34,36],['Kastav','Winterhold',75,29]
+];
+let marchState = [];
+function updateMarchState() {
+  const current = document.querySelector('.march-current');
+  if (!current) return;
+  const [destination, commander] = marchState;
+  const recall = document.querySelector('.army-recall');
+  if (recall) { recall.hidden = !(destination >= 1 && destination <= 9); recall.disabled = pendingLedgerActions.has('bhksMarch') || !window.magelight; }
+  const fort = forts[destination - 1];
+  current.textContent = destination == null ? 'Текущий приказ: ожидание данных о передвижении армии' :
+    fort ? 'Текущий приказ: марш к форту ' + ruText(fort[0]) + (commander === 1 ? ' · ведет Горлак' : '') : 'Текущий приказ: армия не выступала.';
+}
+window.showMarchState = payload => {
+  try {
+    const values = typeof payload === 'string' ? JSON.parse(payload) : payload;
+    if (Array.isArray(values) && values.length === 2) marchState = values;
+  } catch (_) { marchState = []; }
+  updateMarchState();
+  if (latestRealm && selected === 'Overview') window.showRealmV3(latestRealm);
+};
+
+let armyOperationStatus = '';
+let armyState = null;
+let armyError = '';
+window.showArmyManagement = payload => {
+  try {
+    const values = typeof payload === 'string' ? JSON.parse(payload) : payload;
+    if (!Array.isArray(values) || values.length !== 14 || !values.every(value => value === null || Number.isFinite(value))) throw new Error('Invalid army state');
+    armyState = values;
+    armyError = '';
+    if (latestRealm) {
+      latestRealm[1] = values[11];
+      const sections = Object.keys(labels);
+      const armyOffset = sections.slice(0,sections.indexOf('Military')).reduce((sum,key) => sum + labels[key].length,0);
+      latestRealm[armyOffset] = values[0];
+      if (selected === 'Military' || selected === 'Treasury' || selected === 'Overview') window.showRealmV3(latestRealm);
+    }
+  } catch (_) { window.showArmyError('Не удалось прочитать ответ со списком солдат.'); }
+};
+window.showArmyError = message => {
+  armyState = null;
+  armyError = message;
+  if (latestRealm && selected === 'Military') window.showRealmV3(latestRealm);
+};
+window.showArmyProgress = message => {
+  armyOperationStatus = message;
+  document.querySelectorAll('.army-progress').forEach(node => { node.textContent = message; });
+  const pending = pendingLedgerActions.get('bhksArmy');
+  if (pending) {
+    clearTimeout(pending.timeout);
+    pending.timeout = setTimeout(() => finishLedgerAction('bhksArmy','Армейская операция перестала отвечать. Обновите список, прежде чем отдавать новый приказ.'),120000);
+  }
+  ledgerNotice(message);
+};
+window.showArmyResult = message => { armyOperationStatus = message; finishLedgerAction('bhksArmy',message); };
+
+function drawArmyManagement(pages) {
+  const state = armyState;
+  const total = state ? state[0] : pages.Military[0][1];
+  const report = makeElement('section','army-report');
+  report.appendChild(makeElement('h3','military-heading','Доклад о состоянии армии'));
+  const summary = makeElement('div','army-summary ledger-sheet');
+  const copy = makeElement('div','');
+  copy.append(makeElement('small','','Силы Короны'),makeElement('h3','','Всего войск: ' + (total ?? 'Нет данных')));
+  const summon = makeElement('button','','Призвать Горлака');
+  summon.setAttribute('aria-label','Призвать Горлака Каменного Кулака');
+  summon.disabled = !window.magelight || pendingLedgerActions.has('bhksSummon');
+  summon.onclick = () => sendLedgerAction('bhksSummon','5',summon);
+  summary.append(copy,summon);
+  report.appendChild(summary);
+  if (!state) {
+    report.appendChild(makeElement('p','ledger-sheet',armyError || 'Идет чтение списка солдат. Итоги по классам появятся, когда список будет готов.'));
+  } else {
+    const [reported,live,warriors,archers,mages,untrained,unknown,veterans,elites,champions,eligible] = state;
+    const stats = makeElement('div','treasury-columns');
+    [['Классы войск',[['Воины',warriors],['Лучники',archers],['Маги Разрушения',mages],['Необученные',untrained],...(unknown ? [['Класс неизвестен',unknown]] : [])]],
+     ['Звания',[['Ветераны',veterans],['Элита',elites],['Чемпионы',champions]]]].forEach(([heading,rows]) => {
+       const card = makeElement('section','ledger-sheet');
+       card.appendChild(makeElement('h3','',heading));
+       const list = makeElement('dl','army-counts');
+       rows.forEach(([label,count]) => { const row=makeElement('div',''); row.append(makeElement('dt','',label),makeElement('dd','',String(count))); list.appendChild(row); });
+       card.appendChild(list); stats.appendChild(card);
+     });
+    report.appendChild(stats);
+    const assessment = live === 0 ? 'Сейчас не зарегистрировано ни одного солдата.' : champions >= 5 ? 'Элитная боевая сила.' : champions > 0 && elites > 10 ? 'Очень опытная армия.' : elites > 5 ? 'Закаленные в боях войска.' : veterans > 10 ? 'Солдаты набираются опыта.' : untrained > live / 2 ? 'Многим новобранцам нужна подготовка.' : 'Армии не хватает боевого опыта.';
+    report.appendChild(makeElement('p','ledger-note',assessment + ' Необученных солдат, доступных для подготовки: ' + eligible + '.'));
+    if (reported !== live) report.appendChild(makeElement('p','ledger-sheet','Расхождение в списке: счетчик армии показывает ' + reported + ', а живых зарегистрированных солдат: ' + live + '. Итоги по классам и званиям выше относятся к зарегистрированным солдатам. Незарегистрированных солдат нельзя отправить на подготовку.'));
+    if (unknown) report.appendChild(makeElement('p','ledger-note','Солдаты без читаемых данных о повышении отмечены как "Класс неизвестен" и не будут отправлены на подготовку.'));
+  }
+  article.appendChild(report);
+  const progress = makeElement('p','army-progress ledger-note',armyOperationStatus);
+  progress.setAttribute('role','status');
+  article.appendChild(progress);
+  const operations = makeElement('div','army-operations treasury-columns');
+  const treasury = state ? state[11] : null;
+  const unitPrice = state ? state[12] : null;
+  const eligible = state ? state[10] : 0;
+  const slots = state ? state[13] : 0;
+  const busy = pendingLedgerActions.has('bhksArmy');
+  function operationCard(title,kind) {
+    const card = makeElement('section','ledger-sheet');
+    card.appendChild(makeElement('h3','',title));
+    const qty = makeElement('input','army-quantity'); qty.type='number';qty.min='1';qty.max='25';qty.step='1';qty.value='1';
+    qty.setAttribute('aria-label','Количество: ' + title);
+    const qtyLabel=makeElement('label','army-control');qtyLabel.append(makeElement('span','','Количество'),qty);
+    const cost=makeElement('p','army-cost');
+    const reason=makeElement('p','ledger-note');reason.setAttribute('role','status');
+    const button=makeElement('button','army-operation',kind==='buy'?'Нанять солдат':'Обучить солдат');
+    let trainingClass;
+    if (kind==='train') {
+      trainingClass=makeElement('select','settings-select');trainingClass.setAttribute('aria-label','Класс подготовки');
+      [[1,'Воин · 1500 зол.'],[2,'Лучник · 1000 зол.'],[3,'Маг Разрушения · 2000 зол.']].forEach(([value,label])=>{const option=makeElement('option','',label);option.value=value;trainingClass.appendChild(option);});
+      trainingClass.value='1';
+      const classLabel=makeElement('label','army-control');classLabel.append(makeElement('span','','Класс подготовки'),trainingClass);card.appendChild(classLabel);
+      card.appendChild(makeElement('p','ledger-note','Отбираются живые, свободные и необученные солдаты по порядку списка. Обученные и сражающиеся солдаты пропускаются.'));
+    } else card.appendChild(makeElement('p','ledger-note',unitPrice===1200 ? 'Действует Камень Капитана: скидка на вербовку 20%, 1200 золотых за солдата (6000 за пятерых).' : '1500 золотых за солдата, 7500 за пятерых. Новобранцы размещаются в казармах.'));
+    function update() {
+      const quantity=Number(qty.value);const valid=Number.isInteger(quantity)&&quantity>=1&&quantity<=25;
+      const price=kind==='buy'?unitPrice:{1:1500,2:1000,3:2000}[trainingClass.value];
+      const totalCost=valid&&price!=null?quantity*price:null;
+      cost.textContent='Казна: '+(treasury==null?'ожидание данных':treasury.toLocaleString()+' зол.')+' · Стоимость: '+(totalCost==null?'Нет данных':totalCost.toLocaleString()+' зол.');
+      const message=busy?(armyOperationStatus || 'Ожидание подтверждения от игры.'):!state?'Ожидание списка солдат.':!valid?'Укажите целое число от 1 до 25.':kind==='train'&&quantity>eligible?'Доступно необученных солдат: только '+eligible+'.':kind==='buy'&&quantity>slots?'Свободных мест для учета повышений: только '+slots+'.':treasury==null||totalCost==null?'Нет данных о казне.':treasury<totalCost?'В королевской казне недостаточно золота.':!window.magelight?'Нет связи с игрой.':'';
+      reason.textContent=message;button.disabled=Boolean(message);qty.disabled=busy;if(trainingClass)trainingClass.disabled=busy;
+    }
+    qty.oninput=update;if(trainingClass)trainingClass.onchange=update;
+    button.onclick=()=>{
+      update();if(button.disabled)return;
+      const request=kind==='buy'?'buy:'+qty.value:'train:'+trainingClass.value+':'+qty.value;
+      if(sendLedgerAction('bhksArmy',request,button)) { armyOperationStatus=kind==='buy'?'Запрос на вербовку отправлен. Ожидание ответа игры…':'Запрос на подготовку отправлен. Ожидание ответа игры…';ledgerNotice(armyOperationStatus);window.showRealmV3(latestRealm); }
+    };
+    card.append(qtyLabel,cost,button,reason);update();return card;
+  }
+  operations.append(operationCard('Вербовка','buy'),operationCard('Тренировочная площадка','train'));
+  article.appendChild(operations);
+  drawMarchOrders(total);
+}
+
+function drawMarchOrders(total) {
+  const panel = makeElement('section','hold');
+  panel.appendChild(makeElement('h3','','Приказ о марше'));
+  const destination = makeElement('select','');
+  destination.setAttribute('aria-label','Цель марша');
+  forts.forEach(([fort,hold],index) => {
+    const option = makeElement('option','','Форт ' + ruText(fort) + ' · ' + ruText(hold));
+    option.value = index + 1;
+    destination.appendChild(option);
+  });
+  const commander = makeElement('input','');
+  commander.type = 'checkbox';
+  const label = makeElement('label','');
+  label.append(commander,' Отправить Горлака с армией');
+  const send = makeElement('button','','Отдать приказ о марше');
+  const status = makeElement('p','march-status');
+  status.setAttribute('role','status');
+  const ready = Number.isFinite(total) && total >= 1 && window.magelight && typeof window.magelight.send === 'function';
+  destination.disabled = commander.disabled = send.disabled = !ready;
+  const reason = !Number.isFinite(total) ? 'Данные об армии не загружены. Откройте книгу заново, чтобы запросить их еще раз.' : total < 1 ? 'У вас нет солдат. Наймите через Горлака хотя бы одного, прежде чем выбирать форт.' : !ready ? 'Нет связи с игрой. Откройте книгу заново, прежде чем отдавать приказы.' : 'Выберите форт на карте или в списке и отдайте приказ о марше.';
+  status.textContent = reason;
+  if (!ready) {
+    const placeholder = makeElement('option','',Number.isFinite(total) && total < 1 ? 'Наймите солдат, чтобы выбрать цель' : 'Ожидание данных об армии');
+    placeholder.value = ''; destination.prepend(placeholder); destination.value = '';
+  } else {
+    destination.value = String(marchState[0] >= 1 && marchState[0] <= 9 ? marchState[0] : 1);
+    commander.checked = marchState[1] === 1;
+  }
+  send.onclick = () => {
+    status.textContent = 'Отдается приказ о марше…';
+    if (!sendLedgerAction('bhksMarch', String(Number(destination.value) + (commander.checked ? 10 : 0)),send)) return;
+  };
+  const current = makeElement('p','march-current');
+  current.setAttribute('role','status');
+  const recall = makeElement('button','army-recall','Отозвать армию в Крепость Горного Предела');
+  recall.hidden = true;
+  recall.onclick = () => {
+    if (sendLedgerAction('bhksMarch','0',recall)) {
+      status.textContent = 'Армия отзывается в Крепость Горного Предела…';
+      send.disabled = true;
+    }
+  };
+  panel.append(current,destination,label,send,recall,status);
+  const table = makeElement('div','war-table');
+  const map = makeElement('div','map war-map');
+  if (art.map) map.style.backgroundImage = 'url("' + art.map + '")';
+  map.setAttribute('aria-label','Форты для марша, примерное расположение на карте');
+  function markSelection() {
+    map.querySelectorAll('button').forEach(button => button.setAttribute('aria-pressed',String(button.dataset.destination === destination.value)));
+  }
+  forts.forEach(([fort,hold,x,y],index) => {
+    const marker = makeElement('button','','Форт ' + ruText(fort));
+    marker.dataset.destination = String(index + 1);
+    marker.style.left = x + '%';
+    marker.style.top = y + '%';
+    marker.disabled = !ready;
+    marker.onclick = () => { destination.value = marker.dataset.destination; markSelection(); };
+    map.appendChild(marker);
+  });
+  destination.onchange = markSelection;
+  table.append(map,panel);
+  article.appendChild(table);
+  markSelection();
+  updateMarchState();
+}
+const councilRoster = [["Великий советник","Surgus of the Black",null],["Мастер над монетой","Hadrian Quintus","hq"],["Воля Короны","Thenius Marbrand","tm"],["Глас Короны","Calveera Valenne","cv"],["Верховный жрец","Brother Arthorian","ba"],["Лорд-командующий","Ghorlak Stone-Fist","gs"],["Мастер цепей","Ogrun Steelvein","os"],["Первый маг","Zathra Nightfire","zn"],["Королевский кузнец","Brodran Steel-Eater","bs"],["Управитель","Nyra Senvale","nys"],["Мастер убийц","Cassia Virelli","cvv"],["Надзиратель за рабами","Ylfa Grimhart","yg"],["Королевский летописец","Thaldrin Marrow-Quill","tq"]];
+window.showSummonResult = message => {
+  finishLedgerAction('bhksSummon',message);
+  const status = document.querySelector('.summon-result');
+  if (status) status.textContent = message;
+};
+let latestRealm;
+let officeholders;
+const councilOffices = ["Will of the Crown","Master of Coin","Voice of the Crown","High Priest of Skyrim","Steward of Highreach","Overseer of Slaves","Master of Chains","Master of Assassins","Royal Chronicler","First Mage","Master Blacksmith","Lord Commander"];
+const taxHolds = ["Whiterun","Eastmarch","Falkreath","Hjaalmarch","The Pale","The Reach","Winterhold","The Rift","Haafingar","Highreach"];
+const holdArt = window.ledgerHoldArt || {};
+window.showOfficeholders = names => {
+  officeholders = typeof names === 'string' ? names.split('\n') : null;
+  if (latestRealm && ['Overview','Holds'].includes(selected)) window.showRealmV3(latestRealm);
+};
+window.showTaxError = message => {
+  finishLedgerAction('bhksSetTax',message);
+  const status = document.querySelector('.tax-status');
+  if (status) status.textContent = message;
+};
+const art = window.ledgerArt || {};
+function icon(name) {
+  const img = document.createElement('img');
+  img.alt = '';
+  img.src = (art.icons || {})[name] || art.sigil || '';
+  return img;
+}
+if (art.header) document.querySelector('header').style.backgroundImage =
+  'linear-gradient(0deg,#151512d9,transparent 80%),url("' + art.header + '")';
+let activeHold = 'Whiterun';
+const markers = [
+  ['Haafingar',32,19],['Hjaalmarch',40,31],['The Pale',57,19],['Winterhold',75,19],
+  ['The Reach',9,48],['Whiterun',52,51],['Eastmarch',79,38],['Falkreath',41,76],
+  ['The Rift',91,76],['Highreach',52,85]
+];
+function makeElement(tag, className, value) {
+  const node = document.createElement(tag);
+  if (className) node.className = className;
+  if (value !== undefined) node.textContent = value;
+  return node;
+}
+function decode(payload, length) {
+  try {
+    const values = typeof payload === 'string' ? JSON.parse(payload) : payload;
+    if (Array.isArray(values) && values.length === length &&
+        values.every(value => value === null || Number.isFinite(value))) return values;
+  } catch (_) {}
+  article.textContent = 'Книга получила несовместимые данные. Установите совместимые друг с другом скрипт и страницу Ledger V3.';
+  nav.textContent = '';
+  return null;
+}
+function drawHoldProfile(panel, pages, name) {
+  panel.replaceChildren(makeElement('h3','',ruText(name)));
+  const artwork = holdArt[name];
+  const scene = (window.ledgerHoldScenes || {})[name] || (artwork && artwork.scene);
+  if (scene) {
+    const portrait = makeElement('img','hold-art');
+    portrait.src = scene;
+    portrait.alt = 'Пейзаж: ' + ruText(name);
+    panel.prepend(portrait);
+    const crest = makeElement('img','hold-crest');
+    crest.src = artwork ? artwork.crest : art.sigil;
+    crest.alt = '';
+    panel.querySelector('h3').prepend(crest);
+  }
+  const facts = makeElement('dl');
+  const approval = pages.Holds.find(([label]) => label === name + ' Approval');
+  const approvalRow = makeElement('div');
+  approvalRow.append(makeElement('dt','','Местное одобрение'),makeElement('dd','',approval && approval[1] != null ? approval[1] + '%' : 'Нет данных'));
+  facts.appendChild(approvalRow);
+  const delta = pages.Holds.find(([label]) => label === name + ' Approval Change');
+  const revenueLabel = {'The Rift':'Riften','The Reach':'Reach','Highreach':'Highreach Keep'}[name] || name;
+  const revenue = pages.Treasury.find(([label]) => label === 'Tax Revenue ' + revenueLabel);
+  const jarl = pages.Holds.find(([label]) => label === name + ' Jarl');
+  const change = delta ? delta[1] : null;
+  function addFact(label,value,className) {
+    const row = makeElement('div');
+    row.append(makeElement('dt','',label),makeElement('dd',className,value == null ? 'Нет данных' : value));
+    facts.appendChild(row);
+  }
+  addFact('Изменение одобрения',change == null ? null : (change > 0 ? '+' : '') + change,change > 0 ? 'positive' : change < 0 ? 'negative' : '');
+  addFact('Последний доход',revenue && revenue[1] != null ? revenue[1].toLocaleString() + ' зол.' : null,'');
+  if (name !== 'Highreach') {
+    addFact('Текущий ярл',jarl ? jarl[1] : null,'');
+    const portrait = npcImage(jarl && jarl[1]);
+    if (portrait) {
+      const profile = makeElement('section','jarl-profile');
+      const copy = makeElement('div','');
+      copy.append(makeElement('small','','Назначенный ярл'),makeElement('strong','',jarl[1]));
+      profile.append(portrait,copy);
+      panel.appendChild(profile);
+    }
+  }
+  const rateName = name === 'Highreach' ? 'Highreach Keep' : name;
+  const rate = pages['Tax Rates'].find(([label]) => label === rateName);
+  const taxRow = makeElement('div');
+  const controls = makeElement('dd');
+  const chooser = makeElement('select');
+  chooser.setAttribute('aria-label','Ставка налога: ' + ruText(name));
+  for (let amount = 0; amount <= 20; amount++) {
+    const option = makeElement('option','',amount + '%');
+    option.value = amount;
+    chooser.appendChild(option);
+  }
+  chooser.value = rate && rate[1] != null ? parseInt(rate[1],10) : '';
+  const apply = makeElement('button','','Применить');
+  const status = makeElement('p','tax-status');
+  status.setAttribute('role','status');
+  apply.disabled = !rate || rate[1] == null || !window.magelight;
+  apply.onclick = () => {
+    if (!chooser.value) return;
+    if (!sendLedgerAction('bhksSetTax',taxHolds.indexOf(name) + ':' + chooser.value,apply)) return;
+    status.textContent = 'Применение ставки налога…';
+  };
+  controls.append(chooser,apply);
+  if (!councilPageAvailable('Treasury')) controls.replaceChildren(makeElement('span','',rate && rate[1] != null ? rate[1] : 'Нет данных'));
+  taxRow.append(makeElement('dt','','Ставка налога'),controls);
+  facts.appendChild(taxRow);
+  panel.append(facts,status);
+  const preview = makeElement('details','hold-tax-preview');
+  preview.hidden = !councilPageAvailable('Treasury');
+  preview.appendChild(makeElement('summary','','Рассчитать изменение налога'));
+  preview.appendChild(drawTaxPreview(pages,name));
+  panel.appendChild(preview);
+}
+
+function drawHoldGallery(pages) {
+  const layout = makeElement('div','hold-gallery-layout');
+  const gallery = makeElement('div','hold-gallery');
+  const panel = makeElement('section','hold');
+  function selectHold(name) {
+    activeHold = name;
+    drawHoldProfile(panel,pages,name);
+    gallery.querySelectorAll('button').forEach(button => button.setAttribute('aria-pressed',String(button.dataset.hold === name)));
+  }
+  taxHolds.forEach(name => {
+    const button = makeElement('button','hold-tile');
+    button.dataset.hold = name;
+    const scene = (window.ledgerHoldScenes || {})[name] || (holdArt[name] && holdArt[name].scene);
+    if (scene) {
+      const image = makeElement('img','');
+      image.src = scene;
+      image.alt = '';
+      button.appendChild(image);
+    }
+    const caption = makeElement('span','hold-tile-caption');
+    const jarl = pages.Holds.find(([label]) => label === name + ' Jarl');
+    const approval = pages.Holds.find(([label]) => label === name + ' Approval');
+    caption.append(makeElement('strong','',ruText(name)),
+      makeElement('span','',name === 'Highreach' ? 'Престол Короны' : (jarl && jarl[1]) || 'Ярл неизвестен'),
+      makeElement('span','',approval && approval[1] != null ? 'Одобрение: ' + approval[1] + '%' : 'Одобрение неизвестно'));
+    button.appendChild(caption);
+    button.onclick = () => selectHold(name);
+    gallery.appendChild(button);
+  });
+  layout.append(gallery,panel);
+  article.appendChild(layout);
+  selectHold(activeHold);
+}
+
+function drawAtlas(pages) {
+  const cards = makeElement('div','cards');
+  const metrics = [pages.Overview[0], ['Weekly Net', pages.Treasury[4][1]], pages.Overview[1], pages.Overview[2]];
+  metrics.forEach(([label,value]) => {
+    const card = makeElement('div','card',ruText(label));
+    const unit = (label === 'Treasury' || label === 'Weekly Net') ? ' зол.' : label === 'Skyrim Approval' ? '%' : '';
+    card.prepend(icon({'Treasury':'Treasury','Skyrim Approval':'Approval','Faith Level':'Faith','Economy Status':'Economy','Weekly Net':'Economy'}[label]));
+    card.appendChild(makeElement('strong','',value == null ? 'Нет данных' : value.toLocaleString() + unit));
+    cards.appendChild(card);
+  });
+  article.appendChild(cards);
+  const atlas = makeElement('div','atlas');
+  const map = makeElement('div','map');
+  map.setAttribute('aria-label','Схематическая карта Скайрима и Горного Предела');
+  map.innerHTML = '<svg viewBox="0 0 800 480" preserveAspectRatio="none" aria-hidden="true"><defs><linearGradient id="land" x2="0" y2="1"><stop stop-color="#8c8d77"/><stop offset="1" stop-color="#524b34"/></linearGradient><pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#d7c49a" opacity=".13"/></pattern></defs><rect width="800" height="480" fill="url(#grid)"/><path d="M57 192 97 113 163 74 239 93 290 66 376 88 429 49 488 79 555 52 625 79 665 130 742 153 725 226 762 279 707 333 626 383 542 366 481 409 391 370 312 407 226 377 153 337 84 301 96 250Z" fill="url(#land)" stroke="#ceb983" stroke-width="3"/><path d="M141 147 174 115 206 148 247 118 294 160 M360 120 410 82 453 125 489 100 538 150 M579 144 621 102 659 153 M166 300 200 264 245 312 281 279 312 317 M502 329 550 279 590 320 627 284 671 319" fill="none" stroke="#ded2b2" opacity=".58" stroke-width="4"/><path d="M403 153Q366 208 407 252T548 294Q603 308 634 359" fill="none" stroke="#839da0" stroke-width="5"/></svg>';
+  if (art.map) {
+    map.textContent = '';
+    map.style.backgroundImage = 'url("' + art.map + '")';
+    map.style.aspectRatio = art.mapRatio || '5 / 4';
+  }
+  const panel = makeElement('section','hold');
+  function inspect(name) {
+    activeHold = name;
+    drawHoldProfile(panel, pages, name);
+    map.querySelectorAll('button').forEach(button => button.setAttribute('aria-pressed', String(button.textContent === ruText(name))));
+  }
+  markers.forEach(([name,x,y]) => {
+    const button = makeElement('button','',ruText(name));
+    button.style.left = x + '%';
+    button.style.top = y + '%';
+    button.onclick = () => inspect(name);
+    map.appendChild(button);
+  });
+  atlas.append(map,panel);
+  article.appendChild(atlas);
+  inspect(activeHold);
+  const attention = makeElement('section','attention');
+  const net = pages.Treasury[4][1];
+  const vacant = pages.Court.filter(([,person]) => person === '').length;
+  attention.append(icon('Attention'),makeElement('strong','','Королевская сводка'));
+  const items = [];
+  if (net < 0) items.push(['Убыток за неделю: ' + Math.abs(net).toLocaleString() + ' зол.','Treasury']);
+  if (Array.isArray(marchState) && marchState[0] >= 1 && marchState[0] <= 9) {
+    items.push(['Армии приказано идти к форту ' + ruText(forts[marchState[0]-1][0]),'Military']);
+  }
+  if (justiceCases && justiceCases.length) items.push(['Дел в списке: ' + justiceCases.length,'Justice']);
+  if (churchState && churchState.every(value => value != null)) {
+    const priests = churchState.filter((value,index) => index % 2 === 1 && value === 1).length;
+    items.push(['Служит назначенных жрецов: ' + priests,'Faith']);
+  }
+  if (vacant) items.push(['Пустых мест в совете: ' + vacant,'Court']);
+  if (!items.length) items.push(['Проверить недельные счета','Treasury']);
+  items.forEach(([label,page]) => {
+    const button = makeElement('button','',label);
+    button.hidden = !councilPageAvailable(page);
+    button.onclick = () => { const target = Array.from(nav.querySelectorAll('button')).find(item => item.dataset.page === page); if (target && !target.hidden && !target.disabled) target.click(); };
+    attention.appendChild(button);
+  });
+  article.appendChild(attention);
+}
+
+function drawTreasury(rows, pages) {
+  const summary = makeElement('div','treasury-summary');
+  const gold = value => value == null ? 'Нет данных' : value.toLocaleString() + ' зол.';
+  rows.slice(0,5).forEach(([label,value]) => {
+    const card = makeElement('section','ledger-sheet');
+    card.append(makeElement('small','',ruText(label)),
+      makeElement('h3',label === 'Net Profit/Loss' ? (value > 0 ? 'positive' : value < 0 ? 'negative' : '') : '',gold(value)));
+    summary.appendChild(card);
+  });
+  article.appendChild(summary);
+  const columns = makeElement('div','treasury-columns');
+  function drawBreakdown(title,note,entries) {
+    const sheet = makeElement('section','ledger-sheet');
+    sheet.append(makeElement('h3','',title),makeElement('p','ledger-note',note));
+    const max = Math.max(0,...entries.map(([,value]) => value || 0));
+    entries.forEach(([label,value]) => {
+      const entry = makeElement('div','ledger-entry');
+      const line = makeElement('div','');
+      line.append(makeElement('span','',ruText(label)),makeElement('strong','',gold(value)));
+      entry.appendChild(line);
+      if (value != null && max > 0) {
+        const bar = makeElement('progress','');
+        bar.max = max;
+        bar.value = value;
+        bar.setAttribute('aria-label',ruText(label) + ' относительно наибольшей статьи');
+        entry.appendChild(bar);
+      }
+      sheet.appendChild(entry);
+    });
+    columns.appendChild(sheet);
+  }
+  const taxes = rows.slice(5).filter(([label]) => label.startsWith('Tax Revenue '));
+  const names = {Reach:'The Reach', Riften:'The Rift'};
+  const ranked = taxes.map(([label,value]) => {
+    const hold = label.slice('Tax Revenue '.length);
+    return [names[hold] || hold,value];
+  }).sort((a,b) => (b[1] ?? -Infinity) - (a[1] ?? -Infinity));
+  drawBreakdown('Доход по владениям','Последний записанный сбор налогов, по убыванию вклада.',ranked);
+  drawBreakdown('Расходы на управление','Записанные недельные расходы по статьям.',rows.slice(5).filter(([label]) => !label.startsWith('Tax Revenue ')));
+  article.appendChild(columns);
+  article.appendChild(drawTaxPreview(pages));
+}
+
+function render(pages, fallback) {
+  const previousPage = selected;
+  const previousScroll = article.scrollTop;
+  function open(name) {
+    selected = name;
+    article.replaceChildren();
+    article.scrollTop = 0;
+    const heading = document.createElement('h2');
+    heading.textContent = ruText(name);
+    const advisors = {
+      Treasury:['hq','Hadrian Quintus','Мастер над монетой','Проверьте казну, последние сборы и расходы на управление Скайримом.'],
+      Economy:['cv','Calveera Valenne','Глас Короны','Направляйте экономику, дипломатию и общественное мнение Скайрима.'],
+      Military:['gs','Ghorlak','Лорд-командующий','Оцените численность, классы и опыт своих войск.'],
+      Faith:['ba','Brother Arthorian','Верховный жрец Скайрима','Проверьте состояние веры в королевстве и его владениях.'],
+      Justice:['os','Ogrun Steelvein','Мастер цепей','Изучите записи о задержанных в королевстве.']
+    };
+    const advisor = advisors[name];
+    if (advisor) {
+      const [key,person,office,description] = advisor;
+      const banner = makeElement('section','section-banner');
+      const portrait = (window.ledgerCouncilArt || {})[key];
+      if (portrait) {
+        const image = makeElement('img','');
+        image.src = portrait;
+        image.alt = ruText(person);
+        banner.appendChild(image);
+      }
+      const copy = makeElement('div','');
+      copy.append(makeElement('small','',office),heading,makeElement('strong','',ruText(person)),makeElement('p','',description));
+      const summonSeat = {Treasury:'1',Economy:'3',Faith:'4',Justice:'6'}[name];
+      if (summonSeat) copy.appendChild(profileSummon(person,summonSeat));
+      banner.appendChild(copy);
+      article.appendChild(banner);
+    } else {
+      article.appendChild(heading);
+    }
+    nav.querySelectorAll('button').forEach(button => {
+      if (button.dataset.page === name) button.setAttribute('aria-current','page');
+      else button.removeAttribute('aria-current');
+    });
+    if (name === 'Economy') { drawEconomy(); return; }
+    if (name === 'Settings') { drawSettings(); return; }
+    if (name === 'Help') {
+      drawHandbook();
+      return;
+    }
+    if (name === 'Path to the Crown') {
+      drawCrownPath();
+      return;
+    }
+    if (name === 'Overview') {
+      drawAtlas(pages);
+      return;
+    }
+    if (name === 'Court') {
+      const grid = makeElement('div','court-grid');
+      const status = makeElement('p','summon-result');
+      status.setAttribute('role','status');
+      const portraits = window.ledgerCouncilArt || {};
+      councilRoster.forEach(([position,person,portraitKey], index) => {
+        const office = makeElement('section','court-office');
+        const portrait = makeElement('img','council-portrait');
+        const source = npcPortrait(person) || portraits[portraitKey];
+        portrait.src = source || art.sigil;
+        portrait.alt = source ? ruText(person) : 'Герб BHKS';
+        const summon = makeElement('button','','Призвать');
+        summon.setAttribute('aria-label','Призвать: ' + ruText(person));
+        summon.disabled = !window.magelight;
+        summon.onclick = () => {
+          status.textContent = 'Призыв: ' + ruText(person) + '…';
+          sendLedgerAction('bhksSummon', String(index),summon);
+        };
+        office.append(portrait,makeElement('h3','',ruText(person)),makeElement('p','',position));
+        if (councilAccess && councilAccess[index] === 1) office.appendChild(summon);
+        else office.appendChild(makeElement('p','ledger-note','Место пустует. Поговорите с Сургусом, чтобы найти подходящего кандидата.'));
+        grid.appendChild(office);
+      });
+      article.append(status,grid);
+      return;
+    }
+    if (name === 'Royal Spouse') {
+      drawRoyalSpouse();
+      return;
+    }
+    if (name === 'Appointments') {
+      drawRoyalRegister(pages);
+      return;
+    }
+    if (name === 'Faith') {
+      drawChurch(pages);
+      return;
+    }
+    if (name === 'Holds') {
+      drawHoldGallery(pages);
+      return;
+    }
+    if (name === 'Justice') {
+      drawJustice(pages.Justice);
+      return;
+    }
+    if (name === 'Treasury') {
+      drawTreasury(pages.Treasury, pages);
+      return;
+    }
+    if (name === 'Military') { drawArmyManagement(pages); return; }
+    const list = makeElement('dl','record-grid');
+    pages[name].forEach(([label,value]) => {
+      const row = document.createElement('div');
+      const term = document.createElement('dt');
+      const detail = document.createElement('dd');
+      term.textContent = label;
+      detail.textContent = value == null ? 'Нет данных' : typeof value === 'string' ? value : value.toLocaleString() + (name === 'Treasury' || label === 'Treasury' ? ' зол.' : label.endsWith('Approval') || label === 'Skyrim Approval' ? '%' : '');
+      if (label.endsWith('Approval Change')) detail.className = value > 0 ? 'positive' : value < 0 ? 'negative' : '';
+      row.append(term,detail);
+      list.appendChild(row);
+    });
+    article.appendChild(list);
+  }
+  nav.replaceChildren();
+  const menuPages = ['Path to the Crown', ...Object.keys(labels).flatMap(name => name === 'Treasury' ? [name,'Economy'] : [name]), 'Royal Spouse', 'Settings', 'Help'];
+  menuPages.forEach(name => {
+    const button = document.createElement('button');
+    button.textContent = name === 'Help' ? 'Королевское руководство' : ruText(name);
+    button.dataset.page = name;
+    button.prepend(icon(name));
+    button.hidden = !councilPageAvailable(name);
+    button.disabled = button.hidden || (!['Help','Settings'].includes(name) && !pages[name]);
+    button.onclick = () => open(name);
+    nav.appendChild(button);
+  });
+  if (art.sigil) {
+    const sigil = makeElement('img','sigil');
+    sigil.src = art.sigil;
+    sigil.alt = 'Корона и скрещенные мечи BHKS';
+    nav.appendChild(sigil);
+  }
+  open((pages[selected] || ['Help','Settings'].includes(selected)) && councilPageAvailable(selected) ? selected : fallback);
+  if (selected === previousPage) article.scrollTop = previousScroll;
+}
+window.showPathV3 = payload => {
+
+  const values = decode(payload,42);
+  if (!values) return;
+  latestRealm = null;
+  officeholders = null;
+  justiceCases = null;
+  marchState = [];
+  churchState = null;
+  royalRegister = null;
+  royalSpouse = null;
+  taxPreviewState = null;
+  const first = crownProgress == null;
+  crownProgress = values;
+  if (first) crownRouteTab = values[4] > 0 ? 'moot' : 'traditional';
+  render({'Path to the Crown':[]},'Path to the Crown');
+};
+window.showRealmV3 = payload => {
+
+  crownProgress = null;
+  const values = decode(payload, Object.values(labels).reduce((count, rows) => count + rows.length, 25));
+  if (!values) return;
+  latestRealm = values;
+  let index = 0;
+  const pages = {};
+  Object.keys(labels).forEach(name => {
+    pages[name] = labels[name].map(label => [label,values[index++]]);
+  });
+  const [approval, treasury, faith, economy, reignStage] = values;
+  pages.Overview = [
+    ['Treasury', treasury],
+    ['Skyrim Approval', approval],
+    ['Faith Level', faith],
+    ['Economy Status', economy == null ? null : (['Крах', 'Спад', 'Застой', 'Стабильность', 'Процветание'][economy] || 'Крах')],
+    ['Reign quest stage', reignStage]
+  ];
+  const holdNames = {Windhelm:'Eastmarch', Solitude:'Haafingar', Riften:'The Rift', Markarth:'The Reach', Morthal:'Hjaalmarch', Dawnstar:'The Pale'};
+  pages.Holds = pages.Holds.map(([label, value]) => {
+    const [, hold, delta] = label.split(' ');
+    return [(holdNames[hold] || hold) + (delta ? ' approval change' : ' approval'), value];
+  });
+  const revenue = pages.Treasury.filter(([label]) => label.startsWith('Tax Revenue'));
+  const mine = pages.Treasury.find(([label]) => label === 'Last Mine Revenue')[1];
+  const expenses = pages.Treasury.find(([label]) => label === 'Total')[1];
+  const income = revenue.every(([,value]) => value != null)
+    ? revenue.reduce((total,[,value]) => total + value, 0) : null;
+  const net = [income, mine, expenses].every(value => value != null) ? income + mine - expenses : null;
+  pages.Treasury = [['Balance', treasury], ['Weekly Income', income], ['Mine Revenue', mine],
+    ['Weekly Expenses', expenses], ['Net Profit/Loss', net], ...revenue];
+  const appointmentNames = {'Citizen Count':'Citizens','Noble Count':'Thanes','Ranger Count':'Rangers','Knight Count':'Knights'};
+  pages.Appointments = pages.Appointments.map(([label,value]) => [appointmentNames[label],value]);
+  const book = values.slice(index);
+  pages.Overview.push(['Economy score', book[0] == null ? null : book[0] + ' / 100']);
+  pages.Holds.push(['Highreach approval', book[1]], ['Highreach approval change', book[2]]);
+  const expenseNames = ["Стража","Освещение городов и дорог","Водопровод и канализация","Инфраструктура","Содержание зданий","Назначенные жрецы"];
+  pages.Treasury.push(...expenseNames.map((name,i) => [name,book[i+3]]));
+  const holdNamesForTax = ["Whiterun","Eastmarch","Falkreath","Hjaalmarch","The Pale","The Reach","Winterhold","The Rift","Haafingar","Highreach Keep"];
+  pages['Tax Rates'] = holdNamesForTax.map((name,i) => [name, book[i+9] == null ? null : book[i+9] + '%']);
+  pages.Holds = pages.Holds.map(([label,value]) => [label.replace(/ approval change$/, ' Approval Change').replace(/ approval$/, ' Approval'),value]);
+  taxHolds.slice(0,9).forEach((hold,i) => pages.Holds.push([hold + ' Jarl',officeholders ? officeholders[12+i] || 'Не назначен' : null]));
+  pages.Court = councilOffices.map((position,i) => [position,officeholders ? officeholders[i] : null]);
+  const total = pages.Military[0][1];
+  const [warriors,archers,mages,veterans,elites,champions] = book.slice(19);
+  const complete = [total,warriors,archers,mages,veterans,elites,champions].every(value => value != null);
+  const unassigned = complete ? total - warriors - archers - mages : null;
+  const assessment = !complete ? null : champions >= 5 ? 'Элитная боевая сила.' :
+    champions > 0 && elites > 10 ? 'Очень опытная армия.' : elites > 5 ? 'Закаленные в боях войска.' :
+    veterans > 10 ? 'Солдаты набираются опыта.' : unassigned > total / 2 ? 'Многим новобранцам нужна подготовка.' : 'Армии не хватает боевого опыта.';
+  pages.Military = [['Всего войск',total],['Воины',warriors],['Лучники',archers],['Маги',mages],
+    ...(unassigned > 0 ? [['Нераспределенные новобранцы',unassigned]] : []),['Ветераны',veterans],
+    ['Элита',elites],['Чемпионы',champions],['Оценка',assessment]];
+  pages['Royal Spouse'] = [];
+  pages.Economy = [];
+  render(pages,'Overview');
+};
+</script></html>
+
+
+
+
+

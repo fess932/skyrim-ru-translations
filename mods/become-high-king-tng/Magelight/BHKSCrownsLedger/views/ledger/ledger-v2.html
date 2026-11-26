@@ -1,0 +1,104 @@
+<!doctype html><html lang="ru"><meta charset="utf-8"><title>Королевская книга</title>
+<style>
+*{box-sizing:border-box}body{margin:0;background:#191714;color:#f3e9d8;font:18px Georgia,serif}
+header{padding:16px 24px;border-bottom:1px solid #9a7847;background:#2c251c}h1,h2,small{color:#e9c38a}h1{margin:5px 0}
+main{display:flex;height:452px}nav{width:205px;border-right:1px solid #9a7847;padding:10px;overflow:auto}
+button{width:100%;text-align:left;background:none;color:inherit;border:1px solid transparent;padding:8px;font:inherit}button:disabled{opacity:.4}button:focus,button[aria-current]{border-color:#caab74;background:#3b3024}
+article{flex:1;padding:12px 24px;overflow:auto}dl div{display:flex;justify-content:space-between;border-bottom:1px solid #514434;padding:8px 0}dd{color:#f3cf95}
+</style><header><small>BECOME HIGH KING OF SKYRIM TNG · LEDGER V2</small><h1>Королевская книга</h1></header>
+<main><nav aria-label="Разделы книги"></nav><article>Ожидание данных скрипта Ledger V2…</article></main>
+<script>
+// RU: display-only lookup. Logic keeps the English keys; only shown text passes through ruText().
+const ledgerRu = {"Whiterun": "Вайтран", "Eastmarch": "Истмарк", "Falkreath": "Фолкрит", "Hjaalmarch": "Хьялмарк", "The Pale": "Белый Берег", "The Reach": "Предел", "Reach": "Предел", "Winterhold": "Винтерхолд", "The Rift": "Рифт", "Haafingar": "Хаафингар", "Highreach": "Горный Предел", "Highreach Keep": "Крепость Горного Предела", "Solitude": "Солитьюд", "Windhelm": "Виндхельм", "Markarth": "Маркарт", "Riften": "Рифтен", "Dawnstar": "Данстар", "Morthal": "Морфал", "Path to the Crown": "Путь к короне", "Overview": "Обзор", "Holds": "Владения", "Treasury": "Казна", "Court": "Двор", "Military": "Армия", "Faith": "Вера", "Justice": "Правосудие", "Appointments": "Назначения", "Help": "Справка", "Tax Rates": "Налоговые ставки", "Skyrim Approval": "Одобрение Скайрима", "Faith Level": "Уровень веры", "Economy Status": "Состояние экономики", "Reign quest stage": "Стадия задания правления", "Economy score": "Экономический рейтинг", "Balance": "Баланс", "Weekly Income": "Доход за неделю", "Mine Revenue": "Доход шахт", "Weekly Expenses": "Расходы за неделю", "Net Profit/Loss": "Чистая прибыль/убыток", "Last Mine Revenue": "Последний доход шахт", "Total": "Итого", "Crown quest stage": "Стадия задания короны", "Moot quest stage": "Стадия задания Мута", "Coronation quest stage": "Стадия задания коронации", "High Priest quest stage": "Задание Верховного жреца", "Willof Crown quest stage": "Задание Воли Короны", "Masterof Coin quest stage": "Задание Мастера над монетой", "Royal Blacksmith quest stage": "Задание королевского кузнеца", "Royal Chronicler quest stage": "Задание Королевского летописца", "Steward quest stage": "Задание управителя", "Overseer Of Slaves quest stage": "Задание надзирателя за рабами", "Master Of Assassins quest stage": "Задание Мастера убийц", "First Mage quest stage": "Задание Первого мага", "Masterof Chains quest stage": "Задание Мастера цепей", "Lord Commander quest stage": "Задание Лорда-командующего", "Voiceof Crown quest stage": "Задание Гласа Короны", "Army Count": "Численность армии", "Detainee Count": "Число задержанных", "Citizens": "Граждане", "Thanes": "Таны", "Rangers": "Следопыты", "Knights": "Рыцари"};
+function ruText(text) {
+  if (Object.prototype.hasOwnProperty.call(ledgerRu, text)) return ledgerRu[text];
+  let m;
+  if ((m = /^(.+) approval change$/.exec(text))) return 'Изменение одобрения: ' + ruText(m[1]);
+  if ((m = /^(.+) approval$/.exec(text))) return 'Одобрение: ' + ruText(m[1]);
+  if ((m = /^Tax Revenue (.+)$/.exec(text))) return 'Налоги: ' + ruText(m[1]);
+  if ((m = /^Faith (.+)$/.exec(text))) return 'Вера: ' + ruText(m[1]);
+  return text;
+}
+const labels = {"Overview":["Approval Skyrim","Treasure Total Gold","Faith Skyrim","Economy Tier","Skyrim"],"Holds":["Approval Whiterun","Approval Windhelm","Approval Solitude","Approval Riften","Approval Markarth","Approval Morthal","Approval Falkreath","Approval Dawnstar","Approval Winterhold","Approval Whiterun Delta","Approval Solitude Delta","Approval Windhelm Delta","Approval Riften Delta","Approval Markarth Delta","Approval Falkreath Delta","Approval Dawnstar Delta","Approval Winterhold Delta","Approval Morthal Delta"],"Treasury":["Tax Revenue Whiterun","Tax Revenue Eastmarch","Tax Revenue Falkreath","Tax Revenue Hjaalmarch","Tax Revenue The Pale","Tax Revenue Winterhold","Tax Revenue Riften","Tax Revenue Haafingar","Tax Revenue Highreach Keep","Last Mine Revenue","Tax Revenue Reach","Total"],"Court":["High Priest quest stage","Willof Crown quest stage","Masterof Coin quest stage","Royal Blacksmith quest stage","Royal Chronicler quest stage","Steward quest stage","Overseer Of Slaves quest stage","Master Of Assassins quest stage","First Mage quest stage","Masterof Chains quest stage","Lord Commander quest stage","Voiceof Crown quest stage"],"Military":["Army Count"],"Faith":["Faith Whiterun","Faith Falkreath","Faith Solitude","Faith Windhelm","Faith Riften","Faith Markarth","Faith Dawnstar","Faith Winterhold","Faith Morthal","Faith Highreach"],"Justice":["Detainee Count"],"Appointments":["Citizen Count","Noble Count","Ranger Count","Knight Count"]};
+const pathLabels = ['Crown quest stage','Moot quest stage','Coronation quest stage'];
+const nav = document.querySelector('nav');
+const article = document.querySelector('article');
+let selected;
+function render(pages, fallback) {
+  function open(name) {
+    selected = name;
+    article.replaceChildren();
+    article.scrollTop = 0;
+    const heading = document.createElement('h2');
+    heading.textContent = ruText(name);
+    article.appendChild(heading);
+    nav.querySelectorAll('button').forEach(button => {
+      if (button.textContent === ruText(name)) button.setAttribute('aria-current','page');
+      else button.removeAttribute('aria-current');
+    });
+    if (name === 'Help') {
+      article.append('Следуйте активному заданию в журнале. Королевские разделы откроются после коронации. Налоговые сборы показывают записанные поступления. Escape закрывает книгу.');
+      return;
+    }
+    const list = document.createElement('dl');
+    pages[name].forEach(([label,value]) => {
+      const row = document.createElement('div');
+      const term = document.createElement('dt');
+      const detail = document.createElement('dd');
+      term.textContent = ruText(label);
+      detail.textContent = value == null ? 'Нет данных' : typeof value === 'string' ? value : value.toLocaleString() + (name === 'Treasury' || label === 'Treasury' ? ' зол.' : label.endsWith('approval') || label === 'Skyrim Approval' ? '%' : '');
+      row.append(term,detail);
+      list.appendChild(row);
+    });
+    article.appendChild(list);
+  }
+  nav.replaceChildren();
+  ['Path to the Crown', ...Object.keys(labels), 'Tax Rates', 'Help'].forEach(name => {
+    const button = document.createElement('button');
+    button.textContent = ruText(name);
+    button.disabled = name !== 'Help' && !pages[name];
+    button.onclick = () => open(name);
+    nav.appendChild(button);
+  });
+  open(pages[selected] || selected === 'Help' ? selected : fallback);
+}
+window.showPathV2 = values => render({'Path to the Crown':pathLabels.map((label,i)=>[label,values[i]])}, 'Path to the Crown');
+window.showRealmV2 = values => {
+  let index = 0;
+  const pages = {};
+  Object.keys(labels).forEach(name => {
+    pages[name] = labels[name].map(label => [label,values[index++]]);
+  });
+  const [approval, treasury, faith, economy, reignStage] = values;
+  pages.Overview = [
+    ['Treasury', treasury],
+    ['Skyrim Approval', approval],
+    ['Faith Level', faith],
+    ['Economy Status', economy == null ? null : (['Крах', 'Спад', 'Застой', 'Стабильность', 'Процветание'][economy] || 'Крах')],
+    ['Reign quest stage', reignStage]
+  ];
+  const holdNames = {Windhelm:'Eastmarch', Solitude:'Haafingar', Riften:'The Rift', Markarth:'The Reach', Morthal:'Hjaalmarch', Dawnstar:'The Pale'};
+  pages.Holds = pages.Holds.map(([label, value]) => {
+    const [, hold, delta] = label.split(' ');
+    return [(holdNames[hold] || hold) + (delta ? ' approval change' : ' approval'), value];
+  });
+  const revenue = pages.Treasury.filter(([label]) => label.startsWith('Tax Revenue'));
+  const mine = pages.Treasury.find(([label]) => label === 'Last Mine Revenue')[1];
+  const expenses = pages.Treasury.find(([label]) => label === 'Total')[1];
+  const income = revenue.every(([,value]) => value != null)
+    ? revenue.reduce((total,[,value]) => total + value, 0) : null;
+  const net = [income, mine, expenses].every(value => value != null) ? income + mine - expenses : null;
+  pages.Treasury = [['Balance', treasury], ['Weekly Income', income], ['Mine Revenue', mine],
+    ['Weekly Expenses', expenses], ['Net Profit/Loss', net], ...revenue];
+  const appointmentNames = {'Citizen Count':'Citizens','Noble Count':'Thanes','Ranger Count':'Rangers','Knight Count':'Knights'};
+  pages.Appointments = pages.Appointments.map(([label,value]) => [appointmentNames[label],value]);
+  const book = values.slice(index);
+  pages.Overview.push(['Economy score', book[0] == null ? null : book[0] + ' / 100']);
+  pages.Holds.push(['Highreach approval', book[1]], ['Highreach approval change', book[2]]);
+  const expenseNames = ["Стража","Освещение городов и дорог","Водопровод и канализация","Инфраструктура","Содержание зданий","Назначенные жрецы"];
+  pages.Treasury.push(...expenseNames.map((name,i) => [name,book[i+3]]));
+  const holdNamesForTax = ["Whiterun","Eastmarch","Falkreath","Hjaalmarch","The Pale","The Reach","Winterhold","The Rift","Haafingar","Highreach Keep"];
+  pages['Tax Rates'] = holdNamesForTax.map((name,i) => [name, book[i+9] == null ? null : book[i+9] + '%']);
+  render(pages,'Overview');
+};
+</script></html>
