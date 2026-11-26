@@ -17,7 +17,7 @@ import sys
 
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 from prepare import uid  # noqa: E402
-from validate import check  # noqa: E402
+from validate import DROPCAP, check  # noqa: E402
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 
@@ -38,6 +38,8 @@ def main(mod_dir, allow_missing):
             total += 1
             i = uid(e['original'])
             ru = auto.get(i) or tr.get(i)
+            if ru and i not in auto:
+                ru = DROPCAP.sub('', ru)
             if not ru:
                 report.append(f'MISSING {plugin} {e["form_id"]} {e["type"]}: {e["original"][:80]!r}')
                 continue

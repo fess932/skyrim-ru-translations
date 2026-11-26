@@ -93,11 +93,35 @@ class TermIndex:
         return out
 
 
+NAME_TYPES = {'NPC_ FULL', 'NPC_ SHRT', 'CELL FULL', 'LCTN FULL', 'WRLD FULL', 'FACT FULL',
+              'ARMO FULL', 'WEAP FULL', 'MISC FULL', 'BOOK FULL', 'SPEL FULL', 'QUST FULL'}
+
+
+def learned_names(work):
+    """Names already translated in this mod (NPCs, places, items) become terms,
+    so every later batch spells them the same way."""
+    out = {}
+    tr = {}
+    for f in glob.glob(os.path.join(work, 'out', '*.json')):
+        tr.update(load_json(f, {}))
+    if not tr:
+        return out
+    for f in glob.glob(os.path.join(work, 'en', '*.json')):
+        for e in json.load(open(f, encoding='utf-8')):
+            if e['type'] in NAME_TYPES and len(e['original']) <= 40:
+                ru = tr.get(uid(e['original']))
+                if ru and e['original'][:1].isupper():
+                    out[e['original']] = ru
+    return out
+
+
 def main(mod_dir):
     mod = json.load(open(os.path.join(mod_dir, 'mod.json'), encoding='utf-8'))
     work = os.path.join(ROOT, 'work', mod['slug'])
     exact = load_json(os.path.join(ROOT, 'vanilla', 'exact.json'), {})
-    index = TermIndex(glossary_for(mod_dir))
+    glossary = learned_names(work)
+    glossary.update(glossary_for(mod_dir))  # curated glossary wins over learned names
+    index = TermIndex(glossary)
 
     units, auto = {}, {}
     for f in sorted(glob.glob(os.path.join(work, 'en', '*.json'))):
@@ -140,15 +164,18 @@ def main(mod_dir):
 
     bdir = os.path.join(work, 'batches')
     os.makedirs(bdir, exist_ok=True)
+    keep = {f'{n:03d}.json' for n in range(1, len(batches) + 1)}
     for old in glob.glob(os.path.join(bdir, '*.json')):
-        os.remove(old)
+        if os.path.basename(old) not in keep:
+            os.remove(old)  # never delete files that are rewritten: agents may be reading them
     for n, b in enumerate(batches, 1):
         terms = {}
         for item in b:
             terms.update(index.find(item['en']))
         doc = {'batch': f'{n:03d}', 'terms': dict(sorted(terms.items())), 'items': b}
-        json.dump(doc, open(os.path.join(bdir, f'{n:03d}.json'), 'w', encoding='utf-8'),
-                  ensure_ascii=False, indent=1)
+        tmp = os.path.join(bdir, f'{n:03d}.json.tmp')
+        json.dump(doc, open(tmp, 'w', encoding='utf-8'), ensure_ascii=False, indent=1)
+        os.replace(tmp, os.path.join(bdir, f'{n:03d}.json'))  # atomic
     json.dump(auto, open(os.path.join(work, 'auto.json'), 'w', encoding='utf-8'), ensure_ascii=False)
     print(f'units {len(units)}  vanilla-auto {len(auto)}  batches {len(batches)} -> {bdir}')
 
