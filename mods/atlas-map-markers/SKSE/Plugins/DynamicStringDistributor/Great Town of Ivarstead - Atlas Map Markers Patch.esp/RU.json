@@ -1,0 +1,26 @@
+[
+ {
+  "original": "Vilemyr Inn",
+  "string": "Таверна Вайлмир",
+  "form_id": "00000A1C|Atlas Map Markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMMTavernVilemyrInn"
+ },
+ {
+  "original": "Hall of Kyne",
+  "string": "Зал Кин",
+  "form_id": "00000800|Great Town of Ivarstead - Atlas Map Markers Patch.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMMHallOfKyne"
+ },
+ {
+  "original": "Pilgrim's Needs",
+  "string": "Все для паломника",
+  "form_id": "00000801|Great Town of Ivarstead - Atlas Map Markers Patch.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMMShopPilgrimsNeeds"
+ }
+]

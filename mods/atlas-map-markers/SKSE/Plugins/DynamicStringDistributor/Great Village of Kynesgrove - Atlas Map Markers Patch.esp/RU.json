@@ -1,0 +1,18 @@
+[
+ {
+  "original": "The Braidwood Inn",
+  "string": "Таверна Деревянное кружево",
+  "form_id": "00000A23|Atlas Map Markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMMTavernBraidwoodInn"
+ },
+ {
+  "original": "Kynesby",
+  "string": "Кинсби",
+  "form_id": "00000900|Great Village of Kynesgrove - Atlas Map Markers Patch.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMMKynesby"
+ }
+]

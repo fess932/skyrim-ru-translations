@@ -1,0 +1,25 @@
+{
+  "slug": "atlas-map-markers",
+  "name": "Atlas Map Markers SE и патчи (недостающие строки)",
+  "reuse_installed": true,
+  "plugins": [
+    "atlas map markers.esp",
+    "AltasMapBetterDGEntrancePatch.esp",
+    "Great Town of Ivarstead - Atlas Map Markers Patch.esp",
+    "Great Village of Kynesgrove - Atlas Map Markers Patch.esp",
+    "Great Town of Shor's Stone - Atlas Map Makers Patch.esp",
+    "Great Town of Karthwasten - Atlas Map Markers patch.esp",
+    "Shirley's Home Conflict Fix - Atlas Map Markers Patch.esp",
+    "COTN Falkreath - Atlas Map Markers SE patch.esp"
+  ],
+  "sources": {
+    "atlas map markers.esp": "Atlas Map Markers SE - Updated with MCM",
+    "AltasMapBetterDGEntrancePatch.esp": "Immersive Dayspring Pass - Atlas Map Markers Patch",
+    "Great Town of Ivarstead - Atlas Map Markers Patch.esp": "The Great Town of Ivarstead Patch Collection",
+    "Great Village of Kynesgrove - Atlas Map Markers Patch.esp": "The Great Village of Kynesgrove Patch Collection",
+    "Great Town of Shor's Stone - Atlas Map Makers Patch.esp": "The Great Town of Shor's Stone Patch Collection",
+    "Great Town of Karthwasten - Atlas Map Markers patch.esp": "The Great Town of Karthwasten Patch Collection",
+    "Shirley's Home Conflict Fix - Atlas Map Markers Patch.esp": "Atlas Map Markers Patches BETA",
+    "COTN Falkreath - Atlas Map Markers SE patch.esp": "Cities of the North - Falkreath Patch Collection"
+  }
+}

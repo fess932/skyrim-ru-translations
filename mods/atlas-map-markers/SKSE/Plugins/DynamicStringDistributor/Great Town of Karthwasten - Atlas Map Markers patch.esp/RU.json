@@ -1,0 +1,18 @@
+[
+ {
+  "original": "Sleepy Hags Inn",
+  "string": "Таверна Сонная карга",
+  "form_id": "00000800|Great Town of Karthwasten - Atlas Map Markers patch.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMMTavernSleepyHagsInn"
+ },
+ {
+  "original": "The Trusty Witch",
+  "string": "Верная ведьма",
+  "form_id": "00000802|Great Town of Karthwasten - Atlas Map Markers patch.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMMShopTrustyWitch"
+ }
+]

@@ -1,0 +1,6066 @@
+[
+ {
+  "original": "Offering Altar",
+  "string": "Алтарь подношений",
+  "form_id": "00000A43|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMMWildernessOfferingAltar"
+ },
+ {
+  "original": "Shoreline Lover's Tent",
+  "string": "Палатка влюбленных на берегу",
+  "form_id": "0000096B|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMM3HLoversTent"
+ },
+ {
+  "original": "Helgen Cliffs Camp",
+  "string": "Лагерь на утесах Хелгена",
+  "form_id": "000008EA|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMM8AEBanditCamp"
+ },
+ {
+  "original": "River Yorgrim",
+  "string": "Река Йоргрим",
+  "form_id": "00000AB1|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMMWaterwayRiverYorgrim"
+ },
+ {
+  "original": "Lake Ilinalta Camp",
+  "string": "Лагерь у озера Илиналта",
+  "form_id": "000008D7|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMM8HFishermansCamp"
+ },
+ {
+  "original": "Clam Digger's Camp",
+  "string": "Лагерь собирателя моллюсков",
+  "form_id": "000008F7|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMM1AClamDiggersCamp"
+ },
+ {
+  "original": "Two Pine Ridge",
+  "string": "Хребет Две Сосны",
+  "form_id": "00000925|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMM9ZTwoPineRidge"
+ },
+ {
+  "original": "Fort Sungard Oubliette",
+  "string": "Форт Сангард - Подземная темница",
+  "form_id": "00000A9B|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMMExitFortSungard"
+ },
+ {
+  "original": "Emblem X",
+  "string": "Надпись X",
+  "form_id": "00000A7F|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMMShrines7010"
+ },
+ {
+  "original": "Miner's Loss",
+  "string": "Потеря шахтера",
+  "form_id": "00000B1F|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMMBookMinersLoss"
+ },
+ {
+  "original": "Windhelm Khajiit Caravan",
+  "string": "Виндхельм - Каджитский караван",
+  "form_id": "00000A18|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMMCaravanWindhelm"
+ },
+ {
+  "original": "Arcwind Point Barrow",
+  "string": "Ветровая Дуга - Курган",
+  "form_id": "00000A38|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMMWildernessArcwindPointBarrow"
+ },
+ {
+  "original": "Blind Cliff Bastion",
+  "string": "Оплот Отвесный Утес",
+  "form_id": "00000A89|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMMExitBlindCliffBastion"
+ },
+ {
+  "original": "The Skeleton's Strong Box",
+  "string": "Сундучок скелета",
+  "form_id": "00000911|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMM6PStrongBox"
+ },
+ {
+  "original": "Shrine of Dibella",
+  "string": "Святилище Дибеллы",
+  "form_id": "00000952|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMM5ZShrineDibella"
+ },
+ {
+  "original": "Darkwater Overhang",
+  "string": "Навес у Черного Брода",
+  "form_id": "00000936|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMM9ADarkwaterOverhang"
+ },
+ {
+  "original": "Pale Imperial Camp",
+  "string": "Белый Берег - Имперский лагерь",
+  "form_id": "0001627B|Skyrim.esm",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "MilitaryCampPaleImperialMapMarker"
+ },
+ {
+  "original": "The Bloodied Bandit",
+  "string": "Окровавленный бандит",
+  "form_id": "00000967|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMM5HBloodiedBandit"
+ },
+ {
+  "original": "Haafingar Stormcloak Camp",
+  "string": "Хаафингар - Лагерь Братьев Бури",
+  "form_id": "00094F96|Skyrim.esm",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "MilitaryCampHaafingarSonsMapMarker"
+ },
+ {
+  "original": "Redbelly Ebony Mine",
+  "string": "Красная шахта (эбонит)",
+  "form_id": "000009E4|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMMMineRedBellyEbony"
+ },
+ {
+  "original": "Pillar Gains",
+  "string": "Добыча у колонны",
+  "form_id": "00000B36|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMMWildernessPillarGains"
+ },
+ {
+  "original": "Bleak Falls Sanctum",
+  "string": "Ветреный пик - Святилище",
+  "form_id": "00000A5C|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMMExitBleakFallsSanctum"
+ },
+ {
+  "original": "Capsized",
+  "string": "Перевернутая лодка",
+  "form_id": "00000B39|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMMWildernessCapsized"
+ },
+ {
+  "original": "Tumbledown Tower",
+  "string": "Покосившаяся башня",
+  "form_id": "00000928|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMM9WTumbledownTower"
+ },
+ {
+  "original": "Wilderness Cache I",
+  "string": "Тайник в глуши I",
+  "form_id": "00000BED|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLDGCache1Rorikstead"
+ },
+ {
+  "original": "Mistwatch Outcrop",
+  "string": "Скалы у Туманной заставы",
+  "form_id": "00000931|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMM9IAnimalDen"
+ },
+ {
+  "original": "Northwind Iron Mine",
+  "string": "Шахта Северный Ветер (эбонит)",
+  "form_id": "00000B40|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMMMineNorthwindIron"
+ },
+ {
+  "original": "Dushnikh Orichalcum Mine",
+  "string": "Шахта Душник (орихалк)",
+  "form_id": "000009DD|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMMMineDushnikh"
+ },
+ {
+  "original": "Dead Mammoth",
+  "string": "Мертвый мамонт",
+  "form_id": "0000090B|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMM2LDeadMammoth"
+ },
+ {
+  "original": "Summit Stash",
+  "string": "Тайник на вершине",
+  "form_id": "00000A95|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMMBookSummitStash"
+ },
+ {
+  "original": "Ragnvald Scree Camp",
+  "string": "Лагерь на осыпи у Рагнвальда",
+  "form_id": "0000096A|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMM5NHagravenCamp"
+ },
+ {
+  "original": "Lover's Camp",
+  "string": "Лагерь влюбленных",
+  "form_id": "00000957|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMM5V"
+ },
+ {
+  "original": "Three Billy Goats Gruff",
+  "string": "Три упрямых козла",
+  "form_id": "00000A6C|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMMWildernessThreeBillyGoatsGruff"
+ },
+ {
+  "original": "Dawnstar Khajiit Caravan",
+  "string": "Данстар - Каджитский караван",
+  "form_id": "00000A16|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMMCaravanDawnstar"
+ },
+ {
+  "original": "Treasure Location I",
+  "string": "Место клада I",
+  "form_id": "000009FC|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMMTreasureMap1"
+ },
+ {
+  "original": "Prospector's Shack",
+  "string": "Хижина старателя",
+  "form_id": "000008E9|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMM8ADProspectorsShack"
+ },
+ {
+  "original": "Shrine of Arkay",
+  "string": "Святилище Аркея",
+  "form_id": "00000A6D|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMMShrineArkayWaywardPass"
+ },
+ {
+  "original": "Kagrenzel Slopes Camp",
+  "string": "Лагерь на склонах Кагрензела",
+  "form_id": "00000946|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMM7UHuntersCamp"
+ },
+ {
+  "original": "The Seven Thousand Steps",
+  "string": "Семь тысяч ступеней",
+  "form_id": "00000921|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMM6XSteps"
+ },
+ {
+  "original": "Shrine of Talos",
+  "string": "Святилище Талоса",
+  "form_id": "00000985|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMM4KShrineTalos"
+ },
+ {
+  "original": "Sea of Ghosts",
+  "string": "Море Призраков",
+  "form_id": "00000AB8|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMMWaterwaySeaOfGhosts"
+ },
+ {
+  "original": "Shrine of Akatosh",
+  "string": "Святилище Акатоша",
+  "form_id": "000008E0|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMM8GShrineAkatosh"
+ },
+ {
+  "original": "Greenwall Cave",
+  "string": "Пещера Зеленая Стена",
+  "form_id": "00000A8F|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMMExitGreenwallCave"
+ },
+ {
+  "original": "Falion's House",
+  "string": "Дом Фалиона",
+  "form_id": "00000A4A|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMMPlacesFalionsHouse"
+ },
+ {
+  "original": "The Exposed Miner",
+  "string": "Беззащитный шахтер",
+  "form_id": "0000095C|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMM5MExposedMiner"
+ },
+ {
+  "original": "Bromjunaar Sanctuary",
+  "string": "Святилище Бромьунара",
+  "form_id": "000009FA|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMMPlacesDragonPriest"
+ },
+ {
+  "original": "Rift Imperial Camp",
+  "string": "Рифт - Имперский лагерь",
+  "form_id": "00016281|Skyrim.esm",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "MilitaryCampRiftImperialMapMarker"
+ },
+ {
+  "original": "Windpeak Inn",
+  "string": "Таверна Пик ветров",
+  "form_id": "00000A22|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMMTavernWindpeakInn"
+ },
+ {
+  "original": "Clearspring Cave",
+  "string": "Пещера Чистый Ручей",
+  "form_id": "000008C1|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "ClearspringCaveMapMarker_KRY"
+ },
+ {
+  "original": "Pinefall Bridge",
+  "string": "Мост Падающей Сосны",
+  "form_id": "000008E7|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMM8AAPinewatchBanditBridge"
+ },
+ {
+  "original": "Left Behind",
+  "string": "Брошенное",
+  "form_id": "00000B23|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMMBookLeftBehind"
+ },
+ {
+  "original": "Yorgrim Dragon Mound",
+  "string": "Йоргрим - Драконий курган",
+  "form_id": "0000097B|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMM3QDragonMound"
+ },
+ {
+  "original": "Corpselight Farm",
+  "string": "Ферма Свеча покойника",
+  "form_id": "00000A31|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMMFarmFalkreath"
+ },
+ {
+  "original": "Sunken Fishing Boat",
+  "string": "Затонувшая рыбацкая лодка",
+  "form_id": "000008D9|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMM8IShipwreck"
+ },
+ {
+  "original": "Narzulbur Garden",
+  "string": "Нарзулбур - Огород",
+  "form_id": "00000A70|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMMFarmNarzulbur"
+ },
+ {
+  "original": "Forsworn Ambush Camp",
+  "string": "Лагерь засады Изгоев",
+  "form_id": "000008F6|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMM1BForswornCamp"
+ },
+ {
+  "original": "Yngol Barrow Exit",
+  "string": "Выход из кургана Ингола",
+  "form_id": "00000A66|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMMExitYngolBarrow"
+ },
+ {
+  "original": "Reachwater River Camp",
+  "string": "Лагерь у реки близ Озерного утеса",
+  "form_id": "00000955|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMM5SForswornCamp"
+ },
+ {
+  "original": "Pirates Wreckage",
+  "string": "Обломки пиратского корабля",
+  "form_id": "00000A3D|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMMWildernessPiratesWreckage"
+ },
+ {
+  "original": "Nordic Burial Ruins",
+  "string": "Руины нордского захоронения",
+  "form_id": "000008F9|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMM1GBurialRuins"
+ },
+ {
+  "original": "Ruined Toll",
+  "string": "Разрушенная застава",
+  "form_id": "00000923|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMM6WWispmothersWell"
+ },
+ {
+  "original": "Steamed Goods",
+  "string": "Пропаренный товар",
+  "form_id": "00000B22|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMMBookSteamedGoods"
+ },
+ {
+  "original": "Shrine of Talos",
+  "string": "Святилище Талоса",
+  "form_id": "00000937|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMM9GShrineTalos"
+ },
+ {
+  "original": "Winterhold Imperial Camp",
+  "string": "Винтерхолд - Имперский лагерь",
+  "form_id": "0001627D|Skyrim.esm",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "MilitaryCampWinterholdImperialMapMarker"
+ },
+ {
+  "original": "Sulphur Pools Camp",
+  "string": "Лагерь у серных источников",
+  "form_id": "00000941|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMM7IHuntersCamp"
+ },
+ {
+  "original": "Sabre Cat Rock",
+  "string": "Скала саблезуба",
+  "form_id": "00000909|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMM2FSabreCatRock"
+ },
+ {
+  "original": "Archer's Perch",
+  "string": "Насест лучника",
+  "form_id": "00000B46|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMMWildernessArchersPerch"
+ },
+ {
+  "original": "Fetid Pond",
+  "string": "Зловонный пруд",
+  "form_id": "00000918|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMM6FFetidPond"
+ },
+ {
+  "original": "Helgen Escape Tunnel",
+  "string": "Хелген - Подземный ход",
+  "form_id": "00000A85|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMMExitHelgenEscapeTunnel"
+ },
+ {
+  "original": "Shrine of Talos",
+  "string": "Святилище Талоса",
+  "form_id": "00000924|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMM6TShrineTalos"
+ },
+ {
+  "original": "Sulphur Stash",
+  "string": "Тайник у серных источников",
+  "form_id": "00000B35|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMMWildernessSulphurStash"
+ },
+ {
+  "original": "Yorgrim Forest Spider Trap",
+  "string": "Паучья ловушка в лесу Йоргрим",
+  "form_id": "00000979|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMM3OSpiderTrap"
+ },
+ {
+  "original": "Stumped",
+  "string": "Тайник в пне",
+  "form_id": "00000B2A|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMMBookStumped"
+ },
+ {
+  "original": "Treasure Location IV",
+  "string": "Место клада IV",
+  "form_id": "000009FD|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMMTreasureMap4"
+ },
+ {
+  "original": "Forelhost Balcony",
+  "string": "Форелхост - Балкон",
+  "form_id": "00000A6B|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMMExitForelhostBalcony"
+ },
+ {
+  "original": "Fort Sungard Bloody Pit",
+  "string": "Форт Сангард - Кровавая яма",
+  "form_id": "00000B45|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMMExitFortSungardBloodyPit"
+ },
+ {
+  "original": "River Rapids Treasure Chest",
+  "string": "Сундук у речных порогов",
+  "form_id": "00000958|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMM5WTreasureChest"
+ },
+ {
+  "original": "Necromancer's Bluff",
+  "string": "Утес некроманта",
+  "form_id": "0000091D|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMM6MNecromancersAltar"
+ },
+ {
+  "original": "Shimmermist Hills Dragon Mound",
+  "string": "Холмы Мерцающий Туман - Драконий курган",
+  "form_id": "00000977|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMM3MDragonMound"
+ },
+ {
+  "original": "Cliffside Seclusion",
+  "string": "Уединение на утесе",
+  "form_id": "00000B21|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMMBookCliffsideSeclusion"
+ },
+ {
+  "original": "Pale Stormcloak Camp",
+  "string": "Белый Берег - Лагерь Братьев Бури",
+  "form_id": "0001627C|Skyrim.esm",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "MilitaryCampPaleSonsMapMarker"
+ },
+ {
+  "original": "Robber's Gorge Bluffs Dragon Mound",
+  "string": "Утесы Теснины Грабителя - Драконий курган",
+  "form_id": "0000090A|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMM2GDragonMound"
+ },
+ {
+  "original": "Thaumaturgist's Hut",
+  "string": "Хижина тауматурга",
+  "form_id": "00000A48|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMMShopThaumaturgistsHut"
+ },
+ {
+  "original": "Treasure Location V",
+  "string": "Место клада V",
+  "form_id": "00000A01|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMMTreasureMap5"
+ },
+ {
+  "original": "Grave Concoctions",
+  "string": "Мертвым припарки",
+  "form_id": "00000A47|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMMShopGraveConcoctions"
+ },
+ {
+  "original": "Fisherman's Island",
+  "string": "Остров рыбака",
+  "form_id": "000008D6|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMM8QFishermansIsland"
+ },
+ {
+  "original": "Mzulft Foothills Dragon Mound",
+  "string": "Предгорья Мзулфта - Драконий курган",
+  "form_id": "00000945|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMM7TDragonMound"
+ },
+ {
+  "original": "White River",
+  "string": "Белая река",
+  "form_id": "00000AB2|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMMWaterwayWhiteRiver"
+ },
+ {
+  "original": "Falkreath Stormcloak Camp",
+  "string": "Фолкрит - Лагерь Братьев Бури",
+  "form_id": "00016282|Skyrim.esm",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "MilitaryCampFalkreathSonsMapMarker"
+ },
+ {
+  "original": "Pinewatch Outcrop",
+  "string": "Скалы у Сосновой заставы",
+  "form_id": "000008E6|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMM8UWildAnimalDen"
+ },
+ {
+  "original": "Toadstool Ring",
+  "string": "Грибной круг",
+  "form_id": "000008DB|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMM8BToadstoolRing"
+ },
+ {
+  "original": "Dead Man's Drink",
+  "string": "Мертвецкий мед",
+  "form_id": "00000A1D|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMMTavernDeadMansDrink"
+ },
+ {
+  "original": "Cowflop Farm",
+  "string": "Ферма Коровья Лепешка",
+  "form_id": "00000A32|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMMFarmReldithRorikstead"
+ },
+ {
+  "original": "Robber's Cove",
+  "string": "Пещера Грабителя",
+  "form_id": "00000A8A|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMMExitRobbersCove"
+ },
+ {
+  "original": "Log of Learning",
+  "string": "Бревно знаний",
+  "form_id": "00000B24|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMMBookLogOfLearning"
+ },
+ {
+  "original": "Lake Honrich",
+  "string": "Озеро Хонрик",
+  "form_id": "00000AAB|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMMWaterwayLakeHonrich"
+ },
+ {
+  "original": "Arcwind Point Ruins",
+  "string": "Ветровая Дуга - Руины",
+  "form_id": "00000A39|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMMWildernessArcwindPointRuins"
+ },
+ {
+  "original": "Howling Wolf's Folly",
+  "string": "Каприз Воющего Волка",
+  "form_id": "000008FB|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMM1CHowlingWolfTower"
+ },
+ {
+  "original": "The Conjurer's Altar",
+  "string": "Алтарь колдуна",
+  "form_id": "000008D5|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMM8VConjurersAltar"
+ },
+ {
+  "original": "Sabre Cat's Lair",
+  "string": "Логово саблезуба",
+  "form_id": "000008FA|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMM1ESabreCatLair"
+ },
+ {
+  "original": "Waterfall Alcove",
+  "string": "Ниша у водопада",
+  "form_id": "00000B3F|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMMWildernessWaterfallAlcove"
+ },
+ {
+  "original": "Tiny Alcove",
+  "string": "Крохотная ниша",
+  "form_id": "00000B2C|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMMBookTinyAlcove"
+ },
+ {
+  "original": "Bthardamz Outskirts Camp",
+  "string": "Лагерь на окраине Бтардамза",
+  "form_id": "00000968|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMM5GForswornCamp"
+ },
+ {
+  "original": "Hjaalmarch Stormcloak Camp",
+  "string": "Хьялмарк - Лагерь Братьев Бури",
+  "form_id": "0001627A|Skyrim.esm",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "MilitaryCampHjaalmarchSonsMapMarker"
+ },
+ {
+  "original": "Pinemoon Bear Lair",
+  "string": "Медвежье логово у Лунного Бора",
+  "form_id": "000008F5|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMM1DBearLair"
+ },
+ {
+  "original": "Burning Farmhouse",
+  "string": "Горящий фермерский дом",
+  "form_id": "00000927|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMM9XBurningFarmhouse"
+ },
+ {
+  "original": "Skulvar's Farm",
+  "string": "Ферма Скульвара",
+  "form_id": "00000A5B|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMMFarmSkulvars"
+ },
+ {
+  "original": "Ruunvald Temple",
+  "string": "Рунвальд - Храм",
+  "form_id": "00000BE7|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLDG010RuunvaldTemple"
+ },
+ {
+  "original": "Karth River",
+  "string": "Река Карт",
+  "form_id": "00000AB3|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMMWaterwayKarthRiver"
+ },
+ {
+  "original": "Treasure Hunter's Camp",
+  "string": "Лагерь охотника за сокровищами",
+  "form_id": "00000933|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMM9DHuntersCamp"
+ },
+ {
+  "original": "Pinewatch Heights Camp",
+  "string": "Лагерь на высотах у Сосновой заставы",
+  "form_id": "000008E8|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMM8ABBanditCamp"
+ },
+ {
+  "original": "Silus Vesuius's House",
+  "string": "Дом Сила Весула",
+  "form_id": "00000A4D|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMMPlacesSilusVesuiusHouse"
+ },
+ {
+  "original": "Markarth Khajiit Caravan",
+  "string": "Маркарт - Каджитский караван",
+  "form_id": "00000A15|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMMCaravanMarkarth"
+ },
+ {
+  "original": "The Expired Alchemist",
+  "string": "Почивший алхимик",
+  "form_id": "00000914|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMM6CExpiredAlchemist"
+ },
+ {
+  "original": "Shrine of Kynareth",
+  "string": "Святилище Кинарет",
+  "form_id": "0000090C|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMM2MShrineKynareth"
+ },
+ {
+  "original": "Morthal Cemetery",
+  "string": "Морфал - Кладбище",
+  "form_id": "00000A49|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMMWildernessMorthalCemetery"
+ },
+ {
+  "original": "Sabre Cat Ravine",
+  "string": "Овраг саблезубов",
+  "form_id": "00000965|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMM5KSabreCatRavine"
+ },
+ {
+  "original": "Mzinchaleft Gatehouse",
+  "string": "Мзинчалефт - Привратное помещение",
+  "form_id": "00000A99|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMMExitMzinchaleftGatehouse"
+ },
+ {
+  "original": "Dawnstar Troll Den",
+  "string": "Логово тролля у Данстара",
+  "form_id": "0000096C|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMM3GTrollDen"
+ },
+ {
+  "original": "The Mauled Refugees",
+  "string": "Растерзанные беженцы",
+  "form_id": "000008EB|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMM8AF"
+ },
+ {
+  "original": "Mammoth Graveyard",
+  "string": "Кладбище мамонтов",
+  "form_id": "00000976|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMM3KMammothGraveyard"
+ },
+ {
+  "original": "Fort Snowhawk Prison",
+  "string": "Форт Сноухок - Тюрьма",
+  "form_id": "00000A98|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMMExitFortSnowhawk"
+ },
+ {
+  "original": "Lone Mountain Dragon Mound",
+  "string": "Одинокая гора - Драконий курган",
+  "form_id": "00000912|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMM6ODragonMound"
+ },
+ {
+  "original": "The Braidwood Inn",
+  "string": "Таверна Деревянное кружево",
+  "form_id": "00000A23|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMMTavernBraidwoodInn"
+ },
+ {
+  "original": "Gloomreach Pathway Camp",
+  "string": "Лагерь на тропе к Мрачному Пределу",
+  "form_id": "00000951|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMM5YForswornCamp"
+ },
+ {
+  "original": "Island Knowledge",
+  "string": "Островные знания",
+  "form_id": "00000B2B|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMMBookIslandKnowledge"
+ },
+ {
+  "original": "Lylvieve's Garden",
+  "string": "Огород Лилвив",
+  "form_id": "00000A35|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMMFarmDragonBridge"
+ },
+ {
+  "original": "Ilinalta Foothills Camp",
+  "string": "Лагерь в предгорьях Илиналты",
+  "form_id": "000008D4|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMM8XBanditCamp"
+ },
+ {
+  "original": "Steamcrag Slopes Camp",
+  "string": "Лагерь на Паровых склонах",
+  "form_id": "00000947|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMM7PHuntersCamp"
+ },
+ {
+  "original": "Lod's Blacksmithing",
+  "string": "Кузница Лода",
+  "form_id": "00000B1E|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMMPlacesLodsBlacksmithing"
+ },
+ {
+  "original": "Birch Book",
+  "string": "Книга у березы",
+  "form_id": "00000B25|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMMBookBirchBook"
+ },
+ {
+  "original": "Corner Stash",
+  "string": "Тайник в углу",
+  "form_id": "00000B38|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMMWildernessCornerStash"
+ },
+ {
+  "original": "Roadside Shrine of Mara",
+  "string": "Придорожное святилище Мары",
+  "form_id": "00000973|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMM3JShrineMara"
+ },
+ {
+  "original": "Top of the World",
+  "string": "На вершине мира",
+  "form_id": "00000A44|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMMWildernessTopOfTheWorld"
+ },
+ {
+  "original": "Moorside Inn",
+  "string": "Таверна Верески",
+  "form_id": "00000A20|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMMTavernMoorsideInn"
+ },
+ {
+  "original": "Ruined Docks",
+  "string": "Разрушенная пристань",
+  "form_id": "00000BE4|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLDG007RuinedDocks"
+ },
+ {
+  "original": "Reach Imperial Camp",
+  "string": "Предел - Имперский лагерь",
+  "form_id": "00016277|Skyrim.esm",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "MilitaryCampReachImperialMapMarker"
+ },
+ {
+  "original": "Redbelly Iron Mine",
+  "string": "Красная шахта (железо)",
+  "form_id": "00000B41|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMMMineRedbellyIron"
+ },
+ {
+  "original": "Ironbind Barrow Overlook",
+  "string": "Курган Железный - Высота",
+  "form_id": "00000A67|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMMExitIronbindBarrow"
+ },
+ {
+  "original": "Eastmarch Imperial Camp",
+  "string": "Истмарк - Имперский лагерь",
+  "form_id": "00095A08|Skyrim.esm",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "MilitaryCampEastmarchImperialMapMarker"
+ },
+ {
+  "original": "Deadwood Mill",
+  "string": "Лесопилка Сухое дерево",
+  "form_id": "000009F2|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMMMillFalkreath"
+ },
+ {
+  "original": "Pincushion Peter",
+  "string": "Питер-Игольница",
+  "form_id": "000008F8|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMM1FPincushionPeter"
+ },
+ {
+  "original": "War Camp",
+  "string": "Военный лагерь",
+  "form_id": "00000A92|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMMWildernessWarCampWhiterun"
+ },
+ {
+  "original": "Purewater Run Lost Treasure",
+  "string": "Потерянное сокровище у Чистого ручья",
+  "form_id": "00000954|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMM5RLostTreasure"
+ },
+ {
+  "original": "Marshdeep Mill",
+  "string": "Лесопилка Глубокая Топь",
+  "form_id": "000009ED|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMMMillMorthal"
+ },
+ {
+  "original": "Hamvir's Summit Camp",
+  "string": "Лагерь на вершине Хамвира",
+  "form_id": "0000090E|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMM2SHuntersCamp"
+ },
+ {
+  "original": "Hall of Countenance",
+  "string": "Зал поддержки",
+  "form_id": "00000A81|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMMPlacesHallOfCountenance"
+ },
+ {
+  "original": "Shrine of Stendarr",
+  "string": "Святилище Стендарра",
+  "form_id": "00000919|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMM6IShrineStendarr"
+ },
+ {
+  "original": "Mor Khazgur Garden",
+  "string": "Мор Казгур - Огород",
+  "form_id": "00000A52|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMMFarmMorKhazgur"
+ },
+ {
+  "original": "Lake Geir",
+  "string": "Озеро Гейр",
+  "form_id": "00000AAF|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMMWaterwayLakeGeir"
+ },
+ {
+  "original": "Collapsed Burial Ground",
+  "string": "Обрушившееся захоронение",
+  "form_id": "000008FF|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMM2NBurialGround"
+ },
+ {
+  "original": "Lake Ilinalta",
+  "string": "Озеро Илиналта",
+  "form_id": "00000AB6|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMMWaterwayLakeIlinalta"
+ },
+ {
+  "original": "Great Henge Dragon Mound",
+  "string": "Великий кромлех - Драконий курган",
+  "form_id": "00000920|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMM6KDragonMound"
+ },
+ {
+  "original": "Burning Caravan",
+  "string": "Горящий караван",
+  "form_id": "000008DF|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMM8FBurningCaravan"
+ },
+ {
+  "original": "Alchemist's Camp",
+  "string": "Лагерь алхимика",
+  "form_id": "000008E2|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMM8KAlchemistsCamp"
+ },
+ {
+  "original": "Potema's Secluded Chamber",
+  "string": "Потайной покой Потемы",
+  "form_id": "00000B0B|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMMExitPotemaSecludedChamber"
+ },
+ {
+  "original": "Rkund Troll Den",
+  "string": "Логово тролля у Ркунда",
+  "form_id": "00000939|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMM9OTrollDen"
+ },
+ {
+  "original": "Shrine of Talos",
+  "string": "Святилище Талоса",
+  "form_id": "0000093F|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMM7EShrineTalos"
+ },
+ {
+  "original": "White River Watch Overlook",
+  "string": "Приречная застава - Высота",
+  "form_id": "00000A8E|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMMExitWhiteRiverWatch"
+ },
+ {
+  "original": "Lemkil's Farm",
+  "string": "Ферма Лемкила",
+  "form_id": "00000A33|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMMFarmLemkilRorikstead"
+ },
+ {
+  "original": "Whiterun Stormcloak Camp",
+  "string": "Вайтран - Лагерь Братьев Бури",
+  "form_id": "00095885|Skyrim.esm",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "MilitaryCampWhiterunSonsMapMarker"
+ },
+ {
+  "original": "Steamscorch Moldavite Mine",
+  "string": "Шахта Горячий Пар (молдавит)",
+  "form_id": "000008D1|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMMMineSteamscorchMoldavite"
+ },
+ {
+  "original": "Draugr Burial Mound",
+  "string": "Могильный курган драугров",
+  "form_id": "00000901|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMM2JBurialMound"
+ },
+ {
+  "original": "Sleeping Giant Inn",
+  "string": "Таверна Спящий великан",
+  "form_id": "00000A21|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMMTavernSleepingGiantInn"
+ },
+ {
+  "original": "Cradle Stone Crag",
+  "string": "Скала у башни Кредлстоун",
+  "form_id": "0000094F|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMM5ABCradleStoneCrag"
+ },
+ {
+  "original": "Evergreen Woods Dragon Mound",
+  "string": "Вечнозеленый лес - Драконий курган",
+  "form_id": "000008E1|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMM8LDragonMound"
+ },
+ {
+  "original": "Trapper's Dilemma",
+  "string": "Дилемма зверолова",
+  "form_id": "0000092B|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMM9STrapperDilemma"
+ },
+ {
+  "original": "Wilderness Cache VI",
+  "string": "Тайник в глуши VI",
+  "form_id": "00000BEF|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLDGCache6Winterhold"
+ },
+ {
+  "original": "Wilderness Cache II",
+  "string": "Тайник в глуши II",
+  "form_id": "00000BEC|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLDGCache2StendarrsShrine"
+ },
+ {
+  "original": "Ghost Barrow",
+  "string": "Призрачный курган",
+  "form_id": "000008FE|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMM2QGhostBarrow"
+ },
+ {
+  "original": "Darkwater River",
+  "string": "Река Черного Брода",
+  "form_id": "00000AB7|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMMWaterwayDarkwaterRiver"
+ },
+ {
+  "original": "River Luck",
+  "string": "Речная удача",
+  "form_id": "00000A9D|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMMWildernessRiverLuck"
+ },
+ {
+  "original": "Bounty Island",
+  "string": "Остров Щедрости",
+  "form_id": "00000AA3|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMMWildernessBountyIsland"
+ },
+ {
+  "original": "Adventurer's Campsite",
+  "string": "Стоянка искателя приключений",
+  "form_id": "00000908|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMM2EAdventurersCamp"
+ },
+ {
+  "original": "Winterhold Stormcloak Camp",
+  "string": "Винтерхолд - Лагерь Братьев Бури",
+  "form_id": "0001627E|Skyrim.esm",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "MilitaryCampWinterholdSonsMapMarker"
+ },
+ {
+  "original": "Totem to the Dragon",
+  "string": "Тотем дракону",
+  "form_id": "00000964|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMM5LDragonAltar"
+ },
+ {
+  "original": "Lost Load",
+  "string": "Потерянный груз",
+  "form_id": "00000A56|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMMWildernessLostLoad"
+ },
+ {
+  "original": "Emblem II",
+  "string": "Надпись II",
+  "form_id": "00000A77|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMMShrines7002"
+ },
+ {
+  "original": "White River Hills Camp",
+  "string": "Лагерь на холмах Белой реки",
+  "form_id": "00000A09|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMM6U"
+ },
+ {
+  "original": "Wild Animal Den",
+  "string": "Логово диких зверей",
+  "form_id": "00000B43|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMMWildernessWildAnimalDen"
+ },
+ {
+  "original": "Trius's Camp",
+  "string": "Лагерь Триуса",
+  "form_id": "00000A42|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMMWildernessTriusCamp"
+ },
+ {
+  "original": "Emblem VII",
+  "string": "Надпись VII",
+  "form_id": "00000A7C|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMMShrines7007"
+ },
+ {
+  "original": "Shrine of Akatosh",
+  "string": "Святилище Акатоша",
+  "form_id": "00000943|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMM7RShrineAkatosh"
+ },
+ {
+  "original": "Dark Elf's Grave",
+  "string": "Могила темного эльфа",
+  "form_id": "000008D8|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMM8JDarkElfsGrave"
+ },
+ {
+  "original": "Lake Yorgrim",
+  "string": "Озеро Йоргрим",
+  "form_id": "00000AB0|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMMWaterwayLakeYorgrim"
+ },
+ {
+  "original": "Harmugstahl Falls",
+  "string": "Водопад у Хармугстала",
+  "form_id": "0000095F|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMM5CDwarvenArch"
+ },
+ {
+  "original": "Dunmeth Pass Camp",
+  "string": "Лагерь у Врат Данмет",
+  "form_id": "0000094D|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMM7KHuntersCamp"
+ },
+ {
+  "original": "Riverwood Trader",
+  "string": "Ривервудский торговец",
+  "form_id": "00000A45|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMMShopRiverwoodTrader"
+ },
+ {
+  "original": "Snow Veil Sanctum Exit",
+  "string": "Выход из святилища Снежной Завесы",
+  "form_id": "00000A65|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMMExitSnowVeilSanctum"
+ },
+ {
+  "original": "Khajiit Caravan Massacre",
+  "string": "Резня каджитского каравана",
+  "form_id": "000008F1|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMM8AG"
+ },
+ {
+  "original": "Forgotten Stash",
+  "string": "Забытый тайник",
+  "form_id": "00000A3B|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMMWildernessForgottenStash"
+ },
+ {
+  "original": "Peak Plunder",
+  "string": "Добыча на пике",
+  "form_id": "00000B2F|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMMBookPeakPlunder"
+ },
+ {
+  "original": "Orphan's Overhang",
+  "string": "Навес сироты",
+  "form_id": "000008F0|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMM8AH"
+ },
+ {
+  "original": "Raldbthar",
+  "string": "Ральдбтхар",
+  "form_id": "00090595|Skyrim.esm",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": null
+ },
+ {
+  "original": "Autumnshade Hills Camp",
+  "string": "Лагерь на холмах Осенней тени",
+  "form_id": "0000092F|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMM9NHuntersCamp"
+ },
+ {
+  "original": "Four Shields Tavern",
+  "string": "Таверна Четыре щита",
+  "form_id": "00000A1F|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMMTavernFourShieldsTavern"
+ },
+ {
+  "original": "Reeking Cave",
+  "string": "Дымящаяся пещера",
+  "form_id": "00000A9E|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMMExitReekingCave"
+ },
+ {
+  "original": "Bandit Thief",
+  "string": "Бандит-вор",
+  "form_id": "00000A8D|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMMWildernessBanditThief"
+ },
+ {
+  "original": "Dushnikh Yal Garden",
+  "string": "Душник-Йал - Огород",
+  "form_id": "00000ABA|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMMFarmDushnikhYal"
+ },
+ {
+  "original": "Lost Tongue Pass Dragon Mound",
+  "string": "Перевал Откушенный Язык - Драконий курган",
+  "form_id": "0000093A|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMM9QDragonMound"
+ },
+ {
+  "original": "Toppled Tower",
+  "string": "Рухнувшая башня",
+  "form_id": "000008DE|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMM8EKnifepointToppledTower"
+ },
+ {
+  "original": "Dunmeth Pass Animal Den",
+  "string": "Логово зверей у Врат Данмет",
+  "form_id": "0000094E|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMM7JAnimalDen"
+ },
+ {
+  "original": "Emblem VI",
+  "string": "Надпись VI",
+  "form_id": "00000A7B|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMMShrines7006"
+ },
+ {
+  "original": "Dwarven Convector",
+  "string": "Двемерский конвектор",
+  "form_id": "00000B12|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMMPlacesDwarvenConvector"
+ },
+ {
+  "original": "Treasure Location VIII Chest",
+  "string": "Место клада VIII - Сундук",
+  "form_id": "00000A06|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMMTreasureMap8b"
+ },
+ {
+  "original": "Bloodlet Peaks Dragon Mound",
+  "string": "Кровавые пики - Драконий курган",
+  "form_id": "000008F3|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMM8AIDragonMound"
+ },
+ {
+  "original": "Land Grab",
+  "string": "Захват земли",
+  "form_id": "00000A58|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMMWildernessLandGrab"
+ },
+ {
+  "original": "East Empire Company Warehouse",
+  "string": "Склад Восточной имперской компании",
+  "form_id": "000008BE|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "EastEmpireWarehouseMapMarker_KRY"
+ },
+ {
+  "original": "Falkreath Imperial Camp",
+  "string": "Фолкрит - Имперский лагерь",
+  "form_id": "00016283|Skyrim.esm",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "MilitaryCampFalkreathImperialMapMarker"
+ },
+ {
+  "original": "Sunken Treasures",
+  "string": "Затонувшие сокровища",
+  "form_id": "0000096F|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMM3BShipwreck"
+ },
+ {
+  "original": "Forgotten Pirate",
+  "string": "Забытый пират",
+  "form_id": "00000A3C|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMMWildernessForgottenPirate"
+ },
+ {
+  "original": "Guardian Stones Camp",
+  "string": "Лагерь у Камней-хранителей",
+  "form_id": "000008D3|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMM8WHuntersCamp"
+ },
+ {
+  "original": "Skybound Underhang Camp",
+  "string": "Лагерь под горным навесом",
+  "form_id": "000008EF|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMM8ZBanditCamp"
+ },
+ {
+  "original": "Lost to the Current",
+  "string": "Унесенное течением",
+  "form_id": "00000A3F|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMMWildernessLostToTheCurrent"
+ },
+ {
+  "original": "Haul of the Horkers",
+  "string": "Хоркерова добыча",
+  "form_id": "00000981|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMM4QHorkerHaul"
+ },
+ {
+  "original": "Solitude Arch",
+  "string": "Арка Солитьюда",
+  "form_id": "00000B14|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMMExitSolitudeArch"
+ },
+ {
+  "original": "Northern Maiden",
+  "string": "Северная дева",
+  "form_id": "00000C34|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLDBPlaceNorthernMaidenWindhelm"
+ },
+ {
+  "original": "Forgotten Vale",
+  "string": "Забытая долина",
+  "form_id": "00000C03|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLDGToForgottenVale"
+ },
+ {
+  "original": "Wilderness Cache IX",
+  "string": "Тайник в глуши IX",
+  "form_id": "00000BF3|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLDGCache9Karthwasten"
+ },
+ {
+  "original": "Wilderness Cache VIII",
+  "string": "Тайник в глуши VIII",
+  "form_id": "00000BF2|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLDGCache8Volskygee"
+ },
+ {
+  "original": "Wilderness Cache VII",
+  "string": "Тайник в глуши VII",
+  "form_id": "00000BF1|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLDGCache7Solitude"
+ },
+ {
+  "original": "Wilderness Cache V",
+  "string": "Тайник в глуши V",
+  "form_id": "00000BF0|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLDGCache5NightgateInn"
+ },
+ {
+  "original": "Wilderness Cache IV",
+  "string": "Тайник в глуши IV",
+  "form_id": "00000BEE|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLDGCache4Morthal"
+ },
+ {
+  "original": "Dimhollow Cavern",
+  "string": "Пещера Ночной Пустоты",
+  "form_id": "00000BE6|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLDG009DimhallowCavern"
+ },
+ {
+  "original": "Ferryman Gort",
+  "string": "Лодочник Горт",
+  "form_id": "00000B6B|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLDG005FerrymanGort"
+ },
+ {
+  "original": "Dayspring Canyon",
+  "string": "Ущелье Утренней Зари",
+  "form_id": "00000B67|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLDG001DayspringCanyon"
+ },
+ {
+  "original": "Sacked Bandit",
+  "string": "Ограбленный бандит",
+  "form_id": "00000B48|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMMWildernessSackedBandit"
+ },
+ {
+  "original": "Woodcutter's Loss",
+  "string": "Потеря дровосека",
+  "form_id": "00000B47|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMMWildernessWoodCuttersLoss"
+ },
+ {
+  "original": "Standing Stone Ruins",
+  "string": "Руины у стоячего камня",
+  "form_id": "00000B44|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMMWildernessStandingStoneRuins"
+ },
+ {
+  "original": "Swept Away",
+  "string": "Унесенное водой",
+  "form_id": "00000B3B|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMMWildernessSweptAway"
+ },
+ {
+  "original": "Runaway Cart",
+  "string": "Сбежавшая телега",
+  "form_id": "00000B31|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMMBookRunawayCart"
+ },
+ {
+  "original": "Hollow Find",
+  "string": "Находка в дупле",
+  "form_id": "00000B30|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMMBookHollowFind"
+ },
+ {
+  "original": "Scenic Tower",
+  "string": "Живописная башня",
+  "form_id": "00000B2E|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMMBookScenicTower"
+ },
+ {
+  "original": "Knifepoint Corundum Mine",
+  "string": "Шахта Острие Ножа (корунд)",
+  "form_id": "00000ABB|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMMMineKnifepointCorundum"
+ },
+ {
+  "original": "Fallen Tree",
+  "string": "Упавшее дерево",
+  "form_id": "00000B29|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMMBookFallenTree"
+ },
+ {
+  "original": "Cold Meditation",
+  "string": "Холодная медитация",
+  "form_id": "00000B28|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMMBookColdMeditation"
+ },
+ {
+  "original": "Rustleif's Blacksmithing",
+  "string": "Кузница Рустлейфа",
+  "form_id": "00000B1C|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMMPlacesRustleifBlacksmith"
+ },
+ {
+  "original": "Alvor's Blacksmithing",
+  "string": "Кузница Алвора",
+  "form_id": "00000B19|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMMPlacesAlvorsBlacksmith"
+ },
+ {
+  "original": "Wet Plunder",
+  "string": "Мокрая добыча",
+  "form_id": "00000B16|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMMWildernessWetPlunder"
+ },
+ {
+  "original": "Penitus Oculatus Outpost",
+  "string": "Пост Пенитус Окулатус",
+  "form_id": "00000B0C|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMMPlacesPenitusOculatus"
+ },
+ {
+  "original": "Knifepoint Iron Mine",
+  "string": "Шахта Острие Ножа (железо)",
+  "form_id": "00000ABC|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMMMineKnifepointIron"
+ },
+ {
+  "original": "Mountain Supplies",
+  "string": "Горные припасы",
+  "form_id": "00000B2D|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMMBookMountainSupplies"
+ },
+ {
+  "original": "River Hjaal",
+  "string": "Река Хьял",
+  "form_id": "00000AB4|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMMWaterwayRiverHjaal"
+ },
+ {
+  "original": "Halted Stream Iron Mine",
+  "string": "Шахта Чистых Родников (железо)",
+  "form_id": "00000AAA|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMMMineHaltedStream"
+ },
+ {
+  "original": "Abandoned Prison Escape Hatch",
+  "string": "Заброшенная тюрьма - Люк",
+  "form_id": "00000AA7|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMMExitAbandonedPrison"
+ },
+ {
+  "original": "Fort Fellhammer Iron Mine",
+  "string": "Форт Феллхаммер - Шахты (железо)",
+  "form_id": "00000AA6|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMMMineFortFellhammer"
+ },
+ {
+  "original": "Rockwallow Iron Mine",
+  "string": "Шахта Качающийся Камень (железо)",
+  "form_id": "00000AA5|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMMMineRockwallow"
+ },
+ {
+  "original": "Kilkreath Ruins",
+  "string": "Килкрит - Руины",
+  "form_id": "00000AA4|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMMPlacesKilkreathRuins"
+ },
+ {
+  "original": "Misty Goods",
+  "string": "Туманный товар",
+  "form_id": "00000AA1|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMMWildernessMistyGoods"
+ },
+ {
+  "original": "Fort Neugrad Prison",
+  "string": "Форт Нойград - Тюрьма",
+  "form_id": "00000A9F|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMMExitFortNeugrad"
+ },
+ {
+  "original": "Shrine of Akatosh",
+  "string": "Святилище Акатоша",
+  "form_id": "00000A9C|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMMShrineAkatoshSkyborn"
+ },
+ {
+  "original": "Embershard Mine Exit",
+  "string": "Выход из Факельной шахты",
+  "form_id": "00000A97|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMMExitEmbershardMine"
+ },
+ {
+  "original": "Rannveig's Fast Exit",
+  "string": "Выход из Обители Раннвейг",
+  "form_id": "00000A96|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMMExitRannveigsFast"
+ },
+ {
+  "original": "Haemar's Shame Exit",
+  "string": "Выход из пещеры Хеймара",
+  "form_id": "00000A94|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMMExitHaemarsShame"
+ },
+ {
+  "original": "Imperial Shipment",
+  "string": "Имперский груз",
+  "form_id": "00000A93|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMMWildernessWarCampHjaalmarch"
+ },
+ {
+  "original": "Dawnstar Sanctuary",
+  "string": "Данстарское убежище",
+  "form_id": "00000A91|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMMPlacesDawnstarSanctuary"
+ },
+ {
+  "original": "Ennodius's Camp",
+  "string": "Лагерь Эннодия",
+  "form_id": "00000A88|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMMWildernessEnnodiusCamp"
+ },
+ {
+  "original": "Alftand Ruined Tower",
+  "string": "Альфтанд - Разрушенная башня",
+  "form_id": "00000A87|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMMExitAlftandRuinedTower"
+ },
+ {
+  "original": "Dragon Feeding Grounds",
+  "string": "Драконья кормушка",
+  "form_id": "00000A86|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMMWildernessDragonFeedingGrounds"
+ },
+ {
+  "original": "Shrine of Dibella",
+  "string": "Святилище Дибеллы",
+  "form_id": "00000A83|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMMShrineDibellaLuckys"
+ },
+ {
+  "original": "Hall of Attainment",
+  "string": "Зал достижений",
+  "form_id": "00000A80|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMMPlacesHallOfAttainment"
+ },
+ {
+  "original": "Emblem IX",
+  "string": "Надпись IX",
+  "form_id": "00000A7E|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMMShrines7009"
+ },
+ {
+  "original": "Emblem V",
+  "string": "Надпись V",
+  "form_id": "00000A7A|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMMShrines7005"
+ },
+ {
+  "original": "Emblem IV",
+  "string": "Надпись IV",
+  "form_id": "00000A79|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMMShrines7004"
+ },
+ {
+  "original": "Emblem III",
+  "string": "Надпись III",
+  "form_id": "00000A78|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMMShrines7003"
+ },
+ {
+  "original": "Emblem I",
+  "string": "Надпись I",
+  "form_id": "00000A76|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMMShrines7001"
+ },
+ {
+  "original": "Dawnstar Lighthouse",
+  "string": "Данстар - Маяк",
+  "form_id": "00000A72|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMMPlacesDawnstarLighthouse"
+ },
+ {
+  "original": "Toadstool Ring",
+  "string": "Грибной круг",
+  "form_id": "00000A6F|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMMWildernessToadstoolRing"
+ },
+ {
+  "original": "Bear Hunter's Camp",
+  "string": "Лагерь охотника на медведей",
+  "form_id": "00000A3E|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMMWildernessHuntersCamp"
+ },
+ {
+  "original": "Stillborn Cave Exit",
+  "string": "Выход из пещеры Мертворожденного",
+  "form_id": "00000A64|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMMExitStillbornCave"
+ },
+ {
+  "original": "Ysgramor's Tomb Exit",
+  "string": "Выход из гробницы Исграмора",
+  "form_id": "00000A63|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMMExitYsgramorsTomb"
+ },
+ {
+  "original": "Volskygge Peak",
+  "string": "Пик Вольскигге",
+  "form_id": "00000A62|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMMExitVolskyggePeak"
+ },
+ {
+  "original": "Treva's Watch Escape Tunnel",
+  "string": "Тайный ход Тревской заставы",
+  "form_id": "00000A61|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMMExitTrevasWatchEscapeTunnel"
+ },
+ {
+  "original": "Ilinalta's Deluge",
+  "string": "Воды Илиналты",
+  "form_id": "00000A60|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMMExitIlinaltasDeluge"
+ },
+ {
+  "original": "Darkwater Pass Exit",
+  "string": "Выход из Черного прохода",
+  "form_id": "00000A5F|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMMExitDarkwaterPass"
+ },
+ {
+  "original": "Dwarven Storeroom",
+  "string": "Кладовая гномов",
+  "form_id": "00000A5E|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMMExitDwarvenStoreroom"
+ },
+ {
+  "original": "Mzulft Aedrome",
+  "string": "Мзулфт",
+  "form_id": "00000A5D|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMMExitMzulftAedome"
+ },
+ {
+  "original": "Goldenglow Estate Sewer",
+  "string": "Поместье Златоцвет - Коллектор",
+  "form_id": "00000A57|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMMPlacesGoldenglowEstateSewer"
+ },
+ {
+  "original": "Kynesgrove Farm",
+  "string": "Роща Кин - Ферма",
+  "form_id": "00000A54|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMMFarmKynesgrove"
+ },
+ {
+  "original": "Riverwood Garden",
+  "string": "Ривервуд - Огород",
+  "form_id": "00000A53|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMMFarmRiverwood"
+ },
+ {
+  "original": "Dawnstar Ferry",
+  "string": "Данстар - Паром",
+  "form_id": "00000A4E|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMMPlacesNorthstarPort"
+ },
+ {
+  "original": "The Mortar and Pestle",
+  "string": "Ступка и пестик",
+  "form_id": "00000A4C|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMMShopMortarAndPestle"
+ },
+ {
+  "original": "Cliffside Camp",
+  "string": "Лагерь на утесе",
+  "form_id": "00000A40|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMMWildernessCliffsideHunterCamp"
+ },
+ {
+  "original": "Labyrinthian Tribune",
+  "string": "Лабиринтиан, Трибуна",
+  "form_id": "00000A68|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMMExitLabyrinthian"
+ },
+ {
+  "original": "Arcwind Point Altar",
+  "string": "Ветровая Дуга - Алтарь",
+  "form_id": "00000A3A|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMMWildernessArcwindPointAltar"
+ },
+ {
+  "original": "Hall of the Elements",
+  "string": "Зал стихий",
+  "form_id": "00000A30|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMMPlacesHallOfElements"
+ },
+ {
+  "original": "Plankside",
+  "string": "Дощатая набережная",
+  "form_id": "00000A2F|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMMPlacesPlanksideRiften"
+ },
+ {
+  "original": "Jarls Longhouse",
+  "string": "Длинный дом ярла",
+  "form_id": "00000A2D|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMMPlacesJarlsLonghouseFalkreath"
+ },
+ {
+  "original": "The White Hall",
+  "string": "Белый зал",
+  "form_id": "00000A2B|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMMPlacesWhiteHall"
+ },
+ {
+  "original": "Vilemyr Inn",
+  "string": "Таверна Вайлмир",
+  "form_id": "00000A1C|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMMTavernVilemyrInn"
+ },
+ {
+  "original": "Solitude Khajiit Caravan",
+  "string": "Солитьюд - Каджитский караван",
+  "form_id": "00000A19|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMMCaravanSolitude"
+ },
+ {
+  "original": "Riften Khajiit Caravan",
+  "string": "Рифтен - Каджитский караван",
+  "form_id": "00000A17|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMMCaravanRiften"
+ },
+ {
+  "original": "Whiterun Khajiit Caravan",
+  "string": "Вайтран - Каджитский караван",
+  "form_id": "00000A14|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMMCaravanWhiterun"
+ },
+ {
+  "original": "Falkreath Hall of the Dead",
+  "string": "Фолкрит - Зал мертвых",
+  "form_id": "00000A0F|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMMHallFalkreath"
+ },
+ {
+  "original": "Ivarstead Mill",
+  "string": "Айварстед - Лесопилка",
+  "form_id": "00000A0B|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMMMillIvarstead"
+ },
+ {
+  "original": "Treasure Location VIII Key",
+  "string": "Место клада VIII - Ключ",
+  "form_id": "00000A07|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMMTreasureMap8a"
+ },
+ {
+  "original": "Treasure Location X",
+  "string": "Место клада X",
+  "form_id": "00000A05|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMMTreasureMap10"
+ },
+ {
+  "original": "Treasure Location IX",
+  "string": "Место клада IX",
+  "form_id": "00000A04|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMMTreasureMap9"
+ },
+ {
+  "original": "Treasure Location VII",
+  "string": "Место клада VII",
+  "form_id": "00000A03|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMMTreasureMap7"
+ },
+ {
+  "original": "Treasure Location VI",
+  "string": "Место клада VI",
+  "form_id": "00000A02|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMMTreasureMap6"
+ },
+ {
+  "original": "Treasure Location III",
+  "string": "Место клада III",
+  "form_id": "00000A00|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMMTreasureMap3"
+ },
+ {
+  "original": "Treasure Location",
+  "string": "Место клада",
+  "form_id": "000009FF|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMMTreasureMap"
+ },
+ {
+  "original": "Steamscorch Malachite Mine",
+  "string": "Шахта Горячий Пар (малахит)",
+  "form_id": "000009E5|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMMMineSteamscorch"
+ },
+ {
+  "original": "Quicksilver Mine",
+  "string": "Ртутная шахта",
+  "form_id": "000009E0|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMMMineQuicksilver"
+ },
+ {
+  "original": "Mor Khazgur Orichalcum Mine",
+  "string": "Шахта Мор Казгур (орихалк)",
+  "form_id": "000009DC|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMMMineMorKhazgur"
+ },
+ {
+  "original": "Sanuarach Silver Mine",
+  "string": "Шахта Сануарах (серебро)",
+  "form_id": "000009DB|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMMMineSanuarach"
+ },
+ {
+  "original": "Fenn's Gulch Silver Mine",
+  "string": "Шахта Ущелье Фенна (серебро)",
+  "form_id": "000009D8|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMMMineFenns"
+ },
+ {
+  "original": "Medresi's Camp",
+  "string": "Лагерь Медреси",
+  "form_id": "000009CE|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMM9HMedresisCamp"
+ },
+ {
+  "original": "Shine of Arkay",
+  "string": "Святилище Аркея",
+  "form_id": "00000999|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMM4W"
+ },
+ {
+  "original": "Sunken Barrow",
+  "string": "Затопленный курган",
+  "form_id": "00000998|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMM8RSunkenBarrow"
+ },
+ {
+  "original": "Wreck of the Silvermoon",
+  "string": "Место крушения Серебряной луны",
+  "form_id": "00000997|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMM8OShipwreck"
+ },
+ {
+  "original": "Frozen Mammoth",
+  "string": "Замерзший мамонт",
+  "form_id": "00000991|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMM4GFrozenMammoth"
+ },
+ {
+  "original": "Fellhammer Overlook Camp",
+  "string": "Лагерь на высоте у Феллхаммера",
+  "form_id": "0000098F|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMM4BHuntersOverlook"
+ },
+ {
+  "original": "Fellhammer Wastes",
+  "string": "Пустоши Феллхаммера",
+  "form_id": "0000098E|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMM4CWolfDen"
+ },
+ {
+  "original": "Avalanche Pass",
+  "string": "Лавинный перевал",
+  "form_id": "0000098D|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMM4VAvalanchePass"
+ },
+ {
+  "original": "Mount Anthor Summit",
+  "string": "Вершина горы Антор",
+  "form_id": "0000098C|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMM4IDwarvenMonument"
+ },
+ {
+  "original": "Wet Bones",
+  "string": "Мокрые кости",
+  "form_id": "0000098A|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMM4HWetBones"
+ },
+ {
+  "original": "Shrine of Talos",
+  "string": "Святилище Талоса",
+  "form_id": "00000989|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMM4FShrineTalos"
+ },
+ {
+  "original": "Yisra's Beachside Combustion",
+  "string": "Пляжное возгорание Исры",
+  "form_id": "00000988|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMM4DBeachsideCombustion"
+ },
+ {
+  "original": "The Iceberg Explorer",
+  "string": "Исследователь айсбергов",
+  "form_id": "00000987|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMM4EIcebergExplorer"
+ },
+ {
+  "original": "Shrine of Talos",
+  "string": "Святилище Талоса",
+  "form_id": "00000986|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMM4JShrineTalos"
+ },
+ {
+  "original": "The Chill",
+  "string": "Холодная",
+  "form_id": "00000984|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMM4MChillCave"
+ },
+ {
+  "original": "Trapped for Eternity",
+  "string": "Пойман навеки",
+  "form_id": "00000983|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMM4NTrappedEternity"
+ },
+ {
+  "original": "Rundi's Mistake",
+  "string": "Ошибка Рунди",
+  "form_id": "00000982|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMM4ORundisMistake"
+ },
+ {
+  "original": "Glacier's Edge Camp",
+  "string": "Лагерь у края ледника",
+  "form_id": "00000980|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMM4PHuntersCamp"
+ },
+ {
+  "original": "Seashore of Ghosts Camp",
+  "string": "Лагерь на берегу моря Призраков",
+  "form_id": "0000097E|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMM4RHuntersCamp"
+ },
+ {
+  "original": "Ill-Gotten Gains",
+  "string": "Нечестная добыча",
+  "form_id": "0000097D|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMM4TIllGottenGains"
+ },
+ {
+  "original": "Slaughterfish Bay Camp",
+  "string": "Лагерь у залива рыб-убийц",
+  "form_id": "0000097C|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMM4UFishermansCamp"
+ },
+ {
+  "original": "Wayward Peak Summit",
+  "string": "Вершина у перевала Странника",
+  "form_id": "0000097A|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMM3PPeakSummit"
+ },
+ {
+  "original": "Julianos' Fallen",
+  "string": "Павшие Джулианоса",
+  "form_id": "00000978|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMM3NShrineJulianos"
+ },
+ {
+  "original": "Ice Shard Animal Den",
+  "string": "Логово зверей у Ледяного осколка",
+  "form_id": "00000975|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMM3LAnimalDen"
+ },
+ {
+  "original": "A Bloody Trail",
+  "string": "Кровавый след",
+  "form_id": "00000974|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMM3IBloodyTrail"
+ },
+ {
+  "original": "Shoreline Camp",
+  "string": "Лагерь на берегу",
+  "form_id": "00000972|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMM3FBanditCamp"
+ },
+ {
+  "original": "Sea Shore Foothills Dragon Mound",
+  "string": "Прибрежные предгорья - Драконий курган",
+  "form_id": "00000971|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMM3DDragonMound"
+ },
+ {
+  "original": "Bandit's Hovel",
+  "string": "Лачуга бандита",
+  "form_id": "00000970|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMM3CBanditsHovel"
+ },
+ {
+  "original": "Horker Standing Stones",
+  "string": "Стоячие камни хоркеров",
+  "form_id": "0000096E|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMM3AHorkerStandingStones"
+ },
+ {
+  "original": "Barnacle Boat",
+  "string": "Лодка в ракушках",
+  "form_id": "0000096D|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMM3EShipwreck"
+ },
+ {
+  "original": "Salvius Farm Trail Dwarven Rubble",
+  "string": "Двемерские обломки у тропы к ферме Салвиев",
+  "form_id": "00000969|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMM5ODawrvenRubble"
+ },
+ {
+  "original": "Ragnvald Vale Dragon Mound",
+  "string": "Долина Рагнвальда - Драконий курган",
+  "form_id": "00000966|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMM5IDragonMound"
+ },
+ {
+  "original": "The Incautious Bather",
+  "string": "Неосторожный купальщик",
+  "form_id": "00000962|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMM5DIncautiousBather"
+ },
+ {
+  "original": "Druadach Dwarven Rubble",
+  "string": "Двемерские обломки у Друадаха",
+  "form_id": "00000961|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMM5ADwarvenRubble"
+ },
+ {
+  "original": "A Bandit's Book",
+  "string": "Книга бандита",
+  "form_id": "0000095E|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMM5EBanditsBook"
+ },
+ {
+  "original": "Karth River Confluence",
+  "string": "Слияние реки Карт",
+  "form_id": "0000095D|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMM5FRiverConfluence"
+ },
+ {
+  "original": "Riverside Brush Strongbox",
+  "string": "Сундучок в прибрежных кустах",
+  "form_id": "0000095B|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMM5QRiversideStrongbox"
+ },
+ {
+  "original": "Shrine of Zenithar",
+  "string": "Святилище Зенитара",
+  "form_id": "0000095A|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMM5PShrineZenithar"
+ },
+ {
+  "original": "Karthspire Bluffs Dragon Mound",
+  "string": "Утесы Картспайра - Драконий курган",
+  "form_id": "00000956|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMM5TDragonMound"
+ },
+ {
+  "original": "Reachwind Burial Mound",
+  "string": "Могильный курган у Гнезда Ветров Предела",
+  "form_id": "00000953|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMM5XBurialMound"
+ },
+ {
+  "original": "Juniper Tree Ruins",
+  "string": "Руины у можжевельника",
+  "form_id": "00000950|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMM5AAJuniperTreeRuins"
+ },
+ {
+  "original": "Kynesgrove Dragon Mound",
+  "string": "Роща Кин - Драконий курган",
+  "form_id": "0000094C|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMM7HDragonMound"
+ },
+ {
+  "original": "Bonestrewn Crest Dragon Mound",
+  "string": "Скелетный гребень - Драконий курган",
+  "form_id": "0000094B|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMM7LDragonMound"
+ },
+ {
+  "original": "Cronvangr Summoning Altar",
+  "string": "Алтарь призыва у Кронвангра",
+  "form_id": "0000094A|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMM7MSummoningAltar"
+ },
+ {
+  "original": "Witchmist Grove Dragon Mound",
+  "string": "Роща Ведьмин Туман - Драконий курган",
+  "form_id": "00000949|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMM7NDragonMound"
+ },
+ {
+  "original": "Witchmist Sulphur Pool",
+  "string": "Серный источник у рощи Ведьмин Туман",
+  "form_id": "00000948|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMM7OSulphurPool"
+ },
+ {
+  "original": "The Mournful Giant",
+  "string": "Скорбящий великан",
+  "form_id": "00000944|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMM7SMournfulGiant"
+ },
+ {
+  "original": "Mistwatch Folly",
+  "string": "Каприз Туманной заставы",
+  "form_id": "00000942|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMM7QMistwatchTower"
+ },
+ {
+  "original": "Lucky Lorenz's Shack",
+  "string": "Хижина Счастливчика Лоренца",
+  "form_id": "00000940|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMM7ALorenzsShack"
+ },
+ {
+  "original": "Mara's Eye Stones",
+  "string": "Камни Глаз Мары",
+  "form_id": "0000093E|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMM7CMarasEyeStones"
+ },
+ {
+  "original": "Shrine of Talos",
+  "string": "Святилище Талоса",
+  "form_id": "0000093C|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMM7BShrineTalos"
+ },
+ {
+  "original": "Autumnwatch Woods Dragon Mound",
+  "string": "Леса Осенней стражи - Драконий курган",
+  "form_id": "00000938|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMM9FDragonMound"
+ },
+ {
+  "original": "Woodcutter's Camp",
+  "string": "Лагерь дровосека",
+  "form_id": "00000935|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMM9BWoodcuttersCamp"
+ },
+ {
+  "original": "The Poultry Reanimator",
+  "string": "Куриный реаниматор",
+  "form_id": "00000934|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMM9CPoultryReanimator"
+ },
+ {
+  "original": "Treasure Island",
+  "string": "Остров сокровищ",
+  "form_id": "00000932|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMM9ETreasureIsland"
+ },
+ {
+  "original": "Autumnshade Woods Dragon Mound",
+  "string": "Леса Осенней тени - Драконий курган",
+  "form_id": "00000930|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMM9MDragonMound"
+ },
+ {
+  "original": "Altar in the Woods",
+  "string": "Алтарь в лесу",
+  "form_id": "0000092E|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMM9LWoodsAltar"
+ },
+ {
+  "original": "Northwind Chest",
+  "string": "Сундук Северного Ветра",
+  "form_id": "0000092D|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMM9KNorthwindChest"
+ },
+ {
+  "original": "Swamp Pond Massacre",
+  "string": "Резня у болотного пруда",
+  "form_id": "00000903|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMM2HSwampPondMassacre"
+ },
+ {
+  "original": "Shrine of Zenithar",
+  "string": "Святилище Зенитара",
+  "form_id": "0000092A|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMM9VShrineZenithar"
+ },
+ {
+  "original": "The Three Sentinels",
+  "string": "Три стража",
+  "form_id": "00000929|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMM9UThreeSentinelsFort"
+ },
+ {
+  "original": "Jerall Mountain Ridge",
+  "string": "Хребет Джерольских гор",
+  "form_id": "00000926|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMM9YTrollDen"
+ },
+ {
+  "original": "Big Log Bridge",
+  "string": "Мост из большого бревна",
+  "form_id": "00000922|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMM6VBigLogBridge"
+ },
+ {
+  "original": "Bloodied Box",
+  "string": "Окровавленный ящик",
+  "form_id": "0000091F|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMM6NBloodiedBox"
+ },
+ {
+  "original": "King of the Mudcrabs",
+  "string": "Король грязевых крабов",
+  "form_id": "0000091B|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMM6HKingMudcrabs"
+ },
+ {
+  "original": "Shrine of Zenithar",
+  "string": "Святилище Зенитара",
+  "form_id": "0000091A|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMM6GShrineZenithar"
+ },
+ {
+  "original": "Shrine of Zenithar",
+  "string": "Святилище Зенитара",
+  "form_id": "00000917|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMM6EShrineZenithar"
+ },
+ {
+  "original": "Rorikstead Dragon Mound",
+  "string": "Рорикстед - Драконий курган",
+  "form_id": "00000916|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMM6BDragonMound"
+ },
+ {
+  "original": "Hunter and Hunted",
+  "string": "Охотник и добыча",
+  "form_id": "00000913|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMM6DHunterHunted"
+ },
+ {
+  "original": "The Lad of the Lake",
+  "string": "Владыка озера",
+  "form_id": "00000910|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMM6QLadofLake"
+ },
+ {
+  "original": "Smuggler's Den",
+  "string": "Логово контрабандиста",
+  "form_id": "0000090F|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMM6RSmugglersDen"
+ },
+ {
+  "original": "Karth River Forest Dragon Mound",
+  "string": "Лес у реки Карт - Драконий курган",
+  "form_id": "00000906|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMM2CDragonMound"
+ },
+ {
+  "original": "Riverside Camp",
+  "string": "Лагерь у реки",
+  "form_id": "00000905|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMM2BBanditCamp"
+ },
+ {
+  "original": "Karth River Henge",
+  "string": "Кромлех у реки Карт",
+  "form_id": "00000904|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMM2AKarthRiverAltar"
+ },
+ {
+  "original": "Shor's Outcrop",
+  "string": "Скалы Шора",
+  "form_id": "0000092C|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMM9RAnimalDen"
+ },
+ {
+  "original": "Smuggler's Alcove",
+  "string": "Ниша контрабандиста",
+  "form_id": "00000902|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMM2ISmugglersCamp"
+ },
+ {
+  "original": "Summoning Stones",
+  "string": "Камни призыва",
+  "form_id": "00000900|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMM2KSummoningStones"
+ },
+ {
+  "original": "The Conjurer's Caravan",
+  "string": "Караван колдуна",
+  "form_id": "000008FD|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMM2RConjurersCaravan"
+ },
+ {
+  "original": "Black Arts Burial Ground",
+  "string": "Захоронение черной магии",
+  "form_id": "000008FC|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMM2OBurialGround"
+ },
+ {
+  "original": "The Headless Skeleton",
+  "string": "Безголовый скелет",
+  "form_id": "000008F2|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMM8AJHeadlessSkeleton"
+ },
+ {
+  "original": "Riverwood Folly",
+  "string": "Каприз Ривервуда",
+  "form_id": "000008EE|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMM8TRiverwoodFollyTower"
+ },
+ {
+  "original": "The Indigestible Emerald",
+  "string": "Неперевариваемый изумруд",
+  "form_id": "000008ED|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMM8SIndigestibleEmerald"
+ },
+ {
+  "original": "Shrine of Talos",
+  "string": "Святилище Талоса",
+  "form_id": "000008EC|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMM8YShrineTalos"
+ },
+ {
+  "original": "Nordic Burial Grove",
+  "string": "Нордская погребальная роща",
+  "form_id": "000008E5|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMM8PBurialGrove"
+ },
+ {
+  "original": "Bear Cave",
+  "string": "Медвежья пещера",
+  "form_id": "000008E4|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMM8NBearCave"
+ },
+ {
+  "original": "A Peddler's Misfortune",
+  "string": "Беда торговца",
+  "form_id": "000008DA|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMM8DPeddlersMisfortune"
+ },
+ {
+  "original": "Steamscorch Glass Mine",
+  "string": "Шахта Горячий Пар (стекло)",
+  "form_id": "000008D0|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMMMineSteamscorchGlass"
+ },
+ {
+  "original": "Knifepoint Copper Mine",
+  "string": "Шахта Острие Ножа (медь)",
+  "form_id": "000008CE|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMMMineKnifepointCopper"
+ },
+ {
+  "original": "Goldenrock Copper Mine",
+  "string": "Шахта Золотая Скала (медь)",
+  "form_id": "000008CD|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMMMineGoldenRockCopper"
+ },
+ {
+  "original": "Katla's Farm",
+  "string": "Ферма Катлы",
+  "form_id": "000008BF|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "KatlasFarmMapMarker_KRY"
+ },
+ {
+  "original": "Shrine of Dibella",
+  "string": "Святилище Дибеллы",
+  "form_id": "00000990|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMM4AShrineDibella"
+ },
+ {
+  "original": "Pinewatch Ridge Camp",
+  "string": "Лагерь на хребте у Сосновой заставы",
+  "form_id": "000008F4|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMM8ACHuntersCamp"
+ },
+ {
+  "original": "Shrine of Mara",
+  "string": "Святилище Мары",
+  "form_id": "00000A6E|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMMShrineMaraReach"
+ },
+ {
+  "original": "Iron-Breaker Mine",
+  "string": "Железорудная шахта",
+  "form_id": "000009E1|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMMMineIronBreaker"
+ },
+ {
+  "original": "Windhelm Plateau Camp",
+  "string": "Лагерь на плато у Виндхельма",
+  "form_id": "00000A0A|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMM7F"
+ },
+ {
+  "original": "Sunken Shipwreck",
+  "string": "Затонувший корабль",
+  "form_id": "00000BE9|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLDG013SunkenShipwreck"
+ },
+ {
+  "original": "Shriekwind Overlook",
+  "string": "Кричащий Ветер",
+  "form_id": "00000B13|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMMExitShreikwindOverlook"
+ },
+ {
+  "original": "Lair of the Wispmother",
+  "string": "Логово матери-дымки",
+  "form_id": "00000963|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMM5JWispmotherLair"
+ },
+ {
+  "original": "Highmoon Hall",
+  "string": "Зал Высокой Луны",
+  "form_id": "00000A2C|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMMPlacesJarlsLonghouseMorthral"
+ },
+ {
+  "original": "Ambushed Caravan",
+  "string": "Караван в засаде",
+  "form_id": "00000907|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMM2DAmbushedCaravan"
+ },
+ {
+  "original": "Shrine of Akatosh",
+  "string": "Святилище Акатоша",
+  "form_id": "00000915|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMM6AShrineAkatosh"
+ },
+ {
+  "original": "Rift Stormcloak Camp",
+  "string": "Рифт - Лагерь Братьев Бури",
+  "form_id": "00016280|Skyrim.esm",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "MilitaryCampRiftSonsMapMarker"
+ },
+ {
+  "original": "Lucky Log",
+  "string": "Счастливое бревно",
+  "form_id": "00000B32|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMMWildernessLuckyLog"
+ },
+ {
+  "original": "Riverwood Mill",
+  "string": "Ривервуд - Лесопилка",
+  "form_id": "000009EE|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMMMillRiverwood"
+ },
+ {
+  "original": "Sacrificial Altar",
+  "string": "Жертвенный алтарь",
+  "form_id": "000008E3|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMM8MSacrificialAltar"
+ },
+ {
+  "original": "Mithril Mine",
+  "string": "Мифриловая шахта",
+  "form_id": "000008CF|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMMMineQuicksilverMithril"
+ },
+ {
+  "original": "Grey Pine Goods",
+  "string": "Товарный склад Серые сосны",
+  "form_id": "00000A46|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMMShopGreyPineGoods"
+ },
+ {
+  "original": "Hunter's Last Stand",
+  "string": "Последний бой охотника",
+  "form_id": "0000097F|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMM4SHuntersLastStand"
+ },
+ {
+  "original": "Reachwater Pass Dragon Mound",
+  "string": "Перевал у Озерного утеса - Драконий курган",
+  "form_id": "00000960|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMM5BDragonMound"
+ },
+ {
+  "original": "Whiterun Imperial Camp",
+  "string": "Вайтран - Имперский лагерь",
+  "form_id": "00016284|Skyrim.esm",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "MilitaryCampWhiterunImperialMapMarker"
+ },
+ {
+  "original": "Old Homestead",
+  "string": "Старая усадьба",
+  "form_id": "00000A41|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMMWildernessOldHomestead"
+ },
+ {
+  "original": "Raldbthar Deep Market",
+  "string": "Ральдбтхар - Рынок",
+  "form_id": "00000A69|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMMExitRaldbthar"
+ },
+ {
+  "original": "Bilegulch Ridge Dragon Mound",
+  "string": "Хребет у Желчной шахты - Драконий курган",
+  "form_id": "000008DC|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMM8ADragonMound"
+ },
+ {
+  "original": "Abandoned Cave",
+  "string": "Заброшенная пещера",
+  "form_id": "00000A8B|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMMExitAbandonedCave"
+ },
+ {
+  "original": "Stone Goods",
+  "string": "Каменный товар",
+  "form_id": "00000B33|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMMWildernessStoneGoods"
+ },
+ {
+  "original": "Hjaalmarch Imperial Camp",
+  "string": "Хьялмарк - Имперский лагерь",
+  "form_id": "00016279|Skyrim.esm",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "MilitaryCampHjaalmarchImperialMapMarker"
+ },
+ {
+  "original": "Frostfruit Inn",
+  "string": "Таверна Мороженый фрукт",
+  "form_id": "00000A1E|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMMTavernFrostfruitInn"
+ },
+ {
+  "original": "Fellstar Farm",
+  "string": "Ферма Звездопад",
+  "form_id": "00000A34|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMMFarmBotiIvarstead"
+ },
+ {
+  "original": "Goldenrock Corundum Mine",
+  "string": "Шахта Золотая Скала (корунд)",
+  "form_id": "00000A1B|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMMMineGoldenRock"
+ },
+ {
+  "original": "Dragon Bridge Lumber Camp",
+  "string": "Драконий Мост - Поселок лесорубов",
+  "form_id": "000009F0|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMMMillDragonBridge"
+ },
+ {
+  "original": "Stormcloak Shipment",
+  "string": "Груз Братьев Бури",
+  "form_id": "00000A90|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMMWildernessWarCampRift"
+ },
+ {
+  "original": "Emblem VIII",
+  "string": "Надпись VIII",
+  "form_id": "00000A7D|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMMShrines7008"
+ },
+ {
+  "original": "Puzzling Pillar Ruins",
+  "string": "Руины с загадочными колоннами",
+  "form_id": "0000091E|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMM6LPuzzlingPillarRuins"
+ },
+ {
+  "original": "Reach Stormcloak Camp",
+  "string": "Предел - Лагерь Братьев Бури",
+  "form_id": "00016276|Skyrim.esm",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "MilitaryCampReachSonsMapMarker"
+ },
+ {
+  "original": "Northern Henge",
+  "string": "Северный кромлех",
+  "form_id": "00000B42|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMMWildernessNorthernHenge"
+ },
+ {
+  "original": "Wilderness Cache III",
+  "string": "Тайник в глуши III",
+  "form_id": "00000BEB|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLDGCache3Whiterun"
+ },
+ {
+  "original": "Altar of Xrib",
+  "string": "Алтарь Зриба",
+  "form_id": "0000098B|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMM4LAltarXrib"
+ },
+ {
+  "original": "Treva River",
+  "string": "Река Трева",
+  "form_id": "00000AAD|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMMWaterwayTrevaRiver"
+ },
+ {
+  "original": "River Loot",
+  "string": "Речная добыча",
+  "form_id": "00000B34|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMMWildernessRiverLoot"
+ },
+ {
+  "original": "Surplus Goods",
+  "string": "Излишки товара",
+  "form_id": "00000B26|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMMBookSurplusGoods"
+ },
+ {
+  "original": "Crossroads Cart",
+  "string": "Телега на перекрестке",
+  "form_id": "00000B37|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMMWildernessRoadsideCart"
+ },
+ {
+  "original": "Halted Stream Pit",
+  "string": "Яма у Чистых Родников",
+  "form_id": "00000A8C|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMMExitHaltedStreamPit"
+ },
+ {
+  "original": "Uttering Hills Troll Den",
+  "string": "Говорящие Холмы - Логово тролля",
+  "form_id": "0000093D|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMM7DTrollDen"
+ },
+ {
+  "original": "Sunderstone Camp",
+  "string": "Лагерь у Разделенного ущелья",
+  "form_id": "000008DD|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMM8CHunterCamp"
+ },
+ {
+  "original": "Bthardamz Arcanex",
+  "string": "Бтардамз - Арканекс",
+  "form_id": "00000A6A|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMMExitBthardamz"
+ },
+ {
+  "original": "Treasure Location II",
+  "string": "Место клада II",
+  "form_id": "000009FE|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMMTreasureMap2"
+ },
+ {
+  "original": "Arch-Mage's Quarters",
+  "string": "Покои архимага",
+  "form_id": "00000A82|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMMPlacesArchMageQuarters"
+ },
+ {
+  "original": "Swallowed Skeleton",
+  "string": "Проглоченный скелет",
+  "form_id": "0000091C|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMM6JSwallowedSkeleton"
+ },
+ {
+  "original": "Reachman's Altar",
+  "string": "Алтарь жителей Предела",
+  "form_id": "00000959|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMM5UReachmansAltar"
+ },
+ {
+  "original": "Crystaldrift Outcrop",
+  "string": "Скалы у Кристаллической пещеры",
+  "form_id": "0000093B|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMM9PAnimalDen"
+ },
+ {
+  "original": "Labyrinthian Peaks Dragon Mound",
+  "string": "Пики Лабиринтиана - Драконий курган",
+  "form_id": "0000090D|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMM2PDragonMound"
+ },
+ {
+  "original": "Roadside Ruins",
+  "string": "Придорожные руины",
+  "form_id": "00000B27|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMMBookRoadsideRuins"
+ },
+ {
+  "original": "Blacksmith Quarters",
+  "string": "Дом кузнеца",
+  "form_id": "00000AF4|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMMShopBlacksmithQuartersWindhelm"
+ },
+ {
+  "original": "Windhelm Hall of the Dead",
+  "string": "Виндхельм - Зал мертвых",
+  "form_id": "00000A11|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMMHallWindhelm"
+ },
+ {
+  "original": "Sadri's Used Wares",
+  "string": "Подержанные товары Садри",
+  "form_id": "00000A51|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMMShopSadrisUsedWares"
+ },
+ {
+  "original": "The White Phial",
+  "string": "Белый флакон",
+  "form_id": "00000AF7|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMMShopWhitePhial"
+ },
+ {
+  "original": "New Gnisis Cornerclub",
+  "string": "Клуб Новый Гнисис",
+  "form_id": "00000A2E|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMMPlacesNewGnisisCornerclub"
+ },
+ {
+  "original": "Temple of Talos",
+  "string": "Храм Талоса",
+  "form_id": "00000A12|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMMTempleOfTalos"
+ },
+ {
+  "original": "Windhelm Market",
+  "string": "Виндхельм - Рынок",
+  "form_id": "000009D6|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMMMarketWindhelm"
+ },
+ {
+  "original": "Hjerim",
+  "string": "Хьерим",
+  "form_id": "000009C9|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMMHomeHjerim"
+ },
+ {
+  "original": "Palace of the Kings",
+  "string": "Королевский дворец",
+  "form_id": "000C44B3|Skyrim.esm",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "WindhelmPalaceOfTheKingsMapMarker"
+ },
+ {
+  "original": "Candlehearth Hall",
+  "string": "Таверна Очаг и свеча",
+  "form_id": "00000A26|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMMTavernCandlehearthHall"
+ },
+ {
+  "original": "Calixto's House of Curiosities",
+  "string": "Музей редкостей Каликсто",
+  "form_id": "00000AF9|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMMPlacesCalixto"
+ },
+ {
+  "original": "Temple of Mara",
+  "string": "Храм Мары",
+  "form_id": "000009EC|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMMTempleOfMara"
+ },
+ {
+  "original": "Haelga's Bunkhouse",
+  "string": "Ночлежка Хельги",
+  "form_id": "00000B18|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMMTavernHaelgasBunkhouse"
+ },
+ {
+  "original": "Riften Hall of the Dead",
+  "string": "Рифтен - Зал мертвых",
+  "form_id": "00000B07|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMMHallRiften"
+ },
+ {
+  "original": "Honorhall Orphanage",
+  "string": "Благородный сиротский приют",
+  "form_id": "00000A50|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMMPlacesHonorhallOrphanage"
+ },
+ {
+  "original": "Shrine of Talos",
+  "string": "Святилище Талоса",
+  "form_id": "000009EB|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMMShrineTalosRiften"
+ },
+ {
+  "original": "The Scorched Hammer",
+  "string": "Обожженный молот",
+  "form_id": "00000AFD|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMMShopScorchedHammer"
+ },
+ {
+  "original": "Honeyside",
+  "string": "Медовик",
+  "form_id": "000009C5|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMMHomeHoneyside"
+ },
+ {
+  "original": "Pawned Prawn",
+  "string": "Заложенная креветка",
+  "form_id": "00000B00|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMMShopPawnedPrawn"
+ },
+ {
+  "original": "Elgrim's Elixirs",
+  "string": "Эликсиры Элгрима",
+  "form_id": "00000A4F|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMMShopElgrimsElixirs"
+ },
+ {
+  "original": "Riften Market",
+  "string": "Рифтен - Рынок",
+  "form_id": "000009D4|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMMMarketRiften"
+ },
+ {
+  "original": "The Bee and Barb",
+  "string": "Пчела и жало",
+  "form_id": "00000A25|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMMTavernBeeAndBarb"
+ },
+ {
+  "original": "Markarth Forge",
+  "string": "Маркарт - Кузница",
+  "form_id": "00000A13|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMMMillMarkarth"
+ },
+ {
+  "original": "Cidhna Silver Mine",
+  "string": "Шахта Сидна (серебро)",
+  "form_id": "000009F5|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMMMineCidhna"
+ },
+ {
+  "original": "Markarth Hall of the Dead",
+  "string": "Маркарт - Зал мертвых",
+  "form_id": "00000A1A|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMMHallMarkarth"
+ },
+ {
+  "original": "The Treasury House",
+  "string": "Сокровищница",
+  "form_id": "00000B05|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMMPlacesTreasuryHouse"
+ },
+ {
+  "original": "Vlindrel Hall",
+  "string": "Влиндрел-холл",
+  "form_id": "000009CC|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMMHomeVlindrelHall"
+ },
+ {
+  "original": "The Hag's Cure",
+  "string": "Ведьмина настойка",
+  "form_id": "00000B0F|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMMShopHagsCure"
+ },
+ {
+  "original": "Arnleif and Sons Trading Company",
+  "string": "Торговая компания Арнлейф и сыновья",
+  "form_id": "00000B02|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMMShopArnleifAndSons"
+ },
+ {
+  "original": "Shrine of Talos",
+  "string": "Святилище Талоса",
+  "form_id": "000009F6|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMMShrineTalosMarkarth"
+ },
+ {
+  "original": "Temple of Dibella",
+  "string": "Храм Дибеллы",
+  "form_id": "000009F4|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMMTempleOfDibella"
+ },
+ {
+  "original": "Silver-Blood Inn",
+  "string": "Таверна \"Серебряная Кровь\"",
+  "form_id": "00000A27|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMMTavernSilverBloodInn"
+ },
+ {
+  "original": "Whiterun Hall of the Dead",
+  "string": "Вайтран - Зал мертвых",
+  "form_id": "00000A10|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMMHallWhiterun"
+ },
+ {
+  "original": "Whiterun Market",
+  "string": "Вайтран - Рынок",
+  "form_id": "000009D2|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMMMarketWhiterun"
+ },
+ {
+  "original": "Arcadia's Cauldron",
+  "string": "Котелок Аркадии",
+  "form_id": "00000AFB|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMMShopArcadiasCauldron"
+ },
+ {
+  "original": "Jorrvaskr",
+  "string": "Йоррваскр",
+  "form_id": "000009E7|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMMPlacesJorrvaskr"
+ },
+ {
+  "original": "Temple of Kynareth",
+  "string": "Храм Кинарет",
+  "form_id": "000009F8|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMMTempleofKynareth"
+ },
+ {
+  "original": "Belethor's General Goods",
+  "string": "Товары Белетора",
+  "form_id": "00000AFA|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMMShopBelethorsGeneralGoods"
+ },
+ {
+  "original": "The Bannered Mare",
+  "string": "Гарцующая кобыла",
+  "form_id": "00000A28|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMMTavernBanneredMare"
+ },
+ {
+  "original": "Warmaiden's",
+  "string": "Дом воительницы",
+  "form_id": "00000A36|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMMShopWhiterunWarmaidens"
+ },
+ {
+  "original": "Shrine of Talos",
+  "string": "Святилище Талоса",
+  "form_id": "000009F7|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMMShrineTalosWhiterun"
+ },
+ {
+  "original": "Skyforge",
+  "string": "Небесная кузница",
+  "form_id": "00000A29|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMMPlacesSkyforge"
+ },
+ {
+  "original": "Drunken Huntsman",
+  "string": "Пьяный охотник",
+  "form_id": "00000A37|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMMShopDrunkenHuntsman"
+ },
+ {
+  "original": "Breezehome",
+  "string": "Дом теплых ветров",
+  "form_id": "000009AB|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMMHomeBreezehome"
+ },
+ {
+  "original": "Raldbthar Deep Market",
+  "string": "Ральдбтхар - Рынок",
+  "form_id": "00000B4E|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLBRRaldbtharDeepMarket"
+ },
+ {
+  "original": "Tower of Mzark",
+  "string": "Башня Мзарк",
+  "form_id": "00000B53|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLBRTowerOfMzark"
+ },
+ {
+  "original": "War Quarters",
+  "string": "Казармы",
+  "form_id": "00000B4B|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLBRWarQuarters"
+ },
+ {
+  "original": "Hall of Rumination Balcony",
+  "string": "Зал размышлений - Балкон",
+  "form_id": "00000B65|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLBRHallOfRuminationBalcony"
+ },
+ {
+  "original": "Reeking Tower Overlook",
+  "string": "Дымящаяся башня - Высота",
+  "form_id": "00000B57|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLBRReekingTowerOverlook"
+ },
+ {
+  "original": "Blackreach Arena",
+  "string": "Арена Черного Предела",
+  "form_id": "00000B4C|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLBRBlackreachArena"
+ },
+ {
+  "original": "Falmer Mining Camp",
+  "string": "Шахтерский лагерь фалмеров",
+  "form_id": "00000B52|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLBRFalmerMiningCamp"
+ },
+ {
+  "original": "Troll Den",
+  "string": "Логово тролля",
+  "form_id": "00000B4D|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLBRTrollDen"
+ },
+ {
+  "original": "Great Lift of Raldbthar",
+  "string": "Главный подъемник Ральдбтхара",
+  "form_id": "00000B50|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLBRRaldbtharGreatLift"
+ },
+ {
+  "original": "Vulthuryol's Gong",
+  "string": "Гонг Вультурьйола",
+  "form_id": "00000B66|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLBRVulthuryolsGong"
+ },
+ {
+  "original": "Hall of Rumination",
+  "string": "Зал размышлений",
+  "form_id": "00000B5F|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLBRHallOfRumination"
+ },
+ {
+  "original": "Derelict Pumphouse",
+  "string": "Заброшенная насосная станция",
+  "form_id": "00000B61|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLBRDerelictPumphouse"
+ },
+ {
+  "original": "Debate Hall",
+  "string": "Зал собраний",
+  "form_id": "00000B5E|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLBRDebateHall"
+ },
+ {
+  "original": "Pumping Station",
+  "string": "Насосная станция",
+  "form_id": "00000B5D|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLBRPumpingStation"
+ },
+ {
+  "original": "Silent City Catacombs",
+  "string": "Катакомбы Тихого города",
+  "form_id": "00000B5C|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLBRSilentCityCatacombs"
+ },
+ {
+  "original": "Great Lift of Alftand",
+  "string": "Главный подъемник Альфтанда",
+  "form_id": "00000B5B|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLBRAlftandGreatLift"
+ },
+ {
+  "original": "Alftand Cathedral",
+  "string": "Собор Альфтанд",
+  "form_id": "00000B5A|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLBRAlftandCathedral"
+ },
+ {
+  "original": "Sinderion's Field Laboratory",
+  "string": "Полевая лаборатория Синдериона",
+  "form_id": "00000B59|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLBRSinderionFieldLab"
+ },
+ {
+  "original": "Reeking Tower",
+  "string": "Дымящаяся башня",
+  "form_id": "00000B58|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLBRReekingTower"
+ },
+ {
+  "original": "Silent Ruin",
+  "string": "Безмолвные руины",
+  "form_id": "00000B56|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLBRSilentRuin"
+ },
+ {
+  "original": "Great Lift of Mzinchaleft",
+  "string": "Главный подъемник Мзинчалефта",
+  "form_id": "00000B55|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLBRMzinchaleftGreatLift"
+ },
+ {
+  "original": "Farm Overseer's House",
+  "string": "Дом смотрителя фермы",
+  "form_id": "00000B54|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLBRFarmOverseerHouse"
+ },
+ {
+  "original": "Derelict Pumphouse Lift",
+  "string": "Заброшенная насосная станция - Подъемник",
+  "form_id": "00000B4F|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLBRDerelictPumphouseElevator"
+ },
+ {
+  "original": "Wispmother's Dark Plunder",
+  "string": "Темная добыча матери-дымки",
+  "form_id": "00000B60|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLBRWispmothersDarkPlunder"
+ },
+ {
+  "original": "Dwarven Shrine",
+  "string": "Двемерское святилище",
+  "form_id": "00000B51|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLBRDwarvenShrine"
+ },
+ {
+  "original": "Mzinchaleft Gatehouse",
+  "string": "Мзинчалефт - Привратное помещение",
+  "form_id": "00000B4A|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLBRMzinchaleftGatehouse"
+ },
+ {
+  "original": "Skuldafn",
+  "string": "Скулдафн",
+  "form_id": "00000A5A|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMMPlacesSkuldafn"
+ },
+ {
+  "original": "Troll Loss",
+  "string": "Потеря тролля",
+  "form_id": "00000AA9|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMMWildernessTrollsLoss"
+ },
+ {
+  "original": "Nimble Gains",
+  "string": "Ловкая добыча",
+  "form_id": "00000A9A|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMMWildernessNimbleGains"
+ },
+ {
+  "original": "Bits and Pieces",
+  "string": "Всякая всячина",
+  "form_id": "00000AED|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMMShopBitsAndPieces"
+ },
+ {
+  "original": "The Winking Skeever",
+  "string": "Смеющаяся крыса",
+  "form_id": "00000A24|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMMTavernWinkingSkeever"
+ },
+ {
+  "original": "Solitude Blacksmith",
+  "string": "Солитьюд - Кузница",
+  "form_id": "00000AF0|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMMShopSolitudeBlacksmith"
+ },
+ {
+  "original": "Thalmor Headquarters",
+  "string": "Штаб-квартира Талмора",
+  "form_id": "00000AEF|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMMPlacesThalmorHeadquarters"
+ },
+ {
+  "original": "Radiant Raiment",
+  "string": "Сияющие одежды",
+  "form_id": "00000AEA|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMMShopRadiantRaiment"
+ },
+ {
+  "original": "Solitude Hall of the Dead",
+  "string": "Солитьюд - Зал мертвых",
+  "form_id": "00000A0E|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMMHallSolitude"
+ },
+ {
+  "original": "Solitude Market",
+  "string": "Солитьюд - Рынок",
+  "form_id": "00000A0D|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMMMarketSolitude"
+ },
+ {
+  "original": "Temple of the Divines",
+  "string": "Храм Богов",
+  "form_id": "000009FB|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMMTempleOfTheDivines"
+ },
+ {
+  "original": "Castle Dour",
+  "string": "Мрачный замок",
+  "form_id": "000009EA|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMMPlacesCastleDour"
+ },
+ {
+  "original": "Bards College",
+  "string": "Коллегия бардов",
+  "form_id": "000009E9|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMMPlacesBardsCollege"
+ },
+ {
+  "original": "Proudspire Manor",
+  "string": "Поместье Высокий шпиль",
+  "form_id": "000009C8|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMMHomeProudspire"
+ },
+ {
+  "original": "Angeline's Aromatics",
+  "string": "Ароматы Анжелины",
+  "form_id": "00000AE9|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMMShopAngelinesAromatics"
+ },
+ {
+  "original": "Fletcher Fihada",
+  "string": "Мастер луков Фиада",
+  "form_id": "00000AF3|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMMShopFletcherFihada"
+ },
+ {
+  "original": "Blue Palace",
+  "string": "Синий дворец",
+  "form_id": "000C44AB|Skyrim.esm",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SolitudeBluePalaceMapMarker"
+ },
+ {
+  "original": "Great Porch",
+  "string": "Драконий Предел, галерея",
+  "form_id": "00000A74|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMMPlacesGreatPorch"
+ },
+ {
+  "original": "Sea Cave",
+  "string": "Морская пещера",
+  "form_id": "00000A73|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMMExitSeaCave"
+ },
+ {
+  "original": "Lost in the Maze",
+  "string": "Заблудившийся в лабиринте",
+  "form_id": "00000B20|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMMBookLostInTheMaze"
+ },
+ {
+  "original": "Shalidor's Maze",
+  "string": "Лабиринт Шалидора",
+  "form_id": "00000A75|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLMMPlacesShalidorsMaze"
+ },
+ {
+  "original": "Bone Pile",
+  "string": "Груда костей",
+  "form_id": "00000BFE|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLDG008BonePile"
+ },
+ {
+  "original": "Wayshrine of Sight",
+  "string": "Дорожное святилище зрения",
+  "form_id": "00000BAB|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLDGFV12"
+ },
+ {
+  "original": "Forgotten Vale Overlook",
+  "string": "Забытая долина - Высота",
+  "form_id": "00000BB4|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLDGFV2H"
+ },
+ {
+  "original": "Skyrim",
+  "string": "Скайрим",
+  "form_id": "00000C05|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLDGToSkyrim"
+ },
+ {
+  "original": "Falmer Temple",
+  "string": "Храм фалмеров",
+  "form_id": "00000BE2|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLDGFV51"
+ },
+ {
+  "original": "Falmer Hut",
+  "string": "Хижина фалмеров",
+  "form_id": "00000BCD|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLDGFV3M"
+ },
+ {
+  "original": "Frozen Lake Ridge",
+  "string": "Хребет у замерзшего озера",
+  "form_id": "00000BC7|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLDGFV3O"
+ },
+ {
+  "original": "Auriel's Chapel and Wayshrine",
+  "string": "Часовня и дорожное святилище Ауриэля",
+  "form_id": "00000BE1|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLDGFV52"
+ },
+ {
+  "original": "Falmer Camp and Graveyard",
+  "string": "Лагерь и кладбище фалмеров",
+  "form_id": "00000BC2|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLDGFV3C"
+ },
+ {
+  "original": "Darkfall Grotto",
+  "string": "Вечерний грот",
+  "form_id": "00000BB1|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLDGFV2D"
+ },
+ {
+  "original": "Natural Fissure Bridge",
+  "string": "Природный мост через расщелину",
+  "form_id": "00000BC3|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLDGFV3D"
+ },
+ {
+  "original": "Wayshrine of Resolution",
+  "string": "Дорожное святилище решимости",
+  "form_id": "00000BB9|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLDGFV22"
+ },
+ {
+  "original": "Darkfall Passage",
+  "string": "Вечерний переход",
+  "form_id": "00000BAA|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLDGFV11"
+ },
+ {
+  "original": "Ruby Paragon Portal",
+  "string": "Портал рубинового парагона",
+  "form_id": "00000BDE|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLDGFV6A"
+ },
+ {
+  "original": "Natural Bridge",
+  "string": "Природный мост",
+  "form_id": "00000BBA|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLDGFV2R"
+ },
+ {
+  "original": "Overexuberant Ore Extractor",
+  "string": "Чересчур рьяный рудокоп",
+  "form_id": "00000BD9|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLDGFV4D"
+ },
+ {
+  "original": "Frost Giant Lair",
+  "string": "Логово ледяного великана",
+  "form_id": "00000BBE|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLDGFV2O"
+ },
+ {
+  "original": "Pilgrim's Path",
+  "string": "Путь паломника",
+  "form_id": "00000BA7|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLDGFV1A"
+ },
+ {
+  "original": "The Frozen Lake",
+  "string": "Замерзшее озеро",
+  "form_id": "00000BBF|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLDGFV2L"
+ },
+ {
+  "original": "Icy Swim",
+  "string": "Ледяное купание",
+  "form_id": "00000BF7|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLDG012IcySwim"
+ },
+ {
+  "original": "Frost Troll Den",
+  "string": "Логово ледяного тролля",
+  "form_id": "00000BE0|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLDGFV6B"
+ },
+ {
+  "original": "Falmer Warmonger",
+  "string": "Фалмер-наемник",
+  "form_id": "00000BDF|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLDGFV6C"
+ },
+ {
+  "original": "Falmer Fissure Village",
+  "string": "Деревня фалмеров в расщелине",
+  "form_id": "00000BDD|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLDGFV4G"
+ },
+ {
+  "original": "Falmer Fissure Village",
+  "string": "Деревня фалмеров в расщелине",
+  "form_id": "00000BDC|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLDGFV4F"
+ },
+ {
+  "original": "Falmer Fissure Village",
+  "string": "Деревня фалмеров в расщелине",
+  "form_id": "00000BDB|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLDGFV4E"
+ },
+ {
+  "original": "Upper Fissure Walls",
+  "string": "Верхние стены расщелины",
+  "form_id": "00000BD8|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLDGFV4C"
+ },
+ {
+  "original": "South Glacial Crevice",
+  "string": "Ледяная расщелина - Юг",
+  "form_id": "00000BD7|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLDGFV4A"
+ },
+ {
+  "original": "Frost Giant Lair",
+  "string": "Логово ледяного великана",
+  "form_id": "00000BD6|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLDGFV4B"
+ },
+ {
+  "original": "Fissure Tunnel East",
+  "string": "Туннель в расщелине - Восток",
+  "form_id": "00000BD5|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLDGFV4H"
+ },
+ {
+  "original": "Fissure Tunnel West",
+  "string": "Туннель в расщелине - Запад",
+  "form_id": "00000BD4|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLDGFV4I"
+ },
+ {
+  "original": "Wayshrine Falmer Camp",
+  "string": "Лагерь фалмеров у святилища",
+  "form_id": "00000BD3|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLDGFV4J"
+ },
+ {
+  "original": "Wayshrine of Radiance",
+  "string": "Дорожное святилище сияния",
+  "form_id": "00000BD2|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLDGFV41"
+ },
+ {
+  "original": "Bridge to Inner Sanctum",
+  "string": "Мост к Внутреннему святилищу",
+  "form_id": "00000BD1|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLDGFV4K"
+ },
+ {
+  "original": "Entrance to the Inner Sanctum",
+  "string": "Вход во Внутреннее святилище",
+  "form_id": "00000BD0|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLDGFV42"
+ },
+ {
+  "original": "Natural Bridges",
+  "string": "Природные мосты",
+  "form_id": "00000BCF|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLDGFV3L"
+ },
+ {
+  "original": "Falmer Village",
+  "string": "Деревня фалмеров",
+  "form_id": "00000BCC|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLDGFV3K"
+ },
+ {
+  "original": "Steep Slope",
+  "string": "Крутой склон",
+  "form_id": "00000BCB|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLDGFV3H"
+ },
+ {
+  "original": "Falmer Village",
+  "string": "Деревня фалмеров",
+  "form_id": "00000BCA|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLDGFV3J"
+ },
+ {
+  "original": "Lower Sharpslope Cave",
+  "string": "Пещера Крутой Склон - Нижняя",
+  "form_id": "00000BC9|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLDGFV3G"
+ },
+ {
+  "original": "Frost Giant Lair",
+  "string": "Логово ледяного великана",
+  "form_id": "00000BC8|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLDGFV3I"
+ },
+ {
+  "original": "North Glacial Crevice",
+  "string": "Ледяная расщелина - Север",
+  "form_id": "00000BC6|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLDGFV3P"
+ },
+ {
+  "original": "Mining Remains",
+  "string": "Остатки горных работ",
+  "form_id": "00000BC5|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLDGFV3E"
+ },
+ {
+  "original": "Upper Sharpslope Cave",
+  "string": "Пещера Крутой Склон - Верхняя",
+  "form_id": "00000BC4|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLDGFV3F"
+ },
+ {
+  "original": "River Falmer Camp",
+  "string": "Речной лагерь фалмеров",
+  "form_id": "00000BC1|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLDGFV3B"
+ },
+ {
+  "original": "Fissure Ledges",
+  "string": "Уступы расщелины",
+  "form_id": "00000BC0|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLDGFV3A"
+ },
+ {
+  "original": "Frost Giant Lair",
+  "string": "Логово ледяного великана",
+  "form_id": "00000BBD|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLDGFV2P"
+ },
+ {
+  "original": "Pilgrim's Path",
+  "string": "Путь паломника",
+  "form_id": "00000BBB|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLDGFV2N"
+ },
+ {
+  "original": "Word Wall",
+  "string": "Стена Слов",
+  "form_id": "00000BB8|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLDGFV2M"
+ },
+ {
+  "original": "Frozen Lakeshore",
+  "string": "Берег замерзшего озера",
+  "form_id": "00000BB7|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLDGFV2J"
+ },
+ {
+  "original": "The Heavy Chest",
+  "string": "Тяжелый сундук",
+  "form_id": "00000BB6|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLDGFV2K"
+ },
+ {
+  "original": "Waterfall Chest",
+  "string": "Сундук у водопада",
+  "form_id": "00000BB5|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLDGFV2I"
+ },
+ {
+  "original": "Emerald Paragon Portal",
+  "string": "Портал изумрудного парагона",
+  "form_id": "00000BB3|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLDGFV2G"
+ },
+ {
+  "original": "Snowbound Skeletons",
+  "string": "Заснеженные скелеты",
+  "form_id": "00000BB2|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLDGFV2F"
+ },
+ {
+  "original": "Snow Path to Frozen Lake",
+  "string": "Снежная тропа к замерзшему озеру",
+  "form_id": "00000BB0|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLDGFV2E"
+ },
+ {
+  "original": "Ice Falls Alcove South",
+  "string": "Ниша у ледопада - Юг",
+  "form_id": "00000BAF|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLDGFV2C"
+ },
+ {
+  "original": "Wayshrine of Learning",
+  "string": "Дорожное святилище учения",
+  "form_id": "00000BAE|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLDGFV21"
+ },
+ {
+  "original": "Ice Falls Alcove North",
+  "string": "Ниша у ледопада - Север",
+  "form_id": "00000BAD|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLDGFV2B"
+ },
+ {
+  "original": "The Sprawled Skeleton",
+  "string": "Распластанный скелет",
+  "form_id": "00000BAC|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLDGFV2A"
+ },
+ {
+  "original": "Vale Scar",
+  "string": "Шрам долины",
+  "form_id": "00000BA8|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLDGFV1D"
+ },
+ {
+  "original": "Snow Lake",
+  "string": "Снежное озеро",
+  "form_id": "00000C02|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLDG014SnowLake"
+ },
+ {
+  "original": "Frost Spider's Nest",
+  "string": "Гнездо морозного паука",
+  "form_id": "00000BA6|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLDGFV1F"
+ },
+ {
+  "original": "Forgotten Vale Cave",
+  "string": "Забытая долина - Пещера",
+  "form_id": "00000BA5|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLDGFV1E"
+ },
+ {
+  "original": "Vale Sabre Cat Lair",
+  "string": "Логово долинного саблезуба",
+  "form_id": "00000BA4|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLDGFV1B"
+ },
+ {
+  "original": "Auriel's Lookout",
+  "string": "Дозорный пост Ауриэля",
+  "form_id": "00000BDA|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLDGFV4L"
+ },
+ {
+  "original": "Hidden Vale Troll Den",
+  "string": "Логово тролля в скрытой долине",
+  "form_id": "00000BA9|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLDGFV1C"
+ },
+ {
+  "original": "Fledgling Nest",
+  "string": "Гнездо птенцов",
+  "form_id": "00000BCE|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLDGFV3N"
+ },
+ {
+  "original": "Paragon Portal Platform",
+  "string": "Платформа парагонов",
+  "form_id": "00000BBC|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLDGFV2Q"
+ },
+ {
+  "original": "Arvak's Rider",
+  "string": "Всадник Арвака",
+  "form_id": "00000B79|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLDGSC1E"
+ },
+ {
+  "original": "The Black Sanctuary",
+  "string": "Черное убежище",
+  "form_id": "00000B71|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLDGSC1L"
+ },
+ {
+  "original": "The Keeper's Altar",
+  "string": "Алтарь Хранителя",
+  "form_id": "00000B94|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLDGSC3F"
+ },
+ {
+  "original": "The Black Monastery",
+  "string": "Черный монастырь",
+  "form_id": "00000B72|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLDGSC1M"
+ },
+ {
+  "original": "The Unwary Adventurer",
+  "string": "Беспечный искатель приключений",
+  "form_id": "00000B96|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLDGSC3H"
+ },
+ {
+  "original": "Mournful Soul",
+  "string": "Скорбящая душа",
+  "form_id": "00000B6F|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLDGSC1C"
+ },
+ {
+  "original": "Wandering Soul",
+  "string": "Блуждающая душа",
+  "form_id": "00000B8B|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLDGSC2K"
+ },
+ {
+  "original": "Heaven's Wand Point",
+  "string": "Небесный жезл",
+  "form_id": "00000B92|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLDGSC3D"
+ },
+ {
+  "original": "The Cemetery Gatehouse I",
+  "string": "Кладбищенская сторожка I",
+  "form_id": "00000B85|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLDGSC2M"
+ },
+ {
+  "original": "The Obsidian Hall",
+  "string": "Обсидиановый зал",
+  "form_id": "00000B9A|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLDGSC3L"
+ },
+ {
+  "original": "Steps of the Barrier Wall North",
+  "string": "Ступени Стены-преграды - Север",
+  "form_id": "00000B8F|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLDGSC3A"
+ },
+ {
+  "original": "Foundation Altar",
+  "string": "Алтарь основания",
+  "form_id": "00000B9E|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLDGSC3Q"
+ },
+ {
+  "original": "The Black Rectory",
+  "string": "Черный приход",
+  "form_id": "00000B91|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLDGSC3C"
+ },
+ {
+  "original": "Black Gatehouse I",
+  "string": "Черная сторожка I",
+  "form_id": "00000B7A|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLDGSC2A"
+ },
+ {
+  "original": "The Black Cloister",
+  "string": "Черная обитель",
+  "form_id": "00000B98|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLDGSC3I"
+ },
+ {
+  "original": "The Shriveled Forest",
+  "string": "Иссохший лес",
+  "form_id": "00000BA3|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLDGSC31"
+ },
+ {
+  "original": "The Floating Citadel",
+  "string": "Парящая цитадель",
+  "form_id": "00000BA2|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLDGSC32"
+ },
+ {
+  "original": "The Cemetery Gatehouse V",
+  "string": "Кладбищенская сторожка V",
+  "form_id": "00000B89|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLDGSC2R"
+ },
+ {
+  "original": "The Black Temple",
+  "string": "Черный храм",
+  "form_id": "00000BA1|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLDGSC3S"
+ },
+ {
+  "original": "Soul Husk Merchant",
+  "string": "Торговец оболочками душ",
+  "form_id": "00000B90|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLDGSC3B"
+ },
+ {
+  "original": "Boneyard Citadel",
+  "string": "Цитадель Могильника",
+  "form_id": "00000BA0|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLDGSC3R"
+ },
+ {
+  "original": "The Black Tower",
+  "string": "Черная башня",
+  "form_id": "00000B9D|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLDGSC3P"
+ },
+ {
+  "original": "St Jiub the Eradicator",
+  "string": "Святой Джиуб Истребитель",
+  "form_id": "00000B99|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLDGSC3K"
+ },
+ {
+  "original": "Soul Pool Fountain",
+  "string": "Фонтан озера душ",
+  "form_id": "00000B97|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLDGSC3J"
+ },
+ {
+  "original": "Reaper's Lair",
+  "string": "Логово Жнеца",
+  "form_id": "00000B95|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLDGSC3G"
+ },
+ {
+  "original": "The Black Mausoleum",
+  "string": "Черный мавзолей",
+  "form_id": "00000B8E|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLDGSC2L"
+ },
+ {
+  "original": "The Dark Battlements",
+  "string": "Темные бастионы",
+  "form_id": "00000B8C|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLDGSC2I"
+ },
+ {
+  "original": "Lost Structure",
+  "string": "Потерянное строение",
+  "form_id": "00000B7C|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLDGSC2C"
+ },
+ {
+  "original": "The Cemetery Gatehouse IV",
+  "string": "Кладбищенская сторожка IV",
+  "form_id": "00000B88|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLDGSC2Q"
+ },
+ {
+  "original": "The Cemetery Gatehouse III",
+  "string": "Кладбищенская сторожка III",
+  "form_id": "00000B87|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLDGSC2P"
+ },
+ {
+  "original": "The Cemetery Gatehouse II",
+  "string": "Кладбищенская сторожка II",
+  "form_id": "00000B86|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLDGSC2N"
+ },
+ {
+  "original": "The Black Minster",
+  "string": "Черный собор",
+  "form_id": "00000B83|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLDGSC2S"
+ },
+ {
+  "original": "The Black Bethel",
+  "string": "Черная молельня",
+  "form_id": "00000B82|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLDGSC2H"
+ },
+ {
+  "original": "Black Gatehouse IV",
+  "string": "Черная сторожка IV",
+  "form_id": "00000B81|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLDGSC2G"
+ },
+ {
+  "original": "The Black Folly",
+  "string": "Черный каприз",
+  "form_id": "00000B80|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLDGSC2F"
+ },
+ {
+  "original": "The Boneyard",
+  "string": "Могильник",
+  "form_id": "00000B7F|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLDGSC21"
+ },
+ {
+  "original": "Durnehviir's Perch",
+  "string": "Насест Дюрневира",
+  "form_id": "00000B7E|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLDGSC2E"
+ },
+ {
+  "original": "Tabernacle of the Ideal Masters",
+  "string": "Скиния Идеальных Повелителей",
+  "form_id": "00000B8A|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLDGSC22"
+ },
+ {
+  "original": "The Black Gatehouse",
+  "string": "Черная сторожка",
+  "form_id": "00000B78|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLDGSC1G"
+ },
+ {
+  "original": "The Crystal Folly",
+  "string": "Хрустальный каприз",
+  "form_id": "00000B77|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLDGSC1H"
+ },
+ {
+  "original": "The Barrier Wall",
+  "string": "Стена-преграда",
+  "form_id": "00000B76|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLDGSC1F"
+ },
+ {
+  "original": "Steps of the Barrier Wall South",
+  "string": "Ступени Стены-преграды - Юг",
+  "form_id": "00000B75|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLDGSC1I"
+ },
+ {
+  "original": "Totem to the Ideal Masters",
+  "string": "Тотем Идеальным Повелителям",
+  "form_id": "00000B74|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLDGSC1J"
+ },
+ {
+  "original": "The Keeper's Chapel",
+  "string": "Часовня Хранителя",
+  "form_id": "00000B93|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLDGSC3E"
+ },
+ {
+  "original": "Path of Souls",
+  "string": "Путь душ",
+  "form_id": "00000B6D|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLDGSC1A"
+ },
+ {
+  "original": "Volkihar Ruins",
+  "string": "Волкихар - Руины",
+  "form_id": "00000B6C|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLDGSC11"
+ },
+ {
+  "original": "Arvak's Altar",
+  "string": "Алтарь Арвака",
+  "form_id": "00000B9C|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLDGSC3N"
+ },
+ {
+  "original": "Skeleton and Soul",
+  "string": "Скелет и душа",
+  "form_id": "00000B8D|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLDGSC2J"
+ },
+ {
+  "original": "Black Gatehouse III",
+  "string": "Черная сторожка III",
+  "form_id": "00000B7D|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLDGSC2D"
+ },
+ {
+  "original": "Heaven's Arc Point",
+  "string": "Небесная дуга",
+  "form_id": "00000B73|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLDGSC1K"
+ },
+ {
+  "original": "Soul Pool Camp",
+  "string": "Лагерь у озера душ",
+  "form_id": "00000B9F|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLDGSC3O"
+ },
+ {
+  "original": "The Black Chapel",
+  "string": "Черная часовня",
+  "form_id": "00000B6E|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLDGSC1B"
+ },
+ {
+  "original": "Black Gatehouse II",
+  "string": "Черная сторожка II",
+  "form_id": "00000B7B|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLDGSC2B"
+ },
+ {
+  "original": "The Black Church",
+  "string": "Черная церковь",
+  "form_id": "00000B70|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLDGSC1D"
+ },
+ {
+  "original": "Husk Pasture",
+  "string": "Пастбище оболочек",
+  "form_id": "00000B9B|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLDGSC3M"
+ },
+ {
+  "original": "The Cemetery Altar",
+  "string": "Кладбищенский алтарь",
+  "form_id": "00000B84|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLDGSC2O"
+ },
+ {
+  "original": "Mossy Glen Cave East",
+  "string": "Пещера Мшистая Лощина - Восток",
+  "form_id": "00000B69|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLDG003MossyGlenCaveEast"
+ },
+ {
+  "original": "Refugee Camp",
+  "string": "Лагерь беженцев",
+  "form_id": "00000BE8|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLDG011RefugeeCamp"
+ },
+ {
+  "original": "Mossy Glen Cave West",
+  "string": "Пещера Мшистая Лощина - Запад",
+  "form_id": "00000B68|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLDG002MossyGlenCaveWest"
+ },
+ {
+  "original": "Volkihar Courtyard",
+  "string": "Двор Волкихара",
+  "form_id": "00000BE3|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLDG006VolkiharCourtyard"
+ },
+ {
+  "original": "Missing Cargo",
+  "string": "Пропавший груз",
+  "form_id": "00000C1F|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLDBWildernessMissingCargo"
+ },
+ {
+  "original": "Mudcrab Tidal Pools",
+  "string": "Приливные лужи грязевых крабов",
+  "form_id": "00000C6F|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLDBSND"
+ },
+ {
+  "original": "Ienth's Farm",
+  "string": "Ферма Иентов",
+  "form_id": "00000C2B|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLDBShopIenthsFarm"
+ },
+ {
+  "original": "Shrine of Kynareth",
+  "string": "Святилище Кинарет",
+  "form_id": "00000C0B|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLDBSSE"
+ },
+ {
+  "original": "Telvanni Wizards Tower",
+  "string": "Башня волшебника Телванни",
+  "form_id": "00000C55|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLDBPlaceTelvanniWizardsTower"
+ },
+ {
+  "original": "Waterfall and Grazing Netch",
+  "string": "Водопад и пасущиеся нетчи",
+  "form_id": "00000C6D|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLDBSNC"
+ },
+ {
+  "original": "Spiky Grass Island",
+  "string": "Остров колючей травы",
+  "form_id": "00000C6C|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLDBSNA"
+ },
+ {
+  "original": "Forgotten Spoils",
+  "string": "Забытые трофеи",
+  "form_id": "00000C0C|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLDBSNJ"
+ },
+ {
+  "original": "The Ever-Abandoned Ship",
+  "string": "Вечно покинутый корабль",
+  "form_id": "00000C6B|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLDBSNB"
+ },
+ {
+  "original": "Lurker Ambush",
+  "string": "Засада луркера",
+  "form_id": "00000C6A|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLDBSSP"
+ },
+ {
+  "original": "Basalt Causeway",
+  "string": "Базальтовая дамба",
+  "form_id": "00000C69|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLDBSSW"
+ },
+ {
+  "original": "Lurker Ambush",
+  "string": "Засада луркера",
+  "form_id": "00000C68|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLDBSSV"
+ },
+ {
+  "original": "Bloodskal Copse",
+  "string": "Роща Бладскал",
+  "form_id": "00000C67|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLDBSSD"
+ },
+ {
+  "original": "Driftwood Isle",
+  "string": "Остров плавника",
+  "form_id": "00000C66|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLDBSSA"
+ },
+ {
+  "original": "Sapphire Geode",
+  "string": "Месторождение сапфиров",
+  "form_id": "00000C64|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLDBSapphireMine4"
+ },
+ {
+  "original": "Sapphire Geode",
+  "string": "Месторождение сапфиров",
+  "form_id": "00000C63|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLDBSapphireMine3"
+ },
+ {
+  "original": "Ruby Geode",
+  "string": "Месторождение рубинов",
+  "form_id": "00000C60|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLDBRubyMine1"
+ },
+ {
+  "original": "Emerald Geode",
+  "string": "Месторождение изумрудов",
+  "form_id": "00000C5F|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLDBEmeraldMine2"
+ },
+ {
+  "original": "Shaman's Hut",
+  "string": "Хижина шамана",
+  "form_id": "00000C5A|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLDBPlaceShamansHut"
+ },
+ {
+  "original": "Impact Crater",
+  "string": "Ударный кратер",
+  "form_id": "00000C12|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLDBSSQ"
+ },
+ {
+  "original": "Tel Mithryn Steward",
+  "string": "Дом управителя Тель-Митрина",
+  "form_id": "00000C54|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLDBPlaceTelMithrynSteward"
+ },
+ {
+  "original": "Tel Mithryn Kitchen",
+  "string": "Кухня Тель-Митрина",
+  "form_id": "00000C53|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLDBPlaceTelMithrynKitchen"
+ },
+ {
+  "original": "Tel Mithryn Apothecary",
+  "string": "Аптека Тель-Митрина",
+  "form_id": "00000C52|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLDBShopTelMithrynApothecary"
+ },
+ {
+  "original": "Damp Chest",
+  "string": "Сырой сундук",
+  "form_id": "00000C51|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLDBWildernessDampChest"
+ },
+ {
+  "original": "Docked Wreckage",
+  "string": "Обломки у причала",
+  "form_id": "00000C4E|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLDBWildernessDockedWreckage"
+ },
+ {
+  "original": "White Ridge Barrow Hut",
+  "string": "Курган Белого Хребта - Хижина",
+  "form_id": "00000C4D|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLDBSNI"
+ },
+ {
+  "original": "Expired Riekling",
+  "string": "Почивший риклинг",
+  "form_id": "00000C4C|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLDBWildernessExpiredRiekling"
+ },
+ {
+  "original": "Fahlbtharz Grand Hall",
+  "string": "Большой зал Фалбтарза",
+  "form_id": "00000C4B|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLDBExitFahlbtharGrandHall"
+ },
+ {
+  "original": "Dragon Offerings",
+  "string": "Подношения дракону",
+  "form_id": "00000C4A|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLDBWildernessDragonOfferings"
+ },
+ {
+  "original": "Sunken Boat",
+  "string": "Затонувшая лодка",
+  "form_id": "00000C49|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLDBWildernessSunkenBoat"
+ },
+ {
+  "original": "Sunken Chest",
+  "string": "Затонувший сундук",
+  "form_id": "00000C48|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLDBWildernessSunkenChest"
+ },
+ {
+  "original": "Dead Explorer",
+  "string": "Мертвый исследователь",
+  "form_id": "00000C47|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLDBWildernessDeadExplorer"
+ },
+ {
+  "original": "Shoreline Campsite",
+  "string": "Стоянка на берегу",
+  "form_id": "00000C45|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLDBWildernessShorelineMassacre"
+ },
+ {
+  "original": "Oslaf's Garden",
+  "string": "Огород Ослафа",
+  "form_id": "00000C42|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLDBFarmOslafsGarden"
+ },
+ {
+  "original": "Frozen Shoals Dragon Mound",
+  "string": "Ледяные отмели - Драконий курган",
+  "form_id": "00000C0E|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLDBSNM"
+ },
+ {
+  "original": "Baldor Iron-Shaper",
+  "string": "Бальдор Железный Крой",
+  "form_id": "00000C41|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLDBShopBaldourTheBlacksmith"
+ },
+ {
+  "original": "Greathall",
+  "string": "Большой зал",
+  "form_id": "00000C40|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLDBPlaceGreatHall"
+ },
+ {
+  "original": "Temple of Miraak Secret Exit",
+  "string": "Храм Мирака - Тайный выход",
+  "form_id": "00000C3F|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLDBSNQ"
+ },
+ {
+  "original": "Dunmeri Camp",
+  "string": "Данмерский лагерь",
+  "form_id": "00000C3E|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLDBSSM"
+ },
+ {
+  "original": "Harstrad River",
+  "string": "Река Харстрад",
+  "form_id": "00000C3C|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLDBWaterwayHarstradRiver"
+ },
+ {
+  "original": "Islid River",
+  "string": "Река Ислид",
+  "form_id": "00000C3B|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLDBWaterwayIslidRiver"
+ },
+ {
+  "original": "Spider Nest",
+  "string": "Паучье гнездо",
+  "form_id": "00000C1B|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLDBSSJ"
+ },
+ {
+  "original": "Lake Fjalding",
+  "string": "Озеро Фьялдинг",
+  "form_id": "00000C3A|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLDBWaterwayLakeFjalding"
+ },
+ {
+  "original": "Iggnir River",
+  "string": "Река Иггнир",
+  "form_id": "00000C37|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLDBWaterwayIggnirRiver"
+ },
+ {
+  "original": "Alor's House",
+  "string": "Дом Алора",
+  "form_id": "00000C35|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLDBShopAlorsHouse"
+ },
+ {
+  "original": "Northern Maiden",
+  "string": "Северная дева",
+  "form_id": "00000C33|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLDBPlaceNorthernMaidenSolstiem"
+ },
+ {
+  "original": "Glover the Blacksmith",
+  "string": "Кузнец Гловер",
+  "form_id": "00000C32|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLDBShopGloverTheBlacksmith"
+ },
+ {
+  "original": "Tel Mithryn Graveyard",
+  "string": "Тель-Митрин - Кладбище",
+  "form_id": "00000C2F|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLDBWildernessTelMithrynGraveyard"
+ },
+ {
+  "original": "Dusty the Silt Strider",
+  "string": "Силт-страйдер Дымка",
+  "form_id": "00000C2E|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLDBSST"
+ },
+ {
+  "original": "Raven Rock Ebony Mine",
+  "string": "Шахта Вороньей Скалы (эбонит)",
+  "form_id": "00000C2C|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLDBMineRavenRock"
+ },
+ {
+  "original": "Severin Manor",
+  "string": "Поместье Северин",
+  "form_id": "00000C28|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLDBHomeSeverinManor"
+ },
+ {
+  "original": "Temple of the Reclamations",
+  "string": "Храм Истребований",
+  "form_id": "00000C25|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLDBTempleDaedric"
+ },
+ {
+  "original": "Hillside Gains",
+  "string": "Добыча на склоне",
+  "form_id": "00000C24|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLDBWildernessHillsideGains"
+ },
+ {
+  "original": "Hrodulf's Last Stand",
+  "string": "Последний бой Хродульфа",
+  "form_id": "00000C22|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLDBSSI"
+ },
+ {
+  "original": "Feast of the Hoppers",
+  "string": "Пир попрыгунчиков",
+  "form_id": "00000C21|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLDBWildernessFeastOfTheHoppers"
+ },
+ {
+  "original": "Waterfall Chest",
+  "string": "Сундук у водопада",
+  "form_id": "00000C20|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLDBWildernessWaterfallChest"
+ },
+ {
+  "original": "Wild Plunder",
+  "string": "Дикая добыча",
+  "form_id": "00000C1E|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLDBWildernessWildPlunder"
+ },
+ {
+  "original": "The Fisherman's Haul",
+  "string": "Улов рыбака",
+  "form_id": "00000C1D|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLDBSNF"
+ },
+ {
+  "original": "The Miner's Lament",
+  "string": "Плач шахтера",
+  "form_id": "00000C1C|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLDBSSG"
+ },
+ {
+  "original": "Spider Nest",
+  "string": "Паучье гнездо",
+  "form_id": "00000C1A|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLDBSSH"
+ },
+ {
+  "original": "Desolate Hunter's Camp",
+  "string": "Заброшенный лагерь охотника",
+  "form_id": "00000C19|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLDBSNK"
+ },
+ {
+  "original": "Riekling Barrel Horde",
+  "string": "Бочковой клад риклингов",
+  "form_id": "00000C18|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLDBSNG"
+ },
+ {
+  "original": "Giant Nirnroot Island",
+  "string": "Остров гигантского корня Нирна",
+  "form_id": "00000C16|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLDBSNN"
+ },
+ {
+  "original": "Riekling Outpost",
+  "string": "Аванпост риклингов",
+  "form_id": "00000C15|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLDBSNO"
+ },
+ {
+  "original": "Horker Iceberg",
+  "string": "Айсберг хоркеров",
+  "form_id": "00000C13|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLDBSNH"
+ },
+ {
+  "original": "Shrine of Zenithar",
+  "string": "Святилище Зенитара",
+  "form_id": "00000C11|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLDBSNL"
+ },
+ {
+  "original": "Miner Immolation",
+  "string": "Сожженный шахтер",
+  "form_id": "00000C10|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLDBSSX"
+ },
+ {
+  "original": "Spriggan Grove",
+  "string": "Роща сприггана",
+  "form_id": "00000C0F|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLDBSSN"
+ },
+ {
+  "original": "Temple Foothills Dragon Mound",
+  "string": "Предгорья храма - Драконий курган",
+  "form_id": "00000C0D|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLDBSSK"
+ },
+ {
+  "original": "Reaver's Folly",
+  "string": "Каприз разбойника",
+  "form_id": "00000C0A|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLDBSSC"
+ },
+ {
+  "original": "Bloodied Grove",
+  "string": "Окровавленная роща",
+  "form_id": "00000C09|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLDBSSR"
+ },
+ {
+  "original": "Gold Miner's Floodgate",
+  "string": "Шлюз золотоискателя",
+  "form_id": "00000C08|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLDBSSL"
+ },
+ {
+  "original": "Impact Crater",
+  "string": "Ударный кратер",
+  "form_id": "00000C07|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLDBSSU"
+ },
+ {
+  "original": "Ashfallow Reaver Camp",
+  "string": "Лагерь разбойников у Пепельной крепости",
+  "form_id": "00000C06|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLDBSSO"
+ },
+ {
+  "original": "Riekling Chest",
+  "string": "Сундук риклингов",
+  "form_id": "00000C17|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLDBSNE"
+ },
+ {
+  "original": "Explorer Remains",
+  "string": "Останки исследователя",
+  "form_id": "00000C46|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLDBWildernessExplorerRemains"
+ },
+ {
+  "original": "Lurker Ambush",
+  "string": "Засада луркера",
+  "form_id": "00000C14|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLDBSNP"
+ },
+ {
+  "original": "Sapphire Geode",
+  "string": "Месторождение сапфиров",
+  "form_id": "00000C61|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLDBSapphireMine1"
+ },
+ {
+  "original": "Slippery Slope",
+  "string": "Скользкий склон",
+  "form_id": "00000C23|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLDBWildernessSlipperySlope"
+ },
+ {
+  "original": "Coldcinder Cave Exit",
+  "string": "Выход из пещеры Холодный Уголь",
+  "form_id": "00000C50|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLDBSSF"
+ },
+ {
+  "original": "The Retching Netch",
+  "string": "Пьяный нетч",
+  "form_id": "00000C29|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLDBInnRetchingNetch"
+ },
+ {
+  "original": "Isle of Basalt",
+  "string": "Базальтовый остров",
+  "form_id": "00000C65|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLDBSSB"
+ },
+ {
+  "original": "Emerald Geode",
+  "string": "Месторождение изумрудов",
+  "form_id": "00000C5E|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLDBEmeraldMine1"
+ },
+ {
+  "original": "Sapphire Geode",
+  "string": "Месторождение сапфиров",
+  "form_id": "00000C62|atlas map markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLDBSapphireMine2"
+ },
+ {
+  "original": "Atlas Maps MCM Startup Quest",
+  "string": "Atlas Maps - стартовый квест MCM",
+  "form_id": "00000822|atlas map markers.esp",
+  "type": "QUST FULL",
+  "index": null,
+  "editor_id": "ATLAS_MCMQuest"
+ },
+ {
+  "original": "This will make all of the active Imperial and Stormcloak base camps show on the map as Undiscovered places. Making them easier to find as they change while the civil war rages on. There are 16 camps and only the active ones will be visible.\r\nWARNING!\r\nThis action can not be undone.",
+  "string": "Все активные базовые лагеря Империи и Братьев Бури будут показаны на карте как неоткрытые места. Так их будет проще найти, ведь они меняются по ходу гражданской войны. Всего лагерей 16, видны будут только активные.\r\nВНИМАНИЕ!\r\nЭто действие нельзя отменить.",
+  "form_id": "00000B09|atlas map markers.esp",
+  "type": "MESG DESC",
+  "index": null,
+  "editor_id": "ATLAS_MCM_FactionCampsMsg"
+ },
+ {
+  "original": "Cancel",
+  "string": "Отмена",
+  "form_id": "00000B09|atlas map markers.esp",
+  "type": "MESG ITXT",
+  "index": 0,
+  "editor_id": "ATLAS_MCM_FactionCampsMsg"
+ },
+ {
+  "original": "Show the Camps",
+  "string": "Показать лагеря",
+  "form_id": "00000B09|atlas map markers.esp",
+  "type": "MESG ITXT",
+  "index": 1,
+  "editor_id": "ATLAS_MCM_FactionCampsMsg"
+ },
+ {
+  "original": "The Dragonborn DLC has 4 very hard to reach Hidden Peak map markers on the map. They are normally disabled until you find each peak. These markers can be enabled to allow you to find them easier, like a normal location. \r\n\r\nDo you want to change these locations?",
+  "string": "В дополнении Dragonborn на карте есть 4 труднодоступных маркера скрытых пиков. Обычно они отключены, пока вы не найдете каждый пик. Эти маркеры можно включить, чтобы их было проще найти, как обычные локации.\r\n\r\nИзменить эти локации?",
+  "form_id": "00000882|atlas map markers.esp",
+  "type": "MESG DESC",
+  "index": null,
+  "editor_id": "ATLAS_MCM_HiddenPeaksMsg"
+ },
+ {
+  "original": "Cancel",
+  "string": "Отмена",
+  "form_id": "00000882|atlas map markers.esp",
+  "type": "MESG ITXT",
+  "index": 0,
+  "editor_id": "ATLAS_MCM_HiddenPeaksMsg"
+ },
+ {
+  "original": "Change them",
+  "string": "Изменить",
+  "form_id": "00000882|atlas map markers.esp",
+  "type": "MESG ITXT",
+  "index": 1,
+  "editor_id": "ATLAS_MCM_HiddenPeaksMsg"
+ }
+]

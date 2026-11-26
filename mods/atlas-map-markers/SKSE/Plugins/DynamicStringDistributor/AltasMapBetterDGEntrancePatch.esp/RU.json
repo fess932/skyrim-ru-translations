@@ -1,0 +1,26 @@
+[
+ {
+  "original": "Mossy Glen Cave West",
+  "string": "Пещера Мшистая Лощина - Запад",
+  "form_id": "000F448D|Atlas Map Markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLDG002MossyGlenCaveWest"
+ },
+ {
+  "original": "Mossy Glen Cave East",
+  "string": "Пещера Мшистая Лощина - Восток",
+  "form_id": "000F448E|Atlas Map Markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLDG003MossyGlenCaveEast"
+ },
+ {
+  "original": "Refugee Camp",
+  "string": "Лагерь беженцев",
+  "form_id": "000F450F|Atlas Map Markers.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": "SLDG011RefugeeCamp"
+ }
+]

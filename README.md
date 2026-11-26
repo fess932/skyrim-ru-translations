@@ -25,6 +25,7 @@
 | Legacy of the Dragonborn Patches (Official): Moonpath to Elsweyr | DBM_Moonpath_Patch | `mods/lotd-moonpath-patch` |
 | Legacy of the Dragonborn: патчи, Curator's Companion, CC Patch Hub и пропуски в самом LotD | ~300 плагинов | `mods/lotd-patches` (только то, чего нет в уже установленных переводах; ставится как `RU_lotd-patches.json` рядом с ними) |
 | Undeath, Classical Lichdom, Humanoid Dragon Priests, Konahrik's Accoutrements, маски жрецов | 8 плагинов | `mods/undeath-dragon-priests` (недостающие строки, ставится как `RU_undeath-dragon-priests.json`) |
+| Atlas Map Markers SE и патчи | 8 плагинов | `mods/atlas-map-markers` (метки карты и компаса, ставится как `RU_atlas-map-markers.json`) |
 
 ## Как устроен перевод
 
