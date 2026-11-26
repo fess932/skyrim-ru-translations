@@ -60,6 +60,36 @@ def wanted(e, covered):
     return f"{e['form_id'].lower()}|{e['type']}|{e['index']}" not in covered
 
 
+SPACE = re.compile(r'\s+')
+REPLICA = re.compile(r'^(.*\S)\s*\((?:replica|Replica)\)$')
+
+
+class Exact:
+    """Already-translated text: exact match, then the same text with different
+    whitespace/line breaks, then "<name> (replica)" from the translated name."""
+
+    def __init__(self, table):
+        self.table = table
+        self.loose = {}
+        for en, ru in table.items():
+            self.loose.setdefault(self.norm(en), ru)
+
+    @staticmethod
+    def norm(s):
+        return SPACE.sub(' ', s).strip()
+
+    def get(self, en):
+        ru = self.table.get(en) or self.loose.get(self.norm(en))
+        if ru:
+            return ru
+        m = REPLICA.match(en)
+        if m:
+            base = self.table.get(m.group(1)) or self.loose.get(self.norm(m.group(1)))
+            if base:
+                return f'{base} (копия)'
+        return None
+
+
 def common_words():
     """Words that vanilla English mostly writes in lowercase = not proper nouns."""
     exact = load_json(os.path.join(ROOT, 'vanilla', 'exact.json'), {})
@@ -71,9 +101,9 @@ def common_words():
     return {w for w, n in lower.items() if n >= 3 and n > upper.get(w, 0)}
 
 
-def glossary_for(mod_dir):
+def glossary_for(mod_dir, extra_names=None):
     g = {}
-    names = load_json(os.path.join(ROOT, 'vanilla', 'names.json'), {})
+    names = {**(extra_names or {}), **load_json(os.path.join(ROOT, 'vanilla', 'names.json'), {})}
     common = common_words()
     # vanilla names: proper nouns only (capitalised, short, not an everyday word)
     for en, ru in names.items():
@@ -145,9 +175,10 @@ def main(mod_dir):
     mod = json.load(open(os.path.join(mod_dir, 'mod.json'), encoding='utf-8'))
     work = os.path.join(ROOT, 'work', mod['slug'])
     known, covered = installed(mod)
-    exact = {**known, **load_json(os.path.join(ROOT, 'vanilla', 'exact.json'), {})}
+    exact = Exact({**known, **load_json(os.path.join(ROOT, 'vanilla', 'exact.json'), {})})
     glossary = learned_names(work)
-    glossary.update(glossary_for(mod_dir))  # curated glossary wins over learned names
+    # names already translated elsewhere in the setup (reuse_installed) count as terms too
+    glossary.update(glossary_for(mod_dir, {k: v for k, v in known.items() if len(k) <= 40}))
     index = TermIndex(glossary)
 
     units, auto = {}, {}
@@ -157,8 +188,9 @@ def main(mod_dir):
                 continue
             en = e['original']
             i = uid(en)
-            if en in exact:
-                auto[i] = exact[en]
+            ru = exact.get(en)
+            if ru:
+                auto[i] = ru
                 continue
             first = i not in units
             u = units.setdefault(i, {'id': i, 'en': en, 'ctx': [], 'order': len(units)})

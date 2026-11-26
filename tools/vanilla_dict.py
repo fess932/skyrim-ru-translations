@@ -1,4 +1,5 @@
-"""Build EN->RU dictionaries from YOUR copy of Skyrim SE (vanilla string tables).
+"""Build EN->RU dictionaries from YOUR copy of Skyrim SE (vanilla string tables
+of the base game, DLC and the Creation Club content in cc*.bsa).
 
 Bethesda's text is not redistributed in this repo; it is generated locally.
 
@@ -9,6 +10,7 @@ Writes (gitignored):
     vanilla/names.json  short EN strings (names, titles; <= 60 chars) -> RU
 """
 import collections
+import glob
 import json
 import os
 import struct
@@ -21,6 +23,7 @@ import bsa  # noqa: E402
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 OUT = os.path.join(ROOT, 'vanilla')
 PLUGINS = ('skyrim', 'update', 'dawnguard', 'hearthfires', 'dragonborn')
+ARCHIVES = ['Skyrim - Interface.bsa', 'cc*.bsa']
 
 
 def dec(b):
@@ -58,13 +61,15 @@ def best(dct):
 
 def main(data_dir):
     tmp = tempfile.mkdtemp(prefix='vanilla_strings_')
-    archive = os.path.join(data_dir, 'Skyrim - Interface.bsa')
-    bsa.extract(archive, lambda p: p.lower().startswith('strings')
-                and ('_english.' in p.lower() or '_russian.' in p.lower()), tmp)
+    for pattern in ARCHIVES:
+        for archive in sorted(glob.glob(os.path.join(data_dir, pattern))):
+            bsa.extract(archive, lambda p: p.lower().startswith('strings')
+                        and ('_english.' in p.lower() or '_russian.' in p.lower()), tmp)
     src = os.path.join(tmp, 'strings')
+    cc = sorted({f.split('_english.')[0] for f in os.listdir(src) if f.startswith('cc') and '_english.' in f})
     pairs = collections.defaultdict(collections.Counter)
     names = collections.defaultdict(collections.Counter)
-    for plugin in PLUGINS:
+    for plugin in PLUGINS + tuple(cc):
         for ext in ('strings', 'dlstrings', 'ilstrings'):
             en_p = os.path.join(src, f'{plugin}_english.{ext}')
             ru_p = os.path.join(src, f'{plugin}_russian.{ext}')
