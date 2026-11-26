@@ -1,0 +1,6 @@
+# generated from the user's own game files (Bethesda text, not redistributed)
+vanilla/
+# in-progress translation workspace
+work/
+__pycache__/
+*.pyc
