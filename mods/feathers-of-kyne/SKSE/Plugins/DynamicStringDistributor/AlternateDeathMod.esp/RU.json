@@ -1,0 +1,106 @@
+[
+ {
+  "original": "Healing Visuals Effect",
+  "string": "Визуальный эффект исцеления",
+  "form_id": "0000073B|AlternateDeathMod.esp",
+  "type": "MGEF FULL",
+  "index": null,
+  "editor_id": "FeatherHealingVisualsEffect"
+ },
+ {
+  "original": "Swimming Check Effect",
+  "string": "Проверка плавания",
+  "form_id": "0000073F|AlternateDeathMod.esp",
+  "type": "MGEF FULL",
+  "index": null,
+  "editor_id": "SwimmingCheckEffect"
+ },
+ {
+  "original": "Waterbreathing Effect",
+  "string": "Водное дыхание",
+  "form_id": "00000742|AlternateDeathMod.esp",
+  "type": "MGEF FULL",
+  "index": null,
+  "editor_id": "FeatherWaterbreathingEffect"
+ },
+ {
+  "original": "Can breathe water for <dur> seconds.",
+  "string": "Вы можете дышать под водой в течение <dur> с.",
+  "form_id": "00000742|AlternateDeathMod.esp",
+  "type": "MGEF DNAM",
+  "index": null,
+  "editor_id": "FeatherWaterbreathingEffect"
+ },
+ {
+  "original": "Death Check Effect",
+  "string": "Проверка смерти",
+  "form_id": "00000752|AlternateDeathMod.esp",
+  "type": "MGEF FULL",
+  "index": null,
+  "editor_id": "DeathCheckEffect"
+ },
+ {
+  "original": "WereVamp Check Effect",
+  "string": "Проверка оборотня/вампира",
+  "form_id": "00000757|AlternateDeathMod.esp",
+  "type": "MGEF FULL",
+  "index": null,
+  "editor_id": "WereVampCheckEffect"
+ },
+ {
+  "original": "Healing Visuals Spell",
+  "string": "Визуальный эффект исцеления",
+  "form_id": "00000737|AlternateDeathMod.esp",
+  "type": "SPEL FULL",
+  "index": null,
+  "editor_id": "HealingVisualsSpell"
+ },
+ {
+  "original": "Swimming Check Spell",
+  "string": "Проверка плавания",
+  "form_id": "0000073D|AlternateDeathMod.esp",
+  "type": "SPEL FULL",
+  "index": null,
+  "editor_id": "SwimmingCheckSpell"
+ },
+ {
+  "original": "Waterbreathing Spell",
+  "string": "Водное дыхание",
+  "form_id": "00000743|AlternateDeathMod.esp",
+  "type": "SPEL FULL",
+  "index": null,
+  "editor_id": "WaterbreathingSpell"
+ },
+ {
+  "original": "Death Check Spell",
+  "string": "Проверка смерти",
+  "form_id": "00000753|AlternateDeathMod.esp",
+  "type": "SPEL FULL",
+  "index": null,
+  "editor_id": "DeathCheckSpell"
+ },
+ {
+  "original": "WereVamp Check Spell",
+  "string": "Проверка оборотня/вампира",
+  "form_id": "00000756|AlternateDeathMod.esp",
+  "type": "SPEL FULL",
+  "index": null,
+  "editor_id": "WereVampCheckSpell"
+ },
+ {
+  "original": "Feather of Kyne",
+  "string": "Перо Кин",
+  "form_id": "00000736|AlternateDeathMod.esp",
+  "type": "MISC FULL",
+  "index": null,
+  "editor_id": "PhoenixDownResurrect"
+ },
+ {
+  "original": "On New Game Quest",
+  "string": "Начало новой игры",
+  "form_id": "0000074A|AlternateDeathMod.esp",
+  "type": "QUST FULL",
+  "index": null,
+  "editor_id": "OnNewGameQuest"
+ }
+]

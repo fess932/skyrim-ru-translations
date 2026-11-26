@@ -1,0 +1,13 @@
+{
+  "slug": "feathers-of-kyne",
+  "name": "Feathers of Kyne - An Alternate Death Mod",
+  "reuse_installed": true,
+  "plugins": [
+    "AlternateDeathMod.esp",
+    "Feathers of Kyne - Undeath.esp"
+  ],
+  "sources": {
+    "AlternateDeathMod.esp": "Feathers of Kyne - An Alternate Death Mod",
+    "Feathers of Kyne - Undeath.esp": "Feathers Of Kyne - Undeath Patch"
+  }
+}
