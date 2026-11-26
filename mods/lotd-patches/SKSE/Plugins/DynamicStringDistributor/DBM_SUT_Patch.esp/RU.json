@@ -1200,54 +1200,6 @@
   "editor_id": "aaauniqueCrownPlayableREPLICA"
  },
  {
-  "original": "Treasure Chest",
-  "string": "Сундук с Сокровищами",
-  "form_id": "0000EBF3|SkyrimsUniqueTreasures.esp",
-  "type": "CONT FULL",
-  "index": null,
-  "editor_id": "aaauniqueTreasureChest10"
- },
- {
-  "original": "Treasure Chest",
-  "string": "Сундук с Сокровищами",
-  "form_id": "0000EBF5|SkyrimsUniqueTreasures.esp",
-  "type": "CONT FULL",
-  "index": null,
-  "editor_id": "aaauniqueTreasureChest11"
- },
- {
-  "original": "Treasure Chest",
-  "string": "Сундук с Сокровищами",
-  "form_id": "000101CE|SkyrimsUniqueTreasures.esp",
-  "type": "CONT FULL",
-  "index": null,
-  "editor_id": "aaauniqueTreasureChest14"
- },
- {
-  "original": "Treasure Chest",
-  "string": "Сундук с Сокровищами",
-  "form_id": "000101D0|SkyrimsUniqueTreasures.esp",
-  "type": "CONT FULL",
-  "index": null,
-  "editor_id": "aaauniqueTreasureChest15"
- },
- {
-  "original": "Treasure Chest",
-  "string": "Сундук с Сокровищами",
-  "form_id": "000101D1|SkyrimsUniqueTreasures.esp",
-  "type": "CONT FULL",
-  "index": null,
-  "editor_id": "aaauniqueTreasureChest16"
- },
- {
-  "original": "Treasure Chest",
-  "string": "Сундук с Сокровищами",
-  "form_id": "000101D2|SkyrimsUniqueTreasures.esp",
-  "type": "CONT FULL",
-  "index": null,
-  "editor_id": "aaauniqueTreasureChest17"
- },
- {
   "original": "Skyrim Unique Treasures",
   "string": "Уникальные сокровища Скайрима",
   "form_id": "00000AAA|DBM_SUT_Patch.esp",

@@ -232,14 +232,6 @@
   "editor_id": "DBMDGHallofWondersCC"
  },
  {
-  "original": "Eslaf's Room",
-  "string": "Комната Эслафа",
-  "form_id": "00002FD7|Update.esm",
-  "type": "CELL FULL",
-  "index": null,
-  "editor_id": "ccKRTSSE001QFInterior01"
- },
- {
   "original": "Bittercup Handler",
   "string": "Горькая чаша (служебный)",
   "form_id": "00000804|DBM_CC_BittercupHOWPatch.esp",

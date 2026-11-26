@@ -8,22 +8,6 @@
   "editor_id": "DBM_DISPACTShadowrend"
  },
  {
-  "original": "Goldbrand",
-  "string": "Золотой меч",
-  "form_id": "00000D61|ccbgssse005-goldbrand.esl",
-  "type": "WEAP FULL",
-  "index": null,
-  "editor_id": "ccBGSSSE005_Goldbrand"
- },
- {
-  "original": "Sivdur's Respite",
-  "string": "Приют Сивдара",
-  "form_id": "00002FD3|Update.esm",
-  "type": "CELL FULL",
-  "index": null,
-  "editor_id": "ccBGSSSE005Dungeon01"
- },
- {
   "original": "A Matter of Pride",
   "string": "Дело чести",
   "form_id": "00000838|ccbgssse005-goldbrand.esl",

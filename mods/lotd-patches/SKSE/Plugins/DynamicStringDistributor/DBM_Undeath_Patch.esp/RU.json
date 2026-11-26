@@ -64,22 +64,6 @@
   "editor_id": "DBM_CheatCrateSMUndeath"
  },
  {
-  "original": "Antioch",
-  "string": "Антиох",
-  "form_id": "0018DF35|Undeath.esp",
-  "type": "NPC_ FULL",
-  "index": null,
-  "editor_id": "NecroAntioch"
- },
- {
-  "original": "Scourg Barrow",
-  "string": "Курган Бедствий",
-  "form_id": "000737EE|Undeath.esp",
-  "type": "CELL FULL",
-  "index": null,
-  "editor_id": "NecroScourgBarrow01"
- },
- {
   "original": "Undeath Support Handler",
   "string": "Поддержка Undeath (служебный)",
   "form_id": "00000803|DBM_Undeath_Patch.esp",

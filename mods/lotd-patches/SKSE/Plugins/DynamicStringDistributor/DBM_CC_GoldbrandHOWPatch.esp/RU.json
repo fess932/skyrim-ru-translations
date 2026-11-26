@@ -1,13 +1,5 @@
 [
  {
-  "original": "Goldbrand",
-  "string": "Золотой меч",
-  "form_id": "00000D61|ccbgssse005-goldbrand.esl",
-  "type": "WEAP FULL",
-  "index": null,
-  "editor_id": "ccBGSSSE005_Goldbrand"
- },
- {
   "original": "Forged by the Dragons of the North, Goldbrand lends its wielder the ability to deal fire damage.",
   "string": "Выкованный Драконами Севера, этот клинок придает своему владельцу способность наносить урон огнем.",
   "form_id": "00000D61|ccbgssse005-goldbrand.esl",

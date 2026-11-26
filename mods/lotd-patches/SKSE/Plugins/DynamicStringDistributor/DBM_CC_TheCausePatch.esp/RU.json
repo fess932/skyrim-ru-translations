@@ -224,14 +224,6 @@
   "editor_id": "DBMDGHallofWondersCC"
  },
  {
-  "original": "Rielle",
-  "string": "Риэль",
-  "form_id": "000030E5|Update.esm",
-  "type": "CELL FULL",
-  "index": null,
-  "editor_id": "ccBGSSSE067Rielle01"
- },
- {
   "original": "Deadlands",
   "string": "Мертвые Земли",
   "form_id": "000E1592|ccbgssse067-daedinv.esm",

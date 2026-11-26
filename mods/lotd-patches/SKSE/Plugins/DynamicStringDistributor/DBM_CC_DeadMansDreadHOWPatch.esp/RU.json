@@ -232,14 +232,6 @@
   "editor_id": "ccBGSSSE031Interior01"
  },
  {
-  "original": "Blackbone Isle",
-  "string": "Остров Черной кости",
-  "form_id": "00000F6C|ccbgssse031-advcyrus.esm",
-  "type": "WRLD FULL",
-  "index": null,
-  "editor_id": "ccBGSSSE031BlackboneIsle"
- },
- {
   "original": "Dead Man's Dread Handler",
   "string": "Ужас Мертвеца (служебный)",
   "form_id": "00000806|DBM_CC_DeadMansDreadHOWPatch.esp",

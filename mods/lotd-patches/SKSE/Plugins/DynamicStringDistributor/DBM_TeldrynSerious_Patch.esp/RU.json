@@ -120,22 +120,6 @@
   "editor_id": "TSR_ArmorIronShieldREPLICA"
  },
  {
-  "original": "Gargoyle Shard Ring",
-  "string": "Кольцо из осколка гаргульи",
-  "form_id": "0099ADD5|TSR_TeldrynSerious.esp",
-  "type": "ARMO FULL",
-  "index": null,
-  "editor_id": "TSRGargoyleRing"
- },
- {
-  "original": "Boosts your health by 40 points and grants 10% resistance to fire, frost and lightning.",
-  "string": "Увеличивает запас здоровья на 40 ед. и дает 10% сопротивления огню, морозу и молнии.",
-  "form_id": "0099ADD5|TSR_TeldrynSerious.esp",
-  "type": "ARMO DESC",
-  "index": null,
-  "editor_id": "TSRGargoyleRing"
- },
- {
   "original": "Gargoyle Shard Ring (replica)",
   "string": "Кольцо из осколка гаргульи (копия)",
   "form_id": "00000835|DBM_TeldrynSerious_Patch.esp",
@@ -190,46 +174,6 @@
   "type": "TREE FULL",
   "index": null,
   "editor_id": "TSR_TreeFloraNightshade01"
- },
- {
-  "original": "Glowstone Sword",
-  "string": "Меч Светящегося Камня",
-  "form_id": "001ADCFB|TSR_TeldrynSerious.esp",
-  "type": "WEAP FULL",
-  "index": null,
-  "editor_id": "TSR_GlowstoneSword"
- },
- {
-  "original": "This lightweight artifact strikes faster than normal weapons.",
-  "string": "Этот легкий артефакт наносит удары быстрее обычного оружия.",
-  "form_id": "001ADCFB|TSR_TeldrynSerious.esp",
-  "type": "WEAP DESC",
-  "index": null,
-  "editor_id": "TSR_GlowstoneSword"
- },
- {
-  "original": "Uchigatana",
-  "string": "Утигатана",
-  "form_id": "005C7865|TSR_TeldrynSerious.esp",
-  "type": "WEAP FULL",
-  "index": null,
-  "editor_id": "TSRAkaviriKatana"
- },
- {
-  "original": "Bloodrend",
-  "string": "Разрыв крови",
-  "form_id": "009348CB|TSR_TeldrynSerious.esp",
-  "type": "WEAP FULL",
-  "index": null,
-  "editor_id": "TSRVampSword"
- },
- {
-  "original": "Magnhild",
-  "string": "Магнхильд",
-  "form_id": "009867D3|TSR_TeldrynSerious.esp",
-  "type": "WEAP FULL",
-  "index": null,
-  "editor_id": "TSRSigrunSword"
  },
  {
   "original": "Glowstone Sword (replica)",

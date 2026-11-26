@@ -32,14 +32,6 @@
   "editor_id": "DBM_CC_UmbraREPLICA"
  },
  {
-  "original": "Champion's Rest Amphitheater",
-  "string": "Амфитеатр Могилы чемпиона",
-  "form_id": "00002F9A|Update.esm",
-  "type": "CELL FULL",
-  "index": null,
-  "editor_id": "ccBGSSSE016Interior02"
- },
- {
   "original": "Umbra Handler",
   "string": "Умбра (служебный)",
   "form_id": "00000800|DBM_CC_UmbraPatchV2.esp",

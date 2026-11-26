@@ -360,14 +360,6 @@
   "editor_id": "ccASVSSE001_EncAshZombie"
  },
  {
-  "original": "Ashfall's Tear",
-  "string": "Разрыв пеплопада",
-  "form_id": "000030E8|Update.esm",
-  "type": "CELL FULL",
-  "index": null,
-  "editor_id": "ccASVSSE001Interior02"
- },
- {
   "original": "Hall of Wonders",
   "string": "Зал чудес",
   "form_id": "000104C9|DBM_CC_HallOfWonders.esp",

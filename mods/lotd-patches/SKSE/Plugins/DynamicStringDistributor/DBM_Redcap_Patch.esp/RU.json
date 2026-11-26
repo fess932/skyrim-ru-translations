@@ -16,14 +16,6 @@
   "editor_id": "DBM_DISPACTFA01ManosGauntlets"
  },
  {
-  "original": "Totem of the Boar",
-  "string": "Тотем Кабана",
-  "form_id": "000A7D41|FA01RedcapFollower.esp",
-  "type": "ACTI FULL",
-  "index": null,
-  "editor_id": "FA01BigpigTotemActivator"
- },
- {
   "original": "Manos' Silver Tongue",
   "string": "Серебряный язык Маноса",
   "form_id": "0000086A|DBM_Redcap_Patch.esp",
@@ -112,94 +104,6 @@
   "editor_id": "DBM_DISPACTFA01ManosBoots"
  },
  {
-  "original": "Manos' Silver Tongue",
-  "string": "Серебряный язык Маноса",
-  "form_id": "000C146F|FA01RedcapFollower.esp",
-  "type": "ARMO FULL",
-  "index": null,
-  "editor_id": "FA01ManosAmulet"
- },
- {
-  "original": "Speechcraft is <20>% better.",
-  "string": "Красноречие улучшено на <20>%.",
-  "form_id": "000C146F|FA01RedcapFollower.esp",
-  "type": "ARMO DESC",
-  "index": null,
-  "editor_id": "FA01ManosAmulet"
- },
- {
-  "original": "Redcap's Candlelight",
-  "string": "Свеча Красной Шапки",
-  "form_id": "0003322B|FA01RedcapFollower.esp",
-  "type": "ARMO FULL",
-  "index": null,
-  "editor_id": "FA01RedcapCandlelightAmulet"
- },
- {
-  "original": "Redcap's Equippable Candlelight",
-  "string": "Надеваемая свеча Красной Шапки",
-  "form_id": "0003322B|FA01RedcapFollower.esp",
-  "type": "ARMO DESC",
-  "index": null,
-  "editor_id": "FA01RedcapCandlelightAmulet"
- },
- {
-  "original": "Call Redcap Ring",
-  "string": "Кольцо призыва Красной Шапки",
-  "form_id": "00065E3D|FA01RedcapFollower.esp",
-  "type": "ARMO FULL",
-  "index": null,
-  "editor_id": "FA01RedcapCallRedcapRing"
- },
- {
-  "original": "Manos' Locator",
-  "string": "Локатор Маноса",
-  "form_id": "000C1465|FA01RedcapFollower.esp",
-  "type": "ARMO FULL",
-  "index": null,
-  "editor_id": "FA01ManosRing"
- },
- {
-  "original": "For 60 seconds after equipping this ring, you can detect life up to 200 feet.",
-  "string": "В течение 60 секунд после надевания этого кольца вы можете обнаруживать живых существ на расстоянии до 200 футов.",
-  "form_id": "000C1465|FA01RedcapFollower.esp",
-  "type": "ARMO DESC",
-  "index": null,
-  "editor_id": "FA01ManosRing"
- },
- {
-  "original": "Manos' Footpads",
-  "string": "Обувь Маноса",
-  "form_id": "000C1468|FA01RedcapFollower.esp",
-  "type": "ARMO FULL",
-  "index": null,
-  "editor_id": "FA01ManosBoots"
- },
- {
-  "original": "Manos' Punishment",
-  "string": "Наказание Маноса",
-  "form_id": "000C146A|FA01RedcapFollower.esp",
-  "type": "ARMO FULL",
-  "index": null,
-  "editor_id": "FA01ManosGauntlets"
- },
- {
-  "original": "Manos' Carapace",
-  "string": "Панцирь Маноса",
-  "form_id": "000C146C|FA01RedcapFollower.esp",
-  "type": "ARMO FULL",
-  "index": null,
-  "editor_id": "FA01ManosArmor"
- },
- {
-  "original": "Manos' Addiction",
-  "string": "Пристрастие Маноса",
-  "form_id": "000C146D|FA01RedcapFollower.esp",
-  "type": "ARMO FULL",
-  "index": null,
-  "editor_id": "FA01ManosHelmet"
- },
- {
   "original": "Redcap's Candlelight (Replica)",
   "string": "Свеча Красной Шапки (копия)",
   "form_id": "00000836|DBM_Redcap_Patch.esp",
@@ -272,38 +176,6 @@
   "editor_id": "FA01ManosEyepatchREPLICA"
  },
  {
-  "original": "Redcap: Witch's Assistant",
-  "string": "Красная Шапка: Помощник ведьмы",
-  "form_id": "0007F379|FA01RedcapFollower.esp",
-  "type": "BOOK FULL",
-  "index": null,
-  "editor_id": "FA01RedcapAnisesJournal"
- },
- {
-  "original": "<p align='left'>\r\n<font face=\"$HandwrittenFont\">\r\nThough I may not while away my days pouring over dusty tomes within the tedious rigidity of the College of Winterhold, I am, at heart, a mage. Certain ignorant fools who couldn't BEGIN to understand the...beauty of the old magic, the TRUE magic, upon learning of my gifts and practices have referred to me errantly as a \"witch.\" Though I am unbothered by the term itself, I have taken it upon myself to...relocate to an unassuming shack where I may hone my craft away from the prying eyes of those who may one day decide that my \"witchcraft\" is due cause to bring me harm.\r\n\r\nI will reach out to my sisters, ones whom I can trust, but until we are able to find the safety in numbers a true coven would provide I have taken it upon myself to procure a...lesser being to serve as an assistant of sorts. A \"Witch's Assistant,\" as it were.\r\n\r\nObtaining the creature was simple enough; though rare on the mainland these...Rieklings are abundant on the remote isle of Solstheim, and even more abundant are the unsavory Dunmer \"Reavers\" who are more than willing to steal, capture, or smuggle ANYTHING those with the coin to pay them find value in, sentient beings included. One such fool introduced himself to me as \"Manos K'han\" (I will never understand the incessant need for errant apostrophes, or why a Dunmer would take on what sounds to me to be a Khajiit surname).\r\n\r\nSeemingly working on his own as a slaver, this...Manos had somehow captured one of these Rieklings alive and relatively unharmed, and sold it to me at an almost fair price. Coin holds no value to me, and my concoctions garner a sizeable profit when sold to the various alchemists within the walls of Skyrim's holds. I was skeptical of the deal, however, as though the Dunmer spoke pleasantly enough, there was a malice behind his saccharine smile, and his breath carried the subtle but indistinguishable smell of skooma.\r\n\r\nCommunicating with the creature was...difficult at first. Unlike most Rieklings who only speak the uncivilized gibberish of whatever passes for their native language, this one had managed to learn a few rudimentary words of the common tongue, most likely a result of its time spent captive in the Reaver's cage. Not nearly enough to understand complex instruction, but with the application of pain via the weaker elemental destruction spells he soon became capable of following simple commands.\r\n\r\nObedience was also something I was forced to instill in the creature myself, as apparently the fool who sold him to me was more a \"captor\" than a \"master.\" Nonetheless, through a few creative enchantments and a bit of spellcraft, the creature soon learned that its myriad attempts at \"escape\" were doomed to fail.\r\n\r\nOccasionally I would let him wander far enough into the wilderness to allow him a fleeting belief that he had succeeded before summoning him right back to my side. Sometimes, pain of the spirit goes further toward obedience than pain of the flesh. Initially I relied upon an enchanted ring bound to his essence to avoid using my own spellcraft when summoning him, but I seem to have misplaced it, and have resorted to casting the spell manually.\r\n\r\nAfter a time, my...experiment in creating a proper assistant out of one of these Rieklings began to bear fruit; not only does my little Redcap (a name it has chosen for itself, presumably after the surprisingly intricate leather, bone, and metal helmet it wears atop its head) serve as a capable defender of my humble abode, dispatching of wolves, trolls, and even the odd bandit or thief with his throwing spears, but he has proven able to maintain a steady supply of this ammunition with only a few pieces of firewood!\r\n\r\nI did, however, observe that when I took the crude chitin bow he carries from his hands, he ceased throwing his spears entirely until I returned it to him, presumably as a form of passive resistance. To remedy this (and spare myself having to constantly look upon this eyesore) I placed a simple enchantment upon it rendering it invisible! Well, technically, the enchantment renders it invisible to everyone BUT the wielder, but since I myself have no interest in using such a primitive tool, it serves its purpose.\r\n\r\nOn top of his capabilities as a fierce protector, his unique Riekling physiology has proven to be of substantial value in regards to my studies of both the alchemical and the arcane, though this has resulted in the unexpected side effect of complete alteration to the pigmentation of his body: over time the standard blue, white, and grey coloration seen in all Rieklings skin and hair has shifted to a mottled, earthy blend of yellows, browns, and blacks. A purely cosmetic change, but fascinating nonetheless.\r\n\r\nA less cosmetic change, however, did present itself when infusing certain tinctures with a touch of shadow magic (which seems to be a largely ignored art in Skyrim, for reasons that escape me) Along with his altered pigmentation, Redcap has become able to blend in with his surroundings at will, which I can only theorize is a unique biological response to my blending of the alchemical and the arcane.\r\n\r\nAs time has continued to pass, I have become more reliant on Redcap for an increasing number of tasks. I have constructed a portable version of the Candlelight spell that Redcap can wear to illuminate a space when my hands are otherwise occupied or my Magicka is tied up in my research, and though this trinket is strictly for the sake of utility, he has grown quite attached to it, and considers it \"his\" light. As long as he remains obedient, he can believe what he likes; seeing as he is MY possession, anything HE possesses is, therefore, also MINE. I have also taken to occasionally rewarding the behavior I find useful; though the punishments for attempted escape or failing to obey my commands remain SEVERE.\r\n\r\nWhen such reinforcement is merited, I have found the creature responds strongly to sweet rolls, greedily devouring one after the other until his hunger is temporarily satisfied. Consuming sugar in that form seems to provide him a burst of speed both in movement and to his rate of attacks, lasting only a short while but becoming more powerful for each sweet roll consumed.\r\n\r\nHe also seems to enjoy the common Scathecraw plant indigenous to his natural habitat of Solstheim, though instead of consuming the \"redgrass\" (as he calls it) he prefers to burn it and perform some primitive dance among the fumes. Some savage ritual among his kind, no doubt, though the effects do seem to improve his vitality, allowing him to absorb more damage before falling in battle and increasing the rate at which he recovers for the duration.\r\n\r\nI have even made the mistake of offering him an alcoholic beverage, which he did seem to enjoy, though after even a single drink I found his behavior to be crude and unacceptable for my company. I have decided to avoid giving him another.\r\n\r\nAfter noticing a surprisingly detailed depiction of a boar Redcap had scribbled onto the basement wall without my knowing, I decided to occasionally toss him a scrap of paper and an odd piece of charcoal to keep him occupied during those times that his assistance is not required (after punishing him severely for defacing my property, of course). I must admit it is amazing that such a primitive, uncivilized creature could be capable of something as complex as art. Perhaps the Rieklings have more culture native to their remote tribes than we are aware of.\r\n\r\nI eagerly await the day that my sisters in magic shall come to their senses and join me in my quest for the old knowledge, for look what I have accomplished! Redcap is a testament to the value of experimentation, to the purity of my pursuit, and to the genius I have proven time and time again when freed from the fools who didn't understand my power.\r\n\r\nHe even sweeps the floors!\r\n</font>",
-  "string": "<p align='left'>\r\n<font face=\"$HandwrittenFont\">\r\nХотя я и не провожу дни, листая пыльные тома в унылой строгости Коллегии Винтерхолда, в душе я маг. Некоторые невежественные глупцы, которые даже и НЕ ПОНИМАЛИ бы красоты старой магии, ИСТИННОЙ магии, узнав о моих дарах и практиках, ошибочно называли меня «ведьмой». Хотя само слово меня не тревожит, я решила... перебраться в неприметную хижину, где смогу оттачивать свое ремесло вдали от любопытных глаз тех, кто однажды может счесть мою «ведьминскую» науку достаточным поводом причинить мне вред.\r\n\r\nЯ обращусь к сестрам, тем, кому могу доверять, но пока мы не найдем безопасности в числе, которую способно дать настоящее ковен, я решила раздобыть себе... существо пониже, которое послужит мне своего рода помощником. «Помощника ведьмы», так сказать.\r\n\r\nДобыть существо оказалось несложно; хотя на материке эти... риклинги редки, на далеком острове Солстхейм их в избытке, а нечестивых данмеров-«разбойников», готовых украсть, поймать или провезти контрабандой ВСЕ, что найдут ценным те, у кого есть монеты, еще больше, включая разумных существ. Один такой глупец представился мне как «Манос К'хан» (я никогда не пойму этой навязчивой потребности в случайных апострофах или того, почему данмер взял себе фамилию, которая звучит для меня как кхаджитская).\r\n\r\nКазалось, он занимался работорговлей в одиночку, и этот... Манос каким-то образом поймал одного из этих риклингов живым и почти невредимым, а затем продал его мне почти по честной цене. Монеты не имеют для меня ценности, а мои снадобья приносят немалую прибыль, когда я продаю их разным алхимикам в пределах стен скайримских владений. Однако я отнеслась к сделке с недоверием: хотя данмер говорил достаточно приятно, за его приторной улыбкой таилась злоба, а из его дыхания слабо, но отчетливо пахло скумой.\r\n\r\nОбщаться с существом поначалу было... трудно. В отличие от большинства риклингов, которые говорят лишь на невежественной тарабарщине того, что сходит у них за родной язык, этому удалось выучить несколько примитивных слов общего языка, вероятнее всего, за время, проведенное в клетке Разбойника. Этого едва ли хватало, чтобы понять сложные приказы, но с помощью боли от слабых элементальных заклинаний разрушения он вскоре научился выполнять простые команды.\r\n\r\nПослушание тоже пришлось прививать существу самой, поскольку, похоже, глупец, продавший его мне, был скорее «похитителем», чем «хозяином». Тем не менее благодаря нескольким хитрым зачарованиям и толике магии существо вскоре поняло, что его бесчисленные попытки «сбежать» обречены на провал.\r\n\r\nВременами я позволяла ему забрести достаточно далеко в гущу дикой природы, чтобы он на миг поверил в свой успех, а затем призывала его обратно к себе. Иногда боль духа больше способствует послушанию, чем боль плоти. Сначала я полагалась на зачарованное кольцо, привязанное к его сущности, чтобы не расходовать собственную магию при его призыве, но, кажется, я его потеряла и вынуждена накладывать заклинание вручную.\r\n\r\nСо временем мой... опыт создания настоящего помощника из одного из этих риклингов начал приносить плоды; мой маленький Красная Шапка (имя он выбрал себе сам, по всей видимости, в честь удивительно искусного шлема из кожи, кости и металла, что носит на голове) не только служит способным защитником моего скромного жилища, расправляясь с волками, троллями и даже случайными бандитами или ворами своими метательными копьями, но и доказал, что способен поддерживать постоянный запас этого боеприпаса, имея лишь несколько поленьев!\r\n\r\nОднако я заметила, что когда я забирала из его рук грубый хитиновый лук, который он носит, он вовсе переставал метать копья, пока я не возвращала его ему, по всей видимости, в знак пассивного сопротивления. Чтобы исправить это (и избавить себя от необходимости постоянно взирать на это уродство), я наложила на него простое зачарование, сделавшее его невидимым! Ну, строго говоря, зачарование делает его невидимым для всех, КРОМЕ владельца, но поскольку мне самой неинтересно пользоваться столь примитивным орудием, оно выполняет свою задачу.\r\n\r\nПомимо его способностей яростного защитника, его уникальная физиология риклинга оказалась весьма ценной для моих исследований как алхимии, так и тайных искусств, хотя это привело к неожиданному побочному эффекту в виде полного изменения пигментации его тела: со временем привычная синяя, белая и серая окраска кожи и волос, свойственная всем риклингам, сменилась пестрым, землистым смешением желтых, коричневых и черных оттенков. Чисто косметическое изменение, но все же восхитительное.\r\n\r\nОднако менее косметическое изменение проявилось, когда я настаивала некоторые снадобья с каплей магии теней (искусство, которое в Скайриме, по причинам, ускользающим от моего понимания, кажется, в основном игнорируют). Вместе с измененной окраской Красная Шапка обрел способность по желанию сливаться с окружением, что я могу лишь предполагать, является уникальной биологической реакцией на мое смешение алхимии и тайных искусств.\r\n\r\nПо мере того как время шло, я все больше полагалась на Красную Шапку во все большем числе дел. Я создала переносную версию заклинания «Свеча», которую Красная Шапка может носить, чтобы освещать пространство, когда мои руки заняты или моя магия поглощена исследованиями, и хотя эта безделушка существует исключительно ради практической пользы, он сильно к ней привязался и считает ее «своим» светом. Пока он остается послушным, пусть верит во что хочет; раз уж он МОЯ собственность, все, чем владеет ОН, следовательно, также принадлежит МНЕ. Я также иногда стала вознаграждать поведение, которое нахожу полезным; хотя наказания за попытки сбежать или ослушаться моих приказов остаются СУРОВЫМИ.\r\n\r\nКогда такое поощрение уместно, я обнаружила, что существо живо откликается на сладкие булочки, жадно поглощая одну за другой, пока его голод временно не утолен. Употребление сахара в таком виде, кажется, дарит ему всплеск скорости как в передвижении, так и в темпе атак, длящийся недолго, но становящийся сильнее с каждой съеденной булочкой.\r\n\r\nЕму также, похоже, нравится обычное растение скатекрав, произрастающее в его естественной среде обитания, Солстхейме, но вместо того, чтобы есть «красную траву» (как он ее называет), он предпочитает сжигать ее и исполнять среди дыма некий примитивный танец. Несомненно, какой-то дикий обряд его народа, хотя последствия, похоже, улучшают его жизненные силы, позволяя поглощать больше урона, прежде чем он падет в бою, и ускоряя восстановление на время действия.\r\n\r\nЯ даже совершила ошибку, предложив ему спиртной напиток, который он, похоже, оценил, однако уже после одной выпивки его поведение стало грубым и недопустимым для моего общества. Я решила больше не давать ему спиртного.\r\n\r\nЗаметив на стене подвала удивительно подробный рисунок кабана, который Красная Шапка тайком от меня нацарапал, я решила время от времени бросать ему клочок бумаги и странный кусочек угля, чтобы занять его в те часы, когда его помощь не требуется (разумеется, после того, как сурово наказала его за порчу моего имущества). Должна признать, поразительно, что столь примитивное, дикое существо способно на нечто столь сложное, как искусство. Быть может, у риклингов в их далеких племенах больше собственной культуры, чем мы полагаем.\r\n\r\nЯ с нетерпением жду того дня, когда мои сестры по магии опомнятся и присоединятся ко мне в моем стремлении к старому знанию, ведь взгляните, чего я добилась! Красная Шапка свидетельство ценности экспериментов, чистоты моего стремления и гениальности, которую я вновь и вновь доказывала, стоило мне освободиться от глупцов, не понимавших моей силы.\r\n\r\nОн даже подметает пол!\r\n</font>",
-  "form_id": "0007F379|FA01RedcapFollower.esp",
-  "type": "BOOK DESC",
-  "index": null,
-  "editor_id": "FA01RedcapAnisesJournal"
- },
- {
-  "original": "Manos' Log",
-  "string": "Журнал Маноса",
-  "form_id": "000C657F|FA01RedcapFollower.esp",
-  "type": "BOOK FULL",
-  "index": null,
-  "editor_id": "FA01ManosJournal"
- },
- {
-  "original": "<p align='left'>\r\n<font face=\"$HandwrittenFont\">\r\nLife is good.\r\n\r\nThey said I'd regret leaving the Chitin Fleet, but they couldn't have been more wrong. See, I alone realized what was to become of us. The problem with a NAME is that people tend to remember it. When they see us as nameless, faceless Reavers, they believe us to be disorganized, chaotic, and unpredictable, rarely taking the time to distinguish between one crew and the next, and even more rarely deciding to do anything about us. But a name...A name puts a spotlight on something that should, by its nature, operate in the dark. A name sets you apart, a name makes you a target.\r\n\r\nNow take that name, \"the Chitin Fleet,\" and attach it to a group of, well, pirates at best, scoundrels at worst, that operates entirely on the premise of TAKING what belongs to others...Their gold...Their cargo...Even their lives. The problem with taking what is owned by someone else is that there's always going to be someone who wants it back. Relatives. Loved ones. The law. The original owner, provided they survive the taking.\r\n\r\nI saw the coming storm. The Chitin Fleet, as successful as it had been, was only four ships (three, after I absconded with the smallest of the bunch). As our notoriety grew, so did the target on our backs, and the certainty of our demise once we had pushed our luck as far as it would go. So I left, in the dead of night. Took the longboat because I knew I could manage sailing it myself, and left the Fleet to their reaving. With any luck, they'll be taken care of by the Redoran Guard long before they manage to find me.\r\n\r\nI've found a new line of business, one that doesn't require taking anything from anyone who could possibly seek retribution, or justice, or simply to recoup what they've lost. Slavery may be a punishable offense in more places than not, but is it slavery to deal in beasts?\r\n\r\nThe Rieklings may be able to piece together a tent or two, but they're animals. I've seen what they do to men when they have the numbers to overpower them; only beasts kill like that. I am not a slaver. A hunter, maybe; a trapper, perhaps. Hell, even a farmer in a sense of the word. But not a slaver. I am simply making an honest living off the natural resources at my disposal, and I'm keeping my head down while I do it.\r\n\r\nI've captured my first quarry, a Riekling that I assume was acting as a scout for a larger group, accompanied only by a Bristleback that seemed to heed the gibberish the Riekling would occasionally mutter in its direction. After stalking the pair until nightfall, I felt confident in my ability to catch them unawares (gods bless that ring), and struck the Riekling down with my hammer before it could manage to reach those spears it carried.\r\n\r\nThe boar charged me too quick to make a swing at it, gave my leg a nasty gash and knocked me flat before barreling back the way they had come, presumably returning to whatever Riekling hovel passes for its home. I noted which direction it fled, as I'll need more merchandise once I confirm that there is, in fact, a market for these beasts.\r\n\r\nIt might be the skooma, but I'd swear I heard intelligible words muttered between the incomprehensible Riekling chatter coming from the cage at all hours of the night; but even if it were so, it must be a crude mimicry of sound, like a crow or a raven exposed to the proximity of men forming an occasional word or two with no knowledge of its meaning. Perhaps I simply drank too much the past few weeks, and am imagining it. No matter.\r\n\r\nI've found a buyer, an elderly Nord from Skyrim who reeks of witchcraft. I couldn't imagine what she wants with a Riekling, and honestly, I don't much care. I named a price and she accepted, and with that I am officially an entrepeneur. Chitin Fleet be damned. Now, to follow that boar's tracks, and restock my inventory...\r\n\r\nWiseau bloody found me, the fetcher! I knew she would send someone to off me, spiteful feline she is, but Wiseau?! He's quick with a blade, but I bashed him a few times in the skull and he dropped like a sack of ash yams. He must have planned to catch me by surprise, bad luck on his part because I heard him slinking up out of the waves before he even got close. I'll keep his bones lying around for now once the birds've picked him clean, might be nice to have someone to chat to who isn't a murdering ice goblin. Even if he is dead.\r\n</font>",
-  "string": "<p align='left'>\r\n<font face=\"$HandwrittenFont\">\r\nЖизнь хороша.\r\n\r\nОни говорили, что я пожалею о том, что покинул Флот Хитина, но они не могли ошибаться сильнее. Видишь ли, лишь я один понял, что нас ждет. Беда с ИМЕНЕМ в том, что люди склонны его запоминать. Когда они видят в нас безымянных, безликих Разбойников, то считают нас неорганизованными, хаотичными и непредсказуемыми, редко утруждаясь отличить одну шайку от другой и еще реже решаясь что-то с нами сделать. Но имя... Имя привлекает внимание к тому, что по самой своей природе должно действовать во тьме. Имя выделяет тебя, имя делает тебя мишенью.\r\n\r\nА теперь возьми это имя, «Флот Хитина», и привяжи его к группе, скажем так, в лучшем случае пиратов, а в худшем мерзавцев, которая живет исключительно тем, что ЗАБИРАЕТ чужое... Их золото... Их груз... Даже их жизни. Беда с тем, чтобы забирать чужое, в том, что всегда найдется кто-то, кто захочет вернуть свое. Родные. Любимые. Закон. Первоначальный владелец, если он переживет само похищение.\r\n\r\nЯ видел надвигающуюся бурю. Флот Хитина, сколь бы успешным он ни был, состоял всего из четырех кораблей (из трех, после того как я сбежал на самом маленьком из них). Чем росла наша дурная слава, тем больше становилась мишень на наших спинах и тем вернее была наша гибель, стоило нам испытать удачу до предела. Поэтому я ушел глубокой ночью. Взял длинную лодку, потому что знал, что смогу управлять ею сам, и оставил Флот предаваться грабежам. Будь милостива судьба, Красные Стражи разберутся с ними задолго до того, как они сумеют меня отыскать.\r\n\r\nЯ нашел новое занятие, которое не требует отнимать что-либо у тех, кто может жаждать возмездия, справедливости или хотя бы вернуть утраченное. Работорговля может караться законом едва ли не повсюду, но разве торговля зверями это работорговля?\r\n\r\nРиклинги, может, и способны соорудить пару шатров, но они животные. Я видел, что они творят с людьми, когда их достаточно много, чтобы одолеть; только звери убивают так. Я не работорговец. Охотник, возможно; ловец, быть может. Черт возьми, в каком-то смысле даже фермер. Но не работорговец. Я просто честно зарабатываю на природных ресурсах, что оказались в моем распоряжении, и стараюсь не привлекать к себе внимания.\r\n\r\nЯ поймал свою первую добычу, риклинга, который, как я полагаю, служил разведчиком у более крупной группы. Его сопровождал лишь клыкастый кабан, который, казалось, слушался бессвязного лепета, что риклинг иногда издавал в его сторону. Выследив эту парочку до наступления ночи, я уверился, что сумею застать их врасплох (боги храни это кольцо), и прежде чем риклинг успел дотянуться до своих копий, свалил его молотом.\r\n\r\nКабан бросился на меня слишком быстро, чтобы я успел замахнуться, распорол мне ногу и сбил с ног, после чего умчался туда, откуда они пришли, по всей видимости, возвращаясь в ту риклингскую дыру, что сходит ему за дом. Я запомнил, в какую сторону он убежал, ведь мне понадобится больше товара, как только я удостоверюсь, что на этих зверей и правда есть спрос.\r\n\r\nМожет, это скума, но клянусь, я слышал, как из клетки по ночам доносились внятные слова среди непонятного риклингского лепета; но даже если так, это должно быть грубое подражание звукам, как у вороны или ворона, которые, насмотревшись на людей, иногда повторяют слово-другое, не понимая его смысла. Быть может, я просто слишком много пил в последние недели, и мне мерещится. Неважно.\r\n\r\nЯ нашел покупателя, пожилую нордку из Скайрима, от которой разило колдовством. Я не мог представить, зачем ей риклинг, и, честно говоря, мне было все равно. Я назвал цену, она согласилась, и вот я официально стал предпринимателем. К черту Флот Хитина. Теперь нужно пойти по следам того кабана и пополнить запасы товара...\r\n\r\nЭтот проклятый Визо нашел меня, тварь! Я знал, что она пошлет кого-нибудь прикончить меня, злопамятная кошка, но Визо?! Он проворен с клинком, но я несколько раз приложил его по башке, и он рухнул, как мешок пепельных бататов. Он, должно быть, собирался застать меня врасплох, но ему не повезло, ведь я услышал, как он крадется из волн, еще до того, как он подошел близко. Я пока оставлю его кости валяться, после того как птицы обглодают их дочиста. Будет неплохо иметь с кем поболтать, кто не убийственный ледяной гоблин. Даже если он мертв.\r\n</font>",
-  "form_id": "000C657F|FA01RedcapFollower.esp",
-  "type": "BOOK DESC",
-  "index": null,
-  "editor_id": "FA01ManosJournal"
- },
- {
   "original": "Storage Barrel",
   "string": "Бочка для хранения",
   "form_id": "00000816|DBM_Redcap_Patch.esp",
@@ -328,28 +200,12 @@
   "editor_id": "GM_FA01BedrollHay01L"
  },
  {
-  "original": "Manos' Subduer",
-  "string": "Усмиритель Маноса",
-  "form_id": "000C146B|FA01RedcapFollower.esp",
-  "type": "WEAP FULL",
-  "index": null,
-  "editor_id": "FA01ManosMace"
- },
- {
   "original": "Manos' Subduer (Replica)",
   "string": "Усмиритель Маноса (копия)",
   "form_id": "00000843|DBM_Redcap_Patch.esp",
   "type": "WEAP FULL",
   "index": null,
   "editor_id": "FA01ManosMaceREPLICA"
- },
- {
-  "original": "Redcap's Village",
-  "string": "Деревня Красной шапки",
-  "form_id": "0009DA17|FA01RedcapFollower.esp",
-  "type": "CELL FULL",
-  "index": null,
-  "editor_id": "FA01RedcapsVillage"
  },
  {
   "original": "Redcap",

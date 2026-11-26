@@ -440,14 +440,6 @@
   "editor_id": "ccTWBSSE001DwarvenPuzzleDungeon02"
  },
  {
-  "original": "Runoff Caverns",
-  "string": "Пещеры слива",
-  "form_id": "00000A98|cctwbsse001-puzzledungeon.esm",
-  "type": "CELL FULL",
-  "index": null,
-  "editor_id": "ccTWBSSE001DwarvenPuzzleDungeon01"
- },
- {
   "original": "Forgotten Seasons Handler",
   "string": "Забытые времена года (служебный)",
   "form_id": "00000800|DBM_CC_ForgottenSeasonsHOWPatch.esp",
