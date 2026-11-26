@@ -16,7 +16,7 @@ import os
 import sys
 
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
-from prepare import uid  # noqa: E402
+from prepare import installed, uid, wanted  # noqa: E402
 from validate import DROPCAP, check  # noqa: E402
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
@@ -29,12 +29,15 @@ def main(mod_dir, allow_missing):
     for f in sorted(glob.glob(os.path.join(work, 'out', '*.json'))):
         tr.update(json.load(open(f, encoding='utf-8')))
     auto = json.load(open(os.path.join(work, 'auto.json'), encoding='utf-8'))
+    _, covered = installed(mod)
 
     report, total_ok, total = [], 0, 0
     for f in sorted(glob.glob(os.path.join(work, 'en', '*.json'))):
         plugin = os.path.splitext(os.path.basename(f))[0]
         out = []
         for e in json.load(open(f, encoding='utf-8')):
+            if not wanted(e, covered):
+                continue
             total += 1
             i = uid(e['original'])
             ru = auto.get(i) or tr.get(i)
@@ -49,6 +52,8 @@ def main(mod_dir, allow_missing):
                 continue
             out.append({**{k: v for k, v in e.items() if not k.startswith('_')}, 'string': ru})
             total_ok += 1
+        if not out:
+            continue
         dst = os.path.join(mod_dir, 'SKSE', 'Plugins', 'DynamicStringDistributor', plugin)
         os.makedirs(dst, exist_ok=True)
         json.dump(out, open(os.path.join(dst, 'RU.json'), 'w', encoding='utf-8'), ensure_ascii=False, indent=1)

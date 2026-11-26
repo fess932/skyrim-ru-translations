@@ -7,6 +7,11 @@ Writes work/<slug>/units.json          unique source strings + context
        work/<slug>/batches/NNN.json    {batch, terms, items:[{id, en, ctx}]}
        work/<slug>/auto.json           strings resolved from vanilla (no LLM needed)
 
+With "reuse_installed": true in mod.json (needs `tools/harvest.py` first):
+strings another installed DSD file already translates are skipped, and text
+already translated somewhere in the setup is reused as an exact match.
+Originals that are already Russian are always skipped.
+
 A unit = one unique English string. Identical lines are translated once.
 `terms` = glossary entries that literally occur in the batch's strings (base
 glossary, mod glossary, vanilla proper nouns) - lexical retrieval, listed once
@@ -32,6 +37,27 @@ def load_json(path, default=None):
     if os.path.exists(path):
         return json.load(open(path, encoding='utf-8'))
     return default
+
+
+CYR = re.compile('[А-Яа-яЁё]')
+
+
+def installed(mod):
+    """(known, covered) from tools/harvest.py, or empty if the mod doesn't opt in."""
+    if not mod.get('reuse_installed'):
+        return {}, set()
+    known = load_json(os.path.join(ROOT, 'vanilla', 'known.json'))
+    covered = load_json(os.path.join(ROOT, 'vanilla', 'covered.json'))
+    if known is None or covered is None:
+        sys.exit('reuse_installed: run tools/harvest.py first')
+    return known, set(covered)
+
+
+def wanted(e, covered):
+    """False for strings that need no DSD entry from us."""
+    if CYR.search(e['original']):
+        return False
+    return f"{e['form_id'].lower()}|{e['type']}|{e['index']}" not in covered
 
 
 def common_words():
@@ -118,7 +144,8 @@ def learned_names(work):
 def main(mod_dir):
     mod = json.load(open(os.path.join(mod_dir, 'mod.json'), encoding='utf-8'))
     work = os.path.join(ROOT, 'work', mod['slug'])
-    exact = load_json(os.path.join(ROOT, 'vanilla', 'exact.json'), {})
+    known, covered = installed(mod)
+    exact = {**known, **load_json(os.path.join(ROOT, 'vanilla', 'exact.json'), {})}
     glossary = learned_names(work)
     glossary.update(glossary_for(mod_dir))  # curated glossary wins over learned names
     index = TermIndex(glossary)
@@ -126,6 +153,8 @@ def main(mod_dir):
     units, auto = {}, {}
     for f in sorted(glob.glob(os.path.join(work, 'en', '*.json'))):
         for e in json.load(open(f, encoding='utf-8')):
+            if not wanted(e, covered):
+                continue
             en = e['original']
             i = uid(en)
             if en in exact:
