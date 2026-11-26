@@ -224,6 +224,38 @@
   "editor_id": "FemaleEyesHumanIcyKoralina"
  },
  {
+  "original": "Vaudren Hairline",
+  "string": "Водрен: линия волос",
+  "form_id": "0039DDC7|BecomeKingofSkyrimTNG.esp",
+  "type": "HDPT FULL",
+  "index": null,
+  "editor_id": "AAKingFollowerVaudren_HL"
+ },
+ {
+  "original": "Vaudren Hair",
+  "string": "Водрен: волосы",
+  "form_id": "0039DDC8|BecomeKingofSkyrimTNG.esp",
+  "type": "HDPT FULL",
+  "index": null,
+  "editor_id": "AAKingFollowerVaudren_Sky120"
+ },
+ {
+  "original": "Eldis Arena",
+  "string": "Эльдис: прическа \"Арена\"",
+  "form_id": "001070CC|BecomeKingofSkyrimTNG.esp",
+  "type": "HDPT FULL",
+  "index": null,
+  "editor_id": "AAKingFollowerEldis_Arena"
+ },
+ {
+  "original": "Eldis Hairline",
+  "string": "Эльдис: линия волос",
+  "form_id": "001070CA|BecomeKingofSkyrimTNG.esp",
+  "type": "HDPT FULL",
+  "index": null,
+  "editor_id": "AAKingFollowerEldis_Arena_HL"
+ },
+ {
   "original": "FemaleHeadOrcHPH",
   "string": "FemaleHeadOrcHPH",
   "form_id": "001B0327|BecomeKingofSkyrimTNG.esp",
@@ -278,6 +310,38 @@
   "type": "HDPT FULL",
   "index": null,
   "editor_id": "FemaleHeadBretonHighPoly"
+ },
+ {
+  "original": "Eldis scalp",
+  "string": "Эльдис: кожа головы",
+  "form_id": "001B0320|BecomeKingofSkyrimTNG.esp",
+  "type": "HDPT FULL",
+  "index": null,
+  "editor_id": "AAKingFollowerEldisHL"
+ },
+ {
+  "original": "LotL scalp",
+  "string": "Владычица озера: кожа головы",
+  "form_id": "001070CB|BecomeKingofSkyrimTNG.esp",
+  "type": "HDPT FULL",
+  "index": null,
+  "editor_id": "AAKingFollowerLotL_Scalp_HL"
+ },
+ {
+  "original": "LotL Swallow",
+  "string": "Владычица озера: прическа \"Ласточка\"",
+  "form_id": "001B031D|BecomeKingofSkyrimTNG.esp",
+  "type": "HDPT FULL",
+  "index": null,
+  "editor_id": "AAKingFollowerLotL_Swallow"
+ },
+ {
+  "original": "LotL Swallow HL",
+  "string": "Владычица озера: линия волос \"Ласточка\"",
+  "form_id": "001B0321|BecomeKingofSkyrimTNG.esp",
+  "type": "HDPT FULL",
+  "index": null,
+  "editor_id": "AAKingFollowerLotL_SwallowHL"
  },
  {
   "original": "Giant",
@@ -10990,6 +11054,14 @@
   "type": "CELL FULL",
   "index": null,
   "editor_id": "SolitudeErikursHouse"
+ },
+ {
+  "original": "Editor Smoke Test Cell",
+  "string": "Тестовая ячейка редактора",
+  "form_id": "00032AE7|Skyrim.esm",
+  "type": "CELL FULL",
+  "index": null,
+  "editor_id": "QASmoke"
  },
  {
   "original": "Attic",
