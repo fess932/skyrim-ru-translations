@@ -2,6 +2,8 @@
   "slug": "become-high-king-tng",
   "name": "Become High King of Skyrim TNG",
   "nexus_id": 142993,
-  "version": "2.2.5",
-  "plugins": ["BecomeKingofSkyrimTNG.esp"]
+  "version": "2.3",
+  "plugins": [
+    "BecomeKingofSkyrimTNG.esp"
+  ]
 }

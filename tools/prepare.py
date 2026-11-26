@@ -107,17 +107,29 @@ def main(mod_dir):
             if en in exact:
                 auto[i] = exact[en]
                 continue
-            u = units.setdefault(i, {'id': i, 'en': en, 'ctx': set()})
+            first = i not in units
+            u = units.setdefault(i, {'id': i, 'en': en, 'ctx': [], 'order': len(units)})
             ctx = e['type']
             if e.get('editor_id'):
                 ctx += f" {e['editor_id']}"
-            if len(u['ctx']) < 3:
-                u['ctx'].add(ctx)
+            if e.get('_speaker'):
+                ctx += f" | говорит: {e['_speaker']}"
+            if e.get('_topic') and e['_topic'] != en:
+                ctx += f" | ответ на: {e['_topic']}"
+            if ctx not in u['ctx'] and len(u['ctx']) < 3:
+                u['ctx'].append(ctx)
+            if first:
+                u['type'] = e['type']
 
-    ordered = sorted(units.values(), key=lambda u: (sorted(u['ctx'])[0], u['en']))
+    # keep the plugin's own order inside each record type, so the lines of
+    # one conversation stay together; types grouped so batches are uniform
+    type_rank = {}
+    for u in sorted(units.values(), key=lambda u: u['order']):
+        type_rank.setdefault(u['type'], len(type_rank))
+    ordered = sorted(units.values(), key=lambda u: (type_rank[u['type']], u['order']))
     batches, cur, size = [], [], 0
     for u in ordered:
-        item = {'id': u['id'], 'en': u['en'], 'ctx': '; '.join(sorted(u['ctx']))}
+        item = {'id': u['id'], 'en': u['en'], 'ctx': '; '.join(u['ctx'])}
         if cur and size + len(u['en']) > BATCH_CHARS:
             batches.append(cur)
             cur, size = [], 0

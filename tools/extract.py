@@ -70,11 +70,30 @@ def extract(path):
     _, flags, masters = next(it)
     if flags & 0x80:
         raise SystemExit('localized plugin - use .strings files instead')
+    recs = list(it)
+    # NPC names defined or overridden in this plugin, for "who speaks" context
+    npc_names = {}
+    for rt, fid, body in recs:
+        if rt == 'NPC_':
+            for st, v in subrecords(body):
+                if st == 'FULL' and len(v) > 1:
+                    npc_names[fid] = text(v)
     out = []
     seen = set()
-    for rt, fid, body in it:
+    topic = None  # player prompt (DIAL FULL) of the topic the next INFOs belong to
+    for rt, fid, body in recs:
         if rt in SKIP_FULL_TYPES:
             continue
+        if rt == 'DIAL':
+            subs_ = dict(subrecords(body))
+            topic = text(subs_['FULL']) if len(subs_.get('FULL', b'')) > 1 else None
+        speaker = None
+        if rt == 'INFO':
+            for st, v in subrecords(body):
+                if st == 'CTDA' and len(v) >= 16 and struct.unpack_from('<H', v, 8)[0] == 72:  # GetIsID
+                    speaker = npc_names.get(struct.unpack_from('<I', v, 12)[0])
+                    if speaker:
+                        break
         mi = fid >> 24
         base = masters[mi] if mi < len(masters) else name
         form = f'{fid & 0xFFFFFF:08X}|{base}'
@@ -123,8 +142,15 @@ def extract(path):
             if k in seen:
                 continue
             seen.add(k)
-            out.append({'original': s, 'string': '', 'form_id': form,
-                        'type': key[0], 'index': key[1], 'editor_id': edid})
+            e = {'original': s, 'string': '', 'form_id': form,
+                 'type': key[0], 'index': key[1], 'editor_id': edid}
+            # context only for the translator; build.py strips these keys
+            if rt == 'INFO':
+                if speaker:
+                    e['_speaker'] = speaker
+                if topic:
+                    e['_topic'] = topic
+            out.append(e)
     return out
 
 

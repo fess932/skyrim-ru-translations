@@ -45,7 +45,7 @@ def main(mod_dir, allow_missing):
             if probs:
                 report.append(f'INVALID {plugin} {e["form_id"]} {e["type"]} {probs}: {e["original"][:80]!r}')
                 continue
-            out.append({**e, 'string': ru})
+            out.append({**{k: v for k, v in e.items() if not k.startswith('_')}, 'string': ru})
             total_ok += 1
         dst = os.path.join(mod_dir, 'SKSE', 'Plugins', 'DynamicStringDistributor', plugin)
         os.makedirs(dst, exist_ok=True)
