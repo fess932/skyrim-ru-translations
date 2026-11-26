@@ -1,0 +1,18 @@
+[
+ {
+  "original": "Ring of Disrobing (replica)",
+  "string": "Кольцо раздевания (копия)",
+  "form_id": "00000800|DBM_CC_SaintsSeducersHOWReplicaPatch.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "DBM_CC_Ring_DisrobingREPLICA"
+ },
+ {
+  "original": "Arcane Blacksmith's Apron (replica)",
+  "string": "Фартук кузнеца-волшебника (копия)",
+  "form_id": "00000801|DBM_CC_SaintsSeducersHOWReplicaPatch.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "DBM_CC_Clothing_ArcaneBlacksmithApronREPLICA"
+ }
+]

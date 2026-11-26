@@ -1,0 +1,578 @@
+[
+ {
+  "original": "Splintered Club",
+  "string": "Расщепленная дубинка",
+  "form_id": "000008DE|DBM_KhajiitFollow_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTChaturjoClub"
+ },
+ {
+  "original": "Dwemer Forging Boots",
+  "string": "Двемерские кузнечные сапоги",
+  "form_id": "000008DF|DBM_KhajiitFollow_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTDwemerForgingBoots"
+ },
+ {
+  "original": "Dwemer Forging Gloves",
+  "string": "Двемерские кузнечные перчатки",
+  "form_id": "000008E0|DBM_KhajiitFollow_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTDwemerForgingGloves"
+ },
+ {
+  "original": "Dwemer Forging Hood",
+  "string": "Двемерский кузнечный капюшон",
+  "form_id": "000008E1|DBM_KhajiitFollow_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTDwemerForgingHood2"
+ },
+ {
+  "original": "Dwemer Forging Robes",
+  "string": "Двемерские кузнечные мантии",
+  "form_id": "000008E2|DBM_KhajiitFollow_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTDwemerForgingRobes"
+ },
+ {
+  "original": "Bikhai's Golden Locket",
+  "string": "Золотой медальон Бикхая",
+  "form_id": "000008E3|DBM_KhajiitFollow_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTBikhaiLocket"
+ },
+ {
+  "original": "Cat's Eye Pendant",
+  "string": "Подвеска «Кошачий глаз»",
+  "form_id": "000008E4|DBM_KhajiitFollow_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTNanakGiftNecklace"
+ },
+ {
+  "original": "White Cat's Stiletto",
+  "string": "Стилет Белого Кота",
+  "form_id": "000008E5|DBM_KhajiitFollow_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTSariqsDagger02"
+ },
+ {
+  "original": "Black Cat's Shiv",
+  "string": "Заточка Черного Кота",
+  "form_id": "000008E6|DBM_KhajiitFollow_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTSariqsDagger01"
+ },
+ {
+  "original": "Mythic Dawn Commentaries Volume 1 (First Edition!)",
+  "string": "Комментарии Мифического Рассвета, том 1 (первое издание!)",
+  "form_id": "000008E7|DBM_KhajiitFollow_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTNanakMythicBook"
+ },
+ {
+  "original": "Book of the Missing Cat",
+  "string": "Книга о пропавшем коте",
+  "form_id": "000008E8|DBM_KhajiitFollow_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTBookoftheMissingCat"
+ },
+ {
+  "original": "Khajiit Will Follow: The Book",
+  "string": "Khajiit Will Follow: Книга",
+  "form_id": "000008E9|DBM_KhajiitFollow_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTKWFGlossary"
+ },
+ {
+  "original": "Replica Steam Centurion",
+  "string": "Копия парового центуриона",
+  "form_id": "000008EA|DBM_KhajiitFollow_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTCenturionTrophy"
+ },
+ {
+  "original": "Replica Dwarven Spider",
+  "string": "Копия двемерского паука",
+  "form_id": "000008EB|DBM_KhajiitFollow_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTSpiderTrophy"
+ },
+ {
+  "original": "Replica Dwarven Sphere",
+  "string": "Копия двемерской сферы",
+  "form_id": "000008EC|DBM_KhajiitFollow_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTSphereTrophy"
+ },
+ {
+  "original": "Khajiit-attuned Horn",
+  "string": "Рог, настроенный на каджитов",
+  "form_id": "000008ED|DBM_KhajiitFollow_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTSummoningHorn"
+ },
+ {
+  "original": "Vanished: The Disappearance of the Dwemer",
+  "string": "Исчезнувшие: Обстоятельства исчезновения двемеров",
+  "form_id": "000008EE|DBM_KhajiitFollow_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTDwemerBook2"
+ },
+ {
+  "original": "Cat's Eye Amethyst",
+  "string": "Аметист «Кошачий глаз»",
+  "form_id": "000008EF|DBM_KhajiitFollow_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTMakaraGem"
+ },
+ {
+  "original": "Moon Sugar Rum",
+  "string": "Ром из лунного сахара",
+  "form_id": "000008F0|DBM_KhajiitFollow_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTMoonSugarRum"
+ },
+ {
+  "original": "Magecrafter's Ore",
+  "string": "Руда мастера магии",
+  "form_id": "000008FC|DBM_KhajiitFollow_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTUdasiOre"
+ },
+ {
+  "original": "Absolution or Ascension",
+  "string": "Искупление или Вознесение",
+  "form_id": "00000908|DBM_KhajiitFollow_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTArtifactArmorCuirass"
+ },
+ {
+  "original": "Bikhai's Golden Locket",
+  "string": "Золотой медальон Бикхая",
+  "form_id": "00004351|KhajiitWillFollow.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "BikhaisLocket"
+ },
+ {
+  "original": "A golden locket. Inside is a drawing of a female khajiiti cub.",
+  "string": "Золотой медальон. Внутри — рисунок маленькой каджитки.",
+  "form_id": "00004351|KhajiitWillFollow.esp",
+  "type": "ARMO DESC",
+  "index": null,
+  "editor_id": "BikhaisLocket"
+ },
+ {
+  "original": "Cat's Eye Pendant",
+  "string": "Подвеска «Кошачий глаз»",
+  "form_id": "002BBE0C|KhajiitWillFollow.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "NanakGiftNecklace"
+ },
+ {
+  "original": "A golden locket  bearing an inscription: 'To my mate. You brighten every day with your presence. With love, Nanak.'\r\n\r\nIncreases magicka regen and decreases cost of destruction spells ",
+  "string": "Золотой медальон с надписью: \"Моей половинке. Ты освещаешь каждый мой день своим присутствием. С любовью, Нанак\".\r\n\r\nУскоряет восстановление магии и снижает стоимость заклинаний Разрушения ",
+  "form_id": "002BBE0C|KhajiitWillFollow.esp",
+  "type": "ARMO DESC",
+  "index": null,
+  "editor_id": "NanakGiftNecklace"
+ },
+ {
+  "original": "Absolution",
+  "string": "Искупление",
+  "form_id": "0050C777|KhajiitWillFollow.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "KWF_ArtifactArmorCuirass"
+ },
+ {
+  "original": "Armor forged from twin Dwemer artifacts in the lost ruins of Kagrenzel. Increases Health by 50. Increases Health, Magic, and Stamina Regen by 80%",
+  "string": "Броня, выкованная из пары двемерских артефактов в утраченных руинах Кагрензела. Увеличивает здоровье на 50. Увеличивает восстановление здоровья, магии и выносливости на 80%.",
+  "form_id": "0050C777|KhajiitWillFollow.esp",
+  "type": "ARMO DESC",
+  "index": null,
+  "editor_id": "KWF_ArtifactArmorCuirass"
+ },
+ {
+  "original": "Ascension",
+  "string": "Вознесение",
+  "form_id": "0051187E|KhajiitWillFollow.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "KWF_ArtifactArmorCuirassLight2"
+ },
+ {
+  "original": "Armor forged from twin Dwemer artifacts in the lost ruins of Kagrenzel. Increases Health by 50. Increases Health, Magic, and Stamina Regen by 80%",
+  "string": "Броня, выкованная из пары двемерских артефактов в утраченных руинах Кагрензела. Увеличивает здоровье на 50. Увеличивает восстановление здоровья, магии и выносливости на 80%.",
+  "form_id": "0051187E|KhajiitWillFollow.esp",
+  "type": "ARMO DESC",
+  "index": null,
+  "editor_id": "KWF_ArtifactArmorCuirassLight2"
+ },
+ {
+  "original": "Dwemer Forging Boots",
+  "string": "Двемерские кузнечные сапоги",
+  "form_id": "005B3B95|KhajiitWillFollow.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "KWF_DwemerForgingBoots"
+ },
+ {
+  "original": "Dwemer Forging Gloves",
+  "string": "Двемерские кузнечные перчатки",
+  "form_id": "005B3B96|KhajiitWillFollow.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "KWF_DwemerForgingGloves"
+ },
+ {
+  "original": "Dwemer Forging Robes",
+  "string": "Двемерские кузнечные мантии",
+  "form_id": "005B3B98|KhajiitWillFollow.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "KWF_DwemerForgingRobes"
+ },
+ {
+  "original": "Dwemer Forging Hood",
+  "string": "Двемерский кузнечный капюшон",
+  "form_id": "005F59A7|KhajiitWillFollow.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "KWF_DwemerForgingHood2"
+ },
+ {
+  "original": "Khajiit-attuned Horn",
+  "string": "Рог, настроенный на каджитов",
+  "form_id": "008BAADF|KhajiitWillFollow.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "KWFSummoningHorn"
+ },
+ {
+  "original": "A horn that emits a sound that only khajiit ears can hear. Can be used to summon followers and give them basic commands in the field.",
+  "string": "Рог, издающий звук, который слышат только каджитские уши. Позволяет призывать спутников и отдавать им основные команды в поле.",
+  "form_id": "008BAADF|KhajiitWillFollow.esp",
+  "type": "ARMO DESC",
+  "index": null,
+  "editor_id": "KWFSummoningHorn"
+ },
+ {
+  "original": "Absolution (replica)",
+  "string": "Искупление (копия)",
+  "form_id": "000008AD|DBM_KhajiitFollow_Patch.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "KWF_ArtifactArmorCuirassREPLICA"
+ },
+ {
+  "original": "Bikhai's Golden Locket (replica)",
+  "string": "Золотой медальон Бикхая (копия)",
+  "form_id": "000008AE|DBM_KhajiitFollow_Patch.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "KWF_BikhaisLocketREPLICA"
+ },
+ {
+  "original": "Ascension (replica)",
+  "string": "Вознесение (копия)",
+  "form_id": "000008AF|DBM_KhajiitFollow_Patch.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "KWF_ArtifactArmorCuirassLight2REPLICA"
+ },
+ {
+  "original": "Dwemer Forging Boots (replica)",
+  "string": "Двемерские кузнечные сапоги (копия)",
+  "form_id": "000008B0|DBM_KhajiitFollow_Patch.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "KWF_DwemerForgingBootsREPLICA"
+ },
+ {
+  "original": "Dwemer Forging Gloves (replica)",
+  "string": "Двемерские кузнечные перчатки (копия)",
+  "form_id": "000008B1|DBM_KhajiitFollow_Patch.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "KWF_DwemerForgingGlovesREPLICA"
+ },
+ {
+  "original": "Dwemer Forging Hood (replica)",
+  "string": "Двемерский кузнечный капюшон (копия)",
+  "form_id": "000008B2|DBM_KhajiitFollow_Patch.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "KWF_DwemerForgingHood2REPLICA"
+ },
+ {
+  "original": "Dwemer Forging Robes (replica)",
+  "string": "Двемерские кузнечные мантии (копия)",
+  "form_id": "000008B3|DBM_KhajiitFollow_Patch.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "KWF_DwemerForgingRobesREPLICA"
+ },
+ {
+  "original": "Cat's Eye Pendant (replica)",
+  "string": "Подвеска «Кошачий глаз» (копия)",
+  "form_id": "000008B4|DBM_KhajiitFollow_Patch.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "KWF_NanakGiftNecklaceREPLICA"
+ },
+ {
+  "original": "Khajiit-attuned Horn (replica)",
+  "string": "Рог, настроенный на каджитов (копия)",
+  "form_id": "000008DA|DBM_KhajiitFollow_Patch.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "KWF_SummoningHornREPLICA"
+ },
+ {
+  "original": "Mythic Dawn Commentaries Volume 1 (First Edition!)",
+  "string": "Комментарии Мифического Рассвета, том 1 (первое издание!)",
+  "form_id": "00029EEC|KhajiitWillFollow.esp",
+  "type": "BOOK FULL",
+  "index": null,
+  "editor_id": "NanakMythicBook"
+ },
+ {
+  "original": "[pagebreak]\r\n<p align=\"center\">\r\n\r\nCOMMENTARIES ON THE MYSTERIUM XARXES\r\n\r\nBOOK ONE\r\n\r\nBy\r\nMankar Camoran\r\n\r\n<font face='$DaedricFont'>DAGON</font></p>\r\n[pagebreak]\r\n[pagebreak]\r\n<p align=\"left\">\r\n<img src='img://Textures/Interface/Books/Illuminated_Letters/G_letter.png'>reetings, novitiate, and know first a reassurance: Mankar Camoran was once like you, asleep, unwise, protonymic. We mortals leave the dreaming-sleeve of birth the same, unmantled save for the symbiosis with our mothers, thus to practice and thus to rapprochement, until finally we might through new eyes leave our hearths without need or fear that she remains behind. In this moment we destroy her forever and enter the demesne of Lord Dagon.\r\n[pagebreak]\r\n<img src='img://Textures/Interface/Books/Illuminated_Letters/R_letter.png'>eader, this book is your door to that demesne, and though you be a destroyer you must still submit to locks. Lord Dagon would only have those clever enough to pause; all else the Aurbis claims in their fool running. Walk first. Heed. The impatience you feel is your first slave to behead.\r\n[pagebreak]\r\n<img src='img://Textures/Interface/Books/Illuminated_Letters/E_letter.png'>nter as Lord Dagon has written: come slow and bring four keys. Know that then you are royalty, a new breed of destroyer, whose garden shall flood with flowers known and unknown, as it was in the mythic dawn. Thus shall you return to your first primal wail and yet come out different. It shall this time be neonymbiosis, master akin to Master, whose Mother is miasma.\r\n[pagebreak]\r\n<img src='img://Textures/Interface/Books/Illuminated_Letters/E_letter.png'>very quarter has known us, and none bore our passing except with trembling. Perhaps you came to us through war, or study, or shadow, or the alignment of certain snakes. Though each path matters in its kind, the prize is always thus: welcome, novitiate, that you are here at all means that you have the worthiness of kings. Seek thy pocket now, and look! There is the first key, glinting with the light of a new dawn.\r\n[pagebreak]\r\n<img src='img://Textures/Interface/Books/Illuminated_Letters/N_letter.png'>ight follows day, and so know that this primary insight shall fall alike unto the turbulent evening sea where all faiths are tested. Again, a reassurance: even the Usurper went under the Iliac before he rose up to claim his fleet. Fear only for a second. Shaken belief is like water for a purpose: in the garden of the Dawn we shall breathe whole realities.\r\n[pagebreak]\r\n<img src='img://Textures/Interface/Books/Illuminated_Letters/E_letter.png'>nter as Lord Dagon has written: come slow and bring four keys. Our Order is based on the principles of his mighty razor: Novitiate, Questing Knight, Chaplain, and Master. Let the evil ones burn in its light as if by the excess of our vision. Then shalt our Knowledge go aright. However, recall that your sight is yet narrow, and while you have the invitation, you have not the address.\r\n[pagebreak]\r\n<img src='img://Textures/Interface/Books/Illuminated_Letters/M_letter.png'>y own summons came through a book Lord Dagon wrote himself in the deserts of rust and wounds. Its name is the 'Mysterium Xarxes', Aldmeretada aggregate, forefather to the wife of all enigma. Each word is razor-fed and secret, thinner than cataclysms, tarnished like red-drink. That I mention it at all is testament to your new rank, my child. Your name is now cut into its weight.\r\n[pagebreak]\r\n<img src='img://Textures/Interface/Books/Illuminated_Letters/P_letter.png'>alace, hut, or cave, you have left all the fog worlds of conception behind. Nu-mantia! Liberty! Rejoice in the promise of paradise!\r\n[pagebreak]\r\n<img src='img://Textures/Interface/Books/Illuminated_Letters/E_letter.png'>ndlessly it shall form and reform around you, deeds as entities, all-systems only an hour before they bloom to zero sums, flowering like vestments, divine raiment worn to dance at Lord Dagon's golden feet. In his first arm, a storm, his second the rush of plagued rain, the third all the tinder of Anu, and the fourth the very eyes of Padhome. Feel uplifted in thine heart that you have this first key, for it shall strike high and low into the wormrot of false heavens.\r\n[pagebreak]\r\n<img src='img://Textures/Interface/Books/Illuminated_Letters/R_letter.png'>oaring I wandered until I grew hoarse with the gospel. I had read the mysteries of Lord Dagon and feeling anew went mad with the overflow. My words found no purchase until I became hidden. These were not words for the common of Tamriel, whose clergy long ago feigned the very existence of the Dawn. Learn from my mistake; know that humility was Mankar Camoran's original wisdom. Come slow, and bring four keys.\r\n[pagebreak]\r\n<img src='img://Textures/Interface/Books/Illuminated_Letters/O_letter.png'>ffering myself to that daybreak allowed the girdle of grace to contain me. When my voice returned, it spoke with another tongue. After three nights I could speak fire.\r\n[pagebreak]\r\n<img src='img://Textures/Interface/Books/Illuminated_Letters/R_letter.png'>ed-drink, razor-fed, I had glimpsed the path unto the garden, and knew that to inform others of its harbor I had to first drown myself in search's sea. Know ye that I have found my fleet, and that you are the flagship of my hope. Greetings, novitiate, Mankar Camoran was once you, asleep, unwise, protonymic, but Am No More. Now I sit and wait to feast with thee on all the worlds of this cosmos. Nu-mantia! Liberty!",
+  "string": "[pagebreak]\r\n<p align=\"center\">\r\n\r\nКОММЕНТАРИИ К МИСТЕРИУМУ ЗАРКСА\r\n\r\nКНИГА ПЕРВАЯ\r\n\r\n\r\nМанкар Каморан\r\n\r\n<font face='$DaedricFont'>DAGON</font></p>\r\n[pagebreak]\r\n[pagebreak]\r\n<p align=\"left\">\r\nЗдравствуй, ученик. Знай, когда-то и Манкар Каморан был таким, как ты, пребывал во сне, лишен был мудрости, имел лишь протонимик. Мы, смертные, покидаем дремотную оболочку нашего рождения не обремененными ничем, кроме связи с нашими матерями, чтобы приобретая опыт и устанавливая отношения с окружающим миром, мы могли впоследствии освободить сердца от нужд и страхов, что она останется позади. В этот момент мы бесповоротно уничтожаем ее и входим во владения Лорда Дагона.\r\n[pagebreak]\r\nЕсли жаждешь войти в те пределы, то книга эта тебе раскроет дверь. Хоть стезя твоя - разрушение, но должен ты подчиниться замкам.\r\n[pagebreak]\r\nЛорду Дагону нужны лишь те, кто достаточно умен, чтобы остановиться и повременить, все прочие в их глупой суете принадлежат Аурбису.\r\n[pagebreak]\r\nЕще шаг сделай. Осмотрись. То нетерпение, что гложет - вот первое, что тебе надо побороть.\r\n[pagebreak]\r\nНыне входи, как Лорд Дагон начертал: приближайся неспешно, неся четыре ключа. Знай, теперь увенчан ты, новый тип разрушителя, чьи сады заполнятся цветами, ведомыми и неведомыми, как было то в Мифический Рассвет. Вернешь себе первичный плач и станешь ты другим. И будет на сей раз это неонимбиозом, мастер сроднится с Мастером, чьей Матерью была темная скверна.\r\n[pagebreak]\r\nА наше пришествие принимается не иначе, как с дрожью, ибо знает нас каждая четверть. Ты можешь прийти или посредством войны, или познания, или тени, или расположения определенных змей. Хотя каждая дорога значима в своем роде, награда одна и вот она: добро пожаловать, ученик, ты здесь потому, что достоин королей. Теперь проверь свой карман.\r\n[pagebreak]\r\nЯрким сиянием нового Рассвета озарен твой первый ключ. Гляди, вот он.\r\n[pagebreak]\r\nИ как ночь следует за днем, знай, что это первое прозрение падет, будто в бурное вечернее море, где проверяется на прочность вера. И вот уверение: даже Узурпатор пришел под Илиак до того, как собрался призвать свой флот. Страшись, но только лишь секунду. Поколебленная вера подобна воде: в саду Рассвета мы будем дышать целыми реальностями.\r\n[pagebreak]\r\nМирно входи, как Лорд Дагон начертал: приближайся неспешно, неся четыре ключа. Наш Орден основан на принципах его всемогущей Бритвы: Ученик, Странствующий рыцарь, Капеллан и Магистр. Да будут жестокосердные обожжены его светом, будто пристальным нашим взором. И Знание наше направится в нужное русло. Однако помни, твое видение все еще узко. Хоть ты и приглашен, тебе неведома пока дорога.\r\n[pagebreak]\r\nПуть мой лежал через книгу, что Лорд Дагон писал собственноручно в пустынях ржавчины и ран.\r\n[pagebreak]\r\nЕе имя \"Мистериум Заркса\", собрание Альдмеретада, предшественник жены загадок всех. Каждое слово вскормлено Бритвой и тайно, тоньше разлома, блекло, словно напоено красным питьем. Само упоминание о книге - напутствие на пути к твоему новому рангу, дитя мое. В ней ныне вырезано и твое имя.\r\n[pagebreak]\r\nРоскошь дворца, хижину или пещеру - ты оставил туман понятийных миров позади. Ну-мантия! Свобода! Возрадуйся, ибо обещано тебе блаженство!\r\n[pagebreak]\r\nА ныне бесконечно оно будет приобретать и изменять форму вокруг тебя, поступки как сущности, все системы лишь за час до перехода их в нулевые суммы, расцветающие как покровы, блаженные одеяния, что надеты для танца у златых ног Лорда Дагона. Шторм - в его первой руке, ливень бедствий - во второй, тлен Ану - в третьей, глаза Падхоум - в четвертой. Воспрянь, ибо есть у тебя первый ключ, что ударит высоко и низко в червивую гниль фальшивых небес.\r\n[pagebreak]\r\nТак я бродил, громко повторяя слова истинного учения, пока не сник мой голос. Я прочел мистерии Лорда Дагона, и чувство обновления переполняло меня. Мои слова не находили отклика, пока не скрылся с глаз я. Те речи не для люда Тамриэля, чьим духовенством давно уже превратно подано само существование Рассвета. Учись на моих ошибках, знай, что смирение было начальной мудростью Манкара Каморана. Приближайся неспешно, неся четыре ключа.\r\n[pagebreak]\r\nОтдал я всего себя тому Рассвету, и кольцо благости сомкнулось вкруг меня. Когда мой голос вернулся, он говорил уже иным языком. Через три ночи речь моя стала огнем.\r\n[pagebreak]\r\nРадостный, опоенный красным, Бритвой вскормленный, увидел я тропу в саду, и пришло прозрение - чтобы направлять других в гавань их странствий, должен я сам вначале погрузиться в пучины поисков. Знай, я нашел свой флот, а ты - флагман моей надежды. Приветствую тебя, ученик. Манкар Каморан был таким, как ты, пребывал во сне, лишен был мудрости, имел лишь протонимик, но сейчас Я Не Таков.\r\n[pagebreak]\r\nСегодня восседаю я и ожидаю пира, с тобой мы будем праздновать во всех мирах вселенной этой. Ну-мантия! Свобода!",
+  "form_id": "00029EEC|KhajiitWillFollow.esp",
+  "type": "BOOK DESC",
+  "index": null,
+  "editor_id": "NanakMythicBook"
+ },
+ {
+  "original": "An ancient looking text on the Mythic Dawn. The syntax is strange and archaic. It reads like stereo instructions.",
+  "string": "Древний на вид текст о Мифическом Рассвете. Синтаксис странный и архаичный. Читается как инструкция к стереосистеме.",
+  "form_id": "00029EEC|KhajiitWillFollow.esp",
+  "type": "BOOK CNAM",
+  "index": null,
+  "editor_id": "NanakMythicBook"
+ },
+ {
+  "original": "Book of the Missing Cat",
+  "string": "Книга о пропавшем коте",
+  "form_id": "00072D1A|KhajiitWillFollow.esp",
+  "type": "BOOK FULL",
+  "index": null,
+  "editor_id": "KWFBookoftheMissingCat"
+ },
+ {
+  "original": "[pagebreak]\r\n<font face='$HandwrittenFont'><p align=\"center\">\r\n\r\n\r\nChatur'jo's Notebook\r\n\r\nNO PEEKING!\r\n</p>\r\n[pagebreak]\r\n[pagebreak]\r\n[pagebreak]\r\n[pagebreak]\r\n[pagebreak]\r\n[pagebreak]\r\n<p align=\"left\">\r\ni have been searching for years for the door to the masters kingdom mother said that i had gone insane but she doesn't know the delight it brings me to conduct this search The Skooma Cat calls me to his side and at his side i will be i have several places to search many of the major cities of skyrim hold promise i will visit whiterun solitude markarth riften and windhelm and if that fails i am going to the college if anywhere in skyrim there is a portal to his plane of oblivion it will be there and if not i will read the books and make one on my own magic is not that hard any dullclaw could do it</font>\r\n[pagebreak]\r\n\r\n<font face='$DaedricFont'><font color='#B80000'> THE CAT</font><font face='$HandwrittenFont'><font color='#B80000'> CHATUR'JO</font> <font face='$DaedricFont'><font color='#B80000'>HAS COME TO MY DOMAIN AND TO ME HE BELONGS MAY THOSE WHO CHOOSE TO APPROACH HIM FIND THE BRAINS DRIPPING FROM THEIR EARS AND THEIR BOOT GNAWED ETERNALLY BY SKEEVERS YES I THINK THAT SOUNDS LIKE A FAIR PUNISHMENT WHAT DO YOU THINK</font> <font face='$HandwrittenFont'><font color='#B80000'>CHATUR'JO <font face='$DaedricFont'><font color='#B80000'>EH WHERE HAVE YOU GONE OFF ON ONE OF YOUR BORING STROLLS THROUGH TIME AND SPACE AGAIN HOW DROLL POOR</font><font face='$HandwrittenFont'><font color='#B80000'> CHATUR'JO</font> <font face='$DaedricFont'><font color='#B80000'> HIS MIND JUST COULDNT TAKE THE IMMENSE WEIGHT OF MY SPLENDOR AND FOR THAT MATTER WHY AM I WRITING THIS STREAM OF CONSCIOUSNESS THAT I AM PRESUMABLY SAYING OUT LOUD INTO THIS DAMNABLE BOOK OH WELL ITS NOT LIKE I CAN ERASE IT BLOOD IS PRETTY PERMANENT AND IM ACTUALLY RUNNING OUT JUST THIS SECOND SO I SUPPOSE I WILL STOP WRITING NOW AND GO FIND SOMETHING TO EAT YES A WHEEL OF FINE AYLEID CHEESE SOUNDS GOOD RIGHT ABOUT NOW ANYWAYS MELTING BRAINS GNAWED BOOTS AND ALL THAT GOODBYE FOR NOW MORTALS</font>",
+  "string": "[pagebreak]\r\n<font face='$HandwrittenFont'><p align=\"center\">\r\n\r\n\r\nЗаписная книжка Чаттур'джо\r\n\r\nНЕ ПОДГЛЯДЫВАТЬ!\r\n</p>\r\n[pagebreak]\r\n[pagebreak]\r\n[pagebreak]\r\n[pagebreak]\r\n[pagebreak]\r\n[pagebreak]\r\n<p align=\"left\">\r\nя много лет ищу дверь в царство господина мать говорила что я сошел с ума но она не знает какое наслаждение приносит мне этот поиск скумовый кот зовет меня к себе и подле него я буду у меня есть несколько мест для поиска многие из главных городов скайрима подают надежду я посещу вайтран солитьюд маркарт рифтен и виндхельм а если это не сработает я отправлюсь в коллегию если где-то в скайриме есть портал в его владения обливиона он будет там а если нет я прочту книги и сделаю свой магия не так уж сложна любой тупокоготый справится</font>\r\n[pagebreak]\r\n\r\n</font><font face='$HandwrittenFont'><font color='#B80000'> КОТ</font><font face='$HandwrittenFont'><font color='#B80000'> ЧАТТУР'ДЖО</font> </font><font face='$HandwrittenFont'><font color='#B80000'>ПРИШЕЛ В МОИ ВЛАДЕНИЯ И МНЕ ОН ПРИНАДЛЕЖИТ ПУСТЬ ТЕ КТО РЕШИТ ПОДОЙТИ К НЕМУ ОБНАРУЖАТ ЧТО МОЗГИ ВЫТЕКАЮТ ИЗ ИХ УШЕЙ А ИХ САПОГИ ВЕЧНО ГРЫЗУТ ЗЛОКРЫСЫ ДА Я ДУМАЮ ЭТО ЗВУЧИТ КАК ДОСТОЙНОЕ НАКАЗАНИЕ А ТЫ КАК ДУМАЕШЬ</font> <font face='$HandwrittenFont'><font color='#B80000'>ЧАТТУР'ДЖО </font><font face='$HandwrittenFont'><font color='#B80000'>ЭЙ КУДА ТЫ УШЕЛ ОПЯТЬ В СВОИ СКУЧНЫЕ ПРОГУЛКИ ПО ВРЕМЕНИ И ПРОСТРАНСТВУ КАК ЖЕ СКУЧНО БЕДНЫЙ</font><font face='$HandwrittenFont'><font color='#B80000'> ЧАТТУР'ДЖО</font> </font><font face='$HandwrittenFont'><font color='#B80000'> ЕГО РАЗУМ ПРОСТО НЕ ВЫДЕРЖАЛ ОГРОМНОЙ ТЯЖЕСТИ МОЕГО ВЕЛИКОЛЕПИЯ И КСТАТИ ПОЧЕМУ Я ЗАПИСЫВАЮ ЭТОТ ПОТОК СОЗНАНИЯ КОТОРЫЙ Я ЯКОБЫ ПРОИЗНОШУ ВСЛУХ В ЭТУ ПРОКЛЯТУЮ КНИГУ НУ И ЛАДНО НЕ ТО ЧТОБЫ Я МОГ ЭТО СТЕРЕТЬ КРОВЬ ДОВОЛЬНО ТАКИ НЕСМЫВАЕМА И КСТАТИ ОНА У МЕНЯ КАК РАЗ ЗАКАНЧИВАЕТСЯ ПРЯМО СЕЙЧАС ТАК ЧТО ПОЛАГАЮ Я ПРЕКРАЩУ ПИСАТЬ И ПОЙДУ НАЙДУ ЧЕГО-НИБУДЬ ПОЕСТЬ ДА КРУГ ОТЛИЧНОГО АЙЛЕЙДСКОГО СЫРА ЗВУЧИТ ОЧЕНЬ ДАЖЕ НЕПЛОХО В ОБЩЕМ ПЛАВЯЩИЕСЯ МОЗГИ ОБГРЫЗЕННЫЕ САПОГИ И ВСЕ ТАКОЕ ПРОЩАЙТЕ ПОКА СМЕРТНЫЕ</font>",
+  "form_id": "00072D1A|KhajiitWillFollow.esp",
+  "type": "BOOK DESC",
+  "index": null,
+  "editor_id": "KWFBookoftheMissingCat"
+ },
+ {
+  "original": "Vanished: The Disappearance of the Dwemer",
+  "string": "Исчезнувшие: Обстоятельства исчезновения двемеров",
+  "form_id": "00492D4D|KhajiitWillFollow.esp",
+  "type": "BOOK FULL",
+  "index": null,
+  "editor_id": "KWFDwemerBook2"
+ },
+ {
+  "original": "[pagebreak]\r\n\r\n\r\n\r\n<font face='$SkyrimBooks'><p align=\"center\">\r\n<font size='28'><b>Vanished:</b></font>\r\n<font face='$SkyrimBooks'><font size='20'>The context of the\r\nDisappearance of the\r\nDwemer race,\r\nwith a focus on\r\nthe possibility of a\r\nfourth tool of Kagrenac\r\nused on the Heart of Lorkhan \r\n\r\n</p>\r\n[pagebreak]\r\n\r\n<p align=\"left\">\r\n\r\n\r\n</font>\r\n\r\n\r\n[pagebreak]\r\n\r\n<font face='$SkyrimBooks'><font size='18'>\r\n<i>(you notice a section at the end of the text has been underlined)</i></font>\r\n\r\n<font face='$SkyrimBooks'><font size='20'>The Battle of Red Mountain is the culmination of the war between the Dwemer and the golden-skinned elves known as the Chimer, and its conclusion changed Tamriel forever. And while it is common knowledge that the war ended after the battle, with the entirety of the Dwemer race having disappeared off the face of Nirn, neither the cause of this disappearance, nor the complications in the aftermath of the war, are nearly as widely known.\r\n\r\n\r\nTHE BATTLE OF RED MOUNTAIN AND THE END OF THE DWEMER\r\n\r\nAnyone versed in history has likely heard the name Kagrenac at one time or another. The Chief Tonal Architect of the Dwemer during the War of the First Council between the Dwemer and the Chimer. Kagrenac was a brilliant mage and an unparalleled engineer even among the Dwemer, and when by chance the Dwemer happened across an ancient stone of immense power called the Heart of Lorkhan, Kagrenac saw an opportunity to end the war once and for all.\r\n\r\nHe forged a set of tools (now called, aptly, Kagrenac's tools) that he intended to use to activate and harness the power within the Heart of Lorkhan, and in doing so, to create a god which would end the Chimer once and for all. It was at the Battle of Red Mountain that Kagrenac achieved this goal, at least in part. While he was able to activate the Heart, and even harness it, Kagrenac could not contain the immense power, and it overwhelmed him. Though the nature of what happened next is unknown, its outcome is clear: The Dwemer all across the world, down to the last man, woman, and child, vanished in an instant, never to return.\r\n\r\nThe war was lost.\r\n\r\n\r\nTHE CHIMER AND THE DUNMER\r\n\r\nIn the aftermath of the War of the First Council, the Chimer, having seen the power that Kagrenac had accessed, used Kagrenac's tools and plied their own magicka to harnessing the Heart of Lorkhan, and where Kagrenac failed, the Chimer succeeded. From the Chimer ranks, the first Tribunal ascended into godhood, consisting of three individuals: Almalexia, Vivec, and Sotha Sil. And though they attained godhood, their ascent angered the other gods, chief among whom was the daedric prince Azura. In her rage, she cursed the people from which the Tribunal came, and thus the golden-skinned Chimer were transformed into the gray-skinned Dunmer. The Dark Elves were born.\r\n\r\n\r\nTHE TOOLS OF KAGRENAC\r\n\r\nIn unraveling the mystery of the disappearance of the Dwemer, it is crucial to understand the role of the Tools of Kagrenac in accessing and containing the power latent within the Heart of Lorkhan. It is commonly believed that Kagrenac forged three such tools:\r\n\r\nWraithguard: A bronze gauntlet said to take multiple forms, depending on the wearer's desire. Used to shield its wearer from various forms of magical energies. Primarily intended to protect against the energy of the Heart of Lorkhan and the dagger, Keening.\r\n\r\nKeening: A dagger used to cut through and redirect the energy of the Heart of Lorkhan. Fatally saps its wearer's energy if Wraithguard is not used to defend against its power.\r\n\r\nSunder: A hammer used to strike the Heart of Lorkhan and release its energy in controlled bursts. Lost to the ages along with Keening during the Third Era.\r\n\r\n\r\n<u>However, evidence has arisen that there may in fact be a fourth such tool, possibly forged by the Chimer in the aftermath of the Battle of Red Mountain, that allowed them to succeed where Kagrenac failed. This tool has been lost to time, but recently seers at the College of Winterhold in Skyrim have had visions of a divine light and a great power lying dormant within a lost Dwemer ruin high in the Velothi Mountains, southeast of the province's city of Windhelm, near the Nordic ruins of Ans-- [the text is worn away].</u>\r\n\r\nIf found, this fourth Tool of Kagrenac may be instrumental in finally unraveling the mystery of what caused the disappearance of the Dwemer race, and beyond that, may open the way for scholars to tap into the leylines that underlie the very fabric of Mundus.\r\n\r\n</font>\r\n\r\n<font face='$HandwrittenBold'> <font size='26'>  <p align='center'>\r\n<u>KAGRENZEL</u></font></p>\r\n",
+  "string": "[pagebreak]\r\n\r\n\r\n\r\n<font face='$SkyrimBooks'><p align=\"center\">\r\n<font size='28'><b>Исчезнувшие:</b></font>\r\n<font face='$SkyrimBooks'><font size='20'>Обстоятельства\r\nисчезновения\r\nрасы двемеров,\r\nс особым вниманием\r\nк возможности существования\r\nчетвертого инструмента Кагренака,\r\nпримененного к Сердцу Лорхана \r\n\r\n</p>\r\n[pagebreak]\r\n\r\n<p align=\"left\">\r\n\r\n\r\n</font>\r\n\r\n\r\n[pagebreak]\r\n\r\n<font face='$SkyrimBooks'><font size='18'>\r\n<i>(вы замечаете, что раздел в конце текста подчеркнут)</i></font>\r\n\r\n<font face='$SkyrimBooks'><font size='20'>Битва у Красной горы стала кульминацией войны между двемерами и золотокожими эльфами, известными как кимеры, и ее исход навсегда изменил Тамриэль. Общеизвестно, что война завершилась после этой битвы, а вся раса двемеров бесследно исчезла с лица Нирна, однако ни причина исчезновения, ни трудности, возникшие после войны, далеко не столь широко известны.\r\n\r\n\r\nБИТВА У КРАСНОЙ ГОРЫ И КОНЕЦ ДВЕМЕРОВ\r\n\r\nВсякий, кто сведущ в истории, наверняка хоть раз слышал имя Кагренака - Главного тонального архитектора двемеров во времена Войны Первого Совета между двемерами и кимерами. Кагренак был блестящим магом и непревзойденным инженером даже по меркам двемеров, и когда двемеры случайно наткнулись на древний камень огромной силы, названный Сердцем Лорхана, Кагренак увидел в этом возможность раз и навсегда покончить с войной.\r\n\r\nОн выковал набор инструментов (ныне метко названных Инструменты Кагренака), с помощью которых намеревался пробудить Сердце Лорхана и подчинить себе его силу, а тем самым создать бога, который навсегда покончил бы с кимерами. Именно в Битве у Красной горы Кагренак достиг этой цели - по крайней мере, отчасти. Ему удалось пробудить Сердце и даже обуздать его, но удержать эту колоссальную мощь он не сумел, и она поглотила его. Что именно произошло затем, неизвестно, но итог очевиден: двемеры по всему миру, все до последнего мужчины, женщины и ребенка, в одно мгновение исчезли, чтобы никогда не вернуться.\r\n\r\nВойна была проиграна.\r\n\r\n\r\nКИМЕРЫ И ДАНМЕРЫ\r\n\r\nПосле Войны Первого Совета кимеры, увидевшие, какой силы достиг Кагренак, воспользовались Инструментами Кагренака и собственной магией, чтобы обуздать Сердце Лорхана, и там, где Кагренак потерпел неудачу, кимеры преуспели. Из рядов кимеров вознесся к божественности первый Трибунал, состоявший из троих: Альмалексии, Вивека и Сота Сила. Но хотя они и обрели божественность, их вознесение разгневало других богов, и прежде всего даэдрического принца Азуру. В гневе она прокляла народ, из которого вышел Трибунал, и золотокожие кимеры превратились в серокожих данмеров. Так родились темные эльфы.\r\n\r\n\r\nИНСТРУМЕНТЫ КАГРЕНАКА\r\n\r\nЧтобы разгадать тайну исчезновения двемеров, крайне важно понимать, какую роль играли Инструменты Кагренака в пробуждении и сдерживании силы, дремлющей в Сердце Лорхана. Принято считать, что Кагренак выковал три таких инструмента:\r\n\r\nПризрачный Страж: бронзовая перчатка, которая, как говорят, принимает разные формы в зависимости от желания владельца. Защищает владельца от различных видов магической энергии. Прежде всего предназначалась для защиты от энергии Сердца Лорхана и кинжала Разрубатель.\r\n\r\nРазрубатель: Кинжал, которым рассекали и перенаправляли энергию Сердца Лорхана. Смертельно истощает силы владельца, если тот не защищен от его мощи Призрачным Стражем.\r\n\r\nРазделитель: молот, которым ударяли по Сердцу Лорхана, высвобождая его энергию управляемыми выбросами. Утерян вместе с Разрубателем в Третью эру.\r\n\r\n\r\n<u>Однако появились свидетельства того, что на самом деле мог существовать и четвертый подобный инструмент, возможно, выкованный кимерами после Битвы у Красной горы, - именно он позволил им преуспеть там, где Кагренак потерпел неудачу. Этот инструмент затерялся во времени, но недавно провидцам Коллегии Винтерхолда в Скайриме явились видения божественного света и великой силы, дремлющей в затерянных двемерских руинах высоко в горах Велоти, к юго-востоку от города Виндхельма, близ нордских руин Анс-- [дальше текст стерся].</u>\r\n\r\nЕсли этот четвертый Инструмент Кагренака будет найден, он, возможно, поможет наконец разгадать тайну исчезновения расы двемеров, а кроме того, может открыть ученым путь к силовым линиям, что лежат в самой основе мироздания Мундуса.\r\n\r\n</font>\r\n\r\n<font face='$HandwrittenBold'> <font size='26'>  <p align='center'>\r\n<u>КАГРЕНЗЕЛ</u></font></p>\r\n",
+  "form_id": "00492D4D|KhajiitWillFollow.esp",
+  "type": "BOOK DESC",
+  "index": null,
+  "editor_id": "KWFDwemerBook2"
+ },
+ {
+  "original": "Khajiit Will Follow: The Book",
+  "string": "Khajiit Will Follow: Книга",
+  "form_id": "00AA0F2E|KhajiitWillFollow.esp",
+  "type": "BOOK FULL",
+  "index": null,
+  "editor_id": "KWFGlossary"
+ },
+ {
+  "original": "[pagebreak]\r\n\r\n\r\n\r\n<font face='$SkyrimBooks'><p align=\"center\">\r\n<font size='40'><b><u>Khajiit Will Follow</u></b></font>\r\n\r\n<font face='$SkyrimBooks'><font size='32'>The Book\r\n\r\n</p>\r\n[pagebreak]\r\n\r\n<p align=\"left\">\r\n\r\n\r\n</font>\r\n\r\n\r\n[pagebreak]\r\n\r\n<font face='$SkyrimBooks'><font size='20'>Thanks for purchasing your copy of Khajiit Will Follow: The Book, a companion glossary to the vaunted Khajiit Will Follow adventure novel. In the pages that follow, you will find answers to many of the questions you may have as you make your way through the main novel. I sincerely hope this helps you, but as a last resort, feel free to contact the novel's author for help. As I've heard it, he is a friendly sort, and is always happy to hear from his readers.\r\n\r\n<u>Table of Contents:</u>\r\nSummoning Horn\r\nSplit Inventory\r\nConfiguration Options\r\nPrimary Follower\r\nWait Styles\r\nCombat Styles\r\nCustom Dismissal Location\r\nEssential/Protected\r\nHorse Riding\r\nRefIDs\r\nMarriage\r\nBugs\r\n\r\n[pagebreak]\r\n<b>---SUMMONING HORN---</b>\r\n\r\nSpeaking to your follower while in the overworld will cause them to give you a Khajiit-attuned Horn, which can be used to summon them if you lose them for any reason. It is ONLY usable on KWF NPCs currently following you, and can be used to tell followers to follow, wait, or be dismissed and return home. Commands are modified if you have multiple KWF followers, so you can command all of them at once or just one at a time. The horn is an ARMOR, so you can favorite it and add it to a shortcut button; however it is NOT worn, so will not take up a slot.\r\n\r\n\r\n<b>---SPLIT INVENTORY---</b>\r\n\r\nFollowers have 2 distinct inventories: One for equipment, and one for general storage. The general storage has unlimited capacity, but the equipment is still capped at ~300 weight. Only items placed in the EQUIPMENT inventory will ever be equipped, so if you want your follower wearing a particular set of armor or using a specific weapon, plan accordingly.\r\n\r\n\r\n<b>---CONFIGURATION OPTIONS---</b>\r\n\r\nThere are many options to customize your KWF follower's behavior. They can be accessed by choosing the follower's \"Let's change something up...\" dialogue option.\r\n\r\n\r\n\r\n<b>---PRIMARY FOLLOWER---</b>\r\n\r\nSometimes there will be special roles that followers take on during your adventures that allow them to take part in additional dialogue, scenes, and other events. Your PRIMARY FOLLOWER will be the KWF follower chosen for this. The first KWF follower you recruit will take this role, and after that, it can be changed via the configuration options. Right now, the Forgotten City mod patch is the only primary follower content, but as I make more content patches, hopefully there will be more for primary followers to do.\r\n\r\n\r\n<b>---WAIT STYLES---</b>\r\n\r\nIf you don't want your follower just standing around and picking their nose when you tell them to wait, there are alternative wait styles you can access via the configuration options. They can be told to sandbox around while waiting, or to sandbox near you while waiting. NOTE: Regardless of the style, they will still auto-dismiss after 3 days and return home.\r\n\r\n\r\n<b>---COMBAT STYLES---</b>\r\n\r\nEach follower has multiple combat styles that affect the types of weapons they prefer. These styles also change their weapon proficiency (i.e. changing Bikhai from sword and shield to 2-handed weapons will swap his skill level with the two styles), which seems to influence what weapons they choose to equip. You can further influence weapon choice by moving all undesired weapons OUT of the follower's equipment inventory and into their storage inventory.\r\n\r\n\r\n<b>---CUSTOM DISMISSAL LOCATION---</b>\r\n\r\nEach follower can be assigned a custom dismissal location by choosing the appropriate configuration option. This waypoint can be set and cleared at will, and once set, your follower will return to that point and sandbox nearby when dismissed.\r\n\r\n\r\n<b>---ESSENTIAL/PROTECTED---</b>\r\n\r\nYou can choose to make your follower essential (unkillable) via the config options. By default, they are Protected, which means they can be knocked down but not killed by enemies, and only your friendly fire can deal the killing blow.\r\n\r\n\r\n\r\n<b>---HORSE RIDING---</b>\r\n\r\nYou can enable horse-riding for your followers via the config options. After doing so, visit the Winking Skeever in Solitude and look on the second floor for Ri'zakh. He sells horse summoning horns which, when placed in your follower's inventory, cause them to mount up whenever you do. Each horn goes with a specific follower, as stated in their item descriptions.\r\n\r\n\r\n\r\n<b>---REFIDs---</b>\r\n\r\nIf you would like to do console commands, or try to bypass a bug AT YOUR OWN RISK, the REFIDs for KWF references are below:\r\n\r\nBikhai: XX0012C6\r\nMakara: XX42363C\r\nNanak: XX01ED0B\r\nS'ariq: XX031AE9\r\nUdasi's Ore: XX4A2090\r\nUdasi's Book: XX492D4E\r\nChatur'jo's Book: XX069055\r\n\r\nJust replace the XX with the position KWF is in your load order.\r\n\r\n\r\n<b>---MARRIAGE---</b>\r\n\r\nEach follower can be courted and married after completing their quest, but you must meet conditions for each one:\r\n\r\n--Bikhai: Speak to him while wearing the Amulet of Mara, ask if he's interested, choose \"Is it about those bandits,\" and then complete 3 dungeons with him.\r\n--Ma'kara: Complete her second quest. Speak to her while wearing the Amulet of Mara in any town but Windhelm and choose the \"Are you all right...\" option to get started.\r\n--Nanak: Ask him about his books at least 4 times, and read 30+ books. When his book conversation is him \"telling you a short story\" about himself, he will be eligible for marriage after it ends.\r\n--S'ariq: Loot Gatka-dar's journal during his quest. Afterward, speak to him about it. Either lie about the journal's contents (S'ariq immediately becomes available), or hand it over to him. In the second case, S'ariq reads the journal after 2 days. Choose his \"Are you okay?\" dialogue option and complete the conversation to make him eligible for marriage.\r\n\r\n\r\n<b>---FAQ and BUGS, BECAUSE SKYRIM---<b>\r\n\r\n1) Ma'kara won't speak to me by the river: If this happens, fast travel away from Darkwater Crossing to a few other locations, fast travel back, and try again.\r\n\r\n2) Followers won't mount their horses with me: Take the horse horn out of their inventory and then give it back.\r\n\r\n3) Spouse won't let me choose a house at the end of the wedding ceremony: Not sure on this one. I haven't been able to reproduce it. Be sure to let all ceremony dialogue complete on its own, and DON'T click through it.\r\n\r\n4) Where did S'ariq go after his quest? He hangs out behind Ysolda's house in Whiterun. If you use Open Cities, the Whiterun you go to is not the \"real\" one. S'ariq is in the \"real\" one behind the loading screen. I believe Open Cities has a way for you to access the city if needed, so look it up!\r\n\r\n5) Bikhai's Induction Ceremony isn't starting! Same problem as with #4. Open Cities. Go to the training yard in the \"real\" Whiterun to begin the ceremony.\r\n\r\n6) I use AFT: DON'T USE AFT COMMANDS ON KWF FOLLOWERS. Their AI is complex and is likely to break.\r\n\r\n</font>\r\n",
+  "string": "[pagebreak]\r\n\r\n\r\n\r\n<font face='$SkyrimBooks'><p align=\"center\">\r\n<font size='40'><b><u>Khajiit Will Follow</u></b></font>\r\n\r\n<font face='$SkyrimBooks'><font size='32'>Книга\r\n\r\n</p>\r\n[pagebreak]\r\n\r\n<p align=\"left\">\r\n\r\n\r\n</font>\r\n\r\n\r\n[pagebreak]\r\n\r\n<font face='$SkyrimBooks'><font size='20'>Благодарим за покупку издания \"Khajiit Will Follow: Книга\" - путеводителя-спутника к прославленному приключенческому роману \"Khajiit Will Follow\". На следующих страницах вы найдете ответы на многие вопросы, которые могут возникнуть у вас по ходу чтения основного романа. Искренне надеюсь, что это вам поможет, но в крайнем случае смело обращайтесь за помощью к автору романа. Говорят, он человек дружелюбный и всегда рад весточке от читателей.\r\n\r\n<u>Содержание:</u>\r\nРог призыва\r\nРаздельный инвентарь\r\nНастройки\r\nГлавный спутник\r\nРежимы ожидания\r\nБоевые стили\r\nСвое место увольнения\r\nБессмертие/защита\r\nЕзда верхом\r\nRefID\r\nБрак\r\nОшибки\r\n\r\n[pagebreak]\r\n<b>---РОГ ПРИЗЫВА---</b>\r\n\r\nЕсли заговорить со спутником вне подземелий, он вручит вам рог, настроенный на каджитов, - с его помощью можно призвать спутника, если вы его по какой-то причине потеряли. Рог работает ТОЛЬКО на спутниках KWF, которые сейчас следуют за вами: им можно приказать следовать за вами, ждать или уйти и вернуться домой. Если у вас несколько спутников KWF, команды меняются, так что можно отдавать приказы всем сразу или каждому по отдельности. Рог считается БРОНЕЙ, поэтому его можно добавить в избранное и назначить на клавишу быстрого доступа, однако он НЕ надевается и не занимает ячейку.\r\n\r\n\r\n<b>---РАЗДЕЛЬНЫЙ ИНВЕНТАРЬ---</b>\r\n\r\nУ спутников два отдельных инвентаря: один для снаряжения, другой - общее хранилище. Вместимость хранилища не ограничена, но снаряжение по-прежнему ограничено весом около 300. Экипироваться спутник будет только предметами из инвентаря СНАРЯЖЕНИЯ, так что если хотите, чтобы он носил определенный комплект брони или пользовался определенным оружием, учитывайте это.\r\n\r\n\r\n<b>---НАСТРОЙКИ---</b>\r\n\r\nПоведение спутника KWF можно настроить множеством способов. Доступ к настройкам открывает вариант диалога \"Давай кое-что поменяем...\"\r\n\r\n\r\n\r\n<b>---ГЛАВНЫЙ СПУТНИК---</b>\r\n\r\nИногда во время ваших приключений спутникам достаются особые роли, благодаря которым они участвуют в дополнительных диалогах, сценах и других событиях. Для этого выбирается ваш ГЛАВНЫЙ СПУТНИК из числа спутников KWF. Эту роль получает первый нанятый вами спутник KWF, а затем ее можно передать другому через настройки. Пока что единственное содержимое для главного спутника - это патч к моду Forgotten City, но по мере того как я буду выпускать новые патчи, надеюсь, у главных спутников появится больше дел.\r\n\r\n\r\n<b>---РЕЖИМЫ ОЖИДАНИЯ---</b>\r\n\r\nЕсли вы не хотите, чтобы спутник просто стоял столбом и ковырял в носу, когда вы велите ему ждать, в настройках есть другие режимы ожидания. Можно велеть ему во время ожидания заниматься своими делами на месте или заниматься своими делами рядом с вами. ПРИМЕЧАНИЕ: в любом режиме через 3 дня спутник сам уйдет от вас и вернется домой.\r\n\r\n\r\n<b>---БОЕВЫЕ СТИЛИ---</b>\r\n\r\nУ каждого спутника несколько боевых стилей, от которых зависит, какое оружие он предпочитает. Стили также меняют владение оружием (например, если переключить Бихая с меча и щита на двуручное оружие, его уровни навыков в этих стилях поменяются местами), а это, судя по всему, влияет на то, каким оружием он экипируется. Еще сильнее повлиять на выбор оружия можно, если переложить все ненужное оружие ИЗ инвентаря снаряжения спутника в его хранилище.\r\n\r\n\r\n<b>---СВОЕ МЕСТО УВОЛЬНЕНИЯ---</b>\r\n\r\nКаждому спутнику можно назначить свое место, куда он отправится после увольнения, - для этого есть соответствующий пункт настроек. Эту точку можно установить и сбросить в любой момент, а после того как она задана, уволенный спутник будет возвращаться туда и проводить время поблизости.\r\n\r\n\r\n<b>---БЕССМЕРТИЕ/ЗАЩИТА---</b>\r\n\r\nВ настройках можно сделать спутника бессмертным (его нельзя будет убить). По умолчанию спутник защищен: враги могут сбить его с ног, но не убить, и смертельный удар может нанести только ваш собственный случайный удар.\r\n\r\n\r\n\r\n<b>---ЕЗДА ВЕРХОМ---</b>\r\n\r\nВ настройках можно разрешить спутникам ездить верхом. После этого загляните в \"Смеющуюся крысу\" в Солитьюде и найдите на втором этаже Ри'закха. Он продает рога для призыва лошадей: если положить такой рог в инвентарь спутника, тот будет садиться в седло всякий раз, когда это делаете вы. Каждый рог предназначен для определенного спутника, о чем сказано в описании предмета.\r\n\r\n\r\n\r\n<b>---REFID---</b>\r\n\r\nЕсли вы хотите воспользоваться консольными командами или попытаться обойти ошибку НА СВОЙ СТРАХ И РИСК, ниже приведены RefID объектов KWF:\r\n\r\nБихай: XX0012C6\r\nМа'кара: XX42363C\r\nНанак: XX01ED0B\r\nС'Арик: XX031AE9\r\nРуда Удаси: XX4A2090\r\nКнига Удаси: XX492D4E\r\nКнига Чатур'джо: XX069055\r\n\r\nПросто замените XX на позицию KWF в вашем порядке загрузки.\r\n\r\n\r\n<b>---БРАК---</b>\r\n\r\nЗа каждым спутником можно ухаживать и вступить с ним в брак после выполнения его задания, но для каждого нужно выполнить свои условия:\r\n\r\n--Бихай: поговорите с ним, надев Амулет Мары, спросите, интересуется ли он вами, выберите \"Это из-за тех бандитов?\", а затем пройдите вместе с ним 3 подземелья.\r\n--Ма'кара: выполните ее второе задание. Поговорите с ней, надев Амулет Мары, в любом городе, кроме Виндхельма, и выберите вариант \"Ты в порядке?..\", чтобы начать.\r\n--Нанак: расспросите его о книгах не меньше 4 раз и прочитайте больше 30 книг. Когда в разговоре о книгах он начнет \"рассказывать вам короткую историю\" о себе, после ее окончания с ним можно будет вступить в брак.\r\n--С'Арик: во время его задания заберите дневник Гатки-Дар. После этого поговорите с ним о дневнике. Либо солгите о его содержании (тогда С'Арик сразу станет доступен для брака), либо отдайте дневник ему. Во втором случае С'Арик прочтет дневник через 2 дня. Выберите вариант диалога \"Ты в порядке?\" и доведите разговор до конца, чтобы с ним можно было вступить в брак.\r\n\r\n\r\n<b>---ЧАСТЫЕ ВОПРОСЫ И ОШИБКИ, ПОТОМУ ЧТО ЭТО SKYRIM---<b>\r\n\r\n1) Ма'кара не хочет говорить со мной у реки. Если такое случилось, быстро переместитесь из Черного Брода в несколько других мест, вернитесь обратно и попробуйте еще раз.\r\n\r\n2) Спутники не садятся на лошадей вместе со мной. Заберите рог для призыва лошади из их инвентаря и снова отдайте его.\r\n\r\n3) В конце свадебной церемонии супруг не дает выбрать дом. Тут я не уверен - воспроизвести эту ошибку мне не удалось. Обязательно дождитесь, пока все реплики церемонии прозвучат сами, и НЕ пролистывайте их.\r\n\r\n4) Куда делся С'Арик после своего задания? Он проводит время за домом Изольды в Вайтране. Если у вас установлен Open Cities, то Вайтран, в который вы попадаете, - не \"настоящий\". С'Арик находится в \"настоящем\", за экраном загрузки. Насколько я знаю, в Open Cities есть способ попасть в этот город при необходимости, так что поищите!\r\n\r\n5) Церемония посвящения Бихая не начинается! Та же проблема, что и в пункте 4: Open Cities. Отправляйтесь на тренировочный двор \"настоящего\" Вайтрана, чтобы начать церемонию.\r\n\r\n6) Я пользуюсь AFT. НЕ ИСПОЛЬЗУЙТЕ КОМАНДЫ AFT НА СПУТНИКАХ KWF. Их ИИ устроен сложно и, скорее всего, сломается.\r\n\r\n</font>\r\n",
+  "form_id": "00AA0F2E|KhajiitWillFollow.esp",
+  "type": "BOOK DESC",
+  "index": null,
+  "editor_id": "KWFGlossary"
+ },
+ {
+  "original": "Khajiit Will Follow Items",
+  "string": "Предметы из Каджит последует за тобой",
+  "form_id": "0000089E|DBM_KhajiitFollow_Patch.esp",
+  "type": "CONT FULL",
+  "index": null,
+  "editor_id": "DBM_CheatCrateKhajiitWillFollow"
+ },
+ {
+  "original": "Cat's Eye Amethyst",
+  "string": "Аметист «Кошачий глаз»",
+  "form_id": "0045607E|KhajiitWillFollow.esp",
+  "type": "MISC FULL",
+  "index": null,
+  "editor_id": "KWFMakaraGem"
+ },
+ {
+  "original": "Magecrafter's Ore",
+  "string": "Руда мастера магии",
+  "form_id": "004A2090|KhajiitWillFollow.esp",
+  "type": "MISC FULL",
+  "index": null,
+  "editor_id": "KWFUdasiOre"
+ },
+ {
+  "original": "Cat's Eye Amethyst (replica)",
+  "string": "Аметист «Кошачий глаз» (копия)",
+  "form_id": "000008B8|DBM_KhajiitFollow_Patch.esp",
+  "type": "MISC FULL",
+  "index": null,
+  "editor_id": "KWF_MakaraGemREPLICA"
+ },
+ {
+  "original": "Magecrafter's Ore (replica)",
+  "string": "Руда мастера магии (копия)",
+  "form_id": "000008B9|DBM_KhajiitFollow_Patch.esp",
+  "type": "MISC FULL",
+  "index": null,
+  "editor_id": "KWF_UdasiOreREPLICA"
+ },
+ {
+  "original": "Black Cat's Shiv",
+  "string": "Заточка Черного Кота",
+  "form_id": "0006BB89|KhajiitWillFollow.esp",
+  "type": "WEAP FULL",
+  "index": null,
+  "editor_id": "SariqsDagger01"
+ },
+ {
+  "original": "+10% attack speed. Absorb 15 points of stamina.",
+  "string": "+10% к скорости атаки. Поглощает 15 ед. выносливости.",
+  "form_id": "0006BB89|KhajiitWillFollow.esp",
+  "type": "WEAP DESC",
+  "index": null,
+  "editor_id": "SariqsDagger01"
+ },
+ {
+  "original": "White Cat's Stiletto",
+  "string": "Стилет Белого Кота",
+  "form_id": "0006BB8A|KhajiitWillFollow.esp",
+  "type": "WEAP FULL",
+  "index": null,
+  "editor_id": "SariqsDagger02"
+ },
+ {
+  "original": "+10% attack speed. Absorb 15 points of stamina.",
+  "string": "+10% к скорости атаки. Поглощает 15 ед. выносливости.",
+  "form_id": "0006BB8A|KhajiitWillFollow.esp",
+  "type": "WEAP DESC",
+  "index": null,
+  "editor_id": "SariqsDagger02"
+ },
+ {
+  "original": "Big Ol' Weapon",
+  "string": "Здоровенная дубина",
+  "form_id": "0006F6CE|KhajiitWillFollow.esp",
+  "type": "WEAP FULL",
+  "index": null,
+  "editor_id": "ChaturjoWeapon"
+ },
+ {
+  "original": "Splintered Club",
+  "string": "Расщепленная дубинка",
+  "form_id": "0086EA68|KhajiitWillFollow.esp",
+  "type": "WEAP FULL",
+  "index": null,
+  "editor_id": "KWFChaturjoClub"
+ },
+ {
+  "original": "Despite its name, this club is surprisingly large. Despite its size, this club is surprisingly light. Despite its weight, this club is surprisingly hard to swing.",
+  "string": "Несмотря на название, эта дубинка на удивление большая. Несмотря на размер, она на удивление легкая. Несмотря на вес, ею на удивление трудно размахнуться.",
+  "form_id": "0086EA68|KhajiitWillFollow.esp",
+  "type": "WEAP DESC",
+  "index": null,
+  "editor_id": "KWFChaturjoClub"
+ },
+ {
+  "original": "Splintered Club (replica)",
+  "string": "Расщепленная дубинка (копия)",
+  "form_id": "000008B6|DBM_KhajiitFollow_Patch.esp",
+  "type": "WEAP FULL",
+  "index": null,
+  "editor_id": "KWF_ChaturjoClubREPLICA"
+ },
+ {
+  "original": "Black Cat's Shiv (replica)",
+  "string": "Заточка Черного Кота (копия)",
+  "form_id": "000008B7|DBM_KhajiitFollow_Patch.esp",
+  "type": "WEAP FULL",
+  "index": null,
+  "editor_id": "KWF_SariqsDagger01REPLICA"
+ },
+ {
+  "original": "White Cat's Stiletto (replica)",
+  "string": "Стилет Белого Кота (копия)",
+  "form_id": "000008C5|DBM_KhajiitFollow_Patch.esp",
+  "type": "WEAP FULL",
+  "index": null,
+  "editor_id": "KWF_SariqsDagger02REPLICA"
+ },
+ {
+  "original": "Moon Sugar Rum",
+  "string": "Ром из лунного сахара",
+  "form_id": "005FFBE0|KhajiitWillFollow.esp",
+  "type": "ALCH FULL",
+  "index": null,
+  "editor_id": "KWF_MoonSugarRum"
+ },
+ {
+  "original": "Moon Sugar Rum (replica)",
+  "string": "Ром из лунного сахара (копия)",
+  "form_id": "000008BA|DBM_KhajiitFollow_Patch.esp",
+  "type": "ALCH FULL",
+  "index": null,
+  "editor_id": "KWF_MoonSugarRumREPLICA"
+ },
+ {
+  "original": "Kagrenzel Forging Grounds",
+  "string": "Кузнечные земли Кагрензела",
+  "form_id": "004E8F51|KhajiitWillFollow.esp",
+  "type": "CELL FULL",
+  "index": null,
+  "editor_id": "KWFDwemerRoom"
+ },
+ {
+  "original": "Khajiit Will Follow",
+  "string": "Каджит последует за тобой",
+  "form_id": "000008A7|DBM_KhajiitFollow_Patch.esp",
+  "type": "QUST FULL",
+  "index": null,
+  "editor_id": "DBM_KhajiitWillFollow"
+ }
+]

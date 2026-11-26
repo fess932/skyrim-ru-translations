@@ -1,0 +1,18 @@
+[
+ {
+  "original": "The Curators Companion - Inn Soaps",
+  "string": "Помощник куратора - Мыло из таверн",
+  "form_id": "00000803|LOTD_TCC_Soaps.esp",
+  "type": "QUST FULL",
+  "index": null,
+  "editor_id": "TCC_SM_Soaps"
+ },
+ {
+  "original": "<font color='#<Alias=ColourAlias>'>The Curators Companion: Mod Complete (Inn Soaps)</font>",
+  "string": "<font color='#<Alias=ColourAlias>'>Компаньон куратора: мод завершен (Мыло из таверн)</font>",
+  "form_id": "00000804|LOTD_TCC_Soaps.esp",
+  "type": "MESG DESC",
+  "index": null,
+  "editor_id": "_CompleteNotification_Soaps"
+ }
+]

@@ -1,0 +1,26 @@
+[
+ {
+  "original": "New Armoury Patch Handler",
+  "string": "Патч New Armoury (служебный)",
+  "form_id": "00000800|LOTD_TCC_NewArmoury.esp",
+  "type": "QUST FULL",
+  "index": null,
+  "editor_id": "TCC_CustomPatch_NewArmoury"
+ },
+ {
+  "original": "=== Museum Scanner ===\r\n\r\nAnimated Armoury Collection Complete!",
+  "string": "=== Сканер музея ===\r\n\r\nКоллекция \"Оживший оружейный зал\" собрана!",
+  "form_id": "00000805|LOTD_TCC_NewArmoury.esp",
+  "type": "MESG DESC",
+  "index": null,
+  "editor_id": "_CompleteMessage"
+ },
+ {
+  "original": "Museum Scanner: Set Complete Animated Armoury",
+  "string": "Сканер музея: набор собран - Оживший оружейный зал",
+  "form_id": "00000806|LOTD_TCC_NewArmoury.esp",
+  "type": "MESG DESC",
+  "index": null,
+  "editor_id": "_CompleteNotification"
+ }
+]

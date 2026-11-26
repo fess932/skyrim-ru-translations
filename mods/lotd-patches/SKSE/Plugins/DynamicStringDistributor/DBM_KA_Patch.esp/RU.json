@@ -1,0 +1,546 @@
+[
+ {
+  "original": "Konahrik's Accoutrements",
+  "string": "Снаряжение Конарика",
+  "form_id": "00000814|DBM_KA_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_KAPlague"
+ },
+ {
+  "original": "Clay Mask",
+  "string": "Глиняная маска",
+  "form_id": "0000081A|DBM_KA_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTMaskClay"
+ },
+ {
+  "original": "Krosis (Bronze) Armor",
+  "string": "Броня Кросиса (бронза)",
+  "form_id": "00000826|DBM_KA_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_KABronzeArmorACT"
+ },
+ {
+  "original": "Krosis (Bronze) Gloves",
+  "string": "Перчатки Кросиса (бронза)",
+  "form_id": "0000082A|DBM_KA_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_KABronzeGlovesACT"
+ },
+ {
+  "original": "Krosis (Bronze) Boots",
+  "string": "Сапоги Кросиса (бронза)",
+  "form_id": "0000082B|DBM_KA_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_KABronzeBootsACT"
+ },
+ {
+  "original": "Krosis (Bronze) Mask",
+  "string": "Маска Кросиса (бронза)",
+  "form_id": "0000082C|DBM_KA_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_KABronzeMaskACT"
+ },
+ {
+  "original": "Volsung (Corundrum) Mask",
+  "string": "Маска Вольсунга (корунд)",
+  "form_id": "00000844|DBM_KA_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_KACorundrumMaskACT"
+ },
+ {
+  "original": "Volsung (Corundrum) Armor",
+  "string": "Броня Вольсунга (корунд)",
+  "form_id": "00000845|DBM_KA_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_KACorundrumArmorACT"
+ },
+ {
+  "original": "Volsung (Corundrum) Gloves",
+  "string": "Перчатки Вольсунга (корунд)",
+  "form_id": "00000846|DBM_KA_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_KACorundrumGlovesACT"
+ },
+ {
+  "original": "Volsung (Corundrum) Boots",
+  "string": "Сапоги Вольсунга (корунд)",
+  "form_id": "00000847|DBM_KA_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_KACorundrumBootsACT"
+ },
+ {
+  "original": "Nahkriin (Ebony) Mask",
+  "string": "Маска Накрина (эбонит)",
+  "form_id": "0000091B|DBM_KA_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_KAEbonyMaskACT"
+ },
+ {
+  "original": "Nahkriin (Ebony) Armor",
+  "string": "Броня Накрина (эбонит)",
+  "form_id": "0000091C|DBM_KA_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_KAEbonyArmorACT"
+ },
+ {
+  "original": "Nahkriin (Ebony) Gloves",
+  "string": "Перчатки Накрина (эбонит)",
+  "form_id": "0000091D|DBM_KA_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_KAEbonyGlovesACT"
+ },
+ {
+  "original": "Nahkriin (Ebony) Boots",
+  "string": "Сапоги Накрина (эбонит)",
+  "form_id": "0000091E|DBM_KA_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_KAEbonyBootsACT"
+ },
+ {
+  "original": "Otar (Marble) Mask",
+  "string": "Маска Отара (мрамор)",
+  "form_id": "0000091F|DBM_KA_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_KAMarbleMaskACT"
+ },
+ {
+  "original": "Otar (Marble) Armor",
+  "string": "Броня Отара (мрамор)",
+  "form_id": "00000920|DBM_KA_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_KAMarbleArmorACT"
+ },
+ {
+  "original": "Otar (Marble) Gloves",
+  "string": "Перчатки Отара (мрамор)",
+  "form_id": "00000921|DBM_KA_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_KAMarbleGlovesACT"
+ },
+ {
+  "original": "Otar (Marble) Boots",
+  "string": "Сапоги Отара (мрамор)",
+  "form_id": "00000922|DBM_KA_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_KAMarbleBootsACT"
+ },
+ {
+  "original": "Hevnoraak (Iron) Mask",
+  "string": "Маска Хевнорака (железо)",
+  "form_id": "00000923|DBM_KA_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_KAHevnoraakMaskACT"
+ },
+ {
+  "original": "Hevnoraak (Iron) Armor",
+  "string": "Броня Хевнорака (железо)",
+  "form_id": "00000924|DBM_KA_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_KAIronArmorACT"
+ },
+ {
+  "original": "Hevnoraak (Iron) Gloves",
+  "string": "Перчатки Хевнорака (железо)",
+  "form_id": "00000925|DBM_KA_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_KAIronGlovesACT"
+ },
+ {
+  "original": "Hevnoraak (Iron) Boots",
+  "string": "Сапоги Хевнорака (железо)",
+  "form_id": "00000926|DBM_KA_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_KAIronBootsACT"
+ },
+ {
+  "original": "Morokei (Moonstone) Mask",
+  "string": "Маска Морокеи (лунный камень)",
+  "form_id": "00000927|DBM_KA_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_KAMoonstoneMaskACT"
+ },
+ {
+  "original": "Morokei (Moonstone) Armor",
+  "string": "Броня Морокеи (лунный камень)",
+  "form_id": "00000928|DBM_KA_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_KAMoonstoneArmorACT"
+ },
+ {
+  "original": "Morokei (Moonstone) Gloves",
+  "string": "Перчатки Морокеи (лунный камень)",
+  "form_id": "00000929|DBM_KA_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_KAMoonstoneGlovesACT"
+ },
+ {
+  "original": "Morokei (Moonstone) Boots",
+  "string": "Сапоги Морокеи (лунный камень)",
+  "form_id": "0000092A|DBM_KA_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_KAMoonstoneBootsACT"
+ },
+ {
+  "original": "Konahrik's Mask",
+  "string": "Маска Конарика",
+  "form_id": "0000092B|DBM_KA_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_KAUltraMaskACT"
+ },
+ {
+  "original": "Konahrik's Armor",
+  "string": "Броня Конарика",
+  "form_id": "0000092C|DBM_KA_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_KAUltraArmorACT"
+ },
+ {
+  "original": "Konahrik's Gloves",
+  "string": "Перчатки Конарика",
+  "form_id": "0000092D|DBM_KA_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_KAUkltraGlovesACT"
+ },
+ {
+  "original": "Konahrik's Boots",
+  "string": "Сапоги Конарика",
+  "form_id": "0000092E|DBM_KA_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_KAUltraBootsACT"
+ },
+ {
+  "original": "Rahgot (Orichalcum) Mask",
+  "string": "Маска Рагота (орихалк)",
+  "form_id": "0000092F|DBM_KA_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_KAOrichalcumMaskACT"
+ },
+ {
+  "original": "Rahgot (Orichalcum) Armor",
+  "string": "Броня Рагота (орихалк)",
+  "form_id": "00000930|DBM_KA_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_KAOrichalcumArmorACT"
+ },
+ {
+  "original": "Rahgot (Orichalcum) Gloves",
+  "string": "Перчатки Рагота (орихалк)",
+  "form_id": "00000931|DBM_KA_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_KAOrichalcumGlovesACT"
+ },
+ {
+  "original": "Rahgot (Orichalcum) Boots",
+  "string": "Сапоги Рагота (орихалк)",
+  "form_id": "00000932|DBM_KA_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_KAOrichalcumBootsACT"
+ },
+ {
+  "original": "Vokun (Steel) Mask",
+  "string": "Маска Вокуна (сталь)",
+  "form_id": "00000933|DBM_KA_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_KASteelMaskACT"
+ },
+ {
+  "original": "Vokun (Steel) Armor",
+  "string": "Броня Вокуна (сталь)",
+  "form_id": "00000934|DBM_KA_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_KASteelArmorACT"
+ },
+ {
+  "original": "Vokun (Steel) Gloves",
+  "string": "Перчатки Вокуна (сталь)",
+  "form_id": "00000935|DBM_KA_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_KASteelGlovesACT"
+ },
+ {
+  "original": "Vokun (Steel) Boots",
+  "string": "Сапоги Вокуна (сталь)",
+  "form_id": "00000936|DBM_KA_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_KASteelBootsACT"
+ },
+ {
+  "original": "Ahzidal's Mask",
+  "string": "Маска Азидала",
+  "form_id": "00000937|DBM_KA_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_KAFireMaskACT"
+ },
+ {
+  "original": "Ahzidal's Armor",
+  "string": "Броня Азидала",
+  "form_id": "00000938|DBM_KA_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_KAFireArmorACT"
+ },
+ {
+  "original": "Ahzidal's Gloves",
+  "string": "Перчатки Азидала",
+  "form_id": "00000939|DBM_KA_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_KAFireGlovesACT"
+ },
+ {
+  "original": "Ahzidal's Boots",
+  "string": "Сапоги Азидала",
+  "form_id": "0000093A|DBM_KA_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_KAFireBootsACT"
+ },
+ {
+  "original": "Dukaan's Mask",
+  "string": "Маска Дукаана",
+  "form_id": "0000093B|DBM_KA_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_KAIceMaskACT"
+ },
+ {
+  "original": "Dukaan's Armor",
+  "string": "Броня Дукаана",
+  "form_id": "0000093C|DBM_KA_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_KAIceArmorACT"
+ },
+ {
+  "original": "Dukaan's Gloves",
+  "string": "Перчатки Дукана",
+  "form_id": "0000093D|DBM_KA_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_KAIceGlovesACT"
+ },
+ {
+  "original": "Dukaan's Boots",
+  "string": "Сапоги Дукаана",
+  "form_id": "0000093E|DBM_KA_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_KAIceBootsACT"
+ },
+ {
+  "original": "Zahkriisos's Mask",
+  "string": "Маска Закрисоша",
+  "form_id": "0000093F|DBM_KA_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_KAShockMaskACT"
+ },
+ {
+  "original": "Zahkriisos's Armor",
+  "string": "Броня Закрисоша",
+  "form_id": "00000940|DBM_KA_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_KAShockArmorACT"
+ },
+ {
+  "original": "Zahkriisos's Gloves",
+  "string": "Перчатки Закрисоша",
+  "form_id": "00000941|DBM_KA_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_KAShockGlovesACT"
+ },
+ {
+  "original": "Zahkriisos's Boots",
+  "string": "Сапоги Закрисоша",
+  "form_id": "00000942|DBM_KA_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_KAShockBootsACT"
+ },
+ {
+  "original": "Fodiiz's Robes",
+  "string": "Роба Фодиза",
+  "form_id": "00000944|DBM_KA_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTFodiizRobes"
+ },
+ {
+  "original": "The Dragon Forge",
+  "string": "Драконья Кузница",
+  "form_id": "00000946|DBM_KA_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTDragonforge"
+ },
+ {
+  "original": "Dragon Priest Pendant",
+  "string": "Амулет драконьего жреца",
+  "form_id": "00000948|DBM_KA_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTDPPendant"
+ },
+ {
+  "original": "Elder Scroll: Warlord",
+  "string": "Древний свиток: Полководец",
+  "form_id": "0000094A|DBM_KA_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTESWarlord"
+ },
+ {
+  "original": "Vahlok (Stalhrim) Mask",
+  "string": "Маска Валока (сталгрим)",
+  "form_id": "00000974|DBM_KA_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_KAStalhrimMaskACT"
+ },
+ {
+  "original": "Vahlok (Stalhrim) Armor",
+  "string": "Броня Валока (сталгрим)",
+  "form_id": "00000975|DBM_KA_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_KAStalhrimArmorACT"
+ },
+ {
+  "original": "Vahlok (Stalhrim) Gloves",
+  "string": "Перчатки Валока (сталгрим)",
+  "form_id": "00000976|DBM_KA_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_KAStalhrimGlovesACT"
+ },
+ {
+  "original": "Vahlok (Stalhrim) Boots",
+  "string": "Сапоги Валока (сталгрим)",
+  "form_id": "00000977|DBM_KA_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_KAStalhrimBootsACT"
+ },
+ {
+  "original": "Bronze Claw",
+  "string": "Бронзовый драконий коготь",
+  "form_id": "00000994|DBM_KA_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTBronzeClaw"
+ },
+ {
+  "original": "Konahrik's Accoutrements Quest",
+  "string": "Задание \"Снаряжение Конарика\"",
+  "form_id": "000009CD|DBM_KA_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_KAQuestLabel"
+ },
+ {
+  "original": "Vahlok's Greaves",
+  "string": "Поножи Валока",
+  "form_id": "0000094E|DBM_KA_Patch.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "KA_DLCArmorDragonPriestBootsVahlok"
+ },
+ {
+  "original": "Konahrik's Accoutrements Items",
+  "string": "Предметы из Снаряжения Конарика",
+  "form_id": "0000094C|DBM_KA_Patch.esp",
+  "type": "CONT FULL",
+  "index": null,
+  "editor_id": "DBM_CheatCrateKA"
+ },
+ {
+  "original": "Vahlok's Cursed Gloves",
+  "string": "Проклятые перчатки Валока",
+  "form_id": "0000094F|DBM_KA_Patch.esp",
+  "type": "MISC FULL",
+  "index": null,
+  "editor_id": "KA_DLCCursedGlovesVahlok"
+ },
+ {
+  "original": "Vahlok's Cursed Greaves",
+  "string": "Проклятые поножи Валока",
+  "form_id": "00000950|DBM_KA_Patch.esp",
+  "type": "MISC FULL",
+  "index": null,
+  "editor_id": "KA_DLCCursedbootsVahlok"
+ },
+ {
+  "original": "Vahlok's Cursed Robes",
+  "string": "Проклятая мантия Валока",
+  "form_id": "00000951|DBM_KA_Patch.esp",
+  "type": "MISC FULL",
+  "index": null,
+  "editor_id": "KA_DLCCursedRobesVahlok"
+ },
+ {
+  "original": "Konahrik's Accoutrements Support Handler",
+  "string": "Поддержка Снаряжения Конарика (служебный)",
+  "form_id": "000009C9|DBM_KA_Patch.esp",
+  "type": "QUST FULL",
+  "index": null,
+  "editor_id": "DBM_SupportedModKA"
+ },
+ {
+  "original": "In the depths of Revakheim, the secrets of the dragon priest forge were sealed away, long forgotten, and the greater secrets sealed within time itself.",
+  "string": "В глубинах Ревакейма были запечатаны и давно забыты тайны кузни драконьих жрецов, а еще более великие тайны - запечатаны в самом времени.",
+  "form_id": "00000815|DBM_KA_Patch.esp",
+  "type": "MESG DESC",
+  "index": null,
+  "editor_id": "DBM_KAPlaqueMSG"
+ },
+ {
+  "original": "Konahrik's Accoutrements",
+  "string": "Снаряжение Конарика",
+  "form_id": "00000815|DBM_KA_Patch.esp",
+  "type": "MESG FULL",
+  "index": null,
+  "editor_id": "DBM_KAPlaqueMSG"
+ }
+]

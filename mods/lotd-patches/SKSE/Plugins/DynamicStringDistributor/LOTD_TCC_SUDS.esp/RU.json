@@ -1,0 +1,18 @@
+[
+ {
+  "original": "SUDS Official TCC Patch Handler",
+  "string": "Официальный патч Помощника куратора для SUDS (служебный)",
+  "form_id": "0000080D|LOTD_TCC_SUDS.esp",
+  "type": "QUST FULL",
+  "index": null,
+  "editor_id": "TCC_SM_SUDS"
+ },
+ {
+  "original": "<font color='#<Alias=ColourAlias>'>The Curators Companion: Mod Complete (Skyrim Unique Drinks)</font>",
+  "string": "<font color='#<Alias=ColourAlias>'>Компаньон куратора: мод завершен (Уникальные напитки Скайрима)</font>",
+  "form_id": "0000080C|LOTD_TCC_SUDS.esp",
+  "type": "MESG DESC",
+  "index": null,
+  "editor_id": "_CompleteNotification_SUDS"
+ }
+]

@@ -1,0 +1,666 @@
+[
+ {
+  "original": "Burnt Head",
+  "string": "Обгоревшая голова",
+  "form_id": "00000823|DBM_BGCollectables_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTBGHeadTrophyBurnt"
+ },
+ {
+  "original": "Alduin in a Jar",
+  "string": "Алдуин в банке",
+  "form_id": "00000805|DBM_BGCollectables_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTBGJarAlduinACT"
+ },
+ {
+  "original": "Butterfly Tree in a Jar",
+  "string": "Дерево с бабочками в банке",
+  "form_id": "00000806|DBM_BGCollectables_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTBGJarButterflytreeACT"
+ },
+ {
+  "original": "Cliff Racer in a Jar",
+  "string": "Скальный наездник в банке",
+  "form_id": "00000807|DBM_BGCollectables_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTBGJarCliffRacerACT"
+ },
+ {
+  "original": "Mudcrab in a Jar",
+  "string": "Грязевой краб в банке",
+  "form_id": "00000808|DBM_BGCollectables_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTBGJarMudCrabACT"
+ },
+ {
+  "original": "Dead Fairy in a Jar",
+  "string": "Мертвая фея в банке",
+  "form_id": "00000809|DBM_BGCollectables_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTBGJarDeadFairy"
+ },
+ {
+  "original": "Angel of Death in a Jar",
+  "string": "Ангел смерти в банке",
+  "form_id": "0000080A|DBM_BGCollectables_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTBGJarAngelofdeathACT"
+ },
+ {
+  "original": "Trapped Demon in a Jar",
+  "string": "Пойманный демон в банке",
+  "form_id": "0000080B|DBM_BGCollectables_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTBGJardemonACT"
+ },
+ {
+  "original": "Olbaid in a Jar",
+  "string": "Олбайд в банке",
+  "form_id": "0000080C|DBM_BGCollectables_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTBGJarDiablo"
+ },
+ {
+  "original": "Dragon in a Jar",
+  "string": "Дракон в банке",
+  "form_id": "0000080D|DBM_BGCollectables_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTBGJarDragonACT"
+ },
+ {
+  "original": "FSM in a Jar",
+  "string": "ЛМЧ в банке",
+  "form_id": "0000080E|DBM_BGCollectables_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTBGJarFSMACT"
+ },
+ {
+  "original": "Giant in a Jar",
+  "string": "Великан в банке",
+  "form_id": "0000080F|DBM_BGCollectables_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTBGJarGiantACT"
+ },
+ {
+  "original": "Honeybee Jar",
+  "string": "Банка с пчелами",
+  "form_id": "00000810|DBM_BGCollectables_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTBGJarHoneyBeeACT"
+ },
+ {
+  "original": "Killer Tree in a Jar",
+  "string": "Дерево-убийца в банке",
+  "form_id": "00000811|DBM_BGCollectables_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTBGJarKillerTree"
+ },
+ {
+  "original": "TES Logo Jar",
+  "string": "Имперский значок в банке",
+  "form_id": "00000812|DBM_BGCollectables_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTBGJarLogoACT"
+ },
+ {
+  "original": "Blackreach Mushrooms in a Jar",
+  "string": "Грибы Черного Предела в банке",
+  "form_id": "00000813|DBM_BGCollectables_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTBGJarMushroomACT"
+ },
+ {
+  "original": "Mistress of the Dead in a Jar",
+  "string": "Госпожа мертвых в банке",
+  "form_id": "00000814|DBM_BGCollectables_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTBGJarDeadmistressACT"
+ },
+ {
+  "original": "Pegasus in a Jar",
+  "string": "Пегас в банке",
+  "form_id": "00000815|DBM_BGCollectables_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTBGJarPegasusACT"
+ },
+ {
+  "original": "Scarecrow Goblin in a Jar",
+  "string": "Пугало-гоблин в банке",
+  "form_id": "00000816|DBM_BGCollectables_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTBGJarScarecrowACT"
+ },
+ {
+  "original": "Ship 1 in a Jar",
+  "string": "Корабль 1 в банке",
+  "form_id": "00000817|DBM_BGCollectables_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTBGJarShip1ACT"
+ },
+ {
+  "original": "Ship 2 in a Jar",
+  "string": "Корабль 2 в банке",
+  "form_id": "00000818|DBM_BGCollectables_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTBGJarShip2ACT"
+ },
+ {
+  "original": "Ship 3 in a Jar",
+  "string": "Корабль 3 в банке",
+  "form_id": "00000819|DBM_BGCollectables_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTBGJarShip3ACT"
+ },
+ {
+  "original": "Dark Ship in a Jar",
+  "string": "Темный корабль в банке",
+  "form_id": "0000081A|DBM_BGCollectables_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTBGJarDarkShipACT"
+ },
+ {
+  "original": "Jar of Skulls",
+  "string": "Банка с черепами",
+  "form_id": "0000081B|DBM_BGCollectables_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTBGJarSkullsACT"
+ },
+ {
+  "original": "Slaughterfish in a Jar",
+  "string": "Рыба-убийца в банке",
+  "form_id": "0000081C|DBM_BGCollectables_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTBGJarSlaughterfishACT"
+ },
+ {
+  "original": "Spider's Feast in a Jar",
+  "string": "Паучий пир в банке",
+  "form_id": "0000081D|DBM_BGCollectables_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTBGJarSpiderFeastACT"
+ },
+ {
+  "original": "Troll in a Jar",
+  "string": "Тролль в банке",
+  "form_id": "0000081E|DBM_BGCollectables_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTBGJarTrollACT"
+ },
+ {
+  "original": "Dwemer Junk Jar",
+  "string": "Банка с двемерским хламом",
+  "form_id": "0000081F|DBM_BGCollectables_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTBGJarJunkACT"
+ },
+ {
+  "original": "Falmer in a Jar",
+  "string": "Фалмер в банке",
+  "form_id": "00000820|DBM_BGCollectables_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTBGJarFalmerACT"
+ },
+ {
+  "original": "Mammoth in a Jar",
+  "string": "Мамонт в банке",
+  "form_id": "00000821|DBM_BGCollectables_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTBGJarMammothACT"
+ },
+ {
+  "original": "Spriggan in a Jar",
+  "string": "Спригган в банке",
+  "form_id": "00000822|DBM_BGCollectables_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTBGJarSprigganACT"
+ },
+ {
+  "original": "Fairy Cage 10",
+  "string": "Клетка с феей 10",
+  "form_id": "00000842|DBM_BGCollectables_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTBGFairyCage20"
+ },
+ {
+  "original": "Dark Elf Head",
+  "string": "Голова темного эльфа",
+  "form_id": "00000824|DBM_BGCollectables_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTBGHeadTrophyDelf"
+ },
+ {
+  "original": "Forsworn Head",
+  "string": "Голова изгоя",
+  "form_id": "00000825|DBM_BGCollectables_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTBGHeadTrophyForsworn"
+ },
+ {
+  "original": "Greybeard Head",
+  "string": "Голова Седобородого",
+  "form_id": "00000826|DBM_BGCollectables_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTBGHeadTrophyGB"
+ },
+ {
+  "original": "Hagraven Head",
+  "string": "Голова ворожеи",
+  "form_id": "00000827|DBM_BGCollectables_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTBGHeadTrophyHag"
+ },
+ {
+  "original": "Thalmor Head",
+  "string": "Голова талморца",
+  "form_id": "00000828|DBM_BGCollectables_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTBGHeadTrophyThalmor"
+ },
+ {
+  "original": "Argonian Head",
+  "string": "Голова аргонианина",
+  "form_id": "00000829|DBM_BGCollectables_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTBGHeadTrophyArg"
+ },
+ {
+  "original": "Orc Head",
+  "string": "Голова орка",
+  "form_id": "0000082A|DBM_BGCollectables_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTBGHeadTrophyOrc"
+ },
+ {
+  "original": "Khajiit Head",
+  "string": "Голова каджита",
+  "form_id": "0000082B|DBM_BGCollectables_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTBGHeadTrophyKhajiit"
+ },
+ {
+  "original": "Nord Head",
+  "string": "Голова норда",
+  "form_id": "0000082C|DBM_BGCollectables_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTBGHeadTrophyNord"
+ },
+ {
+  "original": "Redguard Head",
+  "string": "Голова редгарда",
+  "form_id": "0000082D|DBM_BGCollectables_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTBGHeadTrophyRG"
+ },
+ {
+  "original": "Wood Elf Head",
+  "string": "Голова лесного эльфа",
+  "form_id": "0000082E|DBM_BGCollectables_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTBGHeadTrophyWoodElf"
+ },
+ {
+  "original": "Fairy Cage 1",
+  "string": "Клетка с феей 1",
+  "form_id": "0000082F|DBM_BGCollectables_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTBGFairyCage1"
+ },
+ {
+  "original": "Fairy Cage 14",
+  "string": "Клетка с феей 14",
+  "form_id": "00000830|DBM_BGCollectables_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTBGFairyCage2"
+ },
+ {
+  "original": "Fairy Cage 3",
+  "string": "Клетка с феей 3",
+  "form_id": "00000831|DBM_BGCollectables_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTBGFairyCage3"
+ },
+ {
+  "original": "Fairy Cage 4",
+  "string": "Клетка с феей 4",
+  "form_id": "00000832|DBM_BGCollectables_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTBGFairyCage4"
+ },
+ {
+  "original": "Fairy Cage 5",
+  "string": "Клетка с феей 5",
+  "form_id": "00000833|DBM_BGCollectables_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTBGFairyCage5"
+ },
+ {
+  "original": "Fairy Cage 6",
+  "string": "Клетка с феей 6",
+  "form_id": "00000834|DBM_BGCollectables_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTBGFairyCage6"
+ },
+ {
+  "original": "Fairy Cage 7",
+  "string": "Клетка с феей 7",
+  "form_id": "00000835|DBM_BGCollectables_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTBGFairyCage7"
+ },
+ {
+  "original": "Fairy Cage 8",
+  "string": "Клетка с феей 8",
+  "form_id": "00000836|DBM_BGCollectables_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTBGFairyCage8"
+ },
+ {
+  "original": "Fairy Cage 9",
+  "string": "Клетка с феей 9",
+  "form_id": "00000837|DBM_BGCollectables_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTBGFairyCage9"
+ },
+ {
+  "original": "Rotting Fairy",
+  "string": "Клетка с иссохшей феей",
+  "form_id": "00000838|DBM_BGCollectables_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTBGFairyCage10"
+ },
+ {
+  "original": "Dead Fairy",
+  "string": "Клетка с мертвой феей",
+  "form_id": "00000839|DBM_BGCollectables_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTBGFairyCage11"
+ },
+ {
+  "original": "Fairy Cage 2",
+  "string": "Клетка с феей 2",
+  "form_id": "0000083A|DBM_BGCollectables_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTBGFairyCage12"
+ },
+ {
+  "original": "Goth Fairy",
+  "string": "Клетка с готической феей",
+  "form_id": "0000083B|DBM_BGCollectables_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTBGFairyCage13"
+ },
+ {
+  "original": "Zelda's Fairy",
+  "string": "Клетка с феей Зельды",
+  "form_id": "0000083C|DBM_BGCollectables_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTBGFairyCage14"
+ },
+ {
+  "original": "Tinker Fairy",
+  "string": "Клетка с Динь-Динь",
+  "form_id": "0000083D|DBM_BGCollectables_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTBGFairyCage15"
+ },
+ {
+  "original": "Great Fairy",
+  "string": "Клетка с прекрасной феей",
+  "form_id": "0000083E|DBM_BGCollectables_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTBGFairyCage16"
+ },
+ {
+  "original": "Fairy Cage 12",
+  "string": "Клетка с феей 12",
+  "form_id": "0000083F|DBM_BGCollectables_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTBGFairyCage17"
+ },
+ {
+  "original": "Fairy Cage 11",
+  "string": "Клетка с феей 11",
+  "form_id": "00000840|DBM_BGCollectables_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTBGFairyCage18"
+ },
+ {
+  "original": "Fairy Cage 15",
+  "string": "Клетка с феей 15",
+  "form_id": "00000841|DBM_BGCollectables_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTBGFairyCage19"
+ },
+ {
+  "original": "Fairy Cage 13",
+  "string": "Клетка с феей 13",
+  "form_id": "00000843|DBM_BGCollectables_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTBGFairyCage21"
+ },
+ {
+  "original": "Hag Fairy",
+  "string": "Клетка с феей-ворожеей",
+  "form_id": "00000844|DBM_BGCollectables_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTBGFairyCage22"
+ },
+ {
+  "original": "Betta - Red",
+  "string": "Петушок (красный)",
+  "form_id": "00000845|DBM_BGCollectables_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTBGFish04"
+ },
+ {
+  "original": "Betta - Blue",
+  "string": "Петушок (синий)",
+  "form_id": "00000846|DBM_BGCollectables_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTBGFish02"
+ },
+ {
+  "original": "Betta - Green",
+  "string": "Петушок (зеленый)",
+  "form_id": "00000847|DBM_BGCollectables_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTBGFish03"
+ },
+ {
+  "original": "Abecean Longfin",
+  "string": "Абесинский окунь",
+  "form_id": "00000848|DBM_BGCollectables_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTBGFish01"
+ },
+ {
+  "original": "Cyrodilic Spadetail",
+  "string": "Сиродильский лопатохвост",
+  "form_id": "00000849|DBM_BGCollectables_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTBGFish05"
+ },
+ {
+  "original": "Jelly Fish",
+  "string": "Медуза",
+  "form_id": "0000084A|DBM_BGCollectables_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTBGFish13"
+ },
+ {
+  "original": "Fishbowl 3",
+  "string": "Аквариум 3",
+  "form_id": "0000084B|DBM_BGCollectables_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTBGFish10"
+ },
+ {
+  "original": "Fishbowl 2",
+  "string": "Аквариум 2",
+  "form_id": "0000084C|DBM_BGCollectables_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTBGFish09"
+ },
+ {
+  "original": "Riverbetty",
+  "string": "Бойцовая рыбка",
+  "form_id": "0000084D|DBM_BGCollectables_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTBGFish14"
+ },
+ {
+  "original": "Histcarp",
+  "string": "Хисткарп",
+  "form_id": "0000084E|DBM_BGCollectables_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTBGFish12"
+ },
+ {
+  "original": "Silverside Perch",
+  "string": "Серебристый окунь",
+  "form_id": "0000084F|DBM_BGCollectables_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTBGFish15"
+ },
+ {
+  "original": "Guppy",
+  "string": "Гуппи",
+  "form_id": "00000850|DBM_BGCollectables_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTBGFish11"
+ },
+ {
+  "original": "Diver",
+  "string": "Водолаз",
+  "form_id": "00000851|DBM_BGCollectables_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTBGFish16"
+ },
+ {
+  "original": "Fish Bowl 4",
+  "string": "Аквариум 4",
+  "form_id": "00000852|DBM_BGCollectables_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTBGFish06"
+ },
+ {
+  "original": "Fish Bowl 5",
+  "string": "Аквариум 5",
+  "form_id": "00000853|DBM_BGCollectables_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTBGFish07"
+ },
+ {
+  "original": "Fish Bowl 1",
+  "string": "Аквариум 1",
+  "form_id": "00000854|DBM_BGCollectables_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTBGFish08"
+ },
+ {
+  "original": "MUS-TARD-JAR",
+  "string": "Банка с горчицей",
+  "form_id": "00000DE9|DBM_BGCollectables_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_ACTBGMusTardlACT"
+ },
+ {
+  "original": "BadGremlin Items",
+  "string": "Предметы BadGremlin",
+  "form_id": "00000804|DBM_BGCollectables_Patch.esp",
+  "type": "CONT FULL",
+  "index": null,
+  "editor_id": "DBM_CheatCrateSMBGCollectables"
+ },
+ {
+  "original": "Supported Mod BGCollectables",
+  "string": "Поддержка мода BGCollectables (служебный)",
+  "form_id": "00000803|DBM_BGCollectables_Patch.esp",
+  "type": "QUST FULL",
+  "index": null,
+  "editor_id": "DBM_SupportedModBGCollectables"
+ }
+]

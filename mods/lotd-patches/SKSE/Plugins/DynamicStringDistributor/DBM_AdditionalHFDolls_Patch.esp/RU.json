@@ -1,0 +1,698 @@
+[
+ {
+  "original": "Child's Doll",
+  "string": "Кукла",
+  "form_id": "00000804|DBM_AdditionalHFDolls_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTDoll"
+ },
+ {
+  "original": "Chef Doll",
+  "string": "Кукла «Шеф-повар»",
+  "form_id": "00000805|DBM_AdditionalHFDolls_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTDollChef"
+ },
+ {
+  "original": "Dark Brotherhood Doll",
+  "string": "Кукла «Темное Братство»",
+  "form_id": "00000806|DBM_AdditionalHFDolls_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTDollBrotherhood"
+ },
+ {
+  "original": "Dragonborn Doll",
+  "string": "Кукла «Довакин»",
+  "form_id": "00000807|DBM_AdditionalHFDolls_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTDollDragonborn"
+ },
+ {
+  "original": "Dragon Priest Doll",
+  "string": "Кукла «Драконий жрец»",
+  "form_id": "00000828|DBM_AdditionalHFDolls_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTDollDragonPriest"
+ },
+ {
+  "original": "Blacksmith Doll",
+  "string": "Кукла «Кузнец»",
+  "form_id": "00000829|DBM_AdditionalHFDolls_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTDollBlacksmith"
+ },
+ {
+  "original": "Imperial Doll",
+  "string": "Кукла «Имперец»",
+  "form_id": "0000082A|DBM_AdditionalHFDolls_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTDollImperial"
+ },
+ {
+  "original": "Stormcloak Doll",
+  "string": "Кукла «Брат Бури»",
+  "form_id": "0000082B|DBM_AdditionalHFDolls_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTDollStormcloak"
+ },
+ {
+  "original": "Thalmor Doll",
+  "string": "Кукла «Талморец»",
+  "form_id": "0000082C|DBM_AdditionalHFDolls_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTDollThalmor"
+ },
+ {
+  "original": "Spriggan Doll",
+  "string": "Кукла «Спригган»",
+  "form_id": "0000082D|DBM_AdditionalHFDolls_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTDollSpriggan"
+ },
+ {
+  "original": "Mythic Dawn Doll",
+  "string": "Кукла «Мифический Рассвет»",
+  "form_id": "0000082E|DBM_AdditionalHFDolls_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTDollMythicDawn"
+ },
+ {
+  "original": "Orc Doll",
+  "string": "Кукла «Орочьи доспехи»",
+  "form_id": "0000082F|DBM_AdditionalHFDolls_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTDollOrc"
+ },
+ {
+  "original": "Executioner Doll",
+  "string": "Кукла «Палач»",
+  "form_id": "00000830|DBM_AdditionalHFDolls_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTDollDawnstarGuard"
+ },
+ {
+  "original": "Archmage Doll",
+  "string": "Кукла «Архимаг»",
+  "form_id": "000008D0|DBM_AdditionalHFDolls_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTDollArchmage"
+ },
+ {
+  "original": "Dragon Plate Doll",
+  "string": "Кукла в драконьей броне",
+  "form_id": "00000913|DBM_AdditionalHFDolls_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTDollDragonplate"
+ },
+ {
+  "original": "Dwarven Doll",
+  "string": "Кукла в двемерской броне",
+  "form_id": "00000914|DBM_AdditionalHFDolls_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTDollDwarven"
+ },
+ {
+  "original": "Ebony Doll",
+  "string": "Кукла в эбонитовой броне",
+  "form_id": "00000915|DBM_AdditionalHFDolls_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTDollEbony"
+ },
+ {
+  "original": "Elven Doll",
+  "string": "Кукла в эльфийской броне",
+  "form_id": "00000916|DBM_AdditionalHFDolls_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTDollElven"
+ },
+ {
+  "original": "Falmer Doll",
+  "string": "Кукла фалмера",
+  "form_id": "00000917|DBM_AdditionalHFDolls_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTDollFalmer"
+ },
+ {
+  "original": "Forsworn Doll",
+  "string": "Кукла изгоя",
+  "form_id": "00000918|DBM_AdditionalHFDolls_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTDollForsworn"
+ },
+ {
+  "original": "Jester Doll",
+  "string": "Кукла «Шут»",
+  "form_id": "00000919|DBM_AdditionalHFDolls_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTDollJester"
+ },
+ {
+  "original": "Frost Atronach Doll",
+  "string": "Кукла «Ледяной атронах»",
+  "form_id": "0000091A|DBM_AdditionalHFDolls_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTDollFrostatronach"
+ },
+ {
+  "original": "Glass Doll",
+  "string": "Кукла в стеклянной броне",
+  "form_id": "0000091B|DBM_AdditionalHFDolls_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTDollGlass"
+ },
+ {
+  "original": "Dawnstar Guard Doll",
+  "string": "Кукла стражника Данстара",
+  "form_id": "0000091C|DBM_AdditionalHFDolls_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTDollDawnstar"
+ },
+ {
+  "original": "Graybeard Doll",
+  "string": "Кукла «Седобородый»",
+  "form_id": "0000091D|DBM_AdditionalHFDolls_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTDollGraybeard"
+ },
+ {
+  "original": "Falkreath Guard Doll",
+  "string": "Кукла стражника Фолкрита",
+  "form_id": "0000091E|DBM_AdditionalHFDolls_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTDollFalkreath"
+ },
+ {
+  "original": "Hjaalmarch Guard Doll",
+  "string": "Кукла стражника Хьялмарка",
+  "form_id": "0000091F|DBM_AdditionalHFDolls_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTDollHjaalmarch"
+ },
+ {
+  "original": "Markarth Guard Doll",
+  "string": "Кукла стражника Маркарта",
+  "form_id": "00000920|DBM_AdditionalHFDolls_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTDollMarkarth"
+ },
+ {
+  "original": "Riften Guard Doll",
+  "string": "Кукла стражника Рифтена",
+  "form_id": "00000921|DBM_AdditionalHFDolls_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTDollRiften"
+ },
+ {
+  "original": "Solitude Guard Doll",
+  "string": "Кукла стражника Солитьюда",
+  "form_id": "00000922|DBM_AdditionalHFDolls_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTDollSolitude"
+ },
+ {
+  "original": "Whiterun Guard Doll",
+  "string": "Кукла стражника Вайтрана",
+  "form_id": "00000923|DBM_AdditionalHFDolls_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTDollWhiterun"
+ },
+ {
+  "original": "Winterhold Guard Doll",
+  "string": "Кукла стражника Винтерхолда",
+  "form_id": "00000924|DBM_AdditionalHFDolls_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTDollWinterhold"
+ },
+ {
+  "original": "Windhelm Guard Doll",
+  "string": "Кукла стражника Виндхельма",
+  "form_id": "00000925|DBM_AdditionalHFDolls_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTDollWindhelm"
+ },
+ {
+  "original": "Hooded Doll",
+  "string": "Кукла «Смертник в капюшоне»",
+  "form_id": "00000926|DBM_AdditionalHFDolls_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTDollHooded"
+ },
+ {
+  "original": "Nightingale Doll",
+  "string": "Кукла «Соловей»",
+  "form_id": "00000927|DBM_AdditionalHFDolls_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTDollNightingale"
+ },
+ {
+  "original": "Steel Plate Doll",
+  "string": "Кукла в стальной латной броне",
+  "form_id": "00000928|DBM_AdditionalHFDolls_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTDollSteelplate"
+ },
+ {
+  "original": "Psijic Doll",
+  "string": "Кукла псиджика",
+  "form_id": "00000929|DBM_AdditionalHFDolls_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTDollPsijic"
+ },
+ {
+  "original": "Mage Doll",
+  "string": "Кукла «Маг»",
+  "form_id": "00000A26|DBM_AdditionalHFDolls_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTDollMage"
+ },
+ {
+  "original": "Prisoner Doll",
+  "string": "Кукла «Узник»",
+  "form_id": "00000A27|DBM_AdditionalHFDolls_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTDollPrisoner"
+ },
+ {
+  "original": "Redguard Doll",
+  "string": "Кукла «Редгард»",
+  "form_id": "00000A28|DBM_AdditionalHFDolls_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTDollRedguard"
+ },
+ {
+  "original": "Thief Doll",
+  "string": "Кукла «Вор»",
+  "form_id": "00000A29|DBM_AdditionalHFDolls_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTDollThief"
+ },
+ {
+  "original": "Companions Doll",
+  "string": "Кукла Соратника",
+  "form_id": "00000A2A|DBM_AdditionalHFDolls_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTDollCompanions"
+ },
+ {
+  "original": "Additional Hearthfire Dolls Items",
+  "string": "Предметы из Additional Hearthfire Dolls",
+  "form_id": "00000884|DBM_AdditionalHFDolls_Patch.esp",
+  "type": "CONT FULL",
+  "index": null,
+  "editor_id": "DBM_CheatCrateHFDolls"
+ },
+ {
+  "original": "Dragon Plate Doll",
+  "string": "Кукла в драконьей броне",
+  "form_id": "00000815|AdditionalHearthfireDolls.esp",
+  "type": "MISC FULL",
+  "index": null,
+  "editor_id": "BYOHDragonplateDoll"
+ },
+ {
+  "original": "Steel Plate Doll",
+  "string": "Кукла в стальной латной броне",
+  "form_id": "00000828|AdditionalHearthfireDolls.esp",
+  "type": "MISC FULL",
+  "index": null,
+  "editor_id": "BYOHNordplateDoll"
+ },
+ {
+  "original": "Chef Doll (replica)",
+  "string": "Кукла «Шеф-повар» (копия)",
+  "form_id": "00000831|DBM_AdditionalHFDolls_Patch.esp",
+  "type": "MISC FULL",
+  "index": null,
+  "editor_id": "DBM_ChefDollREPLICA"
+ },
+ {
+  "original": "Dark Brotherhood Doll (replica)",
+  "string": "Кукла «Темное Братство» (копия)",
+  "form_id": "00000832|DBM_AdditionalHFDolls_Patch.esp",
+  "type": "MISC FULL",
+  "index": null,
+  "editor_id": "DBM_DBDollREPLICA"
+ },
+ {
+  "original": "Dragonborn Doll (replica)",
+  "string": "Кукла «Довакин» (копия)",
+  "form_id": "00000833|DBM_AdditionalHFDolls_Patch.esp",
+  "type": "MISC FULL",
+  "index": null,
+  "editor_id": "DBM_DragonbornDollREPLICA"
+ },
+ {
+  "original": "Jester Doll (replica)",
+  "string": "Кукла «Шут» (копия)",
+  "form_id": "00000834|DBM_AdditionalHFDolls_Patch.esp",
+  "type": "MISC FULL",
+  "index": null,
+  "editor_id": "DBM_JesterDollREPLICA"
+ },
+ {
+  "original": "Mage Doll (replica)",
+  "string": "Кукла «Маг» (копия)",
+  "form_id": "00000835|DBM_AdditionalHFDolls_Patch.esp",
+  "type": "MISC FULL",
+  "index": null,
+  "editor_id": "DBM_MageDollREPLICA"
+ },
+ {
+  "original": "Prisoner Doll (replica)",
+  "string": "Кукла «Узник» (копия)",
+  "form_id": "00000836|DBM_AdditionalHFDolls_Patch.esp",
+  "type": "MISC FULL",
+  "index": null,
+  "editor_id": "DBM_PrisonerDollREPLICA"
+ },
+ {
+  "original": "Redguard Doll (replica)",
+  "string": "Кукла «Редгард» (копия)",
+  "form_id": "00000837|DBM_AdditionalHFDolls_Patch.esp",
+  "type": "MISC FULL",
+  "index": null,
+  "editor_id": "DBM_RedguardDollREPLICA"
+ },
+ {
+  "original": "Thief Doll (replica)",
+  "string": "Кукла «Вор» (копия)",
+  "form_id": "00000838|DBM_AdditionalHFDolls_Patch.esp",
+  "type": "MISC FULL",
+  "index": null,
+  "editor_id": "DBM_ThiefDollREPLICA"
+ },
+ {
+  "original": "Companion Doll (replica)",
+  "string": "Кукла «Соратник» (копия)",
+  "form_id": "00000839|DBM_AdditionalHFDolls_Patch.esp",
+  "type": "MISC FULL",
+  "index": null,
+  "editor_id": "DBM_WolfDollREPLICA"
+ },
+ {
+  "original": "Blacksmith Doll (replica)",
+  "string": "Кукла «Кузнец» (копия)",
+  "form_id": "00000844|DBM_AdditionalHFDolls_Patch.esp",
+  "type": "MISC FULL",
+  "index": null,
+  "editor_id": "DBM_BlacksmithDollREPLICA"
+ },
+ {
+  "original": "Dragon Priest Doll (replica)",
+  "string": "Кукла «Драконий жрец» (копия)",
+  "form_id": "00000845|DBM_AdditionalHFDolls_Patch.esp",
+  "type": "MISC FULL",
+  "index": null,
+  "editor_id": "DBM_DragonPriestDollREPLICA"
+ },
+ {
+  "original": "Executioner Doll (replica)",
+  "string": "Кукла «Палач» (копия)",
+  "form_id": "00000846|DBM_AdditionalHFDolls_Patch.esp",
+  "type": "MISC FULL",
+  "index": null,
+  "editor_id": "DBM_ExecutionerDollREPLICA"
+ },
+ {
+  "original": "Imperial Doll (replica)",
+  "string": "Кукла «Имперец» (копия)",
+  "form_id": "00000847|DBM_AdditionalHFDolls_Patch.esp",
+  "type": "MISC FULL",
+  "index": null,
+  "editor_id": "DBM_ImperialDollREPLICA"
+ },
+ {
+  "original": "Mythic Dawn Doll (replica)",
+  "string": "Кукла «Мифический Рассвет» (копия)",
+  "form_id": "00000848|DBM_AdditionalHFDolls_Patch.esp",
+  "type": "MISC FULL",
+  "index": null,
+  "editor_id": "DBM_MythicDawnDollREPLICA"
+ },
+ {
+  "original": "Orc Doll (replica)",
+  "string": "Кукла «Орочьи доспехи» (копия)",
+  "form_id": "00000849|DBM_AdditionalHFDolls_Patch.esp",
+  "type": "MISC FULL",
+  "index": null,
+  "editor_id": "DBM_OrcDollREPLICA"
+ },
+ {
+  "original": "Spriggan Doll (replica)",
+  "string": "Кукла «Спригган» (копия)",
+  "form_id": "0000084A|DBM_AdditionalHFDolls_Patch.esp",
+  "type": "MISC FULL",
+  "index": null,
+  "editor_id": "DBM_SprigganDollREPLICA"
+ },
+ {
+  "original": "Stormcloak Doll (replica)",
+  "string": "Кукла «Брат Бури» (копия)",
+  "form_id": "0000084B|DBM_AdditionalHFDolls_Patch.esp",
+  "type": "MISC FULL",
+  "index": null,
+  "editor_id": "DBM_StormcloakDollREPLICA"
+ },
+ {
+  "original": "Thalmor Doll (replica)",
+  "string": "Кукла «Талморец» (копия)",
+  "form_id": "0000084C|DBM_AdditionalHFDolls_Patch.esp",
+  "type": "MISC FULL",
+  "index": null,
+  "editor_id": "DBM_ThalmorDollREPLICA"
+ },
+ {
+  "original": "Archmage Doll (replica)",
+  "string": "Кукла «Архимаг» (копия)",
+  "form_id": "000008CD|DBM_AdditionalHFDolls_Patch.esp",
+  "type": "MISC FULL",
+  "index": null,
+  "editor_id": "DBM_ArchmageDollREPLICA"
+ },
+ {
+  "original": "Dragon Plate Doll (replica)",
+  "string": "Кукла в драконьих латах (копия)",
+  "form_id": "000008D1|DBM_AdditionalHFDolls_Patch.esp",
+  "type": "MISC FULL",
+  "index": null,
+  "editor_id": "DBM_DragonplateDollREPLICA"
+ },
+ {
+  "original": "Dwarven Doll (replica)",
+  "string": "Кукла в двемерской броне (копия)",
+  "form_id": "000008D2|DBM_AdditionalHFDolls_Patch.esp",
+  "type": "MISC FULL",
+  "index": null,
+  "editor_id": "DBM_DwarvenDollREPLICA"
+ },
+ {
+  "original": "Ebony Doll (replica)",
+  "string": "Кукла в эбонитовой броне (копия)",
+  "form_id": "000008D3|DBM_AdditionalHFDolls_Patch.esp",
+  "type": "MISC FULL",
+  "index": null,
+  "editor_id": "DBM_EbonyDollREPLICA"
+ },
+ {
+  "original": "Elven Doll (replica)",
+  "string": "Кукла в эльфийской броне (копия)",
+  "form_id": "000008D4|DBM_AdditionalHFDolls_Patch.esp",
+  "type": "MISC FULL",
+  "index": null,
+  "editor_id": "DBM_ElvenDollREPLICA"
+ },
+ {
+  "original": "Falmer Doll (replica)",
+  "string": "Кукла-фалмер (копия)",
+  "form_id": "000008D5|DBM_AdditionalHFDolls_Patch.esp",
+  "type": "MISC FULL",
+  "index": null,
+  "editor_id": "DBM_FalmerDollREPLICA"
+ },
+ {
+  "original": "Forsworn Doll (replica)",
+  "string": "Кукла-изгой (копия)",
+  "form_id": "000008D6|DBM_AdditionalHFDolls_Patch.esp",
+  "type": "MISC FULL",
+  "index": null,
+  "editor_id": "DBM_ForswornDollREPLICA"
+ },
+ {
+  "original": "Frost Atronach Doll (replica)",
+  "string": "Кукла «Ледяной атронах» (копия)",
+  "form_id": "000008D7|DBM_AdditionalHFDolls_Patch.esp",
+  "type": "MISC FULL",
+  "index": null,
+  "editor_id": "DBM_FrostAtronachDollREPLICA"
+ },
+ {
+  "original": "Glass Doll (replica)",
+  "string": "Кукла в стеклянной броне (копия)",
+  "form_id": "000008D8|DBM_AdditionalHFDolls_Patch.esp",
+  "type": "MISC FULL",
+  "index": null,
+  "editor_id": "DBM_GlassDollREPLICA"
+ },
+ {
+  "original": "Graybeard Doll (replica)",
+  "string": "Кукла «Седобородый» (копия)",
+  "form_id": "000008D9|DBM_AdditionalHFDolls_Patch.esp",
+  "type": "MISC FULL",
+  "index": null,
+  "editor_id": "DBM_GraybeardDollREPLICA"
+ },
+ {
+  "original": "Falkreath Guard Doll (replica)",
+  "string": "Кукла стражника Фолкрита (копия)",
+  "form_id": "000008DA|DBM_AdditionalHFDolls_Patch.esp",
+  "type": "MISC FULL",
+  "index": null,
+  "editor_id": "DBM_FalkreathDollREPLICA"
+ },
+ {
+  "original": "Dawnstar Guard Doll (replica)",
+  "string": "Кукла стражника Данстара (копия)",
+  "form_id": "000008DB|DBM_AdditionalHFDolls_Patch.esp",
+  "type": "MISC FULL",
+  "index": null,
+  "editor_id": "DBM_DawnstarDollREPLICA"
+ },
+ {
+  "original": "Hjaalmarch Guard Doll (replica)",
+  "string": "Кукла стражника Хьялмарка (копия)",
+  "form_id": "000008DC|DBM_AdditionalHFDolls_Patch.esp",
+  "type": "MISC FULL",
+  "index": null,
+  "editor_id": "DBM_HjaalmarchDollREPLICA"
+ },
+ {
+  "original": "Markarth Guard Doll (replica)",
+  "string": "Кукла стражника Маркарта (копия)",
+  "form_id": "000008DD|DBM_AdditionalHFDolls_Patch.esp",
+  "type": "MISC FULL",
+  "index": null,
+  "editor_id": "DBM_MarkarthDollREPLICA"
+ },
+ {
+  "original": "Riften Guard Doll (replica)",
+  "string": "Кукла стражника Рифтена (копия)",
+  "form_id": "000008DE|DBM_AdditionalHFDolls_Patch.esp",
+  "type": "MISC FULL",
+  "index": null,
+  "editor_id": "DBM_RiftenDollREPLICA"
+ },
+ {
+  "original": "Solitude Guard Doll (replica)",
+  "string": "Кукла стражника Солитьюда (копия)",
+  "form_id": "000008DF|DBM_AdditionalHFDolls_Patch.esp",
+  "type": "MISC FULL",
+  "index": null,
+  "editor_id": "DBM_SolitudeDollREPLICA"
+ },
+ {
+  "original": "Whiterun Guard Doll (replica)",
+  "string": "Кукла стражника Вайтрана (копия)",
+  "form_id": "000008E0|DBM_AdditionalHFDolls_Patch.esp",
+  "type": "MISC FULL",
+  "index": null,
+  "editor_id": "DBM_WhiterunDollREPLICA"
+ },
+ {
+  "original": "Windhelm Guard Doll (replica)",
+  "string": "Кукла стражника Виндхельма (копия)",
+  "form_id": "000008E1|DBM_AdditionalHFDolls_Patch.esp",
+  "type": "MISC FULL",
+  "index": null,
+  "editor_id": "DBM_WindhelmDollREPLICA"
+ },
+ {
+  "original": "Winterhold Guard Doll (replica)",
+  "string": "Кукла стражника Винтерхолда (копия)",
+  "form_id": "000008E2|DBM_AdditionalHFDolls_Patch.esp",
+  "type": "MISC FULL",
+  "index": null,
+  "editor_id": "DBM_WinterholdDollREPLICA"
+ },
+ {
+  "original": "Hooded Doll (replica)",
+  "string": "Кукла «Смертник в капюшоне» (копия)",
+  "form_id": "000008E3|DBM_AdditionalHFDolls_Patch.esp",
+  "type": "MISC FULL",
+  "index": null,
+  "editor_id": "DBM_HoodedDollREPLICA"
+ },
+ {
+  "original": "Nightingale Doll (replica)",
+  "string": "Кукла «Соловей» (копия)",
+  "form_id": "000008E4|DBM_AdditionalHFDolls_Patch.esp",
+  "type": "MISC FULL",
+  "index": null,
+  "editor_id": "DBM_NightingaleDollREPLICA"
+ },
+ {
+  "original": "Steel Plate Doll (replica)",
+  "string": "Кукла в стальных латах (копия)",
+  "form_id": "000008E5|DBM_AdditionalHFDolls_Patch.esp",
+  "type": "MISC FULL",
+  "index": null,
+  "editor_id": "DBM_SteelplateDollREPLICA"
+ },
+ {
+  "original": "Psijic Doll (replica)",
+  "string": "Кукла-псиджик (копия)",
+  "form_id": "000008E6|DBM_AdditionalHFDolls_Patch.esp",
+  "type": "MISC FULL",
+  "index": null,
+  "editor_id": "DBM_PsijicDollREPLICA"
+ },
+ {
+  "original": "Additional Hearthfire Dolls Handler",
+  "string": "Поддержка Additional Hearthfire Dolls (служебный)",
+  "form_id": "00000803|DBM_AdditionalHFDolls_Patch.esp",
+  "type": "QUST FULL",
+  "index": null,
+  "editor_id": "DBM_AdditionalHFDollsHandler"
+ }
+]

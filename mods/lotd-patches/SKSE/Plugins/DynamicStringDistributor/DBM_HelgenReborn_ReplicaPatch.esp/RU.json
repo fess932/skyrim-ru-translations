@@ -1,0 +1,66 @@
+[
+ {
+  "original": "Keepers of Hattu Armor",
+  "string": "Броня Хранителей Хатту",
+  "form_id": "00000801|DBM_HelgenReborn_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTHelgenArmor"
+ },
+ {
+  "original": "Keepers of Hattu Helmet (replica)",
+  "string": "Шлем Хранителей Хатту (копия)",
+  "form_id": "00000801|DBM_HelgenReborn_ReplicaPatch.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "ArmorBalokSteelHelmREPLICA"
+ },
+ {
+  "original": "Keepers of Hattu Gauntlets (replica)",
+  "string": "Хранителей Хатту перчатки (копия)",
+  "form_id": "00000802|DBM_HelgenReborn_ReplicaPatch.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "BalokSteelPlateGauntletsREPLICA"
+ },
+ {
+  "original": "Keepers of Hattu Boots (replica)",
+  "string": "Хранителей Хатту сапоги (копия)",
+  "form_id": "00000803|DBM_HelgenReborn_ReplicaPatch.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "BalokSteelPlateBootsREPLICA"
+ },
+ {
+  "original": "Keepers of Hattu Officers Armor (replica)",
+  "string": "Хранителей Хатту броня офицерская (копия)",
+  "form_id": "00000804|DBM_HelgenReborn_ReplicaPatch.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "BalokSteelV01REPLICA"
+ },
+ {
+  "original": "Keepers of Hattu Heavy Armor (replica)",
+  "string": "Хранителей Хатту броня (копия)",
+  "form_id": "00000805|DBM_HelgenReborn_ReplicaPatch.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "BalokSteelV02REPLICA"
+ },
+ {
+  "original": "Dragon's Fang (replica)",
+  "string": "Драконий клык (копия)",
+  "form_id": "00000800|DBM_HelgenReborn_ReplicaPatch.esp",
+  "type": "WEAP FULL",
+  "index": null,
+  "editor_id": "aaaBalokEnchDragonPriestDaggerREPLICA"
+ },
+ {
+  "original": "Pickaxe of the Impatient (replica)",
+  "string": "Кирка нетерпеливых (копия)",
+  "form_id": "00000806|DBM_HelgenReborn_ReplicaPatch.esp",
+  "type": "WEAP FULL",
+  "index": null,
+  "editor_id": "aaaWereBanditSpecialPickREPLICA"
+ }
+]

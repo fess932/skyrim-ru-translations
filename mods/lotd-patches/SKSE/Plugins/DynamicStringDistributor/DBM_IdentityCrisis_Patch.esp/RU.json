@@ -1,0 +1,146 @@
+[
+ {
+  "original": "Discordant Greatsword",
+  "string": "Диссонирующий двуручный меч",
+  "form_id": "0000083A|DBM_IdentityCrisis_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACT000DiscordanGreatsword"
+ },
+ {
+  "original": "Mindcleaver",
+  "string": "Рассекатель разума",
+  "form_id": "0000083B|DBM_IdentityCrisis_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACT000Mindcleaver"
+ },
+ {
+  "original": "Boots of the Penitent",
+  "string": "Сапоги кающегося ",
+  "form_id": "0000083E|DBM_IdentityCrisis_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACT000VirtandBoots"
+ },
+ {
+  "original": "Gauntlets of the Penitent",
+  "string": "Перчатки кающегося ",
+  "form_id": "0000083F|DBM_IdentityCrisis_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACT000VirtandGauntlets"
+ },
+ {
+  "original": "Cuirass of the Penitent",
+  "string": "Кираса кающегося ",
+  "form_id": "00000840|DBM_IdentityCrisis_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACT000VirtandCuirass"
+ },
+ {
+  "original": "Bascinet of the Penitent",
+  "string": "Бацинет кающегося ",
+  "form_id": "00000841|DBM_IdentityCrisis_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACT000VirtandHelmet"
+ },
+ {
+  "original": "Waffenrock of the Penitent",
+  "string": "Ваффенрок кающегося ",
+  "form_id": "00000844|DBM_IdentityCrisis_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACT000VirtandCoat"
+ },
+ {
+  "original": "Intriguer's Cowl",
+  "string": "Капюшон интригана ",
+  "form_id": "00000845|DBM_IdentityCrisis_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACT000CowlofIntrigue"
+ },
+ {
+  "original": "Heart of Arden-Sul",
+  "string": "Сердце Арден-Сула ",
+  "form_id": "0000084C|DBM_IdentityCrisis_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACT000ArdenSullHeart"
+ },
+ {
+  "original": "Crisis of Identities",
+  "string": "Кризис личностей",
+  "form_id": "0000084F|DBM_IdentityCrisis_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_exhibitsignIdentityCrisis"
+ },
+ {
+  "original": "Read Plaque:",
+  "string": "Прочитать табличку:",
+  "form_id": "0000084F|DBM_IdentityCrisis_Patch.esp",
+  "type": "ACTI RNAM",
+  "index": null,
+  "editor_id": "DBM_exhibitsignIdentityCrisis"
+ },
+ {
+  "original": "Intriguer's Cowl (replica)",
+  "string": "Капюшон интригана  (копия)",
+  "form_id": "00000856|DBM_IdentityCrisis_Patch.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "000CowlofIntrigueREPLICA"
+ },
+ {
+  "original": "Identity Crisis Items",
+  "string": "Предметы из Кризиса идентичности",
+  "form_id": "00000852|DBM_IdentityCrisis_Patch.esp",
+  "type": "CONT FULL",
+  "index": null,
+  "editor_id": "DBM_CheatCrateIdentityCrisis"
+ },
+ {
+  "original": "Heart of Arden-Sul (replica)",
+  "string": "Сердце Арден-Сула  (копия)",
+  "form_id": "00000857|DBM_IdentityCrisis_Patch.esp",
+  "type": "LIGH FULL",
+  "index": null,
+  "editor_id": "000ArdenSulHeartREPLICA"
+ },
+ {
+  "original": "Heart of Arden-Sul (replica)",
+  "string": "Сердце Арден-Сула  (копия)",
+  "form_id": "0000085A|DBM_IdentityCrisis_Patch.esp",
+  "type": "MISC FULL",
+  "index": null,
+  "editor_id": "DBM_000ArdenSulHeartFAKE"
+ },
+ {
+  "original": "Identity Crisis Support Handler",
+  "string": "Поддержка Кризиса идентичности (служебный)",
+  "form_id": "00000803|DBM_IdentityCrisis_Patch.esp",
+  "type": "QUST FULL",
+  "index": null,
+  "editor_id": "DBM_IdentityCrisisSupportHandler"
+ },
+ {
+  "original": "The Seed of Unreason has taken root in the Northern Asylum of Julianos. It was told that before the tendrils of madness took hold, a strange prisoner showed up to the Asylum. After his demise though, the establishment started warping and twisting as the madness steeped in. Or was it already there, that little defect in each and every person?\r\nGo on. Take a peek. You'll see......",
+  "string": "Семя Безрассудства пустило корни в Северном Пристанище Джулианоса. Говорят, незадолго до того, как его охватили щупальца безумия, в Приюте объявился странный узник. Но после его смерти заведение начало искажаться и корежиться, пропитываясь безумием. Или оно было там всегда - тот маленький изъян, что есть в каждом из нас?\r\nНу же. Загляни. Ты увидишь......",
+  "form_id": "0000081C|DBM_IdentityCrisis_Patch.esp",
+  "type": "MESG DESC",
+  "index": null,
+  "editor_id": "DBM_messageidentitycrisis"
+ },
+ {
+  "original": "Crisis of Identities",
+  "string": "Кризис личностей",
+  "form_id": "0000081C|DBM_IdentityCrisis_Patch.esp",
+  "type": "MESG FULL",
+  "index": null,
+  "editor_id": "DBM_messageidentitycrisis"
+ }
+]

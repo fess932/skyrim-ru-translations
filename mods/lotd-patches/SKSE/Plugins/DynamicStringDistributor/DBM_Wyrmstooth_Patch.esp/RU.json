@@ -1,0 +1,290 @@
+[
+ {
+  "original": "East Empire Company Shield",
+  "string": "Щит восточной имперской компании",
+  "form_id": "00000831|DBM_Wyrmstooth_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTEECShield"
+ },
+ {
+  "original": "Marauder's Shield",
+  "string": "Щит мародера",
+  "form_id": "00000839|DBM_Wyrmstooth_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTMarauderShield"
+ },
+ {
+  "original": "Ancient Nord Buckler",
+  "string": "Древний нордский баклер",
+  "form_id": "0000083B|DBM_Wyrmstooth_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTNordBuckler"
+ },
+ {
+  "original": "Plank Shield",
+  "string": "Дощатый щит",
+  "form_id": "0000083D|DBM_Wyrmstooth_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTPlankShield"
+ },
+ {
+  "original": "Rusted Claw",
+  "string": "Ржавый коготь",
+  "form_id": "0000083F|DBM_Wyrmstooth_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTRustedClaw"
+ },
+ {
+  "original": "Suleyk",
+  "string": "Сулейк",
+  "form_id": "00000841|DBM_Wyrmstooth_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTSuleyk"
+ },
+ {
+  "original": "Chaoswielder",
+  "string": "Владелец Хаоса",
+  "form_id": "00000845|DBM_Wyrmstooth_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTChaoswielder"
+ },
+ {
+  "original": "Bloodletter",
+  "string": "Кровопускатель",
+  "form_id": "00000847|DBM_Wyrmstooth_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTBloodletter"
+ },
+ {
+  "original": "Broken Steel Sword",
+  "string": "Сломанный стальной меч",
+  "form_id": "00000849|DBM_Wyrmstooth_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTBrokenSteelSword"
+ },
+ {
+  "original": "Vulom's Staff",
+  "string": "Посох Вулома",
+  "form_id": "0000084B|DBM_Wyrmstooth_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTVulomsStaff"
+ },
+ {
+  "original": "Giant Club",
+  "string": "Дубина великана",
+  "form_id": "0000084D|DBM_Wyrmstooth_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTGiantClub"
+ },
+ {
+  "original": "Embersunder",
+  "string": "Угольный",
+  "form_id": "0000084F|DBM_Wyrmstooth_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTEmbersunder"
+ },
+ {
+  "original": "Bladed Broom",
+  "string": "Заточенный ракитник",
+  "form_id": "00000851|DBM_Wyrmstooth_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTBladedBroom"
+ },
+ {
+  "original": "Severed Leg",
+  "string": "Оторванная нога",
+  "form_id": "00000853|DBM_Wyrmstooth_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTSeveredLeg"
+ },
+ {
+  "original": "Staff of Malentis",
+  "string": "Посох Малентиса",
+  "form_id": "00000855|DBM_Wyrmstooth_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTMalentisStaff"
+ },
+ {
+  "original": "Dwarven Paralysis Rod",
+  "string": "Двемерский парализующий жезл",
+  "form_id": "00000857|DBM_Wyrmstooth_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTDwarvenParalyzeStaff"
+ },
+ {
+  "original": "Goreduster",
+  "string": "Кровогон",
+  "form_id": "00000859|DBM_Wyrmstooth_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTGoreduster"
+ },
+ {
+  "original": "Eyegouger",
+  "string": "Глазокол",
+  "form_id": "0000085B|DBM_Wyrmstooth_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTEyegouger"
+ },
+ {
+  "original": "Dragonslayer",
+  "string": "Драконоборец",
+  "form_id": "0000085D|DBM_Wyrmstooth_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTDragonslayer"
+ },
+ {
+  "original": "Gauntlets of Dentistry",
+  "string": "Перчатки зубного врача",
+  "form_id": "0000085F|DBM_Wyrmstooth_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTGauntletsofDentistry"
+ },
+ {
+  "original": "Nighthunter's Locket",
+  "string": "Кулон ночного охотника",
+  "form_id": "00000861|DBM_Wyrmstooth_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTNighthuntersLocket"
+ },
+ {
+  "original": "Shipwheel Shield",
+  "string": "Круглый корабельный щит",
+  "form_id": "00000863|DBM_Wyrmstooth_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTShipwheelShield"
+ },
+ {
+  "original": "Wagon Shield",
+  "string": "Сводчатый щит",
+  "form_id": "00000865|DBM_Wyrmstooth_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTWagonShield"
+ },
+ {
+  "original": "Wyrmstooth",
+  "string": "Змеиный клык",
+  "form_id": "00000881|DBM_Wyrmstooth_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_WTDisplayPlaque"
+ },
+ {
+  "original": "Stone Hollow",
+  "string": "Каменная пустошь",
+  "form_id": "000008B6|DBM_Wyrmstooth_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "PKY_FlagWyrmstooth1"
+ },
+ {
+  "original": "Plot Course:",
+  "string": "Установить курс:",
+  "form_id": "000008B6|DBM_Wyrmstooth_Patch.esp",
+  "type": "ACTI RNAM",
+  "index": null,
+  "editor_id": "PKY_FlagWyrmstooth1"
+ },
+ {
+  "original": "Fort Valus",
+  "string": "Форт Валус",
+  "form_id": "000008B7|DBM_Wyrmstooth_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "PKY_FlagWyrmstooth2"
+ },
+ {
+  "original": "Plot Course:",
+  "string": "Установить курс:",
+  "form_id": "000008B7|DBM_Wyrmstooth_Patch.esp",
+  "type": "ACTI RNAM",
+  "index": null,
+  "editor_id": "PKY_FlagWyrmstooth2"
+ },
+ {
+  "original": "Alka's Staff",
+  "string": "Посох Алки",
+  "form_id": "000008CE|DBM_Wyrmstooth_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTAlkasStaff"
+ },
+ {
+  "original": "Wyrmstooth Quest Display",
+  "string": "Экспозиция задания \"Змеиный клык\"",
+  "form_id": "000008D6|DBM_Wyrmstooth_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_WTQuestDisplayPlaque"
+ },
+ {
+  "original": "Nighthunter's Locket (replica)",
+  "string": "Кулон ночного охотника (копия)",
+  "form_id": "000008C9|DBM_Wyrmstooth_Patch.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "WTNighthunterLocketREPLICA"
+ },
+ {
+  "original": "Wyrmstooth Items",
+  "string": "Предметы из Змеиного клыка",
+  "form_id": "00000885|DBM_Wyrmstooth_Patch.esp",
+  "type": "CONT FULL",
+  "index": null,
+  "editor_id": "DBM_CheatCrateWyrmstooth"
+ },
+ {
+  "original": "Embersunder (replica)",
+  "string": "Угольный (копия)",
+  "form_id": "000008C5|DBM_Wyrmstooth_Patch.esp",
+  "type": "WEAP FULL",
+  "index": null,
+  "editor_id": "WTEmbersunderREPLICA"
+ },
+ {
+  "original": "Goreduster (replica)",
+  "string": "Кровогон (копия)",
+  "form_id": "000008CB|DBM_Wyrmstooth_Patch.esp",
+  "type": "WEAP FULL",
+  "index": null,
+  "editor_id": "WTGoredusterBaseREP"
+ },
+ {
+  "original": "The aspirations of dragons reach far and wide and their domination over the small isle of Wyrmstooth narrowly escaped such endeavors with the aid of the Dragonborn. Mercenaries from the east empire trading company paired up with the hero to thwart the dragon Vulthurkrah and his would be army of the dead.",
+  "string": "Притязания драконов простираются далеко, и маленький остров Змеиный клык едва избежал их господства лишь благодаря помощи Довакина. Наемники Восточной имперской компании объединились с героем, чтобы сорвать замыслы дракона Вультуркраха и его будущей армии мертвецов.",
+  "form_id": "00000882|DBM_Wyrmstooth_Patch.esp",
+  "type": "MESG DESC",
+  "index": null,
+  "editor_id": "DBM_WTPlaqueMSG"
+ },
+ {
+  "original": "Wyrmstooth",
+  "string": "Змеиный клык",
+  "form_id": "00000882|DBM_Wyrmstooth_Patch.esp",
+  "type": "MESG FULL",
+  "index": null,
+  "editor_id": "DBM_WTPlaqueMSG"
+ }
+]

@@ -1,0 +1,10 @@
+[
+ {
+  "original": "Elven Horse Armor DLC Handler",
+  "string": "DLC эльфийской конской брони (служебный)",
+  "form_id": "00000800|DBM_CC_HorseArmorDLCElvenPatch.esp",
+  "type": "QUST FULL",
+  "index": null,
+  "editor_id": "DBM_CC_HorseArmorDLCElvenHandler"
+ }
+]

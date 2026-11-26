@@ -1,0 +1,122 @@
+[
+ {
+  "original": "Bone Arrows",
+  "string": "Костяные стрелы",
+  "form_id": "00000823|DBM_Auri_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_WeaponACT018BoneArrow"
+ },
+ {
+  "original": "A Bosmeri Sleeping Song",
+  "string": "Колыбельная Босмери",
+  "form_id": "00000836|DBM_Auri_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_BOOKACT018SongOfTheGreen"
+ },
+ {
+  "original": "The Spinners of Y'ffre",
+  "string": "Прядильщики И'ффре",
+  "form_id": "0000083D|DBM_Auri_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_BOOKACT018TheSpinnersOfYffre"
+ },
+ {
+  "original": "Auri's Bow",
+  "string": "Лук Аури",
+  "form_id": "0000081E|DBM_Auri_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_WeaponACT018AuriBow"
+ },
+ {
+  "original": "Jagga",
+  "string": "Джагга",
+  "form_id": "00000822|DBM_Auri_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_ITEMACT018Jagga"
+ },
+ {
+  "original": "The Green Pact And The Dominion",
+  "string": "Зеленый пакт и Доминион",
+  "form_id": "00000840|DBM_Auri_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_BOOKACT018TheGreenPactAndTheDominion"
+ },
+ {
+  "original": "The Eldest: A Pilgrims Tale",
+  "string": "Старейший: рассказ паломника",
+  "form_id": "00000841|DBM_Auri_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_BOOKACT018TheEldestAPilgrimsTale"
+ },
+ {
+  "original": "War Customs of the Tribal Bosmer",
+  "string": "Военные обычаи босмерских племен",
+  "form_id": "00000842|DBM_Auri_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_BOOKACT018WarCustomsOfTribalBosmer"
+ },
+ {
+  "original": "The Ooze: A Fable",
+  "string": "Тина: Басня",
+  "form_id": "0000083E|DBM_Auri_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_BOOKACT018TheOozeAFable"
+ },
+ {
+  "original": "The Wilderking Legend",
+  "string": "Легенда об Уилдеркинге",
+  "form_id": "0000083F|DBM_Auri_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_BOOKACT018TheWilderkingLegend"
+ },
+ {
+  "original": "Auri's Items",
+  "string": "Предметы Аури",
+  "form_id": "00000846|DBM_Auri_Patch.esp",
+  "type": "CONT FULL",
+  "index": null,
+  "editor_id": "DBM_CheatCrateAuri"
+ },
+ {
+  "original": "Bed",
+  "string": "Кровать",
+  "form_id": "00000844|DBM_Auri_Patch.esp",
+  "type": "FURN FULL",
+  "index": null,
+  "editor_id": "GM_NobleBedSingle01R"
+ },
+ {
+  "original": "Auri's Bow (replica)",
+  "string": "Лук Аури (копия)",
+  "form_id": "0000084B|DBM_Auri_Patch.esp",
+  "type": "WEAP FULL",
+  "index": null,
+  "editor_id": "018AuriBowREPLICA"
+ },
+ {
+  "original": "Crafted with sinew, bone and leather. Not to be confused with Auriel's bow.",
+  "string": "Создан с использованием сухожилий, кости и кожи. Не путать с луком Ауриэль",
+  "form_id": "0000084B|DBM_Auri_Patch.esp",
+  "type": "WEAP DESC",
+  "index": null,
+  "editor_id": "018AuriBowREPLICA"
+ },
+ {
+  "original": "Auri",
+  "string": "Аури",
+  "form_id": "00000843|DBM_Auri_Patch.esp",
+  "type": "QUST FULL",
+  "index": null,
+  "editor_id": "DBM_Auri"
+ }
+]

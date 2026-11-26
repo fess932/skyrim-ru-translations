@@ -1,0 +1,18 @@
+[
+ {
+  "original": "The Curator's Companion-Animated Armoury",
+  "string": "Помощник куратора - Animated Armoury",
+  "form_id": "00000803|LOTD_TCC_Animated Armoury.esp",
+  "type": "QUST FULL",
+  "index": null,
+  "editor_id": "TCC_AnimatedArmory"
+ },
+ {
+  "original": "<font color='#<Alias=ColourAlias>'>The Curators Companion: Mod Complete (Animated Armoury)</font>",
+  "string": "<font color='#<Alias=ColourAlias>'>Компаньон куратора: Мод завершен (Оживленный оружейный зал)</font>",
+  "form_id": "00000801|LOTD_TCC_Animated Armoury.esp",
+  "type": "MESG DESC",
+  "index": null,
+  "editor_id": "_CompleteNotification_AnimatedArmory"
+ }
+]

@@ -1,0 +1,18 @@
+[
+ {
+  "original": "Dawnguard Arsenal Items",
+  "string": "Предметы из Dawnguard Arsenal",
+  "form_id": "00000812|DBM_DGA_Patch.esp",
+  "type": "CONT FULL",
+  "index": null,
+  "editor_id": "DBM_CheatCrateDGA"
+ },
+ {
+  "original": "Dawnguard Arsenal Support Handler",
+  "string": "Поддержка Dawnguard Arsenal (служебный)",
+  "form_id": "00000803|DBM_DGA_Patch.esp",
+  "type": "QUST FULL",
+  "index": null,
+  "editor_id": "DBM_SupportedModDawnguardArsenal"
+ }
+]

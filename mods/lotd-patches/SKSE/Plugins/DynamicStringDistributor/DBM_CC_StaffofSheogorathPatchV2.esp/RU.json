@@ -1,0 +1,106 @@
+[
+ {
+  "original": "The Staff of Sheogorath",
+  "string": "Посох Шеогората",
+  "form_id": "00000804|DBM_CC_StaffofSheogorathPatchV2.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTCCStaffOfSheogorath"
+ },
+ {
+  "original": "The Staff of Sheogorath",
+  "string": "Посох Шеогората",
+  "form_id": "0000080D|DBM_CC_StaffofSheogorathPatchV2.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_exhibitsignCCStaffOfSheogorath"
+ },
+ {
+  "original": "Read Plaque:",
+  "string": "Прочитать табличку:",
+  "form_id": "0000080D|DBM_CC_StaffofSheogorathPatchV2.esp",
+  "type": "ACTI RNAM",
+  "index": null,
+  "editor_id": "DBM_exhibitsignCCStaffOfSheogorath"
+ },
+ {
+  "original": "Fork of Horripilation",
+  "string": "Вилка Щекотки",
+  "form_id": "00000818|DBM_CC_StaffofSheogorathPatchV2.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTCCForkOfHorripilation"
+ },
+ {
+  "original": "Fork of Horripilation",
+  "string": "Вилка Щекотки",
+  "form_id": "0000081B|DBM_CC_StaffofSheogorathPatchV2.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_exhibitsignCCForkOfHorripilation"
+ },
+ {
+  "original": "Read Plaque:",
+  "string": "Прочитать табличку:",
+  "form_id": "0000081B|DBM_CC_StaffofSheogorathPatchV2.esp",
+  "type": "ACTI RNAM",
+  "index": null,
+  "editor_id": "DBM_exhibitsignCCForkOfHorripilation"
+ },
+ {
+  "original": "Staff of Sheogorath (replica)",
+  "string": "Посох Шеогората (копия)",
+  "form_id": "00000803|DBM_CC_StaffofSheogorathPatchV2.esp",
+  "type": "WEAP FULL",
+  "index": null,
+  "editor_id": "ccBGSSSE019_StaffOfSheogorathREPLICA"
+ },
+ {
+  "original": "Fork of Horripilation (replica)",
+  "string": "Вилка Щекотки (копия)",
+  "form_id": "0000081E|DBM_CC_StaffofSheogorathPatchV2.esp",
+  "type": "WEAP FULL",
+  "index": null,
+  "editor_id": "ccBGSSSE019_ForkofHorripilationREPLICA"
+ },
+ {
+  "original": "Staff of Sheogorath Handler",
+  "string": "Посох Шеогората (служебный)",
+  "form_id": "0000080A|DBM_CC_StaffofSheogorathPatchV2.esp",
+  "type": "QUST FULL",
+  "index": null,
+  "editor_id": "DBM_CC_StaffOfSheogorathHandler"
+ },
+ {
+  "original": "This staff is purportedly the personal artifact of the Daedric Prince of Madness himself, Sheogorath. It is said that The staff has the power to stop enemies in their tracks.",
+  "string": "Считается, что этот посох - личный артефакт самого даэдрического принца безумия Шеогората. Говорят, посох способен останавливать врагов на месте.",
+  "form_id": "0000080E|DBM_CC_StaffofSheogorathPatchV2.esp",
+  "type": "MESG DESC",
+  "index": null,
+  "editor_id": "DBM_CCStaffOfSheogorathMSG"
+ },
+ {
+  "original": "The Staff of Sheogorath",
+  "string": "Посох Шеогората",
+  "form_id": "0000080E|DBM_CC_StaffofSheogorathPatchV2.esp",
+  "type": "MESG FULL",
+  "index": null,
+  "editor_id": "DBM_CCStaffOfSheogorathMSG"
+ },
+ {
+  "original": "The Fork of Horripilation is a cursed artifact created by the Daedric Prince Sheogorath, who refers to it affectionately as Forky. In appearance and in function, it is a mundane iron fork. However, it is imbued with an enchantment which excites and synergizes magicka around it, and can produce dramatic results when held by certain people. The Fork smells lightly of roast beef. It is unknown what relation the fork has to horripilation.",
+  "string": "Вилка Ужаса - проклятый артефакт, созданный даэдрическим принцем Шеогоратом, который ласково называет ее Вилкой. И с виду, и по назначению это самая обычная железная вилка. Однако на нее наложено зачарование, возбуждающее и сплетающее магию вокруг нее, и в руках некоторых людей она способна творить поразительные вещи. От Вилки слегка пахнет жареной говядиной. Какое отношение вилка имеет к ужасу, неизвестно.",
+  "form_id": "0000081A|DBM_CC_StaffofSheogorathPatchV2.esp",
+  "type": "MESG DESC",
+  "index": null,
+  "editor_id": "DBM_CCForkOfHorripilationMSG"
+ },
+ {
+  "original": "Fork of Horripilation",
+  "string": "Вилка Щекотки",
+  "form_id": "0000081A|DBM_CC_StaffofSheogorathPatchV2.esp",
+  "type": "MESG FULL",
+  "index": null,
+  "editor_id": "DBM_CCForkOfHorripilationMSG"
+ }
+]

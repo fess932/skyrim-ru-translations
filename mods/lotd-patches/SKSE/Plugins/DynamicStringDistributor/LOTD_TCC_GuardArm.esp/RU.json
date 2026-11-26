@@ -1,0 +1,18 @@
+[
+ {
+  "original": "The Curators Companion - Guard Armor Replacer",
+  "string": "Помощник куратора - Замена брони стражи",
+  "form_id": "00000803|LOTD_TCC_GuardArm.esp",
+  "type": "QUST FULL",
+  "index": null,
+  "editor_id": "TCC_SM_GuardArm"
+ },
+ {
+  "original": "<font color='#<Alias=ColourAlias>'>The Curators Companion: Mod Complete (Guards Armor Replacer)</font>",
+  "string": "<font color='#<Alias=ColourAlias>'>Компаньон куратора: Мод завершен (Новая броня стражников)</font>",
+  "form_id": "00000804|LOTD_TCC_GuardArm.esp",
+  "type": "MESG DESC",
+  "index": null,
+  "editor_id": "_CompleteNotification_GuardArm"
+ }
+]

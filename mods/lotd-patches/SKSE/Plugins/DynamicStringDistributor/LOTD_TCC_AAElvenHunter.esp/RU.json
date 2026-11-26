@@ -1,0 +1,18 @@
+[
+ {
+  "original": "The Curators Companion - Alternate Armors - Elven Hunter",
+  "string": "Помощник куратора - Альтернативная броня - Эльфийский охотник",
+  "form_id": "00000800|LOTD_TCC_AAElvenHunter.esp",
+  "type": "QUST FULL",
+  "index": null,
+  "editor_id": "TCC_SM_AAElvenHunter"
+ },
+ {
+  "original": "<font color='#<Alias=ColourAlias>'>The Curators Companion: Mod Complete (Elven Hunter)</font>",
+  "string": "<font color='#<Alias=ColourAlias>'>Компаньон куратора: Мод завершен (Эльфийский охотник)</font>",
+  "form_id": "00000803|LOTD_TCC_AAElvenHunter.esp",
+  "type": "MESG DESC",
+  "index": null,
+  "editor_id": "_CompleteNotification_AAElvenHunter"
+ }
+]

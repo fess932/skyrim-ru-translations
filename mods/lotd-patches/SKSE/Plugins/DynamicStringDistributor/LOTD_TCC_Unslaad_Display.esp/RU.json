@@ -1,0 +1,18 @@
+[
+ {
+  "original": "Unslaad Custom TCC Patch Handler",
+  "string": "Особый патч Помощника куратора для Унслада (служебный)",
+  "form_id": "00000800|LOTD_TCC_Unslaad_Display.esp",
+  "type": "QUST FULL",
+  "index": null,
+  "editor_id": "TCC_CustomPatch_Unslaad"
+ },
+ {
+  "original": "<font color='#<Alias=ColourAlias>'>The Curators Companion: Mod Complete (Unslaad)</font>",
+  "string": "<font color='#<Alias=ColourAlias>'>Компаньон куратора: мод завершен (Унслад)</font>",
+  "form_id": "00000806|LOTD_TCC_Unslaad_Display.esp",
+  "type": "MESG DESC",
+  "index": null,
+  "editor_id": "_CompleteNotification_Unslaad"
+ }
+]

@@ -1,0 +1,258 @@
+[
+ {
+  "original": "Reforged Cuirass of the Crusader",
+  "string": "Перекованная кираса крестоносца",
+  "form_id": "00000836|DBM_CC_DivineCrusaderHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTKotNLightCuirass"
+ },
+ {
+  "original": "Reforged Gauntlets of the Crusader",
+  "string": "Перекованные перчатки крестоносца",
+  "form_id": "00000837|DBM_CC_DivineCrusaderHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTKotNLightGauntlets"
+ },
+ {
+  "original": "Reforged Boots of the Crusader",
+  "string": "Перекованные сапоги крестоносца",
+  "form_id": "00000838|DBM_CC_DivineCrusaderHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTKotNLightBoots"
+ },
+ {
+  "original": "Reforged Helm of the Crusader",
+  "string": "Перекованный шлем крестоносца",
+  "form_id": "00000835|DBM_CC_DivineCrusaderHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTKotNLightHelm"
+ },
+ {
+  "original": "Cuirass of the Crusader",
+  "string": "Кираса крестоносца",
+  "form_id": "00000800|ccmtysse001-knightsofthenine.esl",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "ccMTYSSE001_ArmorKOTNCuirass"
+ },
+ {
+  "original": "Gauntlets of the Crusader",
+  "string": "Перчатки крестоносца",
+  "form_id": "00000802|ccmtysse001-knightsofthenine.esl",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "ccMTYSSE001_ArmorKOTNGauntlets"
+ },
+ {
+  "original": "Boots of the Crusader",
+  "string": "Сапоги крестоносца",
+  "form_id": "00000804|ccmtysse001-knightsofthenine.esl",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "ccMTYSSE001_ArmorKOTNBoots"
+ },
+ {
+  "original": "Helm of the Crusader",
+  "string": "Шлем крестоносца",
+  "form_id": "00000806|ccmtysse001-knightsofthenine.esl",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "ccMTYSSE001_ArmorKOTNHelmet"
+ },
+ {
+  "original": "Shield of the Crusader",
+  "string": "Щит крестоносца",
+  "form_id": "00000808|ccmtysse001-knightsofthenine.esl",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "ccMTYSSE001_ArmorKOTNShield"
+ },
+ {
+  "original": "Fastened Shield of the Crusader",
+  "string": "Закаленный щит крестоносца",
+  "form_id": "00000809|ccmtysse001-knightsofthenine.esl",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "ccMTYSSE001_ArmorKOTNShieldBack"
+ },
+ {
+  "original": "Reforged Cuirass of the Crusader (replica)",
+  "string": "Перекованная кираса крестоносца (копия)",
+  "form_id": "00000800|DBM_CC_DivineCrusaderHOWPatch.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "DBM_CC_KotNLightCuirassREPLICA"
+ },
+ {
+  "original": "Reforged Boots of the Crusader (replica)",
+  "string": "Перекованные сапоги крестоносца (копия)",
+  "form_id": "00000801|DBM_CC_DivineCrusaderHOWPatch.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "DBM_CC_KotNLightBootsREPLICA"
+ },
+ {
+  "original": "Reforged Gauntlets of the Crusader (replica)",
+  "string": "Перекованные перчатки крестоносца (копия)",
+  "form_id": "00000802|DBM_CC_DivineCrusaderHOWPatch.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "DBM_CC_KotNLightGlovesREPLICA"
+ },
+ {
+  "original": "Reforged Helm of the Crusader (replica)",
+  "string": "Перекованный шлем крестоносца (копия)",
+  "form_id": "00000803|DBM_CC_DivineCrusaderHOWPatch.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "DBM_CC_KotNLightHelmREPLICA"
+ },
+ {
+  "original": "Reforged Shield of the Crusader (replica)",
+  "string": "Перекованный щит крестоносца (копия)",
+  "form_id": "00000804|DBM_CC_DivineCrusaderHOWPatch.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "DBM_CC_KotNLightShieldREPLICA"
+ },
+ {
+  "original": "Reforged Shield of the Crusader",
+  "string": "Перекованный щит крестоносца",
+  "form_id": "00000805|DBM_CC_DivineCrusaderHOWPatch.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "ccMTYSSE001_ArmorKOTNShieldReforged"
+ },
+ {
+  "original": "Fastened Reforged Shield of the Crusader",
+  "string": "Закрепленный перекованный щит крестоносца",
+  "form_id": "0000080D|DBM_CC_DivineCrusaderHOWPatch.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "ccMTYSSE001_ArmorKOTNShieldBackReforged"
+ },
+ {
+  "original": "Fastened Reforged Shield of the Crusader (replica)",
+  "string": "Закрепленный перекованный щит крестоносца (копия)",
+  "form_id": "0000080E|DBM_CC_DivineCrusaderHOWPatch.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "DBM_CC_KotNLightShieldBackREPLICA"
+ },
+ {
+  "original": "Fastened Shield of the Crusader (replica)",
+  "string": "Закаленный щит крестоносца (копия)",
+  "form_id": "0000080F|DBM_CC_DivineCrusaderHOWPatch.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "DBM_CC_KotNHeavyShieldBackREPLICA"
+ },
+ {
+  "original": "Eigorn's Journal",
+  "string": "Дневник Эйгорна",
+  "form_id": "00000811|DBM_CC_DivineCrusaderHOWPatch.esp",
+  "type": "BOOK FULL",
+  "index": null,
+  "editor_id": "DBM_CC_KOTNJournal"
+ },
+ {
+  "original": "<font face='$HandwrittenFont'>\r\n8th Mid Year\r\nAfter months of searching, we finally got a lead on the location for one of the other chests. Worryingly, it came from the mouth of a Thalmor soldier, if they get their hands on the Relics it could be disastrous. Hiding the Relics was a poor decision, it was only a matter of time before the Thalmor got wind of their locations.\r\n\r\n17th Mid Year\r\nWe travelled out to check the chest was secure and got there just in time to prevent a Thalmor squad from recovering it. I pray they have not discovered a means to open the chests, or all may already be lost.\r\n\r\n24th of Mid Year\r\nWe returned to our temporary base in the Reach to find it overrun with bandits, we dealt with a few of them and the rest fled into the hills.\r\n\r\n26th of Mid Year\r\nOren left to go find us some supplies a few days ago and never returned, I pray a Thalmor patrol didn't get him.\r\n\r\n28th of Mid Year\r\nA bandit approached the base in peace at dawn and informed me that Oren had been taken prisoner by the group of bandits we drove off last week. Their new leader plans to search for the Relics to sell them to the Thalmor, having learned of their power from torturing Oren. \r\nThe informant, Viparth, said that they and a couple of the others had been talking with Oren and have decided to give up their banditry and join our cause, offering to help me liberate Oren as a way of proving honor. I cannot say the prospect of new recruits doesn't intrigue me, but are former bandits truly capable of turning themselves around enough to be worthy of joining our cause?\r\n\r\n29th of Mid Year\r\nTogether with the new recruits, Oren was liberated and the bandit group neutralized. The leader had a note of orders from the Thalmor, they were to take Lannius to Fort Sungard in a week's time. Tomorrow, I will begin training the recruits that we might make a move of our own against the Thalmor and rescue Oren.\r\n\r\n5th of Sun's Height\r\nOur operation at Fort Sungard went badly, the Thalmor had found another chest and knew that they needed someone of our Order's knowledge to open it for them, which is why they wanted Oren delivered alive. We had infiltrated the fort but just as we were about to make our move the fort was overrun by Forsworn. It was chaos, utter chaos. We stuck to our mission and took out the Thalmor as we could, but in the chaos caused by the Forsworn, a few managed to escape, and they saw our faces. We lost many of our new recruits, there are only a handful of us left alive.\r\n\r\n12th of Sun's Height\r\nI went to go get some supplies from Markarth today, but was chased off by the guards. The Thalmor must have gotten our descriptions out, this concerns me, it could potentially lead to us being cut off from resources, I pray this does not come to fruition.\r\n\r\n17th of Sun's Height\r\nIt isn't just Markarth, it is everywhere. Things are getting desperate here, tensions are running high. We need to get some more supplies soon or things will start falling apart.\r\n\r\n23rd of Sun's Height\r\nSupplies ran out last night, I sent out our recruits to acquire us some more, in the hope that they might be able to go uncontested by guards.\r\n\r\n24th of Sun's Height\r\nThey returned with some food, but refused to say where they had gotten it. I fear they may have returned to their old ways. Have the Divines turned their backs on us, are we to die and allow the Thalmor to retrieve their Relics?\r\n\r\n2nd of Last Seed\r\nWe took out a Thalmor patrol down on the road past Karthwasten, they had orders to look for us. We need to make preparations for an assault in the event that another patrol succeeds in their efforts.\r\n\r\n17th of Last Seed\r\nOren spotted a torch light up on the ridge, looks like someone might have found us. Society has shunned us, supplies are scarce, this is where we make our stand.",
+  "string": "<font face='$HandwrittenFont'>\r\n8-е Середины года\r\nПосле долгих месяцев поисков мы наконец напали на след одного из других сундуков. Тревожно то, что сведения эти мы получили из уст талморского солдата. Если Реликвии попадут в руки Талмора, последствия могут быть ужасны. Прятать Реликвии было неразумно: рано или поздно Талмор должен был прознать, где они.\r\n\r\n17-е Середины года\r\nМы отправились проверить, цел ли сундук, и подоспели как раз вовремя, чтобы не дать талморскому отряду его забрать. Молю богов, чтобы они не нашли способа открыть сундуки, иначе все, возможно, уже потеряно.\r\n\r\n24-е Середины года\r\nВернувшись на нашу временную базу в Пределе, мы обнаружили, что ее захватили бандиты. С несколькими из них мы расправились, остальные бежали в холмы.\r\n\r\n26-е Середины года\r\nНесколько дней назад Орен отправился за припасами и так и не вернулся. Молю богов, чтобы его не схватил талморский патруль.\r\n\r\n28-е Середины года\r\nНа рассвете к базе с миром подошел бандит и сообщил, что Орена взяли в плен те самые бандиты, которых мы прогнали на прошлой неделе. Их новый главарь, узнав под пытками от Орена о силе Реликвий, собирается разыскать их и продать Талмору. \r\nОсведомитель, Випарт, сказал, что он и еще пара человек поговорили с Ореном и решили покончить с разбоем и примкнуть к нашему делу. Он предложил помочь освободить Орена, чтобы доказать свою честность. Не скажу, что мысль о новых рекрутах меня не прельщает, но способны ли бывшие бандиты в самом деле измениться настолько, чтобы стать достойными нашего дела?\r\n\r\n29-е Середины года\r\nВместе с новыми рекрутами мы освободили Орена и расправились с бандитами. При главаре нашлась записка с приказами от Талмора: через неделю они должны были доставить Ланниуса в Форт Сангард. Завтра я начну обучать рекрутов, чтобы мы сами могли выступить против Талмора и спасти Орена.\r\n\r\n5-е Высокого солнца\r\nНаша вылазка в Форт Сангард обернулась неудачей. Талмор нашел еще один сундук и понимал, что открыть его может лишь тот, кто владеет знаниями нашего Ордена, - вот почему им был нужен живой Орен. Мы проникли в форт, но едва собрались нанести удар, как на него напали Изгои. Начался хаос, полнейший хаос. Мы не отступили от задачи и перебили столько талморцев, сколько смогли, но в суматохе, учиненной Изгоями, некоторым удалось бежать, и они видели наши лица. Мы потеряли многих новобранцев, в живых осталась лишь горстка.\r\n\r\n12-е Высокого солнца\r\nСегодня я отправился в Маркарт за припасами, но стража меня прогнала. Должно быть, Талмор разослал наши приметы. Это меня тревожит: так нас могут отрезать от всех припасов. Молю богов, чтобы этого не случилось.\r\n\r\n17-е Высокого солнца\r\nДело не только в Маркарте - так повсюду. Положение становится отчаянным, все на взводе. Если вскоре не добудем припасов, все начнет разваливаться.\r\n\r\n23-е Высокого солнца\r\nВчера ночью припасы закончились. Я отправил рекрутов раздобыть еще, в надежде, что стража их не тронет.\r\n\r\n24-е Высокого солнца\r\nОни вернулись с едой, но так и не сказали, где ее взяли. Боюсь, они взялись за старое. Неужели Девять отвернулись от нас? Неужели нам суждено погибнуть и позволить Талмору заполучить Реликвии?\r\n\r\n2-е Последнего зерна\r\nНа дороге за Картвастеном мы уничтожили талморский патруль. У них был приказ разыскать нас. Нужно готовиться к обороне на случай, если другой патруль добьется своего.\r\n\r\n17-е Последнего зерна\r\nОрен заметил на гребне холма свет факела - похоже, нас нашли. Общество от нас отвернулось, припасов почти нет. Здесь мы примем свой последний бой.",
+  "form_id": "00000811|DBM_CC_DivineCrusaderHOWPatch.esp",
+  "type": "BOOK DESC",
+  "index": null,
+  "editor_id": "DBM_CC_KOTNJournal"
+ },
+ {
+  "original": "Sword of the Crusader",
+  "string": "Меч крестоносца",
+  "form_id": "0000080C|ccmtysse001-knightsofthenine.esl",
+  "type": "WEAP FULL",
+  "index": null,
+  "editor_id": "ccMTYSSE001_KOTNSword"
+ },
+ {
+  "original": "Mace of the Crusader",
+  "string": "Булава крестоносца",
+  "form_id": "0000080D|ccmtysse001-knightsofthenine.esl",
+  "type": "WEAP FULL",
+  "index": null,
+  "editor_id": "ccMTYSSE001_KOTNMace"
+ },
+ {
+  "original": "Eigorn",
+  "string": "Эйгорн",
+  "form_id": "00000825|ccmtysse001-knightsofthenine.esl",
+  "type": "NPC_ FULL",
+  "index": null,
+  "editor_id": "ccMTYSSE001_LvlBanditBoss02"
+ },
+ {
+  "original": "Oren",
+  "string": "Орен",
+  "form_id": "00000826|ccmtysse001-knightsofthenine.esl",
+  "type": "NPC_ FULL",
+  "index": null,
+  "editor_id": "ccMTYSSE001_LvlBanditBoss01"
+ },
+ {
+  "original": "Viparth",
+  "string": "Випарт",
+  "form_id": "00000843|ccmtysse001-knightsofthenine.esl",
+  "type": "NPC_ FULL",
+  "index": null,
+  "editor_id": "ccMTYSSE001_LvlBanditBoss03"
+ },
+ {
+  "original": "Relics of the Crusader",
+  "string": "Реликвии крестоносца",
+  "form_id": "0000083C|ccmtysse001-knightsofthenine.esl",
+  "type": "QUST FULL",
+  "index": null,
+  "editor_id": "ccMTYSSE001_StartupQuest_Alt"
+ },
+ {
+  "original": "I have heard rumors of some very well armed knights who have been killed at Four Skull Lookout. I should investigate to see what happened.",
+  "string": "До меня дошли слухи о хорошо вооруженных рыцарях, убитых у наблюдательного поста Четыре Черепа. Нужно выяснить, что там произошло.",
+  "form_id": "0000083C|ccmtysse001-knightsofthenine.esl",
+  "type": "QUST CNAM",
+  "index": 0,
+  "editor_id": "ccMTYSSE001_StartupQuest_Alt"
+ },
+ {
+  "original": "After investigating the knights, I discovered that they were members of the Order of the Nine that were likely killed by some Thalmor searching for the Relics of the Crusader. The journal I found notes that the Relics are locked away in chests around Skyrim that can only be opened in a special way, I should look out for them on my travels.",
+  "string": "Осмотр рыцарей показал, что они были членами Ордена Девяти и, скорее всего, их убили талморцы, искавшие Реликвии крестоносца. Согласно найденному дневнику, реликвии заперты в сундуках по всему Скайриму, и открыть их можно лишь особым способом. Надо поглядывать по сторонам в своих странствиях.",
+  "form_id": "0000083C|ccmtysse001-knightsofthenine.esl",
+  "type": "QUST CNAM",
+  "index": 100,
+  "editor_id": "ccMTYSSE001_StartupQuest_Alt"
+ },
+ {
+  "original": "Investigate the first knight.",
+  "string": "Осмотреть первого рыцаря.",
+  "form_id": "0000083C|ccmtysse001-knightsofthenine.esl",
+  "type": "QUST NNAM",
+  "index": 0,
+  "editor_id": "ccMTYSSE001_StartupQuest_Alt"
+ },
+ {
+  "original": "Investigate the second knight.",
+  "string": "Осмотреть второго рыцаря.",
+  "form_id": "0000083C|ccmtysse001-knightsofthenine.esl",
+  "type": "QUST NNAM",
+  "index": 10,
+  "editor_id": "ccMTYSSE001_StartupQuest_Alt"
+ },
+ {
+  "original": "Divine Crusader Handler",
+  "string": "Божественный крестоносец (служебный)",
+  "form_id": "0000083C|DBM_CC_DivineCrusaderHOWPatch.esp",
+  "type": "QUST FULL",
+  "index": null,
+  "editor_id": "DBM_CC_KotNHandler"
+ }
+]

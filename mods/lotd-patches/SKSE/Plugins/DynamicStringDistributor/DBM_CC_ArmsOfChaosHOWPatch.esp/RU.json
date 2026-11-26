@@ -1,0 +1,130 @@
+[
+ {
+  "original": "Arm of the Moon",
+  "string": "Рука Луны",
+  "form_id": "00000800|DBM_CC_ArmsOfChaosHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTArmOfTheMoon"
+ },
+ {
+  "original": "Arm of the Sun",
+  "string": "Рука Солнца",
+  "form_id": "00000808|DBM_CC_ArmsOfChaosHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTArmOfTheSun"
+ },
+ {
+  "original": "Warlock's Mark",
+  "string": "Метка чародея",
+  "form_id": "00000809|DBM_CC_ArmsOfChaosHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTWarlocksMark"
+ },
+ {
+  "original": "Sovereign Band",
+  "string": "Кольцо Повелителя",
+  "form_id": "0000080A|DBM_CC_ArmsOfChaosHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTSovereignBand"
+ },
+ {
+  "original": "Blue Sigil Stone (replica)",
+  "string": "Голубой Сигильский камень (копия)",
+  "form_id": "00000923|DBM_CC_ArmsOfChaosHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTSigilStoneBlue"
+ },
+ {
+  "original": "Green Sigil Stone (replica)",
+  "string": "Зеленый Сигильский камень (копия)",
+  "form_id": "00000924|DBM_CC_ArmsOfChaosHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTSigilStoneGreen"
+ },
+ {
+  "original": "Orange Sigil Stone (replica)",
+  "string": "Оранжевый Сигильский камень (копия)",
+  "form_id": "00000925|DBM_CC_ArmsOfChaosHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTSigilStoneOrange"
+ },
+ {
+  "original": "Warlock's Mark (replica)",
+  "string": "Метка чародея (копия)",
+  "form_id": "0000093B|DBM_CC_ArmsOfChaosHOWPatch.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "DBM_CC_WarlocksMarkREPLICA"
+ },
+ {
+  "original": "Sovereign Band (replica)",
+  "string": "Кольцо Повелителя (копия)",
+  "form_id": "0000093C|DBM_CC_ArmsOfChaosHOWPatch.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "DBM_CC_SovereignBandREPLICA"
+ },
+ {
+  "original": "Blue Sigil Stone (replica)",
+  "string": "Голубой Сигильский камень (копия)",
+  "form_id": "00000926|DBM_CC_ArmsOfChaosHOWPatch.esp",
+  "type": "MISC FULL",
+  "index": null,
+  "editor_id": "DBM_CC_SigilStoneBlueREPLICA"
+ },
+ {
+  "original": "Green Sigil Stone (replica)",
+  "string": "Зеленый Сигильский камень (копия)",
+  "form_id": "00000927|DBM_CC_ArmsOfChaosHOWPatch.esp",
+  "type": "MISC FULL",
+  "index": null,
+  "editor_id": "DBM_CC_SigilStoneGreenREPLICA"
+ },
+ {
+  "original": "Orange Sigil Stone (replica)",
+  "string": "Оранжевый Сигильский камень (копия)",
+  "form_id": "00000928|DBM_CC_ArmsOfChaosHOWPatch.esp",
+  "type": "MISC FULL",
+  "index": null,
+  "editor_id": "DBM_CC_SigilStoneOrangeREPLICA"
+ },
+ {
+  "original": "Arm of the Moon (replica)",
+  "string": "Рука Луны (копия)",
+  "form_id": "00000939|DBM_CC_ArmsOfChaosHOWPatch.esp",
+  "type": "WEAP FULL",
+  "index": null,
+  "editor_id": "DBM_CC_Staff01REPLICA"
+ },
+ {
+  "original": "Arm of the Sun (replica)",
+  "string": "Рука Солнца (копия)",
+  "form_id": "0000093A|DBM_CC_ArmsOfChaosHOWPatch.esp",
+  "type": "WEAP FULL",
+  "index": null,
+  "editor_id": "DBM_CC_Staff02REPLICA"
+ },
+ {
+  "original": "Hall of Wonders",
+  "string": "Зал чудес",
+  "form_id": "000104C9|DBM_CC_HallOfWonders.esp",
+  "type": "CELL FULL",
+  "index": null,
+  "editor_id": "DBMDGHallofWondersCC"
+ },
+ {
+  "original": "Arms of Chaos Handler",
+  "string": "Руки Хаоса (служебный)",
+  "form_id": "00000806|DBM_CC_ArmsOfChaosHOWPatch.esp",
+  "type": "QUST FULL",
+  "index": null,
+  "editor_id": "DBM_CC_ArmsOfChaosHandler"
+ }
+]

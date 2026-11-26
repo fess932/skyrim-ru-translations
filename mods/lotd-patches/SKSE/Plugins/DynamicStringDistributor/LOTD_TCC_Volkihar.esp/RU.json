@@ -1,0 +1,18 @@
+[
+ {
+  "original": "The Curators Companion - Volkihar Knight",
+  "string": "Помощник куратора - Рыцарь Волкихара",
+  "form_id": "00000805|LOTD_TCC_Volkihar.esp",
+  "type": "QUST FULL",
+  "index": null,
+  "editor_id": "TCC_SM_Volkihar"
+ },
+ {
+  "original": "<font color='#<Alias=ColourAlias>'>The Curators Companion: Mod Complete (Volkihar Knight)</font>",
+  "string": "<font color='#<Alias=ColourAlias>'>Компаньон куратора: мод завершен (Рыцарь Волкихара)</font>",
+  "form_id": "00000804|LOTD_TCC_Volkihar.esp",
+  "type": "MESG DESC",
+  "index": null,
+  "editor_id": "_CompleteNotification_Volkihar"
+ }
+]

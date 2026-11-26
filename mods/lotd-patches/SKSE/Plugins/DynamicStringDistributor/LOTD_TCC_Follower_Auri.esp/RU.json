@@ -1,0 +1,18 @@
+[
+ {
+  "original": "The Curators Companion - Auri",
+  "string": "Помощник куратора - Аури",
+  "form_id": "00000800|LOTD_TCC_Follower_Auri.esp",
+  "type": "QUST FULL",
+  "index": null,
+  "editor_id": "TCC_SM_Follower_Auri"
+ },
+ {
+  "original": "<font color='#<Alias=ColourAlias>'>The Curators Companion: Mod Complete (Auri)</font>",
+  "string": "<font color='#<Alias=ColourAlias>'>Компаньон куратора: Мод завершен (Аури)</font>",
+  "form_id": "00000802|LOTD_TCC_Follower_Auri.esp",
+  "type": "MESG DESC",
+  "index": null,
+  "editor_id": "_CompleteNotification_Follower_Auri"
+ }
+]

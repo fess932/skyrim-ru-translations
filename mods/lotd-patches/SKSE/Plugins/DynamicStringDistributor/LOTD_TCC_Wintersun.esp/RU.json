@@ -1,0 +1,26 @@
+[
+ {
+  "original": "The Curators Companion - Wintersun",
+  "string": "Помощник куратора - Wintersun",
+  "form_id": "00000800|LOTD_TCC_Wintersun.esp",
+  "type": "QUST FULL",
+  "index": null,
+  "editor_id": "TCC_SM_Wintersun"
+ },
+ {
+  "original": "<font color='#<Alias=ColourAlias>'>The Curators Companion: Mod Complete (Wintersun)</font>",
+  "string": "<font color='#<Alias=ColourAlias>'>Компаньон куратора: мод завершен (Wintersun)</font>",
+  "form_id": "00000804|LOTD_TCC_Wintersun.esp",
+  "type": "MESG DESC",
+  "index": null,
+  "editor_id": "_CompleteNotification_Wintersun"
+ },
+ {
+  "original": "Okay",
+  "string": "ОК",
+  "form_id": "00000804|LOTD_TCC_Wintersun.esp",
+  "type": "MESG ITXT",
+  "index": 0,
+  "editor_id": "_CompleteNotification_Wintersun"
+ }
+]

@@ -1,0 +1,274 @@
+[
+ {
+  "original": "Root Tunnel Display",
+  "string": "Экспозиция \"Корневой туннель\"",
+  "form_id": "00000967|DBM_CC_SaintsSeducersHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DummyACTSaSQuest"
+ },
+ {
+  "original": "Heart of Disorder (replica)",
+  "string": "Сердце Беспорядка (копия)",
+  "form_id": "00000819|DBM_CC_SaS_ECSSAddon.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTHeartOfDisorder"
+ },
+ {
+  "original": "Amber Pickaxe",
+  "string": "Янтарная кирка",
+  "form_id": "0000081C|DBM_CC_SaS_ECSSAddon.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTAmberPickaxe"
+ },
+ {
+  "original": "Madness Pickaxe",
+  "string": "Безумная кирка",
+  "form_id": "0000081D|DBM_CC_SaS_ECSSAddon.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTMadnessPickaxe"
+ },
+ {
+  "original": "Grummite Bow",
+  "string": "Лук граммита",
+  "form_id": "0000081E|DBM_CC_SaS_ECSSAddon.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTGrummiteBow"
+ },
+ {
+  "original": "Grummite Cleaver",
+  "string": "Секач граммита",
+  "form_id": "0000081F|DBM_CC_SaS_ECSSAddon.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTGrummiteCleaver"
+ },
+ {
+  "original": "Grummite Cudgel",
+  "string": "Дубина граммита",
+  "form_id": "00000820|DBM_CC_SaS_ECSSAddon.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTGrummiteCudgel"
+ },
+ {
+  "original": "Grummite Dagger",
+  "string": "Кинжал граммита",
+  "form_id": "00000821|DBM_CC_SaS_ECSSAddon.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTGrummiteDagger"
+ },
+ {
+  "original": "Grummite Greatcleaver",
+  "string": "Двуручный секач граммита",
+  "form_id": "00000822|DBM_CC_SaS_ECSSAddon.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTGrummiteGreatcleaver"
+ },
+ {
+  "original": "Grummite Greatcudgel",
+  "string": "Двуручная дубина граммита",
+  "form_id": "00000823|DBM_CC_SaS_ECSSAddon.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTGrummiteGreatcudgel"
+ },
+ {
+  "original": "Grummite Heavy Shield",
+  "string": "Тяжелый щит граммита",
+  "form_id": "00000824|DBM_CC_SaS_ECSSAddon.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTGrummiteHeavyShield"
+ },
+ {
+  "original": "Grummite Light Shield",
+  "string": "Легкий щит граммита",
+  "form_id": "00000825|DBM_CC_SaS_ECSSAddon.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTGrummiteLightShield"
+ },
+ {
+  "original": "Mad Ruins Display",
+  "string": "Экспозиция \"Безумные руины\"",
+  "form_id": "00000826|DBM_CC_SaS_ECSSAddon.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DummyACTMadRuins"
+ },
+ {
+  "original": "The Roots of Madness Display",
+  "string": "Экспозиция \"Корни безумия\"",
+  "form_id": "00000827|DBM_CC_SaS_ECSSAddon.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DummyACTECSSQuest"
+ },
+ {
+  "original": "Mad Ruins",
+  "string": "Безумные руины",
+  "form_id": "0000087F|DBM_CC_SaS_ECSSAddon.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_ECSSActiMadRuins"
+ },
+ {
+  "original": "Root Diorama",
+  "string": "Диорама корней",
+  "form_id": "00000880|DBM_CC_SaS_ECSSAddon.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_ECSSActiRootDiorama"
+ },
+ {
+  "original": "Thoron's Helmet",
+  "string": "Шлем Торона",
+  "form_id": "0016075E|ccBGSSSE025-AdvDSGS.esm",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "EC_SS_ArmorThoronHelmet"
+ },
+ {
+  "original": "Staada's Helmet",
+  "string": "Шлем Стаады",
+  "form_id": "0019D389|ccBGSSSE025-AdvDSGS.esm",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "EC_SS_ArmorStaadaHelmet"
+ },
+ {
+  "original": "Saints and Seducers",
+  "string": "Святые и соблазнители",
+  "form_id": "00000AEE|ccBGSSSE025-AdvDSGS.esm",
+  "type": "BOOK FULL",
+  "index": null,
+  "editor_id": "ccBGSSSE025_SaintsandSeducers_Book03"
+ },
+ {
+  "original": "[pagebreak]\r\n<p align=\"center\">\r\n\r\n\r\nSaints and Seducers\r\n\r\n\r\nby \r\nAndoche Marie\r\n</p>\r\n\r\n\r\n\r\n[pagebreak]\r\n[pagebreak]\r\n<p align=\"center\">\r\n\r\n\r\nAuthor's Note</p><p align=\"left\">\r\nThis volume attempts to catalogue and analyze known, suspected, and rumored facts about the two races that serve to maintain order within the Shivering Isles. It is by no means intended to serve as the authoritative work on the matter; rather, it is a personal effort on the part of the author to better understand these unique creatures.</p>\r\n[pagebreak]\r\n<p align=\"center\">\r\nIn the Service of the Lord</p><p align=\"left\">\r\n<img src='img://Textures/Interface/Books/Illuminated_Letters/I_letter.png'>t is beyond the scope of this work to determine the origins of the Golden Saints and Dark Seducers. They are Daedra, and as such their base existence is a mystery to those mortal-born. The commonly held belief that all Daedra are incapable of Creation suggests that even Lord Sheogorath himself is not responsible for the genesis of these races. Yet, it is worth noting that the Prince of Madness has motives and powers that none may guess; to attempt to do so would only confuse the subject further.\r\n\r\nIt is enough, then, to see that they exist and know that it is so. Beyond this knowledge, however, it is curious that the Saints and Seducers serve Lord Sheogorath unerringly. This allegiance is ultimate and eternal, from all indications, but its source is unknown. Could it be that they themselves were tricked into service by the Madgod? Or do they simply ally themselves with the greatest power in the realm? Previous literary works suggest that Daedra choose to serve their masters so they might find protection and safe harbor. Clearly the Saints and Seducers have this in the Shivering Isles; indeed, they have fortresses which few not of their race are allowed to enter. They have power in the realm, acting as guardians of those who serve Lord Sheogorath. Constantly they vie for the favor of Our Lord, fighting any who oppose him and, at times, even each other. It is reasonable to assume, then, that they have made a willing choice to take up their role in the Isles.\r\n</p>\r\n[pagebreak]\r\n<p align=\"center\">\r\nCharacter and Society</p><p align=\"left\">\r\n<img src='img://Textures/Interface/Books/Illuminated_Letters/T_letter.png'>he immediate image called to mind when hearing the name \"Golden Saint\" suggests an angelic figure, elegant and benevolent. It is ironic then, that while the Golden Saints embody this image in form, their behavior is in stark contrast to it. The Saints are a proud, arrogant race, quick to anger and cruel in their punishment. There is no question that they view all in the Isles as inferior, and make no effort to hide this in their interactions.\r\n\r\nDark Seducers also exhibit little beyond their appearance to match their names. While they too assert their superiority over all others in the realm, they appear to have a more patient, introspective nature about them. They often appear humble in their dealings with mortals, and are known to be patient with the \"lesser races.\"\r\n\r\nIn fact, the terms \"Golden Saint\" and \"Dark Seducer\" are external constructs. While the two groups recognize and respond to these names, they have their own names for their races: The Aureal and the Mazken, respectively. It is possible the Daedra simply have no concern for the names and titles given to them by lesser beings, or perhaps they find amusement in the names. Further research into this subject is necessary but daunting, as the Saints and Seducers do not freely offer personal information about themselves.\r\n\r\nOther information can be gathered from observation. It is easy to see that the two groups are strongly militaristic in their societal structure; one's strength and discipline determines one's place in society. Military commanders, for example, are revered by their subordinates. With further observation, a second distinction becomes apparent: both societies are Matriarchal in nature. Females lead the guards within New Sheoth, and have the highest positions of power. Males, while not openly denigrated, are clearly subservient to their female superiors. It is unclear where this practice began, but has been wholly integrated into the daily lives of both races.\r\n</p>\r\n[pagebreak]\r\n<p align=\"center\">\r\nConflict and Conquest</p><p align=\"left\">\r\n<img src='img://Textures/Interface/Books/Illuminated_Letters/A_letter.png'>ny resident of the Shivering Isles can confirm that it is unwise to provoke the Golden Saints and Dark Seducers. They thrive on conflict and warfare, and are quick to punish any and all who disobey. Acting in their capacity as guardians of the realm does not satisfy them, however, and so they often engage in combat with one another, despite being garrisoned in areas where they are unlikely to interact. It is possible that this is more than an outlet for aggressive behavior; repeated engagements between the two races may be an effort to gain favor with Lord Sheogorath. If one can triumph over the other, it would prove superiority and a right to gain sole control over the realm. The battle for Cylarne is of particular interest, as both sides have been locked in combat with no hope of resolution for time beyond memory. Does this combat serve to sharpen the skills of the two sides, or weaken them when they could be directed elsewhere? If the conflict cannot be resolved, why then does Lord Sheogorath not step in and settle it himself?\r\n</p>\r\n[pagebreak]\r\n<p align=\"center\">\r\nReligion and Ceremony</p><p align=\"left\">\r\n<img src='img://Textures/Interface/Books/Illuminated_Letters/L_letter.png'>ittle is known about the private customs of the Golden Saints and Dark Seducers. They are reclusive when it comes to matters specific to their race, particularly regarding the mysterious process by which they return to the realm in the unlikely event of their death.\r\n\r\nIt is common knowledge that Golden Saints and Dark Seducers, as Daedra, cannot be killed. The Animus of the Daedra is cast back into the darkness of Oblivion, and can return to the realm to take form once more. But reports of the time it takes for a Daedra to return to the realm from the Waters of Oblivion are anecdotal and inconclusive; the process by which this return occurs remains shrouded in mystery. Based on behavior patterns and strength of numbers, it can be deduced that the stronghold for each race plays some major part in this process. Common phrases in language (such as \"May the chimes call you home\") suggest that rather than merely a metaphor, sound may play some role in the sequence of events. It is believed that the chimes referenced by Saints and Seducers do indeed exist and are considered almost holy relics. Attempts to gain information about these chimes, or the process by which they are used, has been met with exceptional hostility and so have been abandoned.\r\n[pagebreak]\r\nAny and all information regarding the Golden Saints and Dark Seducers, particularly relating to private customs and origins, should be brought to the attention of the author immediately. The greater the scope of our knowledge, the better our ability to understand these compelling creatures.\r\n",
+  "string": "[pagebreak]\r\n<p align=\"center\">\r\n\r\n\r\nСвятые и соблазнители\r\n\r\n\r\nавтор \r\nАндош Марье\r\n</p>\r\n\r\n\r\n\r\n[pagebreak]\r\n[pagebreak]\r\n<p align=\"center\">\r\n\r\n\r\nПримечание автора</p><p align=\"left\">\r\nВ этой книге делается попытка свести воедино и проанализировать известные факты, предположения и слухи о двух расах, которые поддерживают соблюдение законов и порядка на Дрожащих островах. Она ни в коей мере не претендует на то, чтобы считаться истиной в последней инстанции; скорее, это личное стремление автора лучше понять сущность этих уникальных созданий.</p>\r\n[pagebreak]\r\n<p align=\"center\">\r\nНа службе лорда</p><p align=\"left\">\r\nОпределение происхождения золотых святых и темных соблазнителей выходит за пределы данной работы.  Они даэдра, и потому их бытие - загадка для смертных. Общепринятое убеждение, что никакие даэдра не способны к Созиданию, заставляет предположить, что даже сам лорд Шеогорат не имеет отношения к появлению этих рас. Однако нельзя не отметить, что у Принца Безумия есть устремления и силы, не подвластные ничьему пониманию, а попытка их толкования может лишь еще больше запутать.\r\n\r\nПоэтому достаточно просто принять факт их существования. Так или иначе, любопытно, что святые и соблазнители верно служат лорду Шеогорату. Все говорит за то, что преданность эта является безграничной, но ее источник неизвестен. Может ли быть так, что Безумный Бог хитростью заставил их служить себе? Или они просто вступили в союз с величайшей силой в царстве? В научных трудах говорится, что даэдра выбирают себе господина, чтобы получить защиту и надежное пристанище. Очевидно, что святые и соблазнители нашли это на Дрожащих островах; действительно, у них есть крепости, вход куда открыт лишь немногим из тех, кто не принадлежит к их расам. Они обладают властью в царстве, выступая в роли защитников тех, кто служит лорду Шеогорату. Они соперничают за благосклонность нашего господина, сражаясь с теми, кто противостоит ему, а временами и друг с другом. В таком случае логично предположить, что они сами, сознательно, выбрали свою роль на Островах. \r\n</p>\r\n[pagebreak]\r\n<p align=\"center\">\r\nХарактер и общество</p><p align=\"left\">\r\nОбраз, сразу возникающий в сознании при словах \"золотой святой\", рисует ангельскую фигуру, изящную и благожелательную. Ирония заключается в том, что хотя золотые святые воплощают этот образ физически, их поведение резко контрастирует с ним. Святые - гордая, высокомерная раса, вспыльчивая и скорая на жестокую расправу. Они явно считают всех остальных на островах низшими существами и не пытаются скрыть этого при общении.\r\n\r\nТемные соблазнители тоже мало чем соответствуют своему имени, кроме внешности. Хотя они также уверены в своем превосходстве над всеми остальными обитателями королевства, у них более мягкая натура, они более склонны к интроверсии. Соблазнители нередко ведут себя скромно в общении со смертными и известны своей терпимостью к \"низшим расам\".\r\n\r\nВообще названия \"золотой святой\" и \"темный соблазнитель\" даны этим даэдра другими расами. Хотя те и другие откликаются на эти имена, сами себя они называют по-другому:  аурил и мазкен, соответственно. Возможно, даэдра просто не обращают внимания на прозвища, которые дают им низшие существа - или, наоборот, находят их забавными. Необходимо дальнейшее изучение этого вопроса, однако оно затруднено, потому что святые и соблазнители неохотно предоставляют личную информацию о себе.\r\n\r\nКое-что дают наблюдения. Сразу видно, что социальная структура обеих групп крайне милитаризована; сила и дисциплинированность индивидуума определяет его место в обществе. Так, подчиненные преклоняются перед своими военачальниками. Последующие наблюдения открывают еще одно разделение: оба общества матриархальны по структуре. Святые и соблазнители женского пола командуют стражей Нью-Шеота и стоят на высших ступенях власти. Мужчины, хоть и не принижаются открыто, явно находятся в подчинении у женщин. Неизвестно, откуда пошла эта традиция, но она глубоко укоренилась в повседневной жизни обеих рас.\r\n</p>\r\n[pagebreak]\r\n<p align=\"center\">\r\nКонфликты и завоевания</p><p align=\"left\">\r\nЛюбой обитатель Дрожащих островов подтвердит, что не стоит раздражать золотых святых и темных соблазнителей. Они преуспели в сражениях и военном искусстве и быстро наказывают всех и каждого, кто отказывается подчиниться. Однако роль стражи королевства не удовлетворяет их, и они часто вступают в бой друг с другом, несмотря на то, что расквартированы в разных районах и по идее не должны сталкиваться. Возможно, это не только проявление агрессивной натуры; постоянные стычки между двумя расами могут быть попытками заручиться благосклонностью лорда Шеогората. Если одни смогут одержать верх над другими, это послужит доказательством их превосходства и права на единоличный контроль над царством. Особенный интерес представляет битва за Сайларн: обе стороны с незапамятных времен увязли в этом конфликте без надежды на победу. Служит ли эта битва для оттачивания навыков обеих сторон или она призвана лишить их желания обращать взгляды в другие стороны? Если спор в принципе неразрешим, почему лорд Шеогорат не желает вмешаться лично и уладить дело?\r\n</p>\r\n[pagebreak]\r\n<p align=\"center\">\r\nРелигия и обряды</p><p align=\"left\">\r\nМало что известно об обычаях золотых святых и темных соблазнителей. Они весьма скрытны во всем, что касается специфических черт своих рас, особенно в вопросе таинственного процесса их возвращения в царство в маловероятном случае cмерти.\r\n\r\nШироко известно, что золотые святые и темные соблазнители, будучи даэдра, не могут быть убиты. Анимус даэдра изгоняется во мрак Обливиона и может вернутся в царство, дабы вновь обрести форму. Но сведения о времени, которое занимает у даэдра возвращение из Вод Обливиона, разрозненны и запутанны; процесс этого возвращения остается покрытым тайной. Опираясь на особенности поведения и силу чисел, можно сделать вывод, что твердыни каждой расы играют очень важную роль в этом процессе. По повседневным фразам (таким как \"Пусть колокола позовут тебя домой\") можно предположить, что это больше, чем просто метафора, и звук может играть некую роль в данном процессе. Есть мнение, что колокола, упоминаемые святыми и соблазнителями, существуют на самом деле и почитаются ими как святыни. Попытки получить информацию об этих колоколах были встречены с исключительной враждебностью, и их пришлось прекратить.\r\n[pagebreak]\r\nЛюбые сведения о золотых святых и темных соблазнителях, особенно касающиеся их собственных обычаев и происхождения, следует немедленно представить вниманию автора. Чем больше объем наших знаний, тем лучше мы сможем понять этих могущественных существ.\r\n",
+  "form_id": "00000AEE|ccBGSSSE025-AdvDSGS.esm",
+  "type": "BOOK DESC",
+  "index": null,
+  "editor_id": "ccBGSSSE025_SaintsandSeducers_Book03"
+ },
+ {
+  "original": "The Blessings of Sheogorath",
+  "string": "Благословения Шеогората",
+  "form_id": "00000B97|ccBGSSSE025-AdvDSGS.esm",
+  "type": "BOOK FULL",
+  "index": null,
+  "editor_id": "ccBGSSSE025_BlessingsofSheogorath_Book01"
+ },
+ {
+  "original": "[pagebreak]\r\n<p align=\"center\">\r\n\r\n\r\nThe Blessings of Sheogorath\r\n</p>\r\n\r\n\r\n\r\n[pagebreak]\r\n<p align=\"center\">\r\nFor Our Lord Sheogorath, without Whom all Thought would be linear and all Feeling would be fleeting.\r\n\r\nBlessed are the Madmen, for they hold the keys to secret knowledge.\r\n\r\nBlessed are the Phobic, always wary of that which would do them harm.\r\n\r\nBlessed are the Obsessed, for their courses are clear.\r\n\r\nBlessed are the Addicts, may they quench the thirst that never ebbs.\r\n\r\nBlessed are the Murderous, for they have found beauty in the grotesque.\r\n\r\nBlessed are the Firelovers, for their hearts are always warm.\r\n\r\nBlessed are the Artists, for in their hands the impossible is made real.\r\n\r\nBlessed are the Musicians, for in their ears they hear the music of the soul.\r\n\r\nBlessed are the Sleepless, as they bask in wakeful dreaming.\r\n\r\nBlessed are the Paranoid, ever-watchful for our enemies.\r\n\r\nBlessed are the Visionaries, for their eyes see what might be.\r\n\r\nBlessed are the Painlovers, for in their suffering, we grow stronger.\r\n\r\nBlessed is the Madgod, who tricks us when we are foolish, punishes us when we are wrong, tortures us when we are unmindful, and loves us in our imperfection.\r\n</p>",
+  "string": "[pagebreak]\r\n<p align=\"center\">\r\n\r\n\r\nБлагословения Шеогората\r\n</p>\r\n\r\n\r\n\r\n[pagebreak]\r\n<p align=\"center\">\r\nНашему Лорду Шеогорату, без Кого все Мысли были бы линейны, а все Чувства скоротечны.\r\n\r\nБлаженны безумные, ибо хранят ключи к тайному знанию.\r\n\r\nБлаженны страдающие фобией, всегда настороженные к тому, что может навредить им.\r\n\r\nБлаженны одержимые, ибо их помыслы прямо воплощаются в деяния.\r\n\r\nБлаженны пристрастившиеся, да утолят они жажду, что никогда не отступает.\r\n\r\nБлаженны кровожадные, ибо нашли красоту в гротеске.\r\n\r\nБлаженны любящие огонь, ибо их сердца всегда согреты.\r\n\r\nБлаженны художники, ибо в их руках невозможное становится реальностью.\r\n\r\nБлаженны музыканты, ибо в их ушах звучит музыка души.\r\n\r\nБлаженны бессонные, ибо наслаждаются снами наяву.\r\n\r\nБлаженны параноики, всегда следящие за нашими врагами.\r\n\r\nБлаженны провидцы, ибо их глаза видят то, что может произойти.\r\n\r\nБлаженны любящие боль, ибо в их страданиях мы становимся сильнее.\r\n\r\nБлажен Безумный Бог, что обманывает нас, когда мы глупы, наказывает, когда мы ошибаемся, мучит нас, когда мы невнимательны, и любит нас во всем нашем несовершенстве.\r\n</p>",
+  "form_id": "00000B97|ccBGSSSE025-AdvDSGS.esm",
+  "type": "BOOK DESC",
+  "index": null,
+  "editor_id": "ccBGSSSE025_BlessingsofSheogorath_Book01"
+ },
+ {
+  "original": "Spell Tome: Conjure Staada (replica)",
+  "string": "Книга заклинаний: Вызов Стаады (копия)",
+  "form_id": "00000BA2|DBM_CC_SaintsSeducersHOWPatch.esp",
+  "type": "BOOK FULL",
+  "index": null,
+  "editor_id": "DBM_CC_TomeConjureStaadaREPLICA"
+ },
+ {
+  "original": "<font face'$HandwrittenFont'><font size='40'><p align='center'>\r\nConjure Staada",
+  "string": "<font face'$HandwrittenFont'><font size='40'><p align='center'>\r\nВызов Стаады",
+  "form_id": "00000BA2|DBM_CC_SaintsSeducersHOWPatch.esp",
+  "type": "BOOK DESC",
+  "index": null,
+  "editor_id": "DBM_CC_TomeConjureStaadaREPLICA"
+ },
+ {
+  "original": "Heart of Disorder (replica)",
+  "string": "Сердце Беспорядка (копия)",
+  "form_id": "00000817|DBM_CC_SaS_ECSSAddon.esp",
+  "type": "MISC FULL",
+  "index": null,
+  "editor_id": "DBM_CC_HeartOfDisorderREPLICA"
+ },
+ {
+  "original": "Dark Seducer Warrior",
+  "string": "Воин темных соблазнителей",
+  "form_id": "00000A07|ccBGSSSE025-AdvDSGS.esm",
+  "type": "NPC_ FULL",
+  "index": null,
+  "editor_id": "EC_SS_DarkSeducerMeleeTemplate"
+ },
+ {
+  "original": "Golden Saint Warrior",
+  "string": "Воин золотых святых",
+  "form_id": "00095E20|ccBGSSSE025-AdvDSGS.esm",
+  "type": "NPC_ FULL",
+  "index": null,
+  "editor_id": "EC_SS_EncSummonGoldenSaintWarrior"
+ },
+ {
+  "original": "Dark Seducer Warrior",
+  "string": "Воин темных соблазнителей",
+  "form_id": "00095E22|ccBGSSSE025-AdvDSGS.esm",
+  "type": "NPC_ FULL",
+  "index": null,
+  "editor_id": "EC_SS_EncSummonDarkSeducerWarrior"
+ },
+ {
+  "original": "Golden Saint Archer",
+  "string": "Лучник золотых святых",
+  "form_id": "00000880|ccBGSSSE025-AdvDSGS.esm",
+  "type": "NPC_ FULL",
+  "index": null,
+  "editor_id": "EC_SS_GoldenSaintMissileTemplate"
+ },
+ {
+  "original": "Dark Seducer Archer",
+  "string": "Лучник темных соблазнителей",
+  "form_id": "00000A06|ccBGSSSE025-AdvDSGS.esm",
+  "type": "NPC_ FULL",
+  "index": null,
+  "editor_id": "ccBGSSSE025_EncDarkSeducerArcher"
+ },
+ {
+  "original": "Golden Saint Warrior",
+  "string": "Воин золотых святых",
+  "form_id": "000009C8|ccBGSSSE025-AdvDSGS.esm",
+  "type": "NPC_ FULL",
+  "index": null,
+  "editor_id": "EC_SS_GoldenSaintMeleeTemplate"
+ },
+ {
+  "original": "Mystic Venom",
+  "string": "Мистический яд",
+  "form_id": "000B9587|ccBGSSSE025-AdvDSGS.esm",
+  "type": "ALCH FULL",
+  "index": null,
+  "editor_id": "ccBGSSSE025_MysticVenom"
+ },
+ {
+  "original": "Hall of Wonders",
+  "string": "Зал чудес",
+  "form_id": "000104C9|DBM_CC_HallOfWonders.esp",
+  "type": "CELL FULL",
+  "index": null,
+  "editor_id": "DBMDGHallofWondersCC"
+ },
+ {
+  "original": "Extended Cut - Saints and Seducers Handler",
+  "string": "Extended Cut - Святые и соблазнители (служебный)",
+  "form_id": "00000876|DBM_CC_SaS_ECSSAddon.esp",
+  "type": "QUST FULL",
+  "index": null,
+  "editor_id": "DBM_CC_ECSSHandler"
+ }
+]

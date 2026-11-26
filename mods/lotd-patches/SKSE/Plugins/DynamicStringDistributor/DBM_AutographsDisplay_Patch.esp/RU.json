@@ -1,0 +1,114 @@
+[
+ {
+  "original": "Dwarves Vol. III (Signed)",
+  "string": "Двемеры, том III (с автографом)",
+  "form_id": "00000805|DBM_AutographsDisplay_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBMBOOKACTDwarvesv3_A"
+ },
+ {
+  "original": "A Gentleman's Guide to Whiterun (Signed)",
+  "string": "Вайтран: путеводитель для джентльменов (с автографом)",
+  "form_id": "00000808|DBM_AutographsDisplay_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBMBOOKACTAGTW_A"
+ },
+ {
+  "original": "Dwarves Vol. II (Signed)",
+  "string": "Двемеры, том II (с автографом)",
+  "form_id": "0000080A|DBM_AutographsDisplay_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBMBOOKACTDwarvesv2_A"
+ },
+ {
+  "original": "Children of the All-Maker (Signed)",
+  "string": "Дети Все-Создателя (с автографом)",
+  "form_id": "0000080D|DBM_AutographsDisplay_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBMBOOKACTAllmaker_A"
+ },
+ {
+  "original": "Shadowmarks (Signed)",
+  "string": "Теневые метки (с автографом)",
+  "form_id": "0000080F|DBM_AutographsDisplay_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBMBOOKACTShadowmarks_A"
+ },
+ {
+  "original": "The Aetherium Wars (Signed)",
+  "string": "Войны за этерий (с автографом)",
+  "form_id": "00000811|DBM_AutographsDisplay_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBMBOOKACTAetheriumWars_A"
+ },
+ {
+  "original": "A Primer on Enchanting (Signed)",
+  "string": "Основы зачарования (с автографом)",
+  "form_id": "00000813|DBM_AutographsDisplay_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBMBOOKACTEnchantingPrimer_A"
+ },
+ {
+  "original": "Dwarves Vol. I (Signed)",
+  "string": "Двемеры, том I (с автографом)",
+  "form_id": "00000815|DBM_AutographsDisplay_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBMBOOKACTDwarvesv1_A"
+ },
+ {
+  "original": "Ghosts in the Storm (Signed)",
+  "string": "Призраки в буране (с автографом)",
+  "form_id": "00000817|DBM_AutographsDisplay_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBMBOOKACTGhostsInTheStorm_A"
+ },
+ {
+  "original": "Olaf and the Dragon (Signed)",
+  "string": "Олаф и дракон (с автографом)",
+  "form_id": "00000819|DBM_AutographsDisplay_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBMBOOKACTOlafandtheDragon_A"
+ },
+ {
+  "original": "Ruminations on the Elder Scrolls (Signed)",
+  "string": "Размышления о Древних свитках (с автографом)",
+  "form_id": "0000081B|DBM_AutographsDisplay_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBMBOOKACTRuminations_A"
+ },
+ {
+  "original": "Chaurus Pie (Signed)",
+  "string": "Пирог из коруса (с автографом)",
+  "form_id": "0000084C|DBM_AutographsDisplay_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBMBOOKACTCP_A"
+ },
+ {
+  "original": "Autographs of Skyrim Books",
+  "string": "Книги из Autographs of Skyrim",
+  "form_id": "00000804|DBM_AutographsDisplay_Patch.esp",
+  "type": "CONT FULL",
+  "index": null,
+  "editor_id": "DBM_CheatCrateSMExample"
+ },
+ {
+  "original": "Autographs",
+  "string": "Автографы",
+  "form_id": "00000803|DBM_AutographsDisplay_Patch.esp",
+  "type": "QUST FULL",
+  "index": null,
+  "editor_id": "DBM_Autographs"
+ }
+]

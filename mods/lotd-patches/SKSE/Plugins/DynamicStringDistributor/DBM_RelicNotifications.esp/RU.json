@@ -1,0 +1,3610 @@
+[
+ {
+  "original": "Summon Relic Storage Container",
+  "string": "Призыв хранилища реликвий",
+  "form_id": "00896AA3|DBM_RelicNotifications.esp",
+  "type": "MGEF FULL",
+  "index": null,
+  "editor_id": "RN_Storage_Summon_MGEF"
+ },
+ {
+  "original": "Summons The Relic Storage Container to you.",
+  "string": "Призывает к вам хранилище реликвий.",
+  "form_id": "00896AA3|DBM_RelicNotifications.esp",
+  "type": "MGEF DNAM",
+  "index": null,
+  "editor_id": "RN_Storage_Summon_MGEF"
+ },
+ {
+  "original": "Fire Damage",
+  "string": "Урон огнем",
+  "form_id": "009B2419|DBM_RelicNotifications.esp",
+  "type": "MGEF FULL",
+  "index": null,
+  "editor_id": "TCCChaosballFireDamageFFContact50"
+ },
+ {
+  "original": "Frost Damage",
+  "string": "Урон холодом",
+  "form_id": "009B241A|DBM_RelicNotifications.esp",
+  "type": "MGEF FULL",
+  "index": null,
+  "editor_id": "TCCChaosballFrostDamageFFContact50"
+ },
+ {
+  "original": "Shock Damage",
+  "string": "Урон электричеством",
+  "form_id": "009B241B|DBM_RelicNotifications.esp",
+  "type": "MGEF FULL",
+  "index": null,
+  "editor_id": "TCCChaosballShockDamageFFContact50"
+ },
+ {
+  "original": "Sun Damage",
+  "string": "Солнечный удар",
+  "form_id": "009B241C|DBM_RelicNotifications.esp",
+  "type": "MGEF FULL",
+  "index": null,
+  "editor_id": "TCCChaosballSunDamageFFContact50"
+ },
+ {
+  "original": "Chaosball Damage",
+  "string": "Урон шара хаоса",
+  "form_id": "009B2422|DBM_RelicNotifications.esp",
+  "type": "MGEF FULL",
+  "index": null,
+  "editor_id": "TCCChaosballFFAimedArea"
+ },
+ {
+  "original": "Fires a bolt of chaotic light that deals <30> points of damage, with an additional 50% chance for each of fire, frost, shock and sun to do <15> points of damage.",
+  "string": "Выпускает сгусток хаотического света, который наносит <30> ед. урона, и с вероятностью 50% каждая из стихий - огонь, мороз, шок и солнце - наносит еще <15> ед. урона.",
+  "form_id": "009B2422|DBM_RelicNotifications.esp",
+  "type": "MGEF DNAM",
+  "index": null,
+  "editor_id": "TCCChaosballFFAimedArea"
+ },
+ {
+  "original": "The Curator's Wit",
+  "string": "Остроумие хранителя",
+  "form_id": "009B2429|DBM_RelicNotifications.esp",
+  "type": "MGEF FULL",
+  "index": null,
+  "editor_id": "TCCDummyMagicEffectStaff"
+ },
+ {
+  "original": "The Curator's Resolve",
+  "string": "Стойкость хранителя",
+  "form_id": "009B242A|DBM_RelicNotifications.esp",
+  "type": "MGEF FULL",
+  "index": null,
+  "editor_id": "TCCDummyMagicEffectShield"
+ },
+ {
+  "original": "The Curator's Determination",
+  "string": "Решимость хранителя",
+  "form_id": "009B242B|DBM_RelicNotifications.esp",
+  "type": "MGEF FULL",
+  "index": null,
+  "editor_id": "TCCDummyMagicEffectSword"
+ },
+ {
+  "original": "The Curator's Descent",
+  "string": "Спуск хранителя",
+  "form_id": "009B242C|DBM_RelicNotifications.esp",
+  "type": "MGEF FULL",
+  "index": null,
+  "editor_id": "TCCDummyMagicEffectCloak"
+ },
+ {
+  "original": "Transfer Relics",
+  "string": "Перенос реликвий",
+  "form_id": "00B6FE3A|DBM_RelicNotifications.esp",
+  "type": "MGEF FULL",
+  "index": null,
+  "editor_id": "TCC_TransferRelicsMGEF"
+ },
+ {
+  "original": "Transfers all displayable items to the container currently on the crosshair.",
+  "string": "Переносит все экспонируемые предметы в контейнер, находящийся под прицелом.",
+  "form_id": "00B6FE3A|DBM_RelicNotifications.esp",
+  "type": "MGEF DNAM",
+  "index": null,
+  "editor_id": "TCC_TransferRelicsMGEF"
+ },
+ {
+  "original": "Chaosball Explosion Effect",
+  "string": "Взрыв шара хаоса (эффект)",
+  "form_id": "009B241D|DBM_RelicNotifications.esp",
+  "type": "ENCH FULL",
+  "index": null,
+  "editor_id": "TCCChaosballStaffEnchExplosion"
+ },
+ {
+  "original": "Chaosball",
+  "string": "Шар хаоса",
+  "form_id": "009B2423|DBM_RelicNotifications.esp",
+  "type": "ENCH FULL",
+  "index": null,
+  "editor_id": "TCCChaosballStaffEnch"
+ },
+ {
+  "original": "Transfer Relics",
+  "string": "Перенос реликвий",
+  "form_id": "00B6FE3B|DBM_RelicNotifications.esp",
+  "type": "SPEL FULL",
+  "index": null,
+  "editor_id": "RN_TransferRelicsSpell"
+ },
+ {
+  "original": "The Curator's Wit",
+  "string": "Остроумие хранителя",
+  "form_id": "009B242D|DBM_RelicNotifications.esp",
+  "type": "SPEL FULL",
+  "index": null,
+  "editor_id": "TCCDummySpellStaff"
+ },
+ {
+  "original": "While you have the Staff of the Curator equipped, your spells and enchantments are <10>% more effective.",
+  "string": "Пока у вас в руках Посох хранителя, ваши заклинания и зачарования на <10>% эффективнее.",
+  "form_id": "009B242D|DBM_RelicNotifications.esp",
+  "type": "SPEL DESC",
+  "index": null,
+  "editor_id": "TCCDummySpellStaff"
+ },
+ {
+  "original": "The Curator's Resolve",
+  "string": "Стойкость хранителя",
+  "form_id": "009B242E|DBM_RelicNotifications.esp",
+  "type": "SPEL FULL",
+  "index": null,
+  "editor_id": "TCCDummySpellShield"
+ },
+ {
+  "original": "While you have the Shield of the Curator equipped, incoming physical damage is reduced by <10>%.",
+  "string": "Пока у вас в руках Щит хранителя, получаемый физический урон снижается на <10>%.",
+  "form_id": "009B242E|DBM_RelicNotifications.esp",
+  "type": "SPEL DESC",
+  "index": null,
+  "editor_id": "TCCDummySpellShield"
+ },
+ {
+  "original": "The Curator's Determination",
+  "string": "Решимость хранителя",
+  "form_id": "009B242F|DBM_RelicNotifications.esp",
+  "type": "SPEL FULL",
+  "index": null,
+  "editor_id": "TCCDummySpellSword"
+ },
+ {
+  "original": "Power attacks made with the Blade of the Curator cost <25>% less and sideways power attacks will hit all targets in front of you.",
+  "string": "Силовые атаки Клинком хранителя требуют на <25>% меньше сил, а боковые силовые атаки поражают все цели перед вами.",
+  "form_id": "009B242F|DBM_RelicNotifications.esp",
+  "type": "SPEL DESC",
+  "index": null,
+  "editor_id": "TCCDummySpellSword"
+ },
+ {
+  "original": "The Curator's Descent",
+  "string": "Спуск хранителя",
+  "form_id": "009B2430|DBM_RelicNotifications.esp",
+  "type": "SPEL FULL",
+  "index": null,
+  "editor_id": "TCCDummySpellCloak"
+ },
+ {
+  "original": "While wearing the Cloak of the Curator, fall damage is reduced by <50>%.",
+  "string": "Пока на вас Плащ хранителя, урон от падения снижается на <50>%.",
+  "form_id": "009B2430|DBM_RelicNotifications.esp",
+  "type": "SPEL DESC",
+  "index": null,
+  "editor_id": "TCCDummySpellCloak"
+ },
+ {
+  "original": "Summon Relic Storage Container",
+  "string": "Призыв хранилища реликвий",
+  "form_id": "00896AA2|DBM_RelicNotifications.esp",
+  "type": "SPEL FULL",
+  "index": null,
+  "editor_id": "RN_Storage_Summon_Spell"
+ },
+ {
+  "original": "Painting 43",
+  "string": "Картина 43",
+  "form_id": "00D79846|DBM_RelicNotifications.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_PaintingTriggerHallofHeroes43"
+ },
+ {
+  "original": "Display",
+  "string": "Выставить",
+  "form_id": "00D79846|DBM_RelicNotifications.esp",
+  "type": "ACTI RNAM",
+  "index": null,
+  "editor_id": "DBM_PaintingTriggerHallofHeroes43"
+ },
+ {
+  "original": "Painting 44",
+  "string": "Картина 44",
+  "form_id": "00D79847|DBM_RelicNotifications.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_PaintingTriggerHallofHeroes44"
+ },
+ {
+  "original": "Display",
+  "string": "Выставить",
+  "form_id": "00D79847|DBM_RelicNotifications.esp",
+  "type": "ACTI RNAM",
+  "index": null,
+  "editor_id": "DBM_PaintingTriggerHallofHeroes44"
+ },
+ {
+  "original": "Painting 45",
+  "string": "Картина 45",
+  "form_id": "00D79848|DBM_RelicNotifications.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_PaintingTriggerHallofHeroes45"
+ },
+ {
+  "original": "Display",
+  "string": "Выставить",
+  "form_id": "00D79848|DBM_RelicNotifications.esp",
+  "type": "ACTI RNAM",
+  "index": null,
+  "editor_id": "DBM_PaintingTriggerHallofHeroes45"
+ },
+ {
+  "original": "Painting 46",
+  "string": "Картина 46",
+  "form_id": "00D79849|DBM_RelicNotifications.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_PaintingTriggerHallofHeroes46"
+ },
+ {
+  "original": "Display",
+  "string": "Выставить",
+  "form_id": "00D79849|DBM_RelicNotifications.esp",
+  "type": "ACTI RNAM",
+  "index": null,
+  "editor_id": "DBM_PaintingTriggerHallofHeroes46"
+ },
+ {
+  "original": "Painting 47",
+  "string": "Картина 47",
+  "form_id": "00D7984A|DBM_RelicNotifications.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_PaintingTriggerHallofHeroes47"
+ },
+ {
+  "original": "Display",
+  "string": "Выставить",
+  "form_id": "00D7984A|DBM_RelicNotifications.esp",
+  "type": "ACTI RNAM",
+  "index": null,
+  "editor_id": "DBM_PaintingTriggerHallofHeroes47"
+ },
+ {
+  "original": "Glenmoril Witch Head 1",
+  "string": "Голова гленморильской ведьмы 1",
+  "form_id": "00E9A276|DBM_RelicNotifications.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "TCC_DISPACTWitchHead1"
+ },
+ {
+  "original": "Exploding Fire Bolt Schematic",
+  "string": "Схема разрывного огненного болта",
+  "form_id": "00EA9588|DBM_RelicNotifications.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DLC1Schematic004"
+ },
+ {
+  "original": "Exploding Ice Bolt Schematic",
+  "string": "Схема разрывного ледяного болта",
+  "form_id": "00EA9589|DBM_RelicNotifications.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DLC1Schematic007"
+ },
+ {
+  "original": "Exploding Shock Bolt Schematic",
+  "string": "Схема разрывного грозового болта",
+  "form_id": "00EA958A|DBM_RelicNotifications.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DLC1Schematic008"
+ },
+ {
+  "original": "Dwarven Crossbow Schematic",
+  "string": "Чертеж двемерского арбалета",
+  "form_id": "00EA958B|DBM_RelicNotifications.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DLC1Schematic009"
+ },
+ {
+  "original": "Enhanced Dwarven Crossbow Schematic",
+  "string": "Чертеж улучшенного двемерского арбалета",
+  "form_id": "00EA958C|DBM_RelicNotifications.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DLC1Schematic010"
+ },
+ {
+  "original": "Enhanced Crossbow Schematic",
+  "string": "Чертеж улучшенного арбалета",
+  "form_id": "00EA958D|DBM_RelicNotifications.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DLC1Schematic011"
+ },
+ {
+  "original": "Glenmoril Witch Head 2",
+  "string": "Голова гленморильской ведьмы 2",
+  "form_id": "00E9A277|DBM_RelicNotifications.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "TCC_DISPACTWitchHead2"
+ },
+ {
+  "original": "Glenmoril Witch Head 3",
+  "string": "Голова гленморильской ведьмы 3",
+  "form_id": "00E9A278|DBM_RelicNotifications.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "TCC_DISPACTWitchHead3"
+ },
+ {
+  "original": "Glenmoril Witch Head 4",
+  "string": "Голова гленморильской ведьмы 4",
+  "form_id": "00E9A279|DBM_RelicNotifications.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "TCC_DISPACTWitchHead4"
+ },
+ {
+  "original": "Painting 48",
+  "string": "Картина 48",
+  "form_id": "00D7984B|DBM_RelicNotifications.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_PaintingTriggerHallofHeroes48"
+ },
+ {
+  "original": "Display",
+  "string": "Выставить",
+  "form_id": "00D7984B|DBM_RelicNotifications.esp",
+  "type": "ACTI RNAM",
+  "index": null,
+  "editor_id": "DBM_PaintingTriggerHallofHeroes48"
+ },
+ {
+  "original": "Painting 20",
+  "string": "Картина 20",
+  "form_id": "00D7984C|DBM_RelicNotifications.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_PaintingTriggerHallofHeroes20"
+ },
+ {
+  "original": "Display",
+  "string": "Выставить",
+  "form_id": "00D7984C|DBM_RelicNotifications.esp",
+  "type": "ACTI RNAM",
+  "index": null,
+  "editor_id": "DBM_PaintingTriggerHallofHeroes20"
+ },
+ {
+  "original": "Enchanted Ring 1",
+  "string": "Зачарованное кольцо 1",
+  "form_id": "00D7984D|DBM_RelicNotifications.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTSaarthalRing1"
+ },
+ {
+  "original": "Enchanted Ring 2",
+  "string": "Зачарованное кольцо 2",
+  "form_id": "00D7984E|DBM_RelicNotifications.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTSaarthalRing2"
+ },
+ {
+  "original": "Enchanted Ring 3",
+  "string": "Зачарованное кольцо 3",
+  "form_id": "00D7984F|DBM_RelicNotifications.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTSaarthalRing3"
+ },
+ {
+  "original": "Gold Statue of Dibella 10",
+  "string": "Золотая статуя Дибеллы 10",
+  "form_id": "00DF81E7|DBM_RelicNotifications.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTDibellaStatueDUPLICATE010"
+ },
+ {
+  "original": "Relic Transfer Station",
+  "string": "Станция передачи реликвий",
+  "form_id": "0016D73B|DBM_RelicNotifications.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_RN_SetCheck"
+ },
+ {
+  "original": "Excluded Items",
+  "string": "Исключенные предметы",
+  "form_id": "006C9D06|DBM_RelicNotifications.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "RN_Excluded_Act"
+ },
+ {
+  "original": "Fafnir Teddy",
+  "string": "Плюшевый Фафнир",
+  "form_id": "009B7541|DBM_RelicNotifications.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "TCC_FafnirAct"
+ },
+ {
+  "original": "Staff of the Curator",
+  "string": "Посох куратора",
+  "form_id": "009B7546|DBM_RelicNotifications.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "TCC_StafAct"
+ },
+ {
+  "original": "Shield of the Curator",
+  "string": "Щит куратора",
+  "form_id": "009B754C|DBM_RelicNotifications.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "TCC_ShieldAct"
+ },
+ {
+  "original": "Blade of the Curator",
+  "string": "Клинок куратора",
+  "form_id": "009B7554|DBM_RelicNotifications.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "TCC_SwordAct"
+ },
+ {
+  "original": "Cloak of the Curator",
+  "string": "Плащ куратора",
+  "form_id": "009C1763|DBM_RelicNotifications.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "TCC_CloakAct"
+ },
+ {
+  "original": "The Adventures of Auryen and Patero Vol. 3",
+  "string": "Приключения Ауриена и Патеро, том 3",
+  "form_id": "00A034B0|DBM_RelicNotifications.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "TCC_BookAct"
+ },
+ {
+  "original": "Jade Museum Logo",
+  "string": "Эмблема Нефритового музея",
+  "form_id": "00C02C0E|DBM_RelicNotifications.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "TCC_JadeAct"
+ },
+ {
+  "original": "Backpack of the Curator",
+  "string": "Рюкзак куратора",
+  "form_id": "00D23684|DBM_RelicNotifications.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "TCC_BackpackAct"
+ },
+ {
+  "original": "Civil War",
+  "string": "Гражданская война",
+  "form_id": "00D746DA|DBM_RelicNotifications.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "TCC_CWPlaque"
+ },
+ {
+  "original": "Read Plaque:",
+  "string": "Прочитать табличку:",
+  "form_id": "00D746DA|DBM_RelicNotifications.esp",
+  "type": "ACTI RNAM",
+  "index": null,
+  "editor_id": "TCC_CWPlaque"
+ },
+ {
+  "original": "Roasted Ox Leg",
+  "string": "Зажаренная нога быка",
+  "form_id": "00D746E1|DBM_RelicNotifications.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTOxleg2"
+ },
+ {
+  "original": "Gold Statue of Dibella 1",
+  "string": "Золотая статуя Дибеллы 1",
+  "form_id": "00D746E2|DBM_RelicNotifications.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTDibellaStatueDUPLICATE001"
+ },
+ {
+  "original": "Gold Statue of Dibella 2",
+  "string": "Золотая статуя Дибеллы 2",
+  "form_id": "00D746E3|DBM_RelicNotifications.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTDibellaStatueDUPLICATE002"
+ },
+ {
+  "original": "Gold Statue of Dibella 3",
+  "string": "Золотая статуя Дибеллы 3",
+  "form_id": "00D746E4|DBM_RelicNotifications.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTDibellaStatueDUPLICATE003"
+ },
+ {
+  "original": "Gold Statue of Dibella 4",
+  "string": "Золотая статуя Дибеллы 4",
+  "form_id": "00D746E5|DBM_RelicNotifications.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTDibellaStatueDUPLICATE004"
+ },
+ {
+  "original": "Gold Statue of Dibella 5",
+  "string": "Золотая статуя Дибеллы 5",
+  "form_id": "00D746E6|DBM_RelicNotifications.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTDibellaStatueDUPLICATE005"
+ },
+ {
+  "original": "Gold Statue of Dibella 6",
+  "string": "Золотая статуя Дибеллы 6",
+  "form_id": "00D746E7|DBM_RelicNotifications.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTDibellaStatueDUPLICATE006"
+ },
+ {
+  "original": "Gold Statue of Dibella 7",
+  "string": "Золотая статуя Дибеллы 7",
+  "form_id": "00D746E8|DBM_RelicNotifications.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTDibellaStatueDUPLICATE007"
+ },
+ {
+  "original": "Gold Statue of Dibella 8",
+  "string": "Золотая статуя Дибеллы 8",
+  "form_id": "00D746E9|DBM_RelicNotifications.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTDibellaStatueDUPLICATE008"
+ },
+ {
+  "original": "Gold Statue of Dibella 9",
+  "string": "Золотая статуя Дибеллы 9",
+  "form_id": "00D746EA|DBM_RelicNotifications.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTDibellaStatueDUPLICATE009"
+ },
+ {
+  "original": "Painting 1",
+  "string": "Картина 1",
+  "form_id": "00D746EB|DBM_RelicNotifications.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_PaintingTriggerSafehouse1"
+ },
+ {
+  "original": "Display",
+  "string": "Выставить",
+  "form_id": "00D746EB|DBM_RelicNotifications.esp",
+  "type": "ACTI RNAM",
+  "index": null,
+  "editor_id": "DBM_PaintingTriggerSafehouse1"
+ },
+ {
+  "original": "Painting 2",
+  "string": "Картина 2",
+  "form_id": "00D746EC|DBM_RelicNotifications.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_PaintingTriggerSafehouse2"
+ },
+ {
+  "original": "Display",
+  "string": "Выставить",
+  "form_id": "00D746EC|DBM_RelicNotifications.esp",
+  "type": "ACTI RNAM",
+  "index": null,
+  "editor_id": "DBM_PaintingTriggerSafehouse2"
+ },
+ {
+  "original": "Painting 3",
+  "string": "Картина 3",
+  "form_id": "00D746ED|DBM_RelicNotifications.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_PaintingTriggerSafehouse3"
+ },
+ {
+  "original": "Display",
+  "string": "Выставить",
+  "form_id": "00D746ED|DBM_RelicNotifications.esp",
+  "type": "ACTI RNAM",
+  "index": null,
+  "editor_id": "DBM_PaintingTriggerSafehouse3"
+ },
+ {
+  "original": "Painting 4",
+  "string": "Картина 4",
+  "form_id": "00D746EE|DBM_RelicNotifications.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_PaintingTriggerSafehouse4"
+ },
+ {
+  "original": "Display",
+  "string": "Выставить",
+  "form_id": "00D746EE|DBM_RelicNotifications.esp",
+  "type": "ACTI RNAM",
+  "index": null,
+  "editor_id": "DBM_PaintingTriggerSafehouse4"
+ },
+ {
+  "original": "Painting 1",
+  "string": "Картина 1",
+  "form_id": "00D746EF|DBM_RelicNotifications.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_PaintingTriggerEastExhibitHalls01"
+ },
+ {
+  "original": "Display",
+  "string": "Выставить",
+  "form_id": "00D746EF|DBM_RelicNotifications.esp",
+  "type": "ACTI RNAM",
+  "index": null,
+  "editor_id": "DBM_PaintingTriggerEastExhibitHalls01"
+ },
+ {
+  "original": "Painting 2",
+  "string": "Картина 2",
+  "form_id": "00D746F0|DBM_RelicNotifications.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_PaintingTriggerEastExhibitHalls02"
+ },
+ {
+  "original": "Display",
+  "string": "Выставить",
+  "form_id": "00D746F0|DBM_RelicNotifications.esp",
+  "type": "ACTI RNAM",
+  "index": null,
+  "editor_id": "DBM_PaintingTriggerEastExhibitHalls02"
+ },
+ {
+  "original": "Painting 3",
+  "string": "Картина 3",
+  "form_id": "00D746F1|DBM_RelicNotifications.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_PaintingTriggerEastExhibitHalls03"
+ },
+ {
+  "original": "Display",
+  "string": "Выставить",
+  "form_id": "00D746F1|DBM_RelicNotifications.esp",
+  "type": "ACTI RNAM",
+  "index": null,
+  "editor_id": "DBM_PaintingTriggerEastExhibitHalls03"
+ },
+ {
+  "original": "Painting 4",
+  "string": "Картина 4",
+  "form_id": "00D746F2|DBM_RelicNotifications.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_PaintingTriggerEastExhibitHalls04"
+ },
+ {
+  "original": "Display",
+  "string": "Выставить",
+  "form_id": "00D746F2|DBM_RelicNotifications.esp",
+  "type": "ACTI RNAM",
+  "index": null,
+  "editor_id": "DBM_PaintingTriggerEastExhibitHalls04"
+ },
+ {
+  "original": "Painting 5",
+  "string": "Картина 5",
+  "form_id": "00D746F3|DBM_RelicNotifications.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_PaintingTriggerEastExhibitHalls05"
+ },
+ {
+  "original": "Display",
+  "string": "Выставить",
+  "form_id": "00D746F3|DBM_RelicNotifications.esp",
+  "type": "ACTI RNAM",
+  "index": null,
+  "editor_id": "DBM_PaintingTriggerEastExhibitHalls05"
+ },
+ {
+  "original": "Painting 6",
+  "string": "Картина 6",
+  "form_id": "00D746F4|DBM_RelicNotifications.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_PaintingTriggerEastExhibitHalls06"
+ },
+ {
+  "original": "Display",
+  "string": "Выставить",
+  "form_id": "00D746F4|DBM_RelicNotifications.esp",
+  "type": "ACTI RNAM",
+  "index": null,
+  "editor_id": "DBM_PaintingTriggerEastExhibitHalls06"
+ },
+ {
+  "original": "Painting 7",
+  "string": "Картина 7",
+  "form_id": "00D746F5|DBM_RelicNotifications.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_PaintingTriggerEastExhibitHalls07"
+ },
+ {
+  "original": "Display",
+  "string": "Выставить",
+  "form_id": "00D746F5|DBM_RelicNotifications.esp",
+  "type": "ACTI RNAM",
+  "index": null,
+  "editor_id": "DBM_PaintingTriggerEastExhibitHalls07"
+ },
+ {
+  "original": "Painting 8",
+  "string": "Картина 8",
+  "form_id": "00D746F6|DBM_RelicNotifications.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_PaintingTriggerEastExhibitHalls08"
+ },
+ {
+  "original": "Display",
+  "string": "Выставить",
+  "form_id": "00D746F6|DBM_RelicNotifications.esp",
+  "type": "ACTI RNAM",
+  "index": null,
+  "editor_id": "DBM_PaintingTriggerEastExhibitHalls08"
+ },
+ {
+  "original": "Painting 9",
+  "string": "Картина 9",
+  "form_id": "00D746F7|DBM_RelicNotifications.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_PaintingTriggerEastExhibitHalls09"
+ },
+ {
+  "original": "Display",
+  "string": "Выставить",
+  "form_id": "00D746F7|DBM_RelicNotifications.esp",
+  "type": "ACTI RNAM",
+  "index": null,
+  "editor_id": "DBM_PaintingTriggerEastExhibitHalls09"
+ },
+ {
+  "original": "Painting 10",
+  "string": "Картина 10",
+  "form_id": "00D746F8|DBM_RelicNotifications.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_PaintingTriggerEastExhibitHalls10"
+ },
+ {
+  "original": "Display",
+  "string": "Выставить",
+  "form_id": "00D746F8|DBM_RelicNotifications.esp",
+  "type": "ACTI RNAM",
+  "index": null,
+  "editor_id": "DBM_PaintingTriggerEastExhibitHalls10"
+ },
+ {
+  "original": "Painting 11",
+  "string": "Картина 11",
+  "form_id": "00D746F9|DBM_RelicNotifications.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_PaintingTriggerEastExhibitHalls11"
+ },
+ {
+  "original": "Display",
+  "string": "Выставить",
+  "form_id": "00D746F9|DBM_RelicNotifications.esp",
+  "type": "ACTI RNAM",
+  "index": null,
+  "editor_id": "DBM_PaintingTriggerEastExhibitHalls11"
+ },
+ {
+  "original": "Painting 12",
+  "string": "Картина 12",
+  "form_id": "00D746FA|DBM_RelicNotifications.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_PaintingTriggerEastExhibitHalls12"
+ },
+ {
+  "original": "Display",
+  "string": "Выставить",
+  "form_id": "00D746FA|DBM_RelicNotifications.esp",
+  "type": "ACTI RNAM",
+  "index": null,
+  "editor_id": "DBM_PaintingTriggerEastExhibitHalls12"
+ },
+ {
+  "original": "Painting 13",
+  "string": "Картина 13",
+  "form_id": "00D746FB|DBM_RelicNotifications.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_PaintingTriggerEastExhibitHalls13"
+ },
+ {
+  "original": "Display",
+  "string": "Выставить",
+  "form_id": "00D746FB|DBM_RelicNotifications.esp",
+  "type": "ACTI RNAM",
+  "index": null,
+  "editor_id": "DBM_PaintingTriggerEastExhibitHalls13"
+ },
+ {
+  "original": "Painting 14",
+  "string": "Картина 14",
+  "form_id": "00D746FC|DBM_RelicNotifications.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_PaintingTriggerEastExhibitHalls14"
+ },
+ {
+  "original": "Display",
+  "string": "Выставить",
+  "form_id": "00D746FC|DBM_RelicNotifications.esp",
+  "type": "ACTI RNAM",
+  "index": null,
+  "editor_id": "DBM_PaintingTriggerEastExhibitHalls14"
+ },
+ {
+  "original": "Painting 15",
+  "string": "Картина 15",
+  "form_id": "00D746FD|DBM_RelicNotifications.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_PaintingTriggerEastExhibitHalls15"
+ },
+ {
+  "original": "Display",
+  "string": "Выставить",
+  "form_id": "00D746FD|DBM_RelicNotifications.esp",
+  "type": "ACTI RNAM",
+  "index": null,
+  "editor_id": "DBM_PaintingTriggerEastExhibitHalls15"
+ },
+ {
+  "original": "Painting 16",
+  "string": "Картина 16",
+  "form_id": "00D746FE|DBM_RelicNotifications.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_PaintingTriggerEastExhibitHalls16"
+ },
+ {
+  "original": "Display",
+  "string": "Выставить",
+  "form_id": "00D746FE|DBM_RelicNotifications.esp",
+  "type": "ACTI RNAM",
+  "index": null,
+  "editor_id": "DBM_PaintingTriggerEastExhibitHalls16"
+ },
+ {
+  "original": "Painting 17",
+  "string": "Картина 17",
+  "form_id": "00D746FF|DBM_RelicNotifications.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_PaintingTriggerEastExhibitHalls17"
+ },
+ {
+  "original": "Display",
+  "string": "Выставить",
+  "form_id": "00D746FF|DBM_RelicNotifications.esp",
+  "type": "ACTI RNAM",
+  "index": null,
+  "editor_id": "DBM_PaintingTriggerEastExhibitHalls17"
+ },
+ {
+  "original": "Painting 18",
+  "string": "Картина 18",
+  "form_id": "00D74700|DBM_RelicNotifications.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_PaintingTriggerEastExhibitHalls18"
+ },
+ {
+  "original": "Display",
+  "string": "Выставить",
+  "form_id": "00D74700|DBM_RelicNotifications.esp",
+  "type": "ACTI RNAM",
+  "index": null,
+  "editor_id": "DBM_PaintingTriggerEastExhibitHalls18"
+ },
+ {
+  "original": "Painting 19",
+  "string": "Картина 19",
+  "form_id": "00D74701|DBM_RelicNotifications.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_PaintingTriggerEastExhibitHalls19"
+ },
+ {
+  "original": "Display",
+  "string": "Выставить",
+  "form_id": "00D74701|DBM_RelicNotifications.esp",
+  "type": "ACTI RNAM",
+  "index": null,
+  "editor_id": "DBM_PaintingTriggerEastExhibitHalls19"
+ },
+ {
+  "original": "Painting 20",
+  "string": "Картина 20",
+  "form_id": "00D74702|DBM_RelicNotifications.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_PaintingTriggerEastExhibitHalls20"
+ },
+ {
+  "original": "Display",
+  "string": "Выставить",
+  "form_id": "00D74702|DBM_RelicNotifications.esp",
+  "type": "ACTI RNAM",
+  "index": null,
+  "editor_id": "DBM_PaintingTriggerEastExhibitHalls20"
+ },
+ {
+  "original": "Painting 21",
+  "string": "Картина 21",
+  "form_id": "00D74703|DBM_RelicNotifications.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_PaintingTriggerEastExhibitHalls21"
+ },
+ {
+  "original": "Display",
+  "string": "Выставить",
+  "form_id": "00D74703|DBM_RelicNotifications.esp",
+  "type": "ACTI RNAM",
+  "index": null,
+  "editor_id": "DBM_PaintingTriggerEastExhibitHalls21"
+ },
+ {
+  "original": "Painting 22",
+  "string": "Картина 22",
+  "form_id": "00D74704|DBM_RelicNotifications.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_PaintingTriggerEastExhibitHalls22"
+ },
+ {
+  "original": "Display",
+  "string": "Выставить",
+  "form_id": "00D74704|DBM_RelicNotifications.esp",
+  "type": "ACTI RNAM",
+  "index": null,
+  "editor_id": "DBM_PaintingTriggerEastExhibitHalls22"
+ },
+ {
+  "original": "Painting 23",
+  "string": "Картина 23",
+  "form_id": "00D74705|DBM_RelicNotifications.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_PaintingTriggerEastExhibitHalls23"
+ },
+ {
+  "original": "Display",
+  "string": "Выставить",
+  "form_id": "00D74705|DBM_RelicNotifications.esp",
+  "type": "ACTI RNAM",
+  "index": null,
+  "editor_id": "DBM_PaintingTriggerEastExhibitHalls23"
+ },
+ {
+  "original": "Painting 24",
+  "string": "Картина 24",
+  "form_id": "00D74706|DBM_RelicNotifications.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_PaintingTriggerEastExhibitHalls24"
+ },
+ {
+  "original": "Display",
+  "string": "Выставить",
+  "form_id": "00D74706|DBM_RelicNotifications.esp",
+  "type": "ACTI RNAM",
+  "index": null,
+  "editor_id": "DBM_PaintingTriggerEastExhibitHalls24"
+ },
+ {
+  "original": "Painting 25",
+  "string": "Картина 25",
+  "form_id": "00D74707|DBM_RelicNotifications.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_PaintingTriggerEastExhibitHalls25"
+ },
+ {
+  "original": "Display",
+  "string": "Выставить",
+  "form_id": "00D74707|DBM_RelicNotifications.esp",
+  "type": "ACTI RNAM",
+  "index": null,
+  "editor_id": "DBM_PaintingTriggerEastExhibitHalls25"
+ },
+ {
+  "original": "Painting 26",
+  "string": "Картина 26",
+  "form_id": "00D74708|DBM_RelicNotifications.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_PaintingTriggerEastExhibitHalls26"
+ },
+ {
+  "original": "Display",
+  "string": "Выставить",
+  "form_id": "00D74708|DBM_RelicNotifications.esp",
+  "type": "ACTI RNAM",
+  "index": null,
+  "editor_id": "DBM_PaintingTriggerEastExhibitHalls26"
+ },
+ {
+  "original": "Painting 27",
+  "string": "Картина 27",
+  "form_id": "00D74709|DBM_RelicNotifications.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_PaintingTriggerEastExhibitHalls27"
+ },
+ {
+  "original": "Display",
+  "string": "Выставить",
+  "form_id": "00D74709|DBM_RelicNotifications.esp",
+  "type": "ACTI RNAM",
+  "index": null,
+  "editor_id": "DBM_PaintingTriggerEastExhibitHalls27"
+ },
+ {
+  "original": "Painting 28",
+  "string": "Картина 28",
+  "form_id": "00D7470A|DBM_RelicNotifications.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_PaintingTriggerEastExhibitHalls28"
+ },
+ {
+  "original": "Display",
+  "string": "Выставить",
+  "form_id": "00D7470A|DBM_RelicNotifications.esp",
+  "type": "ACTI RNAM",
+  "index": null,
+  "editor_id": "DBM_PaintingTriggerEastExhibitHalls28"
+ },
+ {
+  "original": "Painting 29",
+  "string": "Картина 29",
+  "form_id": "00D7470B|DBM_RelicNotifications.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_PaintingTriggerEastExhibitHalls29"
+ },
+ {
+  "original": "Display",
+  "string": "Выставить",
+  "form_id": "00D7470B|DBM_RelicNotifications.esp",
+  "type": "ACTI RNAM",
+  "index": null,
+  "editor_id": "DBM_PaintingTriggerEastExhibitHalls29"
+ },
+ {
+  "original": "Painting 30",
+  "string": "Картина 30",
+  "form_id": "00D7470C|DBM_RelicNotifications.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_PaintingTriggerEastExhibitHalls30"
+ },
+ {
+  "original": "Display",
+  "string": "Выставить",
+  "form_id": "00D7470C|DBM_RelicNotifications.esp",
+  "type": "ACTI RNAM",
+  "index": null,
+  "editor_id": "DBM_PaintingTriggerEastExhibitHalls30"
+ },
+ {
+  "original": "Painting 31",
+  "string": "Картина 31",
+  "form_id": "00D7470D|DBM_RelicNotifications.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_PaintingTriggerEastExhibitHalls31"
+ },
+ {
+  "original": "Display",
+  "string": "Выставить",
+  "form_id": "00D7470D|DBM_RelicNotifications.esp",
+  "type": "ACTI RNAM",
+  "index": null,
+  "editor_id": "DBM_PaintingTriggerEastExhibitHalls31"
+ },
+ {
+  "original": "Painting 32",
+  "string": "Картина 32",
+  "form_id": "00D7470E|DBM_RelicNotifications.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_PaintingTriggerEastExhibitHalls32"
+ },
+ {
+  "original": "Display",
+  "string": "Выставить",
+  "form_id": "00D7470E|DBM_RelicNotifications.esp",
+  "type": "ACTI RNAM",
+  "index": null,
+  "editor_id": "DBM_PaintingTriggerEastExhibitHalls32"
+ },
+ {
+  "original": "Painting 33",
+  "string": "Картина 33",
+  "form_id": "00D7470F|DBM_RelicNotifications.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_PaintingTriggerEastExhibitHalls33"
+ },
+ {
+  "original": "Display",
+  "string": "Выставить",
+  "form_id": "00D7470F|DBM_RelicNotifications.esp",
+  "type": "ACTI RNAM",
+  "index": null,
+  "editor_id": "DBM_PaintingTriggerEastExhibitHalls33"
+ },
+ {
+  "original": "Painting 34",
+  "string": "Картина 34",
+  "form_id": "00D74710|DBM_RelicNotifications.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_PaintingTriggerEastExhibitHalls34"
+ },
+ {
+  "original": "Display",
+  "string": "Выставить",
+  "form_id": "00D74710|DBM_RelicNotifications.esp",
+  "type": "ACTI RNAM",
+  "index": null,
+  "editor_id": "DBM_PaintingTriggerEastExhibitHalls34"
+ },
+ {
+  "original": "Painting 35",
+  "string": "Картина 35",
+  "form_id": "00D74711|DBM_RelicNotifications.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_PaintingTriggerEastExhibitHalls35"
+ },
+ {
+  "original": "Display",
+  "string": "Выставить",
+  "form_id": "00D74711|DBM_RelicNotifications.esp",
+  "type": "ACTI RNAM",
+  "index": null,
+  "editor_id": "DBM_PaintingTriggerEastExhibitHalls35"
+ },
+ {
+  "original": "Painting 36",
+  "string": "Картина 36",
+  "form_id": "00D74712|DBM_RelicNotifications.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_PaintingTriggerEastExhibitHalls36"
+ },
+ {
+  "original": "Display",
+  "string": "Выставить",
+  "form_id": "00D74712|DBM_RelicNotifications.esp",
+  "type": "ACTI RNAM",
+  "index": null,
+  "editor_id": "DBM_PaintingTriggerEastExhibitHalls36"
+ },
+ {
+  "original": "Painting 37",
+  "string": "Картина 37",
+  "form_id": "00D74713|DBM_RelicNotifications.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_PaintingTriggerEastExhibitHalls37"
+ },
+ {
+  "original": "Display",
+  "string": "Выставить",
+  "form_id": "00D74713|DBM_RelicNotifications.esp",
+  "type": "ACTI RNAM",
+  "index": null,
+  "editor_id": "DBM_PaintingTriggerEastExhibitHalls37"
+ },
+ {
+  "original": "Painting 38",
+  "string": "Картина 38",
+  "form_id": "00D74714|DBM_RelicNotifications.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_PaintingTriggerEastExhibitHalls38"
+ },
+ {
+  "original": "Display",
+  "string": "Выставить",
+  "form_id": "00D74714|DBM_RelicNotifications.esp",
+  "type": "ACTI RNAM",
+  "index": null,
+  "editor_id": "DBM_PaintingTriggerEastExhibitHalls38"
+ },
+ {
+  "original": "Painting 39",
+  "string": "Картина 39",
+  "form_id": "00D74715|DBM_RelicNotifications.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_PaintingTriggerEastExhibitHalls39"
+ },
+ {
+  "original": "Display",
+  "string": "Выставить",
+  "form_id": "00D74715|DBM_RelicNotifications.esp",
+  "type": "ACTI RNAM",
+  "index": null,
+  "editor_id": "DBM_PaintingTriggerEastExhibitHalls39"
+ },
+ {
+  "original": "Painting 40",
+  "string": "Картина 40",
+  "form_id": "00D74716|DBM_RelicNotifications.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_PaintingTriggerEastExhibitHalls40"
+ },
+ {
+  "original": "Display",
+  "string": "Выставить",
+  "form_id": "00D74716|DBM_RelicNotifications.esp",
+  "type": "ACTI RNAM",
+  "index": null,
+  "editor_id": "DBM_PaintingTriggerEastExhibitHalls40"
+ },
+ {
+  "original": "Painting 41",
+  "string": "Картина 41",
+  "form_id": "00D74717|DBM_RelicNotifications.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_PaintingTriggerEastExhibitHalls41"
+ },
+ {
+  "original": "Display",
+  "string": "Выставить",
+  "form_id": "00D74717|DBM_RelicNotifications.esp",
+  "type": "ACTI RNAM",
+  "index": null,
+  "editor_id": "DBM_PaintingTriggerEastExhibitHalls41"
+ },
+ {
+  "original": "Painting 1",
+  "string": "Картина 1",
+  "form_id": "00D7981C|DBM_RelicNotifications.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_PaintingTriggerHallofHeroes01"
+ },
+ {
+  "original": "Display",
+  "string": "Выставить",
+  "form_id": "00D7981C|DBM_RelicNotifications.esp",
+  "type": "ACTI RNAM",
+  "index": null,
+  "editor_id": "DBM_PaintingTriggerHallofHeroes01"
+ },
+ {
+  "original": "Painting 2",
+  "string": "Картина 2",
+  "form_id": "00D7981D|DBM_RelicNotifications.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_PaintingTriggerHallofHeroes02"
+ },
+ {
+  "original": "Display",
+  "string": "Выставить",
+  "form_id": "00D7981D|DBM_RelicNotifications.esp",
+  "type": "ACTI RNAM",
+  "index": null,
+  "editor_id": "DBM_PaintingTriggerHallofHeroes02"
+ },
+ {
+  "original": "Painting 3",
+  "string": "Картина 3",
+  "form_id": "00D7981E|DBM_RelicNotifications.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_PaintingTriggerHallofHeroes03"
+ },
+ {
+  "original": "Display",
+  "string": "Выставить",
+  "form_id": "00D7981E|DBM_RelicNotifications.esp",
+  "type": "ACTI RNAM",
+  "index": null,
+  "editor_id": "DBM_PaintingTriggerHallofHeroes03"
+ },
+ {
+  "original": "Painting 4",
+  "string": "Картина 4",
+  "form_id": "00D7981F|DBM_RelicNotifications.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_PaintingTriggerHallofHeroes04"
+ },
+ {
+  "original": "Display",
+  "string": "Выставить",
+  "form_id": "00D7981F|DBM_RelicNotifications.esp",
+  "type": "ACTI RNAM",
+  "index": null,
+  "editor_id": "DBM_PaintingTriggerHallofHeroes04"
+ },
+ {
+  "original": "Painting 5",
+  "string": "Картина 5",
+  "form_id": "00D79820|DBM_RelicNotifications.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_PaintingTriggerHallofHeroes05"
+ },
+ {
+  "original": "Display",
+  "string": "Выставить",
+  "form_id": "00D79820|DBM_RelicNotifications.esp",
+  "type": "ACTI RNAM",
+  "index": null,
+  "editor_id": "DBM_PaintingTriggerHallofHeroes05"
+ },
+ {
+  "original": "Painting 6",
+  "string": "Картина 6",
+  "form_id": "00D79821|DBM_RelicNotifications.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_PaintingTriggerHallofHeroes06"
+ },
+ {
+  "original": "Display",
+  "string": "Выставить",
+  "form_id": "00D79821|DBM_RelicNotifications.esp",
+  "type": "ACTI RNAM",
+  "index": null,
+  "editor_id": "DBM_PaintingTriggerHallofHeroes06"
+ },
+ {
+  "original": "Painting 7",
+  "string": "Картина 7",
+  "form_id": "00D79822|DBM_RelicNotifications.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_PaintingTriggerHallofHeroes07"
+ },
+ {
+  "original": "Display",
+  "string": "Выставить",
+  "form_id": "00D79822|DBM_RelicNotifications.esp",
+  "type": "ACTI RNAM",
+  "index": null,
+  "editor_id": "DBM_PaintingTriggerHallofHeroes07"
+ },
+ {
+  "original": "Painting 8",
+  "string": "Картина 8",
+  "form_id": "00D79823|DBM_RelicNotifications.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_PaintingTriggerHallofHeroes08"
+ },
+ {
+  "original": "Display",
+  "string": "Выставить",
+  "form_id": "00D79823|DBM_RelicNotifications.esp",
+  "type": "ACTI RNAM",
+  "index": null,
+  "editor_id": "DBM_PaintingTriggerHallofHeroes08"
+ },
+ {
+  "original": "Painting 9",
+  "string": "Картина 9",
+  "form_id": "00D79824|DBM_RelicNotifications.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_PaintingTriggerHallofHeroes09"
+ },
+ {
+  "original": "Display",
+  "string": "Выставить",
+  "form_id": "00D79824|DBM_RelicNotifications.esp",
+  "type": "ACTI RNAM",
+  "index": null,
+  "editor_id": "DBM_PaintingTriggerHallofHeroes09"
+ },
+ {
+  "original": "Painting 10",
+  "string": "Картина 10",
+  "form_id": "00D79825|DBM_RelicNotifications.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_PaintingTriggerHallofHeroes10"
+ },
+ {
+  "original": "Display",
+  "string": "Выставить",
+  "form_id": "00D79825|DBM_RelicNotifications.esp",
+  "type": "ACTI RNAM",
+  "index": null,
+  "editor_id": "DBM_PaintingTriggerHallofHeroes10"
+ },
+ {
+  "original": "Painting 11",
+  "string": "Картина 11",
+  "form_id": "00D79826|DBM_RelicNotifications.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_PaintingTriggerHallofHeroes11"
+ },
+ {
+  "original": "Display",
+  "string": "Выставить",
+  "form_id": "00D79826|DBM_RelicNotifications.esp",
+  "type": "ACTI RNAM",
+  "index": null,
+  "editor_id": "DBM_PaintingTriggerHallofHeroes11"
+ },
+ {
+  "original": "Painting 12",
+  "string": "Картина 12",
+  "form_id": "00D79827|DBM_RelicNotifications.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_PaintingTriggerHallofHeroes12"
+ },
+ {
+  "original": "Display",
+  "string": "Выставить",
+  "form_id": "00D79827|DBM_RelicNotifications.esp",
+  "type": "ACTI RNAM",
+  "index": null,
+  "editor_id": "DBM_PaintingTriggerHallofHeroes12"
+ },
+ {
+  "original": "Painting 13",
+  "string": "Картина 13",
+  "form_id": "00D79828|DBM_RelicNotifications.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_PaintingTriggerHallofHeroes13"
+ },
+ {
+  "original": "Display",
+  "string": "Выставить",
+  "form_id": "00D79828|DBM_RelicNotifications.esp",
+  "type": "ACTI RNAM",
+  "index": null,
+  "editor_id": "DBM_PaintingTriggerHallofHeroes13"
+ },
+ {
+  "original": "Painting 14",
+  "string": "Картина 14",
+  "form_id": "00D79829|DBM_RelicNotifications.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_PaintingTriggerHallofHeroes14"
+ },
+ {
+  "original": "Display",
+  "string": "Выставить",
+  "form_id": "00D79829|DBM_RelicNotifications.esp",
+  "type": "ACTI RNAM",
+  "index": null,
+  "editor_id": "DBM_PaintingTriggerHallofHeroes14"
+ },
+ {
+  "original": "Painting 15",
+  "string": "Картина 15",
+  "form_id": "00D7982A|DBM_RelicNotifications.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_PaintingTriggerHallofHeroes15"
+ },
+ {
+  "original": "Display",
+  "string": "Выставить",
+  "form_id": "00D7982A|DBM_RelicNotifications.esp",
+  "type": "ACTI RNAM",
+  "index": null,
+  "editor_id": "DBM_PaintingTriggerHallofHeroes15"
+ },
+ {
+  "original": "Painting 16",
+  "string": "Картина 16",
+  "form_id": "00D7982B|DBM_RelicNotifications.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_PaintingTriggerHallofHeroes16"
+ },
+ {
+  "original": "Display",
+  "string": "Выставить",
+  "form_id": "00D7982B|DBM_RelicNotifications.esp",
+  "type": "ACTI RNAM",
+  "index": null,
+  "editor_id": "DBM_PaintingTriggerHallofHeroes16"
+ },
+ {
+  "original": "Painting 17",
+  "string": "Картина 17",
+  "form_id": "00D7982C|DBM_RelicNotifications.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_PaintingTriggerHallofHeroes17"
+ },
+ {
+  "original": "Display",
+  "string": "Выставить",
+  "form_id": "00D7982C|DBM_RelicNotifications.esp",
+  "type": "ACTI RNAM",
+  "index": null,
+  "editor_id": "DBM_PaintingTriggerHallofHeroes17"
+ },
+ {
+  "original": "Painting 18",
+  "string": "Картина 18",
+  "form_id": "00D7982D|DBM_RelicNotifications.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_PaintingTriggerHallofHeroes18"
+ },
+ {
+  "original": "Display",
+  "string": "Выставить",
+  "form_id": "00D7982D|DBM_RelicNotifications.esp",
+  "type": "ACTI RNAM",
+  "index": null,
+  "editor_id": "DBM_PaintingTriggerHallofHeroes18"
+ },
+ {
+  "original": "Painting 19",
+  "string": "Картина 19",
+  "form_id": "00D7982E|DBM_RelicNotifications.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_PaintingTriggerHallofHeroes19"
+ },
+ {
+  "original": "Display",
+  "string": "Выставить",
+  "form_id": "00D7982E|DBM_RelicNotifications.esp",
+  "type": "ACTI RNAM",
+  "index": null,
+  "editor_id": "DBM_PaintingTriggerHallofHeroes19"
+ },
+ {
+  "original": "Painting 21",
+  "string": "Картина 21",
+  "form_id": "00D79830|DBM_RelicNotifications.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_PaintingTriggerHallofHeroes21"
+ },
+ {
+  "original": "Display",
+  "string": "Выставить",
+  "form_id": "00D79830|DBM_RelicNotifications.esp",
+  "type": "ACTI RNAM",
+  "index": null,
+  "editor_id": "DBM_PaintingTriggerHallofHeroes21"
+ },
+ {
+  "original": "Painting 22",
+  "string": "Картина 22",
+  "form_id": "00D79831|DBM_RelicNotifications.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_PaintingTriggerHallofHeroes22"
+ },
+ {
+  "original": "Display",
+  "string": "Выставить",
+  "form_id": "00D79831|DBM_RelicNotifications.esp",
+  "type": "ACTI RNAM",
+  "index": null,
+  "editor_id": "DBM_PaintingTriggerHallofHeroes22"
+ },
+ {
+  "original": "Painting 23",
+  "string": "Картина 23",
+  "form_id": "00D79832|DBM_RelicNotifications.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_PaintingTriggerHallofHeroes23"
+ },
+ {
+  "original": "Display",
+  "string": "Выставить",
+  "form_id": "00D79832|DBM_RelicNotifications.esp",
+  "type": "ACTI RNAM",
+  "index": null,
+  "editor_id": "DBM_PaintingTriggerHallofHeroes23"
+ },
+ {
+  "original": "Painting 24",
+  "string": "Картина 24",
+  "form_id": "00D79833|DBM_RelicNotifications.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_PaintingTriggerHallofHeroes24"
+ },
+ {
+  "original": "Display",
+  "string": "Выставить",
+  "form_id": "00D79833|DBM_RelicNotifications.esp",
+  "type": "ACTI RNAM",
+  "index": null,
+  "editor_id": "DBM_PaintingTriggerHallofHeroes24"
+ },
+ {
+  "original": "Painting 25",
+  "string": "Картина 25",
+  "form_id": "00D79834|DBM_RelicNotifications.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_PaintingTriggerHallofHeroes25"
+ },
+ {
+  "original": "Display",
+  "string": "Выставить",
+  "form_id": "00D79834|DBM_RelicNotifications.esp",
+  "type": "ACTI RNAM",
+  "index": null,
+  "editor_id": "DBM_PaintingTriggerHallofHeroes25"
+ },
+ {
+  "original": "Painting 26",
+  "string": "Картина 26",
+  "form_id": "00D79835|DBM_RelicNotifications.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_PaintingTriggerHallofHeroes26"
+ },
+ {
+  "original": "Display",
+  "string": "Выставить",
+  "form_id": "00D79835|DBM_RelicNotifications.esp",
+  "type": "ACTI RNAM",
+  "index": null,
+  "editor_id": "DBM_PaintingTriggerHallofHeroes26"
+ },
+ {
+  "original": "Painting 27",
+  "string": "Картина 27",
+  "form_id": "00D79836|DBM_RelicNotifications.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_PaintingTriggerHallofHeroes27"
+ },
+ {
+  "original": "Display",
+  "string": "Выставить",
+  "form_id": "00D79836|DBM_RelicNotifications.esp",
+  "type": "ACTI RNAM",
+  "index": null,
+  "editor_id": "DBM_PaintingTriggerHallofHeroes27"
+ },
+ {
+  "original": "Painting 28",
+  "string": "Картина 28",
+  "form_id": "00D79837|DBM_RelicNotifications.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_PaintingTriggerHallofHeroes28"
+ },
+ {
+  "original": "Display",
+  "string": "Выставить",
+  "form_id": "00D79837|DBM_RelicNotifications.esp",
+  "type": "ACTI RNAM",
+  "index": null,
+  "editor_id": "DBM_PaintingTriggerHallofHeroes28"
+ },
+ {
+  "original": "Painting 29",
+  "string": "Картина 29",
+  "form_id": "00D79838|DBM_RelicNotifications.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_PaintingTriggerHallofHeroes29"
+ },
+ {
+  "original": "Display",
+  "string": "Выставить",
+  "form_id": "00D79838|DBM_RelicNotifications.esp",
+  "type": "ACTI RNAM",
+  "index": null,
+  "editor_id": "DBM_PaintingTriggerHallofHeroes29"
+ },
+ {
+  "original": "Painting 30",
+  "string": "Картина 30",
+  "form_id": "00D79839|DBM_RelicNotifications.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_PaintingTriggerHallofHeroes30"
+ },
+ {
+  "original": "Display",
+  "string": "Выставить",
+  "form_id": "00D79839|DBM_RelicNotifications.esp",
+  "type": "ACTI RNAM",
+  "index": null,
+  "editor_id": "DBM_PaintingTriggerHallofHeroes30"
+ },
+ {
+  "original": "Painting 31",
+  "string": "Картина 31",
+  "form_id": "00D7983A|DBM_RelicNotifications.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_PaintingTriggerHallofHeroes31"
+ },
+ {
+  "original": "Display",
+  "string": "Выставить",
+  "form_id": "00D7983A|DBM_RelicNotifications.esp",
+  "type": "ACTI RNAM",
+  "index": null,
+  "editor_id": "DBM_PaintingTriggerHallofHeroes31"
+ },
+ {
+  "original": "Painting 32",
+  "string": "Картина 32",
+  "form_id": "00D7983B|DBM_RelicNotifications.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_PaintingTriggerHallofHeroes32"
+ },
+ {
+  "original": "Display",
+  "string": "Выставить",
+  "form_id": "00D7983B|DBM_RelicNotifications.esp",
+  "type": "ACTI RNAM",
+  "index": null,
+  "editor_id": "DBM_PaintingTriggerHallofHeroes32"
+ },
+ {
+  "original": "Painting 33",
+  "string": "Картина 33",
+  "form_id": "00D7983C|DBM_RelicNotifications.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_PaintingTriggerHallofHeroes33"
+ },
+ {
+  "original": "Display",
+  "string": "Выставить",
+  "form_id": "00D7983C|DBM_RelicNotifications.esp",
+  "type": "ACTI RNAM",
+  "index": null,
+  "editor_id": "DBM_PaintingTriggerHallofHeroes33"
+ },
+ {
+  "original": "Painting 34",
+  "string": "Картина 34",
+  "form_id": "00D7983D|DBM_RelicNotifications.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_PaintingTriggerHallofHeroes34"
+ },
+ {
+  "original": "Display",
+  "string": "Выставить",
+  "form_id": "00D7983D|DBM_RelicNotifications.esp",
+  "type": "ACTI RNAM",
+  "index": null,
+  "editor_id": "DBM_PaintingTriggerHallofHeroes34"
+ },
+ {
+  "original": "Painting 35",
+  "string": "Картина 35",
+  "form_id": "00D7983E|DBM_RelicNotifications.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_PaintingTriggerHallofHeroes35"
+ },
+ {
+  "original": "Display",
+  "string": "Выставить",
+  "form_id": "00D7983E|DBM_RelicNotifications.esp",
+  "type": "ACTI RNAM",
+  "index": null,
+  "editor_id": "DBM_PaintingTriggerHallofHeroes35"
+ },
+ {
+  "original": "Painting 36",
+  "string": "Картина 36",
+  "form_id": "00D7983F|DBM_RelicNotifications.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_PaintingTriggerHallofHeroes36"
+ },
+ {
+  "original": "Display",
+  "string": "Выставить",
+  "form_id": "00D7983F|DBM_RelicNotifications.esp",
+  "type": "ACTI RNAM",
+  "index": null,
+  "editor_id": "DBM_PaintingTriggerHallofHeroes36"
+ },
+ {
+  "original": "Painting 37",
+  "string": "Картина 37",
+  "form_id": "00D79840|DBM_RelicNotifications.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_PaintingTriggerHallofHeroes37"
+ },
+ {
+  "original": "Display",
+  "string": "Выставить",
+  "form_id": "00D79840|DBM_RelicNotifications.esp",
+  "type": "ACTI RNAM",
+  "index": null,
+  "editor_id": "DBM_PaintingTriggerHallofHeroes37"
+ },
+ {
+  "original": "Painting 38",
+  "string": "Картина 38",
+  "form_id": "00D79841|DBM_RelicNotifications.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_PaintingTriggerHallofHeroes38"
+ },
+ {
+  "original": "Display",
+  "string": "Выставить",
+  "form_id": "00D79841|DBM_RelicNotifications.esp",
+  "type": "ACTI RNAM",
+  "index": null,
+  "editor_id": "DBM_PaintingTriggerHallofHeroes38"
+ },
+ {
+  "original": "Painting 39",
+  "string": "Картина 39",
+  "form_id": "00D79842|DBM_RelicNotifications.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_PaintingTriggerHallofHeroes39"
+ },
+ {
+  "original": "Display",
+  "string": "Выставить",
+  "form_id": "00D79842|DBM_RelicNotifications.esp",
+  "type": "ACTI RNAM",
+  "index": null,
+  "editor_id": "DBM_PaintingTriggerHallofHeroes39"
+ },
+ {
+  "original": "Painting 40",
+  "string": "Картина 40",
+  "form_id": "00D79843|DBM_RelicNotifications.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_PaintingTriggerHallofHeroes40"
+ },
+ {
+  "original": "Display",
+  "string": "Выставить",
+  "form_id": "00D79843|DBM_RelicNotifications.esp",
+  "type": "ACTI RNAM",
+  "index": null,
+  "editor_id": "DBM_PaintingTriggerHallofHeroes40"
+ },
+ {
+  "original": "Painting 41",
+  "string": "Картина 41",
+  "form_id": "00D79844|DBM_RelicNotifications.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_PaintingTriggerHallofHeroes41"
+ },
+ {
+  "original": "Display",
+  "string": "Выставить",
+  "form_id": "00D79844|DBM_RelicNotifications.esp",
+  "type": "ACTI RNAM",
+  "index": null,
+  "editor_id": "DBM_PaintingTriggerHallofHeroes41"
+ },
+ {
+  "original": "Painting 42",
+  "string": "Картина 42",
+  "form_id": "00D79845|DBM_RelicNotifications.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_PaintingTriggerHallofHeroes42"
+ },
+ {
+  "original": "Display",
+  "string": "Выставить",
+  "form_id": "00D79845|DBM_RelicNotifications.esp",
+  "type": "ACTI RNAM",
+  "index": null,
+  "editor_id": "DBM_PaintingTriggerHallofHeroes42"
+ },
+ {
+  "original": "Cloak of the Curator",
+  "string": "Плащ куратора",
+  "form_id": "009B2433|DBM_RelicNotifications.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "ArmorCloakTCC"
+ },
+ {
+  "original": "Backpack of the Curator (replica)",
+  "string": "Рюкзак куратора (копия)",
+  "form_id": "00D23687|DBM_RelicNotifications.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "TCCBackpackReplica"
+ },
+ {
+  "original": "Cloak of the Curator (replica)",
+  "string": "Плащ куратора (копия)",
+  "form_id": "00A40105|DBM_RelicNotifications.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "TCCCloakReplica"
+ },
+ {
+  "original": "Shield of the Curator",
+  "string": "Щит куратора",
+  "form_id": "00998EBD|DBM_RelicNotifications.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "ArmorShieldTCC"
+ },
+ {
+  "original": "Shield of the Curator (replica)",
+  "string": "Щит куратора (копия)",
+  "form_id": "00A40104|DBM_RelicNotifications.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "TCCShieldReplica"
+ },
+ {
+  "original": "Backpack of the Curator",
+  "string": "Рюкзак куратора",
+  "form_id": "00D23685|DBM_RelicNotifications.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "ArmorBackpackTCC"
+ },
+ {
+  "original": "00FFFFFF",
+  "string": "00FFFFFF",
+  "form_id": "00E8AF68|DBM_RelicNotifications.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "NotificationColour"
+ },
+ {
+  "original": "Spell Tome: Relic Storage Container",
+  "string": "Том заклинания: Хранилище реликвий",
+  "form_id": "00B058DF|DBM_RelicNotifications.esp",
+  "type": "BOOK FULL",
+  "index": null,
+  "editor_id": "RN_RSC_SpellTome"
+ },
+ {
+  "original": "<font face'$HandwrittenFont'><font size='40'><p align='center'>\r\nRelic Storage Container",
+  "string": "<font face'$HandwrittenFont'><font size='40'><p align='center'>\r\nХранилище реликвий",
+  "form_id": "00B058DF|DBM_RelicNotifications.esp",
+  "type": "BOOK DESC",
+  "index": null,
+  "editor_id": "RN_RSC_SpellTome"
+ },
+ {
+  "original": "Spell Tome: Transfer Relics",
+  "string": "Том заклинания: Перенос реликвий",
+  "form_id": "00B74F44|DBM_RelicNotifications.esp",
+  "type": "BOOK FULL",
+  "index": null,
+  "editor_id": "RN_TransferContainer_SpellTome"
+ },
+ {
+  "original": "<font face'$HandwrittenFont'><font size='40'><p align='center'>\r\nTransfer Relics",
+  "string": "<font face'$HandwrittenFont'><font size='40'><p align='center'>\r\nПеренести реликвии",
+  "form_id": "00B74F44|DBM_RelicNotifications.esp",
+  "type": "BOOK DESC",
+  "index": null,
+  "editor_id": "RN_TransferContainer_SpellTome"
+ },
+ {
+  "original": "The Adventures of Auryen and Patero Vol. 3 (replica)",
+  "string": "Приключения Ауриена и Патеро, том 3 (копия)",
+  "form_id": "00C9AAC0|DBM_RelicNotifications.esp",
+  "type": "BOOK FULL",
+  "index": null,
+  "editor_id": "StorybookTCCREPLICA"
+ },
+ {
+  "original": "[pagebreak]\r\n<p align=\"center\">\r\n\r\nThe Adventures of Auryen and Patero \r\nVol. 3\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n<font size='20'>Copyright 3E363 Gwylim University Press</font>\r\n\r\n</p>\r\n[pagebreak]\r\n<font size='20'><img src='img://Textures/Interface/Books/Illuminated_Letters/O_letter_LL.png'>nce upon a time there lived a wise Altmer named Auryen.\r\n\r\nHe was so wise that he taught at the most important school in all of Tamriel.\r\n\r\nAuryen had many students, but the bravest and most curious was a Bosmer named Patero.\r\n\r\nOne day while studying in the library, Patero found an ancient map written in a language he had never seen before.\r\n\r\nRecognizing how old the language was, Patero asked Auryen to translate it for him.\r\n\r\nAuryen, after careful study, gave Patero the following instructions:\r\n\r\nTurn to the left where the path crosses the river.\r\n\r\nWhere Nirn's jagged teeth protrude, tread not on softer ground.\r\n\r\nWhen tunnels turn and twist, turn away from the false light.\r\n\r\nLeave the eggs undisturbed.\r\n\r\nDreaming of the treasure he might find, Patero gathered everything he would need for the expedition.\r\n\r\nHe gathered torches, lockpicks, a sturdy backpack, a dagger, his favorite pickaxe and shovel, and some snacks of course!\r\n\r\nThe next morning Patero set out along the route marked by the map. After a few hours his path crossed a river.\r\n\r\nNoting this connection to the instructions in his trusty journal, he continued along the left path.\r\n\r\nSome time later, Patero came to a field of giant rocks and mossy soil, between him and the entrance of his destination, a large foreboding cave.\r\n\r\nRemembering his instructions, Patero carefully hopped from rock to rock taking care not to touch the moss.\r\n\r\nA few steps from the cave, Patero slipped! And his foot fell firmly on a patch of moss.\r\n\r\nHe quickly stepped back, but not before the moss released a cloud of foul smelling, but otherwise harmless gas.\r\n\r\nLaughing at himself for taking the instructions so seriously, Patero continued on.\r\n\r\nPatero entered the cave, dreaming of the treasures within.\r\n\r\nHe walked for what seemed like days, and eventually came to a fork in the tunnels.\r\n\r\nOne way looked straight and easy to pass through. It was faintly lit by a bit of glowing rock.\r\n\r\nThe other path was pitch black, but from the light of his torch, Patero could see that it could be crossed, but it was treacherous.\r\n\r\nRemembering how harmless the moss had been, Patero decided to see where the path with the glowing rocks went.\r\n\r\nHe walked quickly along the even, brightly lit path and almost didn't notice the slight downward slope.\r\n\r\nBefore he knew what was happening Patero had tumbled into a lake so still that it looked just like the floor of the tunnel.\r\n\r\nBut with the first ripple of disturbance, a horrible giant tentacle emerged from the bottom of the lake and attacked!\r\n\r\nAfter fighting off the aggressive tentacle with his dagger, Patero ran all the way back to the entrance of the glowing tunnel.\r\n\r\nHe stopped to rest for a moment and ate the last of his snacks.\r\n\r\nHe thought about turning back and getting more snacks, but feeling that he was so close to his prize, he decided to press on.\r\n\r\nAfter hours of carefully navigating the pitch-dark path, he came out into a large circular room, filled with nests.\r\n\r\nWhile there were no creatures to be seen, each nest had a gleaming pile of tasty looking eggs.\r\n\r\nExhausted from all of the exercise, Patero built a small fire out of some of the nest twigs, and hungrily eyed the eggs.\r\n\r\nHe knew the instructions said not to disturb them, but he was so hungry that he couldn't help himself.\r\n\r\nThinking whatever creatures they belonged to wouldn't miss just one, he made a delicious fried egg.\r\n\r\nAs he was finishing he began to hear a scratching sound, followed by a chitter, then another, and another.\r\n\r\nHe had just enough time to hide himself behind one of the nests before a swarm of angry Dreugh flooded the cavern.\r\n\r\n\"Damn bugs!\" he muttered, keeping himself concealed.\r\n\r\nMeanwhile, back at the school, Auryen had noticed that Patero was missing from class for several days.\r\n\r\nWorried for his safety, he set out that afternoon to try to find him.\r\n\r\nRemembering the map and it's instructions, Auryen turned left at the river, hopped over the rocks, and carefully navigated the pitch-dark path,\r\n\r\nstopping just before the crowd of angry bug-like Dreugh.\r\n\r\nFearing the worst, Auryen drew his sword, Aedrasorn, and summoned a ball of flame with his other hand.\r\n\r\nWithin minutes, what was left of the horde of nasty Dreugh had fled, and the rest were in charred bits on the floor.\r\n\r\nPatero sheepishly came out of hiding and confessed to not following all of the directions.\r\n\r\nAfter a bit of hunting, the pair finally found the \"treasure\" buried within the largest nest.\r\n\r\nUnfortunately, being a book, it had been somewhat singed by Auryen's spirited defense.\r\n\r\nAll they could make out was part of the title \"... Full Guide\".\r\n\r\nDisappointed, Auryen and Patero brought the book back to the university to see if it could be magically repaired.\r\n\r\nPatero swore then that he would always follow directions to the letter in the future.\r\n\r\nAnd so he did.</font>\r\n",
+  "string": "[pagebreak]\r\n<p align=\"center\">\r\n\r\nПриключения Ауриена и Патеро\r\nТом 3\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n<font size='20'>Copyright 3E363, издательство Гвилимского университета</font>\r\n\r\n</p>\r\n[pagebreak]\r\n<font size='20'>Жил-был однажды мудрый альтмер по имени Ауриен.\r\n\r\nОн был так мудр, что преподавал в самой главной школе во всем Тамриэле.\r\n\r\nУ Ауриена было много учеников, но самым храбрым и любознательным из них был босмер по имени Патеро.\r\n\r\nКак-то раз, занимаясь в библиотеке, Патеро нашел древнюю карту, написанную на языке, которого он прежде никогда не видел.\r\n\r\nПоняв, насколько этот язык древний, Патеро попросил Ауриена перевести карту.\r\n\r\nТщательно изучив ее, Ауриен дал Патеро такие указания:\r\n\r\nСверни налево там, где тропа пересекает реку.\r\n\r\nГде торчат острые зубы Нирна, не ступай на мягкую землю.\r\n\r\nГде туннели вьются и петляют, отвернись от ложного света.\r\n\r\nНе тревожь яйца.\r\n\r\nМечтая о сокровище, которое он, быть может, найдет, Патеро собрал все, что понадобится ему в походе.\r\n\r\nОн взял факелы, отмычки, крепкий рюкзак, кинжал, свою любимую кирку и лопату и, конечно же, немного еды в дорогу!\r\n\r\nНа следующее утро Патеро отправился в путь по отмеченному на карте маршруту. Через несколько часов его тропа пересекла реку.\r\n\r\nОтметив это совпадение с указаниями в своем верном дневнике, он свернул на левую тропу.\r\n\r\nСпустя некоторое время Патеро вышел к полю, усеянному огромными камнями и поросшему мхом. Оно лежало между ним и входом в цель его путешествия - большую зловещую пещеру.\r\n\r\nПомня указания, Патеро осторожно перепрыгивал с камня на камень, стараясь не касаться мха.\r\n\r\nВ нескольких шагах от пещеры Патеро поскользнулся! И его нога твердо опустилась прямо на мох.\r\n\r\nОн быстро отступил назад, но мох все-таки успел выпустить облако зловонного, но в остальном безобидного газа.\r\n\r\nПосмеявшись над собой за то, что так серьезно отнесся к указаниям, Патеро двинулся дальше.\r\n\r\nПатеро вошел в пещеру, мечтая о спрятанных в ней сокровищах.\r\n\r\nОн шел, казалось, несколько дней и наконец добрался до развилки туннелей.\r\n\r\nОдин путь выглядел прямым и легким. Его тускло освещали светящиеся камни.\r\n\r\nДругой путь был погружен в непроглядную тьму, и в свете факела Патеро разглядел, что пройти по нему можно, но опасно.\r\n\r\nВспомнив, каким безобидным оказался мох, Патеро решил посмотреть, куда ведет путь со светящимися камнями.\r\n\r\nОн быстро шагал по ровной, ярко освещенной тропе и почти не заметил, что она слегка уходит вниз.\r\n\r\nНе успел он опомниться, как свалился в озеро, вода в котором была так неподвижна, что казалась продолжением пола туннеля.\r\n\r\nНо едва по воде пробежала первая рябь, со дна озера поднялось жуткое огромное щупальце и набросилось на него!\r\n\r\nОтбившись от свирепого щупальца кинжалом, Патеро бегом вернулся к самому входу в светящийся туннель.\r\n\r\nОн остановился немного передохнуть и доел остатки своих припасов.\r\n\r\nОн подумал было вернуться и запастись едой, но, чувствуя, что награда уже совсем близко, решил идти дальше.\r\n\r\nПосле долгих часов осторожного пути по непроглядно темной тропе он вышел в большой круглый зал, полный гнезд.\r\n\r\nНикаких существ видно не было, но в каждом гнезде блестела груда аппетитных на вид яиц.\r\n\r\nУтомленный всеми этими испытаниями, Патеро развел небольшой костер из веточек гнезда и стал голодными глазами смотреть на яйца.\r\n\r\nОн знал, что в указаниях сказано их не тревожить, но был так голоден, что не смог удержаться.\r\n\r\nПодумав, что хозяева яиц, кем бы они ни были, не хватятся одного-единственного, он приготовил себе восхитительную яичницу.\r\n\r\nКогда он доедал ее, послышался скрежет, затем стрекот, потом еще и еще.\r\n\r\nОн едва успел спрятаться за одним из гнезд, прежде чем впадину заполонил рой разъяренных дреугов.\r\n\r\n\"Проклятые букашки!\" - пробормотал он, не высовываясь из укрытия.\r\n\r\nТем временем в школе Ауриен заметил, что Патеро уже несколько дней не появляется на занятиях.\r\n\r\nВстревожившись за него, он в тот же день отправился на поиски.\r\n\r\nПомня карту и ее указания, Ауриен свернул налево у реки, перепрыгнул через камни, осторожно прошел по непроглядно темной тропе\r\n\r\nи остановился прямо перед толпой разъяренных, похожих на насекомых дреугов.\r\n\r\nОпасаясь худшего, Ауриен выхватил свой меч Эйдрасорн, а другой рукой сотворил огненный шар.\r\n\r\nЧерез несколько минут от орды мерзких дреугов осталось лишь несколько беглецов, а остальные лежали на полу обугленными кусками.\r\n\r\nПристыженный Патеро вышел из укрытия и признался, что выполнил не все указания.\r\n\r\nНемного поискав, они наконец нашли \"сокровище\", зарытое в самом большом гнезде.\r\n\r\nК несчастью, это была книга, и она изрядно обгорела во время пылкой обороны Ауриена.\r\n\r\nВсе, что удалось разобрать, - это часть заглавия: \"...Полное руководство\".\r\n\r\nРазочарованные, Ауриен и Патеро отнесли книгу в университет, чтобы узнать, нельзя ли восстановить ее с помощью магии.\r\n\r\nИ тогда Патеро поклялся впредь всегда следовать указаниям до последней буквы.\r\n\r\nТак он и делал.</font>\r\n",
+  "form_id": "00C9AAC0|DBM_RelicNotifications.esp",
+  "type": "BOOK DESC",
+  "index": null,
+  "editor_id": "StorybookTCCREPLICA"
+ },
+ {
+  "original": "The Adventures of Auryen and Patero Vol. 3",
+  "string": "Приключения Ауриена и Патеро, том 3",
+  "form_id": "00A034AC|DBM_RelicNotifications.esp",
+  "type": "BOOK FULL",
+  "index": null,
+  "editor_id": "StorybookTCC"
+ },
+ {
+  "original": "[pagebreak]\r\n<p align=\"center\">\r\n\r\nThe Adventures of Auryen and Patero \r\nVol. 3\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n<font size='20'>Copyright 3E363 Gwylim University Press</font>\r\n\r\n</p>\r\n[pagebreak]\r\n<font size='20'><img src='img://Textures/Interface/Books/Illuminated_Letters/O_letter_LL.png'>nce upon a time there lived a wise Altmer named Auryen.\r\n\r\nHe was so wise that he taught at the most important school in all of Tamriel.\r\n\r\nAuryen had many students, but the bravest and most curious was a Bosmer named Patero.\r\n\r\nOne day while studying in the library, Patero found an ancient map written in a language he had never seen before.\r\n\r\nRecognizing how old the language was, Patero asked Auryen to translate it for him.\r\n\r\nAuryen, after careful study, gave Patero the following instructions:\r\n\r\nTurn to the left where the path crosses the river.\r\n\r\nWhere Nirn's jagged teeth protrude, tread not on softer ground.\r\n\r\nWhen tunnels turn and twist, turn away from the false light.\r\n\r\nLeave the eggs undisturbed.\r\n\r\nDreaming of the treasure he might find, Patero gathered everything he would need for the expedition.\r\n\r\nHe gathered torches, lockpicks, a sturdy backpack, a dagger, his favorite pickaxe and shovel, and some snacks of course!\r\n\r\nThe next morning Patero set out along the route marked by the map. After a few hours his path crossed a river.\r\n\r\nNoting this connection to the instructions in his trusty journal, he continued along the left path.\r\n\r\nSome time later, Patero came to a field of giant rocks and mossy soil, between him and the entrance of his destination, a large foreboding cave.\r\n\r\nRemembering his instructions, Patero carefully hopped from rock to rock taking care not to touch the moss.\r\n\r\nA few steps from the cave, Patero slipped! And his foot fell firmly on a patch of moss.\r\n\r\nHe quickly stepped back, but not before the moss released a cloud of foul smelling, but otherwise harmless gas.\r\n\r\nLaughing at himself for taking the instructions so seriously, Patero continued on.\r\n\r\nPatero entered the cave, dreaming of the treasures within.\r\n\r\nHe walked for what seemed like days, and eventually came to a fork in the tunnels.\r\n\r\nOne way looked straight and easy to pass through. It was faintly lit by a bit of glowing rock.\r\n\r\nThe other path was pitch black, but from the light of his torch, Patero could see that it could be crossed, but it was treacherous.\r\n\r\nRemembering how harmless the moss had been, Patero decided to see where the path with the glowing rocks went.\r\n\r\nHe walked quickly along the even, brightly lit path and almost didn't notice the slight downward slope.\r\n\r\nBefore he knew what was happening Patero had tumbled into a lake so still that it looked just like the floor of the tunnel.\r\n\r\nBut with the first ripple of disturbance, a horrible giant tentacle emerged from the bottom of the lake and attacked!\r\n\r\nAfter fighting off the aggressive tentacle with his dagger, Patero ran all the way back to the entrance of the glowing tunnel.\r\n\r\nHe stopped to rest for a moment and ate the last of his snacks.\r\n\r\nHe thought about turning back and getting more snacks, but feeling that he was so close to his prize, he decided to press on.\r\n\r\nAfter hours of carefully navigating the pitch-dark path, he came out into a large circular room, filled with nests.\r\n\r\nWhile there were no creatures to be seen, each nest had a gleaming pile of tasty looking eggs.\r\n\r\nExhausted from all of the exercise, Patero built a small fire out of some of the nest twigs, and hungrily eyed the eggs.\r\n\r\nHe knew the instructions said not to disturb them, but he was so hungry that he couldn't help himself.\r\n\r\nThinking whatever creatures they belonged to wouldn't miss just one, he made a delicious fried egg.\r\n\r\nAs he was finishing he began to hear a scratching sound, followed by a chitter, then another, and another.\r\n\r\nHe had just enough time to hide himself behind one of the nests before a swarm of angry Dreugh flooded the cavern.\r\n\r\n\"Damn bugs!\" he muttered, keeping himself concealed.\r\n\r\nMeanwhile, back at the school, Auryen had noticed that Patero was missing from class for several days.\r\n\r\nWorried for his safety, he set out that afternoon to try to find him.\r\n\r\nRemembering the map and it's instructions, Auryen turned left at the river, hopped over the rocks, and carefully navigated the pitch-dark path,\r\n\r\nstopping just before the crowd of angry bug-like Dreugh.\r\n\r\nFearing the worst, Auryen drew his sword, Aedrasorn, and summoned a ball of flame with his other hand.\r\n\r\nWithin minutes, what was left of the horde of nasty Dreugh had fled, and the rest were in charred bits on the floor.\r\n\r\nPatero sheepishly came out of hiding and confessed to not following all of the directions.\r\n\r\nAfter a bit of hunting, the pair finally found the \"treasure\" buried within the largest nest.\r\n\r\nUnfortunately, being a book, it had been somewhat singed by Auryen's spirited defense.\r\n\r\nAll they could make out was part of the title \"... Full Guide\".\r\n\r\nDisappointed, Auryen and Patero brought the book back to the university to see if it could be magically repaired.\r\n\r\nPatero swore then that he would always follow directions to the letter in the future.\r\n\r\nAnd so he did.</font>",
+  "string": "[pagebreak]\r\n<p align=\"center\">\r\n\r\nПриключения Ауриена и Патеро\r\nТом 3\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n<font size='20'>Copyright 3E363, издательство Гвилимского университета</font>\r\n\r\n</p>\r\n[pagebreak]\r\n<font size='20'>Жил-был однажды мудрый альтмер по имени Ауриен.\r\n\r\nОн был так мудр, что преподавал в самой главной школе во всем Тамриэле.\r\n\r\nУ Ауриена было много учеников, но самым храбрым и любознательным из них был босмер по имени Патеро.\r\n\r\nКак-то раз, занимаясь в библиотеке, Патеро нашел древнюю карту, написанную на языке, которого он прежде никогда не видел.\r\n\r\nПоняв, насколько этот язык древний, Патеро попросил Ауриена перевести карту.\r\n\r\nТщательно изучив ее, Ауриен дал Патеро такие указания:\r\n\r\nСверни налево там, где тропа пересекает реку.\r\n\r\nГде торчат острые зубы Нирна, не ступай на мягкую землю.\r\n\r\nГде туннели вьются и петляют, отвернись от ложного света.\r\n\r\nНе тревожь яйца.\r\n\r\nМечтая о сокровище, которое он, быть может, найдет, Патеро собрал все, что понадобится ему в походе.\r\n\r\nОн взял факелы, отмычки, крепкий рюкзак, кинжал, свою любимую кирку и лопату и, конечно же, немного еды в дорогу!\r\n\r\nНа следующее утро Патеро отправился в путь по отмеченному на карте маршруту. Через несколько часов его тропа пересекла реку.\r\n\r\nОтметив это совпадение с указаниями в своем верном дневнике, он свернул на левую тропу.\r\n\r\nСпустя некоторое время Патеро вышел к полю, усеянному огромными камнями и поросшему мхом. Оно лежало между ним и входом в цель его путешествия - большую зловещую пещеру.\r\n\r\nПомня указания, Патеро осторожно перепрыгивал с камня на камень, стараясь не касаться мха.\r\n\r\nВ нескольких шагах от пещеры Патеро поскользнулся! И его нога твердо опустилась прямо на мох.\r\n\r\nОн быстро отступил назад, но мох все-таки успел выпустить облако зловонного, но в остальном безобидного газа.\r\n\r\nПосмеявшись над собой за то, что так серьезно отнесся к указаниям, Патеро двинулся дальше.\r\n\r\nПатеро вошел в пещеру, мечтая о спрятанных в ней сокровищах.\r\n\r\nОн шел, казалось, несколько дней и наконец добрался до развилки туннелей.\r\n\r\nОдин путь выглядел прямым и легким. Его тускло освещали светящиеся камни.\r\n\r\nДругой путь был погружен в непроглядную тьму, и в свете факела Патеро разглядел, что пройти по нему можно, но опасно.\r\n\r\nВспомнив, каким безобидным оказался мох, Патеро решил посмотреть, куда ведет путь со светящимися камнями.\r\n\r\nОн быстро шагал по ровной, ярко освещенной тропе и почти не заметил, что она слегка уходит вниз.\r\n\r\nНе успел он опомниться, как свалился в озеро, вода в котором была так неподвижна, что казалась продолжением пола туннеля.\r\n\r\nНо едва по воде пробежала первая рябь, со дна озера поднялось жуткое огромное щупальце и набросилось на него!\r\n\r\nОтбившись от свирепого щупальца кинжалом, Патеро бегом вернулся к самому входу в светящийся туннель.\r\n\r\nОн остановился немного передохнуть и доел остатки своих припасов.\r\n\r\nОн подумал было вернуться и запастись едой, но, чувствуя, что награда уже совсем близко, решил идти дальше.\r\n\r\nПосле долгих часов осторожного пути по непроглядно темной тропе он вышел в большой круглый зал, полный гнезд.\r\n\r\nНикаких существ видно не было, но в каждом гнезде блестела груда аппетитных на вид яиц.\r\n\r\nУтомленный всеми этими испытаниями, Патеро развел небольшой костер из веточек гнезда и стал голодными глазами смотреть на яйца.\r\n\r\nОн знал, что в указаниях сказано их не тревожить, но был так голоден, что не смог удержаться.\r\n\r\nПодумав, что хозяева яиц, кем бы они ни были, не хватятся одного-единственного, он приготовил себе восхитительную яичницу.\r\n\r\nКогда он доедал ее, послышался скрежет, затем стрекот, потом еще и еще.\r\n\r\nОн едва успел спрятаться за одним из гнезд, прежде чем впадину заполонил рой разъяренных дреугов.\r\n\r\n\"Проклятые букашки!\" - пробормотал он, не высовываясь из укрытия.\r\n\r\nТем временем в школе Ауриен заметил, что Патеро уже несколько дней не появляется на занятиях.\r\n\r\nВстревожившись за него, он в тот же день отправился на поиски.\r\n\r\nПомня карту и ее указания, Ауриен свернул налево у реки, перепрыгнул через камни, осторожно прошел по непроглядно темной тропе\r\n\r\nи остановился прямо перед толпой разъяренных, похожих на насекомых дреугов.\r\n\r\nОпасаясь худшего, Ауриен выхватил свой меч Эйдрасорн, а другой рукой сотворил огненный шар.\r\n\r\nЧерез несколько минут от орды мерзких дреугов осталось лишь несколько беглецов, а остальные лежали на полу обугленными кусками.\r\n\r\nПристыженный Патеро вышел из укрытия и признался, что выполнил не все указания.\r\n\r\nНемного поискав, они наконец нашли \"сокровище\", зарытое в самом большом гнезде.\r\n\r\nК несчастью, это была книга, и она изрядно обгорела во время пылкой обороны Ауриена.\r\n\r\nВсе, что удалось разобрать, - это часть заглавия: \"...Полное руководство\".\r\n\r\nРазочарованные, Ауриен и Патеро отнесли книгу в университет, чтобы узнать, нельзя ли восстановить ее с помощью магии.\r\n\r\nИ тогда Патеро поклялся впредь всегда следовать указаниям до последней буквы.\r\n\r\nТак он и делал.</font>",
+  "form_id": "00A034AC|DBM_RelicNotifications.esp",
+  "type": "BOOK DESC",
+  "index": null,
+  "editor_id": "StorybookTCC"
+ },
+ {
+  "original": "Excluded Items",
+  "string": "Исключенные предметы",
+  "form_id": "006C9D04|DBM_RelicNotifications.esp",
+  "type": "CONT FULL",
+  "index": null,
+  "editor_id": "RN_Excluded_Container"
+ },
+ {
+  "original": "Achievements Rewards",
+  "string": "Награды за достижения",
+  "form_id": "009A30EC|DBM_RelicNotifications.esp",
+  "type": "CONT FULL",
+  "index": null,
+  "editor_id": "TCC_Achievements_Container"
+ },
+ {
+  "original": "The Curators Companion",
+  "string": "Спутник куратора",
+  "form_id": "00A2BCDE|DBM_RelicNotifications.esp",
+  "type": "CONT FULL",
+  "index": null,
+  "editor_id": "TCC_Achievements_CheatCrate"
+ },
+ {
+  "original": "Relic Storage Container",
+  "string": "Хранилище реликвий",
+  "form_id": "00344748|DBM_RelicNotifications.esp",
+  "type": "CONT FULL",
+  "index": null,
+  "editor_id": "RN_Storage_Container"
+ },
+ {
+  "original": "Mini Fafnir (replica)",
+  "string": "Мини-Фафнир (копия)",
+  "form_id": "00A40106|DBM_RelicNotifications.esp",
+  "type": "MISC FULL",
+  "index": null,
+  "editor_id": "TCCFafnirTeddyReplica"
+ },
+ {
+  "original": "Mini Fafnir",
+  "string": "Мини-Фафнир",
+  "form_id": "009B2414|DBM_RelicNotifications.esp",
+  "type": "MISC FULL",
+  "index": null,
+  "editor_id": "TCCFafnirTeddy"
+ },
+ {
+  "original": "Jade Museum Logo",
+  "string": "Эмблема Нефритового музея",
+  "form_id": "00C02C0C|DBM_RelicNotifications.esp",
+  "type": "MISC FULL",
+  "index": null,
+  "editor_id": "TCCJadeMuseumLogo"
+ },
+ {
+  "original": "Curators Storage Token",
+  "string": "Жетон хранилища куратора",
+  "form_id": "005BD6F0|DBM_RelicNotifications.esp",
+  "type": "MISC FULL",
+  "index": null,
+  "editor_id": "TCCToken"
+ },
+ {
+  "original": "Blade of the Curator",
+  "string": "Клинок куратора",
+  "form_id": "00998EBE|DBM_RelicNotifications.esp",
+  "type": "WEAP FULL",
+  "index": null,
+  "editor_id": "WeapSwordTCC"
+ },
+ {
+  "original": "Staff of the Curator",
+  "string": "Посох куратора",
+  "form_id": "009B2431|DBM_RelicNotifications.esp",
+  "type": "WEAP FULL",
+  "index": null,
+  "editor_id": "WeapStaffTCC"
+ },
+ {
+  "original": "Blade of the Curator (replica)",
+  "string": "Клинок куратора (копия)",
+  "form_id": "00A40102|DBM_RelicNotifications.esp",
+  "type": "WEAP FULL",
+  "index": null,
+  "editor_id": "TCCBladeReplica"
+ },
+ {
+  "original": "Staff of the Curator (replica)",
+  "string": "Посох куратора (копия)",
+  "form_id": "00A40103|DBM_RelicNotifications.esp",
+  "type": "WEAP FULL",
+  "index": null,
+  "editor_id": "TCCStaffReplica"
+ },
+ {
+  "original": "Cherry Bakewell",
+  "string": "Вишневый тарт",
+  "form_id": "00BF38F8|DBM_RelicNotifications.esp",
+  "type": "ALCH FULL",
+  "index": null,
+  "editor_id": "TCC_CherryBakewell"
+ },
+ {
+  "original": "I found this storybook in the Library, do you know anything about it?",
+  "string": "Мне попалась в библиотеке эта книжка со сказками. Ты что-нибудь о ней знаешь?",
+  "form_id": "00C8159B|DBM_RelicNotifications.esp",
+  "type": "DIAL FULL",
+  "index": null,
+  "editor_id": "TCC_StorytimeBranchTopic"
+ },
+ {
+  "original": "Oh my, yes. This was published as a cautionary tale for students during my days as a teacher.",
+  "string": "О да, конечно. Эту книгу издали как поучительную историю для студентов, когда я еще преподавал.",
+  "form_id": "00CAEEE5|DBM_RelicNotifications.esp",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "As with all good stories, this one does have a grain of truth. Would you like me to read it to you?",
+  "string": "Как и в любой хорошей истории, в этой есть доля правды. Хочешь, я тебе ее прочитаю?",
+  "form_id": "00CAEEE5|DBM_RelicNotifications.esp",
+  "type": "INFO NAM1",
+  "index": 2,
+  "editor_id": null
+ },
+ {
+  "original": "(Clears throat)",
+  "string": "*Откашливается*",
+  "form_id": "00C8159F|DBM_RelicNotifications.esp",
+  "type": "INFO NAM1",
+  "index": 5,
+  "editor_id": null
+ },
+ {
+  "original": "Once upon a time there lived a wise Altmer named Auryen.",
+  "string": "Жил-был однажды мудрый альтмер по имени Ауриен.",
+  "form_id": "00C8159F|DBM_RelicNotifications.esp",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "He was so wise that he taught at the most important school in all of Tamriel.",
+  "string": "Он был так мудр, что преподавал в самой главной школе всего Тамриэля.",
+  "form_id": "00C8159F|DBM_RelicNotifications.esp",
+  "type": "INFO NAM1",
+  "index": 2,
+  "editor_id": null
+ },
+ {
+  "original": "Auryen had many students, but the bravest and most curious was a Bosmer named Patero.",
+  "string": "У Ауриена было много учеников, но самым храбрым и любознательным был босмер по имени Патеро.",
+  "form_id": "00C8159F|DBM_RelicNotifications.esp",
+  "type": "INFO NAM1",
+  "index": 3,
+  "editor_id": null
+ },
+ {
+  "original": "One day while studying in the library, Patero found an ancient map written in a language he had never seen before.",
+  "string": "Однажды, занимаясь в библиотеке, Патеро нашел древнюю карту, написанную на языке, которого он никогда прежде не видел.",
+  "form_id": "00C8159F|DBM_RelicNotifications.esp",
+  "type": "INFO NAM1",
+  "index": 4,
+  "editor_id": null
+ },
+ {
+  "original": "Recognizing how old the language was, Patero asked Auryen to translate it for him.",
+  "string": "Поняв, насколько древний этот язык, Патеро попросил Ауриена перевести карту для него.",
+  "form_id": "00C8159F|DBM_RelicNotifications.esp",
+  "type": "INFO NAM1",
+  "index": 6,
+  "editor_id": null
+ },
+ {
+  "original": "Auryen, after careful study, gave Patero the following instructions:",
+  "string": "Внимательно изучив ее, Ауриен дал Патеро такие указания:",
+  "form_id": "00C8159F|DBM_RelicNotifications.esp",
+  "type": "INFO NAM1",
+  "index": 7,
+  "editor_id": null
+ },
+ {
+  "original": "Turn to the left where the path crosses the river.",
+  "string": "Там, где тропа пересекает реку, поверни налево.",
+  "form_id": "00C8159F|DBM_RelicNotifications.esp",
+  "type": "INFO NAM1",
+  "index": 8,
+  "editor_id": null
+ },
+ {
+  "original": "Where Nirn's jagged teeth protrude, tread not on softer ground.",
+  "string": "Где торчат зазубренные зубы Нирна, не ступай на мягкую землю.",
+  "form_id": "00C8159F|DBM_RelicNotifications.esp",
+  "type": "INFO NAM1",
+  "index": 9,
+  "editor_id": null
+ },
+ {
+  "original": "When tunnels turn and twist, turn away from the false light.",
+  "string": "Где туннели вьются и петляют, отвернись от ложного света.",
+  "form_id": "00C8159F|DBM_RelicNotifications.esp",
+  "type": "INFO NAM1",
+  "index": 10,
+  "editor_id": null
+ },
+ {
+  "original": "Leave the eggs undisturbed.",
+  "string": "Не трогай яйца.",
+  "form_id": "00C8159F|DBM_RelicNotifications.esp",
+  "type": "INFO NAM1",
+  "index": 11,
+  "editor_id": null
+ },
+ {
+  "original": "Dreaming of the treasure he might find, Patero gathered everything he would need for the expedition.",
+  "string": "Мечтая о сокровищах, которые он может найти, Патеро собрал все, что понадобится ему в экспедиции.",
+  "form_id": "00C9FBCC|DBM_RelicNotifications.esp",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "He gathered torches, lockpicks, a sturdy backpack, a dagger, his favorite pickaxe and shovel, and some snacks of course!",
+  "string": "Он взял факелы, отмычки, крепкий рюкзак, кинжал, любимые кирку и лопату и, конечно же, немного еды в дорогу!",
+  "form_id": "00C9FBCC|DBM_RelicNotifications.esp",
+  "type": "INFO NAM1",
+  "index": 2,
+  "editor_id": null
+ },
+ {
+  "original": "The next morning Patero set out along the route marked by the map. After a few hours his path crossed a river.",
+  "string": "Следующим утром Патеро отправился в путь по маршруту, отмеченному на карте. Через несколько часов его тропа пересекла реку.",
+  "form_id": "00C9FBCC|DBM_RelicNotifications.esp",
+  "type": "INFO NAM1",
+  "index": 3,
+  "editor_id": null
+ },
+ {
+  "original": "Noting this connection to the instructions in his trusty journal, he continued along the left path.",
+  "string": "Отметив в своем верном дневнике, что это совпадает с указаниями, он пошел по левой тропе.",
+  "form_id": "00C9FBCC|DBM_RelicNotifications.esp",
+  "type": "INFO NAM1",
+  "index": 4,
+  "editor_id": null
+ },
+ {
+  "original": "Some time later, Patero came to a field of giant rocks and mossy soil, between him and the entrance of his destination, a large foreboding cave.",
+  "string": "Некоторое время спустя Патеро вышел к полю огромных камней и мшистой земли, которое отделяло его от цели - большой зловещей пещеры.",
+  "form_id": "00C9FBCC|DBM_RelicNotifications.esp",
+  "type": "INFO NAM1",
+  "index": 5,
+  "editor_id": null
+ },
+ {
+  "original": "Remembering his instructions, Patero carefully hopped from rock to rock taking care not to touch the moss.",
+  "string": "Помня об указаниях, Патеро осторожно перепрыгивал с камня на камень, стараясь не касаться мха.",
+  "form_id": "00C9FBCC|DBM_RelicNotifications.esp",
+  "type": "INFO NAM1",
+  "index": 6,
+  "editor_id": null
+ },
+ {
+  "original": "A few steps from the cave, Patero slipped! And his foot fell firmly on a patch of moss.",
+  "string": "Всего в нескольких шагах от пещеры Патеро поскользнулся! И его нога твердо опустилась прямо на мох.",
+  "form_id": "00C9FBCE|DBM_RelicNotifications.esp",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "He quickly stepped back, but not before the moss released a cloud of foul smelling, but otherwise harmless gas.",
+  "string": "Он быстро отступил, но мох все же успел выпустить облако зловонного, но в остальном безвредного газа.",
+  "form_id": "00C9FBCE|DBM_RelicNotifications.esp",
+  "type": "INFO NAM1",
+  "index": 2,
+  "editor_id": null
+ },
+ {
+  "original": "Laughing at himself for taking the instructions so seriously, Patero continued on.",
+  "string": "Посмеявшись над тем, как серьезно он воспринял указания, Патеро пошел дальше.",
+  "form_id": "00C9FBCE|DBM_RelicNotifications.esp",
+  "type": "INFO NAM1",
+  "index": 3,
+  "editor_id": null
+ },
+ {
+  "original": "Patero entered the cave, dreaming of the treasures within.",
+  "string": "Патеро вошел в пещеру, мечтая о сокровищах, которые ждут его внутри.",
+  "form_id": "00C9FBCE|DBM_RelicNotifications.esp",
+  "type": "INFO NAM1",
+  "index": 4,
+  "editor_id": null
+ },
+ {
+  "original": "He walked for what seemed like days, and eventually came to a fork in the tunnels.",
+  "string": "Он шел, как ему показалось, много дней и наконец дошел до развилки туннелей.",
+  "form_id": "00C9FBCE|DBM_RelicNotifications.esp",
+  "type": "INFO NAM1",
+  "index": 5,
+  "editor_id": null
+ },
+ {
+  "original": "One way looked straight and easy to pass through. It was faintly lit by a bit of glowing rock.",
+  "string": "Один путь был прямым и легким. Его слабо освещали светящиеся камни.",
+  "form_id": "00C9FBCE|DBM_RelicNotifications.esp",
+  "type": "INFO NAM1",
+  "index": 6,
+  "editor_id": null
+ },
+ {
+  "original": "The other path was pitch black, but from the light of his torch, Patero could see that it could be crossed, but it was treacherous.",
+  "string": "Другой путь был погружен в непроглядную тьму, но в свете факела Патеро увидел, что пройти по нему можно, хотя это и опасно.",
+  "form_id": "00C9FBCE|DBM_RelicNotifications.esp",
+  "type": "INFO NAM1",
+  "index": 7,
+  "editor_id": null
+ },
+ {
+  "original": "Remembering how harmless the moss had been, Patero decided to see where the path with the glowing rocks went.",
+  "string": "Вспомнив, каким безвредным оказался мох, Патеро решил узнать, куда ведет путь со светящимися камнями.",
+  "form_id": "00C9FBCE|DBM_RelicNotifications.esp",
+  "type": "INFO NAM1",
+  "index": 8,
+  "editor_id": null
+ },
+ {
+  "original": "He walked quickly along the even, brightly lit path and almost didn't notice the slight downward slope.",
+  "string": "Он быстро шагал по ровной, ярко освещенной тропе и почти не заметил, что она слегка уходит под уклон.",
+  "form_id": "00C9FBCE|DBM_RelicNotifications.esp",
+  "type": "INFO NAM1",
+  "index": 9,
+  "editor_id": null
+ },
+ {
+  "original": "Before he knew what was happening Patero had tumbled into a lake so still that it looked just like the floor of the tunnel.",
+  "string": "Не успел он опомниться, как свалился в озеро - такое неподвижное, что оно казалось полом туннеля.",
+  "form_id": "00C9FBD0|DBM_RelicNotifications.esp",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "But with the first ripple of disturbance, a horrible giant tentacle emerged from the bottom of the lake and attacked!",
+  "string": "Но едва по воде пошла первая рябь, со дна озера поднялось ужасное огромное щупальце и напало на него!",
+  "form_id": "00C9FBD0|DBM_RelicNotifications.esp",
+  "type": "INFO NAM1",
+  "index": 2,
+  "editor_id": null
+ },
+ {
+  "original": "After fighting off the aggressive tentacle with his dagger, Patero ran all the way back to the entrance of the glowing tunnel.",
+  "string": "Отбившись кинжалом от свирепого щупальца, Патеро бегом вернулся ко входу в светящийся туннель.",
+  "form_id": "00C9FBD0|DBM_RelicNotifications.esp",
+  "type": "INFO NAM1",
+  "index": 3,
+  "editor_id": null
+ },
+ {
+  "original": "He stopped to rest for a moment and ate the last of his snacks.",
+  "string": "Он остановился немного передохнуть и доел последние припасы.",
+  "form_id": "00C9FBD0|DBM_RelicNotifications.esp",
+  "type": "INFO NAM1",
+  "index": 4,
+  "editor_id": null
+ },
+ {
+  "original": "He thought about turning back and getting more snacks, but feeling that he was so close to his prize, he decided to press on.",
+  "string": "Он подумывал вернуться и раздобыть еще еды, но, чувствуя, что награда уже совсем близко, решил идти дальше.",
+  "form_id": "00C9FBD0|DBM_RelicNotifications.esp",
+  "type": "INFO NAM1",
+  "index": 5,
+  "editor_id": null
+ },
+ {
+  "original": "After hours of carefully navigating the pitch-dark path, he came out into a large circular room, filled with nests.",
+  "string": "После долгих часов осторожного пути по непроглядно темной тропе он вышел в большой круглый зал, полный гнезд.",
+  "form_id": "00C9FBD0|DBM_RelicNotifications.esp",
+  "type": "INFO NAM1",
+  "index": 6,
+  "editor_id": null
+ },
+ {
+  "original": "While there were no creatures to be seen, each nest had a gleaming pile of tasty looking eggs.",
+  "string": "Хотя никаких существ видно не было, в каждом гнезде лежала блестящая кучка аппетитных на вид яиц.",
+  "form_id": "00C9FBD0|DBM_RelicNotifications.esp",
+  "type": "INFO NAM1",
+  "index": 7,
+  "editor_id": null
+ },
+ {
+  "original": "Exhausted from all of the exercise, Patero built a small fire out of some of the nest twigs, and hungrily eyed the eggs.",
+  "string": "Измученный долгой дорогой, Патеро развел небольшой костер из веточек от гнезд и голодными глазами уставился на яйца.",
+  "form_id": "00C9FBD2|DBM_RelicNotifications.esp",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "He knew the instructions said not to disturb them, but he was so hungry that he couldn't help himself.",
+  "string": "Он знал, что в указаниях говорилось их не трогать, но был так голоден, что не смог удержаться.",
+  "form_id": "00C9FBD2|DBM_RelicNotifications.esp",
+  "type": "INFO NAM1",
+  "index": 2,
+  "editor_id": null
+ },
+ {
+  "original": "Thinking whatever creatures they belonged to wouldn't miss just one, he made a delicious fried egg.",
+  "string": "Решив, что существа, которым они принадлежат, не хватятся одного-единственного яйца, он приготовил себе вкуснейшую яичницу.",
+  "form_id": "00C9FBD2|DBM_RelicNotifications.esp",
+  "type": "INFO NAM1",
+  "index": 3,
+  "editor_id": null
+ },
+ {
+  "original": "As he was finishing he began to hear a scratching sound, followed by a chitter, then another, and another.",
+  "string": "Когда он доедал, то услышал скрежет, а за ним стрекот, потом еще и еще.",
+  "form_id": "00C9FBD2|DBM_RelicNotifications.esp",
+  "type": "INFO NAM1",
+  "index": 4,
+  "editor_id": null
+ },
+ {
+  "original": "He had just enough time to hide himself behind one of the nests before a swarm of angry Dreugh flooded the cavern.",
+  "string": "Он едва успел спрятаться за одним из гнезд, как пещеру заполонил рой разъяренных дреугов.",
+  "form_id": "00C9FBD2|DBM_RelicNotifications.esp",
+  "type": "INFO NAM1",
+  "index": 5,
+  "editor_id": null
+ },
+ {
+  "original": "\"Damn bugs!\" he muttered, keeping himself concealed.",
+  "string": "\"Проклятые жуки!\" - пробормотал он, не высовываясь из укрытия.",
+  "form_id": "00C9FBD2|DBM_RelicNotifications.esp",
+  "type": "INFO NAM1",
+  "index": 6,
+  "editor_id": null
+ },
+ {
+  "original": "Meanwhile, back at the school, Auryen had noticed that Patero was missing from class for several days.",
+  "string": "Тем временем в школе Ауриен заметил, что Патеро уже несколько дней не появляется на занятиях.",
+  "form_id": "00C9FBD2|DBM_RelicNotifications.esp",
+  "type": "INFO NAM1",
+  "index": 7,
+  "editor_id": null
+ },
+ {
+  "original": "Worried for his safety, he set out that afternoon to try to find him.",
+  "string": "Беспокоясь за него, он в тот же день отправился на поиски.",
+  "form_id": "00C9FBD2|DBM_RelicNotifications.esp",
+  "type": "INFO NAM1",
+  "index": 8,
+  "editor_id": null
+ },
+ {
+  "original": "Remembering the map and it's instructions, Auryen turned left at the river, hopped over the rocks, and carefully navigated the pitch-dark path,",
+  "string": "Вспомнив карту и указания к ней, Ауриен повернул у реки налево, перепрыгнул по камням и осторожно прошел по непроглядно темной тропе,",
+  "form_id": "00C9FBD2|DBM_RelicNotifications.esp",
+  "type": "INFO NAM1",
+  "index": 9,
+  "editor_id": null
+ },
+ {
+  "original": "stopping just before the crowd of angry bug-like Dreugh.",
+  "string": "остановившись прямо перед толпой разъяренных дреугов, похожих на жуков.",
+  "form_id": "00C9FBD2|DBM_RelicNotifications.esp",
+  "type": "INFO NAM1",
+  "index": 10,
+  "editor_id": null
+ },
+ {
+  "original": "Fearing the worst, Auryen drew his sword, Aedrasorn, and summoned a ball of flame with his other hand.",
+  "string": "Опасаясь худшего, Ауриен выхватил свой меч Эйдрасорн, а в другой руке призвал огненный шар.",
+  "form_id": "00C9FBD4|DBM_RelicNotifications.esp",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "Within minutes, what was left of the horde of nasty Dreugh had fled, and the rest were in charred bits on the floor.",
+  "string": "Через несколько минут те из мерзких дреугов, что уцелели, бежали, а остальные обугленными кусками лежали на полу.",
+  "form_id": "00C9FBD4|DBM_RelicNotifications.esp",
+  "type": "INFO NAM1",
+  "index": 2,
+  "editor_id": null
+ },
+ {
+  "original": "Patero sheepishly came out of hiding and confessed to not following all of the directions.",
+  "string": "Патеро смущенно вышел из укрытия и признался, что следовал не всем указаниям.",
+  "form_id": "00C9FBD4|DBM_RelicNotifications.esp",
+  "type": "INFO NAM1",
+  "index": 3,
+  "editor_id": null
+ },
+ {
+  "original": "After a bit of hunting, the pair finally found the \"treasure\" buried within the largest nest.",
+  "string": "Немного поискав, они наконец нашли \"сокровище\", спрятанное в самом большом гнезде.",
+  "form_id": "00C9FBD4|DBM_RelicNotifications.esp",
+  "type": "INFO NAM1",
+  "index": 4,
+  "editor_id": null
+ },
+ {
+  "original": "Unfortunately, being a book, it had been somewhat singed by Auryen's spirited defense.",
+  "string": "К сожалению, это была книга, и она изрядно обгорела во время пылкой обороны Ауриена.",
+  "form_id": "00C9FBD4|DBM_RelicNotifications.esp",
+  "type": "INFO NAM1",
+  "index": 5,
+  "editor_id": null
+ },
+ {
+  "original": "All they could make out was part of the title \"... Full Guide\".",
+  "string": "Им удалось разобрать лишь часть заглавия: \"... полное руководство\".",
+  "form_id": "00C9FBD4|DBM_RelicNotifications.esp",
+  "type": "INFO NAM1",
+  "index": 6,
+  "editor_id": null
+ },
+ {
+  "original": "Disappointed, Auryen and Patero brought the book back to the university to see if it could be magically repaired.",
+  "string": "Разочарованные, Ауриен и Патеро принесли книгу в университет, чтобы узнать, можно ли восстановить ее магией.",
+  "form_id": "00C9FBD4|DBM_RelicNotifications.esp",
+  "type": "INFO NAM1",
+  "index": 7,
+  "editor_id": null
+ },
+ {
+  "original": "Patero swore then that he would always follow directions to the letter in the future.",
+  "string": "И тогда Патеро поклялся, что впредь всегда будет следовать указаниям в точности.",
+  "form_id": "00C9FBD4|DBM_RelicNotifications.esp",
+  "type": "INFO NAM1",
+  "index": 8,
+  "editor_id": null
+ },
+ {
+  "original": "And so he did.",
+  "string": "Так он и поступал.",
+  "form_id": "00C9FBD4|DBM_RelicNotifications.esp",
+  "type": "INFO NAM1",
+  "index": 9,
+  "editor_id": null
+ },
+ {
+  "original": "Well that was quite nostalgic. And there was an important moral in the story, that I hope you have taken to heart.",
+  "string": "Что ж, это навеяло воспоминания. И в этой истории была важная мораль. Надеюсь, ты примешь ее близко к сердцу.",
+  "form_id": "00CAEEE2|DBM_RelicNotifications.esp",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "If you would ever like to hear it again, bring me the book and I'll be happy to read it.",
+  "string": "Если захочешь послушать ее еще раз, принеси мне книгу, и я с радостью ее прочитаю.",
+  "form_id": "00CAEEE2|DBM_RelicNotifications.esp",
+  "type": "INFO NAM1",
+  "index": 2,
+  "editor_id": null
+ },
+ {
+  "original": "If you would ever like to hear  the story again, bring me the book and I'll be happy to read it.",
+  "string": "Если захочешь послушать эту историю еще раз, принеси мне книгу, и я с радостью ее прочитаю.",
+  "form_id": "00CAEEEE|DBM_RelicNotifications.esp",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "Yes, please.",
+  "string": "Да, пожалуйста.",
+  "form_id": "00CAEEE7|DBM_RelicNotifications.esp",
+  "type": "DIAL FULL",
+  "index": null,
+  "editor_id": "TCC_StoryTimeBranchAccept"
+ },
+ {
+  "original": "Let's go to the Library where it's a bit more comfortable.",
+  "string": "Пойдем в библиотеку, там поудобнее.",
+  "form_id": "00CAEEE9|DBM_RelicNotifications.esp",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "Make yourself comfortable, and I'll begin in a moment.",
+  "string": "Устраивайся поудобнее, сейчас начну.",
+  "form_id": "00CAEEEA|DBM_RelicNotifications.esp",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "No thanks, not right now.",
+  "string": "Нет, спасибо, не сейчас.",
+  "form_id": "00CAEEEC|DBM_RelicNotifications.esp",
+  "type": "DIAL FULL",
+  "index": null,
+  "editor_id": "TCC_StoryTimeBranchDecline"
+ },
+ {
+  "original": "As you wish, however, if you'd like me to read it in the future, merely bring the book to me.",
+  "string": "Как скажешь. Но если когда-нибудь захочешь, чтобы я ее прочитал, просто принеси мне книгу.",
+  "form_id": "00CAEEED|DBM_RelicNotifications.esp",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "Would you read The Adventures of Auryen and Patero to me?",
+  "string": "Почитаешь мне \"Приключения Ауриена и Патеро\"?",
+  "form_id": "00CAEEF1|DBM_RelicNotifications.esp",
+  "type": "DIAL FULL",
+  "index": null,
+  "editor_id": "TCC_StoryimeBranchTopicComplete"
+ },
+ {
+  "original": "Let's go to the Library where it's a bit more comfortable.",
+  "string": "Пойдем в библиотеку, там поудобнее.",
+  "form_id": "00CB3FF7|DBM_RelicNotifications.esp",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "Make yourself comfortable, and I'll begin in a moment.",
+  "string": "Устраивайся поудобнее, сейчас начну.",
+  "form_id": "00CB3FF8|DBM_RelicNotifications.esp",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "Utility & MCM",
+  "string": "Утилиты и МСМ",
+  "form_id": "00000D62|DBM_RelicNotifications.esp",
+  "type": "QUST FULL",
+  "index": null,
+  "editor_id": "TCC_CuratorsCompanion"
+ },
+ {
+  "original": "Setup Handler",
+  "string": "Настройка (служебный)",
+  "form_id": "003A9BAF|DBM_RelicNotifications.esp",
+  "type": "QUST FULL",
+  "index": null,
+  "editor_id": "TCC_Setup"
+ },
+ {
+  "original": "Listeners",
+  "string": "Слушатели",
+  "form_id": "0059F0D3|DBM_RelicNotifications.esp",
+  "type": "QUST FULL",
+  "index": null,
+  "editor_id": "TCC_Listeners"
+ },
+ {
+  "original": "Player Inventory Manager",
+  "string": "Менеджер инвентаря игрока",
+  "form_id": "006A65E2|DBM_RelicNotifications.esp",
+  "type": "QUST FULL",
+  "index": null,
+  "editor_id": "TCC_Player"
+ },
+ {
+  "original": "Museum Scan Handler",
+  "string": "Сканирование музея (служебный)",
+  "form_id": "007E5689|DBM_RelicNotifications.esp",
+  "type": "QUST FULL",
+  "index": null,
+  "editor_id": "TCC_Scan"
+ },
+ {
+  "original": "Fafnir Rewards Handler",
+  "string": "Награды Фафнира (служебный)",
+  "form_id": "00A26BD8|DBM_RelicNotifications.esp",
+  "type": "QUST FULL",
+  "index": null,
+  "editor_id": "TCC_Fafnir"
+ },
+ {
+  "original": "Unique Display Handler",
+  "string": "Уникальные экспонаты (служебный)",
+  "form_id": "00A2BCE2|DBM_RelicNotifications.esp",
+  "type": "QUST FULL",
+  "index": null,
+  "editor_id": "TCC_CuratorsCompanion_AddonHandler"
+ },
+ {
+  "original": "Relic Transfer Util",
+  "string": "Перенос реликвий (утилита)",
+  "form_id": "00A63834|DBM_RelicNotifications.esp",
+  "type": "QUST FULL",
+  "index": null,
+  "editor_id": "TCC_TransferUtil"
+ },
+ {
+  "original": "Found Item Manager",
+  "string": "Менеджер найденных предметов",
+  "form_id": "00A7CD50|DBM_RelicNotifications.esp",
+  "type": "QUST FULL",
+  "index": null,
+  "editor_id": "TCC_ItemManager"
+ },
+ {
+  "original": "Debug Handler",
+  "string": "Отладка (служебный)",
+  "form_id": "00B19CF1|DBM_RelicNotifications.esp",
+  "type": "QUST FULL",
+  "index": null,
+  "editor_id": "TCC_Debugging"
+ },
+ {
+  "original": "Achievements Handler",
+  "string": "Достижения (служебный)",
+  "form_id": "00BE96E4|DBM_RelicNotifications.esp",
+  "type": "QUST FULL",
+  "index": null,
+  "editor_id": "TCC_Achievements"
+ },
+ {
+  "original": "Story time with Auryen",
+  "string": "Сказки с Ауриеном",
+  "form_id": "00C7C48A|DBM_RelicNotifications.esp",
+  "type": "QUST FULL",
+  "index": null,
+  "editor_id": "TCC_Storybook"
+ },
+ {
+  "original": "It seems like working on the Library collection paid off! i should really talk to Auryen about the book i found.",
+  "string": "Похоже, работа над коллекцией библиотеки окупилась! Нужно обязательно поговорить с Ауриеном о найденной книге.",
+  "form_id": "00C7C48A|DBM_RelicNotifications.esp",
+  "type": "QUST CNAM",
+  "index": 0,
+  "editor_id": "TCC_Storybook"
+ },
+ {
+  "original": "It seems like working on the Library collection paid off! i should really talk to Auryen about the book i found.",
+  "string": "Похоже, работа над коллекцией библиотеки окупилась! Нужно обязательно поговорить с Ауриеном о найденной книге.",
+  "form_id": "00C7C48A|DBM_RelicNotifications.esp",
+  "type": "QUST CNAM",
+  "index": 5,
+  "editor_id": "TCC_Storybook"
+ },
+ {
+  "original": "Speak with Auryen about the book you found",
+  "string": "Поговорить с Ауриеном о найденной книге",
+  "form_id": "00C7C48A|DBM_RelicNotifications.esp",
+  "type": "QUST NNAM",
+  "index": 0,
+  "editor_id": "TCC_Storybook"
+ },
+ {
+  "original": "Listen to Auryen as he tells you the story ",
+  "string": "Послушать историю, которую рассказывает Ауриен",
+  "form_id": "00C7C48A|DBM_RelicNotifications.esp",
+  "type": "QUST NNAM",
+  "index": 5,
+  "editor_id": "TCC_Storybook"
+ },
+ {
+  "original": "moreHUD Config",
+  "string": "Настройка moreHUD",
+  "form_id": "00D83A58|DBM_RelicNotifications.esp",
+  "type": "QUST FULL",
+  "index": null,
+  "editor_id": "TCC_MoreHUDConfig"
+ },
+ {
+  "original": "Official patch",
+  "string": "Официальный патч",
+  "form_id": "00DE3DCC|DBM_RelicNotifications.esp",
+  "type": "QUST FULL",
+  "index": null,
+  "editor_id": "TCC_DisplayPatch"
+ },
+ {
+  "original": "Chaosball Explosion",
+  "string": "Взрыв шара хаоса",
+  "form_id": "009B241E|DBM_RelicNotifications.esp",
+  "type": "EXPL FULL",
+  "index": null,
+  "editor_id": "TCCChaosballExplosion"
+ },
+ {
+  "original": "The Curator's Wit",
+  "string": "Остроумие хранителя",
+  "form_id": "009B2428|DBM_RelicNotifications.esp",
+  "type": "PERK FULL",
+  "index": null,
+  "editor_id": "TCCCuratorsEquipmentMagicBoost"
+ },
+ {
+  "original": "While you have the Staff of the Curator equipped, your spells and enchantments are 10% more effective.",
+  "string": "Пока у вас в руках Посох хранителя, ваши заклинания и зачарования на 10% эффективнее.",
+  "form_id": "009B2428|DBM_RelicNotifications.esp",
+  "type": "PERK DESC",
+  "index": null,
+  "editor_id": "TCCCuratorsEquipmentMagicBoost"
+ },
+ {
+  "original": "The Curator's Determination",
+  "string": "Решимость хранителя",
+  "form_id": "009B2425|DBM_RelicNotifications.esp",
+  "type": "PERK FULL",
+  "index": null,
+  "editor_id": "TCCCuratorsEquipmentSweep"
+ },
+ {
+  "original": "Power attacks made with the Blade of the Curator cost 25% less and sideways power attacks will hit all targets in front of you.",
+  "string": "Силовые атаки Клинком хранителя требуют на 25% меньше сил, а боковые силовые атаки поражают все цели перед вами.",
+  "form_id": "009B2425|DBM_RelicNotifications.esp",
+  "type": "PERK DESC",
+  "index": null,
+  "editor_id": "TCCCuratorsEquipmentSweep"
+ },
+ {
+  "original": "The Curator's Descent",
+  "string": "Спуск хранителя",
+  "form_id": "009B2427|DBM_RelicNotifications.esp",
+  "type": "PERK FULL",
+  "index": null,
+  "editor_id": "TCCCuratorsEquipmentFallResist"
+ },
+ {
+  "original": "While wearing the Cloak of the Curator, fall damage is reduced by 50%",
+  "string": "Пока на вас Плащ хранителя, урон от падения снижается на 50%",
+  "form_id": "009B2427|DBM_RelicNotifications.esp",
+  "type": "PERK DESC",
+  "index": null,
+  "editor_id": "TCCCuratorsEquipmentFallResist"
+ },
+ {
+  "original": "The Curator's Resolve",
+  "string": "Стойкость хранителя",
+  "form_id": "009B2426|DBM_RelicNotifications.esp",
+  "type": "PERK FULL",
+  "index": null,
+  "editor_id": "TCCCuratorsEquipmentDamageResist"
+ },
+ {
+  "original": "While you have the Shield of the Curator equipped, incoming physical damage is reduced by 10%.",
+  "string": "Пока у вас в руках Щит хранителя, получаемый физический урон снижается на 10%.",
+  "form_id": "009B2426|DBM_RelicNotifications.esp",
+  "type": "PERK DESC",
+  "index": null,
+  "editor_id": "TCCCuratorsEquipmentDamageResist"
+ },
+ {
+  "original": "<font color='#<Alias=ColourAlias>'>The Curators Companion: Section Complete (Blades Collection)</font>",
+  "string": "<font color='#<Alias=ColourAlias>'>Помощник куратора: раздел завершен (Коллекция Клинков)</font>",
+  "form_id": "0052A939|DBM_RelicNotifications.esp",
+  "type": "MESG DESC",
+  "index": null,
+  "editor_id": "DBM_SectionArmoryBlades_Complete_Notification"
+ },
+ {
+  "original": "<font color='#<Alias=ColourAlias>'>The Curators Companion: Section Complete (Daedric Collection)</font>",
+  "string": "<font color='#<Alias=ColourAlias>'>Помощник куратора: раздел завершен (Даэдрическая коллекция)</font>",
+  "form_id": "0052A93A|DBM_RelicNotifications.esp",
+  "type": "MESG DESC",
+  "index": null,
+  "editor_id": "DBM_SectionArmoryDaedric_Complete_Notification"
+ },
+ {
+  "original": "<font color='#<Alias=ColourAlias>'>The Curators Companion: Section Complete (Dawnguard Collection)</font>",
+  "string": "<font color='#<Alias=ColourAlias>'>Помощник куратора: раздел завершен (Коллекция Стражи Рассвета)</font>",
+  "form_id": "0052A93B|DBM_RelicNotifications.esp",
+  "type": "MESG DESC",
+  "index": null,
+  "editor_id": "DBM_SectionArmoryDawnguard_Complete_Notification"
+ },
+ {
+  "original": "<font color='#<Alias=ColourAlias>'>The Curators Companion: Section Complete (Dragon Collection)</font>",
+  "string": "<font color='#<Alias=ColourAlias>'>Помощник куратора: раздел завершен (Драконья коллекция)</font>",
+  "form_id": "0052A93C|DBM_RelicNotifications.esp",
+  "type": "MESG DESC",
+  "index": null,
+  "editor_id": "DBM_SectionArmoryDragon_Complete_Notification"
+ },
+ {
+  "original": "<font color='#<Alias=ColourAlias>'>The Curators Companion: Section Complete (Dwarven Collection)</font>",
+  "string": "<font color='#<Alias=ColourAlias>'>Помощник куратора: раздел завершен (Двемерская коллекция)</font>",
+  "form_id": "0052A93D|DBM_RelicNotifications.esp",
+  "type": "MESG DESC",
+  "index": null,
+  "editor_id": "DBM_SectionArmoryDwarven_Complete_Notification"
+ },
+ {
+  "original": "<font color='#<Alias=ColourAlias>'>The Curators Companion: Section Complete (Ebony Collection)</font>",
+  "string": "<font color='#<Alias=ColourAlias>'>Помощник куратора: раздел завершен (Эбонитовая коллекция)</font>",
+  "form_id": "0052A93E|DBM_RelicNotifications.esp",
+  "type": "MESG DESC",
+  "index": null,
+  "editor_id": "DBM_SectionArmoryEbony_Complete_Notification"
+ },
+ {
+  "original": "<font color='#<Alias=ColourAlias>'>The Curators Companion: Section Complete (Elven Collection)</font>",
+  "string": "<font color='#<Alias=ColourAlias>'>Помощник куратора: раздел завершен (Эльфийская коллекция)</font>",
+  "form_id": "0052A93F|DBM_RelicNotifications.esp",
+  "type": "MESG DESC",
+  "index": null,
+  "editor_id": "DBM_SectionArmoryElven_Complete_Notification"
+ },
+ {
+  "original": "<font color='#<Alias=ColourAlias>'>The Curators Companion: Section Complete (Misc Armory Collection)</font>",
+  "string": "<font color='#<Alias=ColourAlias>'>Помощник куратора: раздел завершен (Прочая коллекция оружейной)</font>",
+  "form_id": "0052A940|DBM_RelicNotifications.esp",
+  "type": "MESG DESC",
+  "index": null,
+  "editor_id": "DBM_SectionArmoryExtraDisplays_Complete_Notification"
+ },
+ {
+  "original": "<font color='#<Alias=ColourAlias>'>The Curators Companion: Section Complete (Falmer Collection)</font>",
+  "string": "<font color='#<Alias=ColourAlias>'>Помощник куратора: раздел завершен (Коллекция фалмеров)</font>",
+  "form_id": "0052A941|DBM_RelicNotifications.esp",
+  "type": "MESG DESC",
+  "index": null,
+  "editor_id": "DBM_SectionArmoryFalmer_Complete_Notification"
+ },
+ {
+  "original": "<font color='#<Alias=ColourAlias>'>The Curators Companion: Section Complete (Forsworn Collection)</font>",
+  "string": "<font color='#<Alias=ColourAlias>'>Помощник куратора: раздел завершен (Коллекция Изгоев)</font>",
+  "form_id": "0052A942|DBM_RelicNotifications.esp",
+  "type": "MESG DESC",
+  "index": null,
+  "editor_id": "DBM_SectionArmoryForsworn_Complete_Notification"
+ },
+ {
+  "original": "<font color='#<Alias=ColourAlias>'>The Curators Companion: Section Complete (Glass Collection)</font>",
+  "string": "<font color='#<Alias=ColourAlias>'>Помощник куратора: раздел завершен (Стеклянная коллекция)</font>",
+  "form_id": "0052A943|DBM_RelicNotifications.esp",
+  "type": "MESG DESC",
+  "index": null,
+  "editor_id": "DBM_SectionArmoryGlass_Complete_Notification"
+ },
+ {
+  "original": "<font color='#<Alias=ColourAlias>'>The Curators Companion: Section Complete (Guards Armor Collection)</font>",
+  "string": "<font color='#<Alias=ColourAlias>'>Помощник куратора: раздел завершен (Коллекция брони стражи)</font>",
+  "form_id": "0052A944|DBM_RelicNotifications.esp",
+  "type": "MESG DESC",
+  "index": null,
+  "editor_id": "DBM_SectionArmoryGuardArmorDisplay_Complete_Notification"
+ },
+ {
+  "original": "<font color='#<Alias=ColourAlias>'>The Curators Companion: Section Complete (Iron Collection)</font>",
+  "string": "<font color='#<Alias=ColourAlias>'>Помощник куратора: раздел завершен (Железная коллекция)</font>",
+  "form_id": "0052A945|DBM_RelicNotifications.esp",
+  "type": "MESG DESC",
+  "index": null,
+  "editor_id": "DBM_SectionArmoryIron_Complete_Notification"
+ },
+ {
+  "original": "<font color='#<Alias=ColourAlias>'>The Curators Companion: Section Complete (Nordic Collection)</font>",
+  "string": "<font color='#<Alias=ColourAlias>'>Компаньон куратора: Раздел завершен (коллекция: Нордское снаряжение)</font>",
+  "form_id": "0052A946|DBM_RelicNotifications.esp",
+  "type": "MESG DESC",
+  "index": null,
+  "editor_id": "DBM_SectionArmoryNordic_Complete_Notification"
+ },
+ {
+  "original": "<font color='#<Alias=ColourAlias>'>The Curators Companion: Section Complete (Orcish Collection)</font>",
+  "string": "<font color='#<Alias=ColourAlias>'>Компаньон куратора: Раздел завершен (коллекция: Орочье снаряжение)</font>",
+  "form_id": "0052A947|DBM_RelicNotifications.esp",
+  "type": "MESG DESC",
+  "index": null,
+  "editor_id": "DBM_SectionArmoryOrcish_Complete_Notification"
+ },
+ {
+  "original": "<font color='#<Alias=ColourAlias>'>The Curators Companion: Section Complete (Snow Elf Collection)</font>",
+  "string": "<font color='#<Alias=ColourAlias>'>Компаньон куратора: Раздел завершен (коллекция снежных эльфов)</font>",
+  "form_id": "0052A948|DBM_RelicNotifications.esp",
+  "type": "MESG DESC",
+  "index": null,
+  "editor_id": "DBM_SectionArmorySnowElf_Complete_Notification"
+ },
+ {
+  "original": "<font color='#<Alias=ColourAlias>'>The Curators Companion: Section Complete (Stalhrim Collection)</font>",
+  "string": "<font color='#<Alias=ColourAlias>'>Компаньон куратора: Раздел завершен (коллекция: Сталгрим)</font>",
+  "form_id": "0052A949|DBM_RelicNotifications.esp",
+  "type": "MESG DESC",
+  "index": null,
+  "editor_id": "DBM_SectionArmoryStalhrim_Complete_Notification"
+ },
+ {
+  "original": "<font color='#<Alias=ColourAlias>'>The Curators Companion: Section Complete (Steel Collection)</font>",
+  "string": "<font color='#<Alias=ColourAlias>'>Компаньон куратора: Раздел завершен (коллекция: Стальное снаряжение)</font>",
+  "form_id": "0052A94A|DBM_RelicNotifications.esp",
+  "type": "MESG DESC",
+  "index": null,
+  "editor_id": "DBM_SectionArmorySteel_Complete_Notification"
+ },
+ {
+  "original": "<font color='#<Alias=ColourAlias>'>The Curators Companion: Section Complete (Thane Collection)</font>",
+  "string": "<font color='#<Alias=ColourAlias>'>Компаньон куратора: Раздел завершен (коллекция тана)</font>",
+  "form_id": "0052A94B|DBM_RelicNotifications.esp",
+  "type": "MESG DESC",
+  "index": null,
+  "editor_id": "DBM_SectionArmoryThaneWeapons_Complete_Notification"
+ },
+ {
+  "original": "=== The Curators Companion ===\r\n\r\nAdding <Alias=FoundAlias> to the custom storage list will automatically update any stored displayable items to the correct icon status, please do not remove or add any items to <Alias=FoundAlias> until you receive a notification\r\n\r\nDo you want to add <Alias=FoundAlias> now?",
+  "string": "=== Компаньон куратора ===\r\n\r\nПосле добавления <Alias=FoundAlias> в список пользовательских хранилищ значки всех хранящихся там экспонатов будут автоматически обновлены. Пожалуйста, не кладите предметы в <Alias=FoundAlias> и не забирайте их оттуда, пока не появится уведомление.\r\n\r\nДобавить <Alias=FoundAlias> сейчас?",
+  "form_id": "00618942|DBM_RelicNotifications.esp",
+  "type": "MESG DESC",
+  "index": null,
+  "editor_id": "TCC_TokenAdded"
+ },
+ {
+  "original": "Add",
+  "string": "Добавить",
+  "form_id": "00618942|DBM_RelicNotifications.esp",
+  "type": "MESG ITXT",
+  "index": 0,
+  "editor_id": "TCC_TokenAdded"
+ },
+ {
+  "original": "Cancel",
+  "string": "Отмена",
+  "form_id": "00618942|DBM_RelicNotifications.esp",
+  "type": "MESG ITXT",
+  "index": 1,
+  "editor_id": "TCC_TokenAdded"
+ },
+ {
+  "original": "<font color='#<Alias=ColourAlias>'>The Curators Companion: Custom Storage List Updated</font>",
+  "string": "<font color='#<Alias=ColourAlias>'>Компаньон куратора: Список пользовательских хранилищ обновлен</font>",
+  "form_id": "00618943|DBM_RelicNotifications.esp",
+  "type": "MESG DESC",
+  "index": null,
+  "editor_id": "TCC_TokenUpdated"
+ },
+ {
+  "original": "<font color='#<Alias=ColourAlias>'>The Curators Companion: Processing startup tasks...</font>",
+  "string": "<font color='#<Alias=ColourAlias>'>Компаньон куратора: Выполнение задач запуска...</font>",
+  "form_id": "0061DA4E|DBM_RelicNotifications.esp",
+  "type": "MESG DESC",
+  "index": null,
+  "editor_id": "ModStartup"
+ },
+ {
+  "original": "<font color='#<Alias=ColourAlias>'>The Curators Companion: Start up tasks complete...</font>",
+  "string": "<font color='#<Alias=ColourAlias>'>Компаньон куратора: Задачи запуска выполнены...</font>",
+  "form_id": "0061DA4F|DBM_RelicNotifications.esp",
+  "type": "MESG DESC",
+  "index": null,
+  "editor_id": "ModStartupDone"
+ },
+ {
+  "original": "=== The Curators Companion ===\r\n\r\nUnable to add <Alias=FoundAlias> to custom storage as the list is full",
+  "string": "=== Компаньон куратора ===\r\n\r\nНевозможно добавить <Alias=FoundAlias> в пользовательские хранилища: список заполнен",
+  "form_id": "00627C5A|DBM_RelicNotifications.esp",
+  "type": "MESG DESC",
+  "index": null,
+  "editor_id": "TCC_TokenMax"
+ },
+ {
+  "original": "=== The Curators Companion ===\r\n\r\n<Alias=FoundAlias> is already in the custom storage list",
+  "string": "=== Компаньон куратора ===\r\n\r\n<Alias=FoundAlias> уже есть в списке пользовательских хранилищ",
+  "form_id": "00627C5B|DBM_RelicNotifications.esp",
+  "type": "MESG DESC",
+  "index": null,
+  "editor_id": "TCC_TokenExisting"
+ },
+ {
+  "original": "=== The Curators Companion ===\r\n\r\nThis <Alias=FoundAlias> has no icon but is displayable in the Museum and should not be sold or given away",
+  "string": "=== Компаньон куратора ===\r\n\r\nУ предмета <Alias=FoundAlias> нет значка, но его можно выставить в музее, поэтому не продавайте и не отдавайте его",
+  "form_id": "0002959B|DBM_RelicNotifications.esp",
+  "type": "MESG DESC",
+  "index": null,
+  "editor_id": "DBM_NonIconMessage"
+ },
+ {
+  "original": "Understood",
+  "string": "Понятно",
+  "form_id": "0002959B|DBM_RelicNotifications.esp",
+  "type": "MESG ITXT",
+  "index": 0,
+  "editor_id": "DBM_NonIconMessage"
+ },
+ {
+  "original": "<font color='#<Alias=ColourAlias>'>The Curators Companion: Configuring new patches....</font>",
+  "string": "<font color='#<Alias=ColourAlias>'>Компаньон куратора: Настройка новых патчей....</font>",
+  "form_id": "007B7D50|DBM_RelicNotifications.esp",
+  "type": "MESG DESC",
+  "index": null,
+  "editor_id": "ModStartup_UpdatingLists"
+ },
+ {
+  "original": "<font color='#<Alias=ColourAlias>'>The Curators Companion: Room Complete (Safehouse)</font>",
+  "string": "<font color='#<Alias=ColourAlias>'>Компаньон куратора: Зал завершен (Жилые помещения)</font>",
+  "form_id": "007D1271|DBM_RelicNotifications.esp",
+  "type": "MESG DESC",
+  "index": null,
+  "editor_id": "DBM_SectionSafehouse_Completed_Notification"
+ },
+ {
+  "original": "<font color='#<Alias=ColourAlias>'>The Curators Companion: Room Complete (Armory)</font>",
+  "string": "<font color='#<Alias=ColourAlias>'>Компаньон куратора: Зал завершен (Оружейный зал)</font>",
+  "form_id": "007E5688|DBM_RelicNotifications.esp",
+  "type": "MESG DESC",
+  "index": null,
+  "editor_id": "DBM_SectionArmory_Completed_Notification"
+ },
+ {
+  "original": "<font color='#<Alias=ColourAlias>'>Fafnir found a shiny gem!</font>",
+  "string": "<font color='#<Alias=ColourAlias>'>Фафнир нашел блестящий самоцвет!</font>",
+  "form_id": "00A127C3|DBM_RelicNotifications.esp",
+  "type": "MESG DESC",
+  "index": null,
+  "editor_id": "DBM_FoundGemMessage"
+ },
+ {
+  "original": "Ok",
+  "string": "OK",
+  "form_id": "00A127C3|DBM_RelicNotifications.esp",
+  "type": "MESG ITXT",
+  "index": 0,
+  "editor_id": "DBM_FoundGemMessage"
+ },
+ {
+  "original": "<font color='#<Alias=ColourAlias>'>Fafnir found a pretty shell!</font>",
+  "string": "<font color='#<Alias=ColourAlias>'>Фафнир нашел красивую ракушку!</font>",
+  "form_id": "00A127C4|DBM_RelicNotifications.esp",
+  "type": "MESG DESC",
+  "index": null,
+  "editor_id": "DBM_FoundShellMessage"
+ },
+ {
+  "original": "Ok",
+  "string": "OK",
+  "form_id": "00A127C4|DBM_RelicNotifications.esp",
+  "type": "MESG ITXT",
+  "index": 0,
+  "editor_id": "DBM_FoundShellMessage"
+ },
+ {
+  "original": "<font color='#<Alias=ColourAlias>'>Fafnir found %.0f Gold!</font>",
+  "string": "<font color='#<Alias=ColourAlias>'>Фафнир нашел золото: %.0f!</font>",
+  "form_id": "00A127C5|DBM_RelicNotifications.esp",
+  "type": "MESG DESC",
+  "index": null,
+  "editor_id": "DBM_FoundGoldMessage"
+ },
+ {
+  "original": "Ok",
+  "string": "OK",
+  "form_id": "00A127C5|DBM_RelicNotifications.esp",
+  "type": "MESG ITXT",
+  "index": 0,
+  "editor_id": "DBM_FoundGoldMessage"
+ },
+ {
+  "original": "<font color='#<Alias=ColourAlias>'>The Curators Companion: Set Complete (TCC Achievements)</font>",
+  "string": "<font color='#<Alias=ColourAlias>'>Компаньон куратора: Набор собран (достижения TCC)</font>",
+  "form_id": "00A400FD|DBM_RelicNotifications.esp",
+  "type": "MESG DESC",
+  "index": null,
+  "editor_id": "TCC_Unique_Complete_Notification"
+ },
+ {
+  "original": "=== The Curators Companion ===\r\n\r\nYou can not add the Storage Token to <Alias=FoundAlias>",
+  "string": "=== Компаньон куратора ===\r\n\r\nНельзя добавить жетон хранилища в <Alias=FoundAlias>",
+  "form_id": "00A45215|DBM_RelicNotifications.esp",
+  "type": "MESG DESC",
+  "index": null,
+  "editor_id": "TCC_TokenVendor"
+ },
+ {
+  "original": "<font color='#<Alias=ColourAlias>'>Fafnir found a Fate Card!</font>",
+  "string": "<font color='#<Alias=ColourAlias>'>Фафнир нашел карту судьбы!</font>",
+  "form_id": "00A45218|DBM_RelicNotifications.esp",
+  "type": "MESG DESC",
+  "index": null,
+  "editor_id": "DBM_FoundCardMessage"
+ },
+ {
+  "original": "Ok",
+  "string": "OK",
+  "form_id": "00A45218|DBM_RelicNotifications.esp",
+  "type": "MESG ITXT",
+  "index": 0,
+  "editor_id": "DBM_FoundCardMessage"
+ },
+ {
+  "original": "<font color='#<Alias=ColourAlias>'>The Curators Companion: Room Complete (Storeroom)</font>",
+  "string": "<font color='#<Alias=ColourAlias>'>Компаньон куратора: Зал завершен (Кладовая)</font>",
+  "form_id": "00242309|DBM_RelicNotifications.esp",
+  "type": "MESG DESC",
+  "index": null,
+  "editor_id": "DBM_SectionStoreroom_Completed_Notification"
+ },
+ {
+  "original": "=== Relic Transfer Station ===\r\n\r\nFrom this menu you can manage the relic transfer exclusion list and automatically transfer any valid displayable items into the Display Drop-Off container depending on your settings in the MCM.\r\n\r\nEquipped, Favorited or Excluded items as well as Explorer Relics will be ignored and will not transfer.",
+  "string": "=== Станция передачи реликвий ===\r\n\r\nЗдесь можно управлять списком исключений для передачи реликвий и автоматически переносить все подходящие экспонаты в приемный контейнер в соответствии с настройками в MCM.\r\n\r\nЭкипированные, избранные и исключенные предметы, а также реликвии исследователя переноситься не будут.",
+  "form_id": "0038B596|DBM_RelicNotifications.esp",
+  "type": "MESG DESC",
+  "index": null,
+  "editor_id": "DBM_RN_TransferRelics_Message"
+ },
+ {
+  "original": "Transfer Relics",
+  "string": "Перенос реликвий",
+  "form_id": "0038B596|DBM_RelicNotifications.esp",
+  "type": "MESG ITXT",
+  "index": 0,
+  "editor_id": "DBM_RN_TransferRelics_Message"
+ },
+ {
+  "original": "Exclude Items",
+  "string": "Исключить предметы",
+  "form_id": "0038B596|DBM_RelicNotifications.esp",
+  "type": "MESG ITXT",
+  "index": 1,
+  "editor_id": "DBM_RN_TransferRelics_Message"
+ },
+ {
+  "original": "Cancel",
+  "string": "Отмена",
+  "form_id": "0038B596|DBM_RelicNotifications.esp",
+  "type": "MESG ITXT",
+  "index": 2,
+  "editor_id": "DBM_RN_TransferRelics_Message"
+ },
+ {
+  "original": "Processed and displayed %.0f Item(s)",
+  "string": "Обработано и выставлено предметов: %.0f",
+  "form_id": "00AE72C6|DBM_RelicNotifications.esp",
+  "type": "MESG DESC",
+  "index": null,
+  "editor_id": "TransferDisplayDone"
+ },
+ {
+  "original": "Would you like to transfer / retrieve all displayable items from: <Alias=FoundAlias>?",
+  "string": "Перенести или забрать все экспонаты из хранилища: <Alias=FoundAlias>?",
+  "form_id": "00B74F42|DBM_RelicNotifications.esp",
+  "type": "MESG DESC",
+  "index": null,
+  "editor_id": "TCC_TransferContainer"
+ },
+ {
+  "original": "Transfer",
+  "string": "Перенести",
+  "form_id": "00B74F42|DBM_RelicNotifications.esp",
+  "type": "MESG ITXT",
+  "index": 0,
+  "editor_id": "TCC_TransferContainer"
+ },
+ {
+  "original": "Retrieve",
+  "string": "Забрать",
+  "form_id": "00B74F42|DBM_RelicNotifications.esp",
+  "type": "MESG ITXT",
+  "index": 1,
+  "editor_id": "TCC_TransferContainer"
+ },
+ {
+  "original": "Cancel",
+  "string": "Отмена",
+  "form_id": "00B74F42|DBM_RelicNotifications.esp",
+  "type": "MESG ITXT",
+  "index": 2,
+  "editor_id": "TCC_TransferContainer"
+ },
+ {
+  "original": "Transfered %.0f items to: <Alias=FoundAlias>",
+  "string": "Перенесено предметов: %.0f. Куда: <Alias=FoundAlias>",
+  "form_id": "00B74F43|DBM_RelicNotifications.esp",
+  "type": "MESG DESC",
+  "index": null,
+  "editor_id": "TCC_TransferComplete"
+ },
+ {
+  "original": "Retrieved %.0f items from: <Alias=FoundAlias>",
+  "string": "Забрано предметов: %.0f. Откуда: <Alias=FoundAlias>",
+  "form_id": "00B74F45|DBM_RelicNotifications.esp",
+  "type": "MESG DESC",
+  "index": null,
+  "editor_id": "TCC_RetrievalComplete"
+ },
+ {
+  "original": "<font color='#<Alias=ColourAlias>'>The Curators Companion: Museum Section Complete! (Misc Displays)</font>",
+  "string": "<font color='#<Alias=ColourAlias>'>Компаньон куратора: Раздел музея завершен! (разное)</font>",
+  "form_id": "00D83A59|DBM_RelicNotifications.esp",
+  "type": "MESG DESC",
+  "index": null,
+  "editor_id": "TCC_SectionComplete_Misc"
+ },
+ {
+  "original": "<font color='#<Alias=ColourAlias>'>The Curators Companion: Museum Section Complete! (Thane Displays)</font>",
+  "string": "<font color='#<Alias=ColourAlias>'>Компаньон куратора: Раздел музея завершен! (экспонаты танов)</font>",
+  "form_id": "00D83A5A|DBM_RelicNotifications.esp",
+  "type": "MESG DESC",
+  "index": null,
+  "editor_id": "TCC_SectionComplete_Thane"
+ },
+ {
+  "original": "<font color='#<Alias=ColourAlias>'>The Curators Companion: Museum Section Complete! (Skill Displays)</font>",
+  "string": "<font color='#<Alias=ColourAlias>'>Компаньон куратора: Раздел музея завершен! (экспонаты навыков)</font>",
+  "form_id": "00D83A5C|DBM_RelicNotifications.esp",
+  "type": "MESG DESC",
+  "index": null,
+  "editor_id": "TCC_SectionComplete_Skill"
+ },
+ {
+  "original": "<font color='#<Alias=ColourAlias>'>The Curators Companion: Museum Section Complete! (Exploration Displays)</font>",
+  "string": "<font color='#<Alias=ColourAlias>'>Компаньон куратора: Раздел музея завершен! (экспонаты исследований)</font>",
+  "form_id": "00D83A5D|DBM_RelicNotifications.esp",
+  "type": "MESG DESC",
+  "index": null,
+  "editor_id": "TCC_SectionComplete_Exploration"
+ },
+ {
+  "original": "=== The Curators Companion ===\r\n\r\n%.0f item(s) transferred to the Drop Off container",
+  "string": "=== Компаньон куратора ===\r\n\r\nПредметов перенесено в приемный контейнер: %.0f",
+  "form_id": "00D97E73|DBM_RelicNotifications.esp",
+  "type": "MESG DESC",
+  "index": null,
+  "editor_id": "TransferCompleteNoItems"
+ },
+ {
+  "original": "Ok",
+  "string": "OK",
+  "form_id": "00D97E73|DBM_RelicNotifications.esp",
+  "type": "MESG ITXT",
+  "index": 0,
+  "editor_id": "TransferCompleteNoItems"
+ },
+ {
+  "original": "=== The Curators Companion ===\r\n\r\nMuseum shipment crates can not be added to the custom storage list as they are already included",
+  "string": "=== Компаньон куратора ===\r\n\r\nЯщики с поставками для музея нельзя добавить в список пользовательских хранилищ: они уже в него входят",
+  "form_id": "00E5D63B|DBM_RelicNotifications.esp",
+  "type": "MESG DESC",
+  "index": null,
+  "editor_id": "TCC_TokenShipmentCrate"
+ },
+ {
+  "original": "=== The Curators Companion ===\r\n\r\n%.0f item(s) transferred to the Drop Off container successfully, would you like to display the transfered items now?",
+  "string": "=== Компаньон куратора ===\r\n\r\nПредметов успешно перенесено в приемный контейнер: %.0f. Выставить перенесенные предметы сейчас?",
+  "form_id": "0061DA4C|DBM_RelicNotifications.esp",
+  "type": "MESG DESC",
+  "index": null,
+  "editor_id": "TransferComplete"
+ },
+ {
+  "original": "Display",
+  "string": "Выставить",
+  "form_id": "0061DA4C|DBM_RelicNotifications.esp",
+  "type": "MESG ITXT",
+  "index": 0,
+  "editor_id": "TransferComplete"
+ },
+ {
+  "original": "Cancel",
+  "string": "Отмена",
+  "form_id": "0061DA4C|DBM_RelicNotifications.esp",
+  "type": "MESG ITXT",
+  "index": 1,
+  "editor_id": "TransferComplete"
+ },
+ {
+  "original": "<font color='#<Alias=ColourAlias>'>The Curators Companion: Room Complete (Hall of Wonders)</font>",
+  "string": "<font color='#<Alias=ColourAlias>'>Компаньон куратора: Зал завершен (Зал чудес)</font>",
+  "form_id": "007A8A40|DBM_RelicNotifications.esp",
+  "type": "MESG DESC",
+  "index": null,
+  "editor_id": "DBM_SectionHallofWonders_Completed_Notification"
+ },
+ {
+  "original": "<font color='#<Alias=ColourAlias>'>Museum Item Acquired: <Alias=FoundAlias></font>",
+  "string": "<font color='#<Alias=ColourAlias>'>Получен музейный экспонат: <Alias=FoundAlias></font>",
+  "form_id": "0005BFCD|DBM_RelicNotifications.esp",
+  "type": "MESG DESC",
+  "index": null,
+  "editor_id": "DBM_FoundRelicNotification"
+ },
+ {
+  "original": "<font color='#<Alias=ColourAlias>'>The Curators Companion: Scanning Museum...</font>",
+  "string": "<font color='#<Alias=ColourAlias>'>Компаньон куратора: Сканирование музея...</font>",
+  "form_id": "0006B2E5|DBM_RelicNotifications.esp",
+  "type": "MESG DESC",
+  "index": null,
+  "editor_id": "DBM_ScanMuseum_Message"
+ },
+ {
+  "original": "Ok",
+  "string": "OK",
+  "form_id": "0006B2E5|DBM_RelicNotifications.esp",
+  "type": "MESG ITXT",
+  "index": 0,
+  "editor_id": "DBM_ScanMuseum_Message"
+ },
+ {
+  "original": "<font color='#<Alias=ColourAlias>'>The Curators Companion: Scan Completed</font>",
+  "string": "<font color='#<Alias=ColourAlias>'>Компаньон куратора: Сканирование завершено</font>",
+  "form_id": "000C1440|DBM_RelicNotifications.esp",
+  "type": "MESG DESC",
+  "index": null,
+  "editor_id": "DBM_ScanMuseum_Finished_Message"
+ },
+ {
+  "original": "<font color='#<Alias=ColourAlias>'>The Curators Companion: Room Complete (Hall of Heroes)</font>",
+  "string": "<font color='#<Alias=ColourAlias>'>Компаньон куратора: Зал завершен (Зал героев)</font>",
+  "form_id": "000D5877|DBM_RelicNotifications.esp",
+  "type": "MESG DESC",
+  "index": null,
+  "editor_id": "DBM_SectionHOH_Completed_Notification"
+ },
+ {
+  "original": "<font color='#<Alias=ColourAlias>'>The Curators Companion: Room Complete (Library)</font>",
+  "string": "<font color='#<Alias=ColourAlias>'>Компаньон куратора: Зал завершен (Библиотека)</font>",
+  "form_id": "000D5879|DBM_RelicNotifications.esp",
+  "type": "MESG DESC",
+  "index": null,
+  "editor_id": "DBM_SectionLibrary_Completed_Notification"
+ },
+ {
+  "original": "<font color='#<Alias=ColourAlias>'>The Curators Companion: Room Complete (Daedric Gallery)</font>",
+  "string": "<font color='#<Alias=ColourAlias>'>Компаньон куратора: Зал завершен (Даэдрическая галерея)</font>",
+  "form_id": "000D587A|DBM_RelicNotifications.esp",
+  "type": "MESG DESC",
+  "index": null,
+  "editor_id": "DBM_SectionDaedricGallery_Completed_Notification"
+ },
+ {
+  "original": "<font color='#<Alias=ColourAlias>'>The Curators Companion: Room Complete (Hall of Oddities)</font>",
+  "string": "<font color='#<Alias=ColourAlias>'>Компаньон куратора: Зал завершен (Зал странностей)</font>",
+  "form_id": "000D587B|DBM_RelicNotifications.esp",
+  "type": "MESG DESC",
+  "index": null,
+  "editor_id": "DBM_SectionHOO_Completed_Notification"
+ },
+ {
+  "original": "<font color='#<Alias=ColourAlias>'>The Curators Companion: Room Complete (Natural Science)</font>",
+  "string": "<font color='#<Alias=ColourAlias>'>Компаньон куратора: Зал завершен (Естествознание)</font>",
+  "form_id": "000D587D|DBM_RelicNotifications.esp",
+  "type": "MESG DESC",
+  "index": null,
+  "editor_id": "DBM_SectionNS_Completed_Notification"
+ },
+ {
+  "original": "<font color='#<Alias=ColourAlias>'>The Curators Companion: Room Complete (Guildhouse)</font>",
+  "string": "<font color='#<Alias=ColourAlias>'>Компаньон куратора: Зал завершен (Дом гильдий)</font>",
+  "form_id": "000D587E|DBM_RelicNotifications.esp",
+  "type": "MESG DESC",
+  "index": null,
+  "editor_id": "DBM_SectionGuildhouse_Completed_Notification"
+ },
+ {
+  "original": "<font color='#<Alias=ColourAlias>'>The Curators Companion: Room Complete (Hall of Lost Empires)</font>",
+  "string": "<font color='#<Alias=ColourAlias>'>Компаньон куратора: Зал завершен (Зал утраченных империй)</font>",
+  "form_id": "000D587F|DBM_RelicNotifications.esp",
+  "type": "MESG DESC",
+  "index": null,
+  "editor_id": "DBM_SectionHOLE_Completed_Notification"
+ },
+ {
+  "original": "<font color='#<Alias=ColourAlias>'>The Curators Companion: Room Complete (Hall of Secrets)</font>",
+  "string": "<font color='#<Alias=ColourAlias>'>Компаньон куратора: Зал завершен (Зал Тайн)</font>",
+  "form_id": "000D5880|DBM_RelicNotifications.esp",
+  "type": "MESG DESC",
+  "index": null,
+  "editor_id": "DBM_SectionHOS_Completed_Notification"
+ },
+ {
+  "original": "<font color='#<Alias=ColourAlias>'>The Curators Companion: %.0f patches configured.</font>",
+  "string": "<font color='#<Alias=ColourAlias>'>Компаньон куратора: Настроено патчей: %.0f.</font>",
+  "form_id": "000DFAAE|DBM_RelicNotifications.esp",
+  "type": "MESG DESC",
+  "index": null,
+  "editor_id": "ModConfigFinished"
+ },
+ {
+  "original": "<font color='#<Alias=ColourAlias>'>The Curators Companion: Room Complete (Dragonborn Hall)</font>",
+  "string": "<font color='#<Alias=ColourAlias>'>Компаньон куратора: Зал завершен (Зал Драконорожденного)</font>",
+  "form_id": "00242306|DBM_RelicNotifications.esp",
+  "type": "MESG DESC",
+  "index": null,
+  "editor_id": "DBM_SectionDBH_Completed_Notification"
+ },
+ {
+  "original": "=== The Curators Companion ===\r\n\r\nWhilst Mini Fafnir is in your inventory he willl be looking under rocks and digging holes to try find you shiny gems, cool looking sea shells and unique cards, more often than not he gets distracted by shiny coins but you never know! ",
+  "string": "=== Компаньон куратора ===\r\n\r\nПока Мини-Фафнир у тебя в инвентаре, он будет заглядывать под камни и копать ямки, чтобы найти тебе блестящие самоцветы, красивые морские ракушки и редкие карты. Чаще всего его отвлекают блестящие монетки, но кто знает! ",
+  "form_id": "00A54525|DBM_RelicNotifications.esp",
+  "type": "MESG DESC",
+  "index": null,
+  "editor_id": "DBM_Fafnir_UserMessage"
+ },
+ {
+  "original": "<font color='#<Alias=ColourAlias>'>The Curators Companion: Processing Display Items...</font>",
+  "string": "<font color='#<Alias=ColourAlias>'>Компаньон куратора: Обработка экспонатов...</font>",
+  "form_id": "00AE72C5|DBM_RelicNotifications.esp",
+  "type": "MESG DESC",
+  "index": null,
+  "editor_id": "TransferDisplayWait"
+ },
+ {
+  "original": "<font color='#<Alias=ColourAlias>'>The Curators Companion: Section Complete (Ancient Nord Collection)</font>",
+  "string": "<font color='#<Alias=ColourAlias>'>Компаньон куратора: Раздел завершен (древненордская коллекция)</font>",
+  "form_id": "0052A938|DBM_RelicNotifications.esp",
+  "type": "MESG DESC",
+  "index": null,
+  "editor_id": "DBM_SectionArmoryAncientNord_Complete_Notification"
+ }
+]

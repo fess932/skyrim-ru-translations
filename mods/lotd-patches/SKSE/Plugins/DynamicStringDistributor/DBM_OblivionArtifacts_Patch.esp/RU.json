@@ -1,0 +1,410 @@
+[
+ {
+  "original": "Brusef Amelion's Shield",
+  "string": "Щит Брусефа Амелиона",
+  "form_id": "00000800|DBM_OblivionArtifacts_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTAmelionShield"
+ },
+ {
+  "original": "Brusef Amelion's Boots",
+  "string": "Сапоги Брусефа Амелиона",
+  "form_id": "00000801|DBM_OblivionArtifacts_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTAmelionBoots"
+ },
+ {
+  "original": "Brusef Amelion's Gauntlets",
+  "string": "Рукавицы Брусефа Амелиона",
+  "form_id": "00000802|DBM_OblivionArtifacts_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTAmelionGloves"
+ },
+ {
+  "original": "Brusef Amelion's Armor",
+  "string": "Доспехи Брусефа Амелиона",
+  "form_id": "00000803|DBM_OblivionArtifacts_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTAmelionArmor"
+ },
+ {
+  "original": "Brusef Amelion's Helmet",
+  "string": "Шлем Брусефа Амелиона",
+  "form_id": "00000804|DBM_OblivionArtifacts_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTAmelionHelm"
+ },
+ {
+  "original": "Brusef Amelion's Sword",
+  "string": "Меч Брусефа Амелиона",
+  "form_id": "00000805|DBM_OblivionArtifacts_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTAmelionSword"
+ },
+ {
+  "original": "Escutcheon of Chorrol",
+  "string": "Щит Чоррола",
+  "form_id": "00000807|DBM_OblivionArtifacts_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTChorralShield"
+ },
+ {
+  "original": "Knight of Chorrol Shield",
+  "string": "Щит Рыцаря Чоррола",
+  "form_id": "00000808|DBM_OblivionArtifacts_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTHonorShield"
+ },
+ {
+  "original": "Knight of Chorrol Boots",
+  "string": "Сапоги рыцаря Коррола",
+  "form_id": "00000809|DBM_OblivionArtifacts_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTHonorBoots"
+ },
+ {
+  "original": "Knight of Chorrol Gauntlets",
+  "string": "Перчатки рыцаря Коррола",
+  "form_id": "0000080A|DBM_OblivionArtifacts_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTHonorGloves"
+ },
+ {
+  "original": "Knight of Chorrol Armor",
+  "string": "Доспехи Рыцаря Чоррола",
+  "form_id": "0000080B|DBM_OblivionArtifacts_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTHonorArmor"
+ },
+ {
+  "original": "Knight of Chorrol Helmet",
+  "string": "Шлем рыцаря Коррола",
+  "form_id": "0000080C|DBM_OblivionArtifacts_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTHonorHelm"
+ },
+ {
+  "original": "Dagger of Discipline",
+  "string": "Кинжал дисциплины",
+  "form_id": "0000080D|DBM_OblivionArtifacts_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTDaggerofDiscipline"
+ },
+ {
+  "original": "Sufferthorn",
+  "string": "Шипастая мука",
+  "form_id": "0000080E|DBM_OblivionArtifacts_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTSufferthorn"
+ },
+ {
+  "original": "Witsplinter",
+  "string": "Раздробитель разума",
+  "form_id": "0000080F|DBM_OblivionArtifacts_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTWitsplitter"
+ },
+ {
+  "original": "Dondoran's Juggernaut",
+  "string": "Доспехи Дондорана",
+  "form_id": "00000810|DBM_OblivionArtifacts_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTJuggernaughtArmor"
+ },
+ {
+  "original": "Quicksilver Boots",
+  "string": "Сапоги ртути",
+  "form_id": "00000811|DBM_OblivionArtifacts_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTQuicksilverArmor"
+ },
+ {
+  "original": "Apron of the Master Artisan",
+  "string": "Фартук Мастера Артизана",
+  "form_id": "00000812|DBM_OblivionArtifacts_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTMasterApron"
+ },
+ {
+  "original": "Veil of the Seer",
+  "string": "Покров провидца",
+  "form_id": "00000813|DBM_OblivionArtifacts_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTVielofSeer"
+ },
+ {
+  "original": "Helm of Ferocity",
+  "string": "Шлем свирепости",
+  "form_id": "00000814|DBM_OblivionArtifacts_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTHelmofFerocity"
+ },
+ {
+  "original": "Circlet of Omnipotence",
+  "string": "Венец всемогущества",
+  "form_id": "00000815|DBM_OblivionArtifacts_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTCircletOmnipotence"
+ },
+ {
+  "original": "Circlet of Verdure",
+  "string": "Венец зелени",
+  "form_id": "00000816|DBM_OblivionArtifacts_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTCircletVerdue"
+ },
+ {
+  "original": "Tower of the Nine",
+  "string": "Башня Девяти",
+  "form_id": "00000817|DBM_OblivionArtifacts_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTTowerOf9"
+ },
+ {
+  "original": "Boots of the Swift Merchant",
+  "string": "Сапоги ловкого торговца",
+  "form_id": "00000818|DBM_OblivionArtifacts_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTMerchBoots"
+ },
+ {
+  "original": "Rasheda's Special",
+  "string": "Особое снаряжение Рашеды",
+  "form_id": "00000819|DBM_OblivionArtifacts_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTRashedaGloves"
+ },
+ {
+  "original": "Hands of Midnight",
+  "string": "Руки полуночи",
+  "form_id": "0000081A|DBM_OblivionArtifacts_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTMidnightHands"
+ },
+ {
+  "original": "Cowl of the Druid",
+  "string": "Капюшон друида",
+  "form_id": "0000081B|DBM_OblivionArtifacts_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTDruidHood"
+ },
+ {
+  "original": "Robe of Creativity",
+  "string": "Одеяние творчества",
+  "form_id": "0000081C|DBM_OblivionArtifacts_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTRobesofCreativity"
+ },
+ {
+  "original": "The Deceiver's Finery",
+  "string": "Одеяние Обманщика",
+  "form_id": "0000081D|DBM_OblivionArtifacts_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTDecieverFinery"
+ },
+ {
+  "original": "Aegis of the Apocalypse",
+  "string": "Эгида Апокалипсиса",
+  "form_id": "0000081E|DBM_OblivionArtifacts_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTApocArmor"
+ },
+ {
+  "original": "Hatred's Soul",
+  "string": "Душа Ненависти",
+  "form_id": "0000081F|DBM_OblivionArtifacts_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTHatredSoul"
+ },
+ {
+  "original": "Hatred's Heart",
+  "string": "Сердце Ненависти",
+  "form_id": "00000820|DBM_OblivionArtifacts_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTHatredHeart"
+ },
+ {
+  "original": "Sinweaver",
+  "string": "Ткач грехов",
+  "form_id": "00000821|DBM_OblivionArtifacts_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTSinweaver"
+ },
+ {
+  "original": "Rockshatter",
+  "string": "Разрушитель скал",
+  "form_id": "00000822|DBM_OblivionArtifacts_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTRockshatter"
+ },
+ {
+  "original": "Redwave",
+  "string": "Алая волна",
+  "form_id": "00000823|DBM_OblivionArtifacts_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTRedwave"
+ },
+ {
+  "original": "Captain Kordan's Saber",
+  "string": "Сабля капитана Кордана",
+  "form_id": "00000824|DBM_OblivionArtifacts_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTKordanSword"
+ },
+ {
+  "original": "Akaviri Sunderblade",
+  "string": "Акавирский рассекатель",
+  "form_id": "00000825|DBM_OblivionArtifacts_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTSunderblade"
+ },
+ {
+  "original": "Calliben's Grim Retort",
+  "string": "Мрачный упрек Каллибена",
+  "form_id": "00000826|DBM_OblivionArtifacts_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTCallibenRetort"
+ },
+ {
+  "original": "Battleaxe of Hatred",
+  "string": "Секира ненависти",
+  "form_id": "00000827|DBM_OblivionArtifacts_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTBattleaxeofHate"
+ },
+ {
+  "original": "Shadowhunt",
+  "string": "Охота в тени",
+  "form_id": "00000828|DBM_OblivionArtifacts_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTShadowhunt"
+ },
+ {
+  "original": "Frostwyrm",
+  "string": "Ледяной вирм",
+  "form_id": "00000829|DBM_OblivionArtifacts_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTFrostwyrm"
+ },
+ {
+  "original": "Blackwater Blade",
+  "string": "Клинок Черной Воды",
+  "form_id": "00000838|DBM_OblivionArtifacts_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTBlackwaterBlade"
+ },
+ {
+  "original": "Birthright of Astalon",
+  "string": "Право рождения Асталоны",
+  "form_id": "000008CA|DBM_OblivionArtifacts_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTAstalonArmor"
+ },
+ {
+  "original": "Alvante's Armor",
+  "string": "Доспехи Альванте",
+  "form_id": "000008CF|DBM_OblivionArtifacts_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTAlvanteArmor"
+ },
+ {
+  "original": "Alvante's Hood",
+  "string": "Капюшон Альванте",
+  "form_id": "000008D4|DBM_OblivionArtifacts_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTAlvanteHood"
+ },
+ {
+  "original": "Alvante's Boots",
+  "string": "Сапоги Альванте",
+  "form_id": "000008D6|DBM_OblivionArtifacts_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTAlvanteBoots"
+ },
+ {
+  "original": "Alvante's Gloves",
+  "string": "Перчатки Альванте",
+  "form_id": "000008D8|DBM_OblivionArtifacts_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTAlvanteGloves"
+ },
+ {
+  "original": "Honorblade of Chorrol",
+  "string": "Клинок чести Чоррола",
+  "form_id": "00000BEF|DBM_OblivionArtifacts_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTHonorbladeOAP"
+ },
+ {
+  "original": "Oblivion Artifacts Pack Items",
+  "string": "Предметы из Oblivion Artifacts Pack",
+  "form_id": "000008E1|DBM_OblivionArtifacts_Patch.esp",
+  "type": "CONT FULL",
+  "index": null,
+  "editor_id": "DBM_CheatCrateOAP"
+ },
+ {
+  "original": "OAP Support",
+  "string": "Поддержка OAP",
+  "form_id": "000008DF|DBM_OblivionArtifacts_Patch.esp",
+  "type": "QUST FULL",
+  "index": null,
+  "editor_id": "DBM_OAPSupportHandler"
+ },
+ {
+  "original": "Storage quest for various dead actors that need to be preserved until found.",
+  "string": "Служебный квест для хранения различных мертвых актеров, которых нужно сохранить до обнаружения.",
+  "form_id": "00000BF3|DBM_OblivionArtifacts_Patch.esp",
+  "type": "QUST FULL",
+  "index": null,
+  "editor_id": "OAPActorAliasHoldingQuest"
+ }
+]

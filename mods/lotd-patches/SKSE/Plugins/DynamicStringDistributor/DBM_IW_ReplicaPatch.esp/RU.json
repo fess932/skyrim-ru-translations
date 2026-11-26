@@ -1,0 +1,42 @@
+[
+ {
+  "original": "Shadowsting (replica)",
+  "string": "Призрачный меч (копия)",
+  "form_id": "00000801|DBM_IW_ReplicaPatch.esp",
+  "type": "WEAP FULL",
+  "index": null,
+  "editor_id": "IWShadowstingSwordREPLICA"
+ },
+ {
+  "original": "Justice (replica)",
+  "string": "Справедливость (копия)",
+  "form_id": "00000802|DBM_IW_ReplicaPatch.esp",
+  "type": "WEAP FULL",
+  "index": null,
+  "editor_id": "IWJusticeGreatswordREPLICA"
+ },
+ {
+  "original": "Gron-Tosh's Fist (replica)",
+  "string": "Кулак Грон-Тоша (копия)",
+  "form_id": "00000803|DBM_IW_ReplicaPatch.esp",
+  "type": "WEAP FULL",
+  "index": null,
+  "editor_id": "IWGronToshsFistMaceREPLICA"
+ },
+ {
+  "original": "Malacath's Cleaver (replica)",
+  "string": "Тесак Малаката (копия)",
+  "form_id": "0000080F|DBM_IW_ReplicaPatch.esp",
+  "type": "WEAP FULL",
+  "index": null,
+  "editor_id": "IWMalacathsCleaverGreatswordREPLICA"
+ },
+ {
+  "original": "Immersive Weapons Support",
+  "string": "Поддержка Immersive Weapons",
+  "form_id": "00000898|DBM_IW_Patch.esp",
+  "type": "QUST FULL",
+  "index": null,
+  "editor_id": "DBM_SupportedModImmersiveWeapons"
+ }
+]

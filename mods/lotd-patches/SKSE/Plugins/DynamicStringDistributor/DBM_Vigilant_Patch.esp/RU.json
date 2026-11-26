@@ -1,0 +1,858 @@
+[
+ {
+  "original": "Vigilant: Act 1",
+  "string": "Дозорный: Акт 1",
+  "form_id": "00000817|DBM_Vigilant_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_VigilantCh1ACT"
+ },
+ {
+  "original": "Read Plaque",
+  "string": "Прочитать табличку",
+  "form_id": "00000817|DBM_Vigilant_Patch.esp",
+  "type": "ACTI RNAM",
+  "index": null,
+  "editor_id": "DBM_VigilantCh1ACT"
+ },
+ {
+  "original": "Vigilant: Act 2",
+  "string": "Дозорный: Акт 2",
+  "form_id": "0000082C|DBM_Vigilant_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_VigilantCh2ACT"
+ },
+ {
+  "original": "Read Plaque",
+  "string": "Прочитать табличку",
+  "form_id": "0000082C|DBM_Vigilant_Patch.esp",
+  "type": "ACTI RNAM",
+  "index": null,
+  "editor_id": "DBM_VigilantCh2ACT"
+ },
+ {
+  "original": "Vigilant: Act 3",
+  "string": "Дозорный: Акт 3",
+  "form_id": "0000083D|DBM_Vigilant_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_VigilantCh3ACT"
+ },
+ {
+  "original": "Read Plaque",
+  "string": "Прочитать табличку",
+  "form_id": "0000083D|DBM_Vigilant_Patch.esp",
+  "type": "ACTI RNAM",
+  "index": null,
+  "editor_id": "DBM_VigilantCh3ACT"
+ },
+ {
+  "original": "Horn of Stendarr",
+  "string": "Рог Стендарра",
+  "form_id": "00000849|DBM_Vigilant_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_VGHornofStendarrACT"
+ },
+ {
+  "original": "Old Histus Flask",
+  "string": "Старый флакон хистуса",
+  "form_id": "0000084D|DBM_Vigilant_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_VGOldHistusFlask"
+ },
+ {
+  "original": "Histus Flask",
+  "string": "Флакон хистуса",
+  "form_id": "0000084F|DBM_Vigilant_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_VGFlaskofHistSap"
+ },
+ {
+  "original": "Blade of Mercy",
+  "string": "Клинок милосердия",
+  "form_id": "00000852|DBM_Vigilant_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_VGBladeofMercy"
+ },
+ {
+  "original": "Vigilant Greatsword",
+  "string": "Двуручный меч Дозорного",
+  "form_id": "00000856|DBM_Vigilant_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_VGVigilantGreatSword"
+ },
+ {
+  "original": "Vigilant's Mail Breaker",
+  "string": "Кольчугорез Дозорного",
+  "form_id": "0000085B|DBM_Vigilant_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_VGVigilantDaggerACT"
+ },
+ {
+  "original": "Umaril's Gauntlets",
+  "string": "Перчатки Умарила",
+  "form_id": "0000086A|DBM_Vigilant_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_VGUmarilGlovesACT"
+ },
+ {
+  "original": "Umaril's Helmet",
+  "string": "Шлем Умарила",
+  "form_id": "0000086C|DBM_Vigilant_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_VGUmarilHelmACT"
+ },
+ {
+  "original": "Umaril's Boots",
+  "string": "Сапоги Умарила",
+  "form_id": "0000086E|DBM_Vigilant_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_VGUmarilBootsACT"
+ },
+ {
+  "original": "Umaril's Cuirass",
+  "string": "Кираса Умарила",
+  "form_id": "00000870|DBM_Vigilant_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_VGUmarilArmorACT"
+ },
+ {
+  "original": "Umaril's Sword",
+  "string": "Меч Умарила",
+  "form_id": "00000874|DBM_Vigilant_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_VGUmarilSwordACT"
+ },
+ {
+  "original": "Head of St. Alessia",
+  "string": "Голова святой Алессии",
+  "form_id": "0000087A|DBM_Vigilant_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_VGHeadofAlessia"
+ },
+ {
+  "original": "Lilian's Doll",
+  "string": "Мишка Лилиан",
+  "form_id": "0000087C|DBM_Vigilant_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_VGLiliansDollACT"
+ },
+ {
+  "original": "Atima's Favorite Doll",
+  "string": "Любимая кукла Атимы",
+  "form_id": "0000087E|DBM_Vigilant_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_VGAtimaDollACT"
+ },
+ {
+  "original": "Frying Pan",
+  "string": "Сковорода",
+  "form_id": "00000880|DBM_Vigilant_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_VGFryingpanACT"
+ },
+ {
+  "original": "Warden's Helmet",
+  "string": "Шлем надзирателя",
+  "form_id": "00000882|DBM_Vigilant_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_VGWardenHelmetACT"
+ },
+ {
+  "original": "Egg of the Guardian of the Wasteland",
+  "string": "Яйцо Стража Пустошей",
+  "form_id": "00000884|DBM_Vigilant_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_VGGuardianEggACT"
+ },
+ {
+  "original": "Light of Magnus",
+  "string": "Свет Магнуса",
+  "form_id": "00000886|DBM_Vigilant_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_VGLightofMagusACT"
+ },
+ {
+  "original": "Beacon of Order",
+  "string": "Светоч Порядка",
+  "form_id": "00000888|DBM_Vigilant_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_VGOrderBeaconACT"
+ },
+ {
+  "original": "Chef's Ladle",
+  "string": "Половник повара",
+  "form_id": "0000088A|DBM_Vigilant_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_VGChefLadleACT"
+ },
+ {
+  "original": "Rose of Lamae",
+  "string": "Роза Лами",
+  "form_id": "0000088D|DBM_Vigilant_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_VGLamaeRoseACT"
+ },
+ {
+  "original": "Vigilant Sword",
+  "string": "Меч Дозорного",
+  "form_id": "00000891|DBM_Vigilant_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_VGVigilantSword"
+ },
+ {
+  "original": "Bloody Cleaver",
+  "string": "Кровавый тесак",
+  "form_id": "000008A0|DBM_Vigilant_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_VGButcherAxeACT"
+ },
+ {
+  "original": "Broken Sword",
+  "string": "Сломанный меч",
+  "form_id": "000008A2|DBM_Vigilant_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_VGBrokenSwordACT"
+ },
+ {
+  "original": "Blacksmith's Hammer",
+  "string": "Молот кузнеца",
+  "form_id": "000008A5|DBM_Vigilant_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_VGBlacksmithHammer"
+ },
+ {
+  "original": "Soul Drinker",
+  "string": "Пьющий души",
+  "form_id": "000008A8|DBM_Vigilant_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_VGSoulDrinker"
+ },
+ {
+  "original": "Eye of Marukh",
+  "string": "Око Марука",
+  "form_id": "000008AA|DBM_Vigilant_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_VGEyeOfMarukhACT"
+ },
+ {
+  "original": "Crown of the Leech King",
+  "string": "Корона короля пиявок",
+  "form_id": "000008AD|DBM_Vigilant_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DGCrownofLeeches"
+ },
+ {
+  "original": "Witch Doll",
+  "string": "Кукла ведьмы",
+  "form_id": "000008B2|DBM_Vigilant_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_VGWitchDoll"
+ },
+ {
+  "original": "Cursed Greatsword",
+  "string": "Проклятый двуручный меч",
+  "form_id": "000008B5|DBM_Vigilant_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_VGCursedSword"
+ },
+ {
+  "original": "Skinning Knife",
+  "string": "Нож для свежевания",
+  "form_id": "000008B7|DBM_Vigilant_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_VGGiantButcherKnife"
+ },
+ {
+  "original": "Beggar's Log",
+  "string": "Бревно нищего",
+  "form_id": "000008B9|DBM_Vigilant_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_VGBeggarsLog"
+ },
+ {
+  "original": "Varla's Shotel",
+  "string": "Шотель Варлы",
+  "form_id": "000008BB|DBM_Vigilant_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_VGVarlaShotel"
+ },
+ {
+  "original": "Gardener's Shotel",
+  "string": "Шотель садовника",
+  "form_id": "000008BD|DBM_Vigilant_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_VGGardenerShotel"
+ },
+ {
+  "original": "Daedric Scythe",
+  "string": "Даэдрическая коса",
+  "form_id": "000008BF|DBM_Vigilant_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_VGDaedricScythe"
+ },
+ {
+  "original": "Greatsword of the Stone Pursuer",
+  "string": "Двуручный меч Каменного преследователя",
+  "form_id": "0000091C|DBM_Vigilant_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_VGStonePursuerGS"
+ },
+ {
+  "original": "Heart of Dro'Zel",
+  "string": "Сердце Дро'зела",
+  "form_id": "0000091F|DBM_Vigilant_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_VGDrozelHeartACT"
+ },
+ {
+  "original": "Ada Bal",
+  "string": "Ада Бал",
+  "form_id": "00000923|DBM_Vigilant_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_VGAdaBal"
+ },
+ {
+  "original": "Bard's Dagger",
+  "string": "Кинжал барда",
+  "form_id": "00000926|DBM_Vigilant_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_VGBardsDagger"
+ },
+ {
+  "original": "Dragon Soul Stone",
+  "string": "Окаменевшая душа дракона",
+  "form_id": "00000955|DBM_Vigilant_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_VGDragonSoulStone"
+ },
+ {
+  "original": "Soulless Remains",
+  "string": "Бездушные останки",
+  "form_id": "00000957|DBM_Vigilant_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_VGSoullessRemains"
+ },
+ {
+  "original": "Ash of St. Sard",
+  "string": "Прах святого Сарда",
+  "form_id": "00000959|DBM_Vigilant_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_VGSardAsh"
+ },
+ {
+  "original": "Vigilant Act I: The Summoner",
+  "string": "Дозорный, Акт I: Призыватель",
+  "form_id": "0000097C|DBM_Vigilant_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_VigilantACTAct1"
+ },
+ {
+  "original": "Vigilant Act II: The Blood Matron",
+  "string": "Дозорный, Акт II: Кровавая Матрона",
+  "form_id": "0000097D|DBM_Vigilant_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_VigilantACTAct2"
+ },
+ {
+  "original": "Vigilant Act III: Child of Oblivion",
+  "string": "Дозорный, Акт III: Дитя Обливиона",
+  "form_id": "0000097E|DBM_Vigilant_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_VigilantACTAct3"
+ },
+ {
+  "original": "Vigilant Act IV: ColdHarbour",
+  "string": "Дозорный, Акт IV: Хладная гавань",
+  "form_id": "0000097F|DBM_Vigilant_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_VigilantACTAct4"
+ },
+ {
+  "original": "Old Kyne's Feather",
+  "string": "Перо старой Кин",
+  "form_id": "00000983|DBM_Vigilant_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_VGFeatherOfKyne"
+ },
+ {
+  "original": "Hide of Abbot Silorn",
+  "string": "Кожа аббата Силорна",
+  "form_id": "00000985|DBM_Vigilant_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_VGSilornLeather"
+ },
+ {
+  "original": "St. Dulsa's Nail",
+  "string": "Гвоздь святой Дулсы",
+  "form_id": "00000988|DBM_Vigilant_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_VGDulsaNail"
+ },
+ {
+  "original": "Bone of Jhunal",
+  "string": "Кость Джунала",
+  "form_id": "0000098A|DBM_Vigilant_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_VGJhunarlBone"
+ },
+ {
+  "original": "Unthrappa",
+  "string": "Антраппа",
+  "form_id": "0000098C|DBM_Vigilant_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_VGUnthrappa"
+ },
+ {
+  "original": "Helm of the Guardian of the Wasteland",
+  "string": "Шлем Стража Пустошей",
+  "form_id": "0000098F|DBM_Vigilant_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_VGWastelandGuardianHelm"
+ },
+ {
+  "original": "Vigilant: Act 4",
+  "string": "Дозорный: Акт 4",
+  "form_id": "0000099B|DBM_Vigilant_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_VigilantCh4ACT"
+ },
+ {
+  "original": "Read Plaque",
+  "string": "Прочитать табличку",
+  "form_id": "0000099B|DBM_Vigilant_Patch.esp",
+  "type": "ACTI RNAM",
+  "index": null,
+  "editor_id": "DBM_VigilantCh4ACT"
+ },
+ {
+  "original": "Cat Rings",
+  "string": "Кошачьи кольца",
+  "form_id": "000009C1|DBM_Vigilant_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_VGJewelryCatSetACT"
+ },
+ {
+  "original": "Orkey's Clutch Rings",
+  "string": "Кольца-хватки Оркея",
+  "form_id": "000009CE|DBM_Vigilant_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_VGJewelryClutchSetACT"
+ },
+ {
+  "original": "Quartz Rings",
+  "string": "Кварцевые кольца",
+  "form_id": "000009D9|DBM_Vigilant_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_VGJewelryElementalSetACT"
+ },
+ {
+  "original": "Laza of Order Cuirass",
+  "string": "Кираса Лазы Порядка",
+  "form_id": "000009E2|DBM_Vigilant_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_VGLazaArmor"
+ },
+ {
+  "original": "Laza of Order Boots",
+  "string": "Сапоги Лазы Порядка",
+  "form_id": "000009E4|DBM_Vigilant_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_VGLazaBoots"
+ },
+ {
+  "original": "Laza of Order Gauntlets",
+  "string": "Перчатки Лазы Порядка",
+  "form_id": "000009E6|DBM_Vigilant_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_VGLazaGauntlets"
+ },
+ {
+  "original": "Laza of Order Helmet",
+  "string": "Шлем Лазы Порядка",
+  "form_id": "000009E8|DBM_Vigilant_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_VGLazaHelmet"
+ },
+ {
+  "original": "Morihaus' Greatsword",
+  "string": "Двуручный меч Морихауса",
+  "form_id": "00000A01|DBM_Vigilant_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_VGMorihausSword"
+ },
+ {
+  "original": "Morihaus' Cuirass",
+  "string": "Кираса Морихауса",
+  "form_id": "00000A03|DBM_Vigilant_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_VGMorihausArmor"
+ },
+ {
+  "original": "Morihaus' Boots",
+  "string": "Сапоги Морихауса",
+  "form_id": "00000A05|DBM_Vigilant_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_VGMorihausBoots"
+ },
+ {
+  "original": "Morihaus' Gauntlets",
+  "string": "Перчатки Морихауса",
+  "form_id": "00000A07|DBM_Vigilant_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_VGMorihausGauntlets"
+ },
+ {
+  "original": "Morihaus' Helmet",
+  "string": "Шлем Морихауса",
+  "form_id": "00000A09|DBM_Vigilant_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_VGMorihausHelm"
+ },
+ {
+  "original": "Rapier of the Whisperer",
+  "string": "Рапира Шепчущего",
+  "form_id": "00000A0D|DBM_Vigilant_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_VGRapierofWhisperer"
+ },
+ {
+  "original": "Rapier of the Black Worm",
+  "string": "Рапира Черного Червя",
+  "form_id": "00000A10|DBM_Vigilant_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_VGRapierofBlackWorm"
+ },
+ {
+  "original": "Greatsword of Anui-El",
+  "string": "Двуручный меч Ануи-Эля",
+  "form_id": "00000A13|DBM_Vigilant_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_VGAkatoshGS"
+ },
+ {
+  "original": "Paladin Spear",
+  "string": "Копье паладина",
+  "form_id": "00000A16|DBM_Vigilant_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_VGPaladinSpear"
+ },
+ {
+  "original": "Knight of Kynareth Spear",
+  "string": "Копье рыцаря Кинарет",
+  "form_id": "00000A19|DBM_Vigilant_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_VGKynarethSpear"
+ },
+ {
+  "original": "Belharza's Dragonmaster Knight Spear",
+  "string": "Копье капитана драконов Белхарзы",
+  "form_id": "00000A1C|DBM_Vigilant_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_VGTowerSpear"
+ },
+ {
+  "original": "Emperor Gorieus' Sword",
+  "string": "Меч императора Гориеуса",
+  "form_id": "00000A1F|DBM_Vigilant_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_VGGorieusSword"
+ },
+ {
+  "original": "Moonlight Greatsword of Jode",
+  "string": "Лунный меч Джоуда",
+  "form_id": "00000A21|DBM_Vigilant_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_VGMoonlightSword"
+ },
+ {
+  "original": "Staff of Pope Megus",
+  "string": "Посох папы Мегуса",
+  "form_id": "00000A26|DBM_Vigilant_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_VGStaffofPope"
+ },
+ {
+  "original": "St. Pelan's Staff",
+  "string": "Посох святого Пелана",
+  "form_id": "00000A28|DBM_Vigilant_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_VGPelanStaff"
+ },
+ {
+  "original": "Bloody Helmet",
+  "string": "Кровавый шлем",
+  "form_id": "00000A31|DBM_Vigilant_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_VGPelinalHelmet"
+ },
+ {
+  "original": "Bloody Boots",
+  "string": "Кровавые сапоги",
+  "form_id": "00000A33|DBM_Vigilant_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_VGPelinalBoots"
+ },
+ {
+  "original": "Bloody Gauntlets",
+  "string": "Кровавые перчатки",
+  "form_id": "00000A35|DBM_Vigilant_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_VGPelinalGloves"
+ },
+ {
+  "original": "Bloody Cuirass",
+  "string": "Кровавая кираса",
+  "form_id": "00000A37|DBM_Vigilant_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_VGPelinalCuirass"
+ },
+ {
+  "original": "Kyne and Sard Rings",
+  "string": "Кольца Кин и Сарда",
+  "form_id": "00000A44|DBM_Vigilant_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_VGJewelrySardKyneSetACT"
+ },
+ {
+  "original": "Magnus, Phynaster and Jhunal Rings",
+  "string": "Кольца Магнуса, Финастера и Джунала",
+  "form_id": "00000A46|DBM_Vigilant_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_VGJewelryMPJSetACT"
+ },
+ {
+  "original": "Wooden, Nirn Origin and Sithis Rings",
+  "string": "Деревянное кольцо, кольцо Происхождения Нирна и кольцо Ситиса",
+  "form_id": "00000A48|DBM_Vigilant_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_VGJewelrySWNSetACT"
+ },
+ {
+  "original": "Arcane of Jhunal",
+  "string": "Тайна Джунала",
+  "form_id": "00000A55|DBM_Vigilant_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBMITEMTYPEACTArcaneofJhunal"
+ },
+ {
+  "original": "Vigilant Items",
+  "string": "Предметы из Дозорного",
+  "form_id": "00000912|DBM_Vigilant_Patch.esp",
+  "type": "CONT FULL",
+  "index": null,
+  "editor_id": "DBM_CheatCrateVigilant"
+ },
+ {
+  "original": "Vault Door",
+  "string": "Дверь хранилища",
+  "form_id": "00000840|DBM_Vigilant_Patch.esp",
+  "type": "DOOR FULL",
+  "index": null,
+  "editor_id": "DBMFarmhouseJailDoor01WWW"
+ },
+ {
+  "original": "Ada Bal (Replica)",
+  "string": "Ада Бал (копия)",
+  "form_id": "00000A4E|DBM_Vigilant_Patch.esp",
+  "type": "MISC FULL",
+  "index": null,
+  "editor_id": "zzzCHAdabalReplicaDBM"
+ },
+ {
+  "original": "Daedric Prince Molag Bal touched the mortal world in the 4th Era again, wearing the guise of a corrupted dragon and spreading his influence with the use of strange pieces of a mysterious Red Stone.\r\nBefore he could cause any lasting damage he was defeated and banished by the Dragonborn, who recently joined the Vigilants of Stendarr, a Daedra hunting guild in Skyrim.",
+  "string": "В Четвертую эру даэдрический принц Молаг Бал вновь коснулся мира смертных: приняв облик оскверненного дракона, он распространял свое влияние с помощью странных осколков загадочного Красного Камня.\r\nНо прежде чем он успел причинить непоправимый вред, его одолел и изгнал Довакин, незадолго до того вступивший в ряды Дозорных Стендарра - гильдии охотников на даэдра в Скайриме.",
+  "form_id": "00000819|DBM_Vigilant_Patch.esp",
+  "type": "MESG DESC",
+  "index": null,
+  "editor_id": "DBM_VigilantAct1GoodMSG"
+ },
+ {
+  "original": "Daedric Prince Molag Bal touched the mortal world in the 4th Era again, wearing the guise of a corrupted dragon and spreading his influence with the use of strange pieces of a mysterious Red Stone.\r\nThe outcome of his summoning is unknown as of yet and surely spells nothing good for the mortals, but there are rumors of a confrontation with the Dragonborn taking place.",
+  "string": "В Четвертую эру даэдрический принц Молаг Бал вновь коснулся мира смертных: приняв облик оскверненного дракона, он распространял свое влияние с помощью странных осколков загадочного Красного Камня.\r\nЧем закончился его призыв, пока неизвестно, и смертным это явно не сулит ничего хорошего, но ходят слухи о схватке между ним и Довакином.",
+  "form_id": "0000081B|DBM_Vigilant_Patch.esp",
+  "type": "MESG DESC",
+  "index": null,
+  "editor_id": "DBM_VigilantAct1BadMSG"
+ },
+ {
+  "original": "Dragonborn's ordeal in Coldharbour culminated with the final confrontation with Molag Bal, ending with defeat of the Daedric Prince of Domination. And not only that, during their journey through Coldharbour the Dragonborn\r\nmanaged to bring peace to its cursed inhabitants, which is represented by the display before you. And perhaps, just perhaps, even the dreaded Molag Bal learned something from his defeat?",
+  "string": "Испытания Довакина в Хладной гавани завершились последней схваткой с Молагом Балом и поражением даэдрического принца господства. Более того, странствуя по Хладной гавани, Довакин\r\nсумел даровать покой ее проклятым обитателям, о чем и напоминает этот экспонат. И, быть может - лишь быть может, - даже грозный Молаг Бал чему-то научился после своего поражения?",
+  "form_id": "0000099D|DBM_Vigilant_Patch.esp",
+  "type": "MESG DESC",
+  "index": null,
+  "editor_id": "DBM_VigilantAct4TrueMSG"
+ },
+ {
+  "original": "Dragonborn's ordeal in Coldharbour culminated with the final confrontation with Molag Bal, ending with defeat of the Daedric Prince of Domination. As proof of this battle taking place, the Dragonborn took as a trophy\r\nthe Red Stone, which was used by Molag Bal to collect mortal souls through the ages.",
+  "string": "Испытания Довакина в Хладной гавани завершились последней схваткой с Молагом Балом и поражением даэдрического принца господства. В доказательство этой битвы Довакин забрал в качестве трофея\r\nКрасный Камень, с помощью которого Молаг Бал веками собирал души смертных.",
+  "form_id": "0000099E|DBM_Vigilant_Patch.esp",
+  "type": "MESG DESC",
+  "index": null,
+  "editor_id": "DBM_VigilantAct4BitterMSG"
+ },
+ {
+  "original": "Shortly after Dragonborn's confrontation with Molag Bal, Lamae Bal, the first vampire created by the very same Daedric Prince, awoke deep in Windhelm underground.\r\nDragonborn was called to solve the resulting vampire menace and while they seemed to be successful, a dark aura still hangs over Windhelm.",
+  "string": "Вскоре после схватки Довакина с Молагом Балом в глубинах подземелий Виндхельма пробудилась Лами Бал - первая вампирша, созданная тем самым даэдрическим принцем.\r\nДовакина призвали покончить с вампирской угрозой, и, хотя это, похоже, удалось, над Виндхельмом все еще висит мрачная аура.",
+  "form_id": "0000082D|DBM_Vigilant_Patch.esp",
+  "type": "MESG DESC",
+  "index": null,
+  "editor_id": "DBM_VigilantAct2BadMSG"
+ },
+ {
+  "original": "Shortly after Dragonborn's confrontation with Molag Bal, Lamae Bal, the first vampire created by the very same Daedric Prince, awoke deep in Windhelm underground.\r\nDragonborn was able to eradicate the resulting vampire menace and save Lamae from the curse of Molag Bal, finally granting her eternal peace.",
+  "string": "Вскоре после схватки Довакина с Молагом Балом в глубинах подземелий Виндхельма пробудилась Лами Бал - первая вампирша, созданная тем самым даэдрическим принцем.\r\nДовакину удалось искоренить вампирскую угрозу и избавить Лами от проклятия Молага Бала, наконец даровав ей вечный покой.",
+  "form_id": "0000082E|DBM_Vigilant_Patch.esp",
+  "type": "MESG DESC",
+  "index": null,
+  "editor_id": "DBM_VigilantAct2GoodMSG"
+ },
+ {
+  "original": "After dealing with the vampires in Windhelm, Dragonborn was sent to investigate a series of strange incidents in a noble's mansion from Chorrol. The incidents, however, proved to be of a Daedric nature.\r\nThe mansion was cursed by Molag Bal and eventually an Oblivion Gate to Coldharbour, his plane of Oblivion, opened there and even the Dragonborn could not resist its pull.",
+  "string": "Разобравшись с вампирами в Виндхельме, Довакин отправился расследовать череду странных происшествий в особняке одного знатного семейства из Коррола. Однако происшествия оказались даэдрическими по своей природе.\r\nОсобняк проклял Молаг Бал, и в конце концов там открылись Врата Обливиона в Хладную гавань, его план Обливиона, - и даже Довакин не смог устоять перед их притяжением.",
+  "form_id": "00000991|DBM_Vigilant_Patch.esp",
+  "type": "MESG DESC",
+  "index": null,
+  "editor_id": "DBM_VigilantAct3GoodMSG"
+ },
+ {
+  "original": "Would you like to place all items on display or remove them?",
+  "string": "Выставить все предметы или убрать их?",
+  "form_id": "000009C3|DBM_Vigilant_Patch.esp",
+  "type": "MESG DESC",
+  "index": null,
+  "editor_id": "DBM_JewelrySetDisplay"
+ },
+ {
+  "original": "Place Set",
+  "string": "Разместить",
+  "form_id": "000009C3|DBM_Vigilant_Patch.esp",
+  "type": "MESG ITXT",
+  "index": 0,
+  "editor_id": "DBM_JewelrySetDisplay"
+ },
+ {
+  "original": "Remove Set",
+  "string": "Убрать комплект",
+  "form_id": "000009C3|DBM_Vigilant_Patch.esp",
+  "type": "MESG ITXT",
+  "index": 1,
+  "editor_id": "DBM_JewelrySetDisplay"
+ },
+ {
+  "original": "Daedric Prince Molag Bal touched the mortal world in the 4th Era again, through the manipulation of a powerful Summoner, spreading his influence with the use of strange pieces of a mysterious Red Stone.\r\nThe Dragonborn, having recently joined the Vigilants of Stendarr, a Daedra hunting guild in Skyrim, banished him before he could be fully summoned by defeating his weakened form which emerged from a corrupted Vigilant.",
+  "string": "В Четвертую эру даэдрический принц Молаг Бал вновь коснулся мира смертных: манипулируя могущественным призывателем, он распространял свое влияние с помощью странных осколков загадочного Красного Камня.\r\nДовакин, незадолго до того вступивший в ряды Дозорных Стендарра - гильдии охотников на даэдра в Скайриме, - изгнал его прежде, чем призыв завершился, одолев ослабленное воплощение принца, вырвавшееся из оскверненного Дозорного.",
+  "form_id": "00000A62|DBM_Vigilant_Patch.esp",
+  "type": "MESG DESC",
+  "index": null,
+  "editor_id": "DBM_VigilantAct1AltMSG"
+ },
+ {
+  "original": "Dragonborn's ordeal in Coldharbour culminated with the final confrontation with Molag Bal, ending with defeat of the Daedric Prince of Domination. Despite them being victorious in battle, the Dragonborn insists\r\nthat the Vigilants of Stendarr and firm faith in the Divines are mortals' best hope against the ceaseless corruption of the Daedra.",
+  "string": "Испытания Довакина в Хладной гавани завершились последней схваткой с Молагом Балом и поражением даэдрического принца господства. Несмотря на победу в битве, Довакин настаивает,\r\nчто Дозорные Стендарра и твердая вера в Девятерых - лучшая надежда смертных в борьбе с непрестанной порчей даэдра.",
+  "form_id": "0000099F|DBM_Vigilant_Patch.esp",
+  "type": "MESG DESC",
+  "index": null,
+  "editor_id": "DBM_VigilantAct4MadnessMSG"
+ },
+ {
+  "original": "Dragonborn's ordeal in Coldharbour culminated with the final confrontation with Molag Bal, ending with defeat of the Daedric Prince of Domination. An ominous Red Stone Molag Bal used to gather souls through the ages is the proof\r\nof this battle taking place, and while the area around is secure, visitors are still advised not to linger around it for too long, as its thirst for souls is unquenchable.",
+  "string": "Испытания Довакина в Хладной гавани завершились последней схваткой с Молагом Балом и поражением даэдрического принца господства. Доказательство этой битвы - зловещий Красный Камень, с помощью которого Молаг Бал веками собирал души.\r\nХотя место вокруг него безопасно, посетителям все же не советуют задерживаться рядом слишком долго: его жажда душ неутолима.",
+  "form_id": "000009A0|DBM_Vigilant_Patch.esp",
+  "type": "MESG DESC",
+  "index": null,
+  "editor_id": "DBM_VigilantAct4WorstMSG"
+ },
+ {
+  "original": "It is unknown what exactly happened during Dragonborn's ordeal in Coldharbour, but after their mysterious return to mortal world it is probably safe to assume that a final confrontation with Molag Bal took place there.\r\nA strange, heavy presence hangs over the world, however, and mortals fear for their souls more than ever.",
+  "string": "Неизвестно, что именно произошло во время испытаний Довакина в Хладной гавани, но после загадочного возвращения в мир смертных можно с уверенностью предположить, что там состоялась последняя схватка с Молагом Балом.\r\nОднако над миром нависло странное, гнетущее присутствие, и смертные боятся за свои души как никогда прежде.",
+  "form_id": "000009A1|DBM_Vigilant_Patch.esp",
+  "type": "MESG DESC",
+  "index": null,
+  "editor_id": "DBM_VigilantAct4BadMSG"
+ }
+]

@@ -1,0 +1,138 @@
+[
+ {
+  "original": "College of Winterhold Quest",
+  "string": "Задание Коллегии Винтерхолда",
+  "form_id": "00000818|DBM_ImmersiveCollegeofWinterhold_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CWIQuest"
+ },
+ {
+  "original": "Doll (boy)",
+  "string": "Кукла (мальчик)",
+  "form_id": "00000861|DBM_ImmersiveCollegeofWinterhold_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTCWIDollM"
+ },
+ {
+  "original": "Doll (girl)",
+  "string": "Кукла (девочка)",
+  "form_id": "00000865|DBM_ImmersiveCollegeofWinterhold_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTCWIDollF"
+ },
+ {
+  "original": "Toy Dragon",
+  "string": "Игрушечный дракон",
+  "form_id": "00000867|DBM_ImmersiveCollegeofWinterhold_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTCWIDollD"
+ },
+ {
+  "original": "Waterpipe 1",
+  "string": "Водопроводная труба 1",
+  "form_id": "00000869|DBM_ImmersiveCollegeofWinterhold_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTCWIWaterpipe1"
+ },
+ {
+  "original": "Waterpipe 2",
+  "string": "Водопроводная труба 2",
+  "form_id": "0000086B|DBM_ImmersiveCollegeofWinterhold_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTCWIWaterpipe2"
+ },
+ {
+  "original": "Teacup",
+  "string": "Чашка",
+  "form_id": "0000086D|DBM_ImmersiveCollegeofWinterhold_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTCWITeacup"
+ },
+ {
+  "original": "Beaker",
+  "string": "Кубок",
+  "form_id": "0000086F|DBM_ImmersiveCollegeofWinterhold_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTCWIBeaker"
+ },
+ {
+  "original": "Teapot",
+  "string": "Чайник",
+  "form_id": "00000871|DBM_ImmersiveCollegeofWinterhold_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTCWITeapot"
+ },
+ {
+  "original": "Glass",
+  "string": "Стекло",
+  "form_id": "00000873|DBM_ImmersiveCollegeofWinterhold_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTCWIGlass"
+ },
+ {
+  "original": "Urn 2",
+  "string": "Урна 2",
+  "form_id": "00000875|DBM_ImmersiveCollegeofWinterhold_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTCWIUrn2"
+ },
+ {
+  "original": "Urn 1",
+  "string": "Урна 1",
+  "form_id": "00000877|DBM_ImmersiveCollegeofWinterhold_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTCWIUrn1"
+ },
+ {
+  "original": "Kettle",
+  "string": "Казан",
+  "form_id": "00000879|DBM_ImmersiveCollegeofWinterhold_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTCWIKettle"
+ },
+ {
+  "original": "Abominable Staff",
+  "string": "Отвратительный посох",
+  "form_id": "0000087B|DBM_ImmersiveCollegeofWinterhold_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTCWIAbominableStaff"
+ },
+ {
+  "original": "Beinaarkh's Ring",
+  "string": "Кольцо Бейнарха ",
+  "form_id": "00000883|DBM_ImmersiveCollegeofWinterhold_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBMITEMTYPEACTBeinaarkhsRing"
+ },
+ {
+  "original": "College of Winterhold Items",
+  "string": "Предметы Коллегии Винтерхолда",
+  "form_id": "0000087E|DBM_ImmersiveCollegeofWinterhold_Patch.esp",
+  "type": "CONT FULL",
+  "index": null,
+  "editor_id": "DBM_CheatCrateCWI"
+ },
+ {
+  "original": "CWI Support Handler",
+  "string": "Поддержка CWI (служебный)",
+  "form_id": "0000087C|DBM_ImmersiveCollegeofWinterhold_Patch.esp",
+  "type": "QUST FULL",
+  "index": null,
+  "editor_id": "DBM_CollegeofWinterholdSupportHandler"
+ }
+]

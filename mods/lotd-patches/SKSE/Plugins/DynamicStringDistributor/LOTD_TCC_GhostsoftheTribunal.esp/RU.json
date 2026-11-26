@@ -1,0 +1,26 @@
+[
+ {
+  "original": "Hall of Wonders",
+  "string": "Зал чудес",
+  "form_id": "000104C9|DBM_CC_HallOfWonders.esp",
+  "type": "CELL FULL",
+  "index": null,
+  "editor_id": "DBMDGHallofWondersCC"
+ },
+ {
+  "original": "The Curators Companion - Alternate Armors - Daedric Mail",
+  "string": "Помощник куратора - Альтернативная броня - Даэдрическая кольчуга",
+  "form_id": "00000800|LOTD_TCC_GhostsoftheTribunal.esp",
+  "type": "QUST FULL",
+  "index": null,
+  "editor_id": "TCC_SM_GOTT"
+ },
+ {
+  "original": "<font color='#<Alias=ColourAlias>'>The Curators Companion: Mod Complete (Ghosts of the Tribunal)</font>",
+  "string": "<font color='#<Alias=ColourAlias>'>Компаньон куратора: Мод завершен (Призраки Трибунала)</font>",
+  "form_id": "00000803|LOTD_TCC_GhostsoftheTribunal.esp",
+  "type": "MESG DESC",
+  "index": null,
+  "editor_id": "_CompleteNotification_GOTT"
+ }
+]

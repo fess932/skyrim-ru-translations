@@ -1,0 +1,850 @@
+[
+ {
+  "original": "Alocasia Fruit (replica)",
+  "string": "Плод алоказии (копия)",
+  "form_id": "00000807|DBM_CC_RareCuriosHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTAlocasiaFruit"
+ },
+ {
+  "original": "Ambrosia (replica)",
+  "string": "Амброзия (копия)",
+  "form_id": "0000084A|DBM_CC_RareCuriosHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTAmbrosia"
+ },
+ {
+  "original": "Aster Bloom Core (replica)",
+  "string": "Цветок астры (копия)",
+  "form_id": "0000084B|DBM_CC_RareCuriosHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTAsterBloomCore"
+ },
+ {
+  "original": "Bittergreen Petals (replica)",
+  "string": "Лепестки горьколистника (копия)",
+  "form_id": "0000084C|DBM_CC_RareCuriosHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTBittergreenPetals"
+ },
+ {
+  "original": "Blind Watcher's Eye (replica)",
+  "string": "Слепой глаз дозорного (копия)",
+  "form_id": "0000084D|DBM_CC_RareCuriosHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTBlindWatchersEye"
+ },
+ {
+  "original": "Blister Pod Cap (replica)",
+  "string": "Шляпка волдырника (копия)",
+  "form_id": "0000084E|DBM_CC_RareCuriosHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTBlisterPodCap"
+ },
+ {
+  "original": "Bog Beacon (replica)",
+  "string": "Болотная митрула (копия)",
+  "form_id": "0000084F|DBM_CC_RareCuriosHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTBogBeacon"
+ },
+ {
+  "original": "Bungler's Bane (replica)",
+  "string": "Банглер бейн (копия)",
+  "form_id": "00000850|DBM_CC_RareCuriosHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTBunglersBane"
+ },
+ {
+  "original": "Chokeberry (replica)",
+  "string": "Арония (копия)",
+  "form_id": "00000851|DBM_CC_RareCuriosHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTChokeberry"
+ },
+ {
+  "original": "Chokeweed (replica)",
+  "string": "Удушайка (копия)",
+  "form_id": "00000852|DBM_CC_RareCuriosHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTChokeweed"
+ },
+ {
+  "original": "Coda Flower (replica)",
+  "string": "Цветок коды (копия)",
+  "form_id": "00000853|DBM_CC_RareCuriosHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTCodaFlower"
+ },
+ {
+  "original": "Comberry (replica)",
+  "string": "Комуника (копия)",
+  "form_id": "00000854|DBM_CC_RareCuriosHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTComberry"
+ },
+ {
+  "original": "Congealed Putrescence (replica)",
+  "string": "Затвердевшая гниль (копия)",
+  "form_id": "00000855|DBM_CC_RareCuriosHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTCongealedPutrescence"
+ },
+ {
+  "original": "Corkbulb Root (replica)",
+  "string": "Корень пробочника (копия)",
+  "form_id": "00000856|DBM_CC_RareCuriosHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTCorkbulbRoot"
+ },
+ {
+  "original": "Daedra Silk (replica)",
+  "string": "Шелк даэдра (копия)",
+  "form_id": "00000857|DBM_CC_RareCuriosHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTDaedraSilk"
+ },
+ {
+  "original": "Daedra Venin (replica)",
+  "string": "Яд даэдра (копия)",
+  "form_id": "00000858|DBM_CC_RareCuriosHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTDaedraVenin"
+ },
+ {
+  "original": "Daedroth Teeth (replica)",
+  "string": "Зубы даэдрота (копия)",
+  "form_id": "00000859|DBM_CC_RareCuriosHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTDaedrothTeeth"
+ },
+ {
+  "original": "Dreugh Wax (replica)",
+  "string": "Дреугский воск (копия)",
+  "form_id": "0000085A|DBM_CC_RareCuriosHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTDreughWax"
+ },
+ {
+  "original": "Elytra Ichor (replica)",
+  "string": "Ихор элитры (копия)",
+  "form_id": "0000085B|DBM_CC_RareCuriosHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTElytraIchor"
+ },
+ {
+  "original": "Fire Petal (replica)",
+  "string": "Огненный лепесток (копия)",
+  "form_id": "0000085C|DBM_CC_RareCuriosHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTFirePetal"
+ },
+ {
+  "original": "Flame Stalk (replica)",
+  "string": "Огненный гриб (копия)",
+  "form_id": "0000085D|DBM_CC_RareCuriosHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTFlameStalk"
+ },
+ {
+  "original": "Fungus Stalk (replica)",
+  "string": "Грибная трава (копия)",
+  "form_id": "0000085E|DBM_CC_RareCuriosHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTFungusStalk"
+ },
+ {
+  "original": "Gnarl Bark (replica)",
+  "string": "Кора гнарла (копия)",
+  "form_id": "0000085F|DBM_CC_RareCuriosHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTGnarlBark"
+ },
+ {
+  "original": "Gold Kanet (replica)",
+  "string": "Золотой канет (копия)",
+  "form_id": "00000860|DBM_CC_RareCuriosHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTGoldKanet"
+ },
+ {
+  "original": "Hackle-Lo Leaf (replica)",
+  "string": "Лист хакльлоу (копия)",
+  "form_id": "00000861|DBM_CC_RareCuriosHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTHackleLoLeaf"
+ },
+ {
+  "original": "Heart of Order (replica)",
+  "string": "Сердце Порядка (копия)",
+  "form_id": "00000862|DBM_CC_RareCuriosHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTHeartOfOrder"
+ },
+ {
+  "original": "Hunger Tongue (replica)",
+  "string": "Язык алчущего (копия)",
+  "form_id": "00000863|DBM_CC_RareCuriosHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTHungerTongue"
+ },
+ {
+  "original": "Hydnum Azure Giant Spore (replica)",
+  "string": "Гигантская спора ежовика лазурного (копия)",
+  "form_id": "00000864|DBM_CC_RareCuriosHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTHydnumAzureGiantSpore"
+ },
+ {
+  "original": "Hypha Facia (replica)",
+  "string": "Гайфа фация (копия)",
+  "form_id": "00000865|DBM_CC_RareCuriosHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTHyphaFacia"
+ },
+ {
+  "original": "Imp Gall (replica)",
+  "string": "Желчь беса (копия)",
+  "form_id": "00000866|DBM_CC_RareCuriosHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTImpGall"
+ },
+ {
+  "original": "Kagouti Hide (replica)",
+  "string": "Шкура кагути (копия)",
+  "form_id": "00000867|DBM_CC_RareCuriosHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTKagoutiHide"
+ },
+ {
+  "original": "Kresh Fiber (replica)",
+  "string": "Волокно креша (копия)",
+  "form_id": "00000868|DBM_CC_RareCuriosHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTKreshFiber"
+ },
+ {
+  "original": "Lichor (replica)",
+  "string": "Лихор (копия)",
+  "form_id": "00000869|DBM_CC_RareCuriosHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTLichor"
+ },
+ {
+  "original": "Luminous Russula (replica)",
+  "string": "Светящаяся сыроежка (копия)",
+  "form_id": "0000086A|DBM_CC_RareCuriosHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTLuminousRussula"
+ },
+ {
+  "original": "Marshmerrow (replica)",
+  "string": "Болотный тростник (копия)",
+  "form_id": "0000086B|DBM_CC_RareCuriosHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTMarshmerrow"
+ },
+ {
+  "original": "Minotaur Horn (replica)",
+  "string": "Рог минотавра (копия)",
+  "form_id": "0000086C|DBM_CC_RareCuriosHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTMinotaurHorn"
+ },
+ {
+  "original": "Ogre's Teeth (replica)",
+  "string": "Зубы огра (копия)",
+  "form_id": "0000086D|DBM_CC_RareCuriosHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTOgresTeeth"
+ },
+ {
+  "original": "Red Kelp Gas Bladder (replica)",
+  "string": "Газовый пузырь красной водоросли (копия)",
+  "form_id": "0000086E|DBM_CC_RareCuriosHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTRedKelpGasBladder"
+ },
+ {
+  "original": "Redwort (replica)",
+  "string": "Красный корень (копия)",
+  "form_id": "0000086F|DBM_CC_RareCuriosHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTRedwort"
+ },
+ {
+  "original": "Roobrush (replica)",
+  "string": "Рубраш (копия)",
+  "form_id": "00000870|DBM_CC_RareCuriosHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTRoobrush"
+ },
+ {
+  "original": "Saltrice (replica)",
+  "string": "Соленый рис (копия)",
+  "form_id": "00000871|DBM_CC_RareCuriosHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTSaltrice"
+ },
+ {
+  "original": "Scalon Fin (replica)",
+  "string": "Плавник скейлона (копия)",
+  "form_id": "00000872|DBM_CC_RareCuriosHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTScalonFin"
+ },
+ {
+  "original": "Scrib Jelly (replica)",
+  "string": "Скрибовое желе (копия)",
+  "form_id": "00000873|DBM_CC_RareCuriosHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTScribJelly"
+ },
+ {
+  "original": "Scrib Jerky (replica)",
+  "string": "Вяленая скрибятина (копия)",
+  "form_id": "00000874|DBM_CC_RareCuriosHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTScribJerky"
+ },
+ {
+  "original": "Sload Soap (replica)",
+  "string": "Мыло слоад (копия)",
+  "form_id": "00000875|DBM_CC_RareCuriosHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTSloadSoap"
+ },
+ {
+  "original": "Stoneflower Petals (replica)",
+  "string": "Лепестки каменевки (копия)",
+  "form_id": "00000876|DBM_CC_RareCuriosHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTStoneflowerPetals"
+ },
+ {
+  "original": "Void Essence (replica)",
+  "string": "Эссенция пустоты (копия)",
+  "form_id": "00000877|DBM_CC_RareCuriosHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTSVoidEssence"
+ },
+ {
+  "original": "Watcher's Eye (replica)",
+  "string": "Глаз дозорного (копия)",
+  "form_id": "00000878|DBM_CC_RareCuriosHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTSWatchersEye"
+ },
+ {
+  "original": "Wisp Stalk Caps (replica)",
+  "string": "Шляпки гифоломы (копия)",
+  "form_id": "00000879|DBM_CC_RareCuriosHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTSWispStalkCaps"
+ },
+ {
+  "original": "Withering Moon (replica)",
+  "string": "Усыхающая луна (копия)",
+  "form_id": "0000087A|DBM_CC_RareCuriosHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTSWitheringMoon"
+ },
+ {
+  "original": "Worm's Head Cap (replica)",
+  "string": "Шляпка головы червя (копия)",
+  "form_id": "0000087B|DBM_CC_RareCuriosHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTSWormsHeadCap"
+ },
+ {
+  "original": "Flawed Varla Stone",
+  "string": "Поврежденный камень варла",
+  "form_id": "000008B3|DBM_CC_RareCuriosHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTFlawedVarlaStone"
+ },
+ {
+  "original": "Welkynd Stone",
+  "string": "Велкиндский камень",
+  "form_id": "000008B5|DBM_CC_RareCuriosHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTWelkyndStone"
+ },
+ {
+  "original": "Alocasia Fruit (replica)",
+  "string": "Плод алоказии (копия)",
+  "form_id": "00000804|DBM_CC_RareCuriosHOWPatch.esp",
+  "type": "MISC FULL",
+  "index": null,
+  "editor_id": "DBM_CC_AlocasiaFruitREPLICA"
+ },
+ {
+  "original": "Ambrosia (replica)",
+  "string": "Амброзия (копия)",
+  "form_id": "0000080D|DBM_CC_RareCuriosHOWPatch.esp",
+  "type": "MISC FULL",
+  "index": null,
+  "editor_id": "DBM_CC_AmbrosiaREPLICA"
+ },
+ {
+  "original": "Aster Bloom Core (replica)",
+  "string": "Цветок астры (копия)",
+  "form_id": "0000080E|DBM_CC_RareCuriosHOWPatch.esp",
+  "type": "MISC FULL",
+  "index": null,
+  "editor_id": "DBM_CC_AsterBloomCoreREPLICA"
+ },
+ {
+  "original": "Bittergreen Petals (replica)",
+  "string": "Лепестки горьколистника (копия)",
+  "form_id": "0000080F|DBM_CC_RareCuriosHOWPatch.esp",
+  "type": "MISC FULL",
+  "index": null,
+  "editor_id": "DBM_CC_BittergreenPetalsREPLICA"
+ },
+ {
+  "original": "Blind Watcher's Eye (replica)",
+  "string": "Слепой глаз дозорного (копия)",
+  "form_id": "00000810|DBM_CC_RareCuriosHOWPatch.esp",
+  "type": "MISC FULL",
+  "index": null,
+  "editor_id": "DBM_CC_BlindWatchersEyeREPLICA"
+ },
+ {
+  "original": "Blister Pod Cap (replica)",
+  "string": "Шляпка волдырника (копия)",
+  "form_id": "00000811|DBM_CC_RareCuriosHOWPatch.esp",
+  "type": "MISC FULL",
+  "index": null,
+  "editor_id": "DBM_CC_BlisterPodCapREPLICA"
+ },
+ {
+  "original": "Bog Beacon (replica)",
+  "string": "Болотная митрула (копия)",
+  "form_id": "00000812|DBM_CC_RareCuriosHOWPatch.esp",
+  "type": "MISC FULL",
+  "index": null,
+  "editor_id": "DBM_CC_BogBeaconREPLICA"
+ },
+ {
+  "original": "Bungler's Bane (replica)",
+  "string": "Банглер бейн (копия)",
+  "form_id": "00000813|DBM_CC_RareCuriosHOWPatch.esp",
+  "type": "MISC FULL",
+  "index": null,
+  "editor_id": "DBM_CC_BunglersBaneREPLICA"
+ },
+ {
+  "original": "Chokeberry (replica)",
+  "string": "Арония (копия)",
+  "form_id": "00000814|DBM_CC_RareCuriosHOWPatch.esp",
+  "type": "MISC FULL",
+  "index": null,
+  "editor_id": "DBM_CC_ChokeberryREPLICA"
+ },
+ {
+  "original": "Chokeweed (replica)",
+  "string": "Удушайка (копия)",
+  "form_id": "00000815|DBM_CC_RareCuriosHOWPatch.esp",
+  "type": "MISC FULL",
+  "index": null,
+  "editor_id": "DBM_CC_ChokeweedREPLICA"
+ },
+ {
+  "original": "Coda Flower (replica)",
+  "string": "Цветок коды (копия)",
+  "form_id": "00000816|DBM_CC_RareCuriosHOWPatch.esp",
+  "type": "MISC FULL",
+  "index": null,
+  "editor_id": "DBM_CC_CodaFlowerREPLICA"
+ },
+ {
+  "original": "Comberry (replica)",
+  "string": "Комуника (копия)",
+  "form_id": "00000817|DBM_CC_RareCuriosHOWPatch.esp",
+  "type": "MISC FULL",
+  "index": null,
+  "editor_id": "DBM_CC_ComberryREPLICA"
+ },
+ {
+  "original": "Congealed Putrescence (replica)",
+  "string": "Затвердевшая гниль (копия)",
+  "form_id": "00000818|DBM_CC_RareCuriosHOWPatch.esp",
+  "type": "MISC FULL",
+  "index": null,
+  "editor_id": "DBM_CC_CongealedPutrescenceREPLICA"
+ },
+ {
+  "original": "Corkbulb Root (replica)",
+  "string": "Корень пробочника (копия)",
+  "form_id": "00000819|DBM_CC_RareCuriosHOWPatch.esp",
+  "type": "MISC FULL",
+  "index": null,
+  "editor_id": "DBM_CC_CorkbulbRootREPLICA"
+ },
+ {
+  "original": "Daedra Silk (replica)",
+  "string": "Шелк даэдра (копия)",
+  "form_id": "0000081A|DBM_CC_RareCuriosHOWPatch.esp",
+  "type": "MISC FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DaedraSilkREPLICA"
+ },
+ {
+  "original": "Daedra Venin (replica)",
+  "string": "Яд даэдра (копия)",
+  "form_id": "0000081B|DBM_CC_RareCuriosHOWPatch.esp",
+  "type": "MISC FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DaedraVeninREPLICA"
+ },
+ {
+  "original": "Daedroth Teeth (replica)",
+  "string": "Зубы даэдрота (копия)",
+  "form_id": "0000081C|DBM_CC_RareCuriosHOWPatch.esp",
+  "type": "MISC FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DaedrothTeethREPLICA"
+ },
+ {
+  "original": "Dreugh Wax (replica)",
+  "string": "Дреугский воск (копия)",
+  "form_id": "0000081D|DBM_CC_RareCuriosHOWPatch.esp",
+  "type": "MISC FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DreughWaxREPLICA"
+ },
+ {
+  "original": "Elytra Ichor (replica)",
+  "string": "Ихор элитры (копия)",
+  "form_id": "0000081E|DBM_CC_RareCuriosHOWPatch.esp",
+  "type": "MISC FULL",
+  "index": null,
+  "editor_id": "DBM_CC_ElytraIchorREPLICA"
+ },
+ {
+  "original": "Fire Petal (replica)",
+  "string": "Огненный лепесток (копия)",
+  "form_id": "0000081F|DBM_CC_RareCuriosHOWPatch.esp",
+  "type": "MISC FULL",
+  "index": null,
+  "editor_id": "DBM_CC_FirePetalREPLICA"
+ },
+ {
+  "original": "Flame Stalk (replica)",
+  "string": "Огненный гриб (копия)",
+  "form_id": "00000820|DBM_CC_RareCuriosHOWPatch.esp",
+  "type": "MISC FULL",
+  "index": null,
+  "editor_id": "DBM_CC_FlameStalkREPLICA"
+ },
+ {
+  "original": "Fungus Stalk (replica)",
+  "string": "Грибная трава (копия)",
+  "form_id": "00000821|DBM_CC_RareCuriosHOWPatch.esp",
+  "type": "MISC FULL",
+  "index": null,
+  "editor_id": "DBM_CC_FungusStalkREPLICA"
+ },
+ {
+  "original": "Gnarl Bark (replica)",
+  "string": "Кора гнарла (копия)",
+  "form_id": "00000822|DBM_CC_RareCuriosHOWPatch.esp",
+  "type": "MISC FULL",
+  "index": null,
+  "editor_id": "DBM_CC_GnarlBarkREPLICA"
+ },
+ {
+  "original": "Gold Kanet (replica)",
+  "string": "Золотой канет (копия)",
+  "form_id": "00000823|DBM_CC_RareCuriosHOWPatch.esp",
+  "type": "MISC FULL",
+  "index": null,
+  "editor_id": "DBM_CC_GoldKanetREPLICA"
+ },
+ {
+  "original": "Hackle-Lo Leaf (replica)",
+  "string": "Лист хакльлоу (копия)",
+  "form_id": "00000824|DBM_CC_RareCuriosHOWPatch.esp",
+  "type": "MISC FULL",
+  "index": null,
+  "editor_id": "DBM_CC_HackleLoLeafREPLICA"
+ },
+ {
+  "original": "Heart of Order (replica)",
+  "string": "Сердце Порядка (копия)",
+  "form_id": "00000825|DBM_CC_RareCuriosHOWPatch.esp",
+  "type": "MISC FULL",
+  "index": null,
+  "editor_id": "DBM_CC_HeartOfOrderREPLICA"
+ },
+ {
+  "original": "Hunger Tongue (replica)",
+  "string": "Язык алчущего (копия)",
+  "form_id": "00000826|DBM_CC_RareCuriosHOWPatch.esp",
+  "type": "MISC FULL",
+  "index": null,
+  "editor_id": "DBM_CC_HungerTongueREPLICA"
+ },
+ {
+  "original": "Hydnum Azure Giant Spore (replica)",
+  "string": "Гигантская спора ежовика лазурного (копия)",
+  "form_id": "00000827|DBM_CC_RareCuriosHOWPatch.esp",
+  "type": "MISC FULL",
+  "index": null,
+  "editor_id": "DBM_CC_HydnumAzureGiantSporeREPLICA"
+ },
+ {
+  "original": "Hypha Facia (replica)",
+  "string": "Гайфа фация (копия)",
+  "form_id": "00000828|DBM_CC_RareCuriosHOWPatch.esp",
+  "type": "MISC FULL",
+  "index": null,
+  "editor_id": "DBM_CC_HyphaFaciaREPLICA"
+ },
+ {
+  "original": "Imp Gall (replica)",
+  "string": "Желчь беса (копия)",
+  "form_id": "00000829|DBM_CC_RareCuriosHOWPatch.esp",
+  "type": "MISC FULL",
+  "index": null,
+  "editor_id": "DBM_CC_ImpGallREPLICA"
+ },
+ {
+  "original": "Kagouti Hide (replica)",
+  "string": "Шкура кагути (копия)",
+  "form_id": "0000082A|DBM_CC_RareCuriosHOWPatch.esp",
+  "type": "MISC FULL",
+  "index": null,
+  "editor_id": "DBM_CC_KagoutiHideREPLICA"
+ },
+ {
+  "original": "Kresh Fiber (replica)",
+  "string": "Волокно креша (копия)",
+  "form_id": "0000082B|DBM_CC_RareCuriosHOWPatch.esp",
+  "type": "MISC FULL",
+  "index": null,
+  "editor_id": "DBM_CC_KreshFiberREPLICA"
+ },
+ {
+  "original": "Lichor (replica)",
+  "string": "Лихор (копия)",
+  "form_id": "0000082C|DBM_CC_RareCuriosHOWPatch.esp",
+  "type": "MISC FULL",
+  "index": null,
+  "editor_id": "DBM_CC_LichorREPLICA"
+ },
+ {
+  "original": "Luminous Russula (replica)",
+  "string": "Светящаяся сыроежка (копия)",
+  "form_id": "0000082D|DBM_CC_RareCuriosHOWPatch.esp",
+  "type": "MISC FULL",
+  "index": null,
+  "editor_id": "DBM_CC_LuminousRussulaREPLICA"
+ },
+ {
+  "original": "Marshmerrow (replica)",
+  "string": "Болотный тростник (копия)",
+  "form_id": "0000082E|DBM_CC_RareCuriosHOWPatch.esp",
+  "type": "MISC FULL",
+  "index": null,
+  "editor_id": "DBM_CC_MarshmerrowREPLICA"
+ },
+ {
+  "original": "Minotaur Horn (replica)",
+  "string": "Рог минотавра (копия)",
+  "form_id": "0000082F|DBM_CC_RareCuriosHOWPatch.esp",
+  "type": "MISC FULL",
+  "index": null,
+  "editor_id": "DBM_CC_MinotaurHornREPLICA"
+ },
+ {
+  "original": "Ogre's Teeth (replica)",
+  "string": "Зубы огра (копия)",
+  "form_id": "00000830|DBM_CC_RareCuriosHOWPatch.esp",
+  "type": "MISC FULL",
+  "index": null,
+  "editor_id": "DBM_CC_OgresTeethREPLICA"
+ },
+ {
+  "original": "Red Kelp Gas Bladder (replica)",
+  "string": "Газовый пузырь красной водоросли (копия)",
+  "form_id": "00000831|DBM_CC_RareCuriosHOWPatch.esp",
+  "type": "MISC FULL",
+  "index": null,
+  "editor_id": "DBM_CC_RedKelpGasBladderREPLICA"
+ },
+ {
+  "original": "Redwort (replica)",
+  "string": "Красный корень (копия)",
+  "form_id": "00000832|DBM_CC_RareCuriosHOWPatch.esp",
+  "type": "MISC FULL",
+  "index": null,
+  "editor_id": "DBM_CC_RedwortREPLICA"
+ },
+ {
+  "original": "Roobrush (replica)",
+  "string": "Рубраш (копия)",
+  "form_id": "00000833|DBM_CC_RareCuriosHOWPatch.esp",
+  "type": "MISC FULL",
+  "index": null,
+  "editor_id": "DBM_CC_RoobrushREPLICA"
+ },
+ {
+  "original": "Saltrice (replica)",
+  "string": "Соленый рис (копия)",
+  "form_id": "00000834|DBM_CC_RareCuriosHOWPatch.esp",
+  "type": "MISC FULL",
+  "index": null,
+  "editor_id": "DBM_CC_SaltriceREPLICA"
+ },
+ {
+  "original": "Scalon Fin (replica)",
+  "string": "Плавник скейлона (копия)",
+  "form_id": "00000835|DBM_CC_RareCuriosHOWPatch.esp",
+  "type": "MISC FULL",
+  "index": null,
+  "editor_id": "DBM_CC_ScalonFinREPLICA"
+ },
+ {
+  "original": "Scrib Jelly (replica)",
+  "string": "Скрибовое желе (копия)",
+  "form_id": "00000836|DBM_CC_RareCuriosHOWPatch.esp",
+  "type": "MISC FULL",
+  "index": null,
+  "editor_id": "DBM_CC_ScribJellyREPLICA"
+ },
+ {
+  "original": "Scrib Jerky (replica)",
+  "string": "Вяленая скрибятина (копия)",
+  "form_id": "00000837|DBM_CC_RareCuriosHOWPatch.esp",
+  "type": "MISC FULL",
+  "index": null,
+  "editor_id": "DBM_CC_ScribJerkyREPLICA"
+ },
+ {
+  "original": "Sload Soap (replica)",
+  "string": "Мыло слоад (копия)",
+  "form_id": "00000838|DBM_CC_RareCuriosHOWPatch.esp",
+  "type": "MISC FULL",
+  "index": null,
+  "editor_id": "DBM_CC_SloadSoapREPLICA"
+ },
+ {
+  "original": "Stoneflower Petals (replica)",
+  "string": "Лепестки каменевки (копия)",
+  "form_id": "00000839|DBM_CC_RareCuriosHOWPatch.esp",
+  "type": "MISC FULL",
+  "index": null,
+  "editor_id": "DBM_CC_StoneflowerPetalsREPLICA"
+ },
+ {
+  "original": "Void Essence (replica)",
+  "string": "Эссенция пустоты (копия)",
+  "form_id": "0000083A|DBM_CC_RareCuriosHOWPatch.esp",
+  "type": "MISC FULL",
+  "index": null,
+  "editor_id": "DBM_CC_VoidEssenceREPLICA"
+ },
+ {
+  "original": "Watcher's Eye (replica)",
+  "string": "Глаз дозорного (копия)",
+  "form_id": "0000083B|DBM_CC_RareCuriosHOWPatch.esp",
+  "type": "MISC FULL",
+  "index": null,
+  "editor_id": "DBM_CC_WatchersEyeREPLICA"
+ },
+ {
+  "original": "Wisp Stalk Cap (replica)",
+  "string": "Шляпка блуждающего огонька (копия)",
+  "form_id": "0000083C|DBM_CC_RareCuriosHOWPatch.esp",
+  "type": "MISC FULL",
+  "index": null,
+  "editor_id": "DBM_CC_WispStalkCapsREPLICA"
+ },
+ {
+  "original": "Withering Moon (replica)",
+  "string": "Усыхающая луна (копия)",
+  "form_id": "0000083D|DBM_CC_RareCuriosHOWPatch.esp",
+  "type": "MISC FULL",
+  "index": null,
+  "editor_id": "DBM_CC_WitheringMoonREPLICA"
+ },
+ {
+  "original": "Worm's Head Cap (replica)",
+  "string": "Шляпка головы червя (копия)",
+  "form_id": "0000083E|DBM_CC_RareCuriosHOWPatch.esp",
+  "type": "MISC FULL",
+  "index": null,
+  "editor_id": "DBM_CC_WormsHeadCapREPLICA"
+ },
+ {
+  "original": "Hall of Wonders",
+  "string": "Зал чудес",
+  "form_id": "000104C9|DBM_CC_HallOfWonders.esp",
+  "type": "CELL FULL",
+  "index": null,
+  "editor_id": "DBMDGHallofWondersCC"
+ },
+ {
+  "original": "Rare Curios Handler",
+  "string": "Редкости (служебный)",
+  "form_id": "00000800|DBM_CC_RareCuriosHOWPatch.esp",
+  "type": "QUST FULL",
+  "index": null,
+  "editor_id": "DBM_CC_RareCuriosHandler"
+ }
+]

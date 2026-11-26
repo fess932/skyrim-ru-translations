@@ -1,0 +1,18 @@
+[
+ {
+  "original": "The Curators Companion - Alternate Armors - Daedric Mail",
+  "string": "Помощник куратора - Альтернативная броня - Даэдрическая кольчуга",
+  "form_id": "00000800|LOTD_TCC_HorseArmorElven.esp",
+  "type": "QUST FULL",
+  "index": null,
+  "editor_id": "TCC_SM_HorseArmorElven"
+ },
+ {
+  "original": "<font color='#<Alias=ColourAlias>'>The Curators Companion: Mod Complete (Horse Armor: Elven)</font>",
+  "string": "<font color='#<Alias=ColourAlias>'>Компаньон куратора: мод завершен (Конская броня: Эльфийское снаряжение)</font>",
+  "form_id": "00000803|LOTD_TCC_HorseArmorElven.esp",
+  "type": "MESG DESC",
+  "index": null,
+  "editor_id": "_CompleteNotification_HorseArmorElven"
+ }
+]

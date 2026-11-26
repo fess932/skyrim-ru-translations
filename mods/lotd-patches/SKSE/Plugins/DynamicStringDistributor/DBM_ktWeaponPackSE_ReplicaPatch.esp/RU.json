@@ -1,0 +1,18 @@
+[
+ {
+  "original": "Venomspite (replica)",
+  "string": "Ядовитая злоба (копия)",
+  "form_id": "00000801|DBM_ktWeaponPackSE_ReplicaPatch.esp",
+  "type": "WEAP FULL",
+  "index": null,
+  "editor_id": "ktChitinGreatsword_uniqueREPLICA"
+ },
+ {
+  "original": "Dwemer Lightning Fork (replica)",
+  "string": "Двемерская молниевая вилка (копия)",
+  "form_id": "00000802|DBM_ktWeaponPackSE_ReplicaPatch.esp",
+  "type": "WEAP FULL",
+  "index": null,
+  "editor_id": "ktDwemerFork_DaggerREPLICA"
+ }
+]

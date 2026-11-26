@@ -1,0 +1,378 @@
+[
+ {
+  "original": "Rose of Lamae",
+  "string": "Роза Лами",
+  "form_id": "0000088D|DBM_Vigilant_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_VGLamaeRoseACT"
+ },
+ {
+  "original": "Alessia's Head (replica)",
+  "string": "Голова Алессии (копия)",
+  "form_id": "00000800|DBM_Vigilant_ReplicaPatch.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "zzzCHClothAlessiaHeadREPLICA"
+ },
+ {
+  "original": "Lilian's Doll (replica)",
+  "string": "Мишка Лилиан (копия)",
+  "form_id": "00000803|DBM_Vigilant_ReplicaPatch.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "zzzAoMClothLilianDollREPLICA"
+ },
+ {
+  "original": "Atima Favorite Doll (replica)",
+  "string": "Любимая кукла Атимы (копия)",
+  "form_id": "00000805|DBM_Vigilant_ReplicaPatch.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "zzzCHClothAtimaDollREPLICA"
+ },
+ {
+  "original": "Guardian Egg (replica)",
+  "string": "Яйцо Стража (копия)",
+  "form_id": "00000806|DBM_Vigilant_ReplicaPatch.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "zzzCHClothGuardianEggREPLICA"
+ },
+ {
+  "original": "Beacon of Order (replica)",
+  "string": "Светоч Порядка (копия)",
+  "form_id": "00000807|DBM_Vigilant_ReplicaPatch.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "zzzCHClothOrderBeaconREPLICA"
+ },
+ {
+  "original": "Crown of Bloodsucker (replica)",
+  "string": "Корона Кровососа (копия)",
+  "form_id": "0000080B|DBM_Vigilant_ReplicaPatch.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "zzzCHArmorBloodSuckerMaskKingREPLICA"
+ },
+ {
+  "original": "Gold Cat Ring (replica)",
+  "string": "Кольцо Золотой Кошки (копия)",
+  "form_id": "0000081A|DBM_Vigilant_ReplicaPatch.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "zzzCHCatRingGREPLICA"
+ },
+ {
+  "original": "Orkey's Frost Clutch (replica)",
+  "string": "Ледяная хватка Оркея (копия)",
+  "form_id": "0000081B|DBM_Vigilant_ReplicaPatch.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "zzzCHClutchRingBlueREPLICA"
+ },
+ {
+  "original": "Orkey's Flame Clutch (replica)",
+  "string": "Огненная хватка Оркея (копия)",
+  "form_id": "0000081C|DBM_Vigilant_ReplicaPatch.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "zzzCHClutchRingRedREPLICA"
+ },
+ {
+  "original": "Orkey's Spell Clutch (replica)",
+  "string": "Магическая хватка Оркея (копия)",
+  "form_id": "0000081D|DBM_Vigilant_ReplicaPatch.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "zzzCHClutchRingWhiteREPLICA"
+ },
+ {
+  "original": "Orkey's Shock Clutch (replica)",
+  "string": "Грозовая хватка Оркея (копия)",
+  "form_id": "0000081E|DBM_Vigilant_ReplicaPatch.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "zzzCHClutchRingYellowREPLICA"
+ },
+ {
+  "original": "Flame Quartz Ring (replica)",
+  "string": "Огненное кварцевое кольцо (копия)",
+  "form_id": "0000081F|DBM_Vigilant_ReplicaPatch.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "zzzCHElementalRingFlameREPLICA"
+ },
+ {
+  "original": "Frost Quartz Ring (replica)",
+  "string": "Кварцевое кольцо холода (копия)",
+  "form_id": "00000820|DBM_Vigilant_ReplicaPatch.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "zzzCHElementalRingFrostREPLICA"
+ },
+ {
+  "original": "Magic Quartz Ring (replica)",
+  "string": "Магическое кварцевое кольцо (копия)",
+  "form_id": "00000821|DBM_Vigilant_ReplicaPatch.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "zzzCHElementalRingSpellREPLICA"
+ },
+ {
+  "original": "Thunder Quartz Ring (replica)",
+  "string": "Громовое кварцевое кольцо (копия)",
+  "form_id": "00000822|DBM_Vigilant_ReplicaPatch.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "zzzCHElementalRingThunderREPLICA"
+ },
+ {
+  "original": "Sard's Blue Eye Ring (replica)",
+  "string": "Кольцо синего глаза Сард (копия)",
+  "form_id": "00000825|DBM_Vigilant_ReplicaPatch.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "zzzCHEyeRingBlueREPLICA"
+ },
+ {
+  "original": "Sard's Red Eye Ring (replica)",
+  "string": "Кольцо красного глаза Сард (копия)",
+  "form_id": "00000826|DBM_Vigilant_ReplicaPatch.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "zzzCHEyeRingRedREPLICA"
+ },
+ {
+  "original": "Kyne's Red Tear Ring (replica)",
+  "string": "Кольцо с красным слезным камнем Кин (копия)",
+  "form_id": "00000827|DBM_Vigilant_ReplicaPatch.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "zzzCHCryRingRREPLICA"
+ },
+ {
+  "original": "Kyne's Blue Tear Ring (replica)",
+  "string": "Кольцо с синим слезным камнем Кин (копия)",
+  "form_id": "00000828|DBM_Vigilant_ReplicaPatch.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "zzzCHCryRingBREPLICA"
+ },
+ {
+  "original": "Sithis's Eye Ring (replica)",
+  "string": "Кольцо Ока Ситиса (копия)",
+  "form_id": "00000829|DBM_Vigilant_ReplicaPatch.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "zzzCHEyeRingSithisREPLICA"
+ },
+ {
+  "original": "Wood Ring (replica)",
+  "string": "Деревянное кольцо (копия)",
+  "form_id": "0000082A|DBM_Vigilant_ReplicaPatch.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "zzzCHJewelryRingWoodREPLCIA"
+ },
+ {
+  "original": "Nir's Origin Ring (replica)",
+  "string": "Кольцо истоков Нир (копия)",
+  "form_id": "0000082B|DBM_Vigilant_ReplicaPatch.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "zzzCHRegenRingRREPLICA"
+ },
+ {
+  "original": "Phynaster's Footstep Ring (replica)",
+  "string": "Кольцо шага Финастера (копия)",
+  "form_id": "0000082C|DBM_Vigilant_ReplicaPatch.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "zzzCHRegenRingGREPLICA"
+ },
+ {
+  "original": "Jhunal's Silver Ring (replica)",
+  "string": "Серебряное кольцо Джунала (копия)",
+  "form_id": "0000082D|DBM_Vigilant_ReplicaPatch.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "zzzCHRuneRingBREPLICA"
+ },
+ {
+  "original": "Jhunal's Gold Ring (replica)",
+  "string": "Золотое кольцо Джунала (копия)",
+  "form_id": "0000082E|DBM_Vigilant_ReplicaPatch.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "zzzCHRuneRingRREPLICA"
+ },
+ {
+  "original": "Magnus's Return Ring (replica)",
+  "string": "Кольцо возвращения Магнуса (копия)",
+  "form_id": "0000082F|DBM_Vigilant_ReplicaPatch.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "zzzCHRegenRingBREPLICA"
+ },
+ {
+  "original": "Rose of Lamae (replica)",
+  "string": "Роза Лами (копия)",
+  "form_id": "00000860|DBM_Vigilant_ReplicaPatch.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "zzzBMClothLamaeRose"
+ },
+ {
+  "original": "Arcane of Jhunal (replica)",
+  "string": "Тайна Джунала (копия)",
+  "form_id": "00000862|DBM_Vigilant_ReplicaPatch.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "zzzCHClothJhunalRuneREPLICA"
+ },
+ {
+  "original": "Dead Rose of Lamae (replica)",
+  "string": "Увядшая роза Лами (копия)",
+  "form_id": "00000893|DBM_Vigilant_ReplicaPatch.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "zzzBMClothLamaeRoseDeadREPLICA"
+ },
+ {
+  "original": "Adabal (replica)",
+  "string": "Адабал (копия)",
+  "form_id": "00000A4E|DBM_Vigilant_Patch.esp",
+  "type": "MISC FULL",
+  "index": null,
+  "editor_id": "zzzCHAdabalReplicaDBM"
+ },
+ {
+  "original": "Stendarr's Horn (replica)",
+  "string": "Рог Стендарра (копия)",
+  "form_id": "00000802|DBM_Vigilant_ReplicaPatch.esp",
+  "type": "MISC FULL",
+  "index": null,
+  "editor_id": "zzzAoMStendarrHornREPLICA"
+ },
+ {
+  "original": "Eye of Marukh (replica)",
+  "string": "Око Марука (копия)",
+  "form_id": "0000080A|DBM_Vigilant_ReplicaPatch.esp",
+  "type": "MISC FULL",
+  "index": null,
+  "editor_id": "zzzCHEyeOfMarukhREPLICA"
+ },
+ {
+  "original": "Dragon Soul Stone (replica)",
+  "string": "Окаменевшая душа дракона (копия)",
+  "form_id": "00000812|DBM_Vigilant_ReplicaPatch.esp",
+  "type": "MISC FULL",
+  "index": null,
+  "editor_id": "zzzCHRelicPotionIncDragonSoulsREPLICA"
+ },
+ {
+  "original": "Ash of St.Sard (replica)",
+  "string": "Пепел святого Сарда (копия)",
+  "form_id": "00000813|DBM_Vigilant_ReplicaPatch.esp",
+  "type": "MISC FULL",
+  "index": null,
+  "editor_id": "zzzCHRelicPotionIncHealthREPLICA"
+ },
+ {
+  "original": "Ruin of Soulless One (replica)",
+  "string": "Прах Бездушного (копия)",
+  "form_id": "00000815|DBM_Vigilant_ReplicaPatch.esp",
+  "type": "MISC FULL",
+  "index": null,
+  "editor_id": "zzzCHRelicPotionIncKarmaREPLICA"
+ },
+ {
+  "original": "Bone of Jhunarl (replica)",
+  "string": "Кость Джунарла (копия)",
+  "form_id": "00000816|DBM_Vigilant_ReplicaPatch.esp",
+  "type": "MISC FULL",
+  "index": null,
+  "editor_id": "zzzCHRelicPotionIncMagickaREPLICA"
+ },
+ {
+  "original": "St.Dulsa's Nail (replica)",
+  "string": "Гвоздь святой Дульсы (копия)",
+  "form_id": "00000817|DBM_Vigilant_ReplicaPatch.esp",
+  "type": "MISC FULL",
+  "index": null,
+  "editor_id": "zzzCHRelicPotionIncPerkREPLICA"
+ },
+ {
+  "original": "Hide of Abbot Silorn (replica)",
+  "string": "Кожа аббата Силорна (копия)",
+  "form_id": "00000818|DBM_Vigilant_ReplicaPatch.esp",
+  "type": "MISC FULL",
+  "index": null,
+  "editor_id": "zzzCHRelicPotionIncStaminaREPLICA"
+ },
+ {
+  "original": "Old Kyne Feather (replica)",
+  "string": "Перо Древней Кин (копия)",
+  "form_id": "0000085E|DBM_Vigilant_ReplicaPatch.esp",
+  "type": "MISC FULL",
+  "index": null,
+  "editor_id": "zzzCHRelicPotionIncCarryWeightREPLICA"
+ },
+ {
+  "original": "Soul Squeezer (replica)",
+  "string": "Экономия душ (копия)",
+  "form_id": "00000808|DBM_Vigilant_ReplicaPatch.esp",
+  "type": "WEAP FULL",
+  "index": null,
+  "editor_id": "zzzCHSoulSqueezerREPLICA"
+ },
+ {
+  "original": "Cursed Greatsword (replica)",
+  "string": "Проклятый двуручный меч (копия)",
+  "form_id": "0000080C|DBM_Vigilant_ReplicaPatch.esp",
+  "type": "WEAP FULL",
+  "index": null,
+  "editor_id": "zzzAoMMq07CursedSwordREPLICA"
+ },
+ {
+  "original": "Shotel of Gardener (replica)",
+  "string": "Шотель Садовника (копия)",
+  "form_id": "0000080D|DBM_Vigilant_ReplicaPatch.esp",
+  "type": "WEAP FULL",
+  "index": null,
+  "editor_id": "zzzCHElvenShotelREPLICA"
+ },
+ {
+  "original": "Bard's Dagger (replica)",
+  "string": "Кинжал барда (копия)",
+  "form_id": "00000811|DBM_Vigilant_ReplicaPatch.esp",
+  "type": "WEAP FULL",
+  "index": null,
+  "editor_id": "zzzBMStendarrDaggerREPLICA"
+ },
+ {
+  "original": "Staff of Pelan the Eight Saint (replica)",
+  "string": "Посох Пелана, Восьмого святого (копия)",
+  "form_id": "00000823|DBM_Vigilant_ReplicaPatch.esp",
+  "type": "WEAP FULL",
+  "index": null,
+  "editor_id": "zzzCHPelanStaffREPLICA"
+ },
+ {
+  "original": "Staff of Pope Megus (replica)",
+  "string": "Посох Папы Мегуса (копия)",
+  "form_id": "00000824|DBM_Vigilant_ReplicaPatch.esp",
+  "type": "WEAP FULL",
+  "index": null,
+  "editor_id": "zzzCHPopeStaffGoldREPLICA"
+ },
+ {
+  "original": "Heart of Drozel (replica)",
+  "string": "Сердце Дрозела (копия)",
+  "form_id": "0000080E|DBM_Vigilant_ReplicaPatch.esp",
+  "type": "KEYM FULL",
+  "index": null,
+  "editor_id": "zzzCHDrozelHeartKeyREPLICA"
+ }
+]

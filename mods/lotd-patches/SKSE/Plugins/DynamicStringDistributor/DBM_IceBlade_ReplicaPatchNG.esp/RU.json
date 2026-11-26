@@ -1,0 +1,10 @@
+[
+ {
+  "original": "Adds Ice Blade of the Monarch Items to Formlists",
+  "string": "Добавление предметов Ледяного клинка Монарха в списки форм",
+  "form_id": "00000802|DBM_IceBlade_ReplicaPatchNG.esp",
+  "type": "QUST FULL",
+  "index": null,
+  "editor_id": "DBM_IceBlade_REPQuest"
+ }
+]

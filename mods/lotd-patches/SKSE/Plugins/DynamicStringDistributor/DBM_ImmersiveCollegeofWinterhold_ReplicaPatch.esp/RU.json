@@ -1,0 +1,18 @@
+[
+ {
+  "original": "Beinaarkh's Ring (replica)",
+  "string": "Кольцо Бейнарха  (копия)",
+  "form_id": "00000801|DBM_ImmersiveCollegeofWinterhold_ReplicaPatch.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "CWIGhosuRingNewREPLICA"
+ },
+ {
+  "original": "Abominable Staff (replica)",
+  "string": "Отвратительный посох (копия)",
+  "form_id": "00000800|DBM_ImmersiveCollegeofWinterhold_ReplicaPatch.esp",
+  "type": "WEAP FULL",
+  "index": null,
+  "editor_id": "CWIStaffOfWormsNewREPLICA"
+ }
+]

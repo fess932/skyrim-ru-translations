@@ -1,0 +1,50 @@
+[
+ {
+  "original": "Orcish Plate Armor",
+  "string": "Орочья пластинчатая броня",
+  "form_id": "00000800|DBM_CC_AAOrcishPlateHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTAAOrcishPlateArmor"
+ },
+ {
+  "original": "Orcish Plate Helmet",
+  "string": "Орочий пластинчатый шлем",
+  "form_id": "00000805|DBM_CC_AAOrcishPlateHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTAAOrcishPlateHelmet"
+ },
+ {
+  "original": "Orcish Plate Boots",
+  "string": "Орочьи пластинчатые сапоги",
+  "form_id": "00000806|DBM_CC_AAOrcishPlateHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTAAOrcishPlateBoots"
+ },
+ {
+  "original": "Orcish Plate Gauntlets",
+  "string": "Орочьи пластинчатые перчатки",
+  "form_id": "00000807|DBM_CC_AAOrcishPlateHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTAAOrcishPlateGauntlets"
+ },
+ {
+  "original": "Hall of Wonders",
+  "string": "Зал чудес",
+  "form_id": "000104C9|DBM_CC_HallOfWonders.esp",
+  "type": "CELL FULL",
+  "index": null,
+  "editor_id": "DBMDGHallofWondersCC"
+ },
+ {
+  "original": "Alt Armors Orcish Plate Handler",
+  "string": "Альтернативная броня: орочьи латы (служебный)",
+  "form_id": "00000804|DBM_CC_AAOrcishPlateHOWPatch.esp",
+  "type": "QUST FULL",
+  "index": null,
+  "editor_id": "DBM_CC_OrcishPlateHandler"
+ }
+]

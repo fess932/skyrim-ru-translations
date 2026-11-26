@@ -1,0 +1,90 @@
+[
+ {
+  "original": "Remnant Armor",
+  "string": "Броня реликтов",
+  "form_id": "00000800|DBM_CC_RedguardEliteArmamentsHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTRedguardEliteArmor"
+ },
+ {
+  "original": "Remnant Hood",
+  "string": "Капюшон реликтов",
+  "form_id": "00000805|DBM_CC_RedguardEliteArmamentsHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTRedguardEliteHelmet"
+ },
+ {
+  "original": "Remnant Boots",
+  "string": "Сапоги реликтов",
+  "form_id": "00000806|DBM_CC_RedguardEliteArmamentsHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTRedguardEliteBoots"
+ },
+ {
+  "original": "Remnant Gloves",
+  "string": "Перчатки реликтов",
+  "form_id": "00000807|DBM_CC_RedguardEliteArmamentsHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTRedguardEliteGauntlets"
+ },
+ {
+  "original": "Remnant Shield",
+  "string": "Щит реликтов",
+  "form_id": "00000808|DBM_CC_RedguardEliteArmamentsHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTRedguardEliteShield"
+ },
+ {
+  "original": "Remnant Scimitar",
+  "string": "Скимитар реликтов",
+  "form_id": "00000809|DBM_CC_RedguardEliteArmamentsHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTRedguardEliteSword"
+ },
+ {
+  "original": "Boneshaver",
+  "string": "Сокрушитель",
+  "form_id": "0000080E|DBM_CC_RedguardEliteArmamentsHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTRedguardEliteBoneshaver"
+ },
+ {
+  "original": "Chest",
+  "string": "Сундук",
+  "form_id": "000008A6|ccedhsse003-redguard.esl",
+  "type": "CONT FULL",
+  "index": null,
+  "editor_id": "ccEDHSSE003_RedguardEliteSupplyChest"
+ },
+ {
+  "original": "Boneshaver (replica)",
+  "string": "Сокрушитель (копия)",
+  "form_id": "00000813|DBM_CC_RedguardEliteArmamentsHOWPatch.esp",
+  "type": "WEAP FULL",
+  "index": null,
+  "editor_id": "DBM_CC_BoneshaverREPLICA"
+ },
+ {
+  "original": "Hall of Wonders",
+  "string": "Зал чудес",
+  "form_id": "000104C9|DBM_CC_HallOfWonders.esp",
+  "type": "CELL FULL",
+  "index": null,
+  "editor_id": "DBMDGHallofWondersCC"
+ },
+ {
+  "original": "Redguard Elite Armaments Handler",
+  "string": "Элитный арсенал редгардов (служебный)",
+  "form_id": "00000804|DBM_CC_RedguardEliteArmamentsHOWPatch.esp",
+  "type": "QUST FULL",
+  "index": null,
+  "editor_id": "DBM_CC_RedguardEliteHandler"
+ }
+]

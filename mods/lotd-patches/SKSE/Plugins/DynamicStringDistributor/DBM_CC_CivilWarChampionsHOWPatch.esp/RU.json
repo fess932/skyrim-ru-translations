@@ -1,0 +1,282 @@
+[
+ {
+  "original": "Imperial Dragon Gauntlets",
+  "string": "Перчатки Имперского Дракона",
+  "form_id": "0000083D|DBM_CC_CivilWarChampionsHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTCivilWarChampionsIDGauntlets"
+ },
+ {
+  "original": "Dragon's Oath",
+  "string": "Клятва дракона",
+  "form_id": "0000083E|DBM_CC_CivilWarChampionsHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTCivilWarChampionsIDSword"
+ },
+ {
+  "original": "Akatosh's Talon",
+  "string": "Коготь Акатоша",
+  "form_id": "0000083F|DBM_CC_CivilWarChampionsHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTCivilWarChampionsIDHammer"
+ },
+ {
+  "original": "Storm-Bear Armor",
+  "string": "Броня Медведя Бури",
+  "form_id": "00000840|DBM_CC_CivilWarChampionsHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTCivilWarChampionsSBArmor"
+ },
+ {
+  "original": "Imperial Dragon Armor",
+  "string": "Броня Имперского Дракона",
+  "form_id": "00000800|DBM_CC_CivilWarChampionsHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTCivilWarChampionsIDarmor"
+ },
+ {
+  "original": "Imperial Dragon Cloak",
+  "string": "Плащ Имперского Дракона",
+  "form_id": "00000819|DBM_CC_CivilWarChampionsHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTCivilWarChampionsIDCape"
+ },
+ {
+  "original": "Storm-Bear Cloak",
+  "string": "Плащ Медведя Бури",
+  "form_id": "00000831|DBM_CC_CivilWarChampionsHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTCivilWarChampionsSBCape"
+ },
+ {
+  "original": "Map of Battle Location",
+  "string": "Карта места битвы",
+  "form_id": "00000839|DBM_CC_CivilWarChampionsHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTCivilWarChampionsMap"
+ },
+ {
+  "original": "Imperial Dragon Helmet",
+  "string": "Шлем Имперского Дракона",
+  "form_id": "0000083B|DBM_CC_CivilWarChampionsHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTCivilWarChampionsIDHelmet"
+ },
+ {
+  "original": "Imperial Dragon Boots",
+  "string": "Сапоги Имперского Дракона",
+  "form_id": "0000083C|DBM_CC_CivilWarChampionsHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTCivilWarChampionsIDBoots"
+ },
+ {
+  "original": "Storm-Bear Sword",
+  "string": "Меч Медведя Бури",
+  "form_id": "00000844|DBM_CC_CivilWarChampionsHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTCivilWarChampionsSBSword"
+ },
+ {
+  "original": "Tsun's Judgement",
+  "string": "Решение Тсуна",
+  "form_id": "00000845|DBM_CC_CivilWarChampionsHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTCivilWarChampionsSBAxe"
+ },
+ {
+  "original": "Storm-Bear Shield",
+  "string": "Щит Медведя Бури",
+  "form_id": "00000846|DBM_CC_CivilWarChampionsHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTCivilWarChampionsSBShield"
+ },
+ {
+  "original": "Imperial Dragon Shield",
+  "string": "Щит Имперского Дракона",
+  "form_id": "00000847|DBM_CC_CivilWarChampionsHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTCivilWarChampionsIDShield"
+ },
+ {
+  "original": "Storm-Bear Helmet",
+  "string": "Шлем Медведя Бури",
+  "form_id": "00000841|DBM_CC_CivilWarChampionsHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTCivilWarChampionsSBHelmet"
+ },
+ {
+  "original": "Storm-Bear Boots",
+  "string": "Сапоги Медведя Бури",
+  "form_id": "00000842|DBM_CC_CivilWarChampionsHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTCivilWarChampionsSBBoots"
+ },
+ {
+  "original": "Storm-Bear Gauntlets",
+  "string": "Перчатки Медведя Бури",
+  "form_id": "00000843|DBM_CC_CivilWarChampionsHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTCivilWarChampionsSBGauntlets"
+ },
+ {
+  "original": "Imperial Dragon Shield (replica)",
+  "string": "Щит Имперского Дракона (копия)",
+  "form_id": "0000084A|DBM_CC_CivilWarChampionsHOWPatch.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "ccFFBSSE001ImperialDragonShieldREPLICA"
+ },
+ {
+  "original": "Imperial Dragon Helmet (replica)",
+  "string": "Шлем Имперского Дракона (копия)",
+  "form_id": "00000848|DBM_CC_CivilWarChampionsHOWPatch.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "ccFFBSSE001ImperialDragonHelmetREPLICA"
+ },
+ {
+  "original": "Storm-Bear Boots (replica)",
+  "string": "Сапоги Медведя Бури (копия)",
+  "form_id": "00000849|DBM_CC_CivilWarChampionsHOWPatch.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "ccFFBSSE001_StormBearBootsREPLICA"
+ },
+ {
+  "original": "Storm-Bear Armor (replica)",
+  "string": "Броня Медведя Бури (копия)",
+  "form_id": "0000084B|DBM_CC_CivilWarChampionsHOWPatch.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "ccFFBSSE001_StormBearCuirassREPLICA"
+ },
+ {
+  "original": "Imperial Dragon Gauntlets (replica)",
+  "string": "Перчатки Имперского Дракона (копия)",
+  "form_id": "0000084C|DBM_CC_CivilWarChampionsHOWPatch.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "ccFFBSSE001ImperialDragonGauntletsREPLICA"
+ },
+ {
+  "original": "Imperial Dragon Boots (replica)",
+  "string": "Сапоги Имперского Дракона (копия)",
+  "form_id": "0000084D|DBM_CC_CivilWarChampionsHOWPatch.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "ccFFBSSE001ImperialDragonBootsREPLICA"
+ },
+ {
+  "original": "Imperial Dragon Armor (replica)",
+  "string": "Броня Имперского Дракона (копия)",
+  "form_id": "0000084E|DBM_CC_CivilWarChampionsHOWPatch.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "ccFFBSSE001ImperialDragonCuirassREPLICA"
+ },
+ {
+  "original": "Storm-Bear Gauntlets (replica)",
+  "string": "Перчатки Медведя Бури (копия)",
+  "form_id": "0000084F|DBM_CC_CivilWarChampionsHOWPatch.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "ccFFBSSE001_StormBearGauntletsREPLICA"
+ },
+ {
+  "original": "Storm-Bear Helmet (replica)",
+  "string": "Шлем Медведя Бури (копия)",
+  "form_id": "00000850|DBM_CC_CivilWarChampionsHOWPatch.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "ccFFBSSE001_StormBearHelmetREPLICA"
+ },
+ {
+  "original": "Storm-Bear Shield (replica)",
+  "string": "Щит Медведя Бури (копия)",
+  "form_id": "00000851|DBM_CC_CivilWarChampionsHOWPatch.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "ccFFBSSE001_StormBearShieldREPLICA"
+ },
+ {
+  "original": "Storm-Bear Cloak (replica)",
+  "string": "Плащ Медведя Бури (копия)",
+  "form_id": "00000852|DBM_CC_CivilWarChampionsHOWPatch.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "ccFFBSSE001_StormBearCloakREPLICA"
+ },
+ {
+  "original": "Imperial Dragon Cloak (replica)",
+  "string": "Плащ Имперского Дракона (копия)",
+  "form_id": "00000853|DBM_CC_CivilWarChampionsHOWPatch.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "ccFFBSSE001ImperialDragonCloakREPLICA"
+ },
+ {
+  "original": "Dragon's Oath (replica)",
+  "string": "Клятва дракона (копия)",
+  "form_id": "00000854|DBM_CC_CivilWarChampionsHOWPatch.esp",
+  "type": "WEAP FULL",
+  "index": null,
+  "editor_id": "ccFFBSSE001DragonsOathREPLICA"
+ },
+ {
+  "original": "Tsun's Judgement (replica)",
+  "string": "Решение Тсуна (копия)",
+  "form_id": "00000855|DBM_CC_CivilWarChampionsHOWPatch.esp",
+  "type": "WEAP FULL",
+  "index": null,
+  "editor_id": "ccFFBSSE001_StormBearAxeREPLICA"
+ },
+ {
+  "original": "Storm-Bear Sword (replica)",
+  "string": "Меч Медведя Бури (копия)",
+  "form_id": "00000856|DBM_CC_CivilWarChampionsHOWPatch.esp",
+  "type": "WEAP FULL",
+  "index": null,
+  "editor_id": "ccFFBSSE001_StormBearSwordREPLICA"
+ },
+ {
+  "original": "Akatosh's Talon (replica)",
+  "string": "Коготь Акатоша (копия)",
+  "form_id": "00000857|DBM_CC_CivilWarChampionsHOWPatch.esp",
+  "type": "WEAP FULL",
+  "index": null,
+  "editor_id": "ccFFBSSE001AkatoshTalonREPLICA"
+ },
+ {
+  "original": "Hall of Wonders",
+  "string": "Зал чудес",
+  "form_id": "000104C9|DBM_CC_HallOfWonders.esp",
+  "type": "CELL FULL",
+  "index": null,
+  "editor_id": "DBMDGHallofWondersCC"
+ },
+ {
+  "original": "Civil War Champions Handler",
+  "string": "Герои гражданской войны (служебный)",
+  "form_id": "00000806|DBM_CC_CivilWarChampionsHOWPatch.esp",
+  "type": "QUST FULL",
+  "index": null,
+  "editor_id": "DBM_CC_CivilWarChampionsHandler"
+ }
+]

@@ -1,0 +1,58 @@
+[
+ {
+  "original": "The Sentient Blade",
+  "string": "Разумный клинок",
+  "form_id": "00000806|DBM_CC_UmbraPatchV2.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_UmbraMSGact"
+ },
+ {
+  "original": "Read Plaque:",
+  "string": "Прочитать табличку:",
+  "form_id": "00000806|DBM_CC_UmbraPatchV2.esp",
+  "type": "ACTI RNAM",
+  "index": null,
+  "editor_id": "DBM_UmbraMSGact"
+ },
+ {
+  "original": "Umbra",
+  "string": "Умбра",
+  "form_id": "0000080C|DBM_CC_UmbraPatchV2.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTUMUmbra"
+ },
+ {
+  "original": "Umbra (replica)",
+  "string": "Умбра (копия)",
+  "form_id": "00000810|DBM_CC_UmbraPatchV2.esp",
+  "type": "WEAP FULL",
+  "index": null,
+  "editor_id": "DBM_CC_UmbraREPLICA"
+ },
+ {
+  "original": "Champion's Rest Amphitheater",
+  "string": "Амфитеатр Могилы чемпиона",
+  "form_id": "00002F9A|Update.esm",
+  "type": "CELL FULL",
+  "index": null,
+  "editor_id": "ccBGSSSE016Interior02"
+ },
+ {
+  "original": "Umbra Handler",
+  "string": "Умбра (служебный)",
+  "form_id": "00000800|DBM_CC_UmbraPatchV2.esp",
+  "type": "QUST FULL",
+  "index": null,
+  "editor_id": "DBM_CC_UmbraHandler"
+ },
+ {
+  "original": "Crafted using a piece of Clavicus Vile's power, this sword became a sentient being in its own right. It is no secret that Umbra has played a dark part in recent history, being at the centre of a great calamity in which countless lost their lives to the floating city, Umbriel, and its unending hunger for souls. The sword was thought destroyed, but has since resurfaced by unknown means. DO NOT ATTEMPT TO TOUCH THE DISPLAY.",
+  "string": "Этот меч, созданный с помощью частицы силы Клавикуса Вайла, обрел собственный разум. Ни для кого не секрет, что Умбра сыграла мрачную роль в недавней истории, оказавшись в центре великого бедствия, когда бесчисленные жизни были отданы летающему городу Умбриэлю и его ненасытному голоду до душ. Меч считался уничтоженным, но с тех пор неведомым образом появился вновь. НЕ ПЫТАЙТЕСЬ ПРИКАСАТЬСЯ К ЭКСПОНАТУ.",
+  "form_id": "00000807|DBM_CC_UmbraPatchV2.esp",
+  "type": "MESG DESC",
+  "index": null,
+  "editor_id": "DBM_UmbraDispMSG"
+ }
+]

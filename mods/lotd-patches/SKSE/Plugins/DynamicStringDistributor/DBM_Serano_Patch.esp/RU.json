@@ -1,0 +1,338 @@
+[
+ {
+  "original": "Ship in a Bottle",
+  "string": "Корабль в бутылке",
+  "form_id": "00000041|DBM_Serano_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DispShipBottle"
+ },
+ {
+  "original": "Sailor's Bargain",
+  "string": "«Сделка моряка»",
+  "form_id": "00000043|DBM_Serano_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DispSailorsBargain"
+ },
+ {
+  "original": "Val's Journal",
+  "string": "Дневник Вала",
+  "form_id": "00000045|DBM_Serano_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DispValsJournal"
+ },
+ {
+  "original": "The Star of Solitude",
+  "string": "Звезда Солитьюда",
+  "form_id": "00000047|DBM_Serano_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DispStarofSolitude"
+ },
+ {
+  "original": "Fathis' Journal",
+  "string": "Дневник Фатиса",
+  "form_id": "00000049|DBM_Serano_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DispFathisJournal"
+ },
+ {
+  "original": "Fathis' Lucky Ice Wraith Teeth",
+  "string": "Счастливые зубы ледяного привидения Фатиса",
+  "form_id": "0000004B|DBM_Serano_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DispFathisTeeth"
+ },
+ {
+  "original": "Wanted Poster",
+  "string": "Плакат о розыске",
+  "form_id": "00000037|DBM_Serano_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DispPoster"
+ },
+ {
+  "original": "Val's Sword",
+  "string": "Меч Вала",
+  "form_id": "00000039|DBM_Serano_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DispValSword"
+ },
+ {
+  "original": "Pirate Cutlass",
+  "string": "Пиратская абордажная сабля",
+  "form_id": "0000003B|DBM_Serano_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DispCutlass"
+ },
+ {
+  "original": "Tarek's Sword",
+  "string": "Меч Тарека",
+  "form_id": "0000003D|DBM_Serano_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DispTareksSword"
+ },
+ {
+  "original": "Tarek's Torc",
+  "string": "Торквес Тарека",
+  "form_id": "0000003F|DBM_Serano_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DispTareksTorc"
+ },
+ {
+  "original": "Val's Shell",
+  "string": "Панцирь Вала",
+  "form_id": "00000051|DBM_Serano_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DispValsShell"
+ },
+ {
+  "original": "Map of Trade Routes",
+  "string": "Карта торговых путей",
+  "form_id": "00000053|DBM_Serano_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DispEECTrade"
+ },
+ {
+  "original": "Val's Boots",
+  "string": "Сапоги Вала",
+  "form_id": "00000055|DBM_Serano_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "Disp_ValsBoots"
+ },
+ {
+  "original": "Val's Armor",
+  "string": "Броня Вала",
+  "form_id": "00000057|DBM_Serano_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DispValsArmor"
+ },
+ {
+  "original": "Cheesy Pirate Hat",
+  "string": "Дурацкая пиратская шляпа",
+  "form_id": "00000059|DBM_Serano_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DispCheesyHat"
+ },
+ {
+  "original": "Strawberry Danish",
+  "string": "Клубничное пирожное",
+  "form_id": "00000A95|DBM_Serano_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DispDanish"
+ },
+ {
+  "original": "Val's Coffee Cup",
+  "string": "Чашка Вала",
+  "form_id": "0000004D|DBM_Serano_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DispCoffeeMug"
+ },
+ {
+  "original": "Val's Ring",
+  "string": "Кольцо Вала",
+  "form_id": "0000004F|DBM_Serano_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DispValsRing"
+ },
+ {
+  "original": "Star of Solitude (replica)",
+  "string": "Звезда Солитьюда (копия)",
+  "form_id": "0000007D|DBM_Serano_Patch.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "AX_StarOfSolitudeREP"
+ },
+ {
+  "original": "Val's Cheesy Pirate Hat (replica)",
+  "string": "Дурацкая пиратская шляпа Вала (копия)",
+  "form_id": "0000007C|DBM_Serano_Patch.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "AX_PirateHatREP"
+ },
+ {
+  "original": "Golden Torc (replica)",
+  "string": "Золотой торквес (копия)",
+  "form_id": "0000007E|DBM_Serano_Patch.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "AX_GoldTorcREP"
+ },
+ {
+  "original": "Val's Journal (replica)",
+  "string": "Дневник Вала (копия)",
+  "form_id": "00000073|DBM_Serano_Patch.esp",
+  "type": "BOOK FULL",
+  "index": null,
+  "editor_id": "AX_JournalValDUPLICATE001"
+ },
+ {
+  "original": "<font face='$HandwrittenFont'><p align=\"center\"><font color=\"#04262E\"><i>\r\n\r\n\r\n\r\nProperty of Val Serano</i></color></p></font>\r\n<img src='img://Textures/Axarien/Val Serano/items/books/JournalVal/8-watching the docks.png' height='471' width='296'>\r\n[pagebreak]\r\n<img src='img://Textures/Axarien/Val Serano/items/books/JournalVal/10-poem and ships.png' height='471' width='296'>\r\n[pagebreak]\r\n<img src='img://Textures/Axarien/Val Serano/items/books/JournalVal/10-cool self.png' height='471' width='296'>\r\n[pagebreak]\r\n<img src='img://Textures/Axarien/Val Serano/items/books/JournalVal/10-dreaming of the sea.png' height='471' width='296'>\r\n[pagebreak]\r\n<img src='img://Textures/Axarien/Val Serano/items/books/JournalVal/17-island.png' height='471' width='296'>\r\n[pagebreak]\r\n<img src='img://Textures/Axarien/Val Serano/items/books/JournalVal/17-wreck.png' height='471' width='296'>\r\n[pagebreak]\r\n<img src='img://Textures/Axarien/Val Serano/items/books/JournalVal/17-poem and carnage.png' height='471' width='296'>\r\n[pagebreak]\r\n<img src='img://Textures/Axarien/Val Serano/items/books/JournalVal/20-hermy.png' height='471' width='296'>\r\n[pagebreak]\r\n<img src='img://Textures/Axarien/Val Serano/items/books/JournalVal/20-poem and mora.png' height='471' width='296'>\r\n[pagebreak]\r\n<img src='img://Textures/Axarien/Val Serano/items/books/JournalVal/28-storm clears.png' height='471' width='296'>\r\n[pagebreak]\r\n<img src='img://Textures/Axarien/Val Serano/items/books/JournalVal/28-moons and poem.png' height='471' width='296'>\r\n\r\n\r\n",
+  "string": "<font face='$HandwrittenFont'><p align=\"center\"><font color=\"#04262E\"><i>\r\n\r\n\r\n\r\nСобственность Вала Серано</i></color></p></font>\r\n<img src='img://Textures/Axarien/Val Serano/items/books/JournalVal/8-watching the docks.png' height='471' width='296'>\r\n[pagebreak]\r\n<img src='img://Textures/Axarien/Val Serano/items/books/JournalVal/10-poem and ships.png' height='471' width='296'>\r\n[pagebreak]\r\n<img src='img://Textures/Axarien/Val Serano/items/books/JournalVal/10-cool self.png' height='471' width='296'>\r\n[pagebreak]\r\n<img src='img://Textures/Axarien/Val Serano/items/books/JournalVal/10-dreaming of the sea.png' height='471' width='296'>\r\n[pagebreak]\r\n<img src='img://Textures/Axarien/Val Serano/items/books/JournalVal/17-island.png' height='471' width='296'>\r\n[pagebreak]\r\n<img src='img://Textures/Axarien/Val Serano/items/books/JournalVal/17-wreck.png' height='471' width='296'>\r\n[pagebreak]\r\n<img src='img://Textures/Axarien/Val Serano/items/books/JournalVal/17-poem and carnage.png' height='471' width='296'>\r\n[pagebreak]\r\n<img src='img://Textures/Axarien/Val Serano/items/books/JournalVal/20-hermy.png' height='471' width='296'>\r\n[pagebreak]\r\n<img src='img://Textures/Axarien/Val Serano/items/books/JournalVal/20-poem and mora.png' height='471' width='296'>\r\n[pagebreak]\r\n<img src='img://Textures/Axarien/Val Serano/items/books/JournalVal/28-storm clears.png' height='471' width='296'>\r\n[pagebreak]\r\n<img src='img://Textures/Axarien/Val Serano/items/books/JournalVal/28-moons and poem.png' height='471' width='296'>\r\n\r\n\r\n",
+  "form_id": "00000073|DBM_Serano_Patch.esp",
+  "type": "BOOK DESC",
+  "index": null,
+  "editor_id": "AX_JournalValDUPLICATE001"
+ },
+ {
+  "original": "Waterlogged Journal (replica)",
+  "string": "Намокший журнал (копия)",
+  "form_id": "00000074|DBM_Serano_Patch.esp",
+  "type": "BOOK FULL",
+  "index": null,
+  "editor_id": "AX_JournalFathisDUPLICATE001"
+ },
+ {
+  "original": "<font face='$HandwrittenFont'>\r\n<p align=\"center\">Journal - Volume 6\r\nProperty of Fathis Indaryn</p>\r\nDo NOT read - ARNE THIS MEANS YOU!\r\n[pagebreak]\r\n4E 201 - at sea\r\n\r\nI've had about all I can take of 'Captain Serano.' He's always had to do things his own way, but enough is enough! Instead of raiding, he has us climbing through collapsing ruins, fighting draugr and haunted Dwemer machines, just to collect some stupid bauble we only get paid for months later. I don't care if it is more gold, it's hard work. Dangerous, too.\r\n\r\nWhat's wrong with some honest piracy for a change? I miss the old days when we would just kill some merchants, take their cargo, and burn the ship to the water line. Maybe ransom a few of the wealthy types and let the rest float home in a rowboat. Simple. Quick. Profitable.\r\n\r\nAnway, I've got my own problems. Val's not like he used to be. Can't talk to him anymore. He's gone soft and it's going to get us all sent to the headsman's block or worse.\r\n\r\nSomething has to be done about it. It's risky, but I'll have to find the old captain; he's the only one that can manage it. I heard he was in Solitude recently...\r\n</font>\r\n",
+  "string": "<font face='$HandwrittenFont'>\r\n<p align=\"center\">Дневник - том 6\r\nСобственность Фатиса Индарина</p>\r\nНЕ читать - АРНЕ, ЭТО ТЕБЯ КАСАЕТСЯ!\r\n[pagebreak]\r\n4Э 201 - в море\r\n\r\nС меня хватит этого \"капитана Серано\". Он всегда все делал по-своему, но всему есть предел! Вместо того чтобы грабить, он гоняет нас по обваливающимся руинам, заставляет драться с драуграми и проклятыми двемерскими машинами - и все ради какой-то дурацкой безделушки, за которую нам платят только через несколько месяцев. Пусть золота и больше, но работа тяжелая. Да и опасная.\r\n\r\nЧем плохо старое доброе честное пиратство? Скучаю по прежним временам, когда мы просто резали купцов, забирали груз, а корабль сжигали до самой ватерлинии. Иногда брали выкуп за богатеньких, а остальных отпускали домой на гребной лодке. Просто. Быстро. Выгодно.\r\n\r\nВпрочем, у меня и своих забот хватает. Вал уже не тот, что раньше. С ним больше невозможно говорить. Он размяк, и из-за этого мы все отправимся на плаху к палачу, а то и куда похуже.\r\n\r\nС этим надо что-то делать. Дело рискованное, но придется разыскать старого капитана - только он с этим справится. Я слышал, недавно его видели в Солитьюде...\r\n</font>\r\n",
+  "form_id": "00000074|DBM_Serano_Patch.esp",
+  "type": "BOOK DESC",
+  "index": null,
+  "editor_id": "AX_JournalFathisDUPLICATE001"
+ },
+ {
+  "original": "Black Book: Sailor's Bargain (replica)",
+  "string": "Черная книга: «Сделка моряка» (копия)",
+  "form_id": "0000007F|DBM_Serano_Patch.esp",
+  "type": "BOOK FULL",
+  "index": null,
+  "editor_id": "AX_BlackBookSailorsBargainREP"
+ },
+ {
+  "original": "<font face=\"$HandwrittenFont\">\r\n<p align=\"center\">\r\n\r\nSailor's Bargain\r\n\r\nby the Drowned\r\n</p>\r\n\r\n\r\n[pagebreak]\r\n<p align=\"left\">\r\n<img src='img://Textures/Interface/Books/Illuminated_Letters/B_letter.png'>eneath the waves lies the deep, the cold, seek it out. Depths of the mind that the denziens know, did know, will know. Cast within, exhale,  the deep, the dying of the light, the dying of breath, the dying of self...",
+  "string": "<font face=\"$HandwrittenFont\">\r\n<p align=\"center\">\r\n\r\n«Сделка моряка»\r\n\r\nот Утонувших\r\n</p>\r\n\r\n\r\n[pagebreak]\r\n<p align=\"left\">\r\nПод волнами лежит глубина, холодная, отыщи ее. Глубины разума, что ведомы обитателям, были ведомы, будут ведомы. Погрузись, выдохни, глубина, угасание света, угасание дыхания, угасание себя...",
+  "form_id": "0000007F|DBM_Serano_Patch.esp",
+  "type": "BOOK DESC",
+  "index": null,
+  "editor_id": "AX_BlackBookSailorsBargainREP"
+ },
+ {
+  "original": "Lucky Ice Wraith Teeth (replica)",
+  "string": "Счастливые зубы ледяного привидения (копия)",
+  "form_id": "00000076|DBM_Serano_Patch.esp",
+  "type": "MISC FULL",
+  "index": null,
+  "editor_id": "AX_FathisIceWraithTeethDUPLICATE001"
+ },
+ {
+  "original": "Rare Shell (replica)",
+  "string": "Редкая раковина (копия)",
+  "form_id": "00000077|DBM_Serano_Patch.esp",
+  "type": "MISC FULL",
+  "index": null,
+  "editor_id": "AX_ShellMiscDUPLICATE001"
+ },
+ {
+  "original": "Ship in a Bottle (replica)",
+  "string": "Корабль в бутылке (копия)",
+  "form_id": "00000078|DBM_Serano_Patch.esp",
+  "type": "MISC FULL",
+  "index": null,
+  "editor_id": "AX_BottleShipDUPLICATE001"
+ },
+ {
+  "original": "Val's Coffee Cup (replica)",
+  "string": "Чашка Вала (копия)",
+  "form_id": "00000079|DBM_Serano_Patch.esp",
+  "type": "MISC FULL",
+  "index": null,
+  "editor_id": "AX_ValCoffeeMugDUPLICATE001"
+ },
+ {
+  "original": "Wanted: Val Serano (replica)",
+  "string": "Разыскивается: Вал Серано (копия)",
+  "form_id": "00000096|DBM_Serano_Patch.esp",
+  "type": "MISC FULL",
+  "index": null,
+  "editor_id": "REPLICA_AX_WantedPoster"
+ },
+ {
+  "original": "Strawberry Danish (replica)",
+  "string": "Клубничное пирожное (копия)",
+  "form_id": "00000A93|DBM_Serano_Patch.esp",
+  "type": "MISC FULL",
+  "index": null,
+  "editor_id": "AX_CopyStrawberryDanish"
+ },
+ {
+  "original": "Val's Sword (replica)",
+  "string": "Меч Вала (копия)",
+  "form_id": "0000006F|DBM_Serano_Patch.esp",
+  "type": "MISC FULL",
+  "index": null,
+  "editor_id": null
+ },
+ {
+  "original": "Val's Armor (replica)",
+  "string": "Броня Вала (копия)",
+  "form_id": "00000070|DBM_Serano_Patch.esp",
+  "type": "MISC FULL",
+  "index": null,
+  "editor_id": null
+ },
+ {
+  "original": "Val's Boots (replica)",
+  "string": "Сапоги Вала (копия)",
+  "form_id": "00000071|DBM_Serano_Patch.esp",
+  "type": "MISC FULL",
+  "index": null,
+  "editor_id": null
+ },
+ {
+  "original": "Val's Ring (replica)",
+  "string": "Кольцо Вала (копия)",
+  "form_id": "00000072|DBM_Serano_Patch.esp",
+  "type": "MISC FULL",
+  "index": null,
+  "editor_id": null
+ },
+ {
+  "original": "East Empire Shipping Map (replica)",
+  "string": "Морская карта Восточной имперской компании (копия)",
+  "form_id": "00000075|DBM_Serano_Patch.esp",
+  "type": "MISC FULL",
+  "index": null,
+  "editor_id": "AX_CopyEastEmpireShippingMap"
+ },
+ {
+  "original": "Dark Rose Pirate Cutlass (replica)",
+  "string": "Пиратская сабля «Темной Розы» (копия)",
+  "form_id": "0000007A|DBM_Serano_Patch.esp",
+  "type": "WEAP FULL",
+  "index": null,
+  "editor_id": "AX_PirateCutlassDUPLICATE001"
+ },
+ {
+  "original": "Tarek's Sword (replica)",
+  "string": "Меч Тарека (копия)",
+  "form_id": "0000007B|DBM_Serano_Patch.esp",
+  "type": "WEAP FULL",
+  "index": null,
+  "editor_id": "AX_TarekSwordDUPLICATE001"
+ },
+ {
+  "original": "Val Serano",
+  "string": "Вал Серано",
+  "form_id": "0000005E|DBM_Serano_Patch.esp",
+  "type": "QUST FULL",
+  "index": null,
+  "editor_id": "DBM_Serano"
+ }
+]

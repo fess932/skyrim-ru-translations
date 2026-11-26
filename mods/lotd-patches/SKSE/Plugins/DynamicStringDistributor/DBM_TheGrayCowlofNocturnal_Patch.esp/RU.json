@@ -1,0 +1,186 @@
+[
+ {
+  "original": "Eagle Eye",
+  "string": "Орлиный взор",
+  "form_id": "00000856|DBM_TheGrayCowlofNocturnal_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTGCEagleEye"
+ },
+ {
+  "original": "The Gray Cowl of Nocturnal Quest Display",
+  "string": "Экспозиция задания \"Серый капюшон Ноктюрнал\"",
+  "form_id": "00000815|DBM_TheGrayCowlofNocturnal_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTGCGrayCowlQuestDisplay"
+ },
+ {
+  "original": "Bow of the Forgotten Chaos",
+  "string": "Лук Забытого Хаоса",
+  "form_id": "0000084A|DBM_TheGrayCowlofNocturnal_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTGCChaosBow"
+ },
+ {
+  "original": "Ornate Scimitar",
+  "string": "Узорный скимитар",
+  "form_id": "0000084E|DBM_TheGrayCowlofNocturnal_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTGCGoldenScimitar"
+ },
+ {
+  "original": "Yokuda",
+  "string": "Йокуда",
+  "form_id": "00000850|DBM_TheGrayCowlofNocturnal_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTGCYokuda"
+ },
+ {
+  "original": "Right Eye of Coldharbour",
+  "string": "Правый глаз Хладной гавани",
+  "form_id": "00000852|DBM_TheGrayCowlofNocturnal_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTGCRightEye"
+ },
+ {
+  "original": "Left Eye of Coldharbour",
+  "string": "Левый глаз Хладной гавани",
+  "form_id": "00000854|DBM_TheGrayCowlofNocturnal_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTGCLeftEye"
+ },
+ {
+  "original": "May Shadow Hide You",
+  "string": "Да укроет тебя тьма",
+  "form_id": "0000086C|DBM_TheGrayCowlofNocturnal_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_GrayCowlMSGact"
+ },
+ {
+  "original": "Read Plaque:",
+  "string": "Прочитать табличку:",
+  "form_id": "0000086C|DBM_TheGrayCowlofNocturnal_Patch.esp",
+  "type": "ACTI RNAM",
+  "index": null,
+  "editor_id": "DBM_GrayCowlMSGact"
+ },
+ {
+  "original": "Alliance of Ancestral Cheetahs",
+  "string": "Союз племеных гепардов",
+  "form_id": "00000858|DBM_TheGrayCowlofNocturnal_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTGCCheetahAmmy"
+ },
+ {
+  "original": "Ancient Redguard Hood",
+  "string": "Древний редгардский капюшон",
+  "form_id": "0000085A|DBM_TheGrayCowlofNocturnal_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTGCAncientRedguardHood"
+ },
+ {
+  "original": "Ancient Redguard Clothes",
+  "string": "Древняя редгардская одежда",
+  "form_id": "0000085C|DBM_TheGrayCowlofNocturnal_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTGCAncientRedguardClothes"
+ },
+ {
+  "original": "Ancient Redguard Boots",
+  "string": "Древние редгардские сапоги",
+  "form_id": "0000085E|DBM_TheGrayCowlofNocturnal_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTGCAncientRedguardBoots"
+ },
+ {
+  "original": "Boots of Springheel Jak",
+  "string": "Сапоги Быстроногого Джека",
+  "form_id": "00000860|DBM_TheGrayCowlofNocturnal_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTGCBootsSpringheelJak"
+ },
+ {
+  "original": "Ocato's Dagger",
+  "string": "Кинжал Окато",
+  "form_id": "00000862|DBM_TheGrayCowlofNocturnal_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTGCOcatoDagger"
+ },
+ {
+  "original": "The Withdrawal",
+  "string": "Изъятие",
+  "form_id": "00000864|DBM_TheGrayCowlofNocturnal_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTGCTheWithdrawal"
+ },
+ {
+  "original": "The Gray Cowl of Nocturnal",
+  "string": "Серый капюшон Ноктюрнал",
+  "form_id": "00000872|DBM_TheGrayCowlofNocturnal_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTGCGrayCowl"
+ },
+ {
+  "original": "We Were Yokudans",
+  "string": "Мы были Йокуданцами",
+  "form_id": "00000879|DBM_TheGrayCowlofNocturnal_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_BOOKACTWeWereYokudans"
+ },
+ {
+  "original": "The Great Mission",
+  "string": "Великая Миссия",
+  "form_id": "00000881|DBM_TheGrayCowlofNocturnal_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_BOOKACTTheGreatMission"
+ },
+ {
+  "original": "The Punishment of the Forgotten Draugr",
+  "string": "Наказание забытого драугра",
+  "form_id": "00000882|DBM_TheGrayCowlofNocturnal_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_BOOKACTforgottenDraugr"
+ },
+ {
+  "original": "Gray Cowl of Nocturnal Items",
+  "string": "Предметы из Серого капюшона Ноктюрнал",
+  "form_id": "00000875|DBM_TheGrayCowlofNocturnal_Patch.esp",
+  "type": "CONT FULL",
+  "index": null,
+  "editor_id": "DBM_CheatCrateGrayCowl"
+ },
+ {
+  "original": "Gray Cowl Support Handler",
+  "string": "Поддержка Серого Капюшона (служебный)",
+  "form_id": "00000866|DBM_TheGrayCowlofNocturnal_Patch.esp",
+  "type": "QUST FULL",
+  "index": null,
+  "editor_id": "DBM_SupportHandlerGrayCowl"
+ },
+ {
+  "original": "More often than not, the Daedric Lords bestow their gifts upon their champions or the unwitting tools of their machinations. In the case of the Gray Cowl of Nocturnal, however, it is a popular legend that the cowl was stolen from her by a particularly clever thief and then passed down through the Thieves Guild over several hundred years' time, finding its way into the iconic possession of the legendary Gray Fox.",
+  "string": "Чаще всего даэдрические принцы даруют свои подарки собственным избранникам или тем, кто, сам того не ведая, становится орудием их замыслов. Однако о Сером капюшоне Ноктюрнал ходит известная легенда: будто бы его похитил у нее необычайно ловкий вор, после чего капюшон несколько веков передавался по наследству в Гильдии воров, пока не стал символом легендарного Серого Лиса.",
+  "form_id": "0000086D|DBM_TheGrayCowlofNocturnal_Patch.esp",
+  "type": "MESG DESC",
+  "index": null,
+  "editor_id": "DBM_GrayCowlDispMSG"
+ }
+]

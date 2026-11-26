@@ -1,0 +1,122 @@
+[
+ {
+  "original": "Staff of Winterhold (replica)",
+  "string": "Посох Винтерхолда (копия)",
+  "form_id": "0000080E|DBM_ReplicaPatchNG.esp",
+  "type": "WEAP FULL",
+  "index": null,
+  "editor_id": "DBMTWR_WinterholdStaffREPLICA"
+ },
+ {
+  "original": "Waraxe of Windhelm (replica)",
+  "string": "Боевой топор Виндхельма (копия)",
+  "form_id": "00000811|DBM_ReplicaPatchNG.esp",
+  "type": "WEAP FULL",
+  "index": null,
+  "editor_id": "DBMTWR_WindhelmAxe01REPLICA"
+ },
+ {
+  "original": "Battleaxe of Windhelm (replica)",
+  "string": "Секира Виндхельма (копия)",
+  "form_id": "00000816|DBM_ReplicaPatchNG.esp",
+  "type": "WEAP FULL",
+  "index": null,
+  "editor_id": "DBMTWR_WindhelmBattleaxe01REPLICA"
+ },
+ {
+  "original": "Greatsword of Whiterun (replica)",
+  "string": "Двуручный меч Вайтрана (копия)",
+  "form_id": "00000817|DBM_ReplicaPatchNG.esp",
+  "type": "WEAP FULL",
+  "index": null,
+  "editor_id": "DBMTWR_WhiterunGreatsword01REPLICA"
+ },
+ {
+  "original": "Sword of Whiterun (replica)",
+  "string": "Меч Вайтрана (копия)",
+  "form_id": "00000818|DBM_ReplicaPatchNG.esp",
+  "type": "WEAP FULL",
+  "index": null,
+  "editor_id": "DBMTWR_WhiterunSword01REPLICA"
+ },
+ {
+  "original": "Greatsword of Solitude (replica)",
+  "string": "Двуручный меч Солитьюда (копия)",
+  "form_id": "00000819|DBM_ReplicaPatchNG.esp",
+  "type": "WEAP FULL",
+  "index": null,
+  "editor_id": "DBMTWR_SolitudeGreatsword01REPLICA"
+ },
+ {
+  "original": "Sword of Solitude (replica)",
+  "string": "Меч Солитьюда (копия)",
+  "form_id": "0000081A|DBM_ReplicaPatchNG.esp",
+  "type": "WEAP FULL",
+  "index": null,
+  "editor_id": "DBMTWR_SolitudeSword01REPLICA"
+ },
+ {
+  "original": "Dagger of Riften (replica)",
+  "string": "Кинжал Рифтена (копия)",
+  "form_id": "0000081B|DBM_ReplicaPatchNG.esp",
+  "type": "WEAP FULL",
+  "index": null,
+  "editor_id": "DBMTWR_RiftenDagger01REPLICA"
+ },
+ {
+  "original": "Waraxe of Morthal (replica)",
+  "string": "Боевой топор Морфала (копия)",
+  "form_id": "0000081C|DBM_ReplicaPatchNG.esp",
+  "type": "WEAP FULL",
+  "index": null,
+  "editor_id": "DBMTWR_MorthalAxe01REPLICA"
+ },
+ {
+  "original": "Battleaxe of Morthal (replica)",
+  "string": "Секира Морфала (копия)",
+  "form_id": "0000081D|DBM_ReplicaPatchNG.esp",
+  "type": "WEAP FULL",
+  "index": null,
+  "editor_id": "DBMTWR_MorthalBattleaxe01REPLICA"
+ },
+ {
+  "original": "Hammer of Markarth (replica)",
+  "string": "Молот Маркарта (копия)",
+  "form_id": "0000081E|DBM_ReplicaPatchNG.esp",
+  "type": "WEAP FULL",
+  "index": null,
+  "editor_id": "DBMTWR_MarkarthHammer01REPLICA"
+ },
+ {
+  "original": "Warhammer of Markarth (replica)",
+  "string": "Боевой молот Маркарта (копия)",
+  "form_id": "0000081F|DBM_ReplicaPatchNG.esp",
+  "type": "WEAP FULL",
+  "index": null,
+  "editor_id": "DBMTWR_MarkarthWarhammer01REPLICA"
+ },
+ {
+  "original": "Bow of Falkreath (replica)",
+  "string": "Лук Фолкрита (копия)",
+  "form_id": "00000820|DBM_ReplicaPatchNG.esp",
+  "type": "WEAP FULL",
+  "index": null,
+  "editor_id": "DBMTWR_Falkreathbow01REPLICA"
+ },
+ {
+  "original": "Battlemace of Dawnstar (replica)",
+  "string": "Двуручная булава Данстара (копия)",
+  "form_id": "00000821|DBM_ReplicaPatchNG.esp",
+  "type": "WEAP FULL",
+  "index": null,
+  "editor_id": "DBMTWR_DawnstarBattleMace01REPLICA"
+ },
+ {
+  "original": "Mace of Dawnstar (replica)",
+  "string": "Булава Данстара (копия)",
+  "form_id": "00000822|DBM_ReplicaPatchNG.esp",
+  "type": "WEAP FULL",
+  "index": null,
+  "editor_id": "DBMTWR_DawnstarMace01REPLICA"
+ }
+]

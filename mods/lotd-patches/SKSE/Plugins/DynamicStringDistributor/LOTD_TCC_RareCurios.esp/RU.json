@@ -1,0 +1,18 @@
+[
+ {
+  "original": "The Curators Companion - Rare Curios",
+  "string": "Помощник куратора - Редкости",
+  "form_id": "00000800|LOTD_TCC_RareCurios.esp",
+  "type": "QUST FULL",
+  "index": null,
+  "editor_id": "TCC_SM_RareCurios"
+ },
+ {
+  "original": "<font color='#<Alias=ColourAlias>'>The Curators Companion: Mod Complete (Rare Curios)</font>",
+  "string": "<font color='#<Alias=ColourAlias>'>Компаньон куратора: мод завершен (Редкости)</font>",
+  "form_id": "00000803|LOTD_TCC_RareCurios.esp",
+  "type": "MESG DESC",
+  "index": null,
+  "editor_id": "_CompleteNotification_RareCurios"
+ }
+]

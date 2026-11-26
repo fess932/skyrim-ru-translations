@@ -1,0 +1,18 @@
+[
+ {
+  "original": "The Curators Companion - Alternate Armors - Daedric Mail",
+  "string": "Помощник куратора - Альтернативная броня - Даэдрическая кольчуга",
+  "form_id": "00000800|LOTD_TCC_HeadsmansCleaver.esp",
+  "type": "QUST FULL",
+  "index": null,
+  "editor_id": "TCC_SM_HeadsmansCleaver"
+ },
+ {
+  "original": "<font color='#<Alias=ColourAlias>'>The Curators Companion: Mod Complete (Headman's Cleaver)</font>",
+  "string": "<font color='#<Alias=ColourAlias>'>Компаньон куратора: Мод завершен (Топор главаря)</font>",
+  "form_id": "00000803|LOTD_TCC_HeadsmansCleaver.esp",
+  "type": "MESG DESC",
+  "index": null,
+  "editor_id": "_CompleteNotification_HeadsmansCleaver"
+ }
+]

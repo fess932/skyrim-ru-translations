@@ -1,0 +1,890 @@
+[
+ {
+  "original": "Drakensang",
+  "string": "Дракензанг",
+  "form_id": "00065FB0|DBM_RelicHunter.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_RH_DrakACT"
+ },
+ {
+  "original": "Ancient Akaviri Helmet",
+  "string": "Древний акавирский шлем",
+  "form_id": "000243DA|DBM_RelicHunter.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "ArmorBladesHelmetWWW2"
+ },
+ {
+  "original": "Ancient Akaviri Gauntlets",
+  "string": "Древние акавирские перчатки",
+  "form_id": "000243DB|DBM_RelicHunter.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "ArmorBladesGauntletsWWW2"
+ },
+ {
+  "original": "Ancient Akaviri Shield",
+  "string": "Древний акавирский щит",
+  "form_id": "000243DC|DBM_RelicHunter.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "ArmorBladesShieldWWW3"
+ },
+ {
+  "original": "Ancient Akaviri Armor",
+  "string": "Древняя акавирская броня",
+  "form_id": "000243DD|DBM_RelicHunter.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "ArmorBladesCuirassWWW2"
+ },
+ {
+  "original": "Ancient Akaviri Boots",
+  "string": "Древние акавирские сапоги",
+  "form_id": "000243DE|DBM_RelicHunter.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "ArmorBladesBootsWWW2"
+ },
+ {
+  "original": "Crate of Torches",
+  "string": "Ящик с факелами",
+  "form_id": "0000FB61|DBM_RelicHunter.esp",
+  "type": "CONT FULL",
+  "index": null,
+  "editor_id": "DBM_Torchcrate_RH"
+ },
+ {
+  "original": "Chest",
+  "string": "Сундук",
+  "form_id": "00051B6A|DBM_RelicHunter.esp",
+  "type": "CONT FULL",
+  "index": null,
+  "editor_id": "DBM_RHArmorChest"
+ },
+ {
+  "original": "Lockpicks Satchel",
+  "string": "Сумка с отмычками",
+  "form_id": "0007F4F7|DBM_RelicHunter.esp",
+  "type": "CONT FULL",
+  "index": null,
+  "editor_id": "DBM_LockpickSatchel"
+ },
+ {
+  "original": "Dwemer Compass",
+  "string": "Двемерский Компас",
+  "form_id": "0000FB66|DBM_RelicHunter.esp",
+  "type": "MISC FULL",
+  "index": null,
+  "editor_id": "DBM_RHDweRelic02"
+ },
+ {
+  "original": "Chair",
+  "string": "Стул",
+  "form_id": "00024324|DBM_RelicHunter.esp",
+  "type": "FURN FULL",
+  "index": null,
+  "editor_id": "SOVThrone01DBM"
+ },
+ {
+  "original": "Akaviri Relic",
+  "string": "Реликвия Акавира",
+  "form_id": "00056C72|DBM_RelicHunter.esp",
+  "type": "WEAP FULL",
+  "index": null,
+  "editor_id": "DBM_RH_DrakensangUID"
+ },
+ {
+  "original": "Drakensang",
+  "string": "Дракензанг",
+  "form_id": "00060E9B|DBM_RelicHunter.esp",
+  "type": "WEAP FULL",
+  "index": null,
+  "editor_id": "DBM_RH_Drakensang"
+ },
+ {
+  "original": "General Xile",
+  "string": "Генерал Ксайл",
+  "form_id": "0002438E|DBM_RelicHunter.esp",
+  "type": "NPC_ FULL",
+  "index": null,
+  "editor_id": "DBM_RHXile"
+ },
+ {
+  "original": "Karl the Excavator",
+  "string": "Карл-раскопщик",
+  "form_id": "000244A1|DBM_RelicHunter.esp",
+  "type": "NPC_ FULL",
+  "index": null,
+  "editor_id": "DBM_RH_Excavator"
+ },
+ {
+  "original": "Injured Digger",
+  "string": "Раненый землекоп",
+  "form_id": "000244AF|DBM_RelicHunter.esp",
+  "type": "NPC_ FULL",
+  "index": null,
+  "editor_id": "DBM_RH_Digger01"
+ },
+ {
+  "original": "I'jati",
+  "string": "И'джати",
+  "form_id": "000244BB|DBM_RelicHunter.esp",
+  "type": "NPC_ FULL",
+  "index": null,
+  "editor_id": "DBM_RH_Digger02"
+ },
+ {
+  "original": "Margaret",
+  "string": "Маргарет",
+  "form_id": "000244C3|DBM_RelicHunter.esp",
+  "type": "NPC_ FULL",
+  "index": null,
+  "editor_id": "DBM_RH_Digger03"
+ },
+ {
+  "original": "Arginal",
+  "string": "Аргинал",
+  "form_id": "000244C6|DBM_RelicHunter.esp",
+  "type": "NPC_ FULL",
+  "index": null,
+  "editor_id": "DBM_RH_Guard"
+ },
+ {
+  "original": "Farlan",
+  "string": "Фарлан",
+  "form_id": "00089716|DBM_RelicHunter.esp",
+  "type": "NPC_ FULL",
+  "index": null,
+  "editor_id": "DBM_RH_Farlan"
+ },
+ {
+  "original": "Farlan",
+  "string": "Фарлан",
+  "form_id": "00089716|DBM_RelicHunter.esp",
+  "type": "NPC_ SHRT",
+  "index": null,
+  "editor_id": "DBM_RH_Farlan"
+ },
+ {
+  "original": "Farlan's Horse",
+  "string": "Лошадь Фарлана",
+  "form_id": "00098A39|DBM_RelicHunter.esp",
+  "type": "NPC_ FULL",
+  "index": null,
+  "editor_id": "DBM_RHHorse"
+ },
+ {
+  "original": "Akaviri Outpost Antechamber",
+  "string": "Акавирская застава - прихожая",
+  "form_id": "00023FB5|DBM_RelicHunter.esp",
+  "type": "CELL FULL",
+  "index": null,
+  "editor_id": "DBMRHAkaviriPost"
+ },
+ {
+  "original": "Akaviri Outpost Hold",
+  "string": "Акавирская застава - трюм",
+  "form_id": "000241DC|DBM_RelicHunter.esp",
+  "type": "CELL FULL",
+  "index": null,
+  "editor_id": "DBMRHAkaviriPostBasement"
+ },
+ {
+  "original": "Akaviri Outpost Inner Sanctum",
+  "string": "Акавирская застава - внутреннее святилище",
+  "form_id": "00024251|DBM_RelicHunter.esp",
+  "type": "CELL FULL",
+  "index": null,
+  "editor_id": "DBMRHAkaviriPostBasement2"
+ },
+ {
+  "original": "Akaviri Outpost",
+  "string": "Акавирская застава",
+  "form_id": "0008970E|DBM_RelicHunter.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": null
+ },
+ {
+  "original": "Ah good, you're finally awake, Guild Master.",
+  "string": "А, хорошо, ты наконец очнулся, мастер гильдии.",
+  "form_id": "000244A7|DBM_RelicHunter.esp",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "What time is it?",
+  "string": "Который час?",
+  "form_id": "000244A8|DBM_RelicHunter.esp",
+  "type": "DIAL FULL",
+  "index": null,
+  "editor_id": "DBM_RelicHunterStartQSTEXIntro2"
+ },
+ {
+  "original": "Oh, must be going on nine in the morning now. After the incident yesterday evening, we figured we'd just let you sleep in.",
+  "string": "Ох, сейчас, наверное, уже около девяти утра. После вчерашнего вечернего происшествия мы решили дать тебе выспаться.",
+  "form_id": "000244A9|DBM_RelicHunter.esp",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "Incident?",
+  "string": "Происшествие?",
+  "form_id": "000244AA|DBM_RelicHunter.esp",
+  "type": "DIAL FULL",
+  "index": null,
+  "editor_id": "DBM_RelicHunterStartQSTIntro3"
+ },
+ {
+  "original": "My, you must have hit your head proper. The main chamber caved in yesterday. Nobody was seriously hurt,",
+  "string": "Ну и ну, видать, крепко тебя приложило. Вчера обрушился главный зал. Серьезно никто не пострадал,",
+  "form_id": "000244AB|DBM_RelicHunter.esp",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "but you and a couple others took some pretty nice knocks on the head and it set us back a bit.",
+  "string": "но тебе и еще паре ребят здорово досталось по голове, да и работа из-за этого немного встала.",
+  "form_id": "000244AB|DBM_RelicHunter.esp",
+  "type": "INFO NAM1",
+  "index": 2,
+  "editor_id": null
+ },
+ {
+  "original": "Well, we best get back to it, half the day is gone,",
+  "string": "Что ж, пора возвращаться к работе, полдня уже прошло,",
+  "form_id": "000244AC|DBM_RelicHunter.esp",
+  "type": "DIAL FULL",
+  "index": null,
+  "editor_id": "DBM_RelicHunterStartQSTEXIntro4"
+ },
+ {
+  "original": "Oh, worry not, we kept at it and managed to salvage the passage access but there are lots of odd sounds of things moving about inside.",
+  "string": "О, не волнуйся, мы продолжили работу и сумели расчистить проход, но изнутри доносится много странных звуков, будто там что-то шевелится.",
+  "form_id": "000244AD|DBM_RelicHunter.esp",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "Could be trouble, so we figured we'd wait for you to come round. You should certainly stop at the expedition supply tent and arm yourself",
+  "string": "Может быть опасно, вот мы и решили подождать, пока ты придешь в себя. Обязательно загляни в палатку снабжения экспедиции и вооружись,",
+  "form_id": "000244AD|DBM_RelicHunter.esp",
+  "type": "INFO NAM1",
+  "index": 2,
+  "editor_id": null
+ },
+ {
+  "original": "before you go. No telling what could be down there. Oh, and we collected your tools after the accident. They are sitting on the table out here.",
+  "string": "прежде чем идти. Кто знает, что там внизу. Да, и мы собрали твои инструменты после обвала. Они лежат тут, на столе.",
+  "form_id": "000244AD|DBM_RelicHunter.esp",
+  "type": "INFO NAM1",
+  "index": 3,
+  "editor_id": null
+ },
+ {
+  "original": "Grab 'em, gear up and have a look in the ruins. Arginal is waiting for you inside.",
+  "string": "Забирай их, снаряжайся и осмотри руины. Аргинал ждет тебя внутри.",
+  "form_id": "000244AD|DBM_RelicHunter.esp",
+  "type": "INFO NAM1",
+  "index": 4,
+  "editor_id": null
+ },
+ {
+  "original": "Ah, wonderful, you're back. ",
+  "string": "А, чудесно, ты вернулся. ",
+  "form_id": "000244CC|DBM_RelicHunter.esp",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "We've just managed to clear the rubble of yesterday's cave in and managed to break the seal on the opposite door as well.",
+  "string": "Мы только что разобрали завал после вчерашнего обрушения и заодно сумели сломать печать на двери напротив.",
+  "form_id": "000244CE|DBM_RelicHunter.esp",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "Sounds like there is something moving around down there, so I thought it best that we wait for your return. I'm right behind you, Guild Master.",
+  "string": "Похоже, там внизу что-то шевелится, так что я решил дождаться твоего возвращения. Я прямо за тобой, мастер гильдии.",
+  "form_id": "000244CE|DBM_RelicHunter.esp",
+  "type": "INFO NAM1",
+  "index": 2,
+  "editor_id": null
+ },
+ {
+  "original": "Oh, confound it! Looks like this door is sealed as well. It doesn't have a lock and the doors aren't fused like the others.",
+  "string": "Ах, проклятье! Похоже, эта дверь тоже запечатана. Замка на ней нет, и створки не сплавлены, как у других.",
+  "form_id": "000244D4|DBM_RelicHunter.esp",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "Oh, looks like there must be some mechanism nearby that opens it. Have a look around and I'll watch the door.",
+  "string": "О, наверное, где-то рядом есть механизм, который ее открывает. Осмотрись, а я присмотрю за дверью.",
+  "form_id": "000244D4|DBM_RelicHunter.esp",
+  "type": "INFO NAM1",
+  "index": 2,
+  "editor_id": null
+ },
+ {
+  "original": "That did it! It's unlocked now.",
+  "string": "Получилось! Теперь она открыта.",
+  "form_id": "000244D9|DBM_RelicHunter.esp",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "We found something.",
+  "string": "Мы кое-что нашли.",
+  "form_id": "000244DB|DBM_RelicHunter.esp",
+  "type": "DIAL FULL",
+  "index": null,
+  "editor_id": "DBM_RHStartQSTEXreturn1Topic"
+ },
+ {
+  "original": "Oh, would you look at that. I haven't seen anything quite like that before. I'm sure it will fetch quite a nice price from a buyer.",
+  "string": "О, ты только посмотри. Никогда не видел ничего подобного. Уверен, покупатель отвалит за это кругленькую сумму.",
+  "form_id": "000244DC|DBM_RelicHunter.esp",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "Oh but come to think of it, Auryen may have interest in it.",
+  "string": "Хотя, если подумать, это может заинтересовать Ауриена.",
+  "form_id": "000244DC|DBM_RelicHunter.esp",
+  "type": "INFO NAM1",
+  "index": 2,
+  "editor_id": null
+ },
+ {
+  "original": "Auryen? Who's Auryen?",
+  "string": "Ауриен? Кто такой Ауриен?",
+  "form_id": "000244DF|DBM_RelicHunter.esp",
+  "type": "DIAL FULL",
+  "index": null,
+  "editor_id": "DBM_RHStartQSTEXreturn3"
+ },
+ {
+  "original": "Oh divines, you really need to see a healer about that head of yours. Auryen is the curator of the museum in Solitude.",
+  "string": "О боги, тебе и правда надо показать голову лекарю. Ауриен - куратор музея в Солитьюде.",
+  "form_id": "000244E0|DBM_RelicHunter.esp",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "the same building that the guild is attached to?",
+  "string": "того самого здания, к которому пристроена гильдия?",
+  "form_id": "000244E0|DBM_RelicHunter.esp",
+  "type": "INFO NAM1",
+  "index": 2,
+  "editor_id": null
+ },
+ {
+  "original": "Well at any rate, he said he had a proposal to pose to you, so you might see if he's interested in the relic as well.",
+  "string": "Так или иначе, он говорил, что у него к тебе есть предложение, так что можешь заодно узнать, не заинтересует ли его эта реликвия.",
+  "form_id": "000244E0|DBM_RelicHunter.esp",
+  "type": "INFO NAM1",
+  "index": 3,
+  "editor_id": null
+ },
+ {
+  "original": "Ok, I'll check it out after we finish here.",
+  "string": "Ладно, загляну туда, когда закончим здесь.",
+  "form_id": "000244E1|DBM_RelicHunter.esp",
+  "type": "DIAL FULL",
+  "index": null,
+  "editor_id": "DBM_RHStartQSTEXreturn4"
+ },
+ {
+  "original": "You go on ahead and we'll finish up the excavation here and pack up in a few days. Then we'll be heading over to Orsinium like we had planned.",
+  "string": "Ступай, а мы тут закончим раскопки и через несколько дней соберемся. А потом двинемся в Орсиниум, как и планировали.",
+  "form_id": "000244E2|DBM_RelicHunter.esp",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "So good luck to you, Guild Master. I trust we'll likely not see one another for some time, but I'll send word if we find anything interesting there.",
+  "string": "Так что удачи тебе, мастер гильдии. Думаю, мы теперь не скоро увидимся, но я дам знать, если мы найдем там что-нибудь интересное.",
+  "form_id": "000244E2|DBM_RelicHunter.esp",
+  "type": "INFO NAM1",
+  "index": 2,
+  "editor_id": null
+ },
+ {
+  "original": "And if you'd like a ride over to Whiterun stables where you can catch a carriage back to Solitude, Farlan is heading that way and could take you.",
+  "string": "И если хочешь, чтобы тебя подбросили до конюшен Вайтрана, где можно сесть на повозку до Солитьюда, - Фарлан едет туда и может тебя взять.",
+  "form_id": "000244E2|DBM_RelicHunter.esp",
+  "type": "INFO NAM1",
+  "index": 3,
+  "editor_id": null
+ },
+ {
+  "original": "Ah good day to you Guild master. I trust you are fairing well? How goes the excavation?",
+  "string": "А, добрый день, мастер гильдии. Надеюсь, у тебя все хорошо? Как продвигаются раскопки?",
+  "form_id": "00033531|DBM_RelicHunter.esp",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "Just a little accident that set us back.",
+  "string": "Небольшая неприятность, из-за которой мы задержались.",
+  "form_id": "0002E420|DBM_RelicHunter.esp",
+  "type": "DIAL FULL",
+  "index": null,
+  "editor_id": "DBM_GuildMasterStartAuryenGreet1"
+ },
+ {
+  "original": "Oh dear, I'm sorry to hear that. I trust nobody was seriously hurt?",
+  "string": "Ох, как жаль это слышать. Надеюсь, никто серьезно не пострадал?",
+  "form_id": "00033532|DBM_RelicHunter.esp",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "Yes he said you had a proposal or something?",
+  "string": "Да, он сказал, что у тебя есть какое-то предложение?",
+  "form_id": "0002E421|DBM_RelicHunter.esp",
+  "type": "DIAL FULL",
+  "index": null,
+  "editor_id": "DBM_GuildMasterStartAuryenGreet3"
+ },
+ {
+  "original": "Well it's a bit of a proposal and a request. We've been cordial neighbors for some time now, the explorers and the museum that is.",
+  "string": "Что ж, это отчасти предложение, отчасти просьба. Мы ведь уже давно живем добрыми соседями - исследователи и музей, я имею в виду.",
+  "form_id": "00033533|DBM_RelicHunter.esp",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "And I began to think that it is rather silly that we aren't working more closely with one another.",
+  "string": "И мне пришло в голову, что довольно глупо, что мы не сотрудничаем теснее.",
+  "form_id": "00033533|DBM_RelicHunter.esp",
+  "type": "INFO NAM1",
+  "index": 2,
+  "editor_id": null
+ },
+ {
+  "original": "Then Karl told me of the availability of the chief librarian position in your guild and I thought that I might offer my expertise in that role.",
+  "string": "А потом Карл рассказал мне, что в твоей гильдии свободна должность главного библиотекаря, и я подумал, что мог бы предложить свои знания на этом посту.",
+  "form_id": "00033533|DBM_RelicHunter.esp",
+  "type": "INFO NAM1",
+  "index": 3,
+  "editor_id": null
+ },
+ {
+  "original": "In exchange I was hoping that you and your explorers might be willing to undertake some exploration and excavation of a variety of artifacts,",
+  "string": "Взамен я надеялся, что ты и твои исследователи возьметесь за поиски и раскопки самых разных артефактов,",
+  "form_id": "00033533|DBM_RelicHunter.esp",
+  "type": "INFO NAM1",
+  "index": 4,
+  "editor_id": null
+ },
+ {
+  "original": "funded by the museum of course. I have just completed the majority of the renovations to the building and would be ready to open officially",
+  "string": "разумеется, за счет музея. Я как раз закончил большую часть перестройки здания и был бы готов официально открыться,",
+  "form_id": "00033533|DBM_RelicHunter.esp",
+  "type": "INFO NAM1",
+  "index": 5,
+  "editor_id": null
+ },
+ {
+  "original": "if I could find some reliable treasure hunters and mercenaries. I think that you and your people would be eminently qualified.",
+  "string": "если бы нашел надежных охотников за сокровищами и наемников. Думаю, ты и твои люди подходите для этого как нельзя лучше.",
+  "form_id": "00033533|DBM_RelicHunter.esp",
+  "type": "INFO NAM1",
+  "index": 6,
+  "editor_id": null
+ },
+ {
+  "original": "So I was thinking I become chief library for the explorer's society and you become the Relic hunter for the museum?",
+  "string": "Вот я и подумал: я становлюсь главным библиотекарем Общества исследователей, а ты - охотником за реликвиями для музея?",
+  "form_id": "00033533|DBM_RelicHunter.esp",
+  "type": "INFO NAM1",
+  "index": 7,
+  "editor_id": null
+ },
+ {
+  "original": "So you buy any and all artifacts we find?",
+  "string": "То есть ты покупаешь все артефакты, что мы находим?",
+  "form_id": "0002E422|DBM_RelicHunter.esp",
+  "type": "DIAL FULL",
+  "index": null,
+  "editor_id": "DBM_GuildMasterStartAuryenGreet4"
+ },
+ {
+  "original": "Well I was thinking more that I would simply safeguard and showcase the things you found, offer you funding and occasional finder's fees.",
+  "string": "Ну, я скорее думал, что просто буду хранить и выставлять то, что ты найдешь, давать тебе средства и время от времени платить вознаграждение за находки.",
+  "form_id": "00033534|DBM_RelicHunter.esp",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "and that way you can access any of the collection you provide at your discression.",
+  "string": "и так ты сможешь по своему усмотрению пользоваться любыми предметами из переданной тобой коллекции.",
+  "form_id": "00033534|DBM_RelicHunter.esp",
+  "type": "INFO NAM1",
+  "index": 2,
+  "editor_id": null
+ },
+ {
+  "original": "Sounds like a good arrangement.",
+  "string": "Похоже, выгодная сделка.",
+  "form_id": "0002E423|DBM_RelicHunter.esp",
+  "type": "DIAL FULL",
+  "index": null,
+  "editor_id": "DBM_GuildMasterStartAuryenGreet5"
+ },
+ {
+  "original": "Oh, almost forgot. There is a safehouse upstairs with all the amenities you could ever want. I don't utilize it much, so you can feel free to.",
+  "string": "О, чуть не забыл. Наверху есть жилые помещения со всеми удобствами, какие только можно пожелать. Я ими почти не пользуюсь, так что располагайся.",
+  "form_id": "000752D7|DBM_RelicHunter.esp",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "And lastly, I have a few leads for you to get you started.",
+  "string": "И напоследок у меня есть для тебя несколько зацепок, чтобы было с чего начать.",
+  "form_id": "000752D7|DBM_RelicHunter.esp",
+  "type": "INFO NAM1",
+  "index": 2,
+  "editor_id": null
+ },
+ {
+  "original": "First is an artifact I heard is for sale by a general merchant in Helgen named Borgoth. He said he would hold the item for me for a while.",
+  "string": "Во первых, мне нужен артефакт, который, как я слышал, продает торговец из Хелгена по имени Боргот. Он обещал некоторое время придержать товар для меня.",
+  "form_id": "000752D7|DBM_RelicHunter.esp",
+  "type": "INFO NAM1",
+  "index": 3,
+  "editor_id": null
+ },
+ {
+  "original": "So it may be best to retrieve it first. The others... Well, the notes will tell you all you need to know about them.",
+  "string": "Поэтому сначала лучше выполнить это задание. А по поводу остальных... Ну, необходимую информацию Вы сможете найти в моих заметках.",
+  "form_id": "0003352E|DBM_RelicHunter.esp",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "Just a few bumps and bruises",
+  "string": "Пара шишек да синяков",
+  "form_id": "00038639|DBM_RelicHunter.esp",
+  "type": "DIAL FULL",
+  "index": null,
+  "editor_id": "DBM_GuildMasterStartAuryenGreet2"
+ },
+ {
+  "original": "That's good to hear. Did Karl inform you I wanted to speak with you?",
+  "string": "Рад это слышать. Карл передал тебе, что я хотел с тобой поговорить?",
+  "form_id": "0003863A|DBM_RelicHunter.esp",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "Well, that does it, I suppose. And look, the passage opened back up. ",
+  "string": "Что ж, похоже, на этом все. И смотри, проход снова открылся. ",
+  "form_id": "0003D759|DBM_RelicHunter.esp",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "Well, after all of that, I'm headed back to camp for a bottle of mead and a lie down. See you back at the guildhouse, Guild Master.",
+  "string": "Ну, после всего этого я возвращаюсь в лагерь - к бутылке меда и мягкой подстилке. Увидимся в гильдии, мастер гильдии.",
+  "form_id": "0003D75B|DBM_RelicHunter.esp",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "What can you tell me about this piece we found? (Show Akaviri Relic)",
+  "string": "Что скажешь об этой находке? (Показать реликвию Акавира)",
+  "form_id": "00065F8D|DBM_RelicHunter.esp",
+  "type": "DIAL FULL",
+  "index": null,
+  "editor_id": "DBM_RH_DrakensangTopicA1"
+ },
+ {
+  "original": "Oh, that is quite a lovely piece, isn't it?",
+  "string": "О, какая прелестная вещица, не правда ли?",
+  "form_id": "0003D756|DBM_RelicHunter.esp",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "I believe it's called Drakensang. Legend tells that the weapon was forged from a talon of the tiger dragon of Ka' Po Tun",
+  "string": "Полагаю, это Дракензанг. Легенда гласит, что это оружие выковано из когтя тигра-дракона Ка По Тун",
+  "form_id": "0003D756|DBM_RelicHunter.esp",
+  "type": "INFO NAM1",
+  "index": 2,
+  "editor_id": null
+ },
+ {
+  "original": "The leader of the cat folk of Akavir, Tosh'Raka, who allegedly metamorphosed himself into a dragon.",
+  "string": "- предводителя кошачьего народа Акавира, Тош Раки, который, как говорят, превратил себя в дракона.",
+  "form_id": "0003D756|DBM_RelicHunter.esp",
+  "type": "INFO NAM1",
+  "index": 3,
+  "editor_id": null
+ },
+ {
+  "original": "Not entirely sure if there is any truth to it or it's just mythology, but the weapon is a beautiful piece nonetheless.",
+  "string": "Не знаю наверняка, есть ли в этом хоть доля правды или это просто миф, но оружие все равно прекрасно.",
+  "form_id": "0003D756|DBM_RelicHunter.esp",
+  "type": "INFO NAM1",
+  "index": 4,
+  "editor_id": null
+ },
+ {
+  "original": "You could display it on the dagger racks in the main hall if you like. And here's a finder's fee to help fund your next expedition.",
+  "string": "Если хочешь, можешь выставить его на подставке для кинжалов в главном зале. А вот вознаграждение за находку - пригодится для следующей экспедиции.",
+  "form_id": "0003D756|DBM_RelicHunter.esp",
+  "type": "INFO NAM1",
+  "index": 5,
+  "editor_id": null
+ },
+ {
+  "original": "I hear you might be able to help me get to Solitude.",
+  "string": "Говорят, ты можешь помочь мне добраться до Солитьюда.",
+  "form_id": "0008971C|DBM_RelicHunter.esp",
+  "type": "DIAL FULL",
+  "index": null,
+  "editor_id": "DBM_RHStartQSTTopic1A"
+ },
+ {
+  "original": "Oh yes, I'm headed over to Whiterun to get some more supplies for the journey to Orsinium. If you'd like to tag along you are welcome to.",
+  "string": "О да, я еду в Вайтран за припасами для путешествия в Орсиниум. Если хочешь со мной - милости прошу.",
+  "form_id": "0008971D|DBM_RelicHunter.esp",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "You could certainly catch a carriage there to take you to Solitude.",
+  "string": "Там ты точно сможешь сесть на повозку до Солитьюда.",
+  "form_id": "0008971D|DBM_RelicHunter.esp",
+  "type": "INFO NAM1",
+  "index": 2,
+  "editor_id": null
+ },
+ {
+  "original": "Sounds good to me.",
+  "string": "Звучит неплохо.",
+  "form_id": "0008971E|DBM_RelicHunter.esp",
+  "type": "DIAL FULL",
+  "index": null,
+  "editor_id": "DBM_RHStartQSTTopic1B"
+ },
+ {
+  "original": "Very well, let's get underway, then.",
+  "string": "Хорошо, тогда в путь.",
+  "form_id": "0008971F|DBM_RelicHunter.esp",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "There we go, and there's the carriage now. Best of luck to you, Guild Master.",
+  "string": "Вот и приехали, а вон и повозка. Удачи тебе, мастер гильдии.",
+  "form_id": "00089727|DBM_RelicHunter.esp",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "Morning, Guild Master.",
+  "string": "Доброе утро, мастер гильдии.",
+  "form_id": "00089721|DBM_RelicHunter.esp",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "Heading out soon, Guild Master?",
+  "string": "Скоро в путь, мастер гильдии?",
+  "form_id": "00089728|DBM_RelicHunter.esp",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "Relic Hunter Addon Handler",
+  "string": "Дополнение Relic Hunter (служебный)",
+  "form_id": "00000803|DBM_RelicHunter.esp",
+  "type": "QUST FULL",
+  "index": null,
+  "editor_id": "DBM_RelicHunterAddonHandler"
+ },
+ {
+  "original": "Akaviri Rising",
+  "string": "Восход Акавира",
+  "form_id": "00005909|DBM_RelicHunter.esp",
+  "type": "QUST FULL",
+  "index": null,
+  "editor_id": "DBM_RHStartQST"
+ },
+ {
+  "original": "I've woken up late to find that I am in the midst of an excavation of an Akaviri ruin and am the Guild Master of the Explorers Society. I have very little recognition of this, though, as I apparently took a pretty good hit to the head yesterday during the dig. The chief excavator of the dig has said I should gather my tools and equipment and head into the ruin. I'm sure it will come back to me.",
+  "string": "Проснувшись поздно, я обнаруживаю, что нахожусь посреди раскопок акавирских руин и являюсь мастером гильдии Общества исследователей. Правда, почти ничего из этого не помню: судя по всему, вчера во время раскопок мне здорово досталось по голове. Главный раскопщик сказал, что мне нужно собрать инструменты и снаряжение и отправиться в руины. Наверняка память ко мне вернется.",
+  "form_id": "00005909|DBM_RelicHunter.esp",
+  "type": "QUST CNAM",
+  "index": 10,
+  "editor_id": "DBM_RHStartQST"
+ },
+ {
+  "original": "The team has managed to clear the cave in and gained access to the next level of the tower ruins. Arginal is waiting inside to accompany me in exploring the ruins further.",
+  "string": "Команде удалось расчистить завал и попасть на следующий уровень руин башни. Аргинал ждет внутри, чтобы вместе со мной продолжить исследование руин.",
+  "form_id": "00005909|DBM_RelicHunter.esp",
+  "type": "QUST CNAM",
+  "index": 15,
+  "editor_id": "DBM_RHStartQST"
+ },
+ {
+  "original": "The door to the inner sanctum of the Akaviri tower is sealed with some kind of mechanism. There must be a switch or something in the room that controls it. I need to find it if we are going to proceed.",
+  "string": "Дверь во внутреннее святилище акавирской башни заперта каким-то механизмом. Где-то в зале должен быть рычаг или что-то в этом роде, который им управляет. Нужно найти его, если мы хотим идти дальше.",
+  "form_id": "00005909|DBM_RelicHunter.esp",
+  "type": "QUST CNAM",
+  "index": 20,
+  "editor_id": "DBM_RHStartQST"
+ },
+ {
+  "original": "I found a switch which apparently has unlocked the door to the inner sanctum. We should check it out next.",
+  "string": "Мне удалось найти рычаг, который, судя по всему, открыл дверь во внутреннее святилище. Нужно проверить, что там.",
+  "form_id": "00005909|DBM_RelicHunter.esp",
+  "type": "QUST CNAM",
+  "index": 25,
+  "editor_id": "DBM_RHStartQST"
+ },
+ {
+  "original": "I've defeated the ghost of general Xile and recovered a very unique Akaviri chakram weapon called Drakensang. I should show the weapon to Karl the excavator and see what he thinks about it.",
+  "string": "Мне удалось победить призрака генерала Ксайла и добыть уникальное акавирское оружие - чакрам под названием Дракензанг. Нужно показать его Карлу-раскопщику и узнать, что он о нем думает.",
+  "form_id": "00005909|DBM_RelicHunter.esp",
+  "type": "QUST CNAM",
+  "index": 31,
+  "editor_id": "DBM_RHStartQST"
+ },
+ {
+  "original": "I've completed my part of the excavation of the Akaviri tower, and uncovered a rather interesting artifact. Auryen, the curator of the soon to be museum next door to the guild may have knowledge about it. Karl also says he wanted to speak to me.",
+  "string": "Моя часть работы на раскопках акавирской башни выполнена, и мне удалось найти весьма любопытный артефакт. Возможно, о нем что-нибудь знает Ауриен, хранитель будущего музея, который открывается по соседству с гильдией. Еще Карл сказал, что хотел со мной поговорить.",
+  "form_id": "00005909|DBM_RelicHunter.esp",
+  "type": "QUST CNAM",
+  "index": 40,
+  "editor_id": "DBM_RHStartQST"
+ },
+ {
+  "original": "Gather your explorer tools, gear up and investigate the ruins",
+  "string": "Собрать инструменты исследователя, снарядиться и осмотреть руины",
+  "form_id": "00005909|DBM_RelicHunter.esp",
+  "type": "QUST NNAM",
+  "index": 10,
+  "editor_id": "DBM_RHStartQST"
+ },
+ {
+  "original": "Investigate the Akaviri ruins",
+  "string": "Осмотреть акавирские руины",
+  "form_id": "00005909|DBM_RelicHunter.esp",
+  "type": "QUST NNAM",
+  "index": 15,
+  "editor_id": "DBM_RHStartQST"
+ },
+ {
+  "original": "Find a way to open the inner sanctum door",
+  "string": "Найти способ открыть дверь во внутреннее святилище",
+  "form_id": "00005909|DBM_RelicHunter.esp",
+  "type": "QUST NNAM",
+  "index": 20,
+  "editor_id": "DBM_RHStartQST"
+ },
+ {
+  "original": "Show the Akaviri Relic to Karl",
+  "string": "Показать Карлу реликвию Акавира",
+  "form_id": "00005909|DBM_RelicHunter.esp",
+  "type": "QUST NNAM",
+  "index": 31,
+  "editor_id": "DBM_RHStartQST"
+ },
+ {
+  "original": "Get a ride with Farlan to Whiterun (Optional)",
+  "string": "Доехать с Фарланом до Вайтрана (необязательно)",
+  "form_id": "00005909|DBM_RelicHunter.esp",
+  "type": "QUST NNAM",
+  "index": 35,
+  "editor_id": "DBM_RHStartQST"
+ },
+ {
+  "original": "An Interesting Prospect",
+  "string": "Заманчивое Предложение",
+  "form_id": "0002E41C|DBM_RelicHunter.esp",
+  "type": "QUST FULL",
+  "index": null,
+  "editor_id": "DBM_GuildMasterStart"
+ },
+ {
+  "original": "After our recent dig at the Akaviri tower, the expedition leader Karl told me that my old colleague, <Alias=Auryen> from the Gwylim University, is here in Skyrim and is starting a museum in Solitude, inside the very same building the Explorers Society Guildhouse is attached to. Karl also told me <Alias.Shortname=Auryen> has joined the Guild and has an opportunity for me as a relic hunter for the museum. I should stop in and see him soon.",
+  "string": "После наших недавних раскопок в акавирской башне руководитель экспедиции Карл рассказал мне, что мой старый коллега, <Alias=Auryen> из Гвилимского университета, сейчас в Скайриме и открывает музей в Солитьюде, в том самом здании, к которому пристроена Штаб-квартира Гильдии Исследователей. Еще Карл сказал, что <Alias.Shortname=Auryen> вступил в гильдию и хочет предложить мне работу - искать реликвии для музея. Нужно в ближайшее время его навестить.",
+  "form_id": "0002E41C|DBM_RelicHunter.esp",
+  "type": "QUST CNAM",
+  "index": 0,
+  "editor_id": "DBM_GuildMasterStart"
+ },
+ {
+  "original": "I've arrived at the museum.",
+  "string": "Мне удалось добраться до Музея.",
+  "form_id": "0002E41C|DBM_RelicHunter.esp",
+  "type": "QUST CNAM",
+  "index": 10,
+  "editor_id": "DBM_GuildMasterStart"
+ },
+ {
+  "original": "Auryen has shown me around the museum, and I must say I am quite impressed. I should get right underway exploring Skyrim and displaying the spoils of my explorations.  I should start by reviewing the notes Auryen gave me.",
+  "string": "Ауриен показал мне музей, и, должен сказать, впечатление сильное. Пора приниматься за дело - исследовать Скайрим и выставлять трофеи моих странствий. Для начала стоит изучить записи, которые дал мне Ауриен.",
+  "form_id": "0002E41C|DBM_RelicHunter.esp",
+  "type": "QUST CNAM",
+  "index": 20,
+  "editor_id": "DBM_GuildMasterStart"
+ },
+ {
+  "original": "Meet <Alias=Auryen> at the Museum",
+  "string": "Встретиться с <Alias=Auryen> в музее",
+  "form_id": "0002E41C|DBM_RelicHunter.esp",
+  "type": "QUST NNAM",
+  "index": 0,
+  "editor_id": "DBM_GuildMasterStart"
+ },
+ {
+  "original": "Place <Alias=DaggerDisplay> on display",
+  "string": "Выставить в экспозиции: <Alias=DaggerDisplay>",
+  "form_id": "0002E41C|DBM_RelicHunter.esp",
+  "type": "QUST NNAM",
+  "index": 30,
+  "editor_id": "DBM_GuildMasterStart"
+ },
+ {
+  "original": "You have gained an Archaeology perk point! These perk points can be spent using the Legacy Configuration - Archaeology Management MCM menu (or at the Explorers Society guildhouse if available). Every 5 Archaeology skill points will earn you a perk point. Each of these Archaeology perks will provide special skills and bonuses useful to any explorer or archaeologist.",
+  "string": "Вы получили очко археологического перка! Эти очки можно потратить в МСМ меню Legacy Configuration - Archaeology Management (или в штаб-квартире Гильдии Исследователей, если она доступна). Каждые 5 очков навыка археологии приносят одно очко перка. Каждый из этих археологических перков дает особые умения и бонусы, полезные любому исследователю или археологу.",
+  "form_id": "0006B0CF|DBM_RelicHunter.esp",
+  "type": "MESG DESC",
+  "index": null,
+  "editor_id": "DBM_FirstPerkMSGDUPLICATE001"
+ }
+]

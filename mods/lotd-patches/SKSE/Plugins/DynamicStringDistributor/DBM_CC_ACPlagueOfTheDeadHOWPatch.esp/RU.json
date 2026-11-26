@@ -1,0 +1,50 @@
+[
+ {
+  "original": "Spell Tome: Conjure Zombie",
+  "string": "Книга заклинаний: вызов зомби",
+  "form_id": "00000805|DBM_CC_ACPlagueOfTheDeadHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTZombieTome01"
+ },
+ {
+  "original": "Spell Tome: Conjure Foul Zombie",
+  "string": "Книга заклинаний: вызов мерзкого зомби",
+  "form_id": "00000811|DBM_CC_ACPlagueOfTheDeadHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTZombieTome02"
+ },
+ {
+  "original": "Spell Tome: Conjure Putrid Zombie",
+  "string": "Книга заклинаний: вызов гнилого зомби",
+  "form_id": "00000812|DBM_CC_ACPlagueOfTheDeadHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTZombieTome03"
+ },
+ {
+  "original": "Spell Tome: Conjure Malignant Zombie",
+  "string": "Книга заклинаний: вызов злобного зомби",
+  "form_id": "00000813|DBM_CC_ACPlagueOfTheDeadHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTZombieTome04"
+ },
+ {
+  "original": "Hall of Wonders",
+  "string": "Зал чудес",
+  "form_id": "000104C9|DBM_CC_HallOfWonders.esp",
+  "type": "CELL FULL",
+  "index": null,
+  "editor_id": "DBMDGHallofWondersCC"
+ },
+ {
+  "original": "Plague of the Dead Handler",
+  "string": "Чума мертвецов (служебный)",
+  "form_id": "00000801|DBM_CC_ACPlagueOfTheDeadHOWPatch.esp",
+  "type": "QUST FULL",
+  "index": null,
+  "editor_id": "DBM_CC_PotDHandler"
+ }
+]

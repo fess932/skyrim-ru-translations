@@ -1,0 +1,194 @@
+[
+ {
+  "original": "Soap from Windpeak Inn",
+  "string": "Мыло из таверны \"Пик ветров\"",
+  "form_id": "0000080F|DBM_InnSoaps_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBMITEMTYPEACTDawnstarSoap"
+ },
+ {
+  "original": "Soap from Braidwood Inn",
+  "string": "Мыло из таверны \"Деревянное кружево\"",
+  "form_id": "00000816|DBM_InnSoaps_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBMITEMTYPEACTKynesgroveSoap"
+ },
+ {
+  "original": "Soap from Moorside Inn",
+  "string": "Мыло из таверны \"Верески\"",
+  "form_id": "00000818|DBM_InnSoaps_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBMITEMTYPEACTMorthalSoap"
+ },
+ {
+  "original": "Soap from Four Shields Tavern",
+  "string": "Мыло из таверны \"Четыре щита\"",
+  "form_id": "0000081A|DBM_InnSoaps_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBMITEMTYPEACTDragonbridgeSoap"
+ },
+ {
+  "original": "Soap from Old Hroldan Inn",
+  "string": "Мыло из таверны \"Старый Хролдан\"",
+  "form_id": "0000081C|DBM_InnSoaps_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBMITEMTYPEACTOldHroldanSoap"
+ },
+ {
+  "original": "Soap from Vilemyr Inn",
+  "string": "Мыло из таверны \"Вайлмир\"",
+  "form_id": "0000081E|DBM_InnSoaps_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBMITEMTYPEACTIvarstead"
+ },
+ {
+  "original": "Soap from Frostfruit Inn",
+  "string": "Мыло из таверны \"Мороженый фрукт\"",
+  "form_id": "00000820|DBM_InnSoaps_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBMITEMTYPEACTRorikstead"
+ },
+ {
+  "original": "Soap from Frostfruit Inn",
+  "string": "Мыло из таверны \"Мороженый фрукт\"",
+  "form_id": "00000821|DBM_InnSoaps_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBMITEMTYPEACRorikstead"
+ },
+ {
+  "original": "Soap from Dead Man's Drink",
+  "string": "Мыло из таверны \"Пьяный покойник\"",
+  "form_id": "00000823|DBM_InnSoaps_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBMITEMTYPEACFalkreath"
+ },
+ {
+  "original": "Soap from Nightgate Inn",
+  "string": "Мыло из таверны \"Ночные ворота\"",
+  "form_id": "00000825|DBM_InnSoaps_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBMITEMTYPEACSoapNightgate"
+ },
+ {
+  "original": "Soap from The Frozen Hearth",
+  "string": "Мыло из таверны \"Замерзший очаг\"",
+  "form_id": "00000827|DBM_InnSoaps_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBMITEMTYPEACSoapWinterhold"
+ },
+ {
+  "original": "Bar of Soap",
+  "string": "Кусок мыла",
+  "form_id": "00000831|DBM_InnSoaps_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBMITEMTYPEACDBMSoap"
+ },
+ {
+  "original": "Soap Display Items",
+  "string": "Экспонаты мыла",
+  "form_id": "00000828|DBM_InnSoaps_Patch.esp",
+  "type": "CONT FULL",
+  "index": null,
+  "editor_id": "DBM_CheatCrateSoapDisplay"
+ },
+ {
+  "original": "Soap from Vilemyr Inn",
+  "string": "Мыло из таверны \"Вайлмир\"",
+  "form_id": "00000801|Inn Soaps.esp",
+  "type": "MISC FULL",
+  "index": null,
+  "editor_id": "SoapIvarstead"
+ },
+ {
+  "original": "Soap from Braidwood Inn",
+  "string": "Мыло из таверны \"Деревянное кружево\"",
+  "form_id": "00000D63|Inn Soaps.esp",
+  "type": "MISC FULL",
+  "index": null,
+  "editor_id": "SoapKynesgrove"
+ },
+ {
+  "original": "Soap from Frostfruit Inn",
+  "string": "Мыло из таверны \"Мороженый фрукт\"",
+  "form_id": "00000800|Inn Soaps.esp",
+  "type": "MISC FULL",
+  "index": null,
+  "editor_id": "SoapRorikstead"
+ },
+ {
+  "original": "Soap from Old Hroldan Inn",
+  "string": "Мыло из таверны \"Старый Хролдан\"",
+  "form_id": "00000D6A|Inn Soaps.esp",
+  "type": "MISC FULL",
+  "index": null,
+  "editor_id": "SoapOldHroldan"
+ },
+ {
+  "original": "Soap from Dead Man's Drink",
+  "string": "Мыло из таверны \"Пьяный покойник\"",
+  "form_id": "00000D62|Inn Soaps.esp",
+  "type": "MISC FULL",
+  "index": null,
+  "editor_id": "SoapFalkreath"
+ },
+ {
+  "original": "Soap from Nightgate Inn",
+  "string": "Мыло из таверны \"Ночные ворота\"",
+  "form_id": "00000D6B|Inn Soaps.esp",
+  "type": "MISC FULL",
+  "index": null,
+  "editor_id": "SoapNightgate"
+ },
+ {
+  "original": "Soap from Four Shields Tavern",
+  "string": "Мыло из таверны \"Четыре щита\"",
+  "form_id": "00000D64|Inn Soaps.esp",
+  "type": "MISC FULL",
+  "index": null,
+  "editor_id": "SoapDragonBridge"
+ },
+ {
+  "original": "Soap from Moorside Inn",
+  "string": "Мыло из таверны \"Верески\"",
+  "form_id": "00000D66|Inn Soaps.esp",
+  "type": "MISC FULL",
+  "index": null,
+  "editor_id": "SoapMorthal"
+ },
+ {
+  "original": "Soap from The Frozen Hearth",
+  "string": "Мыло из таверны \"Замерзший очаг\"",
+  "form_id": "00000D67|Inn Soaps.esp",
+  "type": "MISC FULL",
+  "index": null,
+  "editor_id": "SoapWinterhold"
+ },
+ {
+  "original": "Soap from Windpeak Inn",
+  "string": "Мыло из таверны \"Пик ветров\"",
+  "form_id": "00000D69|Inn Soaps.esp",
+  "type": "MISC FULL",
+  "index": null,
+  "editor_id": "SoapDawnstar"
+ },
+ {
+  "original": "SoapDisplay",
+  "string": "Экспозиция мыла",
+  "form_id": "00000814|DBM_InnSoaps_Patch.esp",
+  "type": "QUST FULL",
+  "index": null,
+  "editor_id": "DBM_SoapDisplay"
+ }
+]

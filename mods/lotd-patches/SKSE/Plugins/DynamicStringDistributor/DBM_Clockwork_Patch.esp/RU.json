@@ -1,0 +1,122 @@
+[
+ {
+  "original": "A Bed of Dust Quest Display",
+  "string": "Экспозиция задания \"Ложе из праха\"",
+  "form_id": "00000827|DBM_Clockwork_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_Plaque_LudwigsJournals"
+ },
+ {
+  "original": "Clockwork Quest Display",
+  "string": "Экспозиция задания \"Заводной замок\"",
+  "form_id": "0000083C|DBM_Clockwork_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_Plaque_ClockworkQuestDisplay"
+ },
+ {
+  "original": "Ludwig's Journals",
+  "string": "Дневники Людвига",
+  "form_id": "0000083E|DBM_Clockwork_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBMITEMTYPEACTLudwigsJournals"
+ },
+ {
+  "original": "Place",
+  "string": "Поместить",
+  "form_id": "0000083E|DBM_Clockwork_Patch.esp",
+  "type": "ACTI RNAM",
+  "index": null,
+  "editor_id": "DBMITEMTYPEACTLudwigsJournals"
+ },
+ {
+  "original": "Crystal Heart (Lamashtu)",
+  "string": "Хрустальное сердце (Ламашту)",
+  "form_id": "00000841|DBM_Clockwork_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBMITEMTYPEACTDwemerHeart"
+ },
+ {
+  "original": "Disassembled Dwemer Pipe",
+  "string": "Разобранная двемерская труба",
+  "form_id": "00000848|DBM_Clockwork_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBMITEMTYPEACTDwemerPipe"
+ },
+ {
+  "original": "Fat Lute",
+  "string": "Жирная лютня",
+  "form_id": "0000084A|DBM_Clockwork_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBMITEMTYPEACTFatLute"
+ },
+ {
+  "original": "Dwemer Lever Handle",
+  "string": "Двемерский рычаг",
+  "form_id": "00000855|DBM_Clockwork_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBMITEMTYPEACTDweLeverHandle"
+ },
+ {
+  "original": "Crystal Heart (Empty)",
+  "string": "Хрустальное сердце (Пустое)",
+  "form_id": "0000085C|DBM_Clockwork_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBMITEMTYPEACTDwemerHeartEmpty"
+ },
+ {
+  "original": "Clockwork Items",
+  "string": "Предметы из Clockwork",
+  "form_id": "0000086F|DBM_Clockwork_Patch.esp",
+  "type": "CONT FULL",
+  "index": null,
+  "editor_id": "DBM_CheatCrateClockwork"
+ },
+ {
+  "original": "Crystal Heart Replica (Lamashtu)",
+  "string": "Копия кристального сердца (Ламашту)",
+  "form_id": "00000847|DBM_Clockwork_Patch.esp",
+  "type": "MISC FULL",
+  "index": null,
+  "editor_id": "DBMCLWCrystalHeart01"
+ },
+ {
+  "original": "Dwemer Lever Handle (Replica)",
+  "string": "Двемерский рычаг (копия)",
+  "form_id": "00000853|DBM_Clockwork_Patch.esp",
+  "type": "MISC FULL",
+  "index": null,
+  "editor_id": "DBMCLWDweLeverHandleReplica"
+ },
+ {
+  "original": "Crystal Heart Replica (Empty)",
+  "string": "Копия кристального сердца (пустая)",
+  "form_id": "00000859|DBM_Clockwork_Patch.esp",
+  "type": "MISC FULL",
+  "index": null,
+  "editor_id": "DBMCLWCrystalHeart02"
+ },
+ {
+  "original": "Clockwork Castle",
+  "string": "Заводной замок",
+  "form_id": "00000802|DBM_Clockwork_Patch.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": null
+ },
+ {
+  "original": "Clockwork Support Handler",
+  "string": "Поддержка Clockwork (служебный)",
+  "form_id": "0000086E|DBM_Clockwork_Patch.esp",
+  "type": "QUST FULL",
+  "index": null,
+  "editor_id": "DBM_Clockwork"
+ }
+]

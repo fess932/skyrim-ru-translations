@@ -1,0 +1,18 @@
+[
+ {
+  "original": "Snow Elven Arsenal Official TCC Patch Handler",
+  "string": "Официальный патч Помощника куратора для Арсенала снежных эльфов (служебный)",
+  "form_id": "00000806|LOTD_TCC_TSEA.esp",
+  "type": "QUST FULL",
+  "index": null,
+  "editor_id": "TCC_SM_TSEA"
+ },
+ {
+  "original": "<font color='#<Alias=ColourAlias>'>The Curators Companion: Mod Complete (Snow Elven Arsenal)</font>",
+  "string": "<font color='#<Alias=ColourAlias>'>Компаньон куратора: мод завершен (Арсенал снежных эльфов)</font>",
+  "form_id": "00000805|LOTD_TCC_TSEA.esp",
+  "type": "MESG DESC",
+  "index": null,
+  "editor_id": "_CompleteNotification_TSEA"
+ }
+]

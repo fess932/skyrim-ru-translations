@@ -1,0 +1,130 @@
+[
+ {
+  "original": "Ebony Spell Knight Armor",
+  "string": "Эбонитовая броня рыцаря-мага",
+  "form_id": "00000800|DBM_CC_SpellKnightArmorHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTSpellKnightEbonyArmor"
+ },
+ {
+  "original": "Ebony Spell Knight Helmet",
+  "string": "Эбонитовый шлем рыцаря-мага",
+  "form_id": "00000B14|DBM_CC_SpellKnightArmorHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTSpellKnightEbonyHelmet"
+ },
+ {
+  "original": "Ebony Spell Knight Boots",
+  "string": "Эбонитовые сапоги рыцаря-мага",
+  "form_id": "00000B15|DBM_CC_SpellKnightArmorHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTSpellKnightEbonyBoots"
+ },
+ {
+  "original": "Ebony Spell Knight Gauntlets",
+  "string": "Эбонитовые перчатки рыцаря-мага",
+  "form_id": "00000B16|DBM_CC_SpellKnightArmorHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTSpellKnightEbonyGauntlets"
+ },
+ {
+  "original": "Iron Spell Knight Armor",
+  "string": "Железная броня рыцаря-мага",
+  "form_id": "00000B17|DBM_CC_SpellKnightArmorHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTSpellKnightIronArmor"
+ },
+ {
+  "original": "Iron Spell Knight Helmet",
+  "string": "Железный шлем рыцаря-мага",
+  "form_id": "00000B18|DBM_CC_SpellKnightArmorHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTSpellKnightIronHelmet"
+ },
+ {
+  "original": "Iron Spell Knight Boots",
+  "string": "Железные сапоги рыцаря-мага",
+  "form_id": "00000B19|DBM_CC_SpellKnightArmorHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTSpellKnightIronBoots"
+ },
+ {
+  "original": "Iron Spell Knight Gauntlets",
+  "string": "Железные перчатки рыцаря-мага",
+  "form_id": "00000B1A|DBM_CC_SpellKnightArmorHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTSpellKnightIronGauntlets"
+ },
+ {
+  "original": "Steel Spell Knight Armor",
+  "string": "Стальная броня рыцаря-мага",
+  "form_id": "00000B1B|DBM_CC_SpellKnightArmorHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTSpellKnightSteelArmor"
+ },
+ {
+  "original": "Steel Spell Knight Helmet",
+  "string": "Стальной шлем рыцаря-мага",
+  "form_id": "00000B1C|DBM_CC_SpellKnightArmorHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTSpellKnightSteelHelmet"
+ },
+ {
+  "original": "Steel Spell Knight Boots",
+  "string": "Стальные сапоги рыцаря-мага",
+  "form_id": "00000B1D|DBM_CC_SpellKnightArmorHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTSpellKnightSteelBoots"
+ },
+ {
+  "original": "Steel Spell Knight Gauntlets",
+  "string": "Стальные перчатки рыцаря-мага",
+  "form_id": "00000B1E|DBM_CC_SpellKnightArmorHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTSpellKnightSteelGauntlets"
+ },
+ {
+  "original": "Crypt of the Heart Display",
+  "string": "Экспозиция \"Крипта сердца\"",
+  "form_id": "00000B1F|DBM_CC_SpellKnightArmorHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTSpellKnightHeart"
+ },
+ {
+  "original": "Simon Rodayne's Heart",
+  "string": "Сердце Саймона Родейна",
+  "form_id": "0000085D|ccedhsse002-splkntset.esl",
+  "type": "INGR FULL",
+  "index": null,
+  "editor_id": "ccEDHSSE002_HumanHeart"
+ },
+ {
+  "original": "Hall of Wonders",
+  "string": "Зал чудес",
+  "form_id": "000104C9|DBM_CC_HallOfWonders.esp",
+  "type": "CELL FULL",
+  "index": null,
+  "editor_id": "DBMDGHallofWondersCC"
+ },
+ {
+  "original": "Spell Knight Armor Handler",
+  "string": "Броня рыцаря-мага (служебный)",
+  "form_id": "00000806|DBM_CC_SpellKnightArmorHOWPatch.esp",
+  "type": "QUST FULL",
+  "index": null,
+  "editor_id": "DBM_CC_SpellKnightArmorHandler"
+ }
+]

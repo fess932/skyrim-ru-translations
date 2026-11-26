@@ -1,0 +1,18 @@
+[
+ {
+  "original": "The Curators Companion - Zim's Thane Weapons",
+  "string": "Помощник куратора - Оружие танов от Zim",
+  "form_id": "00000803|LOTD_TCC_ZimThane.esp",
+  "type": "QUST FULL",
+  "index": null,
+  "editor_id": "TCC_SM_ZimThane"
+ },
+ {
+  "original": "<font color='#<Alias=ColourAlias>'>The Curators Companion: Mod Complete (Zim's Thane Weapons)</font>",
+  "string": "<font color='#<Alias=ColourAlias>'>Компаньон куратора: мод завершен (Оружие тана от Zim)</font>",
+  "form_id": "00000804|LOTD_TCC_ZimThane.esp",
+  "type": "MESG DESC",
+  "index": null,
+  "editor_id": "_CompleteNotification_ZimThane"
+ }
+]

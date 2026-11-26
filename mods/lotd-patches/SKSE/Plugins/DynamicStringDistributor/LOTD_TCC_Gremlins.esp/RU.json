@@ -1,0 +1,18 @@
+[
+ {
+  "original": "The Curators Companion - Bad Gremlins",
+  "string": "Помощник куратора - Злые гремлины",
+  "form_id": "00000802|LOTD_TCC_Gremlins.esp",
+  "type": "QUST FULL",
+  "index": null,
+  "editor_id": "TCC_SM_Gremlins"
+ },
+ {
+  "original": "<font color='#<Alias=ColourAlias>'>The Curators Companion: Mod Complete (Bad Gremlins Collection)</font>",
+  "string": "<font color='#<Alias=ColourAlias>'>Компаньон куратора: Мод завершен (Коллекция злых гремлинов)</font>",
+  "form_id": "00000810|LOTD_TCC_Gremlins.esp",
+  "type": "MESG DESC",
+  "index": null,
+  "editor_id": "_CompleteNotification_Gremlins"
+ }
+]

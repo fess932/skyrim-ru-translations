@@ -1,0 +1,314 @@
+[
+ {
+  "original": "Bestial Grace",
+  "string": "Звериная грация",
+  "form_id": "000935C5|PrvtIRoyalArmory.esp",
+  "type": "SPEL FULL",
+  "index": null,
+  "editor_id": "PIFortifyOneHanded"
+ },
+ {
+  "original": "Sword of Dragonsreach",
+  "string": "Меч Драконьего Предела",
+  "form_id": "00000805|DBM_RoyalArmory_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTPIBalgruufSword"
+ },
+ {
+  "original": "Exquisite Elven Blade",
+  "string": "Изысканный эльфийский клинок",
+  "form_id": "00000806|DBM_RoyalArmory_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTPIElvenBlade"
+ },
+ {
+  "original": "Mentor's Sword",
+  "string": "Меч наставника",
+  "form_id": "00000807|DBM_RoyalArmory_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTPIEsbernBlade"
+ },
+ {
+  "original": "Harbinger's Axe",
+  "string": "Топор Предвестника",
+  "form_id": "00000808|DBM_RoyalArmory_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTPIHarbingerAxe"
+ },
+ {
+  "original": "Black Crow Dagger",
+  "string": "Кинжал Черной Вороны",
+  "form_id": "00000809|DBM_RoyalArmory_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTPICrowDagger"
+ },
+ {
+  "original": "Foe Breaker",
+  "string": "Сокрушитель врагов",
+  "form_id": "0000080A|DBM_RoyalArmory_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTPIFoeBreaker"
+ },
+ {
+  "original": "Jolhert",
+  "string": "Йолхерт",
+  "form_id": "0000080B|DBM_RoyalArmory_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTPIIcesword"
+ },
+ {
+  "original": "Hammer of Light",
+  "string": "Молот света",
+  "form_id": "0000080C|DBM_RoyalArmory_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTPIIsranHammer"
+ },
+ {
+  "original": "Yakuda's Edge",
+  "string": "Лезвие Якуды",
+  "form_id": "0000080D|DBM_RoyalArmory_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTPIScimitar"
+ },
+ {
+  "original": "Malice",
+  "string": "Злоба",
+  "form_id": "0000080E|DBM_RoyalArmory_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTPIMaliceDagger"
+ },
+ {
+  "original": "Northern Honor",
+  "string": "Честь Севера",
+  "form_id": "0000080F|DBM_RoyalArmory_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTPINortherhonor"
+ },
+ {
+  "original": "Judgement",
+  "string": "Правосудие",
+  "form_id": "00000810|DBM_RoyalArmory_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTPIJudgement"
+ },
+ {
+  "original": "Rikvard",
+  "string": "Риквард",
+  "form_id": "00000811|DBM_RoyalArmory_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTPIUlfricAxe"
+ },
+ {
+  "original": "Dagger of Shalidor",
+  "string": "Кинжал Шалидора",
+  "form_id": "0000084A|DBM_RoyalArmory_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTPIShalidorDagger"
+ },
+ {
+  "original": "Neloth's Staff",
+  "string": "Посох Нелота",
+  "form_id": "0000086C|DBM_RoyalArmory_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTPINelothStaff"
+ },
+ {
+  "original": "Silvertongue",
+  "string": "Серебряный язык",
+  "form_id": "0000086D|DBM_RoyalArmory_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTPISilvertongue"
+ },
+ {
+  "original": "Pendulum",
+  "string": "Маятник",
+  "form_id": "0000086E|DBM_RoyalArmory_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTPIKeeperMace"
+ },
+ {
+  "original": "Smile",
+  "string": "Улыбка",
+  "form_id": "0000086F|DBM_RoyalArmory_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTPISmile"
+ },
+ {
+  "original": "Hafyllbrand",
+  "string": "Хафиллбранд",
+  "form_id": "00000870|DBM_RoyalArmory_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTPIGraymaneSword"
+ },
+ {
+  "original": "Snærving",
+  "string": "Снэрвинг",
+  "form_id": "00000871|DBM_RoyalArmory_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTPIFreaAxe02"
+ },
+ {
+  "original": "Regnving",
+  "string": "Регнвинг",
+  "form_id": "00000872|DBM_RoyalArmory_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTPIFreaAxe01"
+ },
+ {
+  "original": "Stormbird",
+  "string": "Буревестница",
+  "form_id": "00000873|DBM_RoyalArmory_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTPIElfShortsword"
+ },
+ {
+  "original": "Crescent",
+  "string": "Полумесяц",
+  "form_id": "00000874|DBM_RoyalArmory_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTPICrescent"
+ },
+ {
+  "original": "Dragonfang",
+  "string": "Драконий клык",
+  "form_id": "00000875|DBM_RoyalArmory_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTPICaptainSword"
+ },
+ {
+  "original": "Shard",
+  "string": "Осколок",
+  "form_id": "00000876|DBM_RoyalArmory_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTPICalcelmoSword"
+ },
+ {
+  "original": "Royal Armory Items",
+  "string": "Предметы из Royal Armory",
+  "form_id": "00000804|DBM_RoyalArmory_Patch.esp",
+  "type": "CONT FULL",
+  "index": null,
+  "editor_id": "DBM_CheatCrateRoyalArmory"
+ },
+ {
+  "original": "Yakuda's Edge",
+  "string": "Лезвие Якуды",
+  "form_id": "0004765A|PrvtIRoyalArmory.esp",
+  "type": "WEAP FULL",
+  "index": null,
+  "editor_id": "PIKematuSword"
+ },
+ {
+  "original": "Yakuda's Edge",
+  "string": "Лезвие Якуды",
+  "form_id": "0008E4A9|PrvtIRoyalArmory.esp",
+  "type": "WEAP FULL",
+  "index": null,
+  "editor_id": "PIKematuSwordNoEnch"
+ },
+ {
+  "original": "Crescent",
+  "string": "Полумесяц",
+  "form_id": "00117047|PrvtIRoyalArmory.esp",
+  "type": "WEAP FULL",
+  "index": null,
+  "editor_id": "PICresentAxe"
+ },
+ {
+  "original": "Crescent",
+  "string": "Полумесяц",
+  "form_id": "0011704C|PrvtIRoyalArmory.esp",
+  "type": "WEAP FULL",
+  "index": null,
+  "editor_id": "PICresentAxeNoEnch"
+ },
+ {
+  "original": "TestPrvtI",
+  "string": "TestPrvtI",
+  "form_id": "0000FB0B|PrvtIRoyalArmory.esp",
+  "type": "CELL FULL",
+  "index": null,
+  "editor_id": "PITestSpace"
+ },
+ {
+  "original": "Royal Armory Support Handler",
+  "string": "Поддержка Royal Armory (служебный)",
+  "form_id": "00000803|DBM_RoyalArmory_Patch.esp",
+  "type": "QUST FULL",
+  "index": null,
+  "editor_id": "DBM_SupportedModRoyalArmory"
+ },
+ {
+  "original": "The Blade of Dragonsreach was forged by an influential Jarl during the early Second Era as a symbol of the power of Whiterun. The current owner of the sword is Jarl Balgruuf the Greater.",
+  "string": "Клинок Драконьего Предела выковал влиятельный ярл в начале Второй эры как символ могущества Вайтрана. Нынешний владелец меча - ярл Балгруф Старший.",
+  "form_id": "0016D191|PrvtIRoyalArmory.esp",
+  "type": "LSCR DESC",
+  "index": null,
+  "editor_id": "PIWhiterunSwordLS"
+ },
+ {
+  "original": "The Harbinger's Axe is the weapon of the leader of the Companions and is known for its beautiful wolf design and razor-sharp edge.",
+  "string": "Топор Предвестника - оружие главы Соратников, известное красивым узором в виде волка и острым как бритва лезвием.",
+  "form_id": "0016D192|PrvtIRoyalArmory.esp",
+  "type": "LSCR DESC",
+  "index": null,
+  "editor_id": "PICompanionAxeLS"
+ },
+ {
+  "original": "Judgment is the sword of General Tullius. He named the weapon so because he believes the purest form of judgment is passed in combat, where the gods will favor those pure of heart.",
+  "string": "Правосудие - меч генерала Туллия. Он назвал его так, потому что верит: самый чистый суд вершится в бою, где боги благоволят чистым сердцем.",
+  "form_id": "0016D193|PrvtIRoyalArmory.esp",
+  "type": "LSCR DESC",
+  "index": null,
+  "editor_id": "PIJudgementLS"
+ },
+ {
+  "original": "Since the reign of King Wulfharth during the First Era, Jolhert has been the sword of the High King of Skyrim. Right now the sword hangs in the throne room in Solitude, waiting for a new ruler to be elected by the moot.",
+  "string": "Со времен правления короля Вульфхарта в Первую эру Йольхерт был мечом Верховного короля Скайрима. Сейчас меч висит в тронном зале в Солитьюде и ждет нового правителя, которого изберет Собрание.",
+  "form_id": "0016D194|PrvtIRoyalArmory.esp",
+  "type": "LSCR DESC",
+  "index": null,
+  "editor_id": "PIJolhertLS"
+ },
+ {
+  "original": "The sword Silvertongue has been passed on in the Silver-Blood family for ages and the story goes it was forged by slaves in Cidhna Mine.",
+  "string": "Меч Серебряный язык испокон веков передается в семье Серебряной Крови. Говорят, его выковали рабы в шахте Сидна.",
+  "form_id": "0016D196|PrvtIRoyalArmory.esp",
+  "type": "LSCR DESC",
+  "index": null,
+  "editor_id": "PISilvertongueLS"
+ },
+ {
+  "original": "The Exquisite Elven Blades are known for their extremely sharp edge and ability to hold strong enchantments. Only three of these weapons are known to exist in Skyrim in these times. ",
+  "string": "Изысканные эльфийские клинки славятся невероятно острыми лезвиями и способностью удерживать мощные зачарования. Известно, что в наши дни в Скайриме существует лишь три таких клинка. ",
+  "form_id": "0016D197|PrvtIRoyalArmory.esp",
+  "type": "LSCR DESC",
+  "index": null,
+  "editor_id": "PIAldmerSwords"
+ }
+]

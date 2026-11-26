@@ -1,0 +1,386 @@
+[
+ {
+  "original": "Shrine of Almalexia",
+  "string": "Святилище Алмалексии",
+  "form_id": "00000829|ccasvsse001-almsivi.esm",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "ccASVSSE001_AlmalexiaShrine"
+ },
+ {
+  "original": "Shrine of Vivec",
+  "string": "Святилище Вивека",
+  "form_id": "000EF278|ccasvsse001-almsivi.esm",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "ccASVSSE001_VivecShrinePillar"
+ },
+ {
+  "original": "Shrine of Sotha Sil",
+  "string": "Святилище Сота Сила",
+  "form_id": "000EF279|ccasvsse001-almsivi.esm",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "ccASVSSE001_SothaShrinePillar"
+ },
+ {
+  "original": "Extravagant Robes (Red)",
+  "string": "Экстравагантная одежда (красная)",
+  "form_id": "00000864|DBM_CC_GhostsoftheTribunalHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTERobesRed"
+ },
+ {
+  "original": "Extravagant Robes (Green)",
+  "string": "Экстравагантная одежда (зеленая)",
+  "form_id": "00000867|DBM_CC_GhostsoftheTribunalHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTERobesGreen"
+ },
+ {
+  "original": "Extravagant Robes (Yellow)",
+  "string": "Экстравагантная одежда (желтая)",
+  "form_id": "00000869|DBM_CC_GhostsoftheTribunalHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTERobesYellow"
+ },
+ {
+  "original": "Mask of Sotha Sil",
+  "string": "Маска Сота Сила",
+  "form_id": "0000086B|DBM_CC_GhostsoftheTribunalHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTMaskSothaSil"
+ },
+ {
+  "original": "Mask of Almalexia",
+  "string": "Маска Алмалексии",
+  "form_id": "0000086D|DBM_CC_GhostsoftheTribunalHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTMaskAlmalexia"
+ },
+ {
+  "original": "Mask of Vivec",
+  "string": "Маска Вивека",
+  "form_id": "0000086F|DBM_CC_GhostsoftheTribunalHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTMaskVivec"
+ },
+ {
+  "original": "Light of Day",
+  "string": "Дневной свет",
+  "form_id": "0000087A|DBM_CC_GhostsoftheTribunalHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTLightofDay"
+ },
+ {
+  "original": "Magebane",
+  "string": "Гибель магов",
+  "form_id": "0000087C|DBM_CC_GhostsoftheTribunalHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTMagebane"
+ },
+ {
+  "original": "Redoran Watchman Helmet",
+  "string": "Редоранский шлем стража",
+  "form_id": "0000087E|DBM_CC_GhostsoftheTribunalHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTRedoranHelm"
+ },
+ {
+  "original": "Her Hand Gauntlets",
+  "string": "Перчатки Ее Руки",
+  "form_id": "00000882|DBM_CC_GhostsoftheTribunalHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTHerHandGloves"
+ },
+ {
+  "original": "Her Hand Cuirass",
+  "string": "Кираса Ее Руки",
+  "form_id": "00000883|DBM_CC_GhostsoftheTribunalHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTHerHandCuirass"
+ },
+ {
+  "original": "Her Hand Helmet",
+  "string": "Шлем Ее Руки",
+  "form_id": "00000884|DBM_CC_GhostsoftheTribunalHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTHerHandHelm"
+ },
+ {
+  "original": "Her Hand Boots",
+  "string": "Сапоги Ее Руки",
+  "form_id": "00000886|DBM_CC_GhostsoftheTribunalHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTHerHandBoots"
+ },
+ {
+  "original": "Ordinator Ebony Mace",
+  "string": "Эбонитовая булава ординатора",
+  "form_id": "00000887|DBM_CC_GhostsoftheTribunalHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTEbonyMaceOrdinator"
+ },
+ {
+  "original": "Ordinator Shield",
+  "string": "Щит ординатора",
+  "form_id": "00000889|DBM_CC_GhostsoftheTribunalHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTOrdinatorShield"
+ },
+ {
+  "original": "Ordinator Ebony Scimitar",
+  "string": "Эбонитовый скимитар ординатора",
+  "form_id": "0000088B|DBM_CC_GhostsoftheTribunalHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTOrdinatorEbonyScimitar"
+ },
+ {
+  "original": "Indoril Helmet",
+  "string": "Индорильский шлем",
+  "form_id": "0000088D|DBM_CC_GhostsoftheTribunalHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTOrdinatorHelm"
+ },
+ {
+  "original": "Indoril Armor",
+  "string": "Индорильская броня",
+  "form_id": "0000088F|DBM_CC_GhostsoftheTribunalHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTOrdinatorCuirass"
+ },
+ {
+  "original": "Indoril Gauntlets",
+  "string": "Индорильские перчатки",
+  "form_id": "00000891|DBM_CC_GhostsoftheTribunalHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTOrdinatorGloves"
+ },
+ {
+  "original": "Indoril Boots",
+  "string": "Индорильские сапоги",
+  "form_id": "00000893|DBM_CC_GhostsoftheTribunalHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTOrdinatorBoots"
+ },
+ {
+  "original": "Mask of Dagoth Ur",
+  "string": "Маска Дагота Ура",
+  "form_id": "00000895|DBM_CC_GhostsoftheTribunalHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTDagothMask"
+ },
+ {
+  "original": "Robe of the Lich",
+  "string": "Мантия лича",
+  "form_id": "00000897|DBM_CC_GhostsoftheTribunalHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTLichRobe"
+ },
+ {
+  "original": "Common Robes (Green)",
+  "string": "Обычная одежда (зеленая)",
+  "form_id": "00000899|DBM_CC_GhostsoftheTribunalHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTCommonRobesGreen"
+ },
+ {
+  "original": "Common Robes (Olive)",
+  "string": "Обычная одежда (оливковая)",
+  "form_id": "0000089B|DBM_CC_GhostsoftheTribunalHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTCommonRobeOlive"
+ },
+ {
+  "original": "Common Robes (Blue)",
+  "string": "Обычная одежда (синяя)",
+  "form_id": "0000089D|DBM_CC_GhostsoftheTribunalHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTCommonRobesBlue"
+ },
+ {
+  "original": "Ghosts of the Tribunal",
+  "string": "Призраки Трибунала",
+  "form_id": "0000089F|DBM_CC_GhostsoftheTribunalHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DUMMYACTQuest"
+ },
+ {
+  "original": "Shrine of Almalexia",
+  "string": "Святилище Алмалексии",
+  "form_id": "000008A0|DBM_CC_GhostsoftheTribunalHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DUMMYACTShrineAlmalexia"
+ },
+ {
+  "original": "Shrine of Sotha Sil",
+  "string": "Святилище Сота Сила",
+  "form_id": "000008A1|DBM_CC_GhostsoftheTribunalHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DUMMYACTShrineSothaSil"
+ },
+ {
+  "original": "Shrine of Vivec",
+  "string": "Святилище Вивека",
+  "form_id": "000008A2|DBM_CC_GhostsoftheTribunalHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DUMMYACTShrineVivec"
+ },
+ {
+  "original": "Mask of Almalexia (replica)",
+  "string": "Маска Алмалексии (копия)",
+  "form_id": "000008B1|DBM_CC_GhostsoftheTribunalHOWPatch.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "DBM_CC_ArmorAlmalexiaMaskREPLICA"
+ },
+ {
+  "original": "Mask of Dagoth Ur (replica)",
+  "string": "Маска Дагота Ура (копия)",
+  "form_id": "000008B2|DBM_CC_GhostsoftheTribunalHOWPatch.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "DBM_CC_ArmorDagothUrMaskREPLICA"
+ },
+ {
+  "original": "Mask of Sotha Sil (replica)",
+  "string": "Маска Сота Сила (копия)",
+  "form_id": "000008B3|DBM_CC_GhostsoftheTribunalHOWPatch.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "DBM_CC_ArmorSothaSilMaskREPLICA"
+ },
+ {
+  "original": "Mask of Vivec (replica)",
+  "string": "Маска Вивека (копия)",
+  "form_id": "000008B4|DBM_CC_GhostsoftheTribunalHOWPatch.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "DBM_CC_ArmorVivecMaskREPLICA"
+ },
+ {
+  "original": "Robe of the Lich (replica)",
+  "string": "Мантия лича (копия)",
+  "form_id": "000008B5|DBM_CC_GhostsoftheTribunalHOWPatch.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "DBM_CC_RobeofLICHREPLICA"
+ },
+ {
+  "original": "Ash Salts",
+  "string": "Соли пепла",
+  "form_id": "000008A7|DBM_CC_GhostsoftheTribunalHOWPatch.esp",
+  "type": "INGR FULL",
+  "index": null,
+  "editor_id": "DBM_CC_AshSalts"
+ },
+ {
+  "original": "Ordinator Ebony Mace",
+  "string": "Эбонитовая булава ординатора",
+  "form_id": "00000E37|ccasvsse001-almsivi.esm",
+  "type": "WEAP FULL",
+  "index": null,
+  "editor_id": "ccASVSSE001_EbonyMace"
+ },
+ {
+  "original": "Ordinator Ebony Scimitar",
+  "string": "Эбонитовый скимитар ординатора",
+  "form_id": "00000E38|ccasvsse001-almsivi.esm",
+  "type": "WEAP FULL",
+  "index": null,
+  "editor_id": "ccASVSSE001_EbonyScimitar"
+ },
+ {
+  "original": "Light of Day (replica)",
+  "string": "Дневной свет (копия)",
+  "form_id": "000008A9|DBM_CC_GhostsoftheTribunalHOWPatch.esp",
+  "type": "WEAP FULL",
+  "index": null,
+  "editor_id": "DBM_CC_LightOfDayREPLICA"
+ },
+ {
+  "original": "Magebane (replica)",
+  "string": "Гибель магов (копия)",
+  "form_id": "000008AA|DBM_CC_GhostsoftheTribunalHOWPatch.esp",
+  "type": "WEAP FULL",
+  "index": null,
+  "editor_id": "DBM_CC_MagebaneREPLICA"
+ },
+ {
+  "original": "Vesparth the Toe",
+  "string": "Веспарт Большой Палец",
+  "form_id": "00000841|ccasvsse001-almsivi.esm",
+  "type": "NPC_ FULL",
+  "index": null,
+  "editor_id": "ccASVSSE001_HandVesparth"
+ },
+ {
+  "original": "Vesparth",
+  "string": "Веспарт",
+  "form_id": "00000841|ccasvsse001-almsivi.esm",
+  "type": "NPC_ SHRT",
+  "index": null,
+  "editor_id": "ccASVSSE001_HandVesparth"
+ },
+ {
+  "original": "Ash Zombie",
+  "string": "Пепельный зомби",
+  "form_id": "000A840A|ccasvsse001-almsivi.esm",
+  "type": "NPC_ FULL",
+  "index": null,
+  "editor_id": "ccASVSSE001_EncAshZombie"
+ },
+ {
+  "original": "Ashfall's Tear",
+  "string": "Разрыв пеплопада",
+  "form_id": "000030E8|Update.esm",
+  "type": "CELL FULL",
+  "index": null,
+  "editor_id": "ccASVSSE001Interior02"
+ },
+ {
+  "original": "Hall of Wonders",
+  "string": "Зал чудес",
+  "form_id": "000104C9|DBM_CC_HallOfWonders.esp",
+  "type": "CELL FULL",
+  "index": null,
+  "editor_id": "DBMDGHallofWondersCC"
+ },
+ {
+  "original": "Ghosts of the Tribunal Handler",
+  "string": "Призраки Трибунала (служебный)",
+  "form_id": "00000803|DBM_CC_GhostsoftheTribunalHOWPatch.esp",
+  "type": "QUST FULL",
+  "index": null,
+  "editor_id": "DBM_CC_GhostsOfTheTribunalHandler"
+ }
+]

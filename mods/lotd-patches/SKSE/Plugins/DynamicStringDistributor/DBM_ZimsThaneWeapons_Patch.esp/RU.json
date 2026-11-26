@@ -1,0 +1,90 @@
+[
+ {
+  "original": "Hlardfen",
+  "string": "Хлардфэн",
+  "form_id": "0000080D|DBM_ZimsThaneWeapons_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_TWZaxeACT"
+ },
+ {
+  "original": "Silverwind",
+  "string": "Серебряный Ветер",
+  "form_id": "0000080E|DBM_ZimsThaneWeapons_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_TWZBowACT"
+ },
+ {
+  "original": "Black Whisper",
+  "string": "Темный Шепот",
+  "form_id": "0000080F|DBM_ZimsThaneWeapons_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_TWZDaggerACT"
+ },
+ {
+  "original": "Kazogal's Glee",
+  "string": "Злорадство Кагозала",
+  "form_id": "00000810|DBM_ZimsThaneWeapons_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_TWZMaceACT"
+ },
+ {
+  "original": "Icebreaker",
+  "string": "Ледокол",
+  "form_id": "00000811|DBM_ZimsThaneWeapons_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_TWZStaffACT"
+ },
+ {
+  "original": "Witdrinker",
+  "string": "Уитдринкер",
+  "form_id": "00000812|DBM_ZimsThaneWeapons_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_TWZSwordACT"
+ },
+ {
+  "original": "Thu'um Fahdon",
+  "string": "Друг Довакина",
+  "form_id": "00000813|DBM_ZimsThaneWeapons_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_TWZGreatswordACT"
+ },
+ {
+  "original": "Felmod",
+  "string": "Фэлмод",
+  "form_id": "00000814|DBM_ZimsThaneWeapons_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_TWZwarhammerACT"
+ },
+ {
+  "original": "Mzual",
+  "string": "Мзуль",
+  "form_id": "00000815|DBM_ZimsThaneWeapons_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_TWZbattleaxeACT"
+ },
+ {
+  "original": "Zim's Thane Weapons Items",
+  "string": "Предметы из Zim's Thane Weapons",
+  "form_id": "00000829|DBM_ZimsThaneWeapons_Patch.esp",
+  "type": "CONT FULL",
+  "index": null,
+  "editor_id": "DBM_CheatCrateZimsThaneWeapons"
+ },
+ {
+  "original": "Zim's Thane Weapons Quest Handler",
+  "string": "Оружие танов от Zim (служебный)",
+  "form_id": "0000082A|DBM_ZimsThaneWeapons_Patch.esp",
+  "type": "QUST FULL",
+  "index": null,
+  "editor_id": "DBM_ZimsThaneWeapons"
+ }
+]

@@ -1,0 +1,18 @@
+[
+ {
+  "original": "The Curators Companion - konahrik's accoutrements",
+  "string": "Помощник куратора - Снаряжение Конарика",
+  "form_id": "00000802|LOTD_TCC_KA.esp",
+  "type": "QUST FULL",
+  "index": null,
+  "editor_id": "TCC_SM_KA"
+ },
+ {
+  "original": "<font color='#<Alias=ColourAlias>'>The Curators Companion: Mod Complete (Konahrik's Accoutrements)</font>",
+  "string": "<font color='#<Alias=ColourAlias>'>Компаньон куратора: мод завершен (Снаряжение Конарика)</font>",
+  "form_id": "00000804|LOTD_TCC_KA.esp",
+  "type": "MESG DESC",
+  "index": null,
+  "editor_id": "_CompleteNotification_KA"
+ }
+]

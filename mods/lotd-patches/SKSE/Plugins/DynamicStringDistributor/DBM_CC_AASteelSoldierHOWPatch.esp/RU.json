@@ -1,0 +1,50 @@
+[
+ {
+  "original": "Steel Soldier Helmet",
+  "string": "Стальной шлем солдата",
+  "form_id": "00000805|DBM_CC_AASteelSoldierHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTSteelSoldierHelmet"
+ },
+ {
+  "original": "Steel Soldier Armor",
+  "string": "Стальная броня солдата",
+  "form_id": "00000806|DBM_CC_AASteelSoldierHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTSteelSoldierArmor"
+ },
+ {
+  "original": "Steel Soldier Gauntlets",
+  "string": "Стальные перчатки солдата",
+  "form_id": "00000807|DBM_CC_AASteelSoldierHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTSteelSoldierGauntlets"
+ },
+ {
+  "original": "Steel Soldier Boots",
+  "string": "Стальные сапоги солдата",
+  "form_id": "00000808|DBM_CC_AASteelSoldierHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTSteelSoldierBoots"
+ },
+ {
+  "original": "Hall of Wonders",
+  "string": "Зал чудес",
+  "form_id": "000104C9|DBM_CC_HallOfWonders.esp",
+  "type": "CELL FULL",
+  "index": null,
+  "editor_id": "DBMDGHallofWondersCC"
+ },
+ {
+  "original": "Alt Armors Steel Soldier Handler",
+  "string": "Альтернативная броня: стальной солдат (служебный)",
+  "form_id": "00000804|DBM_CC_AASteelSoldierHOWPatch.esp",
+  "type": "QUST FULL",
+  "index": null,
+  "editor_id": "DBM_CC_SteelSoldierHandler"
+ }
+]

@@ -1,0 +1,266 @@
+[
+ {
+  "original": "Ironwood Carving",
+  "string": "Резьба по железному дереву",
+  "form_id": "0000084E|DBM_CC_BittercupHOWPatch.esp",
+  "type": "MGEF FULL",
+  "index": null,
+  "editor_id": "DBM_CC_SprigganDamageFFContact"
+ },
+ {
+  "original": "<mag> points of extra damage to Spriggans.",
+  "string": "<mag> ед. дополнительного урона спригганам.",
+  "form_id": "0000084E|DBM_CC_BittercupHOWPatch.esp",
+  "type": "MGEF DNAM",
+  "index": null,
+  "editor_id": "DBM_CC_SprigganDamageFFContact"
+ },
+ {
+  "original": "Huntsman's Prowess",
+  "string": "Мастерство охотника",
+  "form_id": "0000084F|DBM_CC_BittercupHOWPatch.esp",
+  "type": "ENCH FULL",
+  "index": null,
+  "editor_id": "DBM_CC_SprigganDamageENCH"
+ },
+ {
+  "original": "Grand Champion's Helmet",
+  "string": "Шлем великого чемпиона",
+  "form_id": "00000805|DBM_CC_BittercupHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTPower01"
+ },
+ {
+  "original": "Bittercup",
+  "string": "Горькая чаша",
+  "form_id": "00000806|DBM_CC_BittercupHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTBittercup"
+ },
+ {
+  "original": "Spell Tome: Master Transmute",
+  "string": "Том заклинаний: Великая трансмутация",
+  "form_id": "0000080A|DBM_CC_BittercupHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTFortune02"
+ },
+ {
+  "original": "Ironwood Tree",
+  "string": "Железное дерево",
+  "form_id": "0000080D|DBM_CC_BittercupHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DUMMYACTNothing01"
+ },
+ {
+  "original": "The Pit",
+  "string": "Яма",
+  "form_id": "00000810|DBM_CC_BittercupHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DUMMYACTQuestPower"
+ },
+ {
+  "original": "Fortunate Son",
+  "string": "Удачливый сын",
+  "form_id": "00000811|DBM_CC_BittercupHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DUMMYACTQuestFortune"
+ },
+ {
+  "original": "A Dying Wish",
+  "string": "Последнее желание",
+  "form_id": "00000812|DBM_CC_BittercupHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DUMMYACTQuestNothing"
+ },
+ {
+  "original": "Grand Champion's Sword",
+  "string": "Меч Великого чемпиона",
+  "form_id": "0000082B|DBM_CC_BittercupHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTPower02"
+ },
+ {
+  "original": "Golden Horn",
+  "string": "Золотой рог",
+  "form_id": "0000082C|DBM_CC_BittercupHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTFortune01"
+ },
+ {
+  "original": "Rulnik's Dagger",
+  "string": "Кинжал Ралника",
+  "form_id": "0000082D|DBM_CC_BittercupHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTNothing02"
+ },
+ {
+  "original": "Bittercup",
+  "string": "Горькая чаша",
+  "form_id": "0000083A|DBM_CC_BittercupHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_ExhibitSignBittercup"
+ },
+ {
+  "original": "Read Plaque:",
+  "string": "Прочитать табличку:",
+  "form_id": "0000083A|DBM_CC_BittercupHOWPatch.esp",
+  "type": "ACTI RNAM",
+  "index": null,
+  "editor_id": "DBM_CC_ExhibitSignBittercup"
+ },
+ {
+  "original": "Ironwood Dagger",
+  "string": "Кинжал из железного дерева",
+  "form_id": "00000852|DBM_CC_BittercupHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTIronwoodDagger"
+ },
+ {
+  "original": "Ironwood Greatsword",
+  "string": "Двуручный меч из железного дерева",
+  "form_id": "00000853|DBM_CC_BittercupHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTIronwoodGreatsword"
+ },
+ {
+  "original": "Ironwood Sword",
+  "string": "Меч из железного дерева",
+  "form_id": "00000854|DBM_CC_BittercupHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTIronwoodSword"
+ },
+ {
+  "original": "Grand Champion's Helm (replica)",
+  "string": "Шлем Великого чемпиона (копия)",
+  "form_id": "00000847|DBM_CC_BittercupHOWPatch.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "DBM_CC_ArmorGrandChampionsHelmetREPLICA"
+ },
+ {
+  "original": "Spell Tome: Master Transmute (replica)",
+  "string": "Том заклинаний: Великая трансмутация (копия)",
+  "form_id": "0000080E|DBM_CC_BittercupHOWPatch.esp",
+  "type": "BOOK FULL",
+  "index": null,
+  "editor_id": "DBM_CC_TomeMasterTransmuteREPLICA"
+ },
+ {
+  "original": "<font face'$HandwrittenFont'><font size='40'><p align='center'>\r\nMaster Transmute",
+  "string": "<font face'$HandwrittenFont'><font size='40'><p align='center'>\r\nВеликая трансмутация",
+  "form_id": "0000080E|DBM_CC_BittercupHOWPatch.esp",
+  "type": "BOOK DESC",
+  "index": null,
+  "editor_id": "DBM_CC_TomeMasterTransmuteREPLICA"
+ },
+ {
+  "original": "Golden Horn",
+  "string": "Золотой рог",
+  "form_id": "00000818|DBM_CC_BittercupHOWPatch.esp",
+  "type": "MISC FULL",
+  "index": null,
+  "editor_id": "DBM_CC_GoldenHorn"
+ },
+ {
+  "original": "Grand Champion's Sword (replica)",
+  "string": "Меч Великого чемпиона (копия)",
+  "form_id": "0000081B|DBM_CC_BittercupHOWPatch.esp",
+  "type": "WEAP FULL",
+  "index": null,
+  "editor_id": "DBM_CC_RedDiamondGladiusREPLICA"
+ },
+ {
+  "original": "Rulnik's Dagger (replica)",
+  "string": "Кинжал Ралника (копия)",
+  "form_id": "00000846|DBM_CC_BittercupHOWPatch.esp",
+  "type": "WEAP FULL",
+  "index": null,
+  "editor_id": "DBM_CC_RulniksDaggerREPLICA"
+ },
+ {
+  "original": "Ironwood Dagger",
+  "string": "Кинжал из железного дерева",
+  "form_id": "00000848|DBM_CC_BittercupHOWPatch.esp",
+  "type": "WEAP FULL",
+  "index": null,
+  "editor_id": "DBM_CC_IronwoodDagger"
+ },
+ {
+  "original": "Ironwood Greatsword",
+  "string": "Двуручный меч из железного дерева",
+  "form_id": "00000849|DBM_CC_BittercupHOWPatch.esp",
+  "type": "WEAP FULL",
+  "index": null,
+  "editor_id": "DBM_CC_IronwoodGreatsword"
+ },
+ {
+  "original": "Ironwood Sword",
+  "string": "Меч из железного дерева",
+  "form_id": "0000084A|DBM_CC_BittercupHOWPatch.esp",
+  "type": "WEAP FULL",
+  "index": null,
+  "editor_id": "DBM_CC_IronwoodSword"
+ },
+ {
+  "original": "Rulnik's Dagger",
+  "string": "Кинжал Ралника",
+  "form_id": "00000ECE|cckrtsse001_altar.esl",
+  "type": "WEAP FULL",
+  "index": null,
+  "editor_id": "ccKRTSSE001_DLC2NordicDagger"
+ },
+ {
+  "original": "Hall of Wonders",
+  "string": "Зал чудес",
+  "form_id": "000104C9|DBM_CC_HallOfWonders.esp",
+  "type": "CELL FULL",
+  "index": null,
+  "editor_id": "DBMDGHallofWondersCC"
+ },
+ {
+  "original": "Eslaf's Room",
+  "string": "Комната Эслафа",
+  "form_id": "00002FD7|Update.esm",
+  "type": "CELL FULL",
+  "index": null,
+  "editor_id": "ccKRTSSE001QFInterior01"
+ },
+ {
+  "original": "Bittercup Handler",
+  "string": "Горькая чаша (служебный)",
+  "form_id": "00000804|DBM_CC_BittercupHOWPatch.esp",
+  "type": "QUST FULL",
+  "index": null,
+  "editor_id": "DBM_CC_BittercupHandler"
+ },
+ {
+  "original": "The Bittercup is an artifact sacred to Clavicus Vile, the Daedric Prince of Bargains. It is prized by the Daedra Lord's followers. As with all matters related to Clavicus Vile, the Bittercup holds a liquid inside that can greatly improve the drinker's strongest qualities, but at the cost of deepening their weaknesses.",
+  "string": "Горькая чаша - артефакт, священный для Клавикуса Вайла, даэдрического принца сделок. Последователи даэдрического лорда очень ее ценят. Как и все, что связано с Клавикусом Вайлом, Горькая чаша содержит жидкость, которая способна значительно усилить лучшие качества пьющего, но ценой углубления его слабостей.",
+  "form_id": "00000839|DBM_CC_BittercupHOWPatch.esp",
+  "type": "MESG DESC",
+  "index": null,
+  "editor_id": "DBM_CC_MessageBitterMercy"
+ },
+ {
+  "original": "Bittercup",
+  "string": "Горькая чаша",
+  "form_id": "00000839|DBM_CC_BittercupHOWPatch.esp",
+  "type": "MESG FULL",
+  "index": null,
+  "editor_id": "DBM_CC_MessageBitterMercy"
+ }
+]

@@ -1,0 +1,82 @@
+[
+ {
+  "original": "Silver Staff",
+  "string": "Серебряный посох",
+  "form_id": "00000806|DBM_CC_StavesHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTStaffSilver"
+ },
+ {
+  "original": "Glass Staff",
+  "string": "Стеклянный посох",
+  "form_id": "00000807|DBM_CC_StavesHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTStaffGlass"
+ },
+ {
+  "original": "Ebony Staff",
+  "string": "Эбонитовый посох",
+  "form_id": "00000809|DBM_CC_StavesHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTStaffEbony"
+ },
+ {
+  "original": "Daedric Staff",
+  "string": "Даэдрический посох",
+  "form_id": "0000080A|DBM_CC_StavesHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTStaffDaedric"
+ },
+ {
+  "original": "Dreugh Staff",
+  "string": "Посох из дреуга",
+  "form_id": "0000080B|DBM_CC_StavesHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTStaffDreugh"
+ },
+ {
+  "original": "Dark Wood Staff",
+  "string": "Посох из темного дерева",
+  "form_id": "00000822|DBM_CC_StavesHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTStaffWood01"
+ },
+ {
+  "original": "Light Wood Staff",
+  "string": "Посох из светлого дерева",
+  "form_id": "00000823|DBM_CC_StavesHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTStaffWood02"
+ },
+ {
+  "original": "Steel Staff",
+  "string": "Стальной посох",
+  "form_id": "00000824|DBM_CC_StavesHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTStaffSteel"
+ },
+ {
+  "original": "Hall of Wonders",
+  "string": "Зал чудес",
+  "form_id": "000104C9|DBM_CC_HallOfWonders.esp",
+  "type": "CELL FULL",
+  "index": null,
+  "editor_id": "DBMDGHallofWondersCC"
+ },
+ {
+  "original": "Staves Handler",
+  "string": "Посохи (служебный)",
+  "form_id": "0000081E|DBM_CC_StavesHOWPatch.esp",
+  "type": "QUST FULL",
+  "index": null,
+  "editor_id": "DBM_CC_StavesHandler"
+ }
+]

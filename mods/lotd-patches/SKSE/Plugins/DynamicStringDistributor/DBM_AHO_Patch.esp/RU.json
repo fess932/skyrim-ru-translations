@@ -1,0 +1,234 @@
+[
+ {
+  "original": "Successful AHO Launch",
+  "string": "Успешный запуск AHO",
+  "form_id": "00000817|DBM_AHO_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_QPlaqueAHO"
+ },
+ {
+  "original": "Read Plaque:",
+  "string": "Прочитать табличку:",
+  "form_id": "00000817|DBM_AHO_Patch.esp",
+  "type": "ACTI RNAM",
+  "index": null,
+  "editor_id": "DBM_QPlaqueAHO"
+ },
+ {
+  "original": "Aetherium Telvanni Bow",
+  "string": "Этериевый лук Телванни",
+  "form_id": "0000082C|DBM_AHO_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTTelvanniAetheriumBow"
+ },
+ {
+  "original": "Telvanni Hybrid Armor (AHO Version)",
+  "string": "Гибридная броня Телванни (версия AHO)",
+  "form_id": "0000082D|DBM_AHO_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTHybridCuirass"
+ },
+ {
+  "original": "Telvanni Hybrid Boots",
+  "string": "Гибридные сапоги Телванни",
+  "form_id": "0000082E|DBM_AHO_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTHybridBoots"
+ },
+ {
+  "original": "Ancient Dwemer Robe",
+  "string": "Древнее одеяние двемера",
+  "form_id": "0000082F|DBM_AHO_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTDwemerRobe"
+ },
+ {
+  "original": "Haem Projects",
+  "string": "Проекты Хаэмы",
+  "form_id": "00A77EF5|Dwarfsphere.esp",
+  "type": "CONT FULL",
+  "index": null,
+  "editor_id": "HaemProjects"
+ },
+ {
+  "original": "Project AHO Items",
+  "string": "Предметы из Проекта ЭГО",
+  "form_id": "00000831|DBM_AHO_Patch.esp",
+  "type": "CONT FULL",
+  "index": null,
+  "editor_id": "DBM_CheatCrateProjectAHO"
+ },
+ {
+  "original": "Andavel Family Home",
+  "string": "Дом семьи Андавел",
+  "form_id": "00506BEE|Dwarfsphere.esp",
+  "type": "CELL FULL",
+  "index": null,
+  "editor_id": "DwaSpSaKeAndavelHouse"
+ },
+ {
+  "original": "Council Hall",
+  "string": "Зал Совета",
+  "form_id": "00506BF8|Dwarfsphere.esp",
+  "type": "CELL FULL",
+  "index": null,
+  "editor_id": "DwaSpSaKeCouncilHall"
+ },
+ {
+  "original": "Shaglak's House",
+  "string": "Дом Шаглака",
+  "form_id": "00506BE9|Dwarfsphere.esp",
+  "type": "CELL FULL",
+  "index": null,
+  "editor_id": "DwaSpSaKeShaglakHouse"
+ },
+ {
+  "original": "Master Selthri's House",
+  "string": "Дом Мастера Селтри",
+  "form_id": "00506BF3|Dwarfsphere.esp",
+  "type": "CELL FULL",
+  "index": null,
+  "editor_id": "DwaSpSaKeSeltriHouse"
+ },
+ {
+  "original": "Morag Tong Agency",
+  "string": "Представительство Мораг Тонг",
+  "form_id": "0067A815|Dwarfsphere.esp",
+  "type": "CELL FULL",
+  "index": null,
+  "editor_id": "DwaSpSaKeMoragTong"
+ },
+ {
+  "original": "Midnabi's Workshop",
+  "string": "Мастерская Миднаби",
+  "form_id": "004FC548|Dwarfsphere.esp",
+  "type": "CELL FULL",
+  "index": null,
+  "editor_id": "DwaSpSaKeArtWorkshop"
+ },
+ {
+  "original": "The Great Hexagonal Library",
+  "string": "Великая Гексагональная Библиотека",
+  "form_id": "004A5195|Dwarfsphere.esp",
+  "type": "CELL FULL",
+  "index": null,
+  "editor_id": "DwaSpBhalzarf03"
+ },
+ {
+  "original": "House Telvanni?",
+  "string": "Дом Телванни?",
+  "form_id": "007A10D5|Dwarfsphere.esp",
+  "type": "DIAL FULL",
+  "index": null,
+  "editor_id": "DwarfSphereQ01Branch01Topic09"
+ },
+ {
+  "original": "Read. If you cannot, take this one as well and you'll learn.",
+  "string": "На, почитай. Если читать не умеешь, то держи еще это - научишься.",
+  "form_id": "007A10D6|Dwarfsphere.esp",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "Shanath asked me to bring you this...",
+  "string": "Шанат просил занести тебе это...",
+  "form_id": "008159F1|Dwarfsphere.esp",
+  "type": "DIAL FULL",
+  "index": null,
+  "editor_id": "DwarfSphereQ02TBranch01Topic01"
+ },
+ {
+  "original": "At last! Nearly five years have passed and he's now paying me some attention. I used to own a copy myself, but I spilled a very smelly potion on it.",
+  "string": "Наконец-то! Прошло почти пять лет, и он наконец обратил на меня внимание. У меня когда-то был свой экземпляр, но я пролил на него очень вонючее зелье.",
+  "form_id": "008108CA|Dwarfsphere.esp",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "I had to throw it away. Thank you!",
+  "string": "Пришлось выбросить. Спасибо!",
+  "form_id": "008108CA|Dwarfsphere.esp",
+  "type": "INFO NAM1",
+  "index": 2,
+  "editor_id": null
+ },
+ {
+  "original": "We managed to find the book you ordered.",
+  "string": "Нам удалось найти книгу, которую ты заказывал.",
+  "form_id": "008159F3|Dwarfsphere.esp",
+  "type": "DIAL FULL",
+  "index": null,
+  "editor_id": "DwarfSphereQ02EBranch01Topic01"
+ },
+ {
+  "original": "Excellent! \"Fellowship of the Temple\" will make a lovely addition to my collection! Give my thanks to Shanath.",
+  "string": "Чудесно! \"Братство Храма\" станет отличным дополнением для моей коллекции! Передай Шанату мою благодарность.",
+  "form_id": "008108CE|Dwarfsphere.esp",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "Here is the book you asked Shanath for.",
+  "string": "Вот книга, которую ты просила у Шаната.",
+  "form_id": "008159F5|Dwarfsphere.esp",
+  "type": "DIAL FULL",
+  "index": null,
+  "editor_id": "DwarfSphereQ02MBranch01Topic01"
+ },
+ {
+  "original": "I didn't think he'd ever bring it to me. Anything else?",
+  "string": "Не думала, что он вообще ее мне принесет. Что-нибудь еще?",
+  "form_id": "008108D2|Dwarfsphere.esp",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "Servant",
+  "string": "Слуга",
+  "form_id": "007A61E7|Dwarfsphere.esp",
+  "type": "QUST FULL",
+  "index": null,
+  "editor_id": "DwarfSphereQ02"
+ },
+ {
+  "original": "Return to Shanath Selthri for your next task",
+  "string": "Поговорить с Шанатом Селтри о заданиях",
+  "form_id": "007A61E7|Dwarfsphere.esp",
+  "type": "QUST NNAM",
+  "index": 1,
+  "editor_id": "DwarfSphereQ02"
+ },
+ {
+  "original": "Hand the books to the recipients",
+  "string": "Отдать книги их владельцам",
+  "form_id": "007A61E7|Dwarfsphere.esp",
+  "type": "QUST NNAM",
+  "index": 5,
+  "editor_id": "DwarfSphereQ02"
+ },
+ {
+  "original": "Supported Mod AHO",
+  "string": "Поддержка мода AHO (служебный)",
+  "form_id": "00000803|DBM_AHO_Patch.esp",
+  "type": "QUST FULL",
+  "index": null,
+  "editor_id": "DBM_SupportedModAHO"
+ },
+ {
+  "original": "The Dragonborn decided the fate of Telvanni outpost Sadrith Kegran by launching the Aetherial Hyperspace Observatory.",
+  "string": "Довакин решил судьбу телваннийского форпоста Садрит Кегран, запустив Этерийскую гиперпространственную обсерваторию.",
+  "form_id": "0000081C|DBM_AHO_Patch.esp",
+  "type": "MESG DESC",
+  "index": null,
+  "editor_id": "DBM_QPlaqueAHOMessage"
+ }
+]

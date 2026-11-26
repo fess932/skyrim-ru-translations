@@ -1,0 +1,18 @@
+[
+ {
+  "original": "The Curators Companion - Dawnfang & Duskfang",
+  "string": "Помощник куратора - Клык Рассвета и Клык Заката",
+  "form_id": "00000804|LOTD_TCC_DawnfangDuskfang.esp",
+  "type": "QUST FULL",
+  "index": null,
+  "editor_id": "TCC_SM_DawnfangDuskfang"
+ },
+ {
+  "original": "<font color='#<Alias=ColourAlias>'>The Curators Companion: Mod Complete (Dawnfang & Duskfang)</font>",
+  "string": "<font color='#<Alias=ColourAlias>'>Компаньон куратора: Мод завершен (Клык Рассвета и Клык Заката)</font>",
+  "form_id": "00000802|LOTD_TCC_DawnfangDuskfang.esp",
+  "type": "MESG DESC",
+  "index": null,
+  "editor_id": "_CompleteNotification_DawnfangDuskfang"
+ }
+]

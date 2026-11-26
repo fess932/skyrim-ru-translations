@@ -1,0 +1,130 @@
+[
+ {
+  "original": "Aetherial Gauntlets",
+  "string": "Этериевые перчатки",
+  "form_id": "0000081D|DBM_TOK_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBMDISPACTTOKGloves"
+ },
+ {
+  "original": "Aetherial Boots",
+  "string": "Этериевые сапоги",
+  "form_id": "0000081F|DBM_TOK_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBMDISPACTTOKBoots"
+ },
+ {
+  "original": "Aetherial Amulet",
+  "string": "Этериевый амулет",
+  "form_id": "00000820|DBM_TOK_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBMDISPACTTOKAmmy"
+ },
+ {
+  "original": "Ayleid Staff",
+  "string": "Айлейдский посох",
+  "form_id": "0000082E|DBM_TOK_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTTOKAyleidStaff"
+ },
+ {
+  "original": "Sunder",
+  "string": "Разделитель",
+  "form_id": "00000844|DBM_TOK_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTSunderTOK"
+ },
+ {
+  "original": "Aetherial Helmet",
+  "string": "Этериевый шлем",
+  "form_id": "00000819|DBM_TOK_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBMDISPACTTOKHelm"
+ },
+ {
+  "original": "Aetherial Armor",
+  "string": "Этериевая броня",
+  "form_id": "0000081B|DBM_TOK_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBMDISPACTTOKArmor"
+ },
+ {
+  "original": "Aetherial Ring",
+  "string": "Этериевое кольцо",
+  "form_id": "00000826|DBM_TOK_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBMDISPACTTOKRing"
+ },
+ {
+  "original": "Keening",
+  "string": "Разрубатель",
+  "form_id": "00000846|DBM_TOK_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTKeeningTOK"
+ },
+ {
+  "original": "Bal am as Aedra (empty)",
+  "string": "Бал-ам-Аэдра (пустой)",
+  "form_id": "00000836|DBM_TOK_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTTOKGem1"
+ },
+ {
+  "original": "Bal am as Aedra (charged replica)",
+  "string": "Бал-ам-Аэдра (заряженная копия)",
+  "form_id": "00000839|DBM_TOK_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTTOKGem2"
+ },
+ {
+  "original": "Wraithguard",
+  "string": "Призрачный Страж",
+  "form_id": "00000845|DBM_TOK_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTWraithguardTOK"
+ },
+ {
+  "original": "Ring of the Wind (replica)",
+  "string": "Кольцо Ветра (копия)",
+  "form_id": "00000A54|DBM_TOK_Patch.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "DBM_1884LR_RingOfTheWindREPLICA_TOK"
+ },
+ {
+  "original": "Tools of Kagrenac Items",
+  "string": "Предметы из Tools of Kagrenac",
+  "form_id": "00000829|DBM_TOK_Patch.esp",
+  "type": "CONT FULL",
+  "index": null,
+  "editor_id": "DBM_CheatCrateTOK"
+ },
+ {
+  "original": "Bal am as Aedra (replica)",
+  "string": "Бал-ам-Аэдра (копия)",
+  "form_id": "00000833|DBM_TOK_Patch.esp",
+  "type": "MISC FULL",
+  "index": null,
+  "editor_id": "TOK_MISC_AedraGem_01DBM"
+ },
+ {
+  "original": "Tools of Kagrenac Support Handler",
+  "string": "Поддержка Инструментов Кагренака (служебный)",
+  "form_id": "00000827|DBM_TOK_Patch.esp",
+  "type": "QUST FULL",
+  "index": null,
+  "editor_id": "DBM_ToolsofKagrenacSupportHandler"
+ }
+]

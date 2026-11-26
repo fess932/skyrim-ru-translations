@@ -1,0 +1,18 @@
+[
+ {
+  "original": "Goldbrand (Replica)",
+  "string": "Золотой меч (копия)",
+  "form_id": "00000805|DBM_AoB_ReplicaPatchNG.esp",
+  "type": "WEAP FULL",
+  "index": null,
+  "editor_id": "FFAOBGoldbrand1HREPLICA"
+ },
+ {
+  "original": "Eltonbrand (Replica)",
+  "string": "Клеймо Эльтона (копия)",
+  "form_id": "00000807|DBM_AoB_ReplicaPatchNG.esp",
+  "type": "WEAP FULL",
+  "index": null,
+  "editor_id": "FFAOBEltonbrand1HREPLICA"
+ }
+]

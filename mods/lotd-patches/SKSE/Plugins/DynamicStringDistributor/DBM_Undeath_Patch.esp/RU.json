@@ -1,0 +1,90 @@
+[
+ {
+  "original": "Undeath Quest Display",
+  "string": "Экспозиция задания \"Нежизнь\"",
+  "form_id": "00000825|DBM_Undeath_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_SMUndeathPlaque"
+ },
+ {
+  "original": "Antioch's Robes",
+  "string": "Роба Антиоха",
+  "form_id": "00000834|DBM_Undeath_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTAntiochRobes"
+ },
+ {
+  "original": "Alchemist's Cap",
+  "string": "Шляпа алхимика",
+  "form_id": "00000836|DBM_Undeath_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTAlchmistCap"
+ },
+ {
+  "original": "Arch Necromancer's Staff",
+  "string": "Посох высшего некроманта",
+  "form_id": "00000838|DBM_Undeath_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTNecromancerStaff"
+ },
+ {
+  "original": "Black Book: Whispers of the Veil",
+  "string": "Черная книга: Шепот завесы",
+  "form_id": "00000953|DBM_Undeath_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTBlackBook"
+ },
+ {
+  "original": "Black Book: Whispers of the Veil (replica)",
+  "string": "Черная книга: Шепот завесы (копия)",
+  "form_id": "0000094F|DBM_Undeath_Patch.esp",
+  "type": "BOOK FULL",
+  "index": null,
+  "editor_id": "NecroBlackBook01REPLICA"
+ },
+ {
+  "original": "<font face=\"$HandwrittenFont\">\r\n<p align=\"center\">\r\n\r\nWhispers of the Veil\r\n\r\nby Marberius Tirailias \r\nAscendant Anchorite\r\n</p>\r\n\r\n\r\n[pagebreak]\r\n<p align=\"left\">\r\n<img src='img://Textures/Interface/Books/Illuminated_Letters/W_letter.png'>ill and consciousness are stronger than organic life itself. If the soul can be so bound to Mundus, the impositions of the mortal frame can cast off and the practitioner ascend to a higher state in which the restrictions of Arkay have no authority upon the practitioner, who enters",
+  "string": "<font face=\"$HandwrittenFont\">\r\n<p align=\"center\">\r\n\r\nШепот завесы\r\n\r\nМарберий Тираил\r\nВерховный Анахорет\r\n</p>\r\n\r\n\r\n[pagebreak]\r\n<p align=\"left\">\r\n<img src='img://Textures/Interface/Books/Illuminated_Letters/B_letter.png'>оля и сознание сильнее органической жизни. Если душа так привязана к Мундусу, ограничения, наложенные смертной оболочкой, могут быть отброшены, и практик переходит к высшему состоянию, над которым Аркей не властен...",
+  "form_id": "0000094F|DBM_Undeath_Patch.esp",
+  "type": "BOOK DESC",
+  "index": null,
+  "editor_id": "NecroBlackBook01REPLICA"
+ },
+ {
+  "original": "Undeath Items",
+  "string": "Предметы из Undeath",
+  "form_id": "00000804|DBM_Undeath_Patch.esp",
+  "type": "CONT FULL",
+  "index": null,
+  "editor_id": "DBM_CheatCrateSMUndeath"
+ },
+ {
+  "original": "Antioch",
+  "string": "Антиох",
+  "form_id": "0018DF35|Undeath.esp",
+  "type": "NPC_ FULL",
+  "index": null,
+  "editor_id": "NecroAntioch"
+ },
+ {
+  "original": "Scourg Barrow",
+  "string": "Курган Бедствий",
+  "form_id": "000737EE|Undeath.esp",
+  "type": "CELL FULL",
+  "index": null,
+  "editor_id": "NecroScourgBarrow01"
+ },
+ {
+  "original": "Undeath Support Handler",
+  "string": "Поддержка Undeath (служебный)",
+  "form_id": "00000803|DBM_Undeath_Patch.esp",
+  "type": "QUST FULL",
+  "index": null,
+  "editor_id": "DBM_SupportedModUndeath"
+ }
+]

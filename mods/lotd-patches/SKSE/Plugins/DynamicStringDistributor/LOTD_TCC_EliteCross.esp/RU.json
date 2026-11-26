@@ -1,0 +1,18 @@
+[
+ {
+  "original": "The Curators Companion: Elite Crossbows",
+  "string": "Помощник куратора: Элитные арбалеты",
+  "form_id": "00000800|LOTD_TCC_EliteCross.esp",
+  "type": "QUST FULL",
+  "index": null,
+  "editor_id": "TCC_SM_EliteCross"
+ },
+ {
+  "original": "<font color='#<Alias=ColourAlias>'>The Curators Companion: Mod Complete (Elite Crossbows)</font>",
+  "string": "<font color='#<Alias=ColourAlias>'>Компаньон куратора: Мод завершен (Элитные арбалеты)</font>",
+  "form_id": "00000803|LOTD_TCC_EliteCross.esp",
+  "type": "MESG DESC",
+  "index": null,
+  "editor_id": "_CompleteNotification_EliteCross"
+ }
+]

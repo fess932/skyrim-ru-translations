@@ -1,0 +1,74 @@
+[
+ {
+  "original": "Spell Tome: Teleport Pet Bone Wolf",
+  "string": "Том заклинаний: Телепортировать питомца: костяной волк",
+  "form_id": "00000A33|DBM_CC_ACBoneWolfHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DummyACTBoneWolfTome"
+ },
+ {
+  "original": "Totem Bone",
+  "string": "Тотемная кость",
+  "form_id": "00000B21|DBM_CC_ACBoneWolfHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTACBoneWolfTotem"
+ },
+ {
+  "original": "Let Sleeping Wolves Lie Display",
+  "string": "Экспозиция \"Не буди спящего волка\"",
+  "form_id": "00000B28|DBM_CC_ACBoneWolfHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DummyACTBoneWolf"
+ },
+ {
+  "original": "Spell Tome: Teleport Pet Bone Wolf",
+  "string": "Том заклинаний: Телепортировать питомца: костяной волк",
+  "form_id": "00000C2D|DBM_CC_ACBoneWolfHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTACBoneWolfTome"
+ },
+ {
+  "original": "Spell Tome: Teleport Pet Bone Wolf (replica)",
+  "string": "Том заклинания: Телепорт питомца: костяной волк (копия)",
+  "form_id": "00000C2F|DBM_CC_ACBoneWolfHOWPatch.esp",
+  "type": "BOOK FULL",
+  "index": null,
+  "editor_id": "DBM_CC_ACBoneWolfTome"
+ },
+ {
+  "original": "<font face'$HandwrittenFont'><font size='40'><p align='center'>\r\nTeleport Pet: Bone Wolf",
+  "string": "<font face'$HandwrittenFont'><font size='40'><p align='center'>\r\nТелепортировать питомца: костяной волк",
+  "form_id": "00000C2F|DBM_CC_ACBoneWolfHOWPatch.esp",
+  "type": "BOOK DESC",
+  "index": null,
+  "editor_id": "DBM_CC_ACBoneWolfTome"
+ },
+ {
+  "original": "Totem Bone (replica)",
+  "string": "Тотемная кость (копия)",
+  "form_id": "00000805|DBM_CC_ACBoneWolfHOWPatch.esp",
+  "type": "MISC FULL",
+  "index": null,
+  "editor_id": "DBM_CC_ACTotemBoneReplica"
+ },
+ {
+  "original": "Hall of Wonders",
+  "string": "Зал чудес",
+  "form_id": "000104C9|DBM_CC_HallOfWonders.esp",
+  "type": "CELL FULL",
+  "index": null,
+  "editor_id": "DBMDGHallofWondersCC"
+ },
+ {
+  "original": "Bone Wolf Handler",
+  "string": "Костяной волк (служебный)",
+  "form_id": "00000854|DBM_CC_ACBoneWolfHOWPatch.esp",
+  "type": "QUST FULL",
+  "index": null,
+  "editor_id": "DBM_CC_BoneWolfHandler"
+ }
+]

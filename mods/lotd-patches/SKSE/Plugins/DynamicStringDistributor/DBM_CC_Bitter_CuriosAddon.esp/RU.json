@@ -1,0 +1,26 @@
+[
+ {
+  "original": "Ironwood Fruit (replica)",
+  "string": "Плод железного дерева (копия)",
+  "form_id": "00000801|DBM_CC_Bitter_CuriosAddon.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTIronwoodFruit"
+ },
+ {
+  "original": "Ironwood Fruit (replica)",
+  "string": "Плод железного дерева (копия)",
+  "form_id": "00000802|DBM_CC_Bitter_CuriosAddon.esp",
+  "type": "MISC FULL",
+  "index": null,
+  "editor_id": "DBM_CC_IronwoodFruitREPLICA"
+ },
+ {
+  "original": "Hall of Wonders",
+  "string": "Зал чудес",
+  "form_id": "000104C9|DBM_CC_HallOfWonders.esp",
+  "type": "CELL FULL",
+  "index": null,
+  "editor_id": "DBMDGHallofWondersCC"
+ }
+]

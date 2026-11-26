@@ -1,0 +1,18 @@
+[
+ {
+  "original": "The Curators Companion - Oblivion Artifacts",
+  "string": "Помощник куратора - Артефакты Обливиона",
+  "form_id": "00000802|LOTD_TCC_OblivionArt.esp",
+  "type": "QUST FULL",
+  "index": null,
+  "editor_id": "TCC_SM_Oblivion"
+ },
+ {
+  "original": "<font color='#<Alias=ColourAlias>'>The Curators Companion: Mod Complete (Oblivion Artifacts)</font>",
+  "string": "<font color='#<Alias=ColourAlias>'>Компаньон куратора: мод завершен (Артефакты Обливиона)</font>",
+  "form_id": "00000804|LOTD_TCC_OblivionArt.esp",
+  "type": "MESG DESC",
+  "index": null,
+  "editor_id": "_CompleteNotification_OblivionArt"
+ }
+]

@@ -1,0 +1,50 @@
+[
+ {
+  "original": "Nordic Amulet",
+  "string": "Нордский амулет",
+  "form_id": "00000808|DBM_CC_NordicJewelryHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTNordicAmulet"
+ },
+ {
+  "original": "Nordic Ring",
+  "string": "Нордское кольцо",
+  "form_id": "00000809|DBM_CC_NordicJewelryHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTNordicRing"
+ },
+ {
+  "original": "Certificate of Authenticity",
+  "string": "Свидетельство о подлинности",
+  "form_id": "0000080A|DBM_CC_NordicJewelryHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTCertificate"
+ },
+ {
+  "original": "Nordic Circlet",
+  "string": "Нордский обруч",
+  "form_id": "0000080B|DBM_CC_NordicJewelryHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTNordicCirclet"
+ },
+ {
+  "original": "Hall of Wonders",
+  "string": "Зал чудес",
+  "form_id": "000104C9|DBM_CC_HallOfWonders.esp",
+  "type": "CELL FULL",
+  "index": null,
+  "editor_id": "DBMDGHallofWondersCC"
+ },
+ {
+  "original": "Nordic Jewelry Handler",
+  "string": "Нордские драгоценности (служебный)",
+  "form_id": "00000806|DBM_CC_NordicJewelryHOWPatch.esp",
+  "type": "QUST FULL",
+  "index": null,
+  "editor_id": "DBM_CC_NordicJewelryHandler"
+ }
+]

@@ -1,0 +1,18 @@
+[
+ {
+  "original": "The Curators Companion - Skyrim Sewers",
+  "string": "Помощник куратора - Канализация Скайрима",
+  "form_id": "00000800|LOTD_TCC_SkyrimSewers.esp",
+  "type": "QUST FULL",
+  "index": null,
+  "editor_id": "LOTD_TCC_SkyrimSewers"
+ },
+ {
+  "original": "<font color='#<Alias=ColourAlias>'>The Curators Companion: Mod Complete (Skyrim Sewers)</font>",
+  "string": "<font color='#<Alias=ColourAlias>'>Компаньон куратора: мод завершен (Канализация Скайрима)</font>",
+  "form_id": "00000805|LOTD_TCC_SkyrimSewers.esp",
+  "type": "MESG DESC",
+  "index": null,
+  "editor_id": "_CompleteNotification_SkyrimSewers"
+ }
+]

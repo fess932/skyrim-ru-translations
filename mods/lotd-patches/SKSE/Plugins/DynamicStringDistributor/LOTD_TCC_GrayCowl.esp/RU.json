@@ -1,0 +1,18 @@
+[
+ {
+  "original": "The Curators Companion - Gray Cowl",
+  "string": "Помощник куратора - Серый Капюшон",
+  "form_id": "00000802|LOTD_TCC_GrayCowl.esp",
+  "type": "QUST FULL",
+  "index": null,
+  "editor_id": "TCC_SM_GrayCowl"
+ },
+ {
+  "original": "<font color='#<Alias=ColourAlias>'>The Curators Companion: Mod Complete (Gray Cowl of Nocturnal)</font>",
+  "string": "<font color='#<Alias=ColourAlias>'>Компаньон куратора: Мод завершен (Серый капюшон Ноктюрнал)</font>",
+  "form_id": "00000804|LOTD_TCC_GrayCowl.esp",
+  "type": "MESG DESC",
+  "index": null,
+  "editor_id": "_CompleteNotification_GrayCowl"
+ }
+]

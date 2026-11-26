@@ -1,0 +1,74 @@
+[
+ {
+  "original": "Dwemer Mail Boots",
+  "string": "Двемерские кольчужные сапоги",
+  "form_id": "00000800|DBM_CC_AADwarvenMailHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTDwemerMailBoots"
+ },
+ {
+  "original": "Dwemer Mail Armor",
+  "string": "Двемерская кольчужная броня",
+  "form_id": "00000805|DBM_CC_AADwarvenMailHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTDwemerMailArmor"
+ },
+ {
+  "original": "Dwemer Mail Helmet",
+  "string": "Двемерский кольчужный шлем",
+  "form_id": "00000806|DBM_CC_AADwarvenMailHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTDwemerMailHelmet"
+ },
+ {
+  "original": "Dwemer Mail Gauntlets",
+  "string": "Двемерские кольчужные перчатки",
+  "form_id": "00000807|DBM_CC_AADwarvenMailHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTDwemerMailGauntlets"
+ },
+ {
+  "original": "The Crimson Dirks, v8",
+  "string": "\"Кровавые кинжалы\", т. 8",
+  "form_id": "00000808|DBM_CC_AADwarvenMailHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTDwemerMailBook"
+ },
+ {
+  "original": "The Crimson Dirks, v8",
+  "string": "\"Кровавые кинжалы\", т. 8",
+  "form_id": "00000821|ccbgssse062-ba_dwarvenmail.esl",
+  "type": "BOOK FULL",
+  "index": null,
+  "editor_id": "ccBGSSSE062_Bookv8"
+ },
+ {
+  "original": "[pagebreak]\r\n<p align=\"center\">\r\n\r\n\r\nThe Crimson Dirks\r\nBook Eight\r\n\r\n\r\nby \r\nGathers-the-Coin\r\n</p>\r\n\r\n\r\n\r\n[pagebreak]\r\n<p align=\"left\">\r\n<img src='img://Textures/Interface/Books/Illuminated_Letters/I_letter.png'>n his time with the Crimson Dirks, Urgnok had killed countless men, and heard all manner of reaction to their deaths. He'd heard women gasp, men cry, and children scream. Yet never in his life had he heard the noise that cascaded from the archways, when he plunged his sword into the belly of his assailant.\r\n\r\nApplause.\r\n\r\nWhen the crew disbanded, many of the Dirks were forced into the shadows, yet Urgnok's path took a different route. He met with a face butcher, adopted an alias, and joined the arena. And for the most part, the tactic seemed to work. These days, the only pursuers the Orc feared were the adoring fans that followed him in the street. \r\n\r\n\"I suggest you turn around now,\" Urgnok grumbled, seeing a shadow cut through the door, \"the last fan who annoyed me was this baker. He offered me a pastry, and I smashed his face in. Now he eats his sweet rolls through a straw.\"\r\n\r\n\"Funny,\" the shadow replied, \"I seem to recall a sparring session years ago that ended with you crying back to Tyra like a newborn babe.\"\r\n\r\n\"Zaharia. What are you doing here?\"\r\n\r\n\"I came to see our mutual Orc friend,\" the Redguard said, examining a nearby weapon,\" I see you've already paid her a visit, judging by that armor. Dwarven, right? Although not exactly what I pictured.\"\r\n\r\nUrgnok spit at the ground, acknowledging what she left unspoken. The blacksmith was a magician with a hammer and anvil, working with all types of metal. Perhaps that was how the Redguard puzzled out his identity, yet it was unlikely a Blood-Kin would betray his confidence.\r\n\r\n\"You know, the funny thing about fighting styles,\" Zaharia said, swinging the practice blade, \"is that they're almost like fingerprints. You may have changed your armor, your name, and even your face, but I recognized that clumsy top foot of yours almost immediately.\"\r\n\r\n\"Doesn't matter,\" Urgnok sneered, \"The guard haven't sniffed me out yet, and they won't ever. I've been able to hide in plain sight, while everyone else is dying in the shadows.\"\r\n\r\n\"Hiding in plain sight may work in the short term,\" Zaharia said, sliding the weapon back onto the rack, \"But over time, you know what happens to things in plain sight? They get seen.\"\r\n\r\n\"Cut the crap, Zaharia,\" the Orc groused, \"we both know I don't care what you think.\"\r\n\r\n\"True,\" the Redguard replied, handing him a letter, \"but you'll care about this.\"\r\n\r\nUrgnok wasn't sure how he was discovered, or who wrote the letter to the guard. Had Zaharia not killed its bearer, he would already be in chains. He stopped short of accusing Zaharia of forging the note, however. She was crafty, but not a liar.\r\n\r\n\"Where.\" \r\n\r\n\"North,\" said the Redguard, \"Get into one of the Strongholds, or take a job fighting in the pits. Either way, you can't stay here.\"</p>",
+  "string": "[pagebreak]\r\n<p align=\"center\">\r\n\r\n\r\n\"Кровавые кинжалы\"\r\nКнига восьмая\r\n\r\n\r\nавтор \r\nСобирающий-Монеты\r\n</p>\r\n\r\n\r\n\r\n[pagebreak]\r\n<p align=\"left\">\r\nЗа время своего пребывания в рядах \"Кровавых кинжалов\" Ургнок убил множество людей и встречал самые разные реакции на их смерть. Он слышал потрясенные вздохи женщин, плач мужчин и крики детей. Но ни разу в своей жизни он еще не слышал этого шума, который, нарастая, обрушился на него с галерей, когда он вонзил свой меч в живот противника.\r\n\r\nАплодисменты.\r\n\r\nКогда банда распалась, многие из \"Кинжалов\" были вынуждены уйти в тень, но Ургнок выбрал иной путь. Он отправился к лицеправу, выбрал себе фальшивое имя и вышел на арену. И эта тактика, как ему казалось, работала. Единственными преследователями, которых теперь боялся орк, были его преданные поклонники, таскавшиеся за ним по улицам. \r\n\r\n\"Советую тебе проваливать, - прорычал Ургнок, когда тень прорезала дверной проем. - В последний раз меня вывел из себя пекарь. Он притащил мне пирог, и в него-то я и врезал его лицом. Теперь он всасывает свои сладкие рулеты через соломинку\".\r\n\r\nТень, на удивление, отозвалась: \"Надо же. А я помню тренировочный бой много лет назад, после которого ты побежал жаловаться Тире, точно младенец\".\r\n\r\n\"Захария. Что ты здесь делаешь?\"\r\n\r\n\"Пришла повидать нашу общую подругу, - ответила редгардка, изучая ближайшее оружие. - Судя по этому оружию, ты уже нанес ей визит? Двемерское, да? Хотя я себе его не таким представляла\".\r\n\r\nУргнок сплюнул наземь, подтверждая то, что она оставила невысказанным. Кузнец творила настоящее волшебство с помощью наковальни и молота, она умела работать с любым металлом. Может быть, именно так редгардка и вычислила его, хотя вряд ли родич-по-крови предаст его доверие.\r\n\r\n\"Знаешь, занятная штука с этими стилями боя заключается в том, - сказала Захария, помахивая тренировочным клинком, - что они почти как отпечатки пальцев. Ты сменил броню, имя и даже лицо, но я сразу же узнала эту твою неуклюжую стойку\".\r\n\r\n\"Неважно, - хмыкнул Ургнок. - Стражники обо мне еще не пронюхали, да и не пронюхают. Я сумел спрятаться у всех на виду, а остальные помирают в тенях\".\r\n\r\n\"Прятки у всех на виду - хорошее, но недолговечное средство, - сказала Захария, возвращая оружие на стойку. - Однако знаешь, что происходит с вещами, которые спрятаны у всех на виду? Со временем их замечают\".\r\n\r\n\"Хватит трепаться, Захария, - рыкнул орк. - Ты же знаешь, что мне наплевать на твои мысли\".\r\n\r\n\"Знаю, - ответила редгардка и протянула ему письмо, - но вот на это тебе будет не наплевать\".\r\n\r\nУргнок не знал точно, кто его выследил или кто написал страже этот донос. Если бы Захария не убила того, кто нес это письмо, он бы уже звенел цепями. Он едва не обвинил Захарию в том, что она подделала это письмо, но вовремя остановился. Она была хитрюгой, но не вруньей.\r\n\r\n\"Куда?\" \r\n\r\n\"На север, - сказала редгардка. - Отправляйся в любую крепость или наймись сражаться в ямы. Оставаться тут тебе в любом случае нельзя\".</p>",
+  "form_id": "00000821|ccbgssse062-ba_dwarvenmail.esl",
+  "type": "BOOK DESC",
+  "index": null,
+  "editor_id": "ccBGSSSE062_Bookv8"
+ },
+ {
+  "original": "Hall of Wonders",
+  "string": "Зал чудес",
+  "form_id": "000104C9|DBM_CC_HallOfWonders.esp",
+  "type": "CELL FULL",
+  "index": null,
+  "editor_id": "DBMDGHallofWondersCC"
+ },
+ {
+  "original": "Alt Armors Dwarven Mail Handler",
+  "string": "Альтернативная броня: двемерская кольчуга (служебный)",
+  "form_id": "00000804|DBM_CC_AADwarvenMailHOWPatch.esp",
+  "type": "QUST FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DwarvenMailHandler"
+ }
+]

@@ -1,0 +1,18 @@
+[
+ {
+  "original": "The Curators Companion - Wyrmstooth",
+  "string": "Помощник куратора - Змеиный клык",
+  "form_id": "00000802|LOTD_TCC_Wyrmstooth.esp",
+  "type": "QUST FULL",
+  "index": null,
+  "editor_id": "TCC_SM_Wyrmstooth"
+ },
+ {
+  "original": "<font color='#<Alias=ColourAlias>'>The Curators Companion: Mod Complete (Wyrmstooth)</font>",
+  "string": "<font color='#<Alias=ColourAlias>'>Компаньон куратора: мод завершен (Змеиный клык)</font>",
+  "form_id": "00000804|LOTD_TCC_Wyrmstooth.esp",
+  "type": "MESG DESC",
+  "index": null,
+  "editor_id": "_CompleteNotification_Wyrmstooth"
+ }
+]

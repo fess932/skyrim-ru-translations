@@ -1,0 +1,74 @@
+[
+ {
+  "original": "Animal Collar",
+  "string": "Ошейник",
+  "form_id": "00000805|DBM_CC_Wilds04PetsHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTPetCollar"
+ },
+ {
+  "original": "Animal Pack",
+  "string": "Вьючная сумка",
+  "form_id": "00000806|DBM_CC_Wilds04PetsHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTPetPack"
+ },
+ {
+  "original": "Thistle (Rabbit) Display",
+  "string": "Экспозиция \"Чертополох (кролик)\"",
+  "form_id": "0000081B|DBM_CC_Wilds04PetsHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DummyACTPetBunny"
+ },
+ {
+  "original": "Hilda (Goat) Display",
+  "string": "Экспозиция \"Хильда (коза)\"",
+  "form_id": "0000081C|DBM_CC_Wilds04PetsHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DummyACTPetGoat"
+ },
+ {
+  "original": "Arachnia (Spider) Display",
+  "string": "Экспозиция \"Арахния (паук)\"",
+  "form_id": "0000081D|DBM_CC_Wilds04PetsHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DummyACTPetSpider"
+ },
+ {
+  "original": "Sweet Roll (Fox) Display",
+  "string": "Экспозиция \"Сладкий рулет (лиса)\"",
+  "form_id": "0000081E|DBM_CC_Wilds04PetsHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DummyACTPetFox"
+ },
+ {
+  "original": "Skritch (Skeever) Display",
+  "string": "Экспозиция \"Скритч (злокрыс)\"",
+  "form_id": "0000081F|DBM_CC_Wilds04PetsHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DummyACTPetSkeever"
+ },
+ {
+  "original": "Hall of Wonders",
+  "string": "Зал чудес",
+  "form_id": "000104C9|DBM_CC_HallOfWonders.esp",
+  "type": "CELL FULL",
+  "index": null,
+  "editor_id": "DBMDGHallofWondersCC"
+ },
+ {
+  "original": "Pets of Skyrim Handler",
+  "string": "Питомцы Скайрима (служебный)",
+  "form_id": "00000804|DBM_CC_Wilds04PetsHOWPatch.esp",
+  "type": "QUST FULL",
+  "index": null,
+  "editor_id": "DBM_CC_Wilds04Handler"
+ }
+]

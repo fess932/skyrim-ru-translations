@@ -1,0 +1,18 @@
+[
+ {
+  "original": "The Curators Companion - Moon and Star",
+  "string": "Помощник куратора - Луна и Звезда",
+  "form_id": "00000802|LOTD_TCC_MAS.esp",
+  "type": "QUST FULL",
+  "index": null,
+  "editor_id": "TCC_SM_MAS"
+ },
+ {
+  "original": "<font color='#<Alias=ColourAlias>'>The Curators Companion: Mod Complete (Moon and Star)</font>",
+  "string": "<font color='#<Alias=ColourAlias>'>Компаньон куратора: мод завершен (Луна и Звезда)</font>",
+  "form_id": "00000804|LOTD_TCC_MAS.esp",
+  "type": "MESG DESC",
+  "index": null,
+  "editor_id": "_CompleteNotification_MoonandStar"
+ }
+]

@@ -1,0 +1,98 @@
+[
+ {
+  "original": "Adventurer Backpack",
+  "string": "Рюкзак искателя приключений",
+  "form_id": "0000081C|DBM_CC_Wilds01BackpacksHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTBackpackAdventurer"
+ },
+ {
+  "original": "Leather Backpack",
+  "string": "Кожаный рюкзак",
+  "form_id": "0000081D|DBM_CC_Wilds01BackpacksHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTBackpackBasic"
+ },
+ {
+  "original": "Fine Leather Backpack",
+  "string": "Рюкзак из выделанной кожи",
+  "form_id": "0000081E|DBM_CC_Wilds01BackpacksHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTBackpackFine"
+ },
+ {
+  "original": "Fur Backpack",
+  "string": "Меховой рюкзак",
+  "form_id": "0000081F|DBM_CC_Wilds01BackpacksHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTBackpackHunter"
+ },
+ {
+  "original": "Hunter Backpack",
+  "string": "Рюкзак охотника",
+  "form_id": "00000820|DBM_CC_Wilds01BackpacksHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTBackpackHunterFull"
+ },
+ {
+  "original": "Mage Backpack",
+  "string": "Рюкзак мага",
+  "form_id": "00000821|DBM_CC_Wilds01BackpacksHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTBackpackMage"
+ },
+ {
+  "original": "Dark Leather Backpack",
+  "string": "Рюкзак из темной кожи",
+  "form_id": "00000822|DBM_CC_Wilds01BackpacksHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTBackpackThief"
+ },
+ {
+  "original": "Thief Backpack",
+  "string": "Рюкзак вора",
+  "form_id": "00000823|DBM_CC_Wilds01BackpacksHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTBackpackThiefFull"
+ },
+ {
+  "original": "Big Leather Backpack (Black)",
+  "string": "Большой кожаный рюкзак (черный)",
+  "form_id": "00000937|DBM_CC_Wilds01BackpacksHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTBackpackDBMBlack"
+ },
+ {
+  "original": "Big Leather Backpack (Brown)",
+  "string": "Большой кожаный рюкзак (коричневый)",
+  "form_id": "00000938|DBM_CC_Wilds01BackpacksHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTBackpackDBMBrown"
+ },
+ {
+  "original": "Hall of Wonders",
+  "string": "Зал чудес",
+  "form_id": "000104C9|DBM_CC_HallOfWonders.esp",
+  "type": "CELL FULL",
+  "index": null,
+  "editor_id": "DBMDGHallofWondersCC"
+ },
+ {
+  "original": "Backpacks Handler",
+  "string": "Рюкзаки (служебный)",
+  "form_id": "0000081B|DBM_CC_Wilds01BackpacksHOWPatch.esp",
+  "type": "QUST FULL",
+  "index": null,
+  "editor_id": "DBM_CC_Wilds01Handler"
+ }
+]

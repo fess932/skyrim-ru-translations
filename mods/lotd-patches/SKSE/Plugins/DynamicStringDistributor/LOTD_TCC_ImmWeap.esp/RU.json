@@ -1,0 +1,146 @@
+[
+ {
+  "original": "The Curators Companion - Immersive Weapons",
+  "string": "Помощник куратора - Immersive Weapons",
+  "form_id": "00000803|LOTD_TCC_ImmWeap.esp",
+  "type": "QUST FULL",
+  "index": null,
+  "editor_id": "TCC_SM_ImmWeap"
+ },
+ {
+  "original": "<font color='#<Alias=ColourAlias>'>The Curators Companion: Mod Complete (Immersive Weapons)</font>",
+  "string": "<font color='#<Alias=ColourAlias>'>Компаньон куратора: мод завершен (Immersive Weapons)</font>",
+  "form_id": "00000804|LOTD_TCC_ImmWeap.esp",
+  "type": "MESG DESC",
+  "index": null,
+  "editor_id": "_CompleteNotification_ImmWeap"
+ },
+ {
+  "original": "<font color='#<Alias=ColourAlias>'>The Curators Companion: Immersive Weapons Set Complete (Ancient Nord)</font>",
+  "string": "<font color='#<Alias=ColourAlias>'>Компаньон куратора: набор Immersive Weapons собран (Древнее нордское)</font>",
+  "form_id": "00000827|LOTD_TCC_ImmWeap.esp",
+  "type": "MESG DESC",
+  "index": null,
+  "editor_id": "DBM_SectionArmoryImmersiveWeaponsAncientNordic_Notification"
+ },
+ {
+  "original": "<font color='#<Alias=ColourAlias>'>The Curators Companion: Immersive Weapons Set Complete (Blades)</font>",
+  "string": "<font color='#<Alias=ColourAlias>'>Компаньон куратора: набор Immersive Weapons собран (Клинки)</font>",
+  "form_id": "00000828|LOTD_TCC_ImmWeap.esp",
+  "type": "MESG DESC",
+  "index": null,
+  "editor_id": "DBM_SectionArmoryImmersiveWeaponsBlades_Notification"
+ },
+ {
+  "original": "<font color='#<Alias=ColourAlias>'>The Curators Companion: Immersive Weapons Set Complete (Daedric)</font>",
+  "string": "<font color='#<Alias=ColourAlias>'>Компаньон куратора: набор Immersive Weapons собран (Даэдрическое снаряжение)</font>",
+  "form_id": "00000829|LOTD_TCC_ImmWeap.esp",
+  "type": "MESG DESC",
+  "index": null,
+  "editor_id": "DBM_SectionArmoryImmersiveWeaponsDaedric_Notification"
+ },
+ {
+  "original": "<font color='#<Alias=ColourAlias>'>The Curators Companion: Immersive Weapons Set Complete (Dawnguard)</font>",
+  "string": "<font color='#<Alias=ColourAlias>'>Компаньон куратора: набор Immersive Weapons собран (Страж Рассвета)</font>",
+  "form_id": "0000082A|LOTD_TCC_ImmWeap.esp",
+  "type": "MESG DESC",
+  "index": null,
+  "editor_id": "DBM_SectionArmoryImmersiveWeaponsDawnguard_Notification"
+ },
+ {
+  "original": "<font color='#<Alias=ColourAlias>'>The Curators Companion: Immersive Weapons Set Complete (Dragon)</font>",
+  "string": "<font color='#<Alias=ColourAlias>'>Компаньон куратора: набор Immersive Weapons собран (Драконье)</font>",
+  "form_id": "0000082B|LOTD_TCC_ImmWeap.esp",
+  "type": "MESG DESC",
+  "index": null,
+  "editor_id": "DBM_SectionArmoryImmersiveWeaponsDragon_Notification"
+ },
+ {
+  "original": "<font color='#<Alias=ColourAlias>'>The Curators Companion: Immersive Weapons Set Complete (Dwarven)</font>",
+  "string": "<font color='#<Alias=ColourAlias>'>Компаньон куратора: набор Immersive Weapons собран (Двемерское снаряжение)</font>",
+  "form_id": "0000082C|LOTD_TCC_ImmWeap.esp",
+  "type": "MESG DESC",
+  "index": null,
+  "editor_id": "DBM_SectionArmoryImmersiveWeaponsDwarven_Notification"
+ },
+ {
+  "original": "<font color='#<Alias=ColourAlias>'>The Curators Companion: Immersive Weapons Set Complete (Ebony)</font>",
+  "string": "<font color='#<Alias=ColourAlias>'>Компаньон куратора: набор Immersive Weapons собран (Эбонитовое снаряжение)</font>",
+  "form_id": "0000082D|LOTD_TCC_ImmWeap.esp",
+  "type": "MESG DESC",
+  "index": null,
+  "editor_id": "DBM_SectionArmoryImmersiveWeaponsEbony_Notification"
+ },
+ {
+  "original": "<font color='#<Alias=ColourAlias>'>The Curators Companion: Immersive Weapons Set Complete (Elven)</font>",
+  "string": "<font color='#<Alias=ColourAlias>'>Компаньон куратора: набор Immersive Weapons собран (Эльфийское снаряжение)</font>",
+  "form_id": "0000082E|LOTD_TCC_ImmWeap.esp",
+  "type": "MESG DESC",
+  "index": null,
+  "editor_id": "DBM_SectionArmoryImmersiveWeaponsElven_Notification"
+ },
+ {
+  "original": "<font color='#<Alias=ColourAlias>'>The Curators Companion: Immersive Weapons Set Complete (Falmer)</font>",
+  "string": "<font color='#<Alias=ColourAlias>'>Компаньон куратора: набор Immersive Weapons собран (Фалмер)</font>",
+  "form_id": "0000082F|LOTD_TCC_ImmWeap.esp",
+  "type": "MESG DESC",
+  "index": null,
+  "editor_id": "DBM_SectionArmoryImmersiveWeaponsFalmer_Notification"
+ },
+ {
+  "original": "<font color='#<Alias=ColourAlias>'>The Curators Companion: Immersive Weapons Set Complete (Glass)</font>",
+  "string": "<font color='#<Alias=ColourAlias>'>Компаньон куратора: набор Immersive Weapons собран (Стекло)</font>",
+  "form_id": "00000830|LOTD_TCC_ImmWeap.esp",
+  "type": "MESG DESC",
+  "index": null,
+  "editor_id": "DBM_SectionArmoryImmersiveWeaponsGlass_Notification"
+ },
+ {
+  "original": "<font color='#<Alias=ColourAlias>'>The Curators Companion: Immersive Weapons Set Complete (Iron)</font>",
+  "string": "<font color='#<Alias=ColourAlias>'>Компаньон куратора: набор Immersive Weapons собран (Железное)</font>",
+  "form_id": "00000831|LOTD_TCC_ImmWeap.esp",
+  "type": "MESG DESC",
+  "index": null,
+  "editor_id": "DBM_SectionArmoryImmersiveWeaponsIron_Notification"
+ },
+ {
+  "original": "<font color='#<Alias=ColourAlias>'>The Curators Companion: Immersive Weapons Set Complete (Orcish)</font>",
+  "string": "<font color='#<Alias=ColourAlias>'>Компаньон куратора: набор Immersive Weapons собран (Орочье снаряжение)</font>",
+  "form_id": "00000832|LOTD_TCC_ImmWeap.esp",
+  "type": "MESG DESC",
+  "index": null,
+  "editor_id": "DBM_SectionArmoryImmersiveWeaponsOrcish_Notification"
+ },
+ {
+  "original": "<font color='#<Alias=ColourAlias>'>The Curators Companion: Immersive Weapons Set Complete (Steel)</font>",
+  "string": "<font color='#<Alias=ColourAlias>'>Компаньон куратора: набор Immersive Weapons собран (Стальное снаряжение)</font>",
+  "form_id": "00000833|LOTD_TCC_ImmWeap.esp",
+  "type": "MESG DESC",
+  "index": null,
+  "editor_id": "DBM_SectionArmoryImmersiveWeaponsSteel_Notification"
+ },
+ {
+  "original": "<font color='#<Alias=ColourAlias>'>The Curators Companion: Immersive Weapons Set Complete (Wolf)</font>",
+  "string": "<font color='#<Alias=ColourAlias>'>Компаньон куратора: набор Immersive Weapons собран (Волчье)</font>",
+  "form_id": "00000834|LOTD_TCC_ImmWeap.esp",
+  "type": "MESG DESC",
+  "index": null,
+  "editor_id": "DBM_SectionArmoryImmersiveWeaponsWolf_Notification"
+ },
+ {
+  "original": "<font color='#<Alias=ColourAlias>'>The Curators Companion: Immersive Weapons Set Complete (Daedric Gallery)</font>",
+  "string": "<font color='#<Alias=ColourAlias>'>Компаньон куратора: набор Immersive Weapons собран (Даэдрическая галерея)</font>",
+  "form_id": "00000835|LOTD_TCC_ImmWeap.esp",
+  "type": "MESG DESC",
+  "index": null,
+  "editor_id": "DBM_SectionDaedricGalleryImmersiveWeapons_Notification"
+ },
+ {
+  "original": "<font color='#<Alias=ColourAlias>'>The Curators Companion: Immersive Weapons Set Complete (Hall of Heroes)</font>",
+  "string": "<font color='#<Alias=ColourAlias>'>Компаньон куратора: набор Immersive Weapons собран (Зал героев)</font>",
+  "form_id": "00000836|LOTD_TCC_ImmWeap.esp",
+  "type": "MESG DESC",
+  "index": null,
+  "editor_id": "DBM_SectionHOHImmersiveWeapons_Notification"
+ }
+]

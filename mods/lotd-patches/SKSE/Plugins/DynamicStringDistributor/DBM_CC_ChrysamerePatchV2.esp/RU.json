@@ -1,0 +1,10 @@
+[
+ {
+  "original": "Populate Alt With Chrysamere",
+  "string": "Добавление Хризамера в альтернативы",
+  "form_id": "00000801|DBM_CC_ChrysamerePatchV2.esp",
+  "type": "QUST FULL",
+  "index": null,
+  "editor_id": "DBM_CC_AddChrysamere"
+ }
+]

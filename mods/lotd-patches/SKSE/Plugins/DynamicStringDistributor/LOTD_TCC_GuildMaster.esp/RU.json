@@ -1,0 +1,18 @@
+[
+ {
+  "original": "GuildMaster Patch Handler",
+  "string": "Патч GuildMaster (служебный)",
+  "form_id": "00000800|LOTD_TCC_GuildMaster.esp",
+  "type": "QUST FULL",
+  "index": null,
+  "editor_id": "TCC_SupportedPatch_GuildMaster"
+ },
+ {
+  "original": "<font color='#<Alias=ColourAlias>'>The Curators Companion: Mod Complete (Guildmaster)</font>",
+  "string": "<font color='#<Alias=ColourAlias>'>Компаньон куратора: Мод завершен (Глава гильдии)</font>",
+  "form_id": "00000806|LOTD_TCC_GuildMaster.esp",
+  "type": "MESG DESC",
+  "index": null,
+  "editor_id": "_CompleteNotification_GuildMaster"
+ }
+]

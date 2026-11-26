@@ -1,0 +1,82 @@
+[
+ {
+  "original": "Fearstruck (replica)",
+  "string": "Поражающий Страхом (копия)",
+  "form_id": "0000081D|DBM_AoB_ReplicaPatchNG.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "FFAOBFearstruckREPLICA"
+ },
+ {
+  "original": "Shashev's Ring (replica)",
+  "string": "Кольцо Шашева (копия)",
+  "form_id": "0000081E|DBM_AoB_ReplicaPatchNG.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "FFAOBShashevRingREPLICA"
+ },
+ {
+  "original": "Goldbrand (replica)",
+  "string": "Золотая Марка (копия)",
+  "form_id": "00000805|DBM_AoB_ReplicaPatchNG.esp",
+  "type": "WEAP FULL",
+  "index": null,
+  "editor_id": "FFAOBGoldbrand1HREPLICA"
+ },
+ {
+  "original": "Goldbrand (replica)",
+  "string": "Золотая Марка (копия)",
+  "form_id": "00000806|DBM_AoB_ReplicaPatchNG.esp",
+  "type": "WEAP FULL",
+  "index": null,
+  "editor_id": "FFAOBGoldbrand2HREPLICA"
+ },
+ {
+  "original": "Eltonbrand (replica)",
+  "string": "Клеймо Эльтона (копия)",
+  "form_id": "00000807|DBM_AoB_ReplicaPatchNG.esp",
+  "type": "WEAP FULL",
+  "index": null,
+  "editor_id": "FFAOBEltonbrand1HREPLICA"
+ },
+ {
+  "original": "Eltonbrand (replica)",
+  "string": "Клеймо Эльтона (копия)",
+  "form_id": "00000808|DBM_AoB_ReplicaPatchNG.esp",
+  "type": "WEAP FULL",
+  "index": null,
+  "editor_id": "FFAOBEltonbrand2HREPLICA"
+ },
+ {
+  "original": "Lyrisius Dagger (replica)",
+  "string": "Кинжал Люсиуса (копия)",
+  "form_id": "00000813|DBM_AoB_ReplicaPatchNG.esp",
+  "type": "WEAP FULL",
+  "index": null,
+  "editor_id": "FFAOBLyrisiusDaggerREPLICA"
+ },
+ {
+  "original": "Boethiah's Walking Staff (replica)",
+  "string": "Посох Боэтии (копия)",
+  "form_id": "00000814|DBM_AoB_ReplicaPatchNG.esp",
+  "type": "WEAP FULL",
+  "index": null,
+  "editor_id": "FFAOBBoethiahStaffREPLICA"
+ },
+ {
+  "original": "Artifacts of Boethiah Support Handler",
+  "string": "Поддержка Artifacts of Boethiah (служебный)",
+  "form_id": "00000827|DBM_ArtifactsofBoethiah_Patch.esp",
+  "type": "QUST FULL",
+  "index": null,
+  "editor_id": "DBM_AOBSupportHandler"
+ },
+ {
+  "original": "Adds AoB items to Formlists",
+  "string": "Добавление предметов AoB в списки форм",
+  "form_id": "0000080D|DBM_AoB_ReplicaPatchNG.esp",
+  "type": "QUST FULL",
+  "index": null,
+  "editor_id": "DBM_AOB_REPQuest"
+ }
+]

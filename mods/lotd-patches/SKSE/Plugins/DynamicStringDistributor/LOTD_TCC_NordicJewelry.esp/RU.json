@@ -1,0 +1,18 @@
+[
+ {
+  "original": "The Curators Companion - Nordic Jewelry",
+  "string": "Помощник куратора - Нордские драгоценности",
+  "form_id": "00000803|LOTD_TCC_NordicJewelry.esp",
+  "type": "QUST FULL",
+  "index": null,
+  "editor_id": "TCC_SM_NordicJewelry"
+ },
+ {
+  "original": "<font color='#<Alias=ColourAlias>'>The Curators Companion: Mod Complete (Nordic Jewelry)</font>",
+  "string": "<font color='#<Alias=ColourAlias>'>Компаньон куратора: мод завершен (Нордские драгоценности)</font>",
+  "form_id": "00000802|LOTD_TCC_NordicJewelry.esp",
+  "type": "MESG DESC",
+  "index": null,
+  "editor_id": "_CompleteNotification_NordicJewelry"
+ }
+]

@@ -1,0 +1,210 @@
+[
+ {
+  "original": "Yakuda's Edge",
+  "string": "Лезвие Якуды",
+  "form_id": "0004765A|PrvtIRoyalArmory.esp",
+  "type": "WEAP FULL",
+  "index": null,
+  "editor_id": "PIKematuSword"
+ },
+ {
+  "original": "Black Crow Dagger (replica)",
+  "string": "Кинжал Черной вороны (копия)",
+  "form_id": "00000800|DBM_RoyalArmory_ReplicaPatch.esp",
+  "type": "WEAP FULL",
+  "index": null,
+  "editor_id": "PICrowDaggerREPLICA"
+ },
+ {
+  "original": "Crescent (replica)",
+  "string": "Полумесяц (копия)",
+  "form_id": "00000801|DBM_RoyalArmory_ReplicaPatch.esp",
+  "type": "WEAP FULL",
+  "index": null,
+  "editor_id": "PICresentAxeREPLICA"
+ },
+ {
+  "original": "Dagger of Shalidor (replica)",
+  "string": "Кинжал Шалидора (копия)",
+  "form_id": "00000802|DBM_RoyalArmory_ReplicaPatch.esp",
+  "type": "WEAP FULL",
+  "index": null,
+  "editor_id": "PIMageDaggerREPLICA"
+ },
+ {
+  "original": "Dragonfang (replica)",
+  "string": "Драконий клык (копия)",
+  "form_id": "00000803|DBM_RoyalArmory_ReplicaPatch.esp",
+  "type": "WEAP FULL",
+  "index": null,
+  "editor_id": "PICaptainSwordREPLICA"
+ },
+ {
+  "original": "Exquisite Elven Blade (replica)",
+  "string": "Изысканный эльфийский клинок (копия)",
+  "form_id": "00000804|DBM_RoyalArmory_ReplicaPatch.esp",
+  "type": "WEAP FULL",
+  "index": null,
+  "editor_id": "PIAltmerSwordREPLICA"
+ },
+ {
+  "original": "Foe Breaker (replica)",
+  "string": "Сокрушитель врагов (копия)",
+  "form_id": "00000805|DBM_RoyalArmory_ReplicaPatch.esp",
+  "type": "WEAP FULL",
+  "index": null,
+  "editor_id": "PIGalmarWarhammerREPLICA"
+ },
+ {
+  "original": "Hafyllbrand (replica)",
+  "string": "Хафилльбранд (копия)",
+  "form_id": "00000806|DBM_RoyalArmory_ReplicaPatch.esp",
+  "type": "WEAP FULL",
+  "index": null,
+  "editor_id": "PIGrayManeSwordREPLICA"
+ },
+ {
+  "original": "Hammer of Light (replica)",
+  "string": "Молот света (копия)",
+  "form_id": "00000807|DBM_RoyalArmory_ReplicaPatch.esp",
+  "type": "WEAP FULL",
+  "index": null,
+  "editor_id": "PIIsranWarhammerREPLICA"
+ },
+ {
+  "original": "Harbinger's Axe (replica)",
+  "string": "Топор Предвестника (копия)",
+  "form_id": "00000808|DBM_RoyalArmory_ReplicaPatch.esp",
+  "type": "WEAP FULL",
+  "index": null,
+  "editor_id": "PICompanionAxeREPLICA"
+ },
+ {
+  "original": "Jolhert (replica)",
+  "string": "Йолхерт (копия)",
+  "form_id": "00000809|DBM_RoyalArmory_ReplicaPatch.esp",
+  "type": "WEAP FULL",
+  "index": null,
+  "editor_id": "PIIceSwordREPLICA"
+ },
+ {
+  "original": "Judgement (replica)",
+  "string": "Правосудие (копия)",
+  "form_id": "0000080A|DBM_RoyalArmory_ReplicaPatch.esp",
+  "type": "WEAP FULL",
+  "index": null,
+  "editor_id": "PITulliusSwordREPLICA"
+ },
+ {
+  "original": "Malice (replica)",
+  "string": "Злоба (копия)",
+  "form_id": "0000080B|DBM_RoyalArmory_ReplicaPatch.esp",
+  "type": "WEAP FULL",
+  "index": null,
+  "editor_id": "PIMercerSwordREPLICA"
+ },
+ {
+  "original": "Mentor's Sword (replica)",
+  "string": "Меч наставника (копия)",
+  "form_id": "0000080C|DBM_RoyalArmory_ReplicaPatch.esp",
+  "type": "WEAP FULL",
+  "index": null,
+  "editor_id": "PIBladesSwordREPLICA"
+ },
+ {
+  "original": "Neloth's Staff (replica)",
+  "string": "Посох Нелота (копия)",
+  "form_id": "0000080D|DBM_RoyalArmory_ReplicaPatch.esp",
+  "type": "WEAP FULL",
+  "index": null,
+  "editor_id": "PINelothStaffREPLICA"
+ },
+ {
+  "original": "Northern Honor (replica)",
+  "string": "Северная честь (копия)",
+  "form_id": "0000080E|DBM_RoyalArmory_ReplicaPatch.esp",
+  "type": "WEAP FULL",
+  "index": null,
+  "editor_id": "PIRikkeSwordREPLICA"
+ },
+ {
+  "original": "Pendulum (replica)",
+  "string": "Маятник (копия)",
+  "form_id": "0000080F|DBM_RoyalArmory_ReplicaPatch.esp",
+  "type": "WEAP FULL",
+  "index": null,
+  "editor_id": "PIKeeperLongMaceREPLICA"
+ },
+ {
+  "original": "Regnving (replica)",
+  "string": "Регнвинг (копия)",
+  "form_id": "00000810|DBM_RoyalArmory_ReplicaPatch.esp",
+  "type": "WEAP FULL",
+  "index": null,
+  "editor_id": "PIFreaAxe01REPLICA"
+ },
+ {
+  "original": "Rikvard (replica)",
+  "string": "Риквард (копия)",
+  "form_id": "00000811|DBM_RoyalArmory_ReplicaPatch.esp",
+  "type": "WEAP FULL",
+  "index": null,
+  "editor_id": "PIUlfricAxeREPLICA"
+ },
+ {
+  "original": "Shard (replica)",
+  "string": "Осколок (копия)",
+  "form_id": "00000812|DBM_RoyalArmory_ReplicaPatch.esp",
+  "type": "WEAP FULL",
+  "index": null,
+  "editor_id": "PICalcelmoShortswordREPLICA"
+ },
+ {
+  "original": "Silvertongue (replica)",
+  "string": "Серебряный язык (копия)",
+  "form_id": "00000813|DBM_RoyalArmory_ReplicaPatch.esp",
+  "type": "WEAP FULL",
+  "index": null,
+  "editor_id": "PISilverbloodSwordREPLICA"
+ },
+ {
+  "original": "Smile (replica)",
+  "string": "Улыбка (копия)",
+  "form_id": "00000814|DBM_RoyalArmory_ReplicaPatch.esp",
+  "type": "WEAP FULL",
+  "index": null,
+  "editor_id": "PISmileDaggerREPLICA"
+ },
+ {
+  "original": "Snærving (replica)",
+  "string": "Снэрвинг (копия)",
+  "form_id": "00000815|DBM_RoyalArmory_ReplicaPatch.esp",
+  "type": "WEAP FULL",
+  "index": null,
+  "editor_id": "PIFreaAxe02REPLICA"
+ },
+ {
+  "original": "Stormbird (replica)",
+  "string": "Буревестник (копия)",
+  "form_id": "00000816|DBM_RoyalArmory_ReplicaPatch.esp",
+  "type": "WEAP FULL",
+  "index": null,
+  "editor_id": "PIElfShortswordREPLICA"
+ },
+ {
+  "original": "Sword of Dragonsreach (replica)",
+  "string": "Меч Драконьего Предела (копия)",
+  "form_id": "00000817|DBM_RoyalArmory_ReplicaPatch.esp",
+  "type": "WEAP FULL",
+  "index": null,
+  "editor_id": "PIBalgruufSwordREPLICA"
+ },
+ {
+  "original": "Yakuda's Edge (replica)",
+  "string": "Лезвие Якуды (копия)",
+  "form_id": "00000818|DBM_RoyalArmory_ReplicaPatch.esp",
+  "type": "WEAP FULL",
+  "index": null,
+  "editor_id": "PIKematuSwordREPLICA"
+ }
+]

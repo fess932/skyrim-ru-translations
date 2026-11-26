@@ -1,0 +1,34 @@
+[
+ {
+  "original": "Jewelry Case",
+  "string": "Шкатулка для драгоценностей",
+  "form_id": "00000A57|DBM_AmuletsOfSkyrim_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_JewelryCaseDummyACT"
+ },
+ {
+  "original": "Chest",
+  "string": "Сундук",
+  "form_id": "000A6C04|Skyrim.esm",
+  "type": "CONT FULL",
+  "index": null,
+  "editor_id": "MerchantSolitudeRadiantRaiments"
+ },
+ {
+  "original": "Amulets of Skyrim Items",
+  "string": "Предметы из Amulets of Skyrim",
+  "form_id": "00000A54|DBM_AmuletsOfSkyrim_Patch.esp",
+  "type": "CONT FULL",
+  "index": null,
+  "editor_id": "DBM_CheatChestAOS"
+ },
+ {
+  "original": "Amulets of Skyrim Support Handler",
+  "string": "Поддержка Amulets of Skyrim (служебный)",
+  "form_id": "00000A50|DBM_AmuletsOfSkyrim_Patch.esp",
+  "type": "QUST FULL",
+  "index": null,
+  "editor_id": "DBM_SupportedModAOS"
+ }
+]

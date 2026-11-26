@@ -1,0 +1,58 @@
+[
+ {
+  "original": "Harrada (replica)",
+  "string": "Харрада (копия)",
+  "form_id": "00000803|DBM_CC_Cause_CuriosAddon.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTHarrada"
+ },
+ {
+  "original": "Bloodgrass (replica)",
+  "string": "Кровавая трава (копия)",
+  "form_id": "00000811|DBM_CC_Cause_CuriosAddon.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTBloodgrass"
+ },
+ {
+  "original": "Spiddal Stick (replica)",
+  "string": "Спиддал (копия)",
+  "form_id": "00000812|DBM_CC_Cause_CuriosAddon.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTSpiddalStick"
+ },
+ {
+  "original": "Harrada (replica)",
+  "string": "Харрада (копия)",
+  "form_id": "00000801|DBM_CC_Cause_CuriosAddon.esp",
+  "type": "MISC FULL",
+  "index": null,
+  "editor_id": "DBM_CC_HarradaREPLICA"
+ },
+ {
+  "original": "Bloodgrass (replica)",
+  "string": "Кровавая трава (копия)",
+  "form_id": "00000805|DBM_CC_Cause_CuriosAddon.esp",
+  "type": "MISC FULL",
+  "index": null,
+  "editor_id": "DBM_CC_BloodgrassREPLICA"
+ },
+ {
+  "original": "Spiddal Stick (replica)",
+  "string": "Спиддал (копия)",
+  "form_id": "00000806|DBM_CC_Cause_CuriosAddon.esp",
+  "type": "MISC FULL",
+  "index": null,
+  "editor_id": "DBM_CC_SpiddalStickREPLICA"
+ },
+ {
+  "original": "Hall of Wonders",
+  "string": "Зал чудес",
+  "form_id": "000104C9|DBM_CC_HallOfWonders.esp",
+  "type": "CELL FULL",
+  "index": null,
+  "editor_id": "DBMDGHallofWondersCC"
+ }
+]

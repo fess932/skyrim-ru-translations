@@ -1,0 +1,18 @@
+[
+ {
+  "original": "Cheesemod Custom TCC Patch Handler",
+  "string": "Особый патч Помощника куратора для Cheesemod (служебный)",
+  "form_id": "00000800|LOTD_TCC_Cheesemod.esp",
+  "type": "QUST FULL",
+  "index": null,
+  "editor_id": "TCC_CustomPatch_Cheesemod"
+ },
+ {
+  "original": "<font color='#<Alias=ColourAlias>'>The Curators Companion: Mod Complete (Cheesemod)</font>",
+  "string": "<font color='#<Alias=ColourAlias>'>Компаньон куратора: Мод завершен (Сырный мод)</font>",
+  "form_id": "00000806|LOTD_TCC_Cheesemod.esp",
+  "type": "MESG DESC",
+  "index": null,
+  "editor_id": "_CompleteNotification_Cheesemod"
+ }
+]

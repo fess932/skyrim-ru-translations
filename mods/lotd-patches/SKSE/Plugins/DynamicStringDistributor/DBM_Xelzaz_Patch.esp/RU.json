@@ -1,0 +1,122 @@
+[
+ {
+  "original": "Xelzaz's Armor",
+  "string": "Броня Ксельзаза",
+  "form_id": "0000086C|DBM_Xelzaz_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "KRI_XelArmDisp_ACTI"
+ },
+ {
+  "original": "Xelzaz's Gloves",
+  "string": "Перчатки Ксельзаза",
+  "form_id": "0000086E|DBM_Xelzaz_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "KRI_XelGloveDisp_ACTI"
+ },
+ {
+  "original": "Xelzaz's Boots",
+  "string": "Сапоги Ксельзаза",
+  "form_id": "00000870|DBM_Xelzaz_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "KRI_XelBootDisp_ACTI"
+ },
+ {
+  "original": "Xelzaz's Propylon",
+  "string": "Пропилон Кселзаза",
+  "form_id": "00000873|DBM_Xelzaz_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "KRI_XelPropylonDisp_ACTI"
+ },
+ {
+  "original": "Roovi",
+  "string": "Руви",
+  "form_id": "00000875|DBM_Xelzaz_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "KRI_XelzazRooviDisp_ACTI"
+ },
+ {
+  "original": "Telvanni Bug Musk",
+  "string": "Жучиный мускус Телванни",
+  "form_id": "00000882|DBM_Xelzaz_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "KRI_XelMuskDisp_ACTI"
+ },
+ {
+  "original": "Xelzaz's Preserved Hist Leaf",
+  "string": "Застывший лист Хиста Ксельзаза",
+  "form_id": "00000884|DBM_Xelzaz_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "KRI_XelHistDisp_ACTI"
+ },
+ {
+  "original": "Xelzaz's Saltrice Noodles",
+  "string": "Соленая лапша",
+  "form_id": "0000088D|DBM_Xelzaz_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "KRI_XelSaltriceDisp_ACTI"
+ },
+ {
+  "original": "Xelzaz's Items",
+  "string": "Предметы Ксельзаза",
+  "form_id": "0000087C|DBM_Xelzaz_Patch.esp",
+  "type": "CONT FULL",
+  "index": null,
+  "editor_id": "KRI_CheatCrateXelzaz"
+ },
+ {
+  "original": "Roovi (Replica)",
+  "string": "Руви (копия)",
+  "form_id": "00000800|DBM_Xelzaz_Patch.esp",
+  "type": "MISC FULL",
+  "index": null,
+  "editor_id": "KRI_BPUFXelzazRoovi_REPL"
+ },
+ {
+  "original": "Xelzaz's Propylon (Replica)",
+  "string": "Пропилон Кселзаза (копия)",
+  "form_id": "00000801|DBM_Xelzaz_Patch.esp",
+  "type": "MISC FULL",
+  "index": null,
+  "editor_id": "KRI_BPUFXelzazPropylon_REPL"
+ },
+ {
+  "original": "Xelzaz's Telvanni Boots (Replica)",
+  "string": "Телваннийские сапоги Ксельзаза (копия)",
+  "form_id": "00000802|DBM_Xelzaz_Patch.esp",
+  "type": "MISC FULL",
+  "index": null,
+  "editor_id": null
+ },
+ {
+  "original": "Xelzaz's Telvanni Spellsword Cuirass (Replica)",
+  "string": "Кираса Ксельзаза (копия)",
+  "form_id": "00000803|DBM_Xelzaz_Patch.esp",
+  "type": "MISC FULL",
+  "index": null,
+  "editor_id": null
+ },
+ {
+  "original": "Xelzaz's Telvanni Spellsword Gauntlets (Replica)",
+  "string": "Рукавицы Ксельзаза (копия)",
+  "form_id": "00000804|DBM_Xelzaz_Patch.esp",
+  "type": "MISC FULL",
+  "index": null,
+  "editor_id": null
+ },
+ {
+  "original": "Xelzaz's Preserved Hist Leaf (Replica)",
+  "string": "Застывший лист Хиста Ксельзаза (копия)",
+  "form_id": "00000885|DBM_Xelzaz_Patch.esp",
+  "type": "MISC FULL",
+  "index": null,
+  "editor_id": "KRI_BPUFXelzazHistLeaf_REPL"
+ }
+]

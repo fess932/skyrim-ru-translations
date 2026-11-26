@@ -1,0 +1,90 @@
+[
+ {
+  "original": "Map of Wild Horses",
+  "string": "Карта мест обитания диких лошадей",
+  "form_id": "00000803|DBM_CC_Wilds02WildHorsesHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTWildHorseMap"
+ },
+ {
+  "original": "Creature of Legend Display",
+  "string": "Экспозиция \"Легендарное существо\"",
+  "form_id": "0000080E|DBM_CC_Wilds02WildHorsesHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DummyACTUnicorn"
+ },
+ {
+  "original": "Chestnut Horse Display",
+  "string": "Экспозиция \"Ореховый конь\"",
+  "form_id": "00000819|DBM_CC_Wilds02WildHorsesHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DummyACTHorse01"
+ },
+ {
+  "original": "Black Horse Display",
+  "string": "Экспозиция \"Черный конь\"",
+  "form_id": "0000081A|DBM_CC_Wilds02WildHorsesHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DummyACTHorse02"
+ },
+ {
+  "original": "Grey Spotted Horse Display",
+  "string": "Экспозиция \"Серый в яблоках конь\"",
+  "form_id": "0000081B|DBM_CC_Wilds02WildHorsesHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DummyACTHorse03"
+ },
+ {
+  "original": "Pale Mare Display",
+  "string": "Экспозиция \"Бледная кобыла\"",
+  "form_id": "0000081C|DBM_CC_Wilds02WildHorsesHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DummyACTHorse04"
+ },
+ {
+  "original": "Red Horse Display",
+  "string": "Экспозиция \"Рыжий конь\"",
+  "form_id": "0000081D|DBM_CC_Wilds02WildHorsesHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DummyACTHorse05"
+ },
+ {
+  "original": "White Spotted Horse Display",
+  "string": "Экспозиция \"Белый пятнистый конь\"",
+  "form_id": "0000081E|DBM_CC_Wilds02WildHorsesHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DummyACTHorse06"
+ },
+ {
+  "original": "Dapple Brown Horse Display",
+  "string": "Экспозиция \"Гнедой в яблоках конь\"",
+  "form_id": "0000081F|DBM_CC_Wilds02WildHorsesHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DummyACTHorse07"
+ },
+ {
+  "original": "Hall of Wonders",
+  "string": "Зал чудес",
+  "form_id": "000104C9|DBM_CC_HallOfWonders.esp",
+  "type": "CELL FULL",
+  "index": null,
+  "editor_id": "DBMDGHallofWondersCC"
+ },
+ {
+  "original": "Wild Horses Handler",
+  "string": "Дикие лошади (служебный)",
+  "form_id": "00000802|DBM_CC_Wilds02WildHorsesHOWPatch.esp",
+  "type": "QUST FULL",
+  "index": null,
+  "editor_id": "DBM_CC_Wilds02Handler"
+ }
+]

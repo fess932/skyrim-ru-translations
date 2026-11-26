@@ -1,0 +1,18 @@
+[
+ {
+  "original": "The Curators Companion - Alternate Armors - Daedric Mail",
+  "string": "Помощник куратора - Альтернативная броня - Даэдрическая кольчуга",
+  "form_id": "00000800|LOTD_TCC_RedguardEliteArmaments.esp",
+  "type": "QUST FULL",
+  "index": null,
+  "editor_id": "TCC_SM_RedguardEliteArmaments"
+ },
+ {
+  "original": "<font color='#<Alias=ColourAlias>'>The Curators Companion: Mod Complete (Redguard Elite Armaments)</font>",
+  "string": "<font color='#<Alias=ColourAlias>'>Компаньон куратора: мод завершен (Элитный арсенал редгардов)</font>",
+  "form_id": "00000803|LOTD_TCC_RedguardEliteArmaments.esp",
+  "type": "MESG DESC",
+  "index": null,
+  "editor_id": "_CompleteNotification_RedguardEliteArmaments"
+ }
+]

@@ -1,0 +1,18 @@
+[
+ {
+  "original": "Cheese Storage",
+  "string": "Хранилище сыра",
+  "form_id": "00000919|DBM_CheeseMod_Patch.esp",
+  "type": "CONT FULL",
+  "index": null,
+  "editor_id": "DBM_YumCheeseCrate"
+ },
+ {
+  "original": "Cheese Aging Room",
+  "string": "Сыродельня",
+  "form_id": "0000091A|DBM_CheeseMod_Patch.esp",
+  "type": "DOOR FULL",
+  "index": null,
+  "editor_id": "DBM_YumCheeseDoor"
+ }
+]

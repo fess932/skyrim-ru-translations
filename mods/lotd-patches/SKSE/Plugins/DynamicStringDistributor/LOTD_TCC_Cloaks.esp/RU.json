@@ -1,0 +1,18 @@
+[
+ {
+  "original": "The Curators Companion - Cloaks of Skyrim",
+  "string": "Помощник куратора - Cloaks of Skyrim",
+  "form_id": "00000803|LOTD_TCC_Cloaks.esp",
+  "type": "QUST FULL",
+  "index": null,
+  "editor_id": "TCC_SM_Cloaks"
+ },
+ {
+  "original": "<font color='#<Alias=ColourAlias>'>The Curators Companion: Mod Complete (Cloaks of Skyrim)</font>",
+  "string": "<font color='#<Alias=ColourAlias>'>Компаньон куратора: Мод завершен (Плащи Скайрима)</font>",
+  "form_id": "00000804|LOTD_TCC_Cloaks.esp",
+  "type": "MESG DESC",
+  "index": null,
+  "editor_id": "_CompleteNotification_CloaksofSkyrim"
+ }
+]

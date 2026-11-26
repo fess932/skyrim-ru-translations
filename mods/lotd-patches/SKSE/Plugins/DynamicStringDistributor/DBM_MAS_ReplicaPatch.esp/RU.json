@@ -1,0 +1,50 @@
+[
+ {
+  "original": "Moon and Star (replica)",
+  "string": "Луна и Звезда (копия)",
+  "form_id": "00000800|DBM_MAS_ReplicaPatch.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "DBM_MoonAndStarRingREPLICA"
+ },
+ {
+  "original": "Dorana's Hammer (replica)",
+  "string": "Молот Дораны (копия)",
+  "form_id": "00000801|DBM_MAS_ReplicaPatch.esp",
+  "type": "WEAP FULL",
+  "index": null,
+  "editor_id": "DBM_DoranaHammerREPLICA"
+ },
+ {
+  "original": "Staff of Hellfire (replica)",
+  "string": "Посох адского пламени (копия)",
+  "form_id": "00000802|DBM_MAS_ReplicaPatch.esp",
+  "type": "WEAP FULL",
+  "index": null,
+  "editor_id": "DBM_HellfireStaffREPLICA"
+ },
+ {
+  "original": "Magebane (replica)",
+  "string": "Гибель магов (копия)",
+  "form_id": "00000803|DBM_MAS_ReplicaPatch.esp",
+  "type": "WEAP FULL",
+  "index": null,
+  "editor_id": "DBM_MAS_MagebaneREPLICA"
+ },
+ {
+  "original": "Mace of Slurring (replica)",
+  "string": "Булава невнятности (копия)",
+  "form_id": "00000804|DBM_MAS_ReplicaPatch.esp",
+  "type": "WEAP FULL",
+  "index": null,
+  "editor_id": "DBM_MaceofSlurringREPLICA"
+ },
+ {
+  "original": "Black Hands Dagger (replica)",
+  "string": "Кинжал Черных Рук (копия)",
+  "form_id": "00000805|DBM_MAS_ReplicaPatch.esp",
+  "type": "WEAP FULL",
+  "index": null,
+  "editor_id": "DBM_BlackHandsDaggerREPLICA"
+ }
+]

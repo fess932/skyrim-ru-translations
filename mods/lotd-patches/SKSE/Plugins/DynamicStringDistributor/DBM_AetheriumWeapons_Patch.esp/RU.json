@@ -1,0 +1,306 @@
+[
+ {
+  "original": "Aetherium Bolt Launcher",
+  "string": "Этериевый болтомет",
+  "form_id": "00000855|DBM_AetheriumWeapons_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTAetherialBoltLauncher"
+ },
+ {
+  "original": "Aetherium Amulet",
+  "string": "Амулет эфирия",
+  "form_id": "00000858|DBM_AetheriumWeapons_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTAetherialAmulet"
+ },
+ {
+  "original": "Aetherium Ring",
+  "string": "Эфириевое кольцо",
+  "form_id": "0000085B|DBM_AetheriumWeapons_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTAetherialRing"
+ },
+ {
+  "original": "Aetherium Hammer",
+  "string": "Этериевый молот",
+  "form_id": "0000085E|DBM_AetheriumWeapons_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTAetherialHammer"
+ },
+ {
+  "original": "Aetherium Sword",
+  "string": "Этериевый меч",
+  "form_id": "00000861|DBM_AetheriumWeapons_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTAetherialSword"
+ },
+ {
+  "original": "Aetherium War Axe",
+  "string": "Этериевый боевой топор",
+  "form_id": "00000864|DBM_AetheriumWeapons_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTAetherialWaraxe"
+ },
+ {
+  "original": "Aetherium Dagger",
+  "string": "Этериевый кинжал",
+  "form_id": "00000867|DBM_AetheriumWeapons_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTAetherialDagger"
+ },
+ {
+  "original": "Aetherium Greatsword",
+  "string": "Этериевый двуручный меч",
+  "form_id": "0000086A|DBM_AetheriumWeapons_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTAetherialGreatsword"
+ },
+ {
+  "original": "Aetherium Battleaxe",
+  "string": "Этериевая секира",
+  "form_id": "0000086D|DBM_AetheriumWeapons_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTAetherialBattleaxe"
+ },
+ {
+  "original": "Aetherium Warhammer",
+  "string": "Этериевый боевой молот",
+  "form_id": "00000870|DBM_AetheriumWeapons_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTAetherialWarhammer"
+ },
+ {
+  "original": "Aetherium Boots",
+  "string": "Этериевые сапоги",
+  "form_id": "00000873|DBM_AetheriumWeapons_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTAetherialBoots"
+ },
+ {
+  "original": "Aetherium Armor",
+  "string": "Этериевая броня",
+  "form_id": "00000876|DBM_AetheriumWeapons_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTAetherialArmor"
+ },
+ {
+  "original": "Aetherium Gloves",
+  "string": "Этериевые перчатки",
+  "form_id": "00000879|DBM_AetheriumWeapons_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTAetherialGloves"
+ },
+ {
+  "original": "Aetherium Helmet",
+  "string": "Этериевый шлем",
+  "form_id": "0000087B|DBM_AetheriumWeapons_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTAetherialHelm"
+ },
+ {
+  "original": "Aetherial Armor",
+  "string": "Этериевая броня",
+  "form_id": "0000087F|DBM_AetheriumWeapons_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTAetherialArmorS"
+ },
+ {
+  "original": "Aetherial Boots",
+  "string": "Этериевые сапоги",
+  "form_id": "00000880|DBM_AetheriumWeapons_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTAetherialBootsS"
+ },
+ {
+  "original": "Aetherial Gloves",
+  "string": "Эфирные перчатки",
+  "form_id": "00000881|DBM_AetheriumWeapons_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTAetherialGlovesS"
+ },
+ {
+  "original": "Aetherial Helmet",
+  "string": "Этериевый шлем",
+  "form_id": "00000882|DBM_AetheriumWeapons_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTAetherialHelmS"
+ },
+ {
+  "original": "Aetherial Amulet",
+  "string": "Этериевый амулет",
+  "form_id": "00000883|DBM_AetheriumWeapons_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTAetherialAmuletS"
+ },
+ {
+  "original": "Aetherial Ring",
+  "string": "Этериевое кольцо",
+  "form_id": "00000884|DBM_AetheriumWeapons_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTAetherialRingS"
+ },
+ {
+  "original": "Aetherial Battleaxe",
+  "string": "Эфирный боевой топор",
+  "form_id": "00000885|DBM_AetheriumWeapons_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTAetherialBattleaxeS"
+ },
+ {
+  "original": "Aetherial Bolt Launcher",
+  "string": "Эфирный болтомет",
+  "form_id": "00000886|DBM_AetheriumWeapons_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTAetherialBoltLauncherS"
+ },
+ {
+  "original": "Aetherial Dagger",
+  "string": "Эфирный кинжал",
+  "form_id": "00000887|DBM_AetheriumWeapons_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTAetherialDaggerS"
+ },
+ {
+  "original": "Aetherial Greatsword",
+  "string": "Эфирный большой меч",
+  "form_id": "00000888|DBM_AetheriumWeapons_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTAetherialGreatswordS"
+ },
+ {
+  "original": "Aetherial Hammer",
+  "string": "Эфирный молот",
+  "form_id": "00000889|DBM_AetheriumWeapons_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTAetherialHammerS"
+ },
+ {
+  "original": "Aetherial Sword",
+  "string": "Эфирный меч",
+  "form_id": "0000088A|DBM_AetheriumWeapons_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTAetherialSwordS"
+ },
+ {
+  "original": "Aetherial War Axe",
+  "string": "Эфирный боевой топор",
+  "form_id": "0000088B|DBM_AetheriumWeapons_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTAetherialWaraxeS"
+ },
+ {
+  "original": "Aetherial Warhammer",
+  "string": "Эфирный боевой молот",
+  "form_id": "0000088C|DBM_AetheriumWeapons_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTAetherialWarhammerS"
+ },
+ {
+  "original": "Aetherium Shield",
+  "string": "Этериевый щит",
+  "form_id": "0000088E|DBM_AetheriumWeapons_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTAetheriumShield"
+ },
+ {
+  "original": "Aetherial Shield",
+  "string": "Этериевый щит",
+  "form_id": "0000088F|DBM_AetheriumWeapons_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTAetherialShieldB"
+ },
+ {
+  "original": "Aetherium Armory Iterms",
+  "string": "Предметы из Aetherium Armory",
+  "form_id": "0000087E|DBM_AetheriumWeapons_Patch.esp",
+  "type": "CONT FULL",
+  "index": null,
+  "editor_id": "DBM_CheatCrateAetherium"
+ },
+ {
+  "original": "Especially effective against daedra and spectral beings.",
+  "string": "Особенно эффективен против даэдра и призрачных существ.",
+  "form_id": "0005D61A|AetheriumSwordsnArmor.esp",
+  "type": "WEAP DESC",
+  "index": null,
+  "editor_id": "DwarvenAetBattleaxeBLANK2"
+ },
+ {
+  "original": "Especially effective against daedra and spectral beings.",
+  "string": "Особенно эффективен против даэдра и призрачных существ.",
+  "form_id": "0005D61B|AetheriumSwordsnArmor.esp",
+  "type": "WEAP DESC",
+  "index": null,
+  "editor_id": "DwarvenAetDaggerBLANK2"
+ },
+ {
+  "original": "Especially effective against daedra and spectral beings.",
+  "string": "Особенно эффективен против даэдра и призрачных существ.",
+  "form_id": "0005D61C|AetheriumSwordsnArmor.esp",
+  "type": "WEAP DESC",
+  "index": null,
+  "editor_id": "DwarvenAetGreatswordBLANK2"
+ },
+ {
+  "original": "Especially effective against daedra and spectral beings.",
+  "string": "Особенно эффективен против даэдра и призрачных существ.",
+  "form_id": "0005D61D|AetheriumSwordsnArmor.esp",
+  "type": "WEAP DESC",
+  "index": null,
+  "editor_id": "DwarvenAetHammerBLANK2"
+ },
+ {
+  "original": "Especially effective against daedra and spectral beings.",
+  "string": "Особенно эффективен против даэдра и призрачных существ.",
+  "form_id": "0005D61E|AetheriumSwordsnArmor.esp",
+  "type": "WEAP DESC",
+  "index": null,
+  "editor_id": "DwarvenAetSwordBLANK2"
+ },
+ {
+  "original": "Especially effective against daedra and spectral beings.",
+  "string": "Особенно эффективен против даэдра и призрачных существ.",
+  "form_id": "0005D61F|AetheriumSwordsnArmor.esp",
+  "type": "WEAP DESC",
+  "index": null,
+  "editor_id": "DwarvenAetWarAxeBLANK2"
+ },
+ {
+  "original": "Especially effective against daedra and spectral beings.",
+  "string": "Особенно эффективен против даэдра и призрачных существ.",
+  "form_id": "0005D637|AetheriumSwordsnArmor.esp",
+  "type": "WEAP DESC",
+  "index": null,
+  "editor_id": "DwarvenAetWarhammerBLANK2"
+ }
+]

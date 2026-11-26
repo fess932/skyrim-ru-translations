@@ -1,0 +1,290 @@
+[
+ {
+  "original": "Akaviri Targe",
+  "string": "Акавирский щит",
+  "form_id": "00000833|DBM_Kaidan_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTAkaviriTarge"
+ },
+ {
+  "original": "Kaidan's Armor",
+  "string": "Броня Кайдена",
+  "form_id": "00000846|DBM_Kaidan_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTKaiArmor"
+ },
+ {
+  "original": "Kaidan's Bracers",
+  "string": "Наручни Кайдена",
+  "form_id": "00000847|DBM_Kaidan_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTKaiBracer"
+ },
+ {
+  "original": "Kaidan's Boots",
+  "string": "Сапоги Кайдена",
+  "form_id": "00000848|DBM_Kaidan_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTKaiBoots"
+ },
+ {
+  "original": "Kaidan's War Bow",
+  "string": "Боевой Лук Кайдена",
+  "form_id": "00000849|DBM_Kaidan_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTKaiWarBow"
+ },
+ {
+  "original": "Staff of the Deadlands",
+  "string": "Посох Мертвых Земель",
+  "form_id": "0000084A|DBM_Kaidan_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTKaiRosStaff"
+ },
+ {
+  "original": "Kaidan's Nodachi",
+  "string": "Нодачи Кайдена",
+  "form_id": "0000084B|DBM_Kaidan_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTKaiNodachi"
+ },
+ {
+  "original": "Blade of Akavir",
+  "string": "Акавирский клинок",
+  "form_id": "0000084C|DBM_Kaidan_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTKaiRelicSword"
+ },
+ {
+  "original": "Old Wooden Sword",
+  "string": "Старый Деревянный Меч",
+  "form_id": "0000084D|DBM_Kaidan_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTKaiWoodenSword"
+ },
+ {
+  "original": "Athame",
+  "string": "Атаме",
+  "form_id": "0000084E|DBM_Kaidan_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTKaiAthame"
+ },
+ {
+  "original": "Carved Talisman",
+  "string": "Резной Талисман",
+  "form_id": "00000851|DBM_Kaidan_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTKaiTalisman"
+ },
+ {
+  "original": "Amulet of Silent Flame",
+  "string": "Амулет Тихого Пламени",
+  "form_id": "00000852|DBM_Kaidan_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTKaiRelicNeck"
+ },
+ {
+  "original": "Shaman Ring",
+  "string": "Кольцо Шамана",
+  "form_id": "00000853|DBM_Kaidan_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTKaiRelicRing"
+ },
+ {
+  "original": "Starlight Circlet",
+  "string": "Звездный Венец",
+  "form_id": "00000854|DBM_Kaidan_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTKaiRelicHead"
+ },
+ {
+  "original": "Volumes 1-3",
+  "string": "Тома 1-3",
+  "form_id": "00000855|DBM_Kaidan_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_BOOKSETACTKaiByron"
+ },
+ {
+  "original": "Poetry of Lord Byron",
+  "string": "Поэзия лорда Байрона",
+  "form_id": "00000855|DBM_Kaidan_Patch.esp",
+  "type": "ACTI RNAM",
+  "index": null,
+  "editor_id": "DBM_BOOKSETACTKaiByron"
+ },
+ {
+  "original": "Volumes 1-2",
+  "string": "Тома 1-2",
+  "form_id": "00000857|DBM_Kaidan_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_BOOKSETACTKaiGhostStories"
+ },
+ {
+  "original": "Ghost Stories of Tamriel",
+  "string": "Истории о привидениях Тамриэля",
+  "form_id": "00000857|DBM_Kaidan_Patch.esp",
+  "type": "ACTI RNAM",
+  "index": null,
+  "editor_id": "DBM_BOOKSETACTKaiGhostStories"
+ },
+ {
+  "original": "Deadland Temple Talisman",
+  "string": "Талисман храма Мертвых Земель",
+  "form_id": "00000864|DBM_Kaidan_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTKaiDeadlandKey"
+ },
+ {
+  "original": "Starlight Circlet (replica)",
+  "string": "Звездный Венец (копия)",
+  "form_id": "00000869|DBM_Kaidan_Patch.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "kai_RelicHeadREPLICA"
+ },
+ {
+  "original": "Amulet of Silent Flame (replica)",
+  "string": "Амулет Тихого Пламени (копия)",
+  "form_id": "0000086A|DBM_Kaidan_Patch.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "Kai_RelicNeckREPLICA"
+ },
+ {
+  "original": "Shaman Ring (replica)",
+  "string": "Кольцо Шамана (копия)",
+  "form_id": "0000086B|DBM_Kaidan_Patch.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "kai_RelicRingREPLICA"
+ },
+ {
+  "original": "Akaviri Targe (replica)",
+  "string": "Акавирский щит (копия)",
+  "form_id": "0000086C|DBM_Kaidan_Patch.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "kai_RelicTargeREPLICA"
+ },
+ {
+  "original": "Kaidan's Armor (replica)",
+  "string": "Броня Кайдена (копия)",
+  "form_id": "0000086D|DBM_Kaidan_Patch.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "KaiArmourREPLICA"
+ },
+ {
+  "original": "Kaidan's Boots (replica)",
+  "string": "Сапоги Кайдена (копия)",
+  "form_id": "0000086E|DBM_Kaidan_Patch.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "KaiBootsREPLICA"
+ },
+ {
+  "original": "Kaidan's Bracers (replica)",
+  "string": "Наручни Кайдена (копия)",
+  "form_id": "0000086F|DBM_Kaidan_Patch.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "kaiBracersREPLICA"
+ },
+ {
+  "original": "Carved Talisman (replica)",
+  "string": "Резной Талисман (копия)",
+  "form_id": "00000870|DBM_Kaidan_Patch.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "KaiTalismanREPLICA"
+ },
+ {
+  "original": "Kaidan's Items",
+  "string": "Предметы Кайдана",
+  "form_id": "0000089C|DBM_Kaidan_Patch.esp",
+  "type": "CONT FULL",
+  "index": null,
+  "editor_id": "DBM_CheatCrateKaidan"
+ },
+ {
+  "original": "Blade of Akavir (replica)",
+  "string": "Акавирский клинок (копия)",
+  "form_id": "00000872|DBM_Kaidan_Patch.esp",
+  "type": "WEAP FULL",
+  "index": null,
+  "editor_id": "kai_RelicSwordREPLICA"
+ },
+ {
+  "original": "Athame (replica)",
+  "string": "Атаме (копия)",
+  "form_id": "00000873|DBM_Kaidan_Patch.esp",
+  "type": "WEAP FULL",
+  "index": null,
+  "editor_id": "KaiAthameREPLICA"
+ },
+ {
+  "original": "Kaidan's War Bow (replica)",
+  "string": "Боевой Лук Кайдена (копия)",
+  "form_id": "00000874|DBM_Kaidan_Patch.esp",
+  "type": "WEAP FULL",
+  "index": null,
+  "editor_id": "KaiBowREPLICA"
+ },
+ {
+  "original": "Kaidan's Nodachi (replica)",
+  "string": "Нодачи Кайдена (копия)",
+  "form_id": "00000875|DBM_Kaidan_Patch.esp",
+  "type": "WEAP FULL",
+  "index": null,
+  "editor_id": "KaiNodachiREPLICA"
+ },
+ {
+  "original": "Staff of the Deadlands (replica)",
+  "string": "Посох Мертвых Земель (копия)",
+  "form_id": "00000876|DBM_Kaidan_Patch.esp",
+  "type": "WEAP FULL",
+  "index": null,
+  "editor_id": "KaiRosStaffREPLICA"
+ },
+ {
+  "original": "Old Wooden Sword (replica)",
+  "string": "Старый Деревянный Меч (копия)",
+  "form_id": "00000877|DBM_Kaidan_Patch.esp",
+  "type": "WEAP FULL",
+  "index": null,
+  "editor_id": "KaiWoodenSwordREPLICA"
+ },
+ {
+  "original": "Deadland Temple Talisman (replica)",
+  "string": "Талисман храма Мертвых Земель (копия)",
+  "form_id": "00000871|DBM_Kaidan_Patch.esp",
+  "type": "KEYM FULL",
+  "index": null,
+  "editor_id": "KaiDeadlandKeyREPLICA"
+ },
+ {
+  "original": "Kaidan",
+  "string": "Кайден",
+  "form_id": "0000089B|DBM_Kaidan_Patch.esp",
+  "type": "QUST FULL",
+  "index": null,
+  "editor_id": "DBM_Kaidan"
+ }
+]

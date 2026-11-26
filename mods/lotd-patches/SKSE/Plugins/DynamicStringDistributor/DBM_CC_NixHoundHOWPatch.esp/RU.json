@@ -1,0 +1,66 @@
+[
+ {
+  "original": "My Pet Nix-Hound Display",
+  "string": "Экспозиция \"Мой питомец: никс-гончая\"",
+  "form_id": "00000808|DBM_CC_NixHoundHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DummyACTNixHound"
+ },
+ {
+  "original": "Spell Tome: Teleport Pet Nix-Hound",
+  "string": "Книга заклинаний: телепортировать питомца, никс-гончую",
+  "form_id": "00000809|DBM_CC_NixHoundHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTNixHoundTome"
+ },
+ {
+  "original": "Spell Tome: Teleport Pet Nix-Hound",
+  "string": "Книга заклинаний: телепортировать питомца, никс-гончую",
+  "form_id": "00000813|ccbgssse035-petnhound.esl",
+  "type": "BOOK FULL",
+  "index": null,
+  "editor_id": "ccBGSSSE035_SpellTomeSummonPet"
+ },
+ {
+  "original": "<font face'$HandwrittenFont'><font size='40'><p align='center'>\r\nTeleport Pet: Nix-Hound",
+  "string": "<font face'$HandwrittenFont'><font size='40'><p align='center'>\r\nТелепортировать питомца: никс-гончая",
+  "form_id": "00000813|ccbgssse035-petnhound.esl",
+  "type": "BOOK DESC",
+  "index": null,
+  "editor_id": "ccBGSSSE035_SpellTomeSummonPet"
+ },
+ {
+  "original": "Spell Tome: Teleport Pet Nix-Hound (replica)",
+  "string": "Книга заклинаний: телепортировать питомца, никс-гончую (копия)",
+  "form_id": "00000A1F|DBM_CC_NixHoundHOWPatch.esp",
+  "type": "BOOK FULL",
+  "index": null,
+  "editor_id": "DBM_CC_NixHoundTomeREPLICA"
+ },
+ {
+  "original": "<font face'$HandwrittenFont'><font size='40'><p align='center'>\r\nTeleport Pet: Nix-Hound",
+  "string": "<font face'$HandwrittenFont'><font size='40'><p align='center'>\r\nТелепортировать питомца: никс-гончая",
+  "form_id": "00000A1F|DBM_CC_NixHoundHOWPatch.esp",
+  "type": "BOOK DESC",
+  "index": null,
+  "editor_id": "DBM_CC_NixHoundTomeREPLICA"
+ },
+ {
+  "original": "Hall of Wonders",
+  "string": "Зал чудес",
+  "form_id": "000104C9|DBM_CC_HallOfWonders.esp",
+  "type": "CELL FULL",
+  "index": null,
+  "editor_id": "DBMDGHallofWondersCC"
+ },
+ {
+  "original": "NixHound Handler",
+  "string": "Никс-гончая (служебный)",
+  "form_id": "00000807|DBM_CC_NixHoundHOWPatch.esp",
+  "type": "QUST FULL",
+  "index": null,
+  "editor_id": "DBM_CC_NixHoundHandler"
+ }
+]

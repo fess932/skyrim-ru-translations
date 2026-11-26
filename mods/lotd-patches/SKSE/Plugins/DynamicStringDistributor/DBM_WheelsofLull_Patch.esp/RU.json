@@ -1,0 +1,354 @@
+[
+ {
+  "original": "Clockwork Drill",
+  "string": "Заводной Бур",
+  "form_id": "0000086B|DBM_WheelsofLull_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTLullCWDrill"
+ },
+ {
+  "original": "Clockwork Mace",
+  "string": "Заводная Булава",
+  "form_id": "00000870|DBM_WheelsofLull_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTLullCWMace"
+ },
+ {
+  "original": "Bells of Sotha Sil",
+  "string": "Колокола Сота Сила",
+  "form_id": "00000872|DBM_WheelsofLull_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTLullBellHammer"
+ },
+ {
+  "original": "Rod of Ohm",
+  "string": "Жезл Ома",
+  "form_id": "00000874|DBM_WheelsofLull_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTLullRodofOhm"
+ },
+ {
+  "original": "Artophysical Manipulator",
+  "string": "Артофизический Манипулятор",
+  "form_id": "00000876|DBM_WheelsofLull_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTLullArtoManipulator"
+ },
+ {
+  "original": "Goveri's Unwinder",
+  "string": "Остановитель Говери",
+  "form_id": "00000878|DBM_WheelsofLull_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTLullunwinder"
+ },
+ {
+  "original": "Registry Cleaning Tool",
+  "string": "Очищающий инструмент",
+  "form_id": "0000087A|DBM_WheelsofLull_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTLullRegCleaner"
+ },
+ {
+  "original": "Reboot Tool",
+  "string": "Инструмент для перезагрузки",
+  "form_id": "0000087C|DBM_WheelsofLull_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTLullRebootTool"
+ },
+ {
+  "original": "Defragmentation Tool",
+  "string": "Инструмент для дефрагментации",
+  "form_id": "0000087E|DBM_WheelsofLull_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTLullDefragTool"
+ },
+ {
+  "original": "Diagnosing Staff",
+  "string": "Диагностический Посох",
+  "form_id": "00000880|DBM_WheelsofLull_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTLullDiagTool"
+ },
+ {
+  "original": "Magnusian Visor",
+  "string": "Визор Магнуса",
+  "form_id": "00000882|DBM_WheelsofLull_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTLullMagnusianVisor"
+ },
+ {
+  "original": "Mark of Seht",
+  "string": "Метка Сета",
+  "form_id": "00000884|DBM_WheelsofLull_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTLullMarkofSeht"
+ },
+ {
+  "original": "Sehtic Security Pack",
+  "string": "Защитный Набор Сета",
+  "form_id": "00000886|DBM_WheelsofLull_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTLullSecurityPack"
+ },
+ {
+  "original": "Micro Clock",
+  "string": "Микрочасы",
+  "form_id": "00000888|DBM_WheelsofLull_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTLullMicroclock"
+ },
+ {
+  "original": "Diving Helmet",
+  "string": "Водолазный шлем",
+  "form_id": "0000088A|DBM_WheelsofLull_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTLullDivingHelm"
+ },
+ {
+  "original": "Chronographer Helmet",
+  "string": "Шлем хронографа",
+  "form_id": "0000088C|DBM_WheelsofLull_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTLullChronoHelm"
+ },
+ {
+  "original": "Chronographer Robes",
+  "string": "Одеяние хронографа",
+  "form_id": "0000088E|DBM_WheelsofLull_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTLullChronoRobes"
+ },
+ {
+  "original": "Chronographer Gloves",
+  "string": "Перчатки хронографа",
+  "form_id": "00000890|DBM_WheelsofLull_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTLullChronoGloves"
+ },
+ {
+  "original": "Chronographer Boots",
+  "string": "Сапоги хронографа",
+  "form_id": "00000892|DBM_WheelsofLull_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTLullChronoBoots"
+ },
+ {
+  "original": "Llavados' Accelerator",
+  "string": "Ускоритель Лавадоса",
+  "form_id": "00000894|DBM_WheelsofLull_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTLullGunAccelorator"
+ },
+ {
+  "original": "Standard Harquebus",
+  "string": "Обычная Аркебуза",
+  "form_id": "00000896|DBM_WheelsofLull_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTLullGunStandardHarquebus"
+ },
+ {
+  "original": "Combatative Harquebus",
+  "string": "Боевая Аркебуза",
+  "form_id": "00000898|DBM_WheelsofLull_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTLullGunCombatativeHarquebus"
+ },
+ {
+  "original": "Targetian Harquebus",
+  "string": "Прицельная Аркебуза",
+  "form_id": "0000089A|DBM_WheelsofLull_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTLullGunTargetianHarquebus"
+ },
+ {
+  "original": "Bombastic Harquebus",
+  "string": "Пушечная Аркебуза",
+  "form_id": "0000089C|DBM_WheelsofLull_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTLullGunBombasticHarquebus"
+ },
+ {
+  "original": "Lullian Harquebus",
+  "string": "Аркебуза Затишья",
+  "form_id": "0000089E|DBM_WheelsofLull_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTLullGunLullianHarquebus"
+ },
+ {
+  "original": "Rotational Harquebus",
+  "string": "Вращающаяся Аркебуза",
+  "form_id": "000008A0|DBM_WheelsofLull_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTLullGunRotationalHarquebus"
+ },
+ {
+  "original": "Memodermic Greatsword",
+  "string": "Мемодермический большой меч",
+  "form_id": "000008AB|DBM_WheelsofLull_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTLullMemodermicGreatsword"
+ },
+ {
+  "original": "Dwemeri Cutting Sphere",
+  "string": "Двемерская Режущая Сфера",
+  "form_id": "000008AD|DBM_WheelsofLull_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTLullDwemeriCuttingSphere"
+ },
+ {
+  "original": "Lullian Shield",
+  "string": "Щит Затишья",
+  "form_id": "000008AF|DBM_WheelsofLull_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTLullLullianShield"
+ },
+ {
+  "original": "Clockwork Sword - White",
+  "string": "Заводной меч - Белый",
+  "form_id": "000008B2|DBM_WheelsofLull_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTLullCWSwordWhite"
+ },
+ {
+  "original": "Clockwork Sword - Orange",
+  "string": "Заводной меч - Оранжевый",
+  "form_id": "000008B4|DBM_WheelsofLull_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTLullCWSwordOrange"
+ },
+ {
+  "original": "Clockwork Sword - Blue",
+  "string": "Заводной меч - Синий",
+  "form_id": "000008B6|DBM_WheelsofLull_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTLullCWSwordBlue"
+ },
+ {
+  "original": "Clockwork Sword - Yellow",
+  "string": "Заводной меч - Желтый",
+  "form_id": "000008B8|DBM_WheelsofLull_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTLullCWSwordYellow"
+ },
+ {
+  "original": "Clockwork Sword - Green",
+  "string": "Заводной меч - Зеленый",
+  "form_id": "000008BA|DBM_WheelsofLull_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTLullCWSwordGreen"
+ },
+ {
+  "original": "Clockwork Sword - Purple",
+  "string": "Заводной меч - Фиолетовый",
+  "form_id": "000008BC|DBM_WheelsofLull_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTLullCWSwordPurple"
+ },
+ {
+  "original": "Clockwork Sword - Red",
+  "string": "Заводной меч - Красный",
+  "form_id": "000008BE|DBM_WheelsofLull_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTLullCWSwordRed"
+ },
+ {
+  "original": "The Wheels of Lull Quest",
+  "string": "Задание \"Колеса Затишья\"",
+  "form_id": "000008C6|DBM_WheelsofLull_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_LullQuestSign"
+ },
+ {
+  "original": "Lull-Mor Entrance",
+  "string": "Вход в Лулл-Мор",
+  "form_id": "000008E7|DBM_WheelsofLull_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "PKY_FlagLullMor"
+ },
+ {
+  "original": "Plot Course:",
+  "string": "Установить курс:",
+  "form_id": "000008E7|DBM_WheelsofLull_Patch.esp",
+  "type": "ACTI RNAM",
+  "index": null,
+  "editor_id": "PKY_FlagLullMor"
+ },
+ {
+  "original": "Lullian Shield (replica)",
+  "string": "Щит Затишья (копия)",
+  "form_id": "000008F6|DBM_WheelsofLull_Patch.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "_Lull_LullianShieldREPLICA"
+ },
+ {
+  "original": "Wheels of Lull Items",
+  "string": "Предметы из Wheels of Lull",
+  "form_id": "000008C2|DBM_WheelsofLull_Patch.esp",
+  "type": "CONT FULL",
+  "index": null,
+  "editor_id": "DBM_CheatCrateWheelsofLull"
+ },
+ {
+  "original": "Artophysical Manipulator (replica)",
+  "string": "Артофизический Манипулятор (копия)",
+  "form_id": "000008F0|DBM_WheelsofLull_Patch.esp",
+  "type": "WEAP FULL",
+  "index": null,
+  "editor_id": "_Lull_ArtophysicalManipulatorREPLICA"
+ },
+ {
+  "original": "Lullian Harquebus (replica)",
+  "string": "Аркебуза Затишья (копия)",
+  "form_id": "000008F4|DBM_WheelsofLull_Patch.esp",
+  "type": "WEAP FULL",
+  "index": null,
+  "editor_id": "_Lull_Harquebus5REPLICA"
+ },
+ {
+  "original": "Wheels of Lull Support Handler",
+  "string": "Поддержка Колес Затишья (служебный)",
+  "form_id": "000008C4|DBM_WheelsofLull_Patch.esp",
+  "type": "QUST FULL",
+  "index": null,
+  "editor_id": "DBM_SupportedModWheelsofLull"
+ }
+]

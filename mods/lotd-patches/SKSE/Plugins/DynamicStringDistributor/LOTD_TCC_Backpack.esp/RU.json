@@ -1,0 +1,18 @@
+[
+ {
+  "original": "The Curators Companion - Adventurer's Backpack",
+  "string": "Помощник куратора - Рюкзак искателя приключений",
+  "form_id": "00000803|LOTD_TCC_Backpack.esp",
+  "type": "QUST FULL",
+  "index": null,
+  "editor_id": "TCC_SM_BackPack"
+ },
+ {
+  "original": "<font color='#<Alias=ColourAlias>'>The Curators Companion: Mod Complete (Adventurer's Backpack)</font>",
+  "string": "<font color='#<Alias=ColourAlias>'>Компаньон куратора: Мод завершен (Рюкзак искателя приключений)</font>",
+  "form_id": "00000802|LOTD_TCC_Backpack.esp",
+  "type": "MESG DESC",
+  "index": null,
+  "editor_id": "_CompleteNotification_Backpack"
+ }
+]

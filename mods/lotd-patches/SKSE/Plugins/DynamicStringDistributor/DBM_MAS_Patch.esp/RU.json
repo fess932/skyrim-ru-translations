@@ -1,0 +1,146 @@
+[
+ {
+  "original": "Moon and Star Quest",
+  "string": "Задание \"Луна и Звезда\"",
+  "form_id": "0000088A|DBM_MAS_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_MASQuestDisplay"
+ },
+ {
+  "original": "Dorana's Hammer",
+  "string": "Молот Дораны",
+  "form_id": "0000084E|DBM_MAS_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DoranaHammerDISP"
+ },
+ {
+  "original": "Magebane",
+  "string": "Гибель магов",
+  "form_id": "00000837|DBM_MAS_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_MagebaneACT"
+ },
+ {
+  "original": "Staff of Hellfire",
+  "string": "Посох адского пламени",
+  "form_id": "00000842|DBM_MAS_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_HellfireACT"
+ },
+ {
+  "original": "Mace of Slurring",
+  "string": "Булава невнятности",
+  "form_id": "00000847|DBM_MAS_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_SlurringACT"
+ },
+ {
+  "original": "Black Hands Dagger",
+  "string": "Кинжал Черных Рук",
+  "form_id": "0000084A|DBM_MAS_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBMBlackhanddaggerACT"
+ },
+ {
+  "original": "Book from Kagrenar",
+  "string": "Книга от Кагренара",
+  "form_id": "0000084B|DBM_MAS_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_MASMemoriesofDorana"
+ },
+ {
+  "original": "Moon and Star",
+  "string": "Луна и Звезда",
+  "form_id": "00000866|DBM_MAS_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_MASQuestPlaque"
+ },
+ {
+  "original": "Moon and Star Ring",
+  "string": "Кольцо Луны и Звезды",
+  "form_id": "0000086C|DBM_MAS_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_MoonandStarAct"
+ },
+ {
+  "original": "Moon and Star Items",
+  "string": "Предметы из Луны и Звезды",
+  "form_id": "00000804|DBM_MAS_Patch.esp",
+  "type": "CONT FULL",
+  "index": null,
+  "editor_id": "DBM_CheatCrateMAS"
+ },
+ {
+  "original": "Strongbox",
+  "string": "Сейф",
+  "form_id": "00000991|DBM_MAS_Patch.esp",
+  "type": "CONT FULL",
+  "index": null,
+  "editor_id": "DBM_MoonandStarBOX"
+ },
+ {
+  "original": "Magebane",
+  "string": "Гибель магов",
+  "form_id": "00000832|DBM_MAS_Patch.esp",
+  "type": "WEAP FULL",
+  "index": null,
+  "editor_id": "DBM_MAS_Magebane"
+ },
+ {
+  "original": "Mace of Slurring",
+  "string": "Булава невнятности",
+  "form_id": "00000838|DBM_MAS_Patch.esp",
+  "type": "WEAP FULL",
+  "index": null,
+  "editor_id": "DBM_MaceofSlurring"
+ },
+ {
+  "original": "Staff of Hellfire",
+  "string": "Посох адского пламени",
+  "form_id": "00000839|DBM_MAS_Patch.esp",
+  "type": "WEAP FULL",
+  "index": null,
+  "editor_id": "DBM_HellfireStaff"
+ },
+ {
+  "original": "Moon and Star Support Handler",
+  "string": "Поддержка Луны и Звезды (служебный)",
+  "form_id": "00000803|DBM_MAS_Patch.esp",
+  "type": "QUST FULL",
+  "index": null,
+  "editor_id": "DBM_SupportedModMAS"
+ },
+ {
+  "original": "Magebane Resistance",
+  "string": "Сопротивление Гибели магов",
+  "form_id": "00000850|DBM_MAS_Patch.esp",
+  "type": "PERK FULL",
+  "index": null,
+  "editor_id": "MagebanePerk"
+ },
+ {
+  "original": "25% Resist Magic when equipped.",
+  "string": "Сопротивление магии 25%, пока предмет экипирован.",
+  "form_id": "00000850|DBM_MAS_Patch.esp",
+  "type": "PERK DESC",
+  "index": null,
+  "editor_id": "MagebanePerk"
+ },
+ {
+  "original": "The Nerevarine, known to scholars as the Protector of Morrowind, arrived in Seyda Neen in the late Third Era. An enigmatic character of enormous power, the Nerevarine quickly ascended to champion many causes on behalf of the dunmeri before vanishing into the lands of Akavir far to the east.",
+  "string": "Нереварин, известный ученым как Защитник Морровинда, прибыл в Сейда Нин в конце Третьей эры. Загадочная личность огромной силы, Нереварин быстро стал поборником многих дел в интересах данмеров, а затем исчез в землях Акавира далеко на востоке.",
+  "form_id": "00000867|DBM_MAS_Patch.esp",
+  "type": "MESG DESC",
+  "index": null,
+  "editor_id": "DBM_MASDisplayMSG"
+ }
+]

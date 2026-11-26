@@ -1,0 +1,34 @@
+[
+ {
+  "original": "Hall of Wonders",
+  "string": "Зал чудес",
+  "form_id": "000104C9|DBM_CC_HallOfWonders.esp",
+  "type": "CELL FULL",
+  "index": null,
+  "editor_id": "DBMDGHallofWondersCC"
+ },
+ {
+  "original": "Blackbone Isle Grotto",
+  "string": "Остров Черной кости - Грот",
+  "form_id": "00000818|ccbgssse031-advcyrus.esm",
+  "type": "CELL FULL",
+  "index": null,
+  "editor_id": "ccBGSSSE031Interior01"
+ },
+ {
+  "original": "The Curators Companion - Dead Man's Dread",
+  "string": "Помощник куратора - Ужас Мертвеца",
+  "form_id": "00000804|LOTD_TCC_DeadMansDread.esp",
+  "type": "QUST FULL",
+  "index": null,
+  "editor_id": "TCC_SM_DeadMansDread"
+ },
+ {
+  "original": "<font color='#<Alias=ColourAlias>'>The Curators Companion: Mod Complete (Dead Man's Dread)</font>",
+  "string": "<font color='#<Alias=ColourAlias>'>Компаньон куратора: Мод завершен (Ужас Мертвеца)</font>",
+  "form_id": "00000803|LOTD_TCC_DeadMansDread.esp",
+  "type": "MESG DESC",
+  "index": null,
+  "editor_id": "_CompleteNotification_DeadMansDread"
+ }
+]

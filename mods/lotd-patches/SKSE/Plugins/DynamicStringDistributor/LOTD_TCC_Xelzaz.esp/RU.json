@@ -1,0 +1,18 @@
+[
+ {
+  "original": "Xelzaz Official TCC Patch Handler",
+  "string": "Официальный патч Помощника куратора для Кселзаза (служебный)",
+  "form_id": "00000809|LOTD_TCC_Xelzaz.esp",
+  "type": "QUST FULL",
+  "index": null,
+  "editor_id": "TCC_SM_Xelzaz"
+ },
+ {
+  "original": "<font color='#<Alias=ColourAlias>'>The Curators Companion: Mod Complete (Follower - Xelzaz)</font>",
+  "string": "<font color='#<Alias=ColourAlias>'>Компаньон куратора: мод завершен (Спутник - Кселзаз)</font>",
+  "form_id": "00000807|LOTD_TCC_Xelzaz.esp",
+  "type": "MESG DESC",
+  "index": null,
+  "editor_id": "_CompleteNotification_Xelzaz"
+ }
+]

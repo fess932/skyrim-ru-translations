@@ -1,0 +1,82 @@
+[
+ {
+  "original": "The Forgotten City Quest Display",
+  "string": "Экспозиция задания \"Забытый город\"",
+  "form_id": "00000808|DBM_ForgottenCity_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_QPlaqueForgottenCity"
+ },
+ {
+  "original": "Read Plaque:",
+  "string": "Прочитать табличку:",
+  "form_id": "00000808|DBM_ForgottenCity_Patch.esp",
+  "type": "ACTI RNAM",
+  "index": null,
+  "editor_id": "DBM_QPlaqueForgottenCity"
+ },
+ {
+  "original": "The Arbiter's Helm",
+  "string": "Шлем Арбитра",
+  "form_id": "0000080B|DBM_ForgottenCity_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTFCArbiterHelm"
+ },
+ {
+  "original": "Talisman of the Silver Tongue",
+  "string": "Талисман серебряного языка",
+  "form_id": "0000080C|DBM_ForgottenCity_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTFCSilverTongueAmmy"
+ },
+ {
+  "original": "Immaculate Dwarven Helmet",
+  "string": "Двемерский безупречный шлем",
+  "form_id": "0000080D|DBM_ForgottenCity_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTFCHelm"
+ },
+ {
+  "original": "Immaculate Dwarven Armor",
+  "string": "Двемерская безупречная броня",
+  "form_id": "0000080E|DBM_ForgottenCity_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTFCArmor"
+ },
+ {
+  "original": "Immaculate Dwarven Gauntlets",
+  "string": "Двемерские безупречные перчатки",
+  "form_id": "0000080F|DBM_ForgottenCity_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTFCGloves"
+ },
+ {
+  "original": "Immaculate Dwarven Boots",
+  "string": "Двемерские безупречные сапоги",
+  "form_id": "00000810|DBM_ForgottenCity_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTFCBoots"
+ },
+ {
+  "original": "Forgotten City Items",
+  "string": "Предметы из Забытого города",
+  "form_id": "00000804|DBM_ForgottenCity_Patch.esp",
+  "type": "CONT FULL",
+  "index": null,
+  "editor_id": "DBM_CheatCrateSMForgottenCity"
+ },
+ {
+  "original": "Supported Mod Forgotten City",
+  "string": "Поддержка мода Forgotten City",
+  "form_id": "00000803|DBM_ForgottenCity_Patch.esp",
+  "type": "QUST FULL",
+  "index": null,
+  "editor_id": "DBM_SupportedModForgottenCity"
+ }
+]

@@ -1,0 +1,50 @@
+[
+ {
+  "original": "Talisman of the Silver Tongue (replica)",
+  "string": "Талисман серебряного языка (копия)",
+  "form_id": "00000800|DBM_ForgottenCity_ReplicaPatch.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "000FCEnchNecklaceSpeechcraftREPLICA"
+ },
+ {
+  "original": "The Arbiter's Helmet (replica)",
+  "string": "Шлем Арбитра (копия)",
+  "form_id": "00000801|DBM_ForgottenCity_ReplicaPatch.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "000FCArmorDwarvenHelmetArbiterREPLICA"
+ },
+ {
+  "original": "Immaculate Dwarven Boots (replica)",
+  "string": "Двемерские безупречные сапоги (копия)",
+  "form_id": "00000802|DBM_ForgottenCity_ReplicaPatch.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "000FCArmorDwarvenBootsREPLICA"
+ },
+ {
+  "original": "Immaculate Dwarven Armor (replica)",
+  "string": "Двемерская безупречная броня (копия)",
+  "form_id": "00000803|DBM_ForgottenCity_ReplicaPatch.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "000FCArmorDwarvenCuirassREPLICA"
+ },
+ {
+  "original": "Immaculate Dwarven Gauntlets (replica)",
+  "string": "Двемерские безупречные перчатки (копия)",
+  "form_id": "00000804|DBM_ForgottenCity_ReplicaPatch.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "000FCArmorDwarvenGauntletsREPLICA"
+ },
+ {
+  "original": "Immaculate Dwarven Helmet (replica)",
+  "string": "Двемерский безупречный шлем (копия)",
+  "form_id": "00000805|DBM_ForgottenCity_ReplicaPatch.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "000FCArmorDwarvenHelmetREPLICA"
+ }
+]

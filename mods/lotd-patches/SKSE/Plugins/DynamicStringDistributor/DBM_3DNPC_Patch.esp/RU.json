@@ -1,0 +1,1458 @@
+[
+ {
+  "original": "Rothvine Gauntlets",
+  "string": "Перчатки охранника особняка Росвайн",
+  "form_id": "00000A3D|DBM_3DNPC_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_ARMORACTRothvineGauntlets"
+ },
+ {
+  "original": "Take",
+  "string": "Взять:",
+  "form_id": "0000089C|DBM_3DNPC_Patch.esp",
+  "type": "ACTI RNAM",
+  "index": null,
+  "editor_id": "AxeOfForgottenKingsFloat_DISP"
+ },
+ {
+  "original": "Birds of a Feather",
+  "string": "Видна птица по полету",
+  "form_id": "000009C7|DBM_3DNPC_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_QuestPlaqueBirdsOfAFeather"
+ },
+ {
+  "original": "Trinity Blade",
+  "string": "Клинок Троих",
+  "form_id": "000009C9|DBM_3DNPC_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_WEAPONACTTrinityTrue"
+ },
+ {
+  "original": "Tategatana",
+  "string": "Татегатана",
+  "form_id": "000009CB|DBM_3DNPC_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_WEAPONACTTategatana"
+ },
+ {
+  "original": "Hanegiri",
+  "string": "Ханегири",
+  "form_id": "000009CD|DBM_3DNPC_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_WEAPONACTHanegiri"
+ },
+ {
+  "original": "Gabania Guard's Helmet",
+  "string": "Шлем стражника Габании",
+  "form_id": "00000A10|DBM_3DNPC_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_ARMORACTGabaniaHelmet"
+ },
+ {
+  "original": "Gabania Guard's Cuirass",
+  "string": "Кираса стражника Габании",
+  "form_id": "00000A11|DBM_3DNPC_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_ARMORACTGabaniaGuardsCuirass"
+ },
+ {
+  "original": "Gabania Guard's Gauntlets",
+  "string": "Перчатки стражника Габании",
+  "form_id": "00000A12|DBM_3DNPC_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_ARMORACTGabaniaGauntlets"
+ },
+ {
+  "original": "Gabania Guard's Boots",
+  "string": "Сапоги стражника Габании",
+  "form_id": "00000A13|DBM_3DNPC_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_ARMORACTGabaniaBoots"
+ },
+ {
+  "original": "Deactivated Spoon",
+  "string": "Деактивированная ложка",
+  "form_id": "00000A15|DBM_3DNPC_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTTwoTailsDwarvenSpoon"
+ },
+ {
+  "original": "Blank Lexicon - Teleportation Machine",
+  "string": "Пустой словарь - телепортационная машина",
+  "form_id": "00000A16|DBM_3DNPC_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTBlankLexicon"
+ },
+ {
+  "original": "Mogo's Mead",
+  "string": "Мед Мого",
+  "form_id": "00000A17|DBM_3DNPC_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTMogosMead"
+ },
+ {
+  "original": "Mogo's Mead (Black-Briar)",
+  "string": "Мед Мого (Черный Вереск)",
+  "form_id": "00000A18|DBM_3DNPC_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTMogosMeadBlackbriar"
+ },
+ {
+  "original": "Marigoth's Crystal",
+  "string": "Кристалл Мэригот",
+  "form_id": "00000A19|DBM_3DNPC_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTMarigothsCrystal"
+ },
+ {
+  "original": "Y'tharil's Sculpted Orc Skull",
+  "string": "Измененный орочий череп И'фарил",
+  "form_id": "00000A1A|DBM_3DNPC_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTOrcSkull"
+ },
+ {
+  "original": "Zora's Cotton",
+  "string": "Пушица Зоры",
+  "form_id": "00000A1B|DBM_3DNPC_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTZoraCotton"
+ },
+ {
+  "original": "Black Mountain Flower",
+  "string": "Черный горноцвет",
+  "form_id": "00000A1C|DBM_3DNPC_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTBlackMountainFlower"
+ },
+ {
+  "original": "Arilwaen's Soul",
+  "string": "Душа Арилвен",
+  "form_id": "00000A1D|DBM_3DNPC_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTArilwaensSoulGem"
+ },
+ {
+  "original": "Three Bees in a Jar",
+  "string": "Три пчелы в банке",
+  "form_id": "00000A1E|DBM_3DNPC_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTUniqueBeesInJar3DNPC"
+ },
+ {
+  "original": "Griffith's Daedric Gauntlets",
+  "string": "Даэдрические перчатки Гриффита",
+  "form_id": "00000A1F|DBM_3DNPC_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_ARMORACTArmorDaedricGauntletsGriffith"
+ },
+ {
+  "original": "Caylene's Spoon",
+  "string": "Ложка Кайлин",
+  "form_id": "00000A20|DBM_3DNPC_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTCaylenesSpoon"
+ },
+ {
+  "original": "Dried Bloodgrass",
+  "string": "Высушенная кровавая трава",
+  "form_id": "00000A21|DBM_3DNPC_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTDriedBloodgrass"
+ },
+ {
+  "original": "Veralene's Comb",
+  "string": "Гребень Вералены",
+  "form_id": "00000A22|DBM_3DNPC_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTVeralenesComb"
+ },
+ {
+  "original": "Drobar's Lucky Coin",
+  "string": "Счастливая монетка Дро'бара",
+  "form_id": "00000A23|DBM_3DNPC_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTDrobarsLuckyCoin"
+ },
+ {
+  "original": "Skjel's Leather Boots",
+  "string": "Кожаные сапоги Скьела",
+  "form_id": "00000A24|DBM_3DNPC_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_ARMORACTSkjelsLeatherBoots"
+ },
+ {
+  "original": "Clario's Alchemical Horker Stew",
+  "string": "Алхимическая похлебка из хоркера",
+  "form_id": "00000A27|DBM_3DNPC_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTClariosStew"
+ },
+ {
+  "original": "Special Cut Horker Meat",
+  "string": "Особое мясо хоркера",
+  "form_id": "00000A28|DBM_3DNPC_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTSpecialCutHorkerMeat"
+ },
+ {
+  "original": "The Writer's Dagger",
+  "string": "Кинжал писателя",
+  "form_id": "00000A29|DBM_3DNPC_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_WEAPONACTBookQuestDagger"
+ },
+ {
+  "original": "Stonefang",
+  "string": "Каменный Клык",
+  "form_id": "00000A2A|DBM_3DNPC_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_WEAPONACTStonefang"
+ },
+ {
+  "original": "Darksteel Dagger",
+  "string": "Кинжал Темной Стали",
+  "form_id": "00000A2B|DBM_3DNPC_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_WEAPONACTDarksteelDagger"
+ },
+ {
+  "original": "Vulwulf's Best Dagger",
+  "string": "Лучший кинжал Вулвульфа",
+  "form_id": "00000A2C|DBM_3DNPC_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_WEAPONACTSteelDagger"
+ },
+ {
+  "original": "Cyrus' Iron Dagger",
+  "string": "Железный кинжал Сайруса",
+  "form_id": "00000A2D|DBM_3DNPC_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_WEAPONACTCyrusIronDagger"
+ },
+ {
+  "original": "Beatrice's Amulet",
+  "string": "Амулет Беатрис",
+  "form_id": "00000A2E|DBM_3DNPC_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_ARMORACTBeatriceAmulet"
+ },
+ {
+  "original": "Na'ir's Boxer Ring",
+  "string": "Кольцо боксера На'ира",
+  "form_id": "00000A2F|DBM_3DNPC_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_ARMORACTNairRing3DNPC"
+ },
+ {
+  "original": "Eldritch's Ring",
+  "string": "Кольцо Илдритча",
+  "form_id": "00000A30|DBM_3DNPC_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_ARMORACTEldritchRing"
+ },
+ {
+  "original": "Alendriel's Ring",
+  "string": "Кольцо Алендриель",
+  "form_id": "00000A31|DBM_3DNPC_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_ARMORACTAlendrielsRing"
+ },
+ {
+  "original": "Grotta's Wedding Ring",
+  "string": "Обручальное кольцо Гротты",
+  "form_id": "00000A32|DBM_3DNPC_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_ARMORACTGrottaRing"
+ },
+ {
+  "original": "Axe of Forgotten Kings",
+  "string": "Топор Забытых Королей",
+  "form_id": "00000A34|DBM_3DNPC_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_WEAPONACTAxeofForgottenKings"
+ },
+ {
+  "original": "Ebony",
+  "string": "Эбонитовое снаряжение",
+  "form_id": "00000A35|DBM_3DNPC_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_WEAPONACTEbony"
+ },
+ {
+  "original": "Pelgurt's Sword",
+  "string": "Меч Пелгурта",
+  "form_id": "00000A36|DBM_3DNPC_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_WEAPONACTPelgurtsSword"
+ },
+ {
+  "original": "Honorbound",
+  "string": "Благородный",
+  "form_id": "00000A37|DBM_3DNPC_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_WEAPONACTHonorbound"
+ },
+ {
+  "original": "Callen's Rusty Iron Sword",
+  "string": "Ржавый железный меч Коллен",
+  "form_id": "00000A38|DBM_3DNPC_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_WEAPONACTCallenIronSword"
+ },
+ {
+  "original": "Slaver's War Axe",
+  "string": "Боевой топор работорговца",
+  "form_id": "00000A39|DBM_3DNPC_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_WEAPONACTSlaveWarAxe"
+ },
+ {
+  "original": "Gutter",
+  "string": "Потрошитель",
+  "form_id": "00000A3A|DBM_3DNPC_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_WEAPONACTGutter"
+ },
+ {
+  "original": "Rothvine Helmet",
+  "string": "Шлем охранника особняка Росвайн",
+  "form_id": "00000A3B|DBM_3DNPC_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_ARMORACTRothvineHelmet"
+ },
+ {
+  "original": "Rothvine Cuirass",
+  "string": "Кираса Ротвайна",
+  "form_id": "00000A3C|DBM_3DNPC_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_ARMORACTRothvineCuirass"
+ },
+ {
+  "original": "Isobel my wife...",
+  "string": "Изобель, жена моя...",
+  "form_id": "00000B56|DBM_3DNPC_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_PlaqueIsobelWife"
+ },
+ {
+  "original": "Rothvine Boots",
+  "string": "Сапоги охранника особняка Росвайн",
+  "form_id": "00000A3E|DBM_3DNPC_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_ARMORACTRothvineBoots"
+ },
+ {
+  "original": "Giant's Armor",
+  "string": "Великанья броня",
+  "form_id": "00000A3F|DBM_3DNPC_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_ARMORACTGiantArmor"
+ },
+ {
+  "original": "Giant's Gauntlets",
+  "string": "Великаньи перчатки",
+  "form_id": "00000A40|DBM_3DNPC_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_ARMORACTGiantGauntlet"
+ },
+ {
+  "original": "Giant's Boots",
+  "string": "Великаньи сапоги",
+  "form_id": "00000A41|DBM_3DNPC_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_ARMORACTGiantBoots"
+ },
+ {
+  "original": "Glathriel's Bow",
+  "string": "Лук Глатриэль",
+  "form_id": "00000A42|DBM_3DNPC_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_WEAPONACTGlathrielBow"
+ },
+ {
+  "original": "Housecarl's Bow",
+  "string": "Лук хускарла",
+  "form_id": "00000A43|DBM_3DNPC_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_WEAPONACTFalathilsBow"
+ },
+ {
+  "original": "Volume 1-4",
+  "string": "Тома 1-4",
+  "form_id": "00000A44|DBM_3DNPC_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_BOOKSETACTBookPaperMirror"
+ },
+ {
+  "original": "The Paper Mirror",
+  "string": "Бумажное зеркало",
+  "form_id": "00000A44|DBM_3DNPC_Patch.esp",
+  "type": "ACTI RNAM",
+  "index": null,
+  "editor_id": "DBM_BOOKSETACTBookPaperMirror"
+ },
+ {
+  "original": "Volume 1 - 6",
+  "string": "Тома 1 - 6",
+  "form_id": "00000A45|DBM_3DNPC_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_BOOKSETACTLathgwenjournal"
+ },
+ {
+  "original": "The Boreal Journal of Lathgwen Evenheart",
+  "string": "Северный дневник Латгвен Ивенхарт",
+  "form_id": "00000A45|DBM_3DNPC_Patch.esp",
+  "type": "ACTI RNAM",
+  "index": null,
+  "editor_id": "DBM_BOOKSETACTLathgwenjournal"
+ },
+ {
+  "original": "The Myth of 7000 Steps",
+  "string": "Миф о 7000 ступенях",
+  "form_id": "00000A46|DBM_3DNPC_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_BOOKACTBookMythOf7000Steps"
+ },
+ {
+  "original": "The Prophecy of The Long Night",
+  "string": "Пророчество о Долгой ночи",
+  "form_id": "00000A47|DBM_3DNPC_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_BOOKACTBookTheProphecyOfTheLongNight"
+ },
+ {
+  "original": "The Cemetary of Forgotten Kings",
+  "string": "Кладбище забытых королей",
+  "form_id": "00000A48|DBM_3DNPC_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_BOOKACTBookTheCemetaryOfForgottenKings"
+ },
+ {
+  "original": "The Duke of Beards",
+  "string": "Герцог бород",
+  "form_id": "00000A49|DBM_3DNPC_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_BOOKACTBookTheDukeOfBeards"
+ },
+ {
+  "original": "Company Manual - Draft",
+  "string": "Черновой вариант Руководства Компании",
+  "form_id": "00000A4A|DBM_3DNPC_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_BOOKACTBookCompanyManual"
+ },
+ {
+  "original": "The Stone Hand",
+  "string": "Каменная рука",
+  "form_id": "00000A4B|DBM_3DNPC_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_BOOKACTBookTheStoneHand"
+ },
+ {
+  "original": "Darksteel",
+  "string": "Темная Сталь",
+  "form_id": "00000A4C|DBM_3DNPC_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_BOOKACTBookDarksteel"
+ },
+ {
+  "original": "Mortar Pestle and Pot",
+  "string": "Ступка, пестик и горшок",
+  "form_id": "00000A4D|DBM_3DNPC_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_BOOKACTBookMortarPestleAndPot"
+ },
+ {
+  "original": "Stolen Correspondence",
+  "string": "Украденная переписка",
+  "form_id": "00000A4E|DBM_3DNPC_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_BOOKACTBookStolenCorrespondence"
+ },
+ {
+  "original": "The Blood of Ysgramor",
+  "string": "Кровь Исграмора",
+  "form_id": "00000A4F|DBM_3DNPC_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_BOOKACTBookTheBloodOfYsgramor"
+ },
+ {
+  "original": "On Prophecies Across Cultures",
+  "string": "Тема пророчества в разных культурах",
+  "form_id": "00000A50|DBM_3DNPC_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_BOOKACTBookOnPropheciesAcrossCultures_"
+ },
+ {
+  "original": " A Winter Siren Vol1",
+  "string": "Зимняя сирена, том 1",
+  "form_id": "00000A51|DBM_3DNPC_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_BOOKACTBookAWinterSirenVol1"
+ },
+ {
+  "original": "Bow of Betrothal",
+  "string": "Лук Бетротал",
+  "form_id": "00000A52|DBM_3DNPC_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_WEAPONACTIsobelLongBow"
+ },
+ {
+  "original": "Sword of Betrothal",
+  "string": "Меч Бетротал",
+  "form_id": "00000A53|DBM_3DNPC_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_WEAPONACTIsobelSteelSword"
+ },
+ {
+  "original": "Battleaxe of Betrothal",
+  "string": "Боевой топор Бетротал",
+  "form_id": "00000A54|DBM_3DNPC_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_WEAPONACTIsobelSteelBattleaxe"
+ },
+ {
+  "original": "Steel Shield of Betrothal",
+  "string": "Стальной щит Бетротал",
+  "form_id": "00000A56|DBM_3DNPC_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_ARMORACTIsobelArmorSteelShield"
+ },
+ {
+  "original": "Iron Shield of Betrothal",
+  "string": "Железный щит Бетротал",
+  "form_id": "00000A57|DBM_3DNPC_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_ARMORACTIsobelIronBandedShield"
+ },
+ {
+  "original": "Betrothal Ring",
+  "string": "Кольцо Бетротал",
+  "form_id": "00000A58|DBM_3DNPC_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_ARMORACTIsobelRingGold"
+ },
+ {
+  "original": "Betrothal Necklace",
+  "string": "Ожерелье Бетротал",
+  "form_id": "00000A59|DBM_3DNPC_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_ARMORACTIsobelNecklaceSilverSapphire"
+ },
+ {
+  "original": "Fake Elder Scroll",
+  "string": "Поддельный Древний свиток",
+  "form_id": "00000A5A|DBM_3DNPC_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_BOOKACTFakeElderScroll"
+ },
+ {
+  "original": "The Raven of Anvil",
+  "string": "Ворон Анвила",
+  "form_id": "00000AFD|DBM_3DNPC_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_QuestPlaqueRavenOfAnvil"
+ },
+ {
+  "original": "Azzarian's Gold",
+  "string": "Золото Аззариана",
+  "form_id": "00000AFE|DBM_3DNPC_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_QuestPlaqueAzzariansGold"
+ },
+ {
+  "original": "Daenlyn's Lute",
+  "string": "Лютня Даэнлина",
+  "form_id": "00000AFF|DBM_3DNPC_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTDaenlynsLute"
+ },
+ {
+  "original": "The Gales Of Guilt",
+  "string": "Буря вины",
+  "form_id": "00000B00|DBM_3DNPC_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_QuestPlaqueTheGalesOfGuilt"
+ },
+ {
+  "original": "Olivia's Staff",
+  "string": "Посох Оливии",
+  "form_id": "00000B01|DBM_3DNPC_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_WEAPONACTOliviasStaff"
+ },
+ {
+  "original": "Blood of Kings",
+  "string": "Кровь королей",
+  "form_id": "00000B02|DBM_3DNPC_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_QuestPlaqueBloodOfKings"
+ },
+ {
+  "original": "The Sleeping Giant",
+  "string": "Спящий великан",
+  "form_id": "00000B03|DBM_3DNPC_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_QuestPlaqueTheSleepingGiant"
+ },
+ {
+  "original": "A Crabber's Wife",
+  "string": "Жена краболова",
+  "form_id": "00000B04|DBM_3DNPC_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_QuestPlaqueACrabbersWife"
+ },
+ {
+  "original": "Blood Of Skyrim Curaiss",
+  "string": "Кираса \"Кровь Скайрима\"",
+  "form_id": "00000B08|DBM_3DNPC_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_ARMORACTBloodOfSkyrimCuraiss"
+ },
+ {
+  "original": "Empty Magicka Bottle",
+  "string": "Пустая бутылка от зелья восстановления магии",
+  "form_id": "00000B17|DBM_3DNPC_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTEmptyMagickaBottle"
+ },
+ {
+  "original": "Maroux's Painting",
+  "string": "Картина Маро",
+  "form_id": "00000B2F|DBM_3DNPC_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_QuestPlaqueMarouxPainting"
+ },
+ {
+  "original": "Maroux's Faux Painting",
+  "string": "Фальшивая картина Маро",
+  "form_id": "00000B30|DBM_3DNPC_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_QuestPlaqueMarouxFalsePainting"
+ },
+ {
+  "original": "Gabania Guard's Gauntlets",
+  "string": "Перчатки стражника Габании",
+  "form_id": "000008D8|DBM_3DNPC_Patch.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "ArmorGuardGauntletsGabania3DNPC"
+ },
+ {
+  "original": "Gabania Guard's Helmet",
+  "string": "Шлем стражника Габании",
+  "form_id": "000008D9|DBM_3DNPC_Patch.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "ArmorGuardHelmet1Gabania3DNPC"
+ },
+ {
+  "original": "Alendriel's Ring (replica)",
+  "string": "Кольцо Алендриель (копия)",
+  "form_id": "00000A77|DBM_3DNPC_Patch.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "AlendrielGoldSapphireREPLICA"
+ },
+ {
+  "original": "Griffith's Daedric Gauntlets (replica)",
+  "string": "Даэдрические перчатки Гриффита (копия)",
+  "form_id": "00000A78|DBM_3DNPC_Patch.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "ArmorDaedricGauntletsGriffithREPLICA"
+ },
+ {
+  "original": "Na'ir's Boxer Ring (replica)",
+  "string": "Кольцо боксера На'ира (копия)",
+  "form_id": "00000AE1|DBM_3DNPC_Patch.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "NairRing3DNPCREPLICA"
+ },
+ {
+  "original": "Gabania Guard's Boots (replica)",
+  "string": "Сапоги стражника Габании (копия)",
+  "form_id": "00000AE2|DBM_3DNPC_Patch.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "ArmorGuardBootsGabania3DNPCREPLICA"
+ },
+ {
+  "original": "Gabania Guard's Cuirass (replica)",
+  "string": "Кираса стражника Габании (копия)",
+  "form_id": "00000AE3|DBM_3DNPC_Patch.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "ArmorGuardCuirassGabania3DNPCREPLICA"
+ },
+ {
+  "original": "Gabania Guard's Gauntlets (replica)",
+  "string": "Перчатки стражника Габании (копия)",
+  "form_id": "00000AE4|DBM_3DNPC_Patch.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "ArmorGuardGauntletsGabania3DNPCREPLICA"
+ },
+ {
+  "original": "Skjel's Leather Boots (replica)",
+  "string": "Кожаные сапоги Скьела (копия)",
+  "form_id": "00000A79|DBM_3DNPC_Patch.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "ArmorLeatherBootsDUPLICATE001REPLICA"
+ },
+ {
+  "original": "Beatrice's Amulet (replica)",
+  "string": "Амулет Беатрис (копия)",
+  "form_id": "00000A7A|DBM_3DNPC_Patch.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "BeatriceAmuletREPLICA"
+ },
+ {
+  "original": "Blood of Skyrim's Cuirass (replica)",
+  "string": "Кираса \"Кровь Скайрима\" (копия)",
+  "form_id": "00000A7B|DBM_3DNPC_Patch.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "BloodofSkyrimCuirassREPLICA"
+ },
+ {
+  "original": "Rothvine Cuirass (replica)",
+  "string": "Кираса Ротвайна (копия)",
+  "form_id": "00000AD5|DBM_3DNPC_Patch.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "ArmorGlassRothvineCuirassREPLICA"
+ },
+ {
+  "original": "Rothvine Gauntlets (replica)",
+  "string": "Перчатки охранника особняка Росвайн (копия)",
+  "form_id": "00000AD6|DBM_3DNPC_Patch.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "ArmorGlassRothvineGauntletsREPLICA"
+ },
+ {
+  "original": "Rothvine Helmet (replica)",
+  "string": "Шлем охранника особняка Росвайн (копия)",
+  "form_id": "00000AD7|DBM_3DNPC_Patch.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "ArmorGlassRothvineHelmet1REPLICA"
+ },
+ {
+  "original": "Gabania Guard's Helmet (replica)",
+  "string": "Шлем стражника Габании (копия)",
+  "form_id": "00000AE5|DBM_3DNPC_Patch.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "ArmorGuardHelmet1Gabania3DNPCREPLICA"
+ },
+ {
+  "original": "Eldritch's Ring (replica)",
+  "string": "Кольцо Илдритча (копия)",
+  "form_id": "00000A7C|DBM_3DNPC_Patch.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "EldritchRingREPLICA"
+ },
+ {
+  "original": "Grotta's Wedding Ring (replica)",
+  "string": "Обручальное кольцо Гротты (копия)",
+  "form_id": "00000A7D|DBM_3DNPC_Patch.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "GrottaRingREPLICA"
+ },
+ {
+  "original": "Steel Shield of Betrothal (replica)",
+  "string": "Стальной щит Бетротал (копия)",
+  "form_id": "00000A7E|DBM_3DNPC_Patch.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "IsobelArmorSteelShieldREPLICA"
+ },
+ {
+  "original": "Iron Shield of Betrothal (replica)",
+  "string": "Железный щит Бетротал (копия)",
+  "form_id": "00000A7F|DBM_3DNPC_Patch.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "IsobelIronBandedShieldREPLICA"
+ },
+ {
+  "original": "Betrothal Necklace (replica)",
+  "string": "Ожерелье Бетротал (копия)",
+  "form_id": "00000A80|DBM_3DNPC_Patch.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "IsobelNecklaceSilverSapphireREPLICA"
+ },
+ {
+  "original": "Betrothal Ring (replica)",
+  "string": "Кольцо Бетротал (копия)",
+  "form_id": "00000A81|DBM_3DNPC_Patch.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "IsobelRingGoldREPLICA"
+ },
+ {
+  "original": "Giant's Boots (replica)",
+  "string": "Великаньи сапоги (копия)",
+  "form_id": "00000A82|DBM_3DNPC_Patch.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "testiger2_GiantBootsREPLICA"
+ },
+ {
+  "original": "Gabania Guard's Boots",
+  "string": "Сапоги стражника Габании",
+  "form_id": "000008D7|DBM_3DNPC_Patch.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "ArmorGuardBootsGabania3DNPC"
+ },
+ {
+  "original": "Giant's Armor (replica)",
+  "string": "Великанья броня (копия)",
+  "form_id": "00000A83|DBM_3DNPC_Patch.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "testiger2_GiantCuirassREPLICA"
+ },
+ {
+  "original": "Giant's Gauntlets (replica)",
+  "string": "Великаньи перчатки (копия)",
+  "form_id": "00000A84|DBM_3DNPC_Patch.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "testiger2_GiantGauntletsREPLICA"
+ },
+ {
+  "original": "Rothvine Boots (replica)",
+  "string": "Сапоги охранника особняка Росвайн (копия)",
+  "form_id": "00000AD4|DBM_3DNPC_Patch.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "ArmorGlassRothvineBootsREPLICA"
+ },
+ {
+  "original": "Fake Elder Scroll (replica)",
+  "string": "Поддельный Древний свиток (копия)",
+  "form_id": "00000A85|DBM_3DNPC_Patch.esp",
+  "type": "BOOK FULL",
+  "index": null,
+  "editor_id": "3DNPCElderScrollREPLICA"
+ },
+ {
+  "original": "<Cool graphic>",
+  "string": "<Cool graphic>",
+  "form_id": "00000A85|DBM_3DNPC_Patch.esp",
+  "type": "BOOK DESC",
+  "index": null,
+  "editor_id": "3DNPCElderScrollREPLICA"
+ },
+ {
+  "original": "The Stone Hand - A Manuscript (replica)",
+  "string": "Каменная Рука - рукопись (копия)",
+  "form_id": "00000B5A|DBM_3DNPC_Patch.esp",
+  "type": "BOOK FULL",
+  "index": null,
+  "editor_id": "Book1TheStoneHandREPLICA"
+ },
+ {
+  "original": "[pagebreak]\r\n<p align=\"center\">\r\n\r\n\r\nBogakh the Stone Hand\r\n\r\n\r\n\r\nby\r\nAnonymous\r\n</p>\r\n\r\n\r\n\r\n[pagebreak]\r\n<p align=\"left\">\r\n<img src='img://Textures/Interface/Books/Illuminated_Letters/A_letter.png'>n Orc follows to the death.\r\n\r\nThose were the words Bogakh the Stone Hand vowed when I questioned his commitment. The last two men who had the misfortune of following me both felt the swift judgment of Arkay. Casimir the Brave died defending me from a Forsworn ambush. His replacement, Sorek the Sellsword, fought valiantly against a Draugr lord, only to be done in by a wolf as the two of us, exhausted from battle, attempted to set up camp in the hills. I may have been anointed blood-kin and bested his chief in fisticuffs, but I wanted to be sure Bogakh knew what he was getting into. My obsession with hoarding, combined with my pitiful constitution, regulated me to a support role. It would be up to him to hold the line.\r\n\r\nBogakh relished the opportunity. His thirst for blood and brawl were only surpassed by his bombastic proclamations of Orc toughness. As we headed east for Rorikstead, staying close to the river, he bombarded me with tales of heroism, not just his heroism, but the heroism of all Orcs. The Orc was a superior warrior, he claimed, not from strength of body (although it helps) but strength of mind. It's simple, really. Humans fear death. Orcs do not.\r\n\r\nHalfway through our journey we came across Gloomreach Cave, tucked against the rock near a grove of withered trees. The cave had been marked by Falmer. At the entrance stood a decorative assembly of human bones, like giant blue butterflies on a stick. Pretty if it weren't so disturbing. The sophistication and macabre of their art tells you everything you need to know about the species. It was time to clear the hive. Bogakh grunted in agreement.\r\n\r\nHis stone hand spoke as loudly as his mouth, reverberating through the cavern as it split open Falmer skulls. He charged blindly on ahead as I harvested Chaurus eggs and admired the tassels of luminous blue that freckled the ceiling. The battle and lights were so intoxicating that neither of us saw how porous the inner hive was, the ground a literal honeycomb of death by falling. Only the real drop was further on ahead. A narrow walkway spiraling around a bottomless abyss. Bogakh didn't see it. All he saw was the coin of greenish, phosphorescent light on the face of a Falmer as it crept up from below.  Bogakh did what he always did.  He charged.  Right toward the ledge.\r\n\r\nI nocked an arrow, hastily trying to shoot Bogakh in the leg, save him from his own aggression. Only my clumsy hands betrayed me, and the Orc stampeded forward toward the enemy. As I fumbled my bow, I was suddenly interrupted by the plangent bell of metal on metal. It was a block! A beautiful, wonderful piece of music!  As I looked up, I saw that my assumption was true.  The Falmer had blocked Bogakh's blow, and it was the block that killed him and saved my companion.   The redounding force had actually pushed the Orc back to safety. Had Bogakh's blow struck, I imagine they both would have careened over the ledge, and I would have been forced to mourn three followers in as many days.\r\n\r\nDragging my sack of Falmer bows, arrows, swords and shields, I stumbled over to Bogakh and patted him on the shoulder, lighting a new torch to illuminate the darkness. The Falmer had fallen with a mighty thud, yet his corpse remained pristine. As I looted it, I fully expected Bogakh to mock my late arrival, or weave this into another tale of Orc bravery at humanity's expense. Yet the mighty Orc never turned to me. Gone were all the taunts and swagger. Borgakh never moved, just kept his eyes fixated on the drop below.\r\n\r\nHe remained silent as we trundled down the slow curve to the bottom. Eventually we found a passageway that led back to the entrance. All that needed to be done was to drop down from a single, ten foot ledge. I threw down my sack of junk and treasure and leapt down after it. Dawn had come, and the ivory tree that stood by the entrance was flanked by four shafts of light. The scene was breathtaking enough that even an Orc might appreciate its ordinary beauty, yet when I turned to Bogakh I found him frozen on the ledge. Looking not at the scenery, but straight down. It was then that I noticed his hands. The Stone Hands were trembling.\r\n\r\nI tried everything. I went back up the ledge and tried pushing him, striking him, and when my arms tired I tried bruising his fragile ego. He never budged. An Orc follows to the death, he boasted, but the only thing dead was his nerves.\r\n\r\nFrom time to time I would return to the cave to check in on my old companion. My old friend. I considered telling his brethren at Dushnikh Yal he died in battle, but I still hold out hope he will conquer his fear and spin it into another harrowing tale. Yet my fear is that many years and many followers later, Bogakh the Cowardly will still be waiting near the entrance of Gloomreach Cavern, unable to jump down from the ledge, a monument to everything an Orc should not be. \r\n\r\nAn Orc who dare not follow.",
+  "string": "[pagebreak]\r\n<p align=\"center\">\r\n\r\n\r\nБогак Каменная Рука\r\n\r\n\r\n\r\nby\r\nАноним\r\n</p>\r\n\r\n\r\n\r\n[pagebreak]\r\n<p align=\"left\">\r\n<img src='img://Textures/Interface/Books/Illuminated_Letters/O_letter.png'>рк верен до смерти. \r\n\r\nЭто были слова Богака Каменной Руки, когда я спросил его, кому он привержен. Последние двое, кто имел несчастье сопровождать меня, оба предстали перед скорым судом Аркея. Казимир Храбрый умер, защищая меня от засады Изгоев. Занявший его место Сорек Наемник доблестно сражался против драугра лорда лишь для того, чтобы позже пасть от зубов волка, пока мы двое, покинув поле битвы, устанавливали лагерь на холмах неподалеку. Может я и был наречен ему родичем по крови и превзошел его вождя в кулачном бою, но я хотел быть уверен, что Богак знает, во что ввязывается. Моя одержимость обороной в сочетании с моей жалкой конституцией определили мне роль поддержки в битвах. И задача сражаться на передовой падала на него.\r\n\r\nБогак наслаждался выпавшей возможностью. Его жажду крови и драки превосходили только его напыщенные прокламации о стойкости орков. Когда мы выступили на восток от Рорикстеда, придерживаясь реки, он бомбардировал меня рассказами о героизме - и не только его героизме, но о героизме всех орков. Орки, как он утверждал, превосходят всех воинов и не только из-за могучих тел (хотя это способствует), но из-за силы их духа. Люди боятся смерти. Орки нет.\r\n\r\nВ середине нашего путешествия мы наткнулись на пещеру Мрачный Предел, укрытую под скалой рядом с рощей засохших деревьев. Пещера была отмечена фалмерами. У входа находилось декоративное собрание человеческих костей, похожее на гигантских голубых бабочек, пришпиленных на колья. Очень красиво, если бы не было так пугающе. Изысканность и зловещесть их искусства расскажет вам все, что нужно знать об их виде. Настало время очистить улей. Богак хмыкнул в знак согласия.\r\n\r\nЕго каменная рука говорила столь же громогласно, как и его уста, эхом разносясь по пещере, когда он крушил черепа фалмеров. Он слепо рвался вперед, пока я собирал яйца коруса и восхищался светящимися голубыми кисточками, покрывавшими потолок. Бой и огни были так опьянительны, что ни один из нас не замечал, каким пористым был внутренний улей. Земля была испещрена ямами, в буквальном смысле превратившись в соты смерти. Однако настоящее падение ждало нас впереди. Узкий спуск, спиралью вьющийся вокруг бесконечной бездны. Богак его не разглядел. Все, что он увидел - зеленоватая монетка, фосфоресцирующий свет на лице подкравшегося к нему снизу фалмера. Богак сделал то, что он делал всегда. Он бросился вперед. Прямо к краю.\r\n\r\nЯ наложил стрелу, спешно пытаясь выстрелить Богаку в ногу, спасти его от собственной агрессии. Но мои неловкие руки предали меня, и орк в пылу битвы бросился вперед на врага. И пока я возился со своим луком, меня вдруг прервал протяжный звон металла о металл. Это был блок! Прекрасная, восхитительная музыка! Когда я взглянул в ту сторону, я увидел, что мое предположение было верно. Фалмер блокировал удар Богака, и именно этот блок убил его и спас моего компаньона. Сила отдачи оттолкнула орка назад, на безопасное расстояние. Если бы удар Богака пробил оборону фалмера, я думаю, они оба бы нависли над уступом, и я был бы вынужден оплакивать третьего своего компаньона.\r\n\r\nВолоча свой мешок с луками, стрелами, мечами и щитами фалмеров, я подошел к Богаку, похлопал его по плечу и зажег новый факел, чтобы осветить темноту. Фалмер упал с громким стуком, но его труп остался нетронутым. Пока я обыскивал его, я ожидал от Богака открытых издевательств над моей медлительностью или завуалированных еще одной историей о превосходстве орочьей храбрости над человеческой. Но могучий орк так и не повернулся ко мне. Все насмешки и чванство исчезли. Богак не двигался, просто взгляд его зациклился на бездне перед ним.\r\n\r\nОн молчал, пока мы медленно шли вниз по извилистому выступу. В конце концов мы нашли проход, который привел обратно к входу. Все, что нужно было сделать, - это спрыгнуть с небольшого, около трех метров в высоту, уступа. Я сбросил вниз свой мешок с барахлом и сокровищами и спрыгнул следом. Наступил рассвет, и дерево из костей, которое стояло у входа, было окружено четырьмя лучами света. Зрелище это было настолько захватывающим, что даже орк мог оценить его обыденную красоту, однако, когда я обратился к Богаку, я не нашел его рядом с собой. Он словно парализованный стоял на выступе. Глядя не на развернувшуюся перед ним красоту, а вниз. Именно тогда я заметил его руку. Каменная рука дрожала.\r\n\r\nЯ испробовал все. Я взобрался назад на выступ и попытался столкнуть его ударами, а когда мои руки устали, я пытался нанести удар по его хрупкому эго. Он так и не сдвинулся с места. Орк верен до смерти, хвастался он, но его собственные нервы его же и подвели.\r\n\r\nВремя от времени я возвращался в пещеру проведать своего старого компаньона. Своего старого друга. Я предпочитаю говорить своим братьям в Душник-Йал, что он погиб в бою, но я все еще питаю надежду, что он поборет свой страх и закружится в вихре очередной душераздирающей истории. А еще я боюсь, что много лет спустя Богак Трусливый все еще будет стоять возле выхода из Мрачного Предела, не способный спрыгнуть с уступа, словно монумент всему тому, чем не должен быть орк. \r\n\r\nОрк, посмевший не пойти следом.",
+  "form_id": "00000B5A|DBM_3DNPC_Patch.esp",
+  "type": "BOOK DESC",
+  "index": null,
+  "editor_id": "Book1TheStoneHandREPLICA"
+ },
+ {
+  "original": "Interesting NPCs Items",
+  "string": "Предметы из Interesting NPCs",
+  "form_id": "00000B0C|DBM_3DNPC_Patch.esp",
+  "type": "CONT FULL",
+  "index": null,
+  "editor_id": "DBM_CheatCrateInterestingNPCs"
+ },
+ {
+  "original": "Zora's Cotton (replica)",
+  "string": "Пушица Зоры (копия)",
+  "form_id": "00000B3E|DBM_3DNPC_Patch.esp",
+  "type": "INGR FULL",
+  "index": null,
+  "editor_id": "ZorasCottonIngredientREPLICA"
+ },
+ {
+  "original": "Black Mountain Flower (replica)",
+  "string": "Черный горноцвет (копия)",
+  "form_id": "00000B3F|DBM_3DNPC_Patch.esp",
+  "type": "INGR FULL",
+  "index": null,
+  "editor_id": "MountainFlower01Black3DNPCREPLICA"
+ },
+ {
+  "original": "Dried Bloodgrass (replica)",
+  "string": "Высушенная кровавая трава (копия)",
+  "form_id": "00000B42|DBM_3DNPC_Patch.esp",
+  "type": "INGR FULL",
+  "index": null,
+  "editor_id": "Bloodgrass1REPLICA"
+ },
+ {
+  "original": "Daenlyn's Lute (replica)",
+  "string": "Лютня Даэнлина (копия)",
+  "form_id": "00000AA7|DBM_3DNPC_Patch.esp",
+  "type": "MISC FULL",
+  "index": null,
+  "editor_id": "DaenlynLute3DNPCREPLICA"
+ },
+ {
+  "original": "Empty Magicka Bottle (replica)",
+  "string": "Пустая бутылка от зелья восстановления магии (копия)",
+  "form_id": "00000AA8|DBM_3DNPC_Patch.esp",
+  "type": "MISC FULL",
+  "index": null,
+  "editor_id": "MagickaBottleEmpty3DNPCREPLICA"
+ },
+ {
+  "original": "Marigoth's Crystal (replica)",
+  "string": "Кристалл Мэригот (копия)",
+  "form_id": "00000B06|DBM_3DNPC_Patch.esp",
+  "type": "MISC FULL",
+  "index": null,
+  "editor_id": "MarigothsCrystalREPLICA"
+ },
+ {
+  "original": "Blank Lexicon - Teleportation Machine (replica)",
+  "string": "Пустой словарь - машина для телепортации (копия)",
+  "form_id": "00000B5C|DBM_3DNPC_Patch.esp",
+  "type": "MISC FULL",
+  "index": null,
+  "editor_id": "AQ_LexiconREPLICA"
+ },
+ {
+  "original": "Drobar's Lucky Coin (replica)",
+  "string": "Счастливая монетка Дро'бара (копия)",
+  "form_id": "00000B67|DBM_3DNPC_Patch.esp",
+  "type": "MISC FULL",
+  "index": null,
+  "editor_id": "DrobarLuckyCoin3DNPCREPLICA"
+ },
+ {
+  "original": "Zora's Cotton",
+  "string": "Пушица Зоры",
+  "form_id": "00000001|DBM_3DNPC_Patch.esp",
+  "type": "TREE FULL",
+  "index": null,
+  "editor_id": "GM_byohhouseingrdZoraCotton01"
+ },
+ {
+  "original": "Black Mountain Flower",
+  "string": "Черный горноцвет",
+  "form_id": "00000002|DBM_3DNPC_Patch.esp",
+  "type": "TREE FULL",
+  "index": null,
+  "editor_id": "GM_byohhouseingrdmtflblack01"
+ },
+ {
+  "original": "Bloodgrass",
+  "string": "Кровавая трава",
+  "form_id": "00000003|DBM_3DNPC_Patch.esp",
+  "type": "TREE FULL",
+  "index": null,
+  "editor_id": "GM_byohhouseingrdBloodGrass01"
+ },
+ {
+  "original": "Black Mountain Flower",
+  "string": "Черный горноцвет",
+  "form_id": "00000B51|DBM_3DNPC_Patch.esp",
+  "type": "TREE FULL",
+  "index": null,
+  "editor_id": "TreeFloraMountainFlower01Black3DNPCDISP"
+ },
+ {
+  "original": "Zora's Cotton",
+  "string": "Пушица Зоры",
+  "form_id": "00000B52|DBM_3DNPC_Patch.esp",
+  "type": "TREE FULL",
+  "index": null,
+  "editor_id": "ZorasCottonDISP"
+ },
+ {
+  "original": "Especially effective against undead.",
+  "string": "Особенно эффективен против нежити.",
+  "form_id": "00144638|3DNPC.esp",
+  "type": "WEAP DESC",
+  "index": null,
+  "editor_id": "Honorbound"
+ },
+ {
+  "original": "Gutter",
+  "string": "Потрошитель",
+  "form_id": "000008C4|DBM_3DNPC_Patch.esp",
+  "type": "WEAP FULL",
+  "index": null,
+  "editor_id": "GM_Gutter"
+ },
+ {
+  "original": "Ebony (replica)",
+  "string": "Эбонитовое снаряжение (копия)",
+  "form_id": "00000A63|DBM_3DNPC_Patch.esp",
+  "type": "WEAP FULL",
+  "index": null,
+  "editor_id": "Moris_EbonyREPLICA"
+ },
+ {
+  "original": "Axe of Forgotten Kings (replica)",
+  "string": "Топор Забытых Королей (копия)",
+  "form_id": "00000A64|DBM_3DNPC_Patch.esp",
+  "type": "WEAP FULL",
+  "index": null,
+  "editor_id": "3DNPCAxeofKings2REPLICA"
+ },
+ {
+  "original": "Hanegiri (replica)",
+  "string": "Ханегири (копия)",
+  "form_id": "00000A65|DBM_3DNPC_Patch.esp",
+  "type": "WEAP FULL",
+  "index": null,
+  "editor_id": "AkaviriKatanaSpecialREPLICA"
+ },
+ {
+  "original": "Tategatana (replica)",
+  "string": "Татегатана (копия)",
+  "form_id": "00000A66|DBM_3DNPC_Patch.esp",
+  "type": "WEAP FULL",
+  "index": null,
+  "editor_id": "AkaviriKatanaSpecial1REPLICA"
+ },
+ {
+  "original": "The Writer's Dagger (replica)",
+  "string": "Кинжал писателя (копия)",
+  "form_id": "00000A67|DBM_3DNPC_Patch.esp",
+  "type": "WEAP FULL",
+  "index": null,
+  "editor_id": "BookQuestDaggerREPLICA"
+ },
+ {
+  "original": "Callen's Rusty Iron Sword (replica)",
+  "string": "Ржавый железный меч Коллен (копия)",
+  "form_id": "00000A68|DBM_3DNPC_Patch.esp",
+  "type": "WEAP FULL",
+  "index": null,
+  "editor_id": "CallenIronSwordREPLICA"
+ },
+ {
+  "original": "Olivia's Staff (replica)",
+  "string": "Посох Оливии (копия)",
+  "form_id": "00000A69|DBM_3DNPC_Patch.esp",
+  "type": "WEAP FULL",
+  "index": null,
+  "editor_id": "CWQQStaffREPLICA"
+ },
+ {
+  "original": "Darksteel Dagger (replica)",
+  "string": "Кинжал Темной Стали (копия)",
+  "form_id": "00000A6A|DBM_3DNPC_Patch.esp",
+  "type": "WEAP FULL",
+  "index": null,
+  "editor_id": "DarksteelDaggerREPLICA"
+ },
+ {
+  "original": "Housecarl's Bow (replica)",
+  "string": "Лук хускарла (копия)",
+  "form_id": "00000A6B|DBM_3DNPC_Patch.esp",
+  "type": "WEAP FULL",
+  "index": null,
+  "editor_id": "FalathilsBowREPLICA"
+ },
+ {
+  "original": "Glathriel's Bow (replica)",
+  "string": "Лук Глатриэль (копия)",
+  "form_id": "00000A6C|DBM_3DNPC_Patch.esp",
+  "type": "WEAP FULL",
+  "index": null,
+  "editor_id": "GlathrielBowREPLICA"
+ },
+ {
+  "original": "Gutter (replica)",
+  "string": "Потрошитель (копия)",
+  "form_id": "00000A6D|DBM_3DNPC_Patch.esp",
+  "type": "WEAP FULL",
+  "index": null,
+  "editor_id": "GM_GutterREPLICA"
+ },
+ {
+  "original": "Cyrus' Iron Dagger (replica)",
+  "string": "Железный кинжал Сайруса (копия)",
+  "form_id": "00000A6E|DBM_3DNPC_Patch.esp",
+  "type": "WEAP FULL",
+  "index": null,
+  "editor_id": "IronDagger3mq3REPLICA"
+ },
+ {
+  "original": "Bow of Betrothal (replica)",
+  "string": "Лук Бетротал (копия)",
+  "form_id": "00000A6F|DBM_3DNPC_Patch.esp",
+  "type": "WEAP FULL",
+  "index": null,
+  "editor_id": "IsobelLongBowREPLICA"
+ },
+ {
+  "original": "Battleaxe of Betrothal (replica)",
+  "string": "Боевой топор Бетротал (копия)",
+  "form_id": "00000A70|DBM_3DNPC_Patch.esp",
+  "type": "WEAP FULL",
+  "index": null,
+  "editor_id": "IsobelSteelBattleaxeREPLICA"
+ },
+ {
+  "original": "Sword of Betrothal (replica)",
+  "string": "Меч Бетротал (копия)",
+  "form_id": "00000A71|DBM_3DNPC_Patch.esp",
+  "type": "WEAP FULL",
+  "index": null,
+  "editor_id": "IsobelSteelSwordREPLICA"
+ },
+ {
+  "original": "Pelgurt's Sword (replica)",
+  "string": "Меч Пелгурта (копия)",
+  "form_id": "00000A72|DBM_3DNPC_Patch.esp",
+  "type": "WEAP FULL",
+  "index": null,
+  "editor_id": "PelgurtSword_RealREPLICA"
+ },
+ {
+  "original": "Slaver's War Axe (replica)",
+  "string": "Боевой топор работорговца (копия)",
+  "form_id": "00000A73|DBM_3DNPC_Patch.esp",
+  "type": "WEAP FULL",
+  "index": null,
+  "editor_id": "SlaveWarAxeREPLICA"
+ },
+ {
+  "original": "Stonefang (replica)",
+  "string": "Каменный Клык (копия)",
+  "form_id": "00000A74|DBM_3DNPC_Patch.esp",
+  "type": "WEAP FULL",
+  "index": null,
+  "editor_id": "StoneFang3DNPCREPLICA"
+ },
+ {
+  "original": "Trinity Blade (replica)",
+  "string": "Клинок Троих (копия)",
+  "form_id": "00000A75|DBM_3DNPC_Patch.esp",
+  "type": "WEAP FULL",
+  "index": null,
+  "editor_id": "TrinityBlade_3DNPCREPLICA"
+ },
+ {
+  "original": "Vulwulf's Best Dagger (replica)",
+  "string": "Лучший кинжал Вульвульфа (копия)",
+  "form_id": "00000A76|DBM_3DNPC_Patch.esp",
+  "type": "WEAP FULL",
+  "index": null,
+  "editor_id": "VulwulfBestDaggerREPLICA"
+ },
+ {
+  "original": "Honorbound (replica)",
+  "string": "Благородный (копия)",
+  "form_id": "00000AB8|DBM_3DNPC_Patch.esp",
+  "type": "WEAP FULL",
+  "index": null,
+  "editor_id": "HonorboundREPLICA"
+ },
+ {
+  "original": "Especially effective against undead.",
+  "string": "Особенно эффективен против нежити.",
+  "form_id": "00000AB8|DBM_3DNPC_Patch.esp",
+  "type": "WEAP DESC",
+  "index": null,
+  "editor_id": "HonorboundREPLICA"
+ },
+ {
+  "original": "Clario's Alchemical Horker Stew (replica)",
+  "string": "Алхимическая похлебка из хоркера (копия)",
+  "form_id": "00000B44|DBM_3DNPC_Patch.esp",
+  "type": "ALCH FULL",
+  "index": null,
+  "editor_id": "ClarioStewREPLICA"
+ },
+ {
+  "original": "Special Cut Horker Meat (replica)",
+  "string": "Особое мясо хоркера (копия)",
+  "form_id": "00000B58|DBM_3DNPC_Patch.esp",
+  "type": "ALCH FULL",
+  "index": null,
+  "editor_id": "CallenHorkerMeatREPLICA"
+ },
+ {
+  "original": "Arilwaen's Soul (replica)",
+  "string": "Душа Арилвен (копия)",
+  "form_id": "00000AA9|DBM_3DNPC_Patch.esp",
+  "type": "SLGM FULL",
+  "index": null,
+  "editor_id": "ArilweanSoulGem3DNPCREPLICA"
+ },
+ {
+  "original": "Interesting NPCs",
+  "string": "Интересные NPC (служебный)",
+  "form_id": "00000B0E|DBM_3DNPC_Patch.esp",
+  "type": "QUST FULL",
+  "index": null,
+  "editor_id": "DBM_InterestingNPCs"
+ },
+ {
+  "original": "The Dragonborn solves the puzzle of Azzarian's Treasure...really?",
+  "string": "Довакин разгадывает загадку сокровища Аззариана... или нет?",
+  "form_id": "00000B35|DBM_3DNPC_Patch.esp",
+  "type": "MESG DESC",
+  "index": null,
+  "editor_id": "AzzariansGoldQSTMSG"
+ },
+ {
+  "original": "Azzarian's Gold",
+  "string": "Золото Аззариана",
+  "form_id": "00000B35|DBM_3DNPC_Patch.esp",
+  "type": "MESG FULL",
+  "index": null,
+  "editor_id": "AzzariansGoldQSTMSG"
+ },
+ {
+  "original": "The Dragonborn assists a cowardly witch who dreams of becoming an all-powerful hag, and gains a new Dremora ally in the process!",
+  "string": "Довакин помогает трусливой ведьме, мечтающей стать всемогущей каргой, и обретает нового союзника - дремору!",
+  "form_id": "00000B36|DBM_3DNPC_Patch.esp",
+  "type": "MESG DESC",
+  "index": null,
+  "editor_id": "BidsofaFeatherQSTMSG"
+ },
+ {
+  "original": "Birds of a Feather",
+  "string": "Видна птица по полету",
+  "form_id": "00000B36|DBM_3DNPC_Patch.esp",
+  "type": "MESG FULL",
+  "index": null,
+  "editor_id": "BidsofaFeatherQSTMSG"
+ },
+ {
+  "original": "The Dragonborn helps a former soldier with amnesia reunite with the family he left behind.",
+  "string": "Довакин помогает бывшему солдату, потерявшему память, воссоединиться с оставленной семьей.",
+  "form_id": "00000B37|DBM_3DNPC_Patch.esp",
+  "type": "MESG DESC",
+  "index": null,
+  "editor_id": "ACrabbersWifeQSTMSG"
+ },
+ {
+  "original": "A Crabber's Wife",
+  "string": "Жена краболова",
+  "form_id": "00000B37|DBM_3DNPC_Patch.esp",
+  "type": "MESG FULL",
+  "index": null,
+  "editor_id": "ACrabbersWifeQSTMSG"
+ },
+ {
+  "original": "The Dragonborn vanquishes Larsdon, the \"Beast who cannot be slain\"!",
+  "string": "Довакин одолевает Ларсдона, \"Зверя, которого невозможно убить\"!",
+  "form_id": "00000B38|DBM_3DNPC_Patch.esp",
+  "type": "MESG DESC",
+  "index": null,
+  "editor_id": "BloodOfKings01QSTMSG"
+ },
+ {
+  "original": "Blood of Kings",
+  "string": "Кровь королей",
+  "form_id": "00000B38|DBM_3DNPC_Patch.esp",
+  "type": "MESG FULL",
+  "index": null,
+  "editor_id": "BloodOfKings01QSTMSG"
+ },
+ {
+  "original": "The Dragonborn leads a ragtag band of adventurers to steal a great treasure guarded by a mythical Giant.",
+  "string": "Довакин ведет пеструю шайку искателей приключений, чтобы похитить великое сокровище, которое охраняет легендарный великан.",
+  "form_id": "00000B31|DBM_3DNPC_Patch.esp",
+  "type": "MESG DESC",
+  "index": null,
+  "editor_id": "TheSleepingGiantQSTMSG"
+ },
+ {
+  "original": "The Sleeping Giant",
+  "string": "Спящий великан",
+  "form_id": "00000B31|DBM_3DNPC_Patch.esp",
+  "type": "MESG FULL",
+  "index": null,
+  "editor_id": "TheSleepingGiantQSTMSG"
+ },
+ {
+  "original": "What began as a simple delivery mission for the Dragonborn ends up as a legal proceeding with a man's life at stake!",
+  "string": "То, что начиналось для Довакина как простое поручение доставить посылку, оборачивается судебным разбирательством, где на кону жизнь человека!",
+  "form_id": "00000B39|DBM_3DNPC_Patch.esp",
+  "type": "MESG DESC",
+  "index": null,
+  "editor_id": "TheGalesOfGuiltQSTMSG"
+ },
+ {
+  "original": "The Gales of Guilt",
+  "string": "Буря вины",
+  "form_id": "00000B39|DBM_3DNPC_Patch.esp",
+  "type": "MESG FULL",
+  "index": null,
+  "editor_id": "TheGalesOfGuiltQSTMSG"
+ },
+ {
+  "original": "The Dragonborn aids the Raven of Anvil in obtaining a true \"Treasure\".",
+  "string": "Довакин помогает Ворону Анвила заполучить настоящее \"сокровище\".",
+  "form_id": "00000B32|DBM_3DNPC_Patch.esp",
+  "type": "MESG DESC",
+  "index": null,
+  "editor_id": "TheRavenOfAnvilQSTMSG"
+ },
+ {
+  "original": "The Raven of Anvil",
+  "string": "Ворон Анвила",
+  "form_id": "00000B32|DBM_3DNPC_Patch.esp",
+  "type": "MESG FULL",
+  "index": null,
+  "editor_id": "TheRavenOfAnvilQSTMSG"
+ },
+ {
+  "original": "Isobel my dear, thank you for these lovely gifts!",
+  "string": "Изобель, моя дорогая, спасибо тебе за эти чудесные подарки!",
+  "form_id": "00000B55|DBM_3DNPC_Patch.esp",
+  "type": "MESG DESC",
+  "index": null,
+  "editor_id": "IsobelWifeMSG"
+ },
+ {
+  "original": "Isobel my wife...",
+  "string": "Изобель, жена моя...",
+  "form_id": "00000B55|DBM_3DNPC_Patch.esp",
+  "type": "MESG FULL",
+  "index": null,
+  "editor_id": "IsobelWifeMSG"
+ },
+ {
+  "original": "The Dragonborn obtains the final painting of Ester Maroux, arguably the greatest artist and writer of Dwarven stories. ",
+  "string": "Довакин получает последнюю картину Эстер Маро - пожалуй, величайшей художницы и сочинительницы историй о двемерах. ",
+  "form_id": "00000B33|DBM_3DNPC_Patch.esp",
+  "type": "MESG DESC",
+  "index": null,
+  "editor_id": "AThousandWords01QSTMSG"
+ },
+ {
+  "original": "Maroux's Painting",
+  "string": "Картина Маро",
+  "form_id": "00000B33|DBM_3DNPC_Patch.esp",
+  "type": "MESG FULL",
+  "index": null,
+  "editor_id": "AThousandWords01QSTMSG"
+ },
+ {
+  "original": "The Dragonborn obtains the final painting of Ester Maroux, arguably the greatest artist and writer of Dwarven stories. ",
+  "string": "Довакин получает последнюю картину Эстер Маро - пожалуй, величайшей художницы и сочинительницы историй о двемерах. ",
+  "form_id": "00000B34|DBM_3DNPC_Patch.esp",
+  "type": "MESG DESC",
+  "index": null,
+  "editor_id": "AThousandWords02QSTMSG"
+ },
+ {
+  "original": "Maroux's Faux Painting",
+  "string": "Фальшивая картина Маро",
+  "form_id": "00000B34|DBM_3DNPC_Patch.esp",
+  "type": "MESG FULL",
+  "index": null,
+  "editor_id": "AThousandWords02QSTMSG"
+ }
+]

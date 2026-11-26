@@ -1,0 +1,82 @@
+[
+ {
+  "original": "Madstone of the Ahemmusa (replica)",
+  "string": "Камень безумия Ахеммуза (копия)",
+  "form_id": "00000BCF|DBM_TOK_ReplicaPatchNG.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "TOK_ARMO_MadstoneAmuletREPLICA"
+ },
+ {
+  "original": "Aetherial Amulet (replica)",
+  "string": "Этериевый амулет (копия)",
+  "form_id": "00000BD3|DBM_TOK_ReplicaPatchNG.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "TOK_ARMO_AetherialAmuletREPLICA"
+ },
+ {
+  "original": "Aetherial Boots (replica)",
+  "string": "Этериевые сапоги (копия)",
+  "form_id": "00000BD4|DBM_TOK_ReplicaPatchNG.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "TOK_ARMO_AetherialBootsREPLICA"
+ },
+ {
+  "original": "Aetherial Armor (replica)",
+  "string": "Этериевая броня (копия)",
+  "form_id": "00000BD5|DBM_TOK_ReplicaPatchNG.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "TOK_ARMO_AetherialCuirassREPLICA"
+ },
+ {
+  "original": "Aetherial Gauntlets (replica)",
+  "string": "Этериевые перчатки (копия)",
+  "form_id": "00000BD6|DBM_TOK_ReplicaPatchNG.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "TOK_ARMO_AetherialGauntletsREPLICA"
+ },
+ {
+  "original": "Aetherial Helmet (replica)",
+  "string": "Этериевый шлем (копия)",
+  "form_id": "00000BD7|DBM_TOK_ReplicaPatchNG.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "TOK_ARMO_AetherialHelmetREPLICA"
+ },
+ {
+  "original": "Aetherial Ring (replica)",
+  "string": "Этериевое кольцо (копия)",
+  "form_id": "00000BD8|DBM_TOK_ReplicaPatchNG.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "TOK_ARMO_AetherialRingREPLICA"
+ },
+ {
+  "original": "Ayleid Staff of Chain Lightning (replica)",
+  "string": "Айлейдский посох (копия)",
+  "form_id": "00000BCA|DBM_TOK_ReplicaPatchNG.esp",
+  "type": "WEAP FULL",
+  "index": null,
+  "editor_id": "TOK_WEAP_AyleidStaffREPLICA"
+ },
+ {
+  "original": "Tools of Kagrenac Support Handler",
+  "string": "Поддержка Инструментов Кагренака (служебный)",
+  "form_id": "00000827|DBM_TOK_Patch.esp",
+  "type": "QUST FULL",
+  "index": null,
+  "editor_id": "DBM_ToolsofKagrenacSupportHandler"
+ },
+ {
+  "original": "Adds TOK items to Formlists",
+  "string": "Добавление предметов TOK в списки форм",
+  "form_id": "00000801|DBM_TOK_ReplicaPatchNG.esp",
+  "type": "QUST FULL",
+  "index": null,
+  "editor_id": "DBM_TOK_REPQuest"
+ }
+]

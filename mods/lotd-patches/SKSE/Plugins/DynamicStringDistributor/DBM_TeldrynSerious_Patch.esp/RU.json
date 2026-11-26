@@ -1,0 +1,290 @@
+[
+ {
+  "original": "Chitin Cuirass of Grendis",
+  "string": "Хитиновая кираса Грендиса",
+  "form_id": "00000860|DBM_TeldrynSerious_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTTSR_RewardDLC2ArmorChitinLightCuirass"
+ },
+ {
+  "original": "Shield of the Firewalker",
+  "string": "Щит Странника огня",
+  "form_id": "00000861|DBM_TeldrynSerious_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTTSR_ArmorIronShield"
+ },
+ {
+  "original": "Teldryn's Bounty",
+  "string": "Награда за голову Телдрина",
+  "form_id": "00000875|DBM_TeldrynSerious_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTCCWantedNoteBlood2"
+ },
+ {
+  "original": "Refined Crystal Bow",
+  "string": "Улучшенный кристаллический лук",
+  "form_id": "00000863|DBM_TeldrynSerious_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTTSR_DwarvenBow"
+ },
+ {
+  "original": "Magnhild",
+  "string": "Магнхильд",
+  "form_id": "00000866|DBM_TeldrynSerious_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTTSR_SigrunSword"
+ },
+ {
+  "original": "Uchigatana",
+  "string": "Утигатана",
+  "form_id": "00000864|DBM_TeldrynSerious_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTTSR_AkaviriKatana"
+ },
+ {
+  "original": "Bloodrend",
+  "string": "Разрыв крови",
+  "form_id": "00000865|DBM_TeldrynSerious_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTTSR_VampSword"
+ },
+ {
+  "original": "Gargoyle Shard Ring",
+  "string": "Кольцо из осколка гаргульи",
+  "form_id": "0000084D|DBM_TeldrynSerious_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTTSR_GargoyleRing"
+ },
+ {
+  "original": "Chitin Helmet of Grendis",
+  "string": "Хитиновый шлем Грендиса",
+  "form_id": "0000085D|DBM_TeldrynSerious_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTTSR_RewardDLC2ArmorChitinLightHelmet"
+ },
+ {
+  "original": "Chitin Boots of Grendis",
+  "string": "Хитиновые сапоги Грендиса",
+  "form_id": "0000085E|DBM_TeldrynSerious_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTTSR_RewardDLC2ArmorChitinLightBoots"
+ },
+ {
+  "original": "Chitin Bracers of Grendis",
+  "string": "Хитиновые наручи Грендиса",
+  "form_id": "0000085F|DBM_TeldrynSerious_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTTSR_RewardDLC2ArmorChitinLightGauntlets"
+ },
+ {
+  "original": "Glowstone Sword",
+  "string": "Меч Светящегося Камня",
+  "form_id": "00000862|DBM_TeldrynSerious_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTTSR_GlowstoneSword"
+ },
+ {
+  "original": "Teldryn Serious Quest Display",
+  "string": "Экспозиция задания \"Телдрин Серион\"",
+  "form_id": "00000877|DBM_TeldrynSerious_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_QPlaqueTeldrynSerious"
+ },
+ {
+  "original": "Read Plaque:",
+  "string": "Прочитать табличку:",
+  "form_id": "00000877|DBM_TeldrynSerious_Patch.esp",
+  "type": "ACTI RNAM",
+  "index": null,
+  "editor_id": "DBM_QPlaqueTeldrynSerious"
+ },
+ {
+  "original": "Shield of the Firewalker (replica)",
+  "string": "Щит Странника огня (копия)",
+  "form_id": "0000083A|DBM_TeldrynSerious_Patch.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "TSR_ArmorIronShieldREPLICA"
+ },
+ {
+  "original": "Gargoyle Shard Ring",
+  "string": "Кольцо из осколка гаргульи",
+  "form_id": "0099ADD5|TSR_TeldrynSerious.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "TSRGargoyleRing"
+ },
+ {
+  "original": "Boosts your health by 40 points and grants 10% resistance to fire, frost and lightning.",
+  "string": "Увеличивает запас здоровья на 40 ед. и дает 10% сопротивления огню, морозу и молнии.",
+  "form_id": "0099ADD5|TSR_TeldrynSerious.esp",
+  "type": "ARMO DESC",
+  "index": null,
+  "editor_id": "TSRGargoyleRing"
+ },
+ {
+  "original": "Gargoyle Shard Ring (replica)",
+  "string": "Кольцо из осколка гаргульи (копия)",
+  "form_id": "00000835|DBM_TeldrynSerious_Patch.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "TSRGargoyleRingREPLICA"
+ },
+ {
+  "original": "Chitin Boots of Grendis (replica)",
+  "string": "Хитиновые сапоги Грендиса (копия)",
+  "form_id": "00000836|DBM_TeldrynSerious_Patch.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "TSR_RewardDLC2ArmorChitinLightBootsREPLICA"
+ },
+ {
+  "original": "Chitin Armor of Grendis (replica)",
+  "string": "Хитиновый доспех Грендиса (копия)",
+  "form_id": "00000837|DBM_TeldrynSerious_Patch.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "TSR_RewardDLC2ArmorChitinLightCuirassREPLICA"
+ },
+ {
+  "original": "Chitin Bracers of Grendis (replica)",
+  "string": "Хитиновые наручи Грендиса (копия)",
+  "form_id": "00000838|DBM_TeldrynSerious_Patch.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "TSR_rewardDLC2ArmorChitinLightGauntletsREPLICA"
+ },
+ {
+  "original": "Chitin Helmet of Grendis (replica)",
+  "string": "Хитиновый шлем Грендиса (копия)",
+  "form_id": "00000839|DBM_TeldrynSerious_Patch.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "TSR_RewardDLC2ArmorChitinLightHelmetREPLICA"
+ },
+ {
+  "original": "TeldrynSerious Items",
+  "string": "Предметы TeldrynSerious",
+  "form_id": "00000872|DBM_TeldrynSerious_Patch.esp",
+  "type": "CONT FULL",
+  "index": null,
+  "editor_id": "DBM_CheatCrateTeldrynSerious"
+ },
+ {
+  "original": "Nightshade",
+  "string": "Паслен",
+  "form_id": "0000087B|DBM_TeldrynSerious_Patch.esp",
+  "type": "TREE FULL",
+  "index": null,
+  "editor_id": "TSR_TreeFloraNightshade01"
+ },
+ {
+  "original": "Glowstone Sword",
+  "string": "Меч Светящегося Камня",
+  "form_id": "001ADCFB|TSR_TeldrynSerious.esp",
+  "type": "WEAP FULL",
+  "index": null,
+  "editor_id": "TSR_GlowstoneSword"
+ },
+ {
+  "original": "This lightweight artifact strikes faster than normal weapons.",
+  "string": "Этот легкий артефакт наносит удары быстрее обычного оружия.",
+  "form_id": "001ADCFB|TSR_TeldrynSerious.esp",
+  "type": "WEAP DESC",
+  "index": null,
+  "editor_id": "TSR_GlowstoneSword"
+ },
+ {
+  "original": "Uchigatana",
+  "string": "Утигатана",
+  "form_id": "005C7865|TSR_TeldrynSerious.esp",
+  "type": "WEAP FULL",
+  "index": null,
+  "editor_id": "TSRAkaviriKatana"
+ },
+ {
+  "original": "Bloodrend",
+  "string": "Разрыв крови",
+  "form_id": "009348CB|TSR_TeldrynSerious.esp",
+  "type": "WEAP FULL",
+  "index": null,
+  "editor_id": "TSRVampSword"
+ },
+ {
+  "original": "Magnhild",
+  "string": "Магнхильд",
+  "form_id": "009867D3|TSR_TeldrynSerious.esp",
+  "type": "WEAP FULL",
+  "index": null,
+  "editor_id": "TSRSigrunSword"
+ },
+ {
+  "original": "Glowstone Sword (replica)",
+  "string": "Меч Светящегося Камня (копия)",
+  "form_id": "0000083C|DBM_TeldrynSerious_Patch.esp",
+  "type": "WEAP FULL",
+  "index": null,
+  "editor_id": "TSR_GlowstoneSwordREPLICA"
+ },
+ {
+  "original": "Uchigatana (replica)",
+  "string": "Утигатана (копия)",
+  "form_id": "0000083E|DBM_TeldrynSerious_Patch.esp",
+  "type": "WEAP FULL",
+  "index": null,
+  "editor_id": "TSRAkaviriKatanaREPLICA"
+ },
+ {
+  "original": "Refined Crystal Bow (replica)",
+  "string": "Улучшенный кристаллический лук (копия)",
+  "form_id": "0000083F|DBM_TeldrynSerious_Patch.esp",
+  "type": "WEAP FULL",
+  "index": null,
+  "editor_id": "TSRDwarvenBowREPLICA"
+ },
+ {
+  "original": "Magnhild (replica)",
+  "string": "Магнхильд (копия)",
+  "form_id": "00000840|DBM_TeldrynSerious_Patch.esp",
+  "type": "WEAP FULL",
+  "index": null,
+  "editor_id": "TSRSigrunSwordREPLICA"
+ },
+ {
+  "original": "Bloodrend (replica)",
+  "string": "Разрыв крови (копия)",
+  "form_id": "00000841|DBM_TeldrynSerious_Patch.esp",
+  "type": "WEAP FULL",
+  "index": null,
+  "editor_id": "TSRVampSwordREPLICA"
+ },
+ {
+  "original": "Teldryn Serious",
+  "string": "Серьезный Телдрин",
+  "form_id": "00000874|DBM_TeldrynSerious_Patch.esp",
+  "type": "QUST FULL",
+  "index": null,
+  "editor_id": "DBM_TeldrynSerious"
+ },
+ {
+  "original": "The Dragonborn uncovers a dangerous conspiracy, shedding light on Teldryn Sero's past.",
+  "string": "Довакин раскрывает опасный заговор, проливающий свет на прошлое Телдрина Серо.",
+  "form_id": "00000879|DBM_TeldrynSerious_Patch.esp",
+  "type": "MESG DESC",
+  "index": null,
+  "editor_id": "DBM_QPlaqueTeldrynSeriousMSG"
+ }
+]

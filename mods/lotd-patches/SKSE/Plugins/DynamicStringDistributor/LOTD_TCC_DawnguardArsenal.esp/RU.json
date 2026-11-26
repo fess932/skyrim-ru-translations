@@ -1,0 +1,18 @@
+[
+ {
+  "original": "The Curators Companion - Dawnguard Arsenal",
+  "string": "Помощник куратора - Dawnguard Arsenal",
+  "form_id": "00000803|LOTD_TCC_DawnguardArsenal.esp",
+  "type": "QUST FULL",
+  "index": null,
+  "editor_id": "TCC_SM_Dawnguard"
+ },
+ {
+  "original": "<font color='#<Alias=ColourAlias>'>The Curators Companion: Mod Complete (Dawnguard Arsenal)</font>",
+  "string": "<font color='#<Alias=ColourAlias>'>Компаньон куратора: Мод завершен (Арсенал Стражи Рассвета)</font>",
+  "form_id": "00000804|LOTD_TCC_DawnguardArsenal.esp",
+  "type": "MESG DESC",
+  "index": null,
+  "editor_id": "_CompleteNotification_DawnguardArsenal"
+ }
+]

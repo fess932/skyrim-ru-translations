@@ -1,0 +1,58 @@
+[
+ {
+  "original": "Tribunal Mask Bronze",
+  "string": "Маска Трибунала из бронзы",
+  "form_id": "00000800|DBM_IA_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTIATribunalMaskBronze"
+ },
+ {
+  "original": "Tribunal Mask Silver",
+  "string": "Маска Трибунала из серебра",
+  "form_id": "00000801|DBM_IA_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTIATribunalMaskSilver"
+ },
+ {
+  "original": "Tribunal Mask Gold",
+  "string": "Маска Трибунала из золота",
+  "form_id": "00000802|DBM_IA_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTIATribunalMaskGold"
+ },
+ {
+  "original": "Tribunal Mask Ebony",
+  "string": "Маска Трибунала из эбонита",
+  "form_id": "00000803|DBM_IA_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTIATribunalMaskEbony"
+ },
+ {
+  "original": "Gildergreen Aegis",
+  "string": "Эгида Златолиста",
+  "form_id": "00000806|DBM_IA_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTIAGildergreenShield"
+ },
+ {
+  "original": "Immersive Armors Items",
+  "string": "Предметы из Immersive Armors",
+  "form_id": "0000087B|DBM_IA_Patch.esp",
+  "type": "CONT FULL",
+  "index": null,
+  "editor_id": "DBM_CheatCrateArmoryIA"
+ },
+ {
+  "original": "Immersive Weapons Handler",
+  "string": "Immersive Weapons (служебный)",
+  "form_id": "00000875|DBM_IA_Patch.esp",
+  "type": "QUST FULL",
+  "index": null,
+  "editor_id": "DBM_SupportedModImmersiveArmors"
+ }
+]

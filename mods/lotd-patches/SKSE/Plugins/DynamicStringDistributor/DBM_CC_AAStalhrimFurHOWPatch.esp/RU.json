@@ -1,0 +1,50 @@
+[
+ {
+  "original": "Stalhrim Fur Helmet",
+  "string": "Сталгримовый меховой шлем",
+  "form_id": "00000804|DBM_CC_AAStalhrimFurHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTStalhrimFurHelmet"
+ },
+ {
+  "original": "Stalhrim Fur Armor",
+  "string": "Сталгримовая меховая броня",
+  "form_id": "00000805|DBM_CC_AAStalhrimFurHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTStalhrimFurArmor"
+ },
+ {
+  "original": "Stalhrim Fur Gauntlets",
+  "string": "Сталгримовые меховые перчатки",
+  "form_id": "00000806|DBM_CC_AAStalhrimFurHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTStalhrimFurGauntlets"
+ },
+ {
+  "original": "Stalhrim Fur Boots",
+  "string": "Сталгримовые меховые сапоги",
+  "form_id": "00000807|DBM_CC_AAStalhrimFurHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTStalhrimFurBoots"
+ },
+ {
+  "original": "Hall of Wonders",
+  "string": "Зал чудес",
+  "form_id": "000104C9|DBM_CC_HallOfWonders.esp",
+  "type": "CELL FULL",
+  "index": null,
+  "editor_id": "DBMDGHallofWondersCC"
+ },
+ {
+  "original": "Alt Armors Stalhrim Fur Handler",
+  "string": "Альтернативная броня: сталгрим с мехом (служебный)",
+  "form_id": "00000803|DBM_CC_AAStalhrimFurHOWPatch.esp",
+  "type": "QUST FULL",
+  "index": null,
+  "editor_id": "DBM_CC_StalhrimFurHandler"
+ }
+]

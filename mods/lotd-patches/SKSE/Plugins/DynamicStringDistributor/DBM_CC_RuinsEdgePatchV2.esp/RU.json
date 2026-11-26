@@ -1,0 +1,50 @@
+[
+ {
+  "original": "Ruin's Edge",
+  "string": "Гибельная грань",
+  "form_id": "00000803|DBM_CC_RuinsEdgePatchV2.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBMdisplayCCRuinsEdge"
+ },
+ {
+  "original": "Ruin's Edge",
+  "string": "Гибельная грань",
+  "form_id": "00000812|DBM_CC_RuinsEdgePatchV2.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_exhibitsignCCRuinsEdge"
+ },
+ {
+  "original": "Read Plaque:",
+  "string": "Прочитать табличку:",
+  "form_id": "00000812|DBM_CC_RuinsEdgePatchV2.esp",
+  "type": "ACTI RNAM",
+  "index": null,
+  "editor_id": "DBM_exhibitsignCCRuinsEdge"
+ },
+ {
+  "original": "Ruin's Edge (replica)",
+  "string": "Гибельная грань (копия)",
+  "form_id": "00000804|DBM_CC_RuinsEdgePatchV2.esp",
+  "type": "WEAP FULL",
+  "index": null,
+  "editor_id": "ccBGSSSE004_RuinsEdgeBowREPLICA"
+ },
+ {
+  "original": "Ruin's Edge Handler",
+  "string": "Гибельная грань (служебный)",
+  "form_id": "0000080D|DBM_CC_RuinsEdgePatchV2.esp",
+  "type": "QUST FULL",
+  "index": null,
+  "editor_id": "DBM_CC_RuinsEdgeHandler"
+ },
+ {
+  "original": "Ruin's Edge is an enchanted bow originating from the Shivering Isles. Strikes from the bow are said to have unpredictable negative effects on the target.",
+  "string": "Гибельная грань - зачарованный лук родом с Дрожащих островов. Говорят, что его выстрелы оказывают на цель непредсказуемые губительные эффекты.",
+  "form_id": "00000811|DBM_CC_RuinsEdgePatchV2.esp",
+  "type": "MESG DESC",
+  "index": null,
+  "editor_id": "DBM_CCRuinsEdgeMSG"
+ }
+]

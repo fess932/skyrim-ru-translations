@@ -1,0 +1,18 @@
+[
+ {
+  "original": "The Curators Companion - Spell Knight Armor",
+  "string": "Помощник куратора - Броня рыцаря-мага",
+  "form_id": "00000803|LOTD_TCC_SpellKnightArmor.esp",
+  "type": "QUST FULL",
+  "index": null,
+  "editor_id": "TCC_SM_SpellKnightArmor"
+ },
+ {
+  "original": "<font color='#<Alias=ColourAlias>'>The Curators Companion: Mod Complete (Spell Knight Armor)</font>",
+  "string": "<font color='#<Alias=ColourAlias>'>Компаньон куратора: мод завершен (Броня рыцаря-мага)</font>",
+  "form_id": "00000802|LOTD_TCC_SpellKnightArmor.esp",
+  "type": "MESG DESC",
+  "index": null,
+  "editor_id": "_CompleteNotification_SpellKnightArmor"
+ }
+]

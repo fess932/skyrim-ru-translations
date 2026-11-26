@@ -1,0 +1,10 @@
+[
+ {
+  "original": "Duckys Support Handler",
+  "string": "Поддержка Утенка-норда (служебный)",
+  "form_id": "00000803|DBM_WorldofDucky_Patch.esp",
+  "type": "QUST FULL",
+  "index": null,
+  "editor_id": "DBM_SupportedModDuckys"
+ }
+]

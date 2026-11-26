@@ -1,0 +1,42 @@
+[
+ {
+  "original": "The Staff of Sheogorath",
+  "string": "Посох Шеогората",
+  "form_id": "00000804|DBM_CC_StaffofSheogorathPatchV2.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTCCStaffOfSheogorath"
+ },
+ {
+  "original": "Spoon of Horripilation",
+  "string": "Ложка Щекотки",
+  "form_id": "0000081A|DBM_CC_SaS_ECSS_SoSAddon.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTSpoonOfHorripilation"
+ },
+ {
+  "original": "Staff of Sheogorath (replica)",
+  "string": "Посох Шеогората (копия)",
+  "form_id": "00000803|DBM_CC_StaffofSheogorathPatchV2.esp",
+  "type": "WEAP FULL",
+  "index": null,
+  "editor_id": "ccBGSSSE019_StaffOfSheogorathREPLICA"
+ },
+ {
+  "original": "Spoon of Horripilation (replica)",
+  "string": "Ложка Щекотки (копия)",
+  "form_id": "00000801|DBM_CC_SaS_ECSS_SoSAddon.esp",
+  "type": "WEAP FULL",
+  "index": null,
+  "editor_id": "DBM_CC_SpoonOfHorripilationREPLICA"
+ },
+ {
+  "original": "Hall of Wonders",
+  "string": "Зал чудес",
+  "form_id": "000104C9|DBM_CC_HallOfWonders.esp",
+  "type": "CELL FULL",
+  "index": null,
+  "editor_id": "DBMDGHallofWondersCC"
+ }
+]

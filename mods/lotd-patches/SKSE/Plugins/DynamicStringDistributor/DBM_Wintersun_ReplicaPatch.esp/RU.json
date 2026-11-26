@@ -1,0 +1,42 @@
+[
+ {
+  "original": "Lantern of the Ancestors (replica)",
+  "string": "Фонарь предков (копия)",
+  "form_id": "00000800|DBM_Wintersun_ReplicaPatch.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "WSN_Armor_ElvenLampREPLICA"
+ },
+ {
+  "original": "Tempus Dominus (replica)",
+  "string": "Темпус Доминус (копия)",
+  "form_id": "00000801|DBM_Wintersun_ReplicaPatch.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "WSN_Armor_HourglassREPLICA"
+ },
+ {
+  "original": "Goblet of Infinite Grace (replica)",
+  "string": "Кубок бесконечной милости (копия)",
+  "form_id": "00000802|DBM_Wintersun_ReplicaPatch.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "WSN_Armor_GobletREPLICA"
+ },
+ {
+  "original": "Ebony Raven (replica)",
+  "string": "Эбонитовый ворон (копия)",
+  "form_id": "00000803|DBM_Wintersun_ReplicaPatch.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "WSN_Armor_BirdREPLICA"
+ },
+ {
+  "original": "Stone of the Forebears (replica)",
+  "string": "Камень предков (копия)",
+  "form_id": "00000804|DBM_Wintersun_ReplicaPatch.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "WSN_Armor_SacredStoneREPLICA"
+ }
+]

@@ -1,0 +1,50 @@
+[
+ {
+  "original": "Apotheosis",
+  "string": "Апофеоз",
+  "form_id": "00000809|DBM_IceBladeMonarch_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_ApotheosisACT"
+ },
+ {
+  "original": "Krahvalok",
+  "string": "КраВалок",
+  "form_id": "0000080A|DBM_IceBladeMonarch_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_KrahvalokACT"
+ },
+ {
+  "original": "Iceblade of the Monarch",
+  "string": "Ледяной клинок Монарха",
+  "form_id": "0000080E|DBM_IceBladeMonarch_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_IcebladeACT"
+ },
+ {
+  "original": "Iceblade of the Monarch Items",
+  "string": "Предметы из Ледяного клинка Монарха",
+  "form_id": "00000812|DBM_IceBladeMonarch_Patch.esp",
+  "type": "CONT FULL",
+  "index": null,
+  "editor_id": "DBM_CheatCrateIBM"
+ },
+ {
+  "original": "Apotheosis (replica)",
+  "string": "Апофеоз (копия)",
+  "form_id": "0000080B|DBM_IceBladeMonarch_Patch.esp",
+  "type": "WEAP FULL",
+  "index": null,
+  "editor_id": "FFIBApotheosisStaffREPLICA"
+ },
+ {
+  "original": "Iceblade of the Monarch Support Handler",
+  "string": "Поддержка Ледяного клинка Монарха (служебный)",
+  "form_id": "00000800|DBM_IceBladeMonarch_Patch.esp",
+  "type": "QUST FULL",
+  "index": null,
+  "editor_id": "DBM_SupportedModIBM"
+ }
+]

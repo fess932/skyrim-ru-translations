@@ -1,0 +1,18 @@
+[
+ {
+  "original": "The Curators Companion - Immersive Armors",
+  "string": "Помощник куратора - Immersive Armors",
+  "form_id": "00000803|LOTD_TCC_ImmArm.esp",
+  "type": "QUST FULL",
+  "index": null,
+  "editor_id": "TCC_SM_ImmArm"
+ },
+ {
+  "original": "<font color='#<Alias=ColourAlias>'>The Curators Companion: Mod Complete (Immersive Armors)</font>",
+  "string": "<font color='#<Alias=ColourAlias>'>Компаньон куратора: мод завершен (Immersive Armors)</font>",
+  "form_id": "00000804|LOTD_TCC_ImmArm.esp",
+  "type": "MESG DESC",
+  "index": null,
+  "editor_id": "_CompleteNotification_ImmArm"
+ }
+]

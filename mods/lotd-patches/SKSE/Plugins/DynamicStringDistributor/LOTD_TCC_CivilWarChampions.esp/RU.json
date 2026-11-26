@@ -1,0 +1,18 @@
+[
+ {
+  "original": "The Curators Companion - Civil War Champions",
+  "string": "Помощник куратора - Герои гражданской войны",
+  "form_id": "00000803|LOTD_TCC_CivilWarChampions.esp",
+  "type": "QUST FULL",
+  "index": null,
+  "editor_id": "TCC_SM_CivilWarChampions"
+ },
+ {
+  "original": "<font color='#<Alias=ColourAlias>'>The Curators Companion: Mod Complete (Civil War Champions)</font>",
+  "string": "<font color='#<Alias=ColourAlias>'>Компаньон куратора: Мод завершен (Герои гражданской войны)</font>",
+  "form_id": "00000802|LOTD_TCC_CivilWarChampions.esp",
+  "type": "MESG DESC",
+  "index": null,
+  "editor_id": "_CompleteNotification_CivilWarChampions"
+ }
+]

@@ -1,0 +1,18 @@
+[
+ {
+  "original": "The Curators Companion - Wild Horses",
+  "string": "Помощник куратора - Дикие лошади",
+  "form_id": "00000803|LOTD_TCC_Horses.esp",
+  "type": "QUST FULL",
+  "index": null,
+  "editor_id": "TCC_SM_Horses"
+ },
+ {
+  "original": "<font color='#<Alias=ColourAlias>'>The Curators Companion: Mod Complete (Wild Horses)</font>",
+  "string": "<font color='#<Alias=ColourAlias>'>Компаньон куратора: мод завершен (Дикие лошади)</font>",
+  "form_id": "00000802|LOTD_TCC_Horses.esp",
+  "type": "MESG DESC",
+  "index": null,
+  "editor_id": "_CompleteNotification_Horses"
+ }
+]

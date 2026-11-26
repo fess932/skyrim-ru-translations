@@ -1,0 +1,18 @@
+[
+ {
+  "original": "The Curators Companion - Remiel",
+  "string": "Помощник куратора - Ремиэль",
+  "form_id": "00000806|LOTD_TCC_Remiel.esp",
+  "type": "QUST FULL",
+  "index": null,
+  "editor_id": "TCC_SM_Remiel"
+ },
+ {
+  "original": "<font color='#<Alias=ColourAlias>'>The Curators Companion: Mod Complete (Follower - Remiel)</font>",
+  "string": "<font color='#<Alias=ColourAlias>'>Компаньон куратора: мод завершен (Спутник - Ремиэль)</font>",
+  "form_id": "00000805|LOTD_TCC_Remiel.esp",
+  "type": "MESG DESC",
+  "index": null,
+  "editor_id": "_CompleteNotification_Remiel"
+ }
+]

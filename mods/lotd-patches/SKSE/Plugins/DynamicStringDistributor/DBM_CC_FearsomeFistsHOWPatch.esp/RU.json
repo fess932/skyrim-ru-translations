@@ -1,0 +1,138 @@
+[
+ {
+  "original": "Brawler's Fur Bracers",
+  "string": "Меховые наручи Забияки",
+  "form_id": "00000822|DBM_CC_FearsomeFistsHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTFearsomeFistsFur"
+ },
+ {
+  "original": "Brawler's Hide Bracers",
+  "string": "Сыромятные наручи Забияки",
+  "form_id": "00000823|DBM_CC_FearsomeFistsHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTFearsomeFistsHide"
+ },
+ {
+  "original": "Brawler's Leather Bracers",
+  "string": "Кожаные наручи Забияки",
+  "form_id": "00000824|DBM_CC_FearsomeFistsHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTFearsomeFistsLeather"
+ },
+ {
+  "original": "Brawler's Elven Gauntlets",
+  "string": "Эльфийские перчатки Забияки",
+  "form_id": "00000825|DBM_CC_FearsomeFistsHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTFearsomeFistsElven"
+ },
+ {
+  "original": "Brawler's Scaled Bracers",
+  "string": "Ламеллярные наручи Забияки",
+  "form_id": "00000826|DBM_CC_FearsomeFistsHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTFearsomeFistsScaled"
+ },
+ {
+  "original": "Brawler's Glass Gauntlets",
+  "string": "Стеклянные перчатки Забияки",
+  "form_id": "00000827|DBM_CC_FearsomeFistsHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTFearsomeFistsGlass"
+ },
+ {
+  "original": "Brawler's Dragonscale Gauntlets",
+  "string": "Драконьи чешуйчатые перчатки Забияки",
+  "form_id": "00000828|DBM_CC_FearsomeFistsHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTFearsomeFistsDragonscale"
+ },
+ {
+  "original": "Brawler's Daedric Gauntlets",
+  "string": "Даэдрические перчатки Забияки",
+  "form_id": "00000829|DBM_CC_FearsomeFistsHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTFearsomeFistsDaedric"
+ },
+ {
+  "original": "Brawler's Dragonplate Gauntlets",
+  "string": "Драконьи панцирные перчатки Забияки",
+  "form_id": "0000082A|DBM_CC_FearsomeFistsHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTFearsomeFistsDragonbone"
+ },
+ {
+  "original": "Brawler's Ebony Gauntlets",
+  "string": "Эбонитовые перчатки Забияки",
+  "form_id": "0000082B|DBM_CC_FearsomeFistsHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTFearsomeFistsEbony"
+ },
+ {
+  "original": "Brawler's Steel Plate Gauntlets",
+  "string": "Стальные пластинчатые перчатки Забияки",
+  "form_id": "0000082C|DBM_CC_FearsomeFistsHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTFearsomeFistsSteelPlate"
+ },
+ {
+  "original": "Brawler's Dwarven Gauntlets",
+  "string": "Двемерские перчатки Забияки",
+  "form_id": "0000082D|DBM_CC_FearsomeFistsHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTFearsomeFistsDwemer"
+ },
+ {
+  "original": "Brawler's Orcish Gauntlets",
+  "string": "Орочьи перчатки Забияки",
+  "form_id": "0000082E|DBM_CC_FearsomeFistsHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTFearsomeFistsOrcish"
+ },
+ {
+  "original": "Brawler's Steel Gauntlets",
+  "string": "Стальные перчатки Забияки",
+  "form_id": "0000082F|DBM_CC_FearsomeFistsHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTFearsomeFistsSteel"
+ },
+ {
+  "original": "Brawler's Iron Gauntlets",
+  "string": "Железные перчатки Забияки",
+  "form_id": "00000830|DBM_CC_FearsomeFistsHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTFearsomeFistsIron"
+ },
+ {
+  "original": "Hall of Wonders",
+  "string": "Зал чудес",
+  "form_id": "000104C9|DBM_CC_HallOfWonders.esp",
+  "type": "CELL FULL",
+  "index": null,
+  "editor_id": "DBMDGHallofWondersCC"
+ },
+ {
+  "original": "Fearsome Fists Handler",
+  "string": "Грозные кулаки (служебный)",
+  "form_id": "0000081E|DBM_CC_FearsomeFistsHOWPatch.esp",
+  "type": "QUST FULL",
+  "index": null,
+  "editor_id": "DBM_CC_FearsomeFistsHandler"
+ }
+]

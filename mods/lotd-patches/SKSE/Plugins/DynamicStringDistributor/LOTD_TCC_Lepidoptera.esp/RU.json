@@ -1,0 +1,18 @@
+[
+ {
+  "original": "Lepidoptera Official TCC Patch Handler",
+  "string": "Официальный патч Помощника куратора для Lepidoptera (служебный)",
+  "form_id": "00000806|LOTD_TCC_Lepidoptera.esp",
+  "type": "QUST FULL",
+  "index": null,
+  "editor_id": "TCC_SM_Lepidoptera"
+ },
+ {
+  "original": "<font color='#<Alias=ColourAlias>'>The Curators Companion: Mod Complete (Lepidoptera)</font>",
+  "string": "<font color='#<Alias=ColourAlias>'>Компаньон куратора: мод завершен (Чешуекрылые)</font>",
+  "form_id": "00000805|LOTD_TCC_Lepidoptera.esp",
+  "type": "MESG DESC",
+  "index": null,
+  "editor_id": "_CompleteNotification_Lepidoptera"
+ }
+]

@@ -1,0 +1,18 @@
+[
+ {
+  "original": "If I had a Hammer",
+  "string": "Был бы у меня Молот",
+  "form_id": "00000805|ccbgssse006-stendarshammer.esl",
+  "type": "QUST FULL",
+  "index": null,
+  "editor_id": "ccBGSSSE006_Quest"
+ },
+ {
+  "original": "Stendarrs Hammer Handler",
+  "string": "Молот Стендарра (служебный)",
+  "form_id": "00000806|DBM_CC_StendarrsHammerHOWPatch.esp",
+  "type": "QUST FULL",
+  "index": null,
+  "editor_id": "DBM_CC_StendarrsHammerHandler"
+ }
+]

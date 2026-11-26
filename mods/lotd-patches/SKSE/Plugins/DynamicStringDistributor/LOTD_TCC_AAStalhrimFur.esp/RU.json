@@ -1,0 +1,18 @@
+[
+ {
+  "original": "The Curators Companion - Alternate Armors - Stalhrim Fur",
+  "string": "Помощник куратора - Альтернативная броня - Сталгрим с мехом",
+  "form_id": "00000803|LOTD_TCC_AAStalhrimFur.esp",
+  "type": "QUST FULL",
+  "index": null,
+  "editor_id": "TCC_SM_AAStalhrimFur"
+ },
+ {
+  "original": "<font color='#<Alias=ColourAlias>'>The Curators Companion: Mod Complete (Stalhrim Fur)</font>",
+  "string": "<font color='#<Alias=ColourAlias>'>Компаньон куратора: Мод завершен (Сталгрим с мехом)</font>",
+  "form_id": "00000802|LOTD_TCC_AAStalhrimFur.esp",
+  "type": "MESG DESC",
+  "index": null,
+  "editor_id": "_CompleteNotification_AAStalhrimFur"
+ }
+]

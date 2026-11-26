@@ -1,0 +1,18 @@
+[
+ {
+  "original": "The Curators Companion - Aetherium Armor and Weapons",
+  "string": "Помощник куратора - Этерийская броня и оружие",
+  "form_id": "00000802|LOTD_TCC_Aetherium.esp",
+  "type": "QUST FULL",
+  "index": null,
+  "editor_id": "TCC_SM_Aetherium"
+ },
+ {
+  "original": "<font color='#<Alias=ColourAlias>'>The Curators Companion: Mod Complete (Aetherium Armor and Weapons)</font>",
+  "string": "<font color='#<Alias=ColourAlias>'>Компаньон куратора: Мод завершен (Этериевые доспехи и оружие)</font>",
+  "form_id": "00000804|LOTD_TCC_Aetherium.esp",
+  "type": "MESG DESC",
+  "index": null,
+  "editor_id": "_CompleteNotification_Aetherium"
+ }
+]

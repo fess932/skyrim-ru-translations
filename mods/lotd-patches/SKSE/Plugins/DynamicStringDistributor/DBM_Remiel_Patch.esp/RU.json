@@ -1,0 +1,210 @@
+[
+ {
+  "original": "Remiel's Crossbow",
+  "string": "Арбалет Ремиэль",
+  "form_id": "0000083F|DBM_Remiel_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTHLIODwemerCrossbow"
+ },
+ {
+  "original": "Unique Dwemer Cog",
+  "string": "Необычная двемерская шестерня",
+  "form_id": "00000841|DBM_Remiel_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTHLIOCog"
+ },
+ {
+  "original": "Complex Dynamo Core",
+  "string": "Сложный сердечник",
+  "form_id": "00000842|DBM_Remiel_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTHLIODynamo"
+ },
+ {
+  "original": "Remiel's Contraption",
+  "string": "Хитрое изобретение Ремиэль ",
+  "form_id": "00000843|DBM_Remiel_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTHLIOFinder"
+ },
+ {
+  "original": "Interesting Dwemer Gears",
+  "string": "Любопытные двемерские шестерни",
+  "form_id": "00000844|DBM_Remiel_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTHLIOGear"
+ },
+ {
+  "original": "Shimmering Dwemer Gyro",
+  "string": "Мерцающий двемерский гироскоп",
+  "form_id": "00000845|DBM_Remiel_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTHLIOGyro"
+ },
+ {
+  "original": "Remiel's Items",
+  "string": "Предметы Ремиэля",
+  "form_id": "00000800|DBM_Remiel_Patch.esp",
+  "type": "CONT FULL",
+  "index": null,
+  "editor_id": "DBM_CheatCrateRemiel"
+ },
+ {
+  "original": "Chest",
+  "string": "Сундук",
+  "form_id": "00000821|DBM_Remiel_Patch.esp",
+  "type": "CONT FULL",
+  "index": null,
+  "editor_id": "DBM_CommonChestDwemer"
+ },
+ {
+  "original": "Unique Dwemer Cog",
+  "string": "Необычная двемерская шестерня",
+  "form_id": "0012B784|HLIORemi.esp",
+  "type": "MISC FULL",
+  "index": null,
+  "editor_id": "HLIOCog"
+ },
+ {
+  "original": "Interesting Dwemer Gears",
+  "string": "Любопытные двемерские шестерни",
+  "form_id": "0012B785|HLIORemi.esp",
+  "type": "MISC FULL",
+  "index": null,
+  "editor_id": "HLIOGear"
+ },
+ {
+  "original": "Shimmering Dwemer Gyro",
+  "string": "Мерцающий двемерский гироскоп",
+  "form_id": "0012B786|HLIORemi.esp",
+  "type": "MISC FULL",
+  "index": null,
+  "editor_id": "HLIOGyro"
+ },
+ {
+  "original": "Complex Dynamo Core",
+  "string": "Сложный сердечник",
+  "form_id": "0012B787|HLIORemi.esp",
+  "type": "MISC FULL",
+  "index": null,
+  "editor_id": "HLIODynamo"
+ },
+ {
+  "original": "Remiel's Contraption",
+  "string": "Хитрое изобретение Ремиэль ",
+  "form_id": "001B9569|HLIORemi.esp",
+  "type": "MISC FULL",
+  "index": null,
+  "editor_id": "HLIOFinder"
+ },
+ {
+  "original": "Unique Dwemer Cog (replica)",
+  "string": "Необычная двемерская шестерня (копия)",
+  "form_id": "00000830|DBM_Remiel_Patch.esp",
+  "type": "MISC FULL",
+  "index": null,
+  "editor_id": "HLIOCogREPLICA"
+ },
+ {
+  "original": "Complex Dynamo Core (replica)",
+  "string": "Сложный сердечник (копия)",
+  "form_id": "00000831|DBM_Remiel_Patch.esp",
+  "type": "MISC FULL",
+  "index": null,
+  "editor_id": "HLIODynamoREPLICA"
+ },
+ {
+  "original": "Remiel's Contraption (replica)",
+  "string": "Хитрое изобретение Ремиэль  (копия)",
+  "form_id": "00000832|DBM_Remiel_Patch.esp",
+  "type": "MISC FULL",
+  "index": null,
+  "editor_id": "HLIOFinderREPLICA"
+ },
+ {
+  "original": "Interesting Dwemer Gears (replica)",
+  "string": "Любопытные двемерские шестерни (копия)",
+  "form_id": "00000833|DBM_Remiel_Patch.esp",
+  "type": "MISC FULL",
+  "index": null,
+  "editor_id": "HLIOGearREPLICA"
+ },
+ {
+  "original": "Shimmering Dwemer Gyro (replica)",
+  "string": "Мерцающий двемерский гироскоп (копия)",
+  "form_id": "00000834|DBM_Remiel_Patch.esp",
+  "type": "MISC FULL",
+  "index": null,
+  "editor_id": "HLIOGyroREPLICA"
+ },
+ {
+  "original": "Remi's Crossbow",
+  "string": "Арбалет Ремиэль",
+  "form_id": "00232DD4|HLIORemi.esp",
+  "type": "WEAP FULL",
+  "index": null,
+  "editor_id": "HLIOCrossbow"
+ },
+ {
+  "original": "Attacks with this crossbow ignore 60% of armor.",
+  "string": "При попадании из арбалета игнорируется 60% брони противника.",
+  "form_id": "00232DD4|HLIORemi.esp",
+  "type": "WEAP DESC",
+  "index": null,
+  "editor_id": "HLIOCrossbow"
+ },
+ {
+  "original": "Remiel's Crossbow",
+  "string": "Арбалет Ремиэль",
+  "form_id": "00237EE4|HLIORemi.esp",
+  "type": "WEAP FULL",
+  "index": null,
+  "editor_id": "HLIOCrossbow0"
+ },
+ {
+  "original": "Attacks with this crossbow ignore 60% of armour.",
+  "string": "При попадании из арбалета игнорируется 60% брони противника.",
+  "form_id": "00237EE4|HLIORemi.esp",
+  "type": "WEAP DESC",
+  "index": null,
+  "editor_id": "HLIOCrossbow0"
+ },
+ {
+  "original": "Remi's Crossbow (replica)",
+  "string": "Арбалет Ремиэль (копия)",
+  "form_id": "0000083A|DBM_Remiel_Patch.esp",
+  "type": "WEAP FULL",
+  "index": null,
+  "editor_id": "HLIOCrossbowREPLICA"
+ },
+ {
+  "original": "Attacks with this crossbow ignore 60% of armor.",
+  "string": "При попадании из арбалета игнорируется 60% брони противника.",
+  "form_id": "0000083A|DBM_Remiel_Patch.esp",
+  "type": "WEAP DESC",
+  "index": null,
+  "editor_id": "HLIOCrossbowREPLICA"
+ },
+ {
+  "original": "Remi's Crossbow Bolts",
+  "string": "Арбалетные болты Ремиэль",
+  "form_id": "00232DD7|HLIORemi.esp",
+  "type": "AMMO FULL",
+  "index": null,
+  "editor_id": "HLIOBolt"
+ },
+ {
+  "original": "Remi's Crossbow Bolt",
+  "string": "Болт от арбалета Реми",
+  "form_id": "00237ED9|HLIORemi.esp",
+  "type": "PROJ FULL",
+  "index": null,
+  "editor_id": "HLIOBoltProjectile"
+ }
+]

@@ -1,0 +1,18 @@
+[
+ {
+  "original": "The Curators Companion - Ice Blade of the Monarch",
+  "string": "Помощник куратора - Ледяной клинок Монарха",
+  "form_id": "00000802|LOTD_TCC_IceBlade.esp",
+  "type": "QUST FULL",
+  "index": null,
+  "editor_id": "TCC_SM_IceBlade"
+ },
+ {
+  "original": "<font color='#<Alias=ColourAlias>'>The Curators Companion: Mod Complete (Iceblade of the Monarch)</font>",
+  "string": "<font color='#<Alias=ColourAlias>'>Компаньон куратора: мод завершен (Ледяной клинок Монарх)</font>",
+  "form_id": "00000804|LOTD_TCC_IceBlade.esp",
+  "type": "MESG DESC",
+  "index": null,
+  "editor_id": "_CompleteNotification_IceBlade"
+ }
+]

@@ -1,0 +1,290 @@
+[
+ {
+  "original": "Shadowrend",
+  "string": "Теневик",
+  "form_id": "0000083B|DBM_ArtifactsofBoethiah_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTShadowrend"
+ },
+ {
+  "original": "Goldbrand",
+  "string": "Золотой меч",
+  "form_id": "00000D61|ccbgssse005-goldbrand.esl",
+  "type": "WEAP FULL",
+  "index": null,
+  "editor_id": "ccBGSSSE005_Goldbrand"
+ },
+ {
+  "original": "Sivdur's Respite",
+  "string": "Приют Сивдара",
+  "form_id": "00002FD3|Update.esm",
+  "type": "CELL FULL",
+  "index": null,
+  "editor_id": "ccBGSSSE005Dungeon01"
+ },
+ {
+  "original": "A Matter of Pride",
+  "string": "Дело чести",
+  "form_id": "00000838|ccbgssse005-goldbrand.esl",
+  "type": "QUST FULL",
+  "index": null,
+  "editor_id": "ccBGSSSE005_MainQuest"
+ },
+ {
+  "original": "I've heard a rumor that a historian researching the whereabouts of lost daedric artifacts has recently gone missing. She was last seen in the mountains east of Windhelm.",
+  "string": "До меня дошел слух о том, что недавно пропала ученая-историк, занимавшаяся поисками утраченных даэдрических артефактов. В последний раз ее видели в горах к востоку от Виндхельма.",
+  "form_id": "00000838|ccbgssse005-goldbrand.esl",
+  "type": "QUST CNAM",
+  "index": 100,
+  "editor_id": "ccBGSSSE005_MainQuest"
+ },
+ {
+  "original": "I've found the body of the historian rumored to be researching daedric artifacts at the Sacellum of Boethiah. She appears to have been killed at the hands of Boethiah cultists. I should read her journal to learn more.",
+  "string": "У Часовни Боэтии лежало тело ученой-историка, занимавшейся поисками утраченных даэдрических артефактов. Похоже, ее убили члены культа Боэтии. Надо прочесть ее дневник, чтобы узнать подробности.",
+  "form_id": "00000838|ccbgssse005-goldbrand.esl",
+  "type": "QUST CNAM",
+  "index": 200,
+  "editor_id": "ccBGSSSE005_MainQuest"
+ },
+ {
+  "original": "The historian Eranya was researching Goldbrand, a daedric artifact in the shape of a golden katana. Her notes indicate that she was on her way to discover the burial site of an ancient Nord warrior hidden in the mountains north of Windhelm. I should follow in her footsteps and investigate the burial site myself.",
+  "string": "Историк Эрания изучала Золотой меч - даэдрический артефакт в виде золотой катаны. В ее заметках говорится, что она отправлялась к месту погребения древнего нордского воина, сокрытому в горах к северу от Виндхельма. Надо отправиться туда и осмотреть место погребения.",
+  "form_id": "00000838|ccbgssse005-goldbrand.esl",
+  "type": "QUST CNAM",
+  "index": 300,
+  "editor_id": "ccBGSSSE005_MainQuest"
+ },
+ {
+  "original": "I've discovered the tomb mentioned in Eranya's journal. I should find a way to gain entrance to the tomb.",
+  "string": "Мне удалось найти гробницу, о которой говорится в дневнике Эрании. Надо найти способ попасть в гробницу.",
+  "form_id": "00000838|ccbgssse005-goldbrand.esl",
+  "type": "QUST CNAM",
+  "index": 400,
+  "editor_id": "ccBGSSSE005_MainQuest"
+ },
+ {
+  "original": "I discovered another journal left behind by Eranya, the Imperial historian. In them, they detail that the key to opening the tomb lies in understanding the meaning of the two inscriptions in front of the tomb. Her research notes were left in the Arcanaeum in the College of Winterhold, which should have more details on how the tomb can be opened.",
+  "string": "Мне удалось найти еще один дневник Эрании, имперского историка. В нем говорится, что ключ к открытию гробницы сокрыт в двух надписях, сделанных около входа в гробницу. Исследовательские заметки Эрании остались в Арканеуме Коллегии Винтерхолда. В них должно быть больше информации о том, как открыть гробницу.",
+  "form_id": "00000838|ccbgssse005-goldbrand.esl",
+  "type": "QUST CNAM",
+  "index": 450,
+  "editor_id": "ccBGSSSE005_MainQuest"
+ },
+ {
+  "original": "I have discovered Eranya's research notes in the College of Winterhold Arcanaeum. In her notes, she detailed the means to open Sivdur's Respite, the tomb that the artifact Goldbrand is rumored to be within. I must obtain Sivdur's amulet and the skull of Sivdur's nemesis, Magrathi. The amulet has been passed down for generations in the Battle-Born family and is now possessed by Lars Battle-Born. Magrathi was entombed within Shroud Hearth Barrow, a Nordic ruin near Ivarstead. I will need both relics to gain entrance to the tomb.",
+  "string": "Мне удалось найти исследовательские заметки Эрании в Арканеуме Коллегии Винтерхолда. В заметках она описала, как именно открыть гробницу в Приюте Сивдара, где, по слухам, спрятан Золотой меч. Для этого надо добыть амулет Сивдара и череп заклятого врага Сивдара - Маграти. Амулет передавался из поколения в поколение в клане Сынов Битвы и сейчас находится у Ларса Сына Битвы. Маграти был похоронен в Кургане Погребальный Огонь - нордских руинах близ Айварстеда. Мне понадобятся обе эти реликвии, чтобы открыть гробницу.",
+  "form_id": "00000838|ccbgssse005-goldbrand.esl",
+  "type": "QUST CNAM",
+  "index": 470,
+  "editor_id": "ccBGSSSE005_MainQuest"
+ },
+ {
+  "original": "I've obtained Sivdur's amulet from Lars Battle-Born. I should place it on the pedestal near the entrance of the tomb in Sivdur's Respite.",
+  "string": "Мне удалось заполучить амулет Сивдара. Теперь надо поместить его на пьедестал около входа в гробницу в Приюте Сивдара.",
+  "form_id": "00000838|ccbgssse005-goldbrand.esl",
+  "type": "QUST CNAM",
+  "index": 510,
+  "editor_id": "ccBGSSSE005_MainQuest"
+ },
+ {
+  "original": "I've placed Sivdur's amulet on the pedestal near his tomb. When I did so, one of the doors of the tomb seemed to open. I now need to place Magrathi's skull on the other pedestal.",
+  "string": "Когда амулет Сивдара был размещен на пьедестале возле гробницы, открылась одна из дверей. Нужно поместить на другой пьедестал череп Маграти.",
+  "form_id": "00000838|ccbgssse005-goldbrand.esl",
+  "type": "QUST CNAM",
+  "index": 520,
+  "editor_id": "ccBGSSSE005_MainQuest"
+ },
+ {
+  "original": "I located Magrathi, a powerful dragon priest. I will need to defeat him if I am to claim his skull.",
+  "string": "Мне удалось найти Маграти, могущественного драконьего жреца. Мне надо победить его, чтобы добыть его череп.",
+  "form_id": "00000838|ccbgssse005-goldbrand.esl",
+  "type": "QUST CNAM",
+  "index": 710,
+  "editor_id": "ccBGSSSE005_MainQuest"
+ },
+ {
+  "original": "I have defeated Magrathi. I should reclaim his skull so that I can return it to Sivdur's Respite.",
+  "string": "Мне удалось победить Маграти. Теперь надо забрать его череп и вернуться в Приют Сивдара.",
+  "form_id": "00000838|ccbgssse005-goldbrand.esl",
+  "type": "QUST CNAM",
+  "index": 720,
+  "editor_id": "ccBGSSSE005_MainQuest"
+ },
+ {
+  "original": "I have reclaimed Magrathi's skull. I should place it on the pedestal near the entrance of the tomb in Sivdur's Respite.",
+  "string": "Мне удалось заполучить череп Маграти. Теперь надо поместить его на пьедестал около входа в гробницу в Приюте Сивдара.",
+  "form_id": "00000838|ccbgssse005-goldbrand.esl",
+  "type": "QUST CNAM",
+  "index": 730,
+  "editor_id": "ccBGSSSE005_MainQuest"
+ },
+ {
+  "original": "I've placed Magrathi's skull on the pedestal near his tomb. When I did so, one of the doors of the tomb seemed to open. I now need to place Sivdur's amulet on the other pedestal.",
+  "string": "Когда череп Маграти был размещен на пьедестале возле гробницы, открылась одна из дверей. Нужно поместить на другой пьедестал амулет Сивдара.",
+  "form_id": "00000838|ccbgssse005-goldbrand.esl",
+  "type": "QUST CNAM",
+  "index": 740,
+  "editor_id": "ccBGSSSE005_MainQuest"
+ },
+ {
+  "original": "I've placed both of the relics on the pedestals near the tomb in Sivdur's Respite. As I did so, the final door to the tomb seemed to open. I should see what awaits inside.",
+  "string": "Когда обе реликвии были размещены на пьедесталах возле гробницы в Приюте Сивдара, открылась последняя дверь гробницы. Надо узнать, что внутри.",
+  "form_id": "00000838|ccbgssse005-goldbrand.esl",
+  "type": "QUST CNAM",
+  "index": 800,
+  "editor_id": "ccBGSSSE005_MainQuest"
+ },
+ {
+  "original": "After exploring the tomb in Sivdur's Respite, I have discovered the burial chamber of Sivdur himself. Lying upon an altar is the weapon Rimelink. It seems that whomever was tasked with returning Goldbrand to the tomb failed in their mission.",
+  "string": "В глубине гробницы в Приюте Сивдара мне удалось найти погребальную камеру самого Сивдара. На алтаре лежит оружие - Инеевязь. Похоже, тот, кому поручили вернуть в гробницу Золотой меч, не справился со своей задачей.",
+  "form_id": "00000838|ccbgssse005-goldbrand.esl",
+  "type": "QUST CNAM",
+  "index": 900,
+  "editor_id": "ccBGSSSE005_MainQuest"
+ },
+ {
+  "original": "Following in the Imperial historian Eranya's footsteps, I gained entrance to the tomb in Sivdur's Respite and retrieved the artifact Rimelink.",
+  "string": "Следуя по стопам имперского историка Эраньи, мне удалось проникнуть в гробницу в Приюте Сивдара и забрать артефакт Инеевязь.",
+  "form_id": "00000838|ccbgssse005-goldbrand.esl",
+  "type": "QUST CNAM",
+  "index": 1000,
+  "editor_id": "ccBGSSSE005_MainQuest"
+ },
+ {
+  "original": "Locate the missing historian",
+  "string": "Найти пропавшего историка",
+  "form_id": "00000838|ccbgssse005-goldbrand.esl",
+  "type": "QUST NNAM",
+  "index": 0,
+  "editor_id": "ccBGSSSE005_MainQuest"
+ },
+ {
+  "original": "Read Eranya's journal",
+  "string": "Прочесть дневник Эрании",
+  "form_id": "00000838|ccbgssse005-goldbrand.esl",
+  "type": "QUST NNAM",
+  "index": 20,
+  "editor_id": "ccBGSSSE005_MainQuest"
+ },
+ {
+  "original": "Locate the ancient warrior's tomb",
+  "string": "Определить местоположение гробницы древнего воина",
+  "form_id": "00000838|ccbgssse005-goldbrand.esl",
+  "type": "QUST NNAM",
+  "index": 30,
+  "editor_id": "ccBGSSSE005_MainQuest"
+ },
+ {
+  "original": "Find a way to open the tomb",
+  "string": "Найти способ открыть гробницу",
+  "form_id": "00000838|ccbgssse005-goldbrand.esl",
+  "type": "QUST NNAM",
+  "index": 35,
+  "editor_id": "ccBGSSSE005_MainQuest"
+ },
+ {
+  "original": "Read Eranya's research notes in the Collge of Winterhold Arcanaeum",
+  "string": "Прочесть исследовательские заметки Эрании в Арканеуме Коллегии Винтерхолда",
+  "form_id": "00000838|ccbgssse005-goldbrand.esl",
+  "type": "QUST NNAM",
+  "index": 36,
+  "editor_id": "ccBGSSSE005_MainQuest"
+ },
+ {
+  "original": "Investigate the tomb entrance",
+  "string": "Осмотреть вход в гробницу",
+  "form_id": "00000838|ccbgssse005-goldbrand.esl",
+  "type": "QUST NNAM",
+  "index": 37,
+  "editor_id": "ccBGSSSE005_MainQuest"
+ },
+ {
+  "original": "Obtain Sivdur's amulet from Lars Battle-Born",
+  "string": "Получить амулет Сивдара у Ларса Сына Битвы",
+  "form_id": "00000838|ccbgssse005-goldbrand.esl",
+  "type": "QUST NNAM",
+  "index": 40,
+  "editor_id": "ccBGSSSE005_MainQuest"
+ },
+ {
+  "original": "Place the amulet on the pedestal near Sivdur's tomb",
+  "string": "Поместить амулет на пьедестал около гробницы Сивдара",
+  "form_id": "00000838|ccbgssse005-goldbrand.esl",
+  "type": "QUST NNAM",
+  "index": 43,
+  "editor_id": "ccBGSSSE005_MainQuest"
+ },
+ {
+  "original": "Find Sivdur's betrayer in Shroud Hearth Barrow",
+  "string": "Найти предателя Сивдара в Кургане Погребальный Огонь",
+  "form_id": "00000838|ccbgssse005-goldbrand.esl",
+  "type": "QUST NNAM",
+  "index": 50,
+  "editor_id": "ccBGSSSE005_MainQuest"
+ },
+ {
+  "original": "Defeat Magrathi",
+  "string": "Победить Маграти",
+  "form_id": "00000838|ccbgssse005-goldbrand.esl",
+  "type": "QUST NNAM",
+  "index": 51,
+  "editor_id": "ccBGSSSE005_MainQuest"
+ },
+ {
+  "original": "Obtain Magrathi's skull",
+  "string": "Получить череп Маграти",
+  "form_id": "00000838|ccbgssse005-goldbrand.esl",
+  "type": "QUST NNAM",
+  "index": 52,
+  "editor_id": "ccBGSSSE005_MainQuest"
+ },
+ {
+  "original": "Place Magrathi's skull on the pedestal near Sivdur's tomb",
+  "string": "Поместить череп Маграти на пьедестал около гробницы Сивдара",
+  "form_id": "00000838|ccbgssse005-goldbrand.esl",
+  "type": "QUST NNAM",
+  "index": 53,
+  "editor_id": "ccBGSSSE005_MainQuest"
+ },
+ {
+  "original": "Find the location of Sivdur's amulet",
+  "string": "Определить местонахождение амулета Сивдара",
+  "form_id": "00000838|ccbgssse005-goldbrand.esl",
+  "type": "QUST NNAM",
+  "index": 81,
+  "editor_id": "ccBGSSSE005_MainQuest"
+ },
+ {
+  "original": "Find Magrathi's resting place",
+  "string": "Найти место упокоения Маграти",
+  "form_id": "00000838|ccbgssse005-goldbrand.esl",
+  "type": "QUST NNAM",
+  "index": 82,
+  "editor_id": "ccBGSSSE005_MainQuest"
+ },
+ {
+  "original": "Explore the tomb",
+  "string": "Осмотреть гробницу",
+  "form_id": "00000838|ccbgssse005-goldbrand.esl",
+  "type": "QUST NNAM",
+  "index": 90,
+  "editor_id": "ccBGSSSE005_MainQuest"
+ },
+ {
+  "original": "Retrieve Rimelink",
+  "string": "Забрать Инеевязь",
+  "form_id": "00000838|ccbgssse005-goldbrand.esl",
+  "type": "QUST NNAM",
+  "index": 100,
+  "editor_id": "ccBGSSSE005_MainQuest"
+ },
+ {
+  "original": "Populate Alt With Goldbrand",
+  "string": "Добавление Золотого меча в альтернативы",
+  "form_id": "00000831|DBM_CC_GoldbrandHOWPatch.esp",
+  "type": "QUST FULL",
+  "index": null,
+  "editor_id": "DBM_CC_AddGoldbrand"
+ }
+]

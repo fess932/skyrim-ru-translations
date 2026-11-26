@@ -1,0 +1,10 @@
+[
+ {
+  "original": "Steel Horse Armor DLC Handler",
+  "string": "DLC стальной конской брони (служебный)",
+  "form_id": "00000800|DBM_CC_HorseArmorDLCSteelPatch.esp",
+  "type": "QUST FULL",
+  "index": null,
+  "editor_id": "DBM_CC_HorseArmorDLCSteelHandler"
+ }
+]

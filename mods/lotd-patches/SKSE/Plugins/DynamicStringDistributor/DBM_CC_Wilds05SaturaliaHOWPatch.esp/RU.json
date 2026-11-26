@@ -1,0 +1,58 @@
+[
+ {
+  "original": "Saturalia Hat",
+  "string": "Сапоги Сатуралии",
+  "form_id": "00000804|DBM_CC_Wilds05SaturaliaHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTSaturaliaHat"
+ },
+ {
+  "original": "Saturalia Clothes",
+  "string": "Одежда Сатуралии",
+  "form_id": "00000805|DBM_CC_Wilds05SaturaliaHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTSaturaliaClothes"
+ },
+ {
+  "original": "Saturalia Gloves",
+  "string": "Перчатки Сатуралии",
+  "form_id": "00000806|DBM_CC_Wilds05SaturaliaHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTSaturaliaGloves"
+ },
+ {
+  "original": "Saturalia Boots",
+  "string": "Сапоги Сатуралии",
+  "form_id": "00000807|DBM_CC_Wilds05SaturaliaHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTSaturaliaBoots"
+ },
+ {
+  "original": "Reindeer Bill of Sale",
+  "string": "Купчая на оленя",
+  "form_id": "00000815|DBM_CC_Wilds05SaturaliaHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTSaturaliaReindeer"
+ },
+ {
+  "original": "Hall of Wonders",
+  "string": "Зал чудес",
+  "form_id": "000104C9|DBM_CC_HallOfWonders.esp",
+  "type": "CELL FULL",
+  "index": null,
+  "editor_id": "DBMDGHallofWondersCC"
+ },
+ {
+  "original": "Saturalia Holiday Pack Handler",
+  "string": "Праздничный набор Сатуралии (служебный)",
+  "form_id": "00000803|DBM_CC_Wilds05SaturaliaHOWPatch.esp",
+  "type": "QUST FULL",
+  "index": null,
+  "editor_id": "DBM_CC_Wilds05Handler"
+ }
+]

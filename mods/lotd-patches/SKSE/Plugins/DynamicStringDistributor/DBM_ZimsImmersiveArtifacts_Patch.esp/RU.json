@@ -1,0 +1,18 @@
+[
+ {
+  "original": "Zim's Immersive Artifacts Items",
+  "string": "Предметы из Zim's Immersive Artifacts",
+  "form_id": "0000080C|DBM_ZimsImmersiveArtifacts_Patch.esp",
+  "type": "CONT FULL",
+  "index": null,
+  "editor_id": "DBM_CheatCrateZIM"
+ },
+ {
+  "original": "Zim's Immersive Artifacts Support Handler",
+  "string": "Поддержка Zim's Immersive Artifacts (служебный)",
+  "form_id": "0000080D|DBM_ZimsImmersiveArtifacts_Patch.esp",
+  "type": "QUST FULL",
+  "index": null,
+  "editor_id": "DBM_ZIMSupportHandler"
+ }
+]

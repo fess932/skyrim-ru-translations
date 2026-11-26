@@ -1,0 +1,18 @@
+[
+ {
+  "original": "The Curators Companion - Helgen Reborn",
+  "string": "Помощник куратора - Helgen Reborn",
+  "form_id": "00000800|LOTD_TCC_Helgen.esp",
+  "type": "QUST FULL",
+  "index": null,
+  "editor_id": "TCC_SM_Helgen"
+ },
+ {
+  "original": "<font color='#<Alias=ColourAlias>'>The Curators Companion: Mod Complete (Helgen Reborn)</font>",
+  "string": "<font color='#<Alias=ColourAlias>'>Компаньон куратора: мод завершен (Возрождение Хелгена)</font>",
+  "form_id": "00000804|LOTD_TCC_Helgen.esp",
+  "type": "MESG DESC",
+  "index": null,
+  "editor_id": "_CompleteNotification_Helgen"
+ }
+]

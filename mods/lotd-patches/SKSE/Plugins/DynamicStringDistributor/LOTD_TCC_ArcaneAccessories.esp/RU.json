@@ -1,0 +1,18 @@
+[
+ {
+  "original": "The Curators Companion - Arcane Accessories",
+  "string": "Помощник куратора - Волшебные предметы",
+  "form_id": "00000803|LOTD_TCC_ArcaneAccessories.esp",
+  "type": "QUST FULL",
+  "index": null,
+  "editor_id": "TCC_SM_ArcaneAccessories"
+ },
+ {
+  "original": "<font color='#<Alias=ColourAlias>'>The Curators Companion: Mod Complete (Arcane Accessories)</font>",
+  "string": "<font color='#<Alias=ColourAlias>'>Компаньон куратора: Мод завершен (Волшебные предметы)</font>",
+  "form_id": "00000802|LOTD_TCC_ArcaneAccessories.esp",
+  "type": "MESG DESC",
+  "index": null,
+  "editor_id": "_CompleteNotification_ArcaneAccessories"
+ }
+]

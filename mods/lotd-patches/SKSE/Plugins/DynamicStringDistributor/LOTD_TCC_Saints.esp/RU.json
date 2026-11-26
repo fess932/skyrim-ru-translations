@@ -1,0 +1,26 @@
+[
+ {
+  "original": "Hall of Wonders",
+  "string": "Зал чудес",
+  "form_id": "000104C9|DBM_CC_HallOfWonders.esp",
+  "type": "CELL FULL",
+  "index": null,
+  "editor_id": "DBMDGHallofWondersCC"
+ },
+ {
+  "original": "The Curators Companion - Saints & Seducers",
+  "string": "Помощник куратора - Святые и соблазнители",
+  "form_id": "00000800|LOTD_TCC_Saints.esp",
+  "type": "QUST FULL",
+  "index": null,
+  "editor_id": "TCC_SM_Saints"
+ },
+ {
+  "original": "<font color='#<Alias=ColourAlias>'>The Curators Companion: Mod Complete (Saints & Seducers)</font>",
+  "string": "<font color='#<Alias=ColourAlias>'>Компаньон куратора: мод завершен (Святые и соблазнители)</font>",
+  "form_id": "00000802|LOTD_TCC_Saints.esp",
+  "type": "MESG DESC",
+  "index": null,
+  "editor_id": "_CompleteNotification_Saints"
+ }
+]

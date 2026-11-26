@@ -1,0 +1,74 @@
+[
+ {
+  "original": "Witdrinker (replica)",
+  "string": "Уитдринкер (копия)",
+  "form_id": "00000800|DBM_ZimsThaneWeapons_ReplicaPatch.esp",
+  "type": "WEAP FULL",
+  "index": null,
+  "editor_id": "ZTh_01_Winterhold00REPLICA"
+ },
+ {
+  "original": "Felmod (replica)",
+  "string": "Фэлмод (копия)",
+  "form_id": "00000801|DBM_ZimsThaneWeapons_ReplicaPatch.esp",
+  "type": "WEAP FULL",
+  "index": null,
+  "editor_id": "ZTh_02_Eastmarch00REPLICA"
+ },
+ {
+  "original": "Silverwind (replica)",
+  "string": "Серебряный Ветер (копия)",
+  "form_id": "00000802|DBM_ZimsThaneWeapons_ReplicaPatch.esp",
+  "type": "WEAP FULL",
+  "index": null,
+  "editor_id": "ZTh_03_Falkreath00REPLICA"
+ },
+ {
+  "original": "Icebreaker (replica)",
+  "string": "Ледокол (копия)",
+  "form_id": "00000803|DBM_ZimsThaneWeapons_ReplicaPatch.esp",
+  "type": "WEAP FULL",
+  "index": null,
+  "editor_id": "ZTh_04_ThePale00REPLICA"
+ },
+ {
+  "original": "Mzual (replica)",
+  "string": "Мзуль (копия)",
+  "form_id": "00000804|DBM_ZimsThaneWeapons_ReplicaPatch.esp",
+  "type": "WEAP FULL",
+  "index": null,
+  "editor_id": "ZTh_05_TheReach00REPLICA"
+ },
+ {
+  "original": "Hlardfen (replica)",
+  "string": "Хлардфэн (копия)",
+  "form_id": "00000805|DBM_ZimsThaneWeapons_ReplicaPatch.esp",
+  "type": "WEAP FULL",
+  "index": null,
+  "editor_id": "ZTh_06_Hjaalmarch00REPLICA"
+ },
+ {
+  "original": "Kazogal's Glee (replica)",
+  "string": "Злорадство Кагозала (копия)",
+  "form_id": "00000806|DBM_ZimsThaneWeapons_ReplicaPatch.esp",
+  "type": "WEAP FULL",
+  "index": null,
+  "editor_id": "ZTh_07_Haafingar00REPLICA"
+ },
+ {
+  "original": "Thu'um Fahdon (replica)",
+  "string": "Друг Довакина (копия)",
+  "form_id": "00000807|DBM_ZimsThaneWeapons_ReplicaPatch.esp",
+  "type": "WEAP FULL",
+  "index": null,
+  "editor_id": "ZTh_08_Whiterun00REPLICA"
+ },
+ {
+  "original": "Black Whisper (replica)",
+  "string": "Темный Шепот (копия)",
+  "form_id": "00000808|DBM_ZimsThaneWeapons_ReplicaPatch.esp",
+  "type": "WEAP FULL",
+  "index": null,
+  "editor_id": "ZTh_09_Rift00REPLICA"
+ }
+]

@@ -1,0 +1,74 @@
+[
+ {
+  "original": "My Pet Mudcrab Display",
+  "string": "Экспозиция \"Мой питомец, грязевой краб\"",
+  "form_id": "00000808|DBM_CC_DwMudcrabHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DummyACTDwMudcrab"
+ },
+ {
+  "original": "Spell Tome: Teleport Pet Mudcrab",
+  "string": "Книга заклинаний: телепортировать питомца, грязевого краба",
+  "form_id": "00000809|DBM_CC_DwMudcrabHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTDwMudcrabTome"
+ },
+ {
+  "original": "Ownership Deed - Mudcrab",
+  "string": "Купчая: грязевой краб",
+  "form_id": "0000080E|DBM_CC_DwMudcrabHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTDwMudcrabDeed"
+ },
+ {
+  "original": "Spell Tome: Teleport Pet Mudcrab",
+  "string": "Книга заклинаний: телепортировать питомца, грязевого краба",
+  "form_id": "00000811|ccbgssse010-petdwarvenarmoredmudcrab.esl",
+  "type": "BOOK FULL",
+  "index": null,
+  "editor_id": "ccBGSSSE010_SpellTomeSummonMudcrab"
+ },
+ {
+  "original": "<font face'$HandwrittenFont'><font size='40'><p align='center'>\r\nTeleport Pet: Dwarven Mudcrab",
+  "string": "<font face'$HandwrittenFont'><font size='40'><p align='center'>\r\nТелепортировать питомца: двемерского грязевого краба",
+  "form_id": "00000811|ccbgssse010-petdwarvenarmoredmudcrab.esl",
+  "type": "BOOK DESC",
+  "index": null,
+  "editor_id": "ccBGSSSE010_SpellTomeSummonMudcrab"
+ },
+ {
+  "original": "Spell Tome: Teleport Pet Mudcrab (replica)",
+  "string": "Книга заклинаний: телепортировать питомца, грязевого краба (копия)",
+  "form_id": "0000091D|DBM_CC_DwMudcrabHOWPatch.esp",
+  "type": "BOOK FULL",
+  "index": null,
+  "editor_id": "DBM_CC_SpellTomeSummonMudcrabREPLICA"
+ },
+ {
+  "original": "<font face'$HandwrittenFont'><font size='40'><p align='center'>\r\nTeleport Pet: Dwarven Mudcrab",
+  "string": "<font face'$HandwrittenFont'><font size='40'><p align='center'>\r\nТелепортировать питомца: двемерского грязевого краба",
+  "form_id": "0000091D|DBM_CC_DwMudcrabHOWPatch.esp",
+  "type": "BOOK DESC",
+  "index": null,
+  "editor_id": "DBM_CC_SpellTomeSummonMudcrabREPLICA"
+ },
+ {
+  "original": "Hall of Wonders",
+  "string": "Зал чудес",
+  "form_id": "000104C9|DBM_CC_HallOfWonders.esp",
+  "type": "CELL FULL",
+  "index": null,
+  "editor_id": "DBMDGHallofWondersCC"
+ },
+ {
+  "original": "Dwarven Mudcrab Handler",
+  "string": "Двемерский грязевой краб (служебный)",
+  "form_id": "00000807|DBM_CC_DwMudcrabHOWPatch.esp",
+  "type": "QUST FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DwMudcrabHandler"
+ }
+]

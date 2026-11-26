@@ -1,0 +1,258 @@
+[
+ {
+  "original": "Inigo's Ebony Bow",
+  "string": "Иниго - Эбонитовый лук",
+  "form_id": "00000810|DBM_Inigo_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTInigoEbonyBow"
+ },
+ {
+  "original": "Inigo's Journal",
+  "string": "Дневник Иниго",
+  "form_id": "00000823|DBM_Inigo_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_BOOKACTInigosJournal"
+ },
+ {
+  "original": "Vol 1-2",
+  "string": "Тома 1-2",
+  "form_id": "00000826|DBM_Inigo_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_BOOKSETACTLangleyJournal"
+ },
+ {
+  "original": "In Search of a Champion",
+  "string": "В поисках чемпиона",
+  "form_id": "00000826|DBM_Inigo_Patch.esp",
+  "type": "ACTI RNAM",
+  "index": null,
+  "editor_id": "DBM_BOOKSETACTLangleyJournal"
+ },
+ {
+  "original": "Mr Dragonfly",
+  "string": "Мистер Стрекоза",
+  "form_id": "00000829|DBM_Inigo_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTInigoDragonflyInJar"
+ },
+ {
+  "original": "Snow Thrush Egg",
+  "string": "Яйцо дрозда",
+  "form_id": "0000082A|DBM_Inigo_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTLangleyBirdEgg1"
+ },
+ {
+  "original": "Muffle Tongue Necklace",
+  "string": "Амулет Молчания",
+  "form_id": "0000082B|DBM_Inigo_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTInigoNecklaceofMuffleTongue"
+ },
+ {
+  "original": "Inigo the Brave",
+  "string": "Иниго Храбрый",
+  "form_id": "0000082C|DBM_Inigo_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_BOOKACTInigoTheBraveBook"
+ },
+ {
+  "original": "The Power of Whistling",
+  "string": "Сила свиста",
+  "form_id": "0000082D|DBM_Inigo_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_BOOKACTThePowerOfWhistling"
+ },
+ {
+  "original": "Dragon Pie",
+  "string": "Драконий пирог",
+  "form_id": "00000836|DBM_Inigo_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTInigoDragonPie"
+ },
+ {
+  "original": "Inigo's Trophy",
+  "string": "Трофей Иниго",
+  "form_id": "0000083F|DBM_Inigo_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_QuestPlaqueBlowfatClub"
+ },
+ {
+  "original": "Inigo's Trophy",
+  "string": "Трофей Иниго",
+  "form_id": "00000840|DBM_Inigo_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_QuestPlaqueWitchesOfGlammorHeads"
+ },
+ {
+  "original": "Inigo's Trophy",
+  "string": "Трофей Иниго",
+  "form_id": "00000841|DBM_Inigo_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_QuestPlaqueBrowulfHelmet"
+ },
+ {
+  "original": "Langley's Artwork",
+  "string": "Рисунки Лэнгли",
+  "form_id": "00000842|DBM_Inigo_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_QuestPlaqueLangleyArtwork"
+ },
+ {
+  "original": "Da Vinci's Journal",
+  "string": "Дневник Да Винчи",
+  "form_id": "00000855|DBM_Inigo_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_BOOKACTDaVincisJournal"
+ },
+ {
+  "original": "Muffle Tongue Necklace (replica)",
+  "string": "Амулет Молчания (копия)",
+  "form_id": "00000845|DBM_Inigo_Patch.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "InigoNecklaceofMuffleTongueREPLICA"
+ },
+ {
+  "original": "Inigo The Brave (replica)",
+  "string": "Иниго Храбрый (копия)",
+  "form_id": "00000865|DBM_Inigo_Patch.esp",
+  "type": "BOOK FULL",
+  "index": null,
+  "editor_id": "InigoTheBraveBookREPLICA"
+ },
+ {
+  "original": "[pagebreak]\r\n<p align=\"center\">\r\n\r\n\r\nInigo the Brave\r\nA tale suitable for any gender and race at any time.\r\n\r\n\r\n\r\n</p>\r\n\r\n\r\n\r\n\r\n\r\n[pagebreak]\r\n<p align='right'>1</p>\r\n<p align='left'>One day Inigo was walking through his spider farm minding his own business when he smelt something was wrong. His nose was the best in the land so he followed it to a nearby cave where he found a beautiful woman of unspecified race crying. \"What's wrong?\" Said Inigo. \"A smelly Troll stole my sister,\"</p>\r\n[pagebreak]\r\n<p align='right'>2</p>\r\n<p align='left'> said the radiant woman. \"Can you help me? Please bring her back.\" Inigo looked into the dark cave then into the eyes of the woman. \"If she's alive I will save your sister,\" he said. \"Thank you!\" Wept the woman. She kissed him and he entered the cave bow in hand. He could smell ugly troll everywhere.</p>\r\n[pagebreak]\r\n<p align='right'>3</p>\r\n<p align='left'> He soon came to a fork in the tunnel. A little stream ran to the left and a patch of glowing moss illuminated the way to the right.\r\n\r\nFollow the stream.  (15)\r\nGo down the mossy tunnel. (5) </p>\r\n[pagebreak]\r\n<p align='right'>4</p>\r\n<p align='left'>Even in the darkness Inigo was a great archer and shortly after he loosed an arrow he heard a yowl of pain. It was a woman! Around him trolls advanced out of the dimness. The wounded woman shouted \"Kill the handsome cat!\"\r\nAim an arrow at the woman's voice. (18)\r\nAttack the trolls. (19)</p>\r\n[pagebreak]\r\n<p align='right'>5</p>\r\n<p align='left'>The mossy tunnel was almost as bright as Inigo and soon he saw movement up ahead. It was a smelly troll eating something.\r\n\r\nRun at the troll. (7)\r\nSneak by. (8)\r\nGo back to the stream. (15)</p>\r\n[pagebreak]\r\n<p align='right'>6</p>\r\n<p align='left'>Inigo bravely reached for the note but as his hand closed around it the man came alive! He was a zombie!\r\n\r\nStab it with an arrow! (9)\r\nRun away!  (10)</p>\r\n[pagebreak]\r\n<p align='right'>7</p>\r\n<p align='left'>Inigo let out a barbaric yawp and ran at the troll! The troll looked up from his meal, wet himself, then ran away screaming like a little girl. It had been eating a local farmer by a slimy hole in the ground. The farmer was not anyone's sister so Inigo pressed on. \r\nJump down the hole. (11)\r\nKeep going straight. (21)</p>\r\n[pagebreak]\r\n<p align='right'>8</p>\r\n<p align='left'>Inigo was very sneaky but as he got closer the troll smelt his delicious aroma and swiped at Inigo with an ugly claw. \r\n\r\nDuck! (13)\r\nStab it with an arrow! (14)</p>\r\n[pagebreak]\r\n<p align='right'>9</p>\r\n<p align='left'>Inigo bravely stabbed the zombie with an arrow and pierced its brain by way of its eye. It shuddered and died. Inigo read the note. \"I love you. Meet me in the cave at midnight\" said the note. It was a woman's writing. Inigo looked up and saw a troll close by!\r\nRun at the troll. (7)\r\nSneak by. (8)</p>\r\n[pagebreak]\r\n<p align='right'>10</p>\r\n<p align='left'>Inigo unexpectedly took to his heals and ran. The zombie's dead hand clutched his ankle, tripping him. He fell and smashed in his head on a rock.\r\n\r\nTHE END</p>\r\n[pagebreak]\r\n<p align='right'>11</p>\r\n<p align='left'>Inigo landed lightly and looked about. He was in an immense bad smelling chamber. The sound of messy eating surrounded him.\r\n\r\nGrowl loudly in a terrifying manner. (16)\r\nFire an arrow into the darkness ahead. (4)</p>\r\n[pagebreak]\r\n<p align='right'>12</p>\r\n<p align='left'>\"What's going on here?\" said Inigo. The woman replied, \"I needed to feed my pets. I'm sorry I know it was wrong.\" She coughed wetly. \"I need you to tell my sister something... come closer.\" \r\n\r\nApproach the woman. (20)\r\nPut an arrow through her eye. (24)</p>\r\n[pagebreak]\r\n<p align='right'>13</p>\r\n<p align='left'>Inigo used his legendary reflexes and dodged the troll. The stupid beast stumbled to the side and fell through a hole in the cave floor. Inigo heard its neck snap below. He chuckled to himself then looked about.\r\n\r\nJump down the hole. (11)\r\nKeep going straight. (21)</p>\r\n[pagebreak]\r\n<p align='right'>14</p>\r\n<p align='left'>Inigo bravely reached for an arrow but he was too slow. The troll ripped his head clean off and Inigo never saved anyone again.\r\n\r\nTHE END</p>\r\n[pagebreak]\r\n<p align='right'>15</p>\r\n<p align='left'>The stream was cold but Inigo was hardy and he liked the splashing noises his feet made. He soon found a dead man clutching a note.\r\n\r\nRead the note. (6)\r\nMove on. (21)\r\nGo back. Follow the mossy tunnel. (5)</p>\r\n[pagebreak]\r\n<p align='right'>16</p>\r\n<p align='left'>Inigo puffed up his chest and let out one of his famous growls. The eating stopped in a hurry and he saw many trolls run for a distant exit tunnel. A woman's voice echoed from the darkness ahead, \"Stop running! Kill that attractive cat!\" The trolls turned and faced Inigo. Aim an arrow at the woman's voice. (18) Kill the trolls! (19)</p>\r\n[pagebreak]\r\n<p align='right'>17</p>\r\n<p align='left'>Inigo's arrows hit the stalactites and they crashed to the cave floor below. He heard trolls being squashed and he smiled to himself. When all was quiet he jumped down among the smelly bodies and had a look about. He heard a woman weeping near by.\r\nApproach the woman. (20)\r\nCall out to her. (12)</p>\r\n[pagebreak]\r\n<p align='right'>18</p>\r\n<p align='left'>Inigo used his keen senses and aimed true. He heard the woman gasp then fall to the floor. The trolls lost their nerve and ran away. Inigo could hear that the woman was near death but still alive.\r\n\r\nApproach the woman. (20)\r\nCall out to her. (12)</p>\r\n[pagebreak]\r\n<p align='right'>19</p>\r\n<p align='left'>Even in low light conditions Inigo was the greatest archer in the land. He killed four trolls, five, ten, sixteen! His arms were a furious blur. More and more filthy trolls fell to his bow but after a hundred he began to tire. First he lost his strength, then all his arrows, then his life. \r\n          THE END</p>\r\n[pagebreak]\r\n<p align='right'>20</p>\r\n<p align='left'>The woman was crumpled and bleeding. She smelt very ugly. \"My sister sent you didn't she?\" She gasped. \"Now die!\" The troll-hag suddenly slashed out at Inigo with a glass dagger!\r\n\r\nGrab her hand! (22)\r\nPut an arrow through her eye! (24)</p>\r\n[pagebreak]\r\n<p align='right'>21</p>\r\n<p align='left'>The tunnel grew darker and Inigo heard himself crunching over dry bones. He smelt blood on the air. Soon he was standing high above a dark cavern. He could hear ugly movement below and he saw sharp stalactites hanging from the cavern roof. Jump down. (11)\r\nFire a few arrows at the stalactites. (17)</p>\r\n[pagebreak]\r\n<p align='right'>22</p>\r\n<p align='left'>Inigo grabbed at the hag's hand but she was supernaturally fast and the dagger sliced poor Inigo's arm clean off! He stumbled back. He tried to draw his bow but he was a hand short and it fell uselessly to the ground...</p>\r\n[pagebreak]\r\n<p align='right'>23</p>\r\n<p align='left'>...The woman fell on him stashing and stabbing. The last thing he heard was the troll-hag's manic laughter.</p>\r\n\r\nTHE END\r\n[pagebreak]\r\n<p align='right'>24</p>\r\n<p align='left'>In a textbook example of skill and grace Inigo loosed an arrow into the woman's face! As she expired her body thrashed and began to change. It grew thick fur and hard skin. Soon her corpse looked half troll, half ugly woman. Inigo covered his nose against its stench and left the cave. \"Did you find my sister?\" Asked the pretty woman waiting outside. \"Yes. I had to kill her. I am sorry.\" Said Inigo. \"Thank you!\" Said the woman. \"She was going to kill me if I didn't bring her more food for her trolls.\" Inigo was very understanding and took her to his farm to recuperate. It turned out that the woman liked playing with spiders as much as Inigo. They were married a month later and lived happily ever after.\r\n\r\nTHE END</p>\r\n\r\n",
+  "string": "[pagebreak]\r\n<p align=\"center\">\r\n\r\n\r\nИниго Храбрый \r\nИстория для читателей всех полов, рас и возрастов.\r\n\r\n\r\n\r\n</p>\r\n\r\n\r\n\r\n\r\n\r\n[pagebreak]\r\n<p align='right'>1</p>\r\n<p align='left'>Шел как-то Иниго по своей паучьей ферме, думая о всяком, как вдруг почуял неладное. Его нюху не было равных в округе, и привел он Иниго в пещеру неподалеку. Там он увидел красивую женщину неизвестной расы, всю в слезах. \"Что случилось?\" - спросил Иниго. \"Гадкий тролль украл мою сестру,</p>\r\n[pagebreak]\r\n<p align='right'>2</p>\r\n<p align='left'> - ответила красавица. - Вы поможете? Пожалуйста, верните ее.\" Иниго окинул взглядом темную пещеру и посмотрел женщине в глаза. \"Если твоя сестра еще жива, я ее спасу\", - пообещал он. \"Спасибо!\" - всхлипнула женщина. Она поцеловала Иниго, и он вошел в пещеру с луком наготове. Вонь от гадкого тролля заполнила воздух.</p>\r\n[pagebreak]\r\n<p align='right'>3</p>\r\n<p align='left'> Вскоре он вышел на развилку в туннеле. Влево бежал маленький ручей, а путь вправо освещал светящийся мох.\r\n\r\nСледовать за ручейком.  (15)\r\nСпуститься по мшистому туннелю. (5) </p>\r\n[pagebreak]\r\n<p align='right'>4</p>\r\n<p align='left'>Иниго прекрасно стрелял даже в темноте и, пустив стрелу, вскоре услышал крик боли. Это была женщина! Из тьмы к нему подступили тролли. Раненая женщина прокричала: \"Убить красавчика-кота!\"\r\n\r\nВыстрелить на женский голос. (18)\r\nНапасть на троллей. (19)</p>\r\n[pagebreak]\r\n<p align='right'>5</p>\r\n<p align='left'>Моховой туннель был почти столь же ярок, как Иниго, но вскоре он заметил впереди какое-то движение. Это был гадкий тролль, в разгаре трапезы.\r\n\r\nПобежать на тролля. (7)\r\nПрокрасться мимо. (8)\r\nВернуться к ручейку. (15)</p>\r\n[pagebreak]\r\n<p align='right'>6</p>\r\n<p align='left'>Иниго храбро потянулся к записке, но когда он уже схватил ее, человек ожил! Это был зомби!\r\n\r\nПроткнуть его стрелой! (9)\r\nБежать прочь!  (10)</p>\r\n[pagebreak]\r\n<p align='right'>7</p>\r\n<p align='left'>Иниго испустил варварский крик и бросился на тролля! Тролль поднял на него взгляд, обмочился, а затем бросился прочь, крича, как девчонка. Закуской был местный фермер, лежащий у склизкой ямы. Фермер не был чьей-либо сестрой, и Иниго поспешил вперед.\r\n\r\nПрыгнуть в яму. (11)\r\nПродолжать идти прямо. (21)</p>\r\n[pagebreak]\r\n<p align='right'>8</p>\r\n<p align='left'>Иниго шел, как тень, но при его приближении тролль учуял его, когда Иниго подобрался ближе, тролль учуял его потрясающий запах и замахнулся на Иниго мерзкой когтистой лапой.\r\n\r\nПригнуться! (13)\r\nПроткнуть его стрелой! (14)</p>\r\n[pagebreak]\r\n<p align='right'>9</p>\r\n<p align='left'>Иниго храбро воткнул стрелу зомби в глаз и пронзил мозг. Враг содрогнулся и умер. Иниго прочел записку: \"Я люблю тебя. Встретимся в пещере в полночь.\" Почерк был женский. Иниго поднял голову и увидел рядом тролля!\r\n\r\nБроситься на тролля. (7)\r\nПрокрасться мимо. (8)</p>\r\n[pagebreak]\r\n<p align='right'>10</p>\r\n<p align='left'>Иниго неожиданно взял ноги в руки и дал деру. Но зомби схватил его за лодыжку. Иниго упал и ударился головой о камень.\r\n\r\nКОНЕЦ</p>\r\n[pagebreak]\r\n<p align='right'>11</p>\r\n<p align='left'>Иниго мягко приземлился и осмотрелся. Он оказался в невыносимо вонючей зале. Повсюду слышалось отвратительное чавканье.\r\n\r\nГромко и устрашающе зарычать. (16)\r\nПустить стрелу во тьму перед собой. (4)</p>\r\n[pagebreak]\r\n<p align='right'>12</p>\r\n<p align='left'>\"Что здесь происходит?\" спросил Иниго. \"Мне нужно было накормить своих питомцев, - ответила женщина. - Прости, я знала, что это неправильно.\" Она хрипло закашляла. \" Прошу, передай кое-что моей сестре... подойди ближе.\"\r\n\r\nПодойти к женщине. (20)\r\nПустить стрелу ей промеж глаз. (24)</p>\r\n[pagebreak]\r\n<p align='right'>13</p>\r\n<p align='left'>Благодаря легендарным рефлексам Иниго уклонился от тролля. Глупая тварь оступилась и упала расщелину пещеры. Иниго услышал, как внизу тролль свернул себе шею. Он усмехнулся, а затем осмотрелся вокруг.\r\n\r\nПрыгнуть в расщелину. (11)\r\nПродолжать идти прямо. (21)</p>\r\n[pagebreak]\r\n<p align='right'>14</p>\r\n<p align='left'>Иниго храбро дотянулся до стрелы, но было уже поздно. Тролль снес его голову, и с тех пор Иниго никого не спасал. \r\n\r\nКОНЕЦ</p>\r\n[pagebreak]\r\n<p align='right'>15</p>\r\n<p align='left'>Ручей был холодным, но стойкому Иниго это не мешало; нравилось слушать, как плещется вода под ногами. Вскоре он увидел мертвеца с запиской в руке.\r\n\r\nПрочитать записку. (6)\r\nИдти дальше. (21)\r\nВернуться назад. Идти по мшистому туннелю. (5)</p>\r\n[pagebreak]\r\n<p align='right'>16</p>\r\n<p align='left'>Иниго вдохнул поглубже и издал свой знаменитый рык. Чавканье тут же прекратилось, и он увидел кучу троллей, бегущих к дальнему выходу из туннеля. Вдруг из темноты послышался женский голос: \"Стоять! Убить красавчика-кота!\" Тролли обернулись к Иниго.\r\n\r\nПустить стрелу на голос женщины. (18) \r\nНапасть на троллей! (19)</p>\r\n[pagebreak]\r\n<p align='right'>17</p>\r\n<p align='left'>Стрелы Иниго поразили сталактиты, и те обрушились вниз. Звук раздавленных троллей вызвал у него улыбку. Когда все закончилось, он спрыгнул в кучу вонючих тел и осмотрелся. Рядом слышался женский плач. \r\n\r\nПодойти к женщине. (20)\r\nЗаговорить с ней. (12)</p>\r\n[pagebreak]\r\n<p align='right'>18</p>\r\n<p align='left'>Иниго прислушался к обостренным чувствам и сделал верный выстрел. Он услышал, как женщина охнула и упала. Тролли оробели и убежали. Слух подсказал Иниго, что женщина была хоть и на волоске, но еще жива.\r\n\r\nПодойти к женщине. (20)\r\nЗаговорить с ней. (12)</p>\r\n[pagebreak]\r\n<p align='right'>19</p>\r\n<p align='left'>Даже в полумраке Иниго великолепно стрелял. Четыре тролля, пять, десять, шестнадцать! Он был так быстр, что рук было не разглядеть. Все больше и больше гадких троллей замертво падало, но после ста он начал уставать. Сначала иссякли силы, потом - все стрелы, затем и жизнь. \r\n          КОНЕЦ</p>\r\n[pagebreak]\r\n<p align='right'>20</p>\r\n<p align='left'>Женщина съежилась, истекая кровью. Она отвратительно пахла. \r\n- Ты от моей сестры, да? - выдохнула она. - Сдохни! \r\nИ тут троллья карга замахнулась на Иниго стеклянным кинжалом!\r\n\r\nСхватить ее руку! (22)\r\nПроткнуть стрелой глаз! (24)</p>\r\n[pagebreak]\r\n<p align='right'>21</p>\r\n<p align='left'>Становилось все темнее, и Иниго услышал хруст сухих костей под ногами. В воздухе запахло кровью. Вскоре под ногами у Иниго разверзлась темная пещера. Где-то внизу чувствовалось противное движение, а с потолка свисали острые сталактиты.\r\n\r\nСпрыгнуть. (11)\r\nПустить пару стрел в сталактиты. (17)</p>\r\n[pagebreak]\r\n<p align='right'>22</p>\r\n<p align='left'>Иниго схватил было каргу за руку, но она с невероятной скоростью отсекла бедному Иниго руку! Он отступил. Попытался натянуть тетиву, но для этого не хватало руки... и бросил на пол уже бесполезный лук.</p>\r\n[pagebreak]\r\n<p align='right'>23</p>\r\n<p align='left'>... Женщина бросилась на него, энергично орудуя кинжалом. Последним, что он слышал, был ее безумный смех.</p>\r\n\r\nКОНЕЦ\r\n[pagebreak]\r\n<p align='right'>24</p>\r\n<p align='left'>Иниго пустил женщине стрелу в лицо с легкостью и изяществом, достойными занесения в учебники! Когда она испустила дух, ее тело вдруг вздулось и стало меняться. На нем вырос толстый мех, а кожа затвердела. Скоро труп ее казался помесью тролля и обычной уродины. Вонь была невыносима, так что Иниго зажал нос и покинул пещеру. \"Вы нашли мою сестру?\" - спросила ждущая снаружи милашка. \"Да. Прости, но пришлось ее убить,\" - ответил Иниго. \"Спасибо! - улыбнулась женщина. - Она убила бы меня, не принеси я еще еды для троллей.\"\r\nИниго пожалел ее и предложил восстановить силы на ферме. Оказалось, что девушке тоже нравится играть с пауками. Спустя месяц они поженились и зажили долго и счастливо.\r\n\r\nКОНЕЦ</p>",
+  "form_id": "00000865|DBM_Inigo_Patch.esp",
+  "type": "BOOK DESC",
+  "index": null,
+  "editor_id": "InigoTheBraveBookREPLICA"
+ },
+ {
+  "original": "The Power of Whistling (replica)",
+  "string": "Сила свиста (копия)",
+  "form_id": "00000868|DBM_Inigo_Patch.esp",
+  "type": "BOOK FULL",
+  "index": null,
+  "editor_id": "InigoWhistlingREPLICA"
+ },
+ {
+  "original": "[pagebreak]\r\n<p align=\"center\">\r\n\r\n\r\nThe Power of Whistling\r\n\r\nTactical Wordless Communication for Adventurers\r\n\r\nBy\r\n\r\nMildred Winslow\r\n\r\n\r\n\r\n\r\n\r\n</p>\r\n\r\n\r\n\r\n[pagebreak]<font size=\"18\">\r\nWhat is a whistle?<p align=\"left\"><font size=\"16\">\r\n\r\nIt is communication! A good hearty whistle can be heard miles away. It can ride the wind. It can penetrate walls. It is a language without barriers! It is POWER!\r\n\r\nIn recent years the noble art of whistling has sadly been demoted to the realm of mere entertainment. Ha! Well no longer! Here in these pages I aim to show you the true power your lips possess! \r\n[pagebreak]<font size=\"18\">\r\nGetting Started <p align=\"left\"><font size=\"16\">\r\n\r\n1. Learn to whistle. If you cannot whistle stop reading now. The information I am about to impart is NOT for beginners or time wasters!\r\n\r\n2. Find a whistling partner. If your current adventuring companion does not have ears or cannot whistle GET A NEW COMPANION! With the right partner there is no need to agree on a variety of sounds. It's all about the context of the whistle NOT the exact sound being made. With this in mind, make sure your partner has at least a modicum of situational awareness.\r\n[pagebreak]<p align=\"center\"><font size=\"18\">\r\n\r\n\r\n\r\nLesson One - Come on! Come on!<p align=\"left\"><font size=\"16\"> \r\n\r\nAsk your companion to wait somewhere then, when you are ready, whistle to quickly ask them to follow you again. A whistle can travel further than a yell so this technique is particularly useful when separated at distance. \r\n[pagebreak]<p align=\"center\"><font size=\"18\">\r\n\r\n\r\n\r\nLesson Two - Getting Tactical.<p align=\"left\"><font size=\"16\">\r\n\r\nWhistle while brandishing a weapon, spell, or your fists to suggest an aggressive plan of attack to your partner. Whistle while your hands are lowered and empty to suggest an unagressive approach. \r\n\r\nYour companion may not always vocally acknowledge your request. Don't worry, if they've read this book you'll be on the same page whether they express it or not.\r\n[pagebreak]<p align=\"center\"><font size=\"18\">\r\nLesson Three - Accidents Happen.<p align=\"left\"><font size=\"16\">\r\n\r\nHas a friendly sparring match ever gotten out of hand? Have you seen allies \r\n accidentally slaughter one another after a particularly confusing fight? A nice healthy whistle can bring them to their senses in a hurry. Whistling is a powerful tool but it cannot stand in the way of self-preservation. If your partner is still being attacked after you whistle, they will defend themselves. NOTE - Using a whistle to stop your partner fighting will undoubtedly put them in an unagressive mood. Use lesson two once the dust has settled if you'd rather they continue in a more aggressive state.\r\n[pagebreak]<p align=\"center\"><font size=\"18\">\r\nLesson Four - Wait here please.<p align=\"left\"><font size=\"16\">\r\n\r\nWhistling is by far the quickest way to ask your companion to wait (in dangerous areas), or relax (in safe areas). Simply whistle in their direction while within speaking distance and they will stay put until you indicate it's time to leave (see lesson One). Distance is key here. Whistle from too far away and they will reply with an \"I'm OK.\" whistle of their own. Whistle while too close and they will assume you want them to change position. \r\n[pagebreak]<p align=\"center\"><font size=\"18\">\r\nLesson Five - I wish you to perform a task.<p align=\"left\"><font size=\"16\">\r\n\r\nTo signal that you wish your partner to perform a specific task look at the ground and whistle. It may appear a bit odd to the uninitiated, but if your companion is familiar with this book they will respond by entering the typical command mode most seasoned adventurers are familiar with. No further whistling is required. How individuals decide to command each other is their own business and outside the scope of this book.\r\n[pagebreak]<p align=\"center\"><font size=\"18\">\r\nLesson Six - Have fun!<p align=\"left\"><font size=\"16\">\r\n\r\nWhistling is a useful power that we should all master, but remember it's also FUN! There's nothing lovelier than a little whistling while adventuring. Purse those lips and keep your spirits up! \r\n",
+  "string": "[pagebreak]\r\n<p align=\"center\">\r\n\r\n\r\nСила свиста \r\n\r\nТактическое общение без слов для искателей приключений\r\n\r\nАвтор: Милдред Уинслоу\r\n\r\n\r\n\r\n\r\n\r\n</p>\r\n\r\n\r\n\r\n[pagebreak]\r\n<font size=\"18\">\r\nЧто такое свист?<p align=\"left\"><font size=\"16\">\r\n\r\nЭто общение! Хороший крепкий свист можно услышать за многие мили. Он может оседлать ветер. Может проходить сквозь стены. У этого языка нет преград! Это СИЛА!\r\n\r\nВ последние годы благородное искусство свиста, к сожалению, снизошло до простого развлечения. Ха! Больше этого не будет! В этой книге вы узнаете истинную мощь ваших губ!\r\n[pagebreak]\r\n<font size=\"18\">\r\nНачало.<p align=\"left\"><font size=\"16\">\r\n\r\n1. Научитесь свистеть. Если не умеете свистеть, закройте книгу. Знания, что я собираюсь передать, НЕ для новичков или тратящих время попусту!\r\n\r\n2. Найдите партнера для свиста. Если Ваш нынешний спутник не имеет ушей или не может свистеть, ИЩИТЕ НОВОГО СПУТНИКА! С правильным спутником не нужно договариваться о множестве звуков. Важны особенности ситуации, а не производимого звука. Поэтому удостоверьтесь, что ваш спутник хоть немного понимает ситуацию.\r\n[pagebreak]\r\n<p align=\"center\"><font size=\"18\">\r\n\r\n\r\n\r\nУрок первый - Давай! Давай!<p align=\"left\"><font size=\"16\"> \r\n\r\nПопросите вашего спутника где-нибудь подождать, а когда будете готовы, свистните, чтобы быстро попросить снова следовать за вами. Свист может пройти дальше, чем крик, так что этот метод особенно полезен, когда вы находитесь далеко друг от друга.\r\n[pagebreak]\r\n<p align=\"center\"><font size=\"18\">\r\n\r\n\r\n\r\nУрок второй - Больше тактики.<p align=\"left\"><font size=\"16\">\r\n\r\nСвистните с оружием или заклинанием в руках или просто с поднятыми кулаками, чтобы сменить тактику боя спутника на агрессивную. Свистните с опущенными пустыми руками, и тактика сменится на нейтральную. \r\n\r\nВаш спутник не всегда подтверждает, что понимает вашу просьбу. Не волнуйтесь, если он прочел эту книгу, вы всегда будете мыслить \"на одной волне\".\r\n[pagebreak]\r\n<p align=\"center\"><font size=\"18\">\r\nУрок третий - Всякое случается.<p align=\"left\"><font size=\"16\">\r\n\r\nДружеский поединок вышел из-под контроля? Бывало ли, что союзники после тяжкого боя устраивают между собой резню, забыв, кто свой, а кто чужой? Хороший свист быстро приведет их в чувство. Свист - мощный инструмент, но и он отступает перед инстинктом самосохранения. Если вашего спутника атакуют после свиста, тот будет защищать себя. ПРИМЕЧАНИЕ - Использование свиста для того, чтобы спутник перестал сражаться, обязательно сменит его поведение на нейтральное. Если хотите оставить его агрессивным, не прибегайте ко второму уроку, пока не улягутся страсти.\r\n[pagebreak]\r\n<p align=\"center\"><font size=\"18\">\r\nУрок четвертый - Повеселись!<p align=\"left\"><font size=\"16\">\r\n\r\nСвист - полезная сила, которую стоит освоить каждому, но помните, что это еще и ВЕСЕЛО! Нет ничего лучше, чем немного посвистеть в пути. Губы в трубочку и выше нос!",
+  "form_id": "00000868|DBM_Inigo_Patch.esp",
+  "type": "BOOK DESC",
+  "index": null,
+  "editor_id": "InigoWhistlingREPLICA"
+ },
+ {
+  "original": "Inigo's Items",
+  "string": "Предметы Иниго",
+  "form_id": "00000856|DBM_Inigo_Patch.esp",
+  "type": "CONT FULL",
+  "index": null,
+  "editor_id": "DBM_CheatCrateInigo"
+ },
+ {
+  "original": "Mr Dragonfly (replica)",
+  "string": "Мистер Стрекоза (копия)",
+  "form_id": "00000844|DBM_Inigo_Patch.esp",
+  "type": "MISC FULL",
+  "index": null,
+  "editor_id": "InigoDragonflyInJarREPLICA"
+ },
+ {
+  "original": "Inigo's Ebony Bow (replica)",
+  "string": "Иниго - Эбонитовый лук (копия)",
+  "form_id": "00000846|DBM_Inigo_Patch.esp",
+  "type": "WEAP FULL",
+  "index": null,
+  "editor_id": "InigoEbonyBowREPLICA"
+ },
+ {
+  "original": "Inigo",
+  "string": "Иниго",
+  "form_id": "00000839|DBM_Inigo_Patch.esp",
+  "type": "QUST FULL",
+  "index": null,
+  "editor_id": "DBM_Inigo"
+ },
+ {
+  "original": "A collection of paintings and sketches by Langley ",
+  "string": "Собрание картин и набросков Лэнгли ",
+  "form_id": "0000085A|DBM_Inigo_Patch.esp",
+  "type": "MESG DESC",
+  "index": null,
+  "editor_id": "LangleysArtworkQSTMSG"
+ },
+ {
+  "original": "Langley's Artwork",
+  "string": "Рисунки Лэнгли",
+  "form_id": "0000085A|DBM_Inigo_Patch.esp",
+  "type": "MESG FULL",
+  "index": null,
+  "editor_id": "LangleysArtworkQSTMSG"
+ },
+ {
+  "original": "Blowfat the Flatulent's Club",
+  "string": "Дубина Блоуфата Пердуна",
+  "form_id": "0000085B|DBM_Inigo_Patch.esp",
+  "type": "MESG DESC",
+  "index": null,
+  "editor_id": "BlowfatClubQSTMSG"
+ },
+ {
+  "original": "Inigo's Trophy",
+  "string": "Трофей Иниго",
+  "form_id": "0000085B|DBM_Inigo_Patch.esp",
+  "type": "MESG FULL",
+  "index": null,
+  "editor_id": "BlowfatClubQSTMSG"
+ },
+ {
+  "original": "Browulf the Broad's Helmet",
+  "string": "Шлем Броульфа Широкого",
+  "form_id": "0000085C|DBM_Inigo_Patch.esp",
+  "type": "MESG DESC",
+  "index": null,
+  "editor_id": "BrowulfHelmetQSTMSG"
+ },
+ {
+  "original": "Inigo's Trophy",
+  "string": "Трофей Иниго",
+  "form_id": "0000085C|DBM_Inigo_Patch.esp",
+  "type": "MESG FULL",
+  "index": null,
+  "editor_id": "BrowulfHelmetQSTMSG"
+ },
+ {
+  "original": "Witches of Glammor Heads",
+  "string": "Головы гламморских ведьм",
+  "form_id": "0000085D|DBM_Inigo_Patch.esp",
+  "type": "MESG DESC",
+  "index": null,
+  "editor_id": "WitchesOfGlammorHeadsQSTMSG"
+ },
+ {
+  "original": "Inigo's Trophy",
+  "string": "Трофей Иниго",
+  "form_id": "0000085D|DBM_Inigo_Patch.esp",
+  "type": "MESG FULL",
+  "index": null,
+  "editor_id": "WitchesOfGlammorHeadsQSTMSG"
+ }
+]

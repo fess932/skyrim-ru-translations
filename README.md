@@ -23,6 +23,7 @@
 | BHKS - TNG - Official Patch Collection | 1.0.6 | `mods/bhks-tng-patches` |
 | [Guard Dialogue Overhaul Redux](https://www.nexusmods.com/skyrimspecialedition/mods/20791) | 1.8.1 | `mods/guard-dialogue-overhaul` (298 строк из ванильного перевода + 36 новых) |
 | Legacy of the Dragonborn Patches (Official): Moonpath to Elsweyr | DBM_Moonpath_Patch | `mods/lotd-moonpath-patch` |
+| Legacy of the Dragonborn: патчи, Curator's Companion, CC Patch Hub и пропуски в самом LotD | ~300 плагинов | `mods/lotd-patches` (только то, чего нет в уже установленных переводах; ставится как `RU_lotd-patches.json` рядом с ними) |
 
 ## Как устроен перевод
 

@@ -1,0 +1,186 @@
+[
+ {
+  "original": "Necromancer Robes",
+  "string": "Одеяние некроманта",
+  "form_id": "00000800|DBM_CC_NecromanticGrimoireHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTNecroRobes"
+ },
+ {
+  "original": "Necromancer Hood",
+  "string": "Некромантский капюшон",
+  "form_id": "00000804|DBM_CC_NecromanticGrimoireHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DummyACTNecroHood"
+ },
+ {
+  "original": "Necromancer Robes",
+  "string": "Одеяние некроманта",
+  "form_id": "00000805|DBM_CC_NecromanticGrimoireHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DummyACTNecroRobes"
+ },
+ {
+  "original": "Spell Tome: Conjure Tomb Guardian",
+  "string": "Том заклинаний: Вызов стражника гробницы",
+  "form_id": "00000807|DBM_CC_NecromanticGrimoireHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTTomeTombGuardian"
+ },
+ {
+  "original": "Spell Tome: Conjure Undying Ghost",
+  "string": "Том заклинаний: Вызов бессмертного призрака",
+  "form_id": "00000808|DBM_CC_NecromanticGrimoireHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTTomeUndyingGhost"
+ },
+ {
+  "original": "Spell Tome: Banish Undead",
+  "string": "Том заклинаний: Изгнание нежити",
+  "form_id": "00000809|DBM_CC_NecromanticGrimoireHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTTomeBanishUndead"
+ },
+ {
+  "original": "Spell Tome: Necromancer's Ritual",
+  "string": "Том заклинаний: Ритуал некроманта",
+  "form_id": "0000080A|DBM_CC_NecromanticGrimoireHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTTomeNecroRitual"
+ },
+ {
+  "original": "Spell Tome: Conjure Skeleton Marksman",
+  "string": "Том заклинаний: Вызов скелета-лучника",
+  "form_id": "0000080B|DBM_CC_NecromanticGrimoireHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTTomeSkeletonMarksman"
+ },
+ {
+  "original": "Spell Tome: Soul Split",
+  "string": "Том заклинаний: Расщепление души",
+  "form_id": "0000080C|DBM_CC_NecromanticGrimoireHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTTomeSoulSplit"
+ },
+ {
+  "original": "Spell Tome: Conjure Haunting Spirit",
+  "string": "Том заклинаний: Вызов назойливого духа",
+  "form_id": "0000080E|DBM_CC_NecromanticGrimoireHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTTomeHauntingSpirit"
+ },
+ {
+  "original": "Spell Tome: Conjure Bone Colossus",
+  "string": "Том заклинаний: Вызов костяного колосса",
+  "form_id": "0000080F|DBM_CC_NecromanticGrimoireHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTTomeBoneColossus"
+ },
+ {
+  "original": "Spell Tome: Conjure Cursed Spectre",
+  "string": "Том заклинаний: Вызов проклятого призрака",
+  "form_id": "00000810|DBM_CC_NecromanticGrimoireHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTTomeCursedSpectre"
+ },
+ {
+  "original": "Spell Tome: Conjure Ancient Deathpriest",
+  "string": "Том заклинаний: Вызов древнего жреца смерти",
+  "form_id": "00000811|DBM_CC_NecromanticGrimoireHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTTomeAncientLich"
+ },
+ {
+  "original": "Spell Tome: Conjure Skeleton Minion",
+  "string": "Том заклинаний: Вызов скелета-слуги",
+  "form_id": "00000812|DBM_CC_NecromanticGrimoireHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTTomeSkeletonMinion"
+ },
+ {
+  "original": "Spell Tome: Conjure Skeleton Champion",
+  "string": "Том заклинаний: Вызов скелета-чемпиона",
+  "form_id": "00000813|DBM_CC_NecromanticGrimoireHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTTomeSkeletonChampion"
+ },
+ {
+  "original": "Spell Tome: Conjure Skeleton Warlock",
+  "string": "Том заклинаний: Вызов скелета-чародея",
+  "form_id": "00000814|DBM_CC_NecromanticGrimoireHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTTomeSkeletonWarlock"
+ },
+ {
+  "original": "Masked Necromancer Hood",
+  "string": "Некромантский капюшон с маской",
+  "form_id": "00000818|DBM_CC_NecromanticGrimoireHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DummyACTNecroHoodMasked"
+ },
+ {
+  "original": "Runic Necromancer Robes",
+  "string": "Рунное некромантское одеяние",
+  "form_id": "0000081A|DBM_CC_NecromanticGrimoireHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DummyACTNecroRobesRunic"
+ },
+ {
+  "original": "Necromancer Hood",
+  "string": "Некромантский капюшон",
+  "form_id": "0000081B|DBM_CC_NecromanticGrimoireHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTNecroHood"
+ },
+ {
+  "original": "Masked Necromancer Hood",
+  "string": "Некромантский капюшон с маской",
+  "form_id": "0000081C|DBM_CC_NecromanticGrimoireHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTNecroHoodMasked"
+ },
+ {
+  "original": "Runic Necromancer Robes",
+  "string": "Рунное некромантское одеяние",
+  "form_id": "0000082F|DBM_CC_NecromanticGrimoireHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTNecroRobesRunic"
+ },
+ {
+  "original": "Hall of Wonders",
+  "string": "Зал чудес",
+  "form_id": "000104C9|DBM_CC_HallOfWonders.esp",
+  "type": "CELL FULL",
+  "index": null,
+  "editor_id": "DBMDGHallofWondersCC"
+ },
+ {
+  "original": "Necromantic Grimoire Handler",
+  "string": "Гримуар некроманта (служебный)",
+  "form_id": "00000806|DBM_CC_NecromanticGrimoireHOWPatch.esp",
+  "type": "QUST FULL",
+  "index": null,
+  "editor_id": "DBM_CC_NecroGrimoireHandler"
+ }
+]

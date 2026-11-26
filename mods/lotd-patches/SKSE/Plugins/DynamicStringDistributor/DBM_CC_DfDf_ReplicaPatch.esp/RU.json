@@ -1,0 +1,10 @@
+[
+ {
+  "original": "Adds CC Dawnfang & Duskfang Items to Formlists",
+  "string": "Добавление предметов Клык Рассвета и Клык Заката в списки форм",
+  "form_id": "00000801|DBM_CC_DfDf_ReplicaPatch.esp",
+  "type": "QUST FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DfDf_REPQuest"
+ }
+]

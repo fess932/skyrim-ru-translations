@@ -1,0 +1,82 @@
+[
+ {
+  "original": "Daedric Crossbow",
+  "string": "Даэдрический арбалет",
+  "form_id": "00000800|DBM_CC_CB02ExpCrossbowsHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTCrossbowDaedric"
+ },
+ {
+  "original": "Dragonbone Crossbow",
+  "string": "Драконий костяной арбалет",
+  "form_id": "0000080D|DBM_CC_CB02ExpCrossbowsHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTCrossbowDragonbone"
+ },
+ {
+  "original": "Glass Crossbow",
+  "string": "Стеклянный арбалет",
+  "form_id": "0000080E|DBM_CC_CB02ExpCrossbowsHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTCrossbowGlass"
+ },
+ {
+  "original": "Imperial Crossbow",
+  "string": "Имперский арбалет",
+  "form_id": "0000080F|DBM_CC_CB02ExpCrossbowsHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTCrossbowImperial"
+ },
+ {
+  "original": "Nordic Crossbow",
+  "string": "Нордский арбалет",
+  "form_id": "00000810|DBM_CC_CB02ExpCrossbowsHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTCrossbowNordic"
+ },
+ {
+  "original": "Orcish Crossbow",
+  "string": "Орочий арбалет",
+  "form_id": "00000811|DBM_CC_CB02ExpCrossbowsHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTCrossbowOrcish"
+ },
+ {
+  "original": "Silver Crossbow",
+  "string": "Серебряный арбалет",
+  "form_id": "00000812|DBM_CC_CB02ExpCrossbowsHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTCrossbowSilver"
+ },
+ {
+  "original": "Stalhrim Crossbow",
+  "string": "Сталгримовый арбалет",
+  "form_id": "00000813|DBM_CC_CB02ExpCrossbowsHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTCrossbowStalhrim"
+ },
+ {
+  "original": "Hall of Wonders",
+  "string": "Зал чудес",
+  "form_id": "000104C9|DBM_CC_HallOfWonders.esp",
+  "type": "CELL FULL",
+  "index": null,
+  "editor_id": "DBMDGHallofWondersCC"
+ },
+ {
+  "original": "Expanded Crossbows Handler",
+  "string": "Расширенный набор арбалетов (служебный)",
+  "form_id": "00000804|DBM_CC_CB02ExpCrossbowsHOWPatch.esp",
+  "type": "QUST FULL",
+  "index": null,
+  "editor_id": "DBM_CC_ExpandedCrossbowsHandler"
+ }
+]

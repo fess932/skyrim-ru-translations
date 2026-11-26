@@ -1,0 +1,122 @@
+[
+ {
+  "original": "Lullian Shield (replica)",
+  "string": "Щит Затишья (копия)",
+  "form_id": "000008F6|DBM_WheelsofLull_Patch.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "_Lull_LullianShieldREPLICA"
+ },
+ {
+  "original": "Magnusian Visor (replica)",
+  "string": "Визор Магнуса (копия)",
+  "form_id": "00000809|DBM_WheelsofLull_ReplicaPatch.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "_Lull_MainVisorREPLICA"
+ },
+ {
+  "original": "Artophysical Manipulator (replica)",
+  "string": "Артофизический Манипулятор (копия)",
+  "form_id": "000008F0|DBM_WheelsofLull_Patch.esp",
+  "type": "WEAP FULL",
+  "index": null,
+  "editor_id": "_Lull_ArtophysicalManipulatorREPLICA"
+ },
+ {
+  "original": "Lullian Harquebus (replica)",
+  "string": "Аркебуза Затишья (копия)",
+  "form_id": "000008F4|DBM_WheelsofLull_Patch.esp",
+  "type": "WEAP FULL",
+  "index": null,
+  "editor_id": "_Lull_Harquebus5REPLICA"
+ },
+ {
+  "original": "Bells of Sotha Ehn (replica)",
+  "string": "Колокола Сота Эн (копия)",
+  "form_id": "00000800|DBM_WheelsofLull_ReplicaPatch.esp",
+  "type": "WEAP FULL",
+  "index": null,
+  "editor_id": "_Lull_WatchmanHammerREPLICA"
+ },
+ {
+  "original": "Rod of Ohm (replica)",
+  "string": "Жезл Ома (копия)",
+  "form_id": "00000801|DBM_WheelsofLull_ReplicaPatch.esp",
+  "type": "WEAP FULL",
+  "index": null,
+  "editor_id": "_Lull_OhmsRodREPLICA"
+ },
+ {
+  "original": "Goveri's Unwinder (replica)",
+  "string": "Остановитель Говери (копия)",
+  "form_id": "00000802|DBM_WheelsofLull_ReplicaPatch.esp",
+  "type": "WEAP FULL",
+  "index": null,
+  "editor_id": "_Lull_UnwinderREPLICA"
+ },
+ {
+  "original": "Llavados' Accelerator (replica)",
+  "string": "Ускоритель Лавадоса (копия)",
+  "form_id": "00000803|DBM_WheelsofLull_ReplicaPatch.esp",
+  "type": "WEAP FULL",
+  "index": null,
+  "editor_id": "_Lull_LlavadosAcceleratorREPLICA"
+ },
+ {
+  "original": "Combatative Harquebus (replica)",
+  "string": "Боевая Аркебуза (копия)",
+  "form_id": "00000804|DBM_WheelsofLull_ReplicaPatch.esp",
+  "type": "WEAP FULL",
+  "index": null,
+  "editor_id": "_Lull_Harquebus2REPLICA"
+ },
+ {
+  "original": "Diagnosing Staff (replica)",
+  "string": "Диагностический Посох (копия)",
+  "form_id": "00000805|DBM_WheelsofLull_ReplicaPatch.esp",
+  "type": "WEAP FULL",
+  "index": null,
+  "editor_id": "_Lull_UpkeepStaff1REPLICA"
+ },
+ {
+  "original": "Registry Cleaning Tool (replica)",
+  "string": "Очищающий инструмент (копия)",
+  "form_id": "00000806|DBM_WheelsofLull_ReplicaPatch.esp",
+  "type": "WEAP FULL",
+  "index": null,
+  "editor_id": "_Lull_UpkeepStaff02REPLICA"
+ },
+ {
+  "original": "Reboot Tool (replica)",
+  "string": "Инструмент для перезагрузки (копия)",
+  "form_id": "00000807|DBM_WheelsofLull_ReplicaPatch.esp",
+  "type": "WEAP FULL",
+  "index": null,
+  "editor_id": "_Lull_UpkeepStaff03REPLICA"
+ },
+ {
+  "original": "Defragmentation Tool (replica)",
+  "string": "Инструмент для дефрагментации (копия)",
+  "form_id": "00000808|DBM_WheelsofLull_ReplicaPatch.esp",
+  "type": "WEAP FULL",
+  "index": null,
+  "editor_id": "_Lull_UpkeepStaff04REPLICA"
+ },
+ {
+  "original": "Memodermic Greatsword (replica)",
+  "string": "Мемодермический большой меч (копия)",
+  "form_id": "00000813|DBM_WheelsofLull_ReplicaPatch.esp",
+  "type": "WEAP FULL",
+  "index": null,
+  "editor_id": "_Lull_MemodermicSwordTwoHandREPLICA"
+ },
+ {
+  "original": "Dwemeri Cutting Sphere (replica)",
+  "string": "Двемерская Режущая Сфера (копия)",
+  "form_id": "00000814|DBM_WheelsofLull_ReplicaPatch.esp",
+  "type": "WEAP FULL",
+  "index": null,
+  "editor_id": "_Lull_CuttingSphereREPLICA"
+ }
+]

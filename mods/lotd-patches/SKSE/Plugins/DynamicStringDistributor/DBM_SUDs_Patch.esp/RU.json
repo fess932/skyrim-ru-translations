@@ -1,0 +1,202 @@
+[
+ {
+  "original": "The Miller",
+  "string": "Мельник",
+  "form_id": "00000849|DBM_SUDs_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTSUDsMiller"
+ },
+ {
+  "original": "Spirits of Kyne",
+  "string": "Духи Кин",
+  "form_id": "0000084B|DBM_SUDs_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTSUDsSpiritsofKyrne"
+ },
+ {
+  "original": "Wobbly Scrib",
+  "string": "Шаткий скриб",
+  "form_id": "00000841|DBM_SUDs_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTSUDsWobblyScrib"
+ },
+ {
+  "original": "Silver Arrow",
+  "string": "Серебряная стрела",
+  "form_id": "00000844|DBM_SUDs_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTSUDsSilverArrow"
+ },
+ {
+  "original": "Vinius Lager",
+  "string": "Лагер Виния",
+  "form_id": "00000845|DBM_SUDs_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTSUDsViniusLager"
+ },
+ {
+  "original": "Cliff Racer",
+  "string": "Скальный наездник",
+  "form_id": "00000847|DBM_SUDs_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTSUDsCliffRacer"
+ },
+ {
+  "original": "Bridge to Nowhere",
+  "string": "Мост в никуда",
+  "form_id": "00000855|DBM_SUDs_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTSUDsBridgetoNowhere"
+ },
+ {
+  "original": "Dreamshade",
+  "string": "Тень грез",
+  "form_id": "00000857|DBM_SUDs_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTSUDsDreamshade"
+ },
+ {
+  "original": "Eternal Flame",
+  "string": "Вечное пламя",
+  "form_id": "0000084D|DBM_SUDs_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTSUDsEternalFlame"
+ },
+ {
+  "original": "The Long Walk",
+  "string": "Долгая прогулка",
+  "form_id": "0000084F|DBM_SUDs_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTSUDsLongWalk"
+ },
+ {
+  "original": "Rorik's Revelry",
+  "string": "Пирушка Рорика",
+  "form_id": "00000851|DBM_SUDs_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTSUDsRoriksRevelry"
+ },
+ {
+  "original": "The Netch's Knees",
+  "string": "Колени нетча",
+  "form_id": "00000853|DBM_SUDs_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTSUDsNetchsKnees"
+ },
+ {
+  "original": "Dragon Horn Stout",
+  "string": "Стаут \"Рог дракона\"",
+  "form_id": "00000859|DBM_SUDs_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTSUDsDragonhornstout"
+ },
+ {
+  "original": "The Scrub",
+  "string": "Скраб",
+  "form_id": "0000085B|DBM_SUDs_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTSUDsScrub"
+ },
+ {
+  "original": "Velvet Lachance",
+  "string": "Вельвет Лашанс",
+  "form_id": "0000085D|DBM_SUDs_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTSUDsVelvetLaChance"
+ },
+ {
+  "original": "Valdimar's Folly",
+  "string": "Безумие Вальдимара",
+  "form_id": "0000085F|DBM_SUDs_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTSUDsValdimarsFolly"
+ },
+ {
+  "original": "Wayward Traveler",
+  "string": "Заблудший путник",
+  "form_id": "00000861|DBM_SUDs_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTSUDsWaywardTraveler"
+ },
+ {
+  "original": "Nine Lives",
+  "string": "Девять жизней",
+  "form_id": "00000863|DBM_SUDs_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTSUDsNineLives"
+ },
+ {
+  "original": "Bad Blood",
+  "string": "Дурная кровь",
+  "form_id": "00000865|DBM_SUDs_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTSUDsBadBlood"
+ },
+ {
+  "original": "Baleful Buoy",
+  "string": "Зловещий буек",
+  "form_id": "00000867|DBM_SUDs_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTSUDsBalefulBuoy"
+ },
+ {
+  "original": "Honored Dead",
+  "string": "Почтенные мертвые",
+  "form_id": "00000869|DBM_SUDs_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTSUDsHonoredDead"
+ },
+ {
+  "original": "White-Gold Tower",
+  "string": "Башня Белого Золота",
+  "form_id": "0000086B|DBM_SUDs_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTSUDsWhitegoldTower"
+ },
+ {
+  "original": "Knee Bound Arrow",
+  "string": "Стрела в колено",
+  "form_id": "0000086D|DBM_SUDs_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTSUDsKneeBoundArrow"
+ },
+ {
+  "original": "Supported Mod Items",
+  "string": "Предметы из поддерживаемых модов",
+  "form_id": "00000804|DBM_SUDs_Patch.esp",
+  "type": "CONT FULL",
+  "index": null,
+  "editor_id": "DBM_SUDs_CheatCrate"
+ },
+ {
+  "original": "Supported Mod Example",
+  "string": "Пример поддерживаемого мода",
+  "form_id": "00000803|DBM_SUDs_Patch.esp",
+  "type": "QUST FULL",
+  "index": null,
+  "editor_id": "DBM_SUDs_SupportHandler"
+ }
+]

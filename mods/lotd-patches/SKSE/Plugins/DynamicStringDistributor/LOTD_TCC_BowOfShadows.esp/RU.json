@@ -1,0 +1,18 @@
+[
+ {
+  "original": "Bow of Shadows Official TCC Patch Handler",
+  "string": "Официальный патч Помощника куратора для Лука Теней (служебный)",
+  "form_id": "00000806|LOTD_TCC_BowOfShadows.esp",
+  "type": "QUST FULL",
+  "index": null,
+  "editor_id": "TCC_SM_BowOfShadows"
+ },
+ {
+  "original": "<font color='#<Alias=ColourAlias>'>The Curators Companion: Mod Complete (Bow of Shadows)</font>",
+  "string": "<font color='#<Alias=ColourAlias>'>Компаньон куратора: Мод завершен (Лук Теней)</font>",
+  "form_id": "00000805|LOTD_TCC_BowOfShadows.esp",
+  "type": "MESG DESC",
+  "index": null,
+  "editor_id": "_CompleteNotification_BowOfShadows"
+ }
+]

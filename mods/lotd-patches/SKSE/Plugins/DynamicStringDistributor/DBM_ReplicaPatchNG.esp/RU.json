@@ -1,0 +1,482 @@
+[
+ {
+  "original": "Sunblessed (replica)",
+  "string": "Щит Солнечного Благословения (копия)",
+  "form_id": "0000084D|DBM_ReplicaPatchNG.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "DBM_MAASE_ShieldSunBlessedREPLICA"
+ },
+ {
+  "original": "Shield of Solitude (replica)",
+  "string": "Щит Солитьюда (копия)",
+  "form_id": "00000894|DBM_ReplicaPatchNG.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "MS06ShieldLREPLICA"
+ },
+ {
+  "original": "Mask Chest",
+  "string": "Сундук с масками",
+  "form_id": "00000866|DBM_ReplicaPatchNG.esp",
+  "type": "CONT FULL",
+  "index": null,
+  "editor_id": "DBM_Deepholmechest2"
+ },
+ {
+  "original": "Queen Bee Statue (replica)",
+  "string": "Статуэтка пчелы (копия)",
+  "form_id": "00000875|DBM_ReplicaPatchNG.esp",
+  "type": "MISC FULL",
+  "index": null,
+  "editor_id": "TGLT02QueenBeeStatueREPLICA"
+ },
+ {
+  "original": "Honningbrew Decanter (replica)",
+  "string": "Графин с медом Хоннинга (копия)",
+  "form_id": "00000876|DBM_ReplicaPatchNG.esp",
+  "type": "MISC FULL",
+  "index": null,
+  "editor_id": "TGLT03HonningbrewDecanterREPLICA"
+ },
+ {
+  "original": "East Empire Shipping Map (replica)",
+  "string": "Морская карта Восточной имперской компании (копия)",
+  "form_id": "00000877|DBM_ReplicaPatchNG.esp",
+  "type": "MISC FULL",
+  "index": null,
+  "editor_id": "TGLT04EastEmpireShippingRoutesREPLICA"
+ },
+ {
+  "original": "Model Ship (replica)",
+  "string": "Модель корабля (копия)",
+  "form_id": "00000878|DBM_ReplicaPatchNG.esp",
+  "type": "MISC FULL",
+  "index": null,
+  "editor_id": "TGLT05ShipModelREPLICA"
+ },
+ {
+  "original": "Dwemer Puzzle Cube (replica)",
+  "string": "Двемерский куб-головоломка (копия)",
+  "form_id": "00000879|DBM_ReplicaPatchNG.esp",
+  "type": "MISC FULL",
+  "index": null,
+  "editor_id": "TGLT06PuzzleCubeREPLICA"
+ },
+ {
+  "original": "Bust of the Gray Fox (replica)",
+  "string": "Бюст Серого Лиса (копия)",
+  "form_id": "0000087A|DBM_ReplicaPatchNG.esp",
+  "type": "MISC FULL",
+  "index": null,
+  "editor_id": "TGLT07GrayFoxBustREPLICA"
+ },
+ {
+  "original": "Left Eye of the Falmer (replica)",
+  "string": "Левый Глаз фалмера (копия)",
+  "form_id": "0000087B|DBM_ReplicaPatchNG.esp",
+  "type": "MISC FULL",
+  "index": null,
+  "editor_id": "TGLT08EyeoftheFalmerLeftREPLICA"
+ },
+ {
+  "original": "Old Man's Lucky Coin (replica)",
+  "string": "Счастливая монета старика (копия)",
+  "form_id": "00000898|DBM_ReplicaPatchNG.esp",
+  "type": "MISC FULL",
+  "index": null,
+  "editor_id": "DBM_LuckyCoinREPLICA"
+ },
+ {
+  "original": "Counterfeit Deck of Arms",
+  "string": "Поддельная колода карт Оружия",
+  "form_id": "0000089D|DBM_ReplicaPatchNG.esp",
+  "type": "MISC FULL",
+  "index": null,
+  "editor_id": "DBM_DECKArmsREPLICA"
+ },
+ {
+  "original": "Counterfeit Deck of Builders",
+  "string": "Поддельная колода карт Строителя",
+  "form_id": "0000089E|DBM_ReplicaPatchNG.esp",
+  "type": "MISC FULL",
+  "index": null,
+  "editor_id": "DBM_DECKBuildersREPLICA"
+ },
+ {
+  "original": "Counterfeit Deck of Demons",
+  "string": "Поддельная колода карт Демона",
+  "form_id": "0000089F|DBM_ReplicaPatchNG.esp",
+  "type": "MISC FULL",
+  "index": null,
+  "editor_id": "DBM_DECKDemonsREPLICA"
+ },
+ {
+  "original": "Counterfeit Deck of Draconians",
+  "string": "Поддельная колода карт Дракона",
+  "form_id": "000008A0|DBM_ReplicaPatchNG.esp",
+  "type": "MISC FULL",
+  "index": null,
+  "editor_id": "DBM_DECKDraconiansREPLICA"
+ },
+ {
+  "original": "Counterfeit Deck of Fortune",
+  "string": "Поддельная колода карт Фортуны",
+  "form_id": "000008A1|DBM_ReplicaPatchNG.esp",
+  "type": "MISC FULL",
+  "index": null,
+  "editor_id": "DBM_DECKFortuneREPLICA"
+ },
+ {
+  "original": "Counterfeit Deck of Mystics",
+  "string": "Поддельная колода карт Мистика",
+  "form_id": "000008A2|DBM_ReplicaPatchNG.esp",
+  "type": "MISC FULL",
+  "index": null,
+  "editor_id": "DBM_DeckMysticsREPLICA"
+ },
+ {
+  "original": "Counterfeit Deck of Shadows",
+  "string": "Поддельная колода карт Тени",
+  "form_id": "000008A3|DBM_ReplicaPatchNG.esp",
+  "type": "MISC FULL",
+  "index": null,
+  "editor_id": "DBM_DECKShadowsREPLICA"
+ },
+ {
+  "original": "Counterfeit Deck of Spiders",
+  "string": "Поддельная колода карт Паука",
+  "form_id": "000008A4|DBM_ReplicaPatchNG.esp",
+  "type": "MISC FULL",
+  "index": null,
+  "editor_id": "DBM_DeckSpidersREPLICA"
+ },
+ {
+  "original": "Counterfeit Deck of Travelers",
+  "string": "Поддельная колода карт Странника",
+  "form_id": "000008A5|DBM_ReplicaPatchNG.esp",
+  "type": "MISC FULL",
+  "index": null,
+  "editor_id": "DBM_DECKTravelerREPLICA"
+ },
+ {
+  "original": "Counterfeit Deck of Walls",
+  "string": "Поддельная колода карт Стены",
+  "form_id": "000008A6|DBM_ReplicaPatchNG.esp",
+  "type": "MISC FULL",
+  "index": null,
+  "editor_id": "DBM_DeckWallsREPLICA"
+ },
+ {
+  "original": "Diamond Claw (replica)",
+  "string": "Алмазный коготь (копия)",
+  "form_id": "000008BA|DBM_ReplicaPatchNG.esp",
+  "type": "MISC FULL",
+  "index": null,
+  "editor_id": "dunSkuldafnDiamondClawREPLICA"
+ },
+ {
+  "original": "Amethyst Claw, Right Half (replica)",
+  "string": "Аметистовый коготь, правая половина (копия)",
+  "form_id": "000008BB|DBM_ReplicaPatchNG.esp",
+  "type": "MISC FULL",
+  "index": null,
+  "editor_id": "DLC2SV01HalfClawRightREPLICA"
+ },
+ {
+  "original": "Amethyst Claw, Left Half (replica)",
+  "string": "Аметистовый коготь, левая половина (копия)",
+  "form_id": "000008BC|DBM_ReplicaPatchNG.esp",
+  "type": "MISC FULL",
+  "index": null,
+  "editor_id": "DLC2SV01HalfClawLeftREPLICA"
+ },
+ {
+  "original": "Ruby Dragon Claw (replica)",
+  "string": "Рубиновый драконий коготь (копия)",
+  "form_id": "000008BD|DBM_ReplicaPatchNG.esp",
+  "type": "MISC FULL",
+  "index": null,
+  "editor_id": "dunDeadMensRubyDragonClawREPLICA"
+ },
+ {
+  "original": "Ebony Claw (replica)",
+  "string": "Эбонитовый коготь (копия)",
+  "form_id": "000008BE|DBM_ReplicaPatchNG.esp",
+  "type": "MISC FULL",
+  "index": null,
+  "editor_id": "dunKorvanjundEbonyDragonClawREPLICA"
+ },
+ {
+  "original": "Sapphire Dragon Claw (replica)",
+  "string": "Сапфировый драконий коготь (копия)",
+  "form_id": "000008BF|DBM_ReplicaPatchNG.esp",
+  "type": "MISC FULL",
+  "index": null,
+  "editor_id": "FFI01ClawREPLICA"
+ },
+ {
+  "original": "Glass Claw (replica)",
+  "string": "Стеклянный коготь (копия)",
+  "form_id": "000008C0|DBM_ReplicaPatchNG.esp",
+  "type": "MISC FULL",
+  "index": null,
+  "editor_id": "dunForelhostGlassClawREPLICA"
+ },
+ {
+  "original": "Iron Claw (replica)",
+  "string": "Железный коготь (копия)",
+  "form_id": "000008C1|DBM_ReplicaPatchNG.esp",
+  "type": "MISC FULL",
+  "index": null,
+  "editor_id": "dunValthumeIronClawREPLICA"
+ },
+ {
+  "original": "Ivory Dragon Claw (replica)",
+  "string": "Костяной драконий коготь (копия)",
+  "form_id": "000008C2|DBM_ReplicaPatchNG.esp",
+  "type": "MISC FULL",
+  "index": null,
+  "editor_id": "dunFolgunthurIvoryDragonClawREPLICA"
+ },
+ {
+  "original": "Coral Dragon Claw (replica)",
+  "string": "Коралловый драконий коготь (копия)",
+  "form_id": "000008C3|DBM_ReplicaPatchNG.esp",
+  "type": "MISC FULL",
+  "index": null,
+  "editor_id": "dunYngolBarrowCoralClawREPLICA"
+ },
+ {
+  "original": "Emerald Dragon Claw (replica)",
+  "string": "Изумрудный драконий коготь (копия)",
+  "form_id": "000008C4|DBM_ReplicaPatchNG.esp",
+  "type": "MISC FULL",
+  "index": null,
+  "editor_id": "dunReachwaterRockEmeraldDragonClawREPLICA"
+ },
+ {
+  "original": "Jade Claw (replica)",
+  "string": "Нефритовый коготь (копия)",
+  "form_id": "000008D0|DBM_ReplicaPatchNG.esp",
+  "type": "MISC FULL",
+  "index": null,
+  "editor_id": "DBM_JadeClawREPLICA"
+ },
+ {
+  "original": "The Winterhold Staff (replica)",
+  "string": "Посох тана Винтерхолда (копия)",
+  "form_id": "0000080E|DBM_ReplicaPatchNG.esp",
+  "type": "WEAP FULL",
+  "index": null,
+  "editor_id": "DBMTWR_WinterholdStaffREPLICA"
+ },
+ {
+  "original": "The Waraxe of Windhelm (replica)",
+  "string": "Боевой топор тана Виндхельма (копия)",
+  "form_id": "00000811|DBM_ReplicaPatchNG.esp",
+  "type": "WEAP FULL",
+  "index": null,
+  "editor_id": "DBMTWR_WindhelmAxe01REPLICA"
+ },
+ {
+  "original": "The Battleaxe of Windhelm (replica)",
+  "string": "Секира тана Виндхельма (копия)",
+  "form_id": "00000816|DBM_ReplicaPatchNG.esp",
+  "type": "WEAP FULL",
+  "index": null,
+  "editor_id": "DBMTWR_WindhelmBattleaxe01REPLICA"
+ },
+ {
+  "original": "The Greatsword of Whiterun (replica)",
+  "string": "Двуручный меч тана Вайтрана (копия)",
+  "form_id": "00000817|DBM_ReplicaPatchNG.esp",
+  "type": "WEAP FULL",
+  "index": null,
+  "editor_id": "DBMTWR_WhiterunGreatsword01REPLICA"
+ },
+ {
+  "original": "The Sword of Whiterun (replica)",
+  "string": "Меч тана Вайтрана (копия)",
+  "form_id": "00000818|DBM_ReplicaPatchNG.esp",
+  "type": "WEAP FULL",
+  "index": null,
+  "editor_id": "DBMTWR_WhiterunSword01REPLICA"
+ },
+ {
+  "original": "The Greatsword of Solitude (replica)",
+  "string": "Двуручный меч тана Солитьюда (копия)",
+  "form_id": "00000819|DBM_ReplicaPatchNG.esp",
+  "type": "WEAP FULL",
+  "index": null,
+  "editor_id": "DBMTWR_SolitudeGreatsword01REPLICA"
+ },
+ {
+  "original": "The Sword of Solitude (replica)",
+  "string": "Меч тана Солитьюда (копия)",
+  "form_id": "0000081A|DBM_ReplicaPatchNG.esp",
+  "type": "WEAP FULL",
+  "index": null,
+  "editor_id": "DBMTWR_SolitudeSword01REPLICA"
+ },
+ {
+  "original": "The Dagger of Riften (replica)",
+  "string": "Кинжал тана Рифтена (копия)",
+  "form_id": "0000081B|DBM_ReplicaPatchNG.esp",
+  "type": "WEAP FULL",
+  "index": null,
+  "editor_id": "DBMTWR_RiftenDagger01REPLICA"
+ },
+ {
+  "original": "The Waraxe of Morthal (replica)",
+  "string": "Боевой топор тана Морфала (копия)",
+  "form_id": "0000081C|DBM_ReplicaPatchNG.esp",
+  "type": "WEAP FULL",
+  "index": null,
+  "editor_id": "DBMTWR_MorthalAxe01REPLICA"
+ },
+ {
+  "original": "The Battleaxe of Morthal (replica)",
+  "string": "Секира тана Морфала (копия)",
+  "form_id": "0000081D|DBM_ReplicaPatchNG.esp",
+  "type": "WEAP FULL",
+  "index": null,
+  "editor_id": "DBMTWR_MorthalBattleaxe01REPLICA"
+ },
+ {
+  "original": "The Hammer of Markarth (replica)",
+  "string": "Молот тана Маркарта (копия)",
+  "form_id": "0000081E|DBM_ReplicaPatchNG.esp",
+  "type": "WEAP FULL",
+  "index": null,
+  "editor_id": "DBMTWR_MarkarthHammer01REPLICA"
+ },
+ {
+  "original": "The Warhammer of Markarth (replica)",
+  "string": "Боевой молот тана Маркарта (копия)",
+  "form_id": "0000081F|DBM_ReplicaPatchNG.esp",
+  "type": "WEAP FULL",
+  "index": null,
+  "editor_id": "DBMTWR_MarkarthWarhammer01REPLICA"
+ },
+ {
+  "original": "The Bow of Falkreath (replica)",
+  "string": "Лук тана Фолкрита (копия)",
+  "form_id": "00000820|DBM_ReplicaPatchNG.esp",
+  "type": "WEAP FULL",
+  "index": null,
+  "editor_id": "DBMTWR_Falkreathbow01REPLICA"
+ },
+ {
+  "original": "The Battlemace of Dawnstar (replica)",
+  "string": "Боевая булава тана Данстара (копия)",
+  "form_id": "00000821|DBM_ReplicaPatchNG.esp",
+  "type": "WEAP FULL",
+  "index": null,
+  "editor_id": "DBMTWR_DawnstarBattleMace01REPLICA"
+ },
+ {
+  "original": "The Mace of Dawnstar (replica)",
+  "string": "Булава тана Данстара (копия)",
+  "form_id": "00000822|DBM_ReplicaPatchNG.esp",
+  "type": "WEAP FULL",
+  "index": null,
+  "editor_id": "DBMTWR_DawnstarMace01REPLICA"
+ },
+ {
+  "original": "Hoarfrost (replica)",
+  "string": "Белый Иней (копия)",
+  "form_id": "00000840|DBM_ReplicaPatchNG.esp",
+  "type": "WEAP FULL",
+  "index": null,
+  "editor_id": "DLC2dunKolbjornRalisPickaxeREPLICA"
+ },
+ {
+  "original": "Notched Pickaxe (replica)",
+  "string": "Зазубренная кирка (копия)",
+  "form_id": "00000841|DBM_ReplicaPatchNG.esp",
+  "type": "WEAP FULL",
+  "index": null,
+  "editor_id": "dunVolunruudPickaxeREPLICA"
+ },
+ {
+  "original": "The Woodsman's Friend (replica)",
+  "string": "Друг лесника (копия)",
+  "form_id": "00000842|DBM_ReplicaPatchNG.esp",
+  "type": "WEAP FULL",
+  "index": null,
+  "editor_id": "dunPinewoodGroveWoodsmansFriendREPLICA"
+ },
+ {
+  "original": "Hagram's Light (replica)",
+  "string": "Свет Хаграма (копия)",
+  "form_id": "00000843|DBM_ReplicaPatchNG.esp",
+  "type": "WEAP FULL",
+  "index": null,
+  "editor_id": "DBM_HagramSwordREPLICA"
+ },
+ {
+  "original": "Rising Dawn (replica)",
+  "string": "Утренняя Заря (копия)",
+  "form_id": "00000844|DBM_ReplicaPatchNG.esp",
+  "type": "WEAP FULL",
+  "index": null,
+  "editor_id": "DBM_MAASE_BattleaxeRisingDawnREPLICA"
+ },
+ {
+  "original": "Snowfall (replica)",
+  "string": "Снегопад (копия)",
+  "form_id": "00000845|DBM_ReplicaPatchNG.esp",
+  "type": "WEAP FULL",
+  "index": null,
+  "editor_id": "DBM_MAASE_BowSnowFallREPLICA"
+ },
+ {
+  "original": "Wraith's Bite (replica)",
+  "string": "Укус Призрака (копия)",
+  "form_id": "00000846|DBM_ReplicaPatchNG.esp",
+  "type": "WEAP FULL",
+  "index": null,
+  "editor_id": "DBM_MAASE_DaggerWraithsBiteREPLICA"
+ },
+ {
+  "original": "Glacial Spire (replica)",
+  "string": "Ледяной Шпиль (копия)",
+  "form_id": "00000847|DBM_ReplicaPatchNG.esp",
+  "type": "WEAP FULL",
+  "index": null,
+  "editor_id": "DBM_MAASE_GreatswordGlacialSpireREPLICA"
+ },
+ {
+  "original": "Trinimac's Might (replica)",
+  "string": "Могущество Тринимака (копия)",
+  "form_id": "00000848|DBM_ReplicaPatchNG.esp",
+  "type": "WEAP FULL",
+  "index": null,
+  "editor_id": "DBM_MAASE_MaceTrinimacMightREPLICA"
+ },
+ {
+  "original": "Winter Storm (replica)",
+  "string": "Зимний Шторм (копия)",
+  "form_id": "00000849|DBM_ReplicaPatchNG.esp",
+  "type": "WEAP FULL",
+  "index": null,
+  "editor_id": "DBM_MAASE_SwordWinterStormREPLICA"
+ },
+ {
+  "original": "Frostwarden (replica)",
+  "string": "Ледяной Страж (копия)",
+  "form_id": "0000084A|DBM_ReplicaPatchNG.esp",
+  "type": "WEAP FULL",
+  "index": null,
+  "editor_id": "DBM_MAASE_WaraxeFrostwardenREPLICA"
+ },
+ {
+  "original": "Black Ice (replica)",
+  "string": "Черный Лед (копия)",
+  "form_id": "0000084B|DBM_ReplicaPatchNG.esp",
+  "type": "WEAP FULL",
+  "index": null,
+  "editor_id": "DBM_MAASE_WarHammerBlackIceREPLICA"
+ }
+]

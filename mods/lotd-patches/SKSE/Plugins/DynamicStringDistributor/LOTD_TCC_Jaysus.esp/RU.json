@@ -1,0 +1,18 @@
+[
+ {
+  "original": "The Curators Companion - Jaysus Swords",
+  "string": "Помощник куратора - Jaysus Swords",
+  "form_id": "00000803|LOTD_TCC_Jaysus.esp",
+  "type": "QUST FULL",
+  "index": null,
+  "editor_id": "TCC_SM_Jaysus"
+ },
+ {
+  "original": "<font color='#<Alias=ColourAlias>'>The Curators Companion: Mod Complete (Jaysus Swords)</font>",
+  "string": "<font color='#<Alias=ColourAlias>'>Компаньон куратора: мод завершен (Мечи Jaysus)</font>",
+  "form_id": "00000804|LOTD_TCC_Jaysus.esp",
+  "type": "MESG DESC",
+  "index": null,
+  "editor_id": "_CompleteNotification_Jaysus"
+ }
+]

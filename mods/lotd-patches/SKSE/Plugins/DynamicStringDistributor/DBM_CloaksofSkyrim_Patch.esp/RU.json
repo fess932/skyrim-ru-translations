@@ -1,0 +1,26 @@
+[
+ {
+  "original": "Cloaks of Skyrim",
+  "string": "Плащи Скайрима",
+  "form_id": "00000804|DBM_CloaksofSkyrim_Patch.esp",
+  "type": "CONT FULL",
+  "index": null,
+  "editor_id": "DBM_CheatCrateSMCloaks"
+ },
+ {
+  "original": "Cloak Closet",
+  "string": "Шкаф для плащей",
+  "form_id": "00000827|DBM_CloaksofSkyrim_Patch.esp",
+  "type": "CONT FULL",
+  "index": null,
+  "editor_id": "DBM_CloaksStorage"
+ },
+ {
+  "original": "Cloaks Support Handler",
+  "string": "Поддержка Cloaks (служебный)",
+  "form_id": "00000801|DBM_CloaksofSkyrim_Patch.esp",
+  "type": "QUST FULL",
+  "index": null,
+  "editor_id": "DBM_SupportedModCloaks"
+ }
+]

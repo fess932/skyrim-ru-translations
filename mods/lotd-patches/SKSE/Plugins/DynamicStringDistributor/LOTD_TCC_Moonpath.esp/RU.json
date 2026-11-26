@@ -1,0 +1,18 @@
+[
+ {
+  "original": "The Curators Companion - Moonpath to Elsweyr",
+  "string": "Помощник куратора - Moonpath to Elsweyr",
+  "form_id": "00000803|LOTD_TCC_Moonpath.esp",
+  "type": "QUST FULL",
+  "index": null,
+  "editor_id": "TCC_SM_Moonpath"
+ },
+ {
+  "original": "<font color='#<Alias=ColourAlias>'>The Curators Companion: Mod Complete (Moonpath to Elsweyr)</font>",
+  "string": "<font color='#<Alias=ColourAlias>'>Компаньон куратора: мод завершен (Лунная тропа в Эльсвейр)</font>",
+  "form_id": "00000804|LOTD_TCC_Moonpath.esp",
+  "type": "MESG DESC",
+  "index": null,
+  "editor_id": "_CompleteNotification_Moonpath"
+ }
+]

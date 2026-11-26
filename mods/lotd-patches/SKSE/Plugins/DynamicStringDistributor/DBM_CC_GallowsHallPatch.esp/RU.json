@@ -1,0 +1,50 @@
+[
+ {
+  "original": "Staff of Worms",
+  "string": "Посох Червей",
+  "form_id": "00000802|DBM_CC_GallowsHallPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTStaffofWorms"
+ },
+ {
+  "original": "Bloodworm Helm",
+  "string": "Шлем Кровавого Червя",
+  "form_id": "00000CCF|ccrmssse001-necrohouse.esl",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "ccRMSSSE001_BloodwormHelm"
+ },
+ {
+  "original": "Bloodworm Helm",
+  "string": "Шлем Кровавого Червя",
+  "form_id": "0000080F|DBM_CC_GallowsHallPatch.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "DBM_CC_BloodwormHelm_DISP"
+ },
+ {
+  "original": "Helm of Oreyn Bearclaw",
+  "string": "Шлем Орейна Медвежий Коготь",
+  "form_id": "00000810|DBM_CC_GallowsHallPatch.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "DBM_CC_HelmOfOreynBearclaw_DISP"
+ },
+ {
+  "original": "Staff of Worms (replica)",
+  "string": "Посох Червей (копия)",
+  "form_id": "0000080B|DBM_CC_GallowsHallPatch.esp",
+  "type": "WEAP FULL",
+  "index": null,
+  "editor_id": "DBM_CC_StaffofWormsREPLICA"
+ },
+ {
+  "original": "CC Gallows Hall Support Handler",
+  "string": "Поддержка Висельного зала (служебный)",
+  "form_id": "00000806|DBM_CC_GallowsHallPatch.esp",
+  "type": "QUST FULL",
+  "index": null,
+  "editor_id": "DBM_CC_GallowsHallSupportHandler"
+ }
+]

@@ -1,0 +1,66 @@
+[
+ {
+  "original": "Jarrik's Crusher",
+  "string": "Крушитель Яррика",
+  "form_id": "00000800|DBM_Falskaar_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTFalskaarJarriksCrusher"
+ },
+ {
+  "original": "Vanvir's Masterpiece",
+  "string": "Шедевр Ванвира",
+  "form_id": "00000801|DBM_Falskaar_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTFalskaarVanvirsMasterpiece"
+ },
+ {
+  "original": "Barkrot",
+  "string": "Баркрот",
+  "form_id": "00000802|DBM_Falskaar_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTFalskaarBarkot"
+ },
+ {
+  "original": "Falskaar Quest Display",
+  "string": "Экспозиция задания \"Фальскаар\"",
+  "form_id": "0000081C|DBM_Falskaar_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_QPlaqueFalskaar"
+ },
+ {
+  "original": "Read Plaque:",
+  "string": "Прочитать табличку:",
+  "form_id": "0000081C|DBM_Falskaar_Patch.esp",
+  "type": "ACTI RNAM",
+  "index": null,
+  "editor_id": "DBM_QPlaqueFalskaar"
+ },
+ {
+  "original": "Falskaar Display Items",
+  "string": "Экспонаты Фальскаара",
+  "form_id": "0000081D|DBM_Falskaar_Patch.esp",
+  "type": "CONT FULL",
+  "index": null,
+  "editor_id": "DBM_CheatCrateFalskaar"
+ },
+ {
+  "original": "Vanvir's Masterpiece (Replica)",
+  "string": "Шедевр Ванвира (копия)",
+  "form_id": "000009D9|DBM_Falskaar_Patch.esp",
+  "type": "WEAP FULL",
+  "index": null,
+  "editor_id": "FSVanvirsMasterpieceREPLICA"
+ },
+ {
+  "original": "Supported Mod Falskaar",
+  "string": "Поддержка мода Фальскаар",
+  "form_id": "00000805|DBM_Falskaar_Patch.esp",
+  "type": "QUST FULL",
+  "index": null,
+  "editor_id": "DBM_SupportedModFalskaar"
+ }
+]

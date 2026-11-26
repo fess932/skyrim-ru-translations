@@ -1,0 +1,242 @@
+[
+ {
+  "original": "Fire Plate Robes",
+  "string": "Огненное латное одеяние",
+  "form_id": "0000080D|DBM_KA_ReplicaPatch.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "KA_DLCArmorDragonPriestRobesDFFireHVY"
+ },
+ {
+  "original": "Fire Scale Gloves",
+  "string": "Огненные чешуйчатые перчатки",
+  "form_id": "0000080E|DBM_KA_ReplicaPatch.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "KA_DLCArmorDragonPriestGauntletsDFFire"
+ },
+ {
+  "original": "Fire Scale Greaves",
+  "string": "Огненные чешуйчатые поножи",
+  "form_id": "0000080F|DBM_KA_ReplicaPatch.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "KA_DLCArmorDragonPriestBootsDFFire"
+ },
+ {
+  "original": "Fire Scale Robes",
+  "string": "Огненное чешуйчатое одеяние",
+  "form_id": "00000810|DBM_KA_ReplicaPatch.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "KA_DLCClothesDragonPriestRobesDFFire"
+ },
+ {
+  "original": "Frost Plate Robes",
+  "string": "Морозное латное одеяние",
+  "form_id": "00000811|DBM_KA_ReplicaPatch.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "KA_DLCArmorDragonPriestRobesDFFrostHVY"
+ },
+ {
+  "original": "Frost Scale Gloves",
+  "string": "Морозные чешуйчатые перчатки",
+  "form_id": "00000812|DBM_KA_ReplicaPatch.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "KA_DLCArmorDragonPriestGauntletsDFFrost"
+ },
+ {
+  "original": "Frost Scale Greaves",
+  "string": "Морозные чешуйчатые поножи",
+  "form_id": "00000813|DBM_KA_ReplicaPatch.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "KA_DLCArmorDragonPriestBootsDFFrost"
+ },
+ {
+  "original": "Frost Scale Robes",
+  "string": "Морозное чешуйчатое одеяние",
+  "form_id": "00000814|DBM_KA_ReplicaPatch.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "KA_DLCClothesDragonPriestDFRobesFrost"
+ },
+ {
+  "original": "Void Plate Robes",
+  "string": "Латное одеяние пустоты",
+  "form_id": "00000815|DBM_KA_ReplicaPatch.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "KA_DLCArmorDragonPriestRobesDFShockHVY"
+ },
+ {
+  "original": "Void Scale Gloves",
+  "string": "Чешуйчатые перчатки пустоты",
+  "form_id": "00000816|DBM_KA_ReplicaPatch.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "KA_DLCArmorDragonPriestGauntletsDFShock"
+ },
+ {
+  "original": "Void Scale Greaves",
+  "string": "Чешуйчатые поножи пустоты",
+  "form_id": "00000817|DBM_KA_ReplicaPatch.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "KA_DLCArmorDragonPriestBootsDFShock"
+ },
+ {
+  "original": "Void Scale Robes",
+  "string": "Чешуйчатое одеяние пустоты",
+  "form_id": "00000818|DBM_KA_ReplicaPatch.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "KA_DLCClothesDragonPriestRobesDFShock"
+ },
+ {
+  "original": "Malachite Plate Robes",
+  "string": "Малахитовое латное одеяние",
+  "form_id": "00000819|DBM_KA_ReplicaPatch.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "KA_ArmorDragonPriestRobesDFMarble"
+ },
+ {
+  "original": "Malachite Scale Gloves",
+  "string": "Малахитовые чешуйчатые перчатки",
+  "form_id": "0000081A|DBM_KA_ReplicaPatch.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "KA_ArmorDragonPriestGauntletsDFMarble"
+ },
+ {
+  "original": "Malachite Scale Greaves",
+  "string": "Малахитовые чешуйчатые поножи",
+  "form_id": "0000081B|DBM_KA_ReplicaPatch.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "KA_ArmorDragonPriestBootsDFMarble"
+ },
+ {
+  "original": "Malachite Scale Robes",
+  "string": "Малахитовое чешуйчатое одеяние",
+  "form_id": "0000081C|DBM_KA_ReplicaPatch.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "KA_ClothesDragonPriestRobesDFMarble"
+ },
+ {
+  "original": "Malachite Mask",
+  "string": "Малахитовая маска",
+  "form_id": "0000081D|DBM_KA_ReplicaPatch.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "KA_ArmorDragonPriestMaskMarbleHelmet"
+ },
+ {
+  "original": "Gold Plate Robes",
+  "string": "Золотое латное одеяние",
+  "form_id": "0000081E|DBM_KA_ReplicaPatch.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "KA_ArmorDragonPriestRobesDFGold"
+ },
+ {
+  "original": "Gold Plate Robes",
+  "string": "Золотое латное одеяние",
+  "form_id": "0000081F|DBM_KA_ReplicaPatch.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "KA_ArmorDragonPriestRobesDFGoldLGT"
+ },
+ {
+  "original": "Gold Scale Gloves",
+  "string": "Золотые чешуйчатые перчатки",
+  "form_id": "00000820|DBM_KA_ReplicaPatch.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "KA_ArmorDragonPriestGauntletsDFGold"
+ },
+ {
+  "original": "Gold Scale Gloves",
+  "string": "Золотые чешуйчатые перчатки",
+  "form_id": "00000821|DBM_KA_ReplicaPatch.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "KA_ArmorDragonPriestGauntletsDFGoldLGT"
+ },
+ {
+  "original": "Gold Scale Greaves",
+  "string": "Золотые чешуйчатые поножи",
+  "form_id": "00000822|DBM_KA_ReplicaPatch.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "KA_ArmorDragonPriestBootsDFGold"
+ },
+ {
+  "original": "Gold Scale Greaves",
+  "string": "Золотые чешуйчатые поножи",
+  "form_id": "00000823|DBM_KA_ReplicaPatch.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "KA_ArmorDragonPriestBootsDFGoldLGT"
+ },
+ {
+  "original": "Gold Scale Robes",
+  "string": "Золотое чешуйчатое одеяние",
+  "form_id": "00000824|DBM_KA_ReplicaPatch.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "KA_ClothesDragonPriestRobesDFGold"
+ },
+ {
+  "original": "Gold Mask",
+  "string": "Золотая маска",
+  "form_id": "00000825|DBM_KA_ReplicaPatch.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "KA_ArmorDragonPriestMaskGoldHelmet"
+ },
+ {
+  "original": "Gold Mask",
+  "string": "Золотая маска",
+  "form_id": "00000826|DBM_KA_ReplicaPatch.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "KA_ArmorDragonPriestMaskGoldHelmetLGT"
+ },
+ {
+  "original": "Clay Mask (replica)",
+  "string": "Глиняная маска (копия)",
+  "form_id": "0000082F|DBM_KA_ReplicaPatch.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "KA_dunRevakheimMaskClayREPLICA"
+ },
+ {
+  "original": "Fodiiz's Robes (replica)",
+  "string": "Роба Фодиза (копия)",
+  "form_id": "0000084A|DBM_KA_ReplicaPatch.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "KA_dunClothesDragonPriestRobesIronREPLICA"
+ },
+ {
+  "original": "Elder Scroll (Warlord) - Replica",
+  "string": "Древний свиток (Полководец) - копия",
+  "form_id": "0000084E|DBM_KA_ReplicaPatch.esp",
+  "type": "BOOK FULL",
+  "index": null,
+  "editor_id": "KA_ElderScrollWarlordREPLICA"
+ },
+ {
+  "original": "<Cool graphic>",
+  "string": "<Cool graphic>",
+  "form_id": "0000084E|DBM_KA_ReplicaPatch.esp",
+  "type": "BOOK DESC",
+  "index": null,
+  "editor_id": "KA_ElderScrollWarlordREPLICA"
+ }
+]

@@ -1,0 +1,18 @@
+[
+ {
+  "original": "The Curators Companion - Royal Armory",
+  "string": "Помощник куратора - Royal Armory",
+  "form_id": "00000803|LOTD_TCC_Royal.esp",
+  "type": "QUST FULL",
+  "index": null,
+  "editor_id": "TCC_SM_RoyalArmory"
+ },
+ {
+  "original": "<font color='#<Alias=ColourAlias>'>The Curators Companion: Mod Complete (Royal Armory)</font>",
+  "string": "<font color='#<Alias=ColourAlias>'>Компаньон куратора: мод завершен (Королевская оружейная)</font>",
+  "form_id": "00000804|LOTD_TCC_Royal.esp",
+  "type": "MESG DESC",
+  "index": null,
+  "editor_id": "_CompleteNotification_Royal"
+ }
+]

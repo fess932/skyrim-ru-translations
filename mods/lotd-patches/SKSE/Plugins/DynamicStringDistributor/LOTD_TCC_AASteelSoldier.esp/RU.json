@@ -1,0 +1,18 @@
+[
+ {
+  "original": "The Curators Companion - Alternate Armors - Steel Soldier",
+  "string": "Помощник куратора - Альтернативная броня - Стальной солдат",
+  "form_id": "00000803|LOTD_TCC_AASteelSoldier.esp",
+  "type": "QUST FULL",
+  "index": null,
+  "editor_id": "TCC_SM_AASteelSoldier"
+ },
+ {
+  "original": "<font color='#<Alias=ColourAlias>'>The Curators Companion: Mod Complete (Steel Soldier)</font>",
+  "string": "<font color='#<Alias=ColourAlias>'>Компаньон куратора: Мод завершен (Стальной солдат)</font>",
+  "form_id": "00000802|LOTD_TCC_AASteelSoldier.esp",
+  "type": "MESG DESC",
+  "index": null,
+  "editor_id": "_CompleteNotification_AASteelSoldier"
+ }
+]

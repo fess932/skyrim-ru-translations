@@ -1,0 +1,170 @@
+[
+ {
+  "original": "The Curators Companion - Heavy Armory",
+  "string": "Помощник куратора - Heavy Armory",
+  "form_id": "00000803|LOTD_TCC_HeavyArm.esp",
+  "type": "QUST FULL",
+  "index": null,
+  "editor_id": "TCC_SM_HeavyArmory"
+ },
+ {
+  "original": "<font color='#<Alias=ColourAlias>'>The Curators Companion: Mod Complete (Heavy Armory)</font>",
+  "string": "<font color='#<Alias=ColourAlias>'>Компаньон куратора: Мод завершен (Тяжелая броня)</font>",
+  "form_id": "00000804|LOTD_TCC_HeavyArm.esp",
+  "type": "MESG DESC",
+  "index": null,
+  "editor_id": "_CompleteNotification_HeavyArm"
+ },
+ {
+  "original": "<font color='#<Alias=ColourAlias>'>The Curators Companion: Heavy Armory Set Complete (Ancient Nord)</font>",
+  "string": "<font color='#<Alias=ColourAlias>'>Компаньон куратора: Комплект из мода \"Тяжелая броня\" собран (Древнее нордское снаряжение)</font>",
+  "form_id": "0000082D|LOTD_TCC_HeavyArm.esp",
+  "type": "MESG DESC",
+  "index": null,
+  "editor_id": "DBM_SectionArmoryHAAncientNordic_Notification"
+ },
+ {
+  "original": "<font color='#<Alias=ColourAlias>'>The Curators Companion: Heavy Armory Set Complete (Blades)</font>",
+  "string": "<font color='#<Alias=ColourAlias>'>Компаньон куратора: Комплект из мода \"Тяжелая броня\" собран (Клинки)</font>",
+  "form_id": "0000082E|LOTD_TCC_HeavyArm.esp",
+  "type": "MESG DESC",
+  "index": null,
+  "editor_id": "DBM_SectionArmoryHABlades_Notification"
+ },
+ {
+  "original": "<font color='#<Alias=ColourAlias>'>The Curators Companion: Heavy Armory Set Complete (Daedric)</font>",
+  "string": "<font color='#<Alias=ColourAlias>'>Компаньон куратора: Комплект из мода \"Тяжелая броня\" собран (Даэдрическое снаряжение)</font>",
+  "form_id": "0000082F|LOTD_TCC_HeavyArm.esp",
+  "type": "MESG DESC",
+  "index": null,
+  "editor_id": "DBM_SectionArmoryHADaedric_Notification"
+ },
+ {
+  "original": "<font color='#<Alias=ColourAlias>'>The Curators Companion: Heavy Armory Set Complete (Dawnguard)</font>",
+  "string": "<font color='#<Alias=ColourAlias>'>Компаньон куратора: Комплект из мода \"Тяжелая броня\" собран (Страж Рассвета)</font>",
+  "form_id": "00000830|LOTD_TCC_HeavyArm.esp",
+  "type": "MESG DESC",
+  "index": null,
+  "editor_id": "DBM_SectionArmoryHADawnguard_Notification"
+ },
+ {
+  "original": "<font color='#<Alias=ColourAlias>'>The Curators Companion: Heavy Armory Set Complete (Dragon)</font>",
+  "string": "<font color='#<Alias=ColourAlias>'>Компаньон куратора: Комплект из мода \"Тяжелая броня\" собран (Драконье снаряжение)</font>",
+  "form_id": "00000831|LOTD_TCC_HeavyArm.esp",
+  "type": "MESG DESC",
+  "index": null,
+  "editor_id": "DBM_SectionArmoryHADragon_Notification"
+ },
+ {
+  "original": "<font color='#<Alias=ColourAlias>'>The Curators Companion: Heavy Armory Set Complete (Dwarven)</font>",
+  "string": "<font color='#<Alias=ColourAlias>'>Компаньон куратора: Комплект из мода \"Тяжелая броня\" собран (Двемерское снаряжение)</font>",
+  "form_id": "00000832|LOTD_TCC_HeavyArm.esp",
+  "type": "MESG DESC",
+  "index": null,
+  "editor_id": "DBM_SectionArmoryHADwarven_Notification"
+ },
+ {
+  "original": "<font color='#<Alias=ColourAlias>'>The Curators Companion: Heavy Armory Set Complete (Ebony)</font>",
+  "string": "<font color='#<Alias=ColourAlias>'>Компаньон куратора: Комплект из мода \"Тяжелая броня\" собран (Эбонитовое снаряжение)</font>",
+  "form_id": "00000833|LOTD_TCC_HeavyArm.esp",
+  "type": "MESG DESC",
+  "index": null,
+  "editor_id": "DBM_SectionArmoryHAEbony_Notification"
+ },
+ {
+  "original": "<font color='#<Alias=ColourAlias>'>The Curators Companion: Heavy Armory Set Complete (Elven)</font>",
+  "string": "<font color='#<Alias=ColourAlias>'>Компаньон куратора: Комплект из мода \"Тяжелая броня\" собран (Эльфийское снаряжение)</font>",
+  "form_id": "00000834|LOTD_TCC_HeavyArm.esp",
+  "type": "MESG DESC",
+  "index": null,
+  "editor_id": "DBM_SectionArmoryHAElven_Notification"
+ },
+ {
+  "original": "<font color='#<Alias=ColourAlias>'>The Curators Companion: Heavy Armory Set Complete (Falmer)</font>",
+  "string": "<font color='#<Alias=ColourAlias>'>Компаньон куратора: Комплект из мода \"Тяжелая броня\" собран (Фалмер)</font>",
+  "form_id": "00000835|LOTD_TCC_HeavyArm.esp",
+  "type": "MESG DESC",
+  "index": null,
+  "editor_id": "DBM_SectionArmoryHAFalmer_Notification"
+ },
+ {
+  "original": "<font color='#<Alias=ColourAlias>'>The Curators Companion: Heavy Armory Set Complete (Forsworn)</font>",
+  "string": "<font color='#<Alias=ColourAlias>'>Компаньон куратора: Комплект из мода \"Тяжелая броня\" собран (Изгой)</font>",
+  "form_id": "00000836|LOTD_TCC_HeavyArm.esp",
+  "type": "MESG DESC",
+  "index": null,
+  "editor_id": "DBM_SectionArmoryHAForsworn_Notification"
+ },
+ {
+  "original": "<font color='#<Alias=ColourAlias>'>The Curators Companion: Heavy Armory Set Complete (Glass)</font>",
+  "string": "<font color='#<Alias=ColourAlias>'>Компаньон куратора: Комплект из мода \"Тяжелая броня\" собран (Стекло)</font>",
+  "form_id": "00000837|LOTD_TCC_HeavyArm.esp",
+  "type": "MESG DESC",
+  "index": null,
+  "editor_id": "DBM_SectionArmoryHAGlass_Notification"
+ },
+ {
+  "original": "<font color='#<Alias=ColourAlias>'>The Curators Companion: Heavy Armory Set Complete (Imperial)</font>",
+  "string": "<font color='#<Alias=ColourAlias>'>Компаньон куратора: Комплект из мода \"Тяжелая броня\" собран (Империя)</font>",
+  "form_id": "00000838|LOTD_TCC_HeavyArm.esp",
+  "type": "MESG DESC",
+  "index": null,
+  "editor_id": "DBM_SectionArmoryHAImperial_Notification"
+ },
+ {
+  "original": "<font color='#<Alias=ColourAlias>'>The Curators Companion: Heavy Armory Set Complete (Iron)</font>",
+  "string": "<font color='#<Alias=ColourAlias>'>Компаньон куратора: Комплект из мода \"Тяжелая броня\" собран (Железное снаряжение)</font>",
+  "form_id": "00000839|LOTD_TCC_HeavyArm.esp",
+  "type": "MESG DESC",
+  "index": null,
+  "editor_id": "DBM_SectionArmoryHAIron_Notification"
+ },
+ {
+  "original": "<font color='#<Alias=ColourAlias>'>The Curators Companion: Heavy Armory Set Complete (Nord Hero)</font>",
+  "string": "<font color='#<Alias=ColourAlias>'>Компаньон куратора: Комплект из мода \"Тяжелая броня\" собран (Нордский герой)</font>",
+  "form_id": "0000083A|LOTD_TCC_HeavyArm.esp",
+  "type": "MESG DESC",
+  "index": null,
+  "editor_id": "DBM_SectionArmoryHANordHero_Notification"
+ },
+ {
+  "original": "<font color='#<Alias=ColourAlias>'>The Curators Companion: Heavy Armory Set Complete (Nordic)</font>",
+  "string": "<font color='#<Alias=ColourAlias>'>Компаньон куратора: Комплект из мода \"Тяжелая броня\" собран (Нордское снаряжение)</font>",
+  "form_id": "0000083B|LOTD_TCC_HeavyArm.esp",
+  "type": "MESG DESC",
+  "index": null,
+  "editor_id": "DBM_SectionArmoryHANordic_Notification"
+ },
+ {
+  "original": "<font color='#<Alias=ColourAlias>'>The Curators Companion: Heavy Armory Set Complete (Orcish)</font>",
+  "string": "<font color='#<Alias=ColourAlias>'>Компаньон куратора: Комплект из мода \"Тяжелая броня\" собран (Орочье снаряжение)</font>",
+  "form_id": "0000083C|LOTD_TCC_HeavyArm.esp",
+  "type": "MESG DESC",
+  "index": null,
+  "editor_id": "DBM_SectionArmoryHAOrcish_Notification"
+ },
+ {
+  "original": "<font color='#<Alias=ColourAlias>'>The Curators Companion: Heavy Armory Set Complete (Silver)</font>",
+  "string": "<font color='#<Alias=ColourAlias>'>Компаньон куратора: Комплект из мода \"Тяжелая броня\" собран (Серебряное снаряжение)</font>",
+  "form_id": "0000083D|LOTD_TCC_HeavyArm.esp",
+  "type": "MESG DESC",
+  "index": null,
+  "editor_id": "DBM_SectionArmoryHASilver_Notification"
+ },
+ {
+  "original": "<font color='#<Alias=ColourAlias>'>The Curators Companion: Heavy Armory Set Complete (Stalhrim)</font>",
+  "string": "<font color='#<Alias=ColourAlias>'>Компаньон куратора: Комплект из мода \"Тяжелая броня\" собран (Сталгрим)</font>",
+  "form_id": "0000083E|LOTD_TCC_HeavyArm.esp",
+  "type": "MESG DESC",
+  "index": null,
+  "editor_id": "DBM_SectionArmoryHAStalhrim_Notification"
+ },
+ {
+  "original": "<font color='#<Alias=ColourAlias>'>The Curators Companion: Heavy Armory Set Complete (Steel)</font>",
+  "string": "<font color='#<Alias=ColourAlias>'>Компаньон куратора: Комплект из мода \"Тяжелая броня\" собран (Стальное снаряжение)</font>",
+  "form_id": "0000083F|LOTD_TCC_HeavyArm.esp",
+  "type": "MESG DESC",
+  "index": null,
+  "editor_id": "DBM_SectionArmoryHASteel_Notification"
+ }
+]

@@ -1,0 +1,242 @@
+[
+ {
+  "original": "Raven Witch Cape",
+  "string": "Накидка вороньей ведьмы",
+  "form_id": "00000835|DBM_SinisterSeven_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTRavenWitchCape"
+ },
+ {
+  "original": "Raven Witch Boots",
+  "string": "Сапоги вороньей ведьмы",
+  "form_id": "00000836|DBM_SinisterSeven_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTRavenWitchBoots"
+ },
+ {
+  "original": "Raven Witch Long Gown",
+  "string": "Длинное платье вороньей ведьмы",
+  "form_id": "00000837|DBM_SinisterSeven_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTRavenWitchLongGown"
+ },
+ {
+  "original": "Sinister Mask of Jack Frost",
+  "string": "Зловещая маска Деда Мороза",
+  "form_id": "00000805|DBM_SinisterSeven_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTMaskofJackFrost"
+ },
+ {
+  "original": "Evil Mastermind Hooded Mask",
+  "string": "Зловещая маска с капюшоном мастера разума",
+  "form_id": "00000830|DBM_SinisterSeven_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTEvilMastermindHoodedMask"
+ },
+ {
+  "original": "Raven Witch Mask",
+  "string": "Маска вороньей ведьмы",
+  "form_id": "00000831|DBM_SinisterSeven_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTRavenWitchMask"
+ },
+ {
+  "original": "Evil Mastermind Boots",
+  "string": "Зловещие сапоги мастера разума",
+  "form_id": "00000832|DBM_SinisterSeven_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTEvilMastermindBoots"
+ },
+ {
+  "original": "Evil Mastermind Gloves",
+  "string": "Зловещие перчатки мастера разума",
+  "form_id": "00000833|DBM_SinisterSeven_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTEvilMastermindGloves"
+ },
+ {
+  "original": "Evil Mastermind Cuirass",
+  "string": "Зловещая кираса мастера разума",
+  "form_id": "00000834|DBM_SinisterSeven_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTEvilMastermindCuirass"
+ },
+ {
+  "original": "Raven Witch Gloves",
+  "string": "Перчатки вороньей ведьмы",
+  "form_id": "00000838|DBM_SinisterSeven_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTRavenWitchGloves"
+ },
+ {
+  "original": "Sinister Bronze Mask",
+  "string": "Зловещая бронзовая маска",
+  "form_id": "00000842|DBM_SinisterSeven_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTSinisterBronzeMask"
+ },
+ {
+  "original": "Sinister Ebony Mask",
+  "string": "Зловещая эбонитовая маска",
+  "form_id": "00000843|DBM_SinisterSeven_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTSinisterEbonyMask"
+ },
+ {
+  "original": "Sinister Gold Mask",
+  "string": "Зловещая золотая маска",
+  "form_id": "00000844|DBM_SinisterSeven_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTSinisterGoldMask"
+ },
+ {
+  "original": "Sinister Silver Mask",
+  "string": "Зловещая серебряная маска",
+  "form_id": "00000845|DBM_SinisterSeven_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTSinisterSilverMask"
+ },
+ {
+  "original": "A Sinister Bronze Mask (Replica)",
+  "string": "Зловещая бронзовая маска (копия)",
+  "form_id": "0000084F|DBM_SinisterSeven_Patch.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "Sin7_Mask_Bronze_Replica"
+ },
+ {
+  "original": "A Sinister Gold Mask (Replica)",
+  "string": "Зловещая золотая маска (копия)",
+  "form_id": "00000850|DBM_SinisterSeven_Patch.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "Sin7_Mask_Gold_Replica"
+ },
+ {
+  "original": "A Sinister Silver Mask (Replica)",
+  "string": "Зловещая серебряная маска (копия)",
+  "form_id": "00000851|DBM_SinisterSeven_Patch.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "Sin7_Mask_Silver_Replica"
+ },
+ {
+  "original": "A Sinister Ebony Mask (Replica)",
+  "string": "Зловещая эбонитовая маска (копия)",
+  "form_id": "0000084E|DBM_SinisterSeven_Patch.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "Sin7_Mask_Ebony_Replica"
+ },
+ {
+  "original": "A Sinister Mask of Jack Frost (Replica)",
+  "string": "Зловещая маска Морозного Джека (копия)",
+  "form_id": "00000852|DBM_SinisterSeven_Patch.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "Sin7_MaskOfJack_Replica"
+ },
+ {
+  "original": "Raven Witch Gloves (Replica)",
+  "string": "Перчатки вороньей ведьмы (копия)",
+  "form_id": "00000853|DBM_SinisterSeven_Patch.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "Sin7_RavenwitchGloves_Replica"
+ },
+ {
+  "original": "Raven Witch Long Gown (Replica)",
+  "string": "Длинное платье вороньей ведьмы (копия)",
+  "form_id": "00000854|DBM_SinisterSeven_Patch.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "Sin7_RavenwitchArmor_Replica"
+ },
+ {
+  "original": "Raven Witch Boots (Replica)",
+  "string": "Сапоги вороньей ведьмы (копия)",
+  "form_id": "00000855|DBM_SinisterSeven_Patch.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "Sin7_RavenwitchBoots_Replica"
+ },
+ {
+  "original": "Raven Witch Cape (Replica)",
+  "string": "Накидка вороньей ведьмы (копия)",
+  "form_id": "00000856|DBM_SinisterSeven_Patch.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "Sin7_RavenwitchCape_Replica"
+ },
+ {
+  "original": "Raven Witch Mask (Replica)",
+  "string": "Маска вороньей ведьмы (копия)",
+  "form_id": "00000857|DBM_SinisterSeven_Patch.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "Sin7_RavenWitchMask_Replica"
+ },
+ {
+  "original": "Evil MasterMind Gloves (Replica)",
+  "string": "Зловещие перчатки мастера разума (копия)",
+  "form_id": "00000858|DBM_SinisterSeven_Patch.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "Sin7_EvilMasterArmorGlovesReplica"
+ },
+ {
+  "original": "Evil MasterMind Boots (Replica)",
+  "string": "Зловещие сапоги мастера разума (копия)",
+  "form_id": "00000859|DBM_SinisterSeven_Patch.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "Sin7_EvilMasterArmorBootsReplica"
+ },
+ {
+  "original": "Evil MasterMind Hooded Mask (Replica)",
+  "string": "Зловещая маска с капюшоном мастера разума (копия)",
+  "form_id": "0000085A|DBM_SinisterSeven_Patch.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "Sin7_EvilMasterArmorHelmetReplica"
+ },
+ {
+  "original": "Evil MasterMind Cuirass (Replica)",
+  "string": "Зловещая кираса мастера разума (копия)",
+  "form_id": "0000085B|DBM_SinisterSeven_Patch.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "Sin7_EvilMasterArmorReplica"
+ },
+ {
+  "original": "Sinister Seven Mod Items",
+  "string": "Предметы из Sinister Seven",
+  "form_id": "0000080A|DBM_SinisterSeven_Patch.esp",
+  "type": "CONT FULL",
+  "index": null,
+  "editor_id": "DBM_CheatCrateSinisterSeven"
+ },
+ {
+  "original": "Sinister Seven",
+  "string": "Зловещая семерка",
+  "form_id": "00000803|DBM_SinisterSeven_Patch.esp",
+  "type": "QUST FULL",
+  "index": null,
+  "editor_id": "DBM_SinisterSeven"
+ }
+]

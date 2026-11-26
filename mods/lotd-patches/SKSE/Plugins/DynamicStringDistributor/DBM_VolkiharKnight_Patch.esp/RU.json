@@ -1,0 +1,74 @@
+[
+ {
+  "original": "Volkihar Knight Boots",
+  "string": "Волкихарский Рыцарь: Сапоги",
+  "form_id": "00000807|DBM_VolkiharKnight_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTVolkiharKnightBoots"
+ },
+ {
+  "original": "Volkihar Knight Gauntlets",
+  "string": "Волкихарский Рыцарь: Перчатки",
+  "form_id": "00000808|DBM_VolkiharKnight_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTVolkiharKnightGauntlets"
+ },
+ {
+  "original": "Volkihar Knight Hood",
+  "string": "Волкихарский Рыцарь: Капюшон",
+  "form_id": "00000809|DBM_VolkiharKnight_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTVolkiharKnightHood"
+ },
+ {
+  "original": "Volkihar Knight Armor",
+  "string": "Броня рыцаря Волкихара",
+  "form_id": "0000080A|DBM_VolkiharKnight_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTVolkiharKnightArmor"
+ },
+ {
+  "original": "Legendary Volkihar Knight Royal Guard Cuirass (Replica)",
+  "string": "Легендарный Волкихарский Рыцарь: Кираса королевской гвардии (копия)",
+  "form_id": "0000082F|DBM_VolkiharKnight_Patch.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "VolkiharKnightLegendaryRoyalGuardCuirassREPLICA"
+ },
+ {
+  "original": "Legendary Volkihar Knight Assassin Cuirass (Replica)",
+  "string": "Легендарный Волкихарский Рыцарь: Кираса Ассасина (копия)",
+  "form_id": "0000082E|DBM_VolkiharKnight_Patch.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "VolkiharKnightLegendaryAssassinCuirassREPLICA"
+ },
+ {
+  "original": "Legendary Volkihar Knight Abysswalker Cuirass (Replica)",
+  "string": "Легендарный Волкихарский Рыцарь: Кираса странника бездны (копия)",
+  "form_id": "0000082D|DBM_VolkiharKnight_Patch.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "VolkiharKnightLegendaryAbysswalkerCuirassREPLICA"
+ },
+ {
+  "original": "Volkihar Knight Items",
+  "string": "Предметы из Volkihar Knight",
+  "form_id": "00000804|DBM_VolkiharKnight_Patch.esp",
+  "type": "CONT FULL",
+  "index": null,
+  "editor_id": "DBM_CheatCrateVolkiharKnight"
+ },
+ {
+  "original": "Volkihar Knight - Vampire Armor",
+  "string": "Рыцарь Волкихара - Вампирская броня",
+  "form_id": "00000803|DBM_VolkiharKnight_Patch.esp",
+  "type": "QUST FULL",
+  "index": null,
+  "editor_id": "DBM_VolkiharKnight"
+ }
+]

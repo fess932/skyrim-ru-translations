@@ -1,0 +1,730 @@
+[
+ {
+  "original": "Common Soul Damage",
+  "string": "Урон душе (обычная)",
+  "form_id": "00076890|DBM_CC_HallOfWonders.esp",
+  "type": "MGEF FULL",
+  "index": null,
+  "editor_id": "DBM_CC_EnchSoulDamageFFContactCommon"
+ },
+ {
+  "original": "Drains the target's soul energy for <mag> with piercing magic damage. Has no effect whilst in the Soul Cairn or when used on the Undead.",
+  "string": "Высасывает из цели <mag> ед. энергии души, нанося пробивающий магический урон. Не действует в Каирне Душ и против нежити.",
+  "form_id": "00076890|DBM_CC_HallOfWonders.esp",
+  "type": "MGEF DNAM",
+  "index": null,
+  "editor_id": "DBM_CC_EnchSoulDamageFFContactCommon"
+ },
+ {
+  "original": "Greater Soul Damage",
+  "string": "Урон душе (большая)",
+  "form_id": "00076891|DBM_CC_HallOfWonders.esp",
+  "type": "MGEF FULL",
+  "index": null,
+  "editor_id": "DBM_CC_EnchSoulDamageFFContactGreater"
+ },
+ {
+  "original": "Drains the target's soul energy for <mag> with piercing magic damage. Has no effect whilst in the Soul Cairn or when used on the Undead.",
+  "string": "Высасывает из цели <mag> ед. энергии души, нанося пробивающий магический урон. Не действует в Каирне Душ и против нежити.",
+  "form_id": "00076891|DBM_CC_HallOfWonders.esp",
+  "type": "MGEF DNAM",
+  "index": null,
+  "editor_id": "DBM_CC_EnchSoulDamageFFContactGreater"
+ },
+ {
+  "original": "Grand Soul Damage",
+  "string": "Урон душе (великая)",
+  "form_id": "00076892|DBM_CC_HallOfWonders.esp",
+  "type": "MGEF FULL",
+  "index": null,
+  "editor_id": "DBM_CC_EnchSoulDamageFFContactGrand"
+ },
+ {
+  "original": "Drains the target's soul energy for <mag> with piercing magic damage. Has no effect whilst in the Soul Cairn or when used on the Undead.",
+  "string": "Высасывает из цели <mag> ед. энергии души, нанося пробивающий магический урон. Не действует в Каирне Душ и против нежити.",
+  "form_id": "00076892|DBM_CC_HallOfWonders.esp",
+  "type": "MGEF DNAM",
+  "index": null,
+  "editor_id": "DBM_CC_EnchSoulDamageFFContactGrand"
+ },
+ {
+  "original": "Raw Soul Damage",
+  "string": "Чистый урон душе",
+  "form_id": "00076893|DBM_CC_HallOfWonders.esp",
+  "type": "MGEF FULL",
+  "index": null,
+  "editor_id": "DBM_CC_EnchSoulDamageFFContactRaw"
+ },
+ {
+  "original": "Drains the target's soul energy for <mag> with piercing magic damage. Has no effect whilst in the Soul Cairn or when used on the Undead.",
+  "string": "Высасывает из цели <mag> ед. энергии души, нанося пробивающий магический урон. Не действует в Каирне Душ и против нежити.",
+  "form_id": "00076893|DBM_CC_HallOfWonders.esp",
+  "type": "MGEF DNAM",
+  "index": null,
+  "editor_id": "DBM_CC_EnchSoulDamageFFContactRaw"
+ },
+ {
+  "original": "Dwemer Tuner: Magic",
+  "string": "Двемерский настройщик: магия",
+  "form_id": "0007B9A2|DBM_CC_HallOfWonders.esp",
+  "type": "MGEF FULL",
+  "index": null,
+  "editor_id": "DBM_CC_EnchRazakMagicFFContact"
+ },
+ {
+  "original": "Negates the innate Magic Resistance of Dwemer automatons. ",
+  "string": "Сводит на нет врожденную сопротивляемость магии у двемерских автоматонов. ",
+  "form_id": "0007B9A2|DBM_CC_HallOfWonders.esp",
+  "type": "MGEF DNAM",
+  "index": null,
+  "editor_id": "DBM_CC_EnchRazakMagicFFContact"
+ },
+ {
+  "original": "Dwemer Tuner: Frost",
+  "string": "Двемерский настройщик: мороз",
+  "form_id": "0007B9A3|DBM_CC_HallOfWonders.esp",
+  "type": "MGEF FULL",
+  "index": null,
+  "editor_id": "DBM_CC_EnchRazakFrostFFContact"
+ },
+ {
+  "original": "Negates the innate Frost Resistance of Dwemer automatons. ",
+  "string": "Сводит на нет врожденную морозостойкость двемерских автоматонов. ",
+  "form_id": "0007B9A3|DBM_CC_HallOfWonders.esp",
+  "type": "MGEF DNAM",
+  "index": null,
+  "editor_id": "DBM_CC_EnchRazakFrostFFContact"
+ },
+ {
+  "original": "Weather Affinity: Frost",
+  "string": "Погодное родство: мороз",
+  "form_id": "00094F0C|DBM_CC_HallOfWonders.esp",
+  "type": "MGEF FULL",
+  "index": null,
+  "editor_id": "DBM_CC_AbSeasonsSnowyResistFrost"
+ },
+ {
+  "original": "Increases Frost Resistance by <mag>%, Frost spells do <10>% more damage in snowy weather.",
+  "string": "Морозостойкость повышается на <mag>%, а заклинания мороза в снежную погоду наносят на <10>% больше урона.",
+  "form_id": "00094F0C|DBM_CC_HallOfWonders.esp",
+  "type": "MGEF DNAM",
+  "index": null,
+  "editor_id": "DBM_CC_AbSeasonsSnowyResistFrost"
+ },
+ {
+  "original": "Weather Affinity: Frost",
+  "string": "Погодное родство: мороз",
+  "form_id": "00094F0E|DBM_CC_HallOfWonders.esp",
+  "type": "MGEF FULL",
+  "index": null,
+  "editor_id": "DBM_CC_AbSeasonsSnowySurvivalResistFrost"
+ },
+ {
+  "original": "Increases Frost Resistance by <mag>%, Frost spells do <10>% more damage",
+  "string": "Морозостойкость повышается на <mag>%, а заклинания мороза наносят на <10>% больше урона",
+  "form_id": "00094F0E|DBM_CC_HallOfWonders.esp",
+  "type": "MGEF DNAM",
+  "index": null,
+  "editor_id": "DBM_CC_AbSeasonsSnowySurvivalResistFrost"
+ },
+ {
+  "original": "Fortune",
+  "string": "Удача",
+  "form_id": "0006C66F|DBM_CC_HallOfWonders.esp",
+  "type": "MGEF FULL",
+  "index": null,
+  "editor_id": "DBM_CC_PerkFortuneSwordEffect"
+ },
+ {
+  "original": "Increases critical hit chance by <25>%. Health regenerates <mag>% faster.",
+  "string": "Шанс критического удара повышается на <25>%. Здоровье восстанавливается на <mag>% быстрее.",
+  "form_id": "0006C66F|DBM_CC_HallOfWonders.esp",
+  "type": "MGEF DNAM",
+  "index": null,
+  "editor_id": "DBM_CC_PerkFortuneSwordEffect"
+ },
+ {
+  "original": "Dummy Damage",
+  "string": "Фиктивный урон",
+  "form_id": "0006C670|DBM_CC_HallOfWonders.esp",
+  "type": "MGEF FULL",
+  "index": null,
+  "editor_id": "DBM_CC_EnchFortuneSwordDummyEffect"
+ },
+ {
+  "original": "Petty Soul Damage",
+  "string": "Урон душе (крохотная)",
+  "form_id": "0007688E|DBM_CC_HallOfWonders.esp",
+  "type": "MGEF FULL",
+  "index": null,
+  "editor_id": "DBM_CC_EnchSoulDamageFFContactPetty"
+ },
+ {
+  "original": "Drains the target's soul energy for <mag> with piercing magic damage. Has no effect whilst in the Soul Cairn or when used on the Undead.",
+  "string": "Высасывает из цели <mag> ед. энергии души, нанося пробивающий магический урон. Не действует в Каирне Душ и против нежити.",
+  "form_id": "0007688E|DBM_CC_HallOfWonders.esp",
+  "type": "MGEF DNAM",
+  "index": null,
+  "editor_id": "DBM_CC_EnchSoulDamageFFContactPetty"
+ },
+ {
+  "original": "Lesser Soul Damage",
+  "string": "Урон душе (малая)",
+  "form_id": "0007688F|DBM_CC_HallOfWonders.esp",
+  "type": "MGEF FULL",
+  "index": null,
+  "editor_id": "DBM_CC_EnchSoulDamageFFContactLesser"
+ },
+ {
+  "original": "Drains the target's soul energy for <mag> with piercing magic damage. Has no effect whilst in the Soul Cairn or when used on the Undead.",
+  "string": "Высасывает из цели <mag> ед. энергии души, нанося пробивающий магический урон. Не действует в Каирне Душ и против нежити.",
+  "form_id": "0007688F|DBM_CC_HallOfWonders.esp",
+  "type": "MGEF DNAM",
+  "index": null,
+  "editor_id": "DBM_CC_EnchSoulDamageFFContactLesser"
+ },
+ {
+  "original": "Weather Affinity: Warmth",
+  "string": "Погодное родство: тепло",
+  "form_id": "00094F0F|DBM_CC_HallOfWonders.esp",
+  "type": "MGEF FULL",
+  "index": null,
+  "editor_id": "DBM_CC_AbSeasonsSnowySurvivalWarmth"
+ },
+ {
+  "original": "and increases Warmth by <mag>% in snowy weather.",
+  "string": "и в снежную погоду тепло повышается на <mag>%.",
+  "form_id": "00094F0F|DBM_CC_HallOfWonders.esp",
+  "type": "MGEF DNAM",
+  "index": null,
+  "editor_id": "DBM_CC_AbSeasonsSnowySurvivalWarmth"
+ },
+ {
+  "original": "Weather Affinity: Fire",
+  "string": "Погодное родство: огонь",
+  "form_id": "00094F10|DBM_CC_HallOfWonders.esp",
+  "type": "MGEF FULL",
+  "index": null,
+  "editor_id": "DBM_CC_AbSeasonsClearResistFire"
+ },
+ {
+  "original": "Increases Fire Resistance by <mag>%  and Fire spells do <10>% more damage in pleasant weather.",
+  "string": "Сопротивление огню повышается на <mag>%, а заклинания огня в ясную погоду наносят на <10>% больше урона.",
+  "form_id": "00094F10|DBM_CC_HallOfWonders.esp",
+  "type": "MGEF DNAM",
+  "index": null,
+  "editor_id": "DBM_CC_AbSeasonsClearResistFire"
+ },
+ {
+  "original": "Weather Affinity: Illusion",
+  "string": "Погодное родство: иллюзия",
+  "form_id": "00094F11|DBM_CC_HallOfWonders.esp",
+  "type": "MGEF FULL",
+  "index": null,
+  "editor_id": "DBM_CC_AbSeasonsCloudyFortifyIllusionDUMMY"
+ },
+ {
+  "original": "and Illusion spells are <10>% more effective during cloudy or foggy weather.",
+  "string": "а заклинания Иллюзии в облачную или туманную погоду на <10>% эффективнее.",
+  "form_id": "00094F11|DBM_CC_HallOfWonders.esp",
+  "type": "MGEF DNAM",
+  "index": null,
+  "editor_id": "DBM_CC_AbSeasonsCloudyFortifyIllusionDUMMY"
+ },
+ {
+  "original": "Weather Affinity: Disease",
+  "string": "Погодное родство: болезни",
+  "form_id": "00094F12|DBM_CC_HallOfWonders.esp",
+  "type": "MGEF FULL",
+  "index": null,
+  "editor_id": "DBM_CC_AbSeasonsCloudyResistDisease"
+ },
+ {
+  "original": "Increases Disease Resistance by <mag>%,",
+  "string": "Сопротивление болезням повышается на <mag>%,",
+  "form_id": "00094F12|DBM_CC_HallOfWonders.esp",
+  "type": "MGEF DNAM",
+  "index": null,
+  "editor_id": "DBM_CC_AbSeasonsCloudyResistDisease"
+ },
+ {
+  "original": "Weather Affinity: Poison",
+  "string": "Погодное родство: яд",
+  "form_id": "00094F13|DBM_CC_HallOfWonders.esp",
+  "type": "MGEF FULL",
+  "index": null,
+  "editor_id": "DBM_CC_AbSeasonsCloudyResistPoison"
+ },
+ {
+  "original": "Poison Resistance by <mag>%",
+  "string": "сопротивление ядам - на <mag>%",
+  "form_id": "00094F13|DBM_CC_HallOfWonders.esp",
+  "type": "MGEF DNAM",
+  "index": null,
+  "editor_id": "DBM_CC_AbSeasonsCloudyResistPoison"
+ },
+ {
+  "original": "Weather Affinity: Shock",
+  "string": "Погодное родство: шок",
+  "form_id": "00094F14|DBM_CC_HallOfWonders.esp",
+  "type": "MGEF FULL",
+  "index": null,
+  "editor_id": "DBM_CC_AbSeasonsRainyResistShock"
+ },
+ {
+  "original": "Increases Shock Resistance by <mag>% and Shock spells do <10>% more damage in rainy weather.",
+  "string": "Ударопрочность повышается на <mag>%, а заклинания шока в дождливую погоду наносят на <10>% больше урона.",
+  "form_id": "00094F14|DBM_CC_HallOfWonders.esp",
+  "type": "MGEF DNAM",
+  "index": null,
+  "editor_id": "DBM_CC_AbSeasonsRainyResistShock"
+ },
+ {
+  "original": "Crimson Tide Effect",
+  "string": "Эффект \"Багрового прилива\"",
+  "form_id": "000C2A50|DBM_CC_HallOfWonders.esp",
+  "type": "MGEF FULL",
+  "index": null,
+  "editor_id": "DBM_CC_EnchCrimsonTideFFContact"
+ },
+ {
+  "original": "Burns the target for <mag> points. Targets on fire take extra damage. When equipped, intimidation attempts are twice as likely to succeed, but bartering becomes half as effective.",
+  "string": "Цель получает <mag> ед. урона огнем. Горящие цели получают дополнительный урон. Когда оружие экипировано, запугивание удается вдвое чаще, но торговля вдвое менее выгодна.",
+  "form_id": "000C2A50|DBM_CC_HallOfWonders.esp",
+  "type": "MGEF DNAM",
+  "index": null,
+  "editor_id": "DBM_CC_EnchCrimsonTideFFContact"
+ },
+ {
+  "original": "Frost Damage",
+  "string": "Урон холодом",
+  "form_id": "000D219D|DBM_CC_HallOfWonders.esp",
+  "type": "MGEF FULL",
+  "index": null,
+  "editor_id": "DBM_CC_EnchRimelinkFFContact"
+ },
+ {
+  "original": "Target takes <mag> points of frost damage to Health and Stamina. Frost spells do 25% more damage.",
+  "string": "Цель получает <mag> ед. урона холодом здоровью и запасу сил. Заклинания мороза наносят на 25% больше урона.",
+  "form_id": "000D219D|DBM_CC_HallOfWonders.esp",
+  "type": "MGEF DNAM",
+  "index": null,
+  "editor_id": "DBM_CC_EnchRimelinkFFContact"
+ },
+ {
+  "original": "Fortune",
+  "string": "Удача",
+  "form_id": "0006C671|DBM_CC_HallOfWonders.esp",
+  "type": "ENCH FULL",
+  "index": null,
+  "editor_id": "DBM_CC_EnchFortuneSwordDummy"
+ },
+ {
+  "original": "Soul Damage",
+  "string": "Урон магией души",
+  "form_id": "00076894|DBM_CC_HallOfWonders.esp",
+  "type": "ENCH FULL",
+  "index": null,
+  "editor_id": "DBM_CC_EnchWeaponSoulTridentDamage"
+ },
+ {
+  "original": "Razak's Tuning Effect",
+  "string": "Настройка Разака",
+  "form_id": "0007B9A4|DBM_CC_HallOfWonders.esp",
+  "type": "ENCH FULL",
+  "index": null,
+  "editor_id": "DBM_CC_EnchWeaponRazaksHammer"
+ },
+ {
+  "original": "Crimson Tide",
+  "string": "Багровый прилив",
+  "form_id": "000C2A4F|DBM_CC_HallOfWonders.esp",
+  "type": "ENCH FULL",
+  "index": null,
+  "editor_id": "DBM_CC_EnchCrimsonTide"
+ },
+ {
+  "original": "Frost Damage",
+  "string": "Урон холодом",
+  "form_id": "000D219C|DBM_CC_HallOfWonders.esp",
+  "type": "ENCH FULL",
+  "index": null,
+  "editor_id": "DBM_CC_EnchWeaponRimelink"
+ },
+ {
+  "original": "Weather Attunement: Snow",
+  "string": "Погодная настройка: снег",
+  "form_id": "00094F0D|DBM_CC_HallOfWonders.esp",
+  "type": "SPEL FULL",
+  "index": null,
+  "editor_id": "DBM_CC_SeasonsPerkSnowy"
+ },
+ {
+  "original": "Weather Attunement: Cloud and Fog",
+  "string": "Погодная настройка: облака и туман",
+  "form_id": "00094F16|DBM_CC_HallOfWonders.esp",
+  "type": "SPEL FULL",
+  "index": null,
+  "editor_id": "DBM_CC_SeasonsPerkCloudy"
+ },
+ {
+  "original": "Fortune",
+  "string": "Удача",
+  "form_id": "0006C672|DBM_CC_HallOfWonders.esp",
+  "type": "SPEL FULL",
+  "index": null,
+  "editor_id": "DBM_CC_PerkFortuneSword"
+ },
+ {
+  "original": "Weather Attunement: Clear Skies",
+  "string": "Погодная настройка: ясное небо",
+  "form_id": "00094F15|DBM_CC_HallOfWonders.esp",
+  "type": "SPEL FULL",
+  "index": null,
+  "editor_id": "DBM_CC_SeasonsPerkClear"
+ },
+ {
+  "original": "Weather Attunement: Rain",
+  "string": "Погодная настройка: дождь",
+  "form_id": "00094F17|DBM_CC_HallOfWonders.esp",
+  "type": "SPEL FULL",
+  "index": null,
+  "editor_id": "DBM_CC_SeasonsPerkRainy"
+ },
+ {
+  "original": "Fortune",
+  "string": "Удача",
+  "form_id": "000D21B5|DBM_CC_HallOfWonders.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTFortune"
+ },
+ {
+  "original": "Ingredient (replica)",
+  "string": "Ингредиент (копия)",
+  "form_id": "00094F37|DBM_CC_HallOfWonders.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTIngrTEMP"
+ },
+ {
+  "original": "Trident of the Cairn",
+  "string": "Трезубец Кургана",
+  "form_id": "000D21B6|DBM_CC_HallOfWonders.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTCairnTrident"
+ },
+ {
+  "original": "Crimson Tide",
+  "string": "Багровый прилив",
+  "form_id": "000D21B7|DBM_CC_HallOfWonders.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTCrimsonTide"
+ },
+ {
+  "original": "Rimelink",
+  "string": "Инейная цепь",
+  "form_id": "000D21A6|DBM_CC_HallOfWonders.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTRimelink"
+ },
+ {
+  "original": "Razak's Tuner",
+  "string": "Камертон Разака",
+  "form_id": "000D21B4|DBM_CC_HallOfWonders.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTRazaksHammer"
+ },
+ {
+  "original": "Random Crossbow",
+  "string": "Случайный арбалет",
+  "form_id": "000D21D2|DBM_CC_HallOfWonders.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTCrossbowTEMP"
+ },
+ {
+  "original": "Steel Horse Armor",
+  "string": "Стальная конская броня",
+  "form_id": "000D2214|DBM_CC_HallOfWonders.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTHorseArmorSteel"
+ },
+ {
+  "original": "Elven Horse Armor",
+  "string": "Эльфийская конская броня",
+  "form_id": "000D2215|DBM_CC_HallOfWonders.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTHorseArmorElven"
+ },
+ {
+  "original": "Hall of Wonders Items",
+  "string": "Предметы Зала чудес",
+  "form_id": "0008ACCC|DBM_CC_HallOfWonders.esp",
+  "type": "CONT FULL",
+  "index": null,
+  "editor_id": "DBM_CC_CheatCrate"
+ },
+ {
+  "original": "Ingredient (replica)",
+  "string": "Ингредиент (копия)",
+  "form_id": "000A4417|DBM_CC_HallOfWonders.esp",
+  "type": "MISC FULL",
+  "index": null,
+  "editor_id": "DBM_CC_IngrTEMP"
+ },
+ {
+  "original": "Fortune",
+  "string": "Удача",
+  "form_id": "0006C674|DBM_CC_HallOfWonders.esp",
+  "type": "WEAP FULL",
+  "index": null,
+  "editor_id": "DBM_CC_WeaponFortuneSword"
+ },
+ {
+  "original": "Increases critical hit chance by <25>%. Health regenerates <25>% faster.",
+  "string": "Шанс критического удара повышается на <25>%. Здоровье восстанавливается на <25>% быстрее.",
+  "form_id": "0006C674|DBM_CC_HallOfWonders.esp",
+  "type": "WEAP DESC",
+  "index": null,
+  "editor_id": "DBM_CC_WeaponFortuneSword"
+ },
+ {
+  "original": "Trident of the Cairn",
+  "string": "Трезубец Кургана",
+  "form_id": "00076896|DBM_CC_HallOfWonders.esp",
+  "type": "WEAP FULL",
+  "index": null,
+  "editor_id": "DBM_CC_WeaponCairnTrident"
+ },
+ {
+  "original": "Drains the target's soul energy with magic damage. Has no effect whilst in the Soul Cairn or when used against daedra or the corporeal undead. Especially effective against ghosts and soul powered machines.",
+  "string": "Высасывает энергию души цели, нанося магический урон. Не действует в Каирне Душ, а также против даэдра и телесной нежити. Особенно эффективно против призраков и механизмов, работающих на энергии душ.",
+  "form_id": "00076896|DBM_CC_HallOfWonders.esp",
+  "type": "WEAP DESC",
+  "index": null,
+  "editor_id": "DBM_CC_WeaponCairnTrident"
+ },
+ {
+  "original": "Razak's Tuner",
+  "string": "Камертон Разака",
+  "form_id": "00076898|DBM_CC_HallOfWonders.esp",
+  "type": "WEAP FULL",
+  "index": null,
+  "editor_id": "DBM_CC_WeaponRazaksHammer"
+ },
+ {
+  "original": "Negates innate resistances to Magic and Frost of automatons.",
+  "string": "Сводит на нет врожденную сопротивляемость автоматонов магии и холоду.",
+  "form_id": "00076898|DBM_CC_HallOfWonders.esp",
+  "type": "WEAP DESC",
+  "index": null,
+  "editor_id": "DBM_CC_WeaponRazaksHammer"
+ },
+ {
+  "original": "Crimson Tide",
+  "string": "Багровый прилив",
+  "form_id": "000C2A4C|DBM_CC_HallOfWonders.esp",
+  "type": "WEAP FULL",
+  "index": null,
+  "editor_id": "DBM_CC_WeaponCrimsonTideSword"
+ },
+ {
+  "original": "The Axe of Command",
+  "string": "Топор власти",
+  "form_id": "000C2A5B|DBM_CC_HallOfWonders.esp",
+  "type": "WEAP FULL",
+  "index": null,
+  "editor_id": "DBM_CC_CheatersNeverProsperAxe"
+ },
+ {
+  "original": "If you have this axe, well done! You have either conjured it using a magical command (in which case, why?!) or you have found a big flaw in the Hall of Wonders' foundations. If it is the latter, please report this to the architect of the hall immediately.",
+  "string": "Если у тебя этот топор - поздравляем! Ты либо призвал его магической командой (тогда зачем?!), либо нашел серьезную брешь в фундаменте Зала чудес. Если верно второе, пожалуйста, немедленно сообщи об этом архитектору зала.",
+  "form_id": "000C2A5B|DBM_CC_HallOfWonders.esp",
+  "type": "WEAP DESC",
+  "index": null,
+  "editor_id": "DBM_CC_CheatersNeverProsperAxe"
+ },
+ {
+  "original": "Rimelink",
+  "string": "Инейная цепь",
+  "form_id": "000D219B|DBM_CC_HallOfWonders.esp",
+  "type": "WEAP FULL",
+  "index": null,
+  "editor_id": "DBM_CC_WeaponRimelink"
+ },
+ {
+  "original": "Rimelink (replica)",
+  "string": "Инеевое звено (копия)",
+  "form_id": "000D21A0|DBM_CC_HallOfWonders.esp",
+  "type": "WEAP FULL",
+  "index": null,
+  "editor_id": "DBM_CC_WeaponRimelinkREPLICA"
+ },
+ {
+  "original": "Crimson Tide (replica)",
+  "string": "Багровый прилив (копия)",
+  "form_id": "000D21CB|DBM_CC_HallOfWonders.esp",
+  "type": "WEAP FULL",
+  "index": null,
+  "editor_id": "DBM_CC_WeaponCrimsonTideSwordREPLICA"
+ },
+ {
+  "original": "Fortune (replica)",
+  "string": "Фортуна (копия)",
+  "form_id": "000D21CC|DBM_CC_HallOfWonders.esp",
+  "type": "WEAP FULL",
+  "index": null,
+  "editor_id": "DBM_CC_WeaponFortuneSwordREPLICA"
+ },
+ {
+  "original": "Trident of the Cairn (replica)",
+  "string": "Трезубец Кургана (копия)",
+  "form_id": "000D21CD|DBM_CC_HallOfWonders.esp",
+  "type": "WEAP FULL",
+  "index": null,
+  "editor_id": "DBM_CC_WeaponCairnTridentREPLICA"
+ },
+ {
+  "original": "Razak's Tuner (replica)",
+  "string": "Камертон Разака (копия)",
+  "form_id": "000D21CE|DBM_CC_HallOfWonders.esp",
+  "type": "WEAP FULL",
+  "index": null,
+  "editor_id": "DBM_CC_WeaponRazaksHammerREPLICA"
+ },
+ {
+  "original": "Penitus Oculatus Courier",
+  "string": "Курьер Пенитус Окулатус",
+  "form_id": "000D21EC|DBM_CC_HallOfWonders.esp",
+  "type": "NPC_ FULL",
+  "index": null,
+  "editor_id": "DBM_CC_EncPenitusFortuneCourier"
+ },
+ {
+  "original": "Hall of Wonders",
+  "string": "Зал чудес",
+  "form_id": "000104C9|DBM_CC_HallOfWonders.esp",
+  "type": "CELL FULL",
+  "index": null,
+  "editor_id": "DBMDGHallofWondersCC"
+ },
+ {
+  "original": "Hall of Wonders Misc Weapons Handler",
+  "string": "Зал чудес: прочее оружие (служебный)",
+  "form_id": "000D21B0|DBM_CC_HallOfWonders.esp",
+  "type": "QUST FULL",
+  "index": null,
+  "editor_id": "DBM_CC_HoWCoreHandler"
+ },
+ {
+  "original": "Camping Handler",
+  "string": "Лагерь (служебный)",
+  "form_id": "000D21F0|DBM_CC_HallOfWonders.esp",
+  "type": "QUST FULL",
+  "index": null,
+  "editor_id": "DBM_CC_CampingHandler"
+ },
+ {
+  "original": "Force of the Crimson Tide",
+  "string": "Сила Багрового прилива",
+  "form_id": "000C2A4E|DBM_CC_HallOfWonders.esp",
+  "type": "PERK FULL",
+  "index": null,
+  "editor_id": "DBM_CC_PerkCrimsonTide"
+ },
+ {
+  "original": "Intimidation is twice as successful. Bartering is half as effective.",
+  "string": "Запугивание удается вдвое чаще. Торговля вдвое менее выгодна.",
+  "form_id": "000C2A4E|DBM_CC_HallOfWonders.esp",
+  "type": "PERK DESC",
+  "index": null,
+  "editor_id": "DBM_CC_PerkCrimsonTide"
+ },
+ {
+  "original": "Rime of the Akaviri Mariner",
+  "string": "Иней акавирского морехода",
+  "form_id": "000D219E|DBM_CC_HallOfWonders.esp",
+  "type": "PERK FULL",
+  "index": null,
+  "editor_id": "DBM_CC_RimelinkPerk"
+ },
+ {
+  "original": "Frost spells do 25% more damage.",
+  "string": "Заклинания холода наносят на 25% больше урона.",
+  "form_id": "000D219E|DBM_CC_HallOfWonders.esp",
+  "type": "PERK DESC",
+  "index": null,
+  "editor_id": "DBM_CC_RimelinkPerk"
+ },
+ {
+  "original": "Imperial Fortune",
+  "string": "Имперская удача",
+  "form_id": "0006C673|DBM_CC_HallOfWonders.esp",
+  "type": "PERK FULL",
+  "index": null,
+  "editor_id": "DBM_CC_FortuneSwordPerk"
+ },
+ {
+  "original": "Ward of the Seasons",
+  "string": "Оберег времен года",
+  "form_id": "00094F18|DBM_CC_HallOfWonders.esp",
+  "type": "PERK FULL",
+  "index": null,
+  "editor_id": "DBM_CC_SeasonsPerk"
+ },
+ {
+  "original": "Hall of Wonders",
+  "string": "Зал чудес",
+  "form_id": "000062AF|DBM_CC_HallOfWonders.esp",
+  "type": "LCTN FULL",
+  "index": null,
+  "editor_id": "DBM_HallofWondersLocation"
+ },
+ {
+  "original": "Dragonborn Hall",
+  "string": "Зал Драконорожденного",
+  "form_id": "00595D2A|LegacyoftheDragonborn.esm",
+  "type": "MESG ITXT",
+  "index": 0,
+  "editor_id": "DBM_GuideMSG3"
+ },
+ {
+  "original": "Explorers Society Guildhouse",
+  "string": "Штаб-квартира Гильдии Исследователей",
+  "form_id": "00595D2A|LegacyoftheDragonborn.esm",
+  "type": "MESG ITXT",
+  "index": 1,
+  "editor_id": "DBM_GuideMSG3"
+ },
+ {
+  "original": "Planetarium",
+  "string": "Планетарий",
+  "form_id": "00595D2A|LegacyoftheDragonborn.esm",
+  "type": "MESG ITXT",
+  "index": 2,
+  "editor_id": "DBM_GuideMSG3"
+ },
+ {
+  "original": "Hall of Wonders",
+  "string": "Зал чудес",
+  "form_id": "00595D2A|LegacyoftheDragonborn.esm",
+  "type": "MESG ITXT",
+  "index": 3,
+  "editor_id": "DBM_GuideMSG3"
+ },
+ {
+  "original": "Cancel",
+  "string": "Отмена",
+  "form_id": "00595D2A|LegacyoftheDragonborn.esm",
+  "type": "MESG ITXT",
+  "index": 4,
+  "editor_id": "DBM_GuideMSG3"
+ }
+]

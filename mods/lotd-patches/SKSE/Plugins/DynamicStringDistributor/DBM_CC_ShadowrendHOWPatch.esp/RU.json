@@ -1,0 +1,58 @@
+[
+ {
+  "original": "Shadowrend",
+  "string": "Теневик",
+  "form_id": "0000080C|DBM_CC_ShadowrendHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTShadowrend"
+ },
+ {
+  "original": "Spoils of Reflection",
+  "string": "Трофеи отражения",
+  "form_id": "00000814|DBM_CC_ShadowrendHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_ExhibitSignShadowrend"
+ },
+ {
+  "original": "Read Plaque:",
+  "string": "Прочитать табличку:",
+  "form_id": "00000814|DBM_CC_ShadowrendHOWPatch.esp",
+  "type": "ACTI RNAM",
+  "index": null,
+  "editor_id": "DBM_CC_ExhibitSignShadowrend"
+ },
+ {
+  "original": "Shadowrend (replica)",
+  "string": "Теневик (копия)",
+  "form_id": "00000822|DBM_CC_ShadowrendHOWPatch.esp",
+  "type": "WEAP FULL",
+  "index": null,
+  "editor_id": "DBM_CC_ShadowrendBattleaxeREPLICA"
+ },
+ {
+  "original": "Shadowrend (replica)",
+  "string": "Теневик (копия)",
+  "form_id": "00000823|DBM_CC_ShadowrendHOWPatch.esp",
+  "type": "WEAP FULL",
+  "index": null,
+  "editor_id": "DBM_CC_ShadowrendClaymoreREPLICA"
+ },
+ {
+  "original": "Shadowrend Handler",
+  "string": "Теневик (служебный)",
+  "form_id": "0000081A|DBM_CC_ShadowrendHOWPatch.esp",
+  "type": "QUST FULL",
+  "index": null,
+  "editor_id": "DBM_CC_ShadowrendHandler"
+ },
+ {
+  "original": "Shadowrend is a Daedric artifact associated with Sheogorath's realm of the Shivering Isles. Thought to have some level of sentience, the weapon has been known to present itself in a form that would best suit the wielder's skill. The origins of the weapon however are utterly unknown.",
+  "string": "Теневик - даэдрический артефакт, связанный с царством Шеогората, Дрожащими островами. Считается, что оружие обладает неким подобием разума: известно, что оно принимает форму, лучше всего подходящую умениям владельца. Происхождение же этого оружия совершенно неизвестно.",
+  "form_id": "00000815|DBM_CC_ShadowrendHOWPatch.esp",
+  "type": "MESG DESC",
+  "index": null,
+  "editor_id": "DBM_CC_ExhibitShadowrend"
+ }
+]

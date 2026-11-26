@@ -1,0 +1,18 @@
+[
+ {
+  "original": "The Curators Companion - Clockwork",
+  "string": "Помощник куратора - Clockwork",
+  "form_id": "00000802|LOTD_TCC_Clockwork.esp",
+  "type": "QUST FULL",
+  "index": null,
+  "editor_id": "TCC_SM_Clockwork"
+ },
+ {
+  "original": "<font color='#<Alias=ColourAlias>'>The Curators Companion: Mod Complete (Clockwork)</font>",
+  "string": "<font color='#<Alias=ColourAlias>'>Компаньон куратора: Мод завершен (Часовой механизм)</font>",
+  "form_id": "00000804|LOTD_TCC_Clockwork.esp",
+  "type": "MESG DESC",
+  "index": null,
+  "editor_id": "_CompleteNotification_Clockwork"
+ }
+]

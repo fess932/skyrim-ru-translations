@@ -1,0 +1,122 @@
+[
+ {
+  "original": "Boethiah's Walking Stick",
+  "string": "Посох-трость Боэти",
+  "form_id": "00000813|DBM_ArtifactsofBoethiah_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTBoethiahStaff"
+ },
+ {
+  "original": "Fearstruck",
+  "string": "Поражающий Страхом",
+  "form_id": "0000081D|DBM_ArtifactsofBoethiah_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTFearstruck"
+ },
+ {
+  "original": "Undaunted",
+  "string": "Неустрашимый",
+  "form_id": "00000820|DBM_ArtifactsofBoethiah_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_exhibitsignFearstruck"
+ },
+ {
+  "original": "Read Plaque:",
+  "string": "Прочитать табличку:",
+  "form_id": "00000820|DBM_ArtifactsofBoethiah_Patch.esp",
+  "type": "ACTI RNAM",
+  "index": null,
+  "editor_id": "DBM_exhibitsignFearstruck"
+ },
+ {
+  "original": "Path of Lies",
+  "string": "Путь лжи",
+  "form_id": "00000821|DBM_ArtifactsofBoethiah_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_exhibitsignBoethiahStaff"
+ },
+ {
+  "original": "Read Plaque:",
+  "string": "Прочитать табличку:",
+  "form_id": "00000821|DBM_ArtifactsofBoethiah_Patch.esp",
+  "type": "ACTI RNAM",
+  "index": null,
+  "editor_id": "DBM_exhibitsignBoethiahStaff"
+ },
+ {
+  "original": "Lyrisius' Dagger",
+  "string": "Кинжал Лирисия",
+  "form_id": "00000824|DBM_ArtifactsofBoethiah_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTLyrisiusDagger"
+ },
+ {
+  "original": "Shadowrend",
+  "string": "Теневик",
+  "form_id": "0000083B|DBM_ArtifactsofBoethiah_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTShadowrend"
+ },
+ {
+  "original": "Spoils of Reflection",
+  "string": "Трофеи отражения",
+  "form_id": "0000083F|DBM_ArtifactsofBoethiah_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_exhibitsignshadowrend"
+ },
+ {
+  "original": "Read Plaque:",
+  "string": "Прочитать табличку:",
+  "form_id": "0000083F|DBM_ArtifactsofBoethiah_Patch.esp",
+  "type": "ACTI RNAM",
+  "index": null,
+  "editor_id": "DBM_exhibitsignshadowrend"
+ },
+ {
+  "original": "Artifacts of Boethiah Items",
+  "string": "Предметы из Artifacts of Boethiah",
+  "form_id": "00000829|DBM_ArtifactsofBoethiah_Patch.esp",
+  "type": "CONT FULL",
+  "index": null,
+  "editor_id": "DBM_CheatCrateAOB"
+ },
+ {
+  "original": "Artifacts of Boethiah Support Handler",
+  "string": "Поддержка Artifacts of Boethiah (служебный)",
+  "form_id": "00000827|DBM_ArtifactsofBoethiah_Patch.esp",
+  "type": "QUST FULL",
+  "index": null,
+  "editor_id": "DBM_AOBSupportHandler"
+ },
+ {
+  "original": "Boethiah's Walking Stick is a seldom heard of lesser artifact of Boethiah. More often bestowed upon her chosen is the famed Goldbrand, this staff however is in no way less depictive of the malicious nature of its creator.",
+  "string": "Трость Боэтии - малоизвестный младший артефакт Боэтии. Своим избранникам она чаще дарует прославленный Золотой меч, однако этот посох ничуть не хуже отражает злобную натуру своей создательницы.",
+  "form_id": "0000081E|DBM_ArtifactsofBoethiah_Patch.esp",
+  "type": "MESG DESC",
+  "index": null,
+  "editor_id": "DBM_ExhibitAOBStaff"
+ },
+ {
+  "original": "Fearstruck has long thought to have been destroyed by the fiery breath of a wyrm during the first era, proving once again, that the permanence of the Daedra is irrefutable. This relic finally surfaced ages later, seemingly reformed by its master.",
+  "string": "Долгое время считалось, что Поражающий Страхом был уничтожен огненным дыханием дракона в Первую эру - но это лишь в очередной раз доказало, что даэдра неуничтожимы. Спустя века реликвия наконец всплыла вновь, судя по всему, воссозданная своим хозяином.",
+  "form_id": "0000081F|DBM_ArtifactsofBoethiah_Patch.esp",
+  "type": "MESG DESC",
+  "index": null,
+  "editor_id": "DBM_ExhibitAOBFearstruck"
+ },
+ {
+  "original": "Shadowrend is a Daedric artifact associated with Sheogorath's realm of the Shivering Isles. Thought to have some level of sentience, the weapon has been known to present itself in a form that would best suit the wielder's skill. The origins of the weapon however are utterly unknown.",
+  "string": "Теневик - даэдрический артефакт, связанный с царством Шеогората, Дрожащими островами. Считается, что оружие обладает неким подобием разума: известно, что оно принимает форму, лучше всего подходящую умениям владельца. Происхождение же этого оружия совершенно неизвестно.",
+  "form_id": "0000083E|DBM_ArtifactsofBoethiah_Patch.esp",
+  "type": "MESG DESC",
+  "index": null,
+  "editor_id": "DBM_ExhibitAOBShadowrend"
+ }
+]

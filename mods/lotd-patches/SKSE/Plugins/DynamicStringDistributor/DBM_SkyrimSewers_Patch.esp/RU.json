@@ -1,0 +1,58 @@
+[
+ {
+  "original": "Honorblade of Whiterun",
+  "string": "Почетный Клинок Вайтрана",
+  "form_id": "00000826|DBM_SkyrimSewers_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTWhiterunBlade"
+ },
+ {
+  "original": "Blade of the Rourken",
+  "string": "Клинок Роуркена",
+  "form_id": "00000829|DBM_SkyrimSewers_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTRourkenBlade"
+ },
+ {
+  "original": "Shardslayer",
+  "string": "Осколочный Убийца",
+  "form_id": "0000082B|DBM_SkyrimSewers_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTStahlrimLongsword"
+ },
+ {
+  "original": "Mournbringer",
+  "string": "Дарующий Печаль",
+  "form_id": "0000082C|DBM_SkyrimSewers_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTStormfang01"
+ },
+ {
+  "original": "Steel Dragon Claw",
+  "string": "Стальной Драконий Коготь",
+  "form_id": "00000837|DBM_SkyrimSewers_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTSteelDragonClaw"
+ },
+ {
+  "original": "Hanging Moss",
+  "string": "Бородатый мох",
+  "form_id": "00000836|DBM_SkyrimSewers_Patch.esp",
+  "type": "TREE FULL",
+  "index": null,
+  "editor_id": "GM_TreeFloraHangingMoss01_st"
+ },
+ {
+  "original": "Skyrim Sewers",
+  "string": "Канализация Скайрима",
+  "form_id": "00000814|DBM_SkyrimSewers_Patch.esp",
+  "type": "QUST FULL",
+  "index": null,
+  "editor_id": "DBM_SkyrimSewers"
+ }
+]

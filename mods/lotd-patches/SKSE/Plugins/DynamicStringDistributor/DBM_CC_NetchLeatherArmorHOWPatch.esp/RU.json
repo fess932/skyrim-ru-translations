@@ -1,0 +1,202 @@
+[
+ {
+  "original": "Boiled Netch Leather Armor",
+  "string": "Броня из вываренной шкуры нетча",
+  "form_id": "00000813|DBM_CC_NetchLeatherArmorHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTNetchLeatherArmorBoil"
+ },
+ {
+  "original": "Boiled Netch Leather Helmet",
+  "string": "Шлем из вываренной шкуры нетча",
+  "form_id": "00000814|DBM_CC_NetchLeatherArmorHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTNetchLeatherHelmetBoil"
+ },
+ {
+  "original": "Shadowed Boiled Netch Leather Armor",
+  "string": "Броня из вываренной темной шкуры нетча",
+  "form_id": "00000815|DBM_CC_NetchLeatherArmorHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTNetchLeatherShadowArmorBoil"
+ },
+ {
+  "original": "Shadowed Boiled Netch Leather Helmet",
+  "string": "Шлем из вываренной темной шкуры нетча",
+  "form_id": "00000816|DBM_CC_NetchLeatherArmorHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTNetchLeatherShadowHelmetBoil"
+ },
+ {
+  "original": "Netch Leather Boots",
+  "string": "Сапоги из шкуры нетча",
+  "form_id": "00000C1B|DBM_CC_NetchLeatherArmorHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTNetchLeatherBoots"
+ },
+ {
+  "original": "Netch Leather Bracers",
+  "string": "Наручи из шкуры нетча",
+  "form_id": "00000C1C|DBM_CC_NetchLeatherArmorHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTNetchLeatherGauntlets"
+ },
+ {
+  "original": "Painted Netch Leather Armor",
+  "string": "Броня из крашеной шкуры нетча",
+  "form_id": "00000C1D|DBM_CC_NetchLeatherArmorHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTNetchLeatherPaintedArmor"
+ },
+ {
+  "original": "Painted Netch Leather Helmet",
+  "string": "Шлем из крашеной шкуры нетча",
+  "form_id": "00000C1E|DBM_CC_NetchLeatherArmorHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTNetchLeatherPaintedHelmet"
+ },
+ {
+  "original": "Netch Leather Armor",
+  "string": "Броня из шкуры нетча",
+  "form_id": "00000C19|DBM_CC_NetchLeatherArmorHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTNetchLeatherArmor"
+ },
+ {
+  "original": "Netch Leather Helmet",
+  "string": "Шлем из шкуры нетча",
+  "form_id": "00000C1A|DBM_CC_NetchLeatherArmorHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTNetchLeatherHelmet"
+ },
+ {
+  "original": "Shadowed Netch Leather Shield",
+  "string": "Щит из темной шкуры нетча",
+  "form_id": "00000C27|DBM_CC_NetchLeatherArmorHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTNetchLeatherShadowShield"
+ },
+ {
+  "original": "Shadowed Netch Leather Tower Shield",
+  "string": "Осадный щит из темной шкуры нетча",
+  "form_id": "00000C28|DBM_CC_NetchLeatherArmorHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTNetchLeatherShadowShieldTower"
+ },
+ {
+  "original": "Crafting with Netch Leather",
+  "string": "Изготовление предметов из шкуры нетча",
+  "form_id": "00000C29|DBM_CC_NetchLeatherArmorHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTNetchLeatherBook"
+ },
+ {
+  "original": "Riekling Hunting Party Sketch",
+  "string": "Набросок группы риклингов-охотников",
+  "form_id": "00000C2A|DBM_CC_NetchLeatherArmorHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTNetchLeatherSketch"
+ },
+ {
+  "original": "Painted Netch Leather Boots",
+  "string": "Сапоги из крашеной шкуры нетча",
+  "form_id": "00000C1F|DBM_CC_NetchLeatherArmorHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTNetchLeatherPaintedBoots"
+ },
+ {
+  "original": "Painted Netch Leather Bracers",
+  "string": "Наручи из крашеной шкуры нетча",
+  "form_id": "00000C20|DBM_CC_NetchLeatherArmorHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTNetchLeatherPaintedGauntlets"
+ },
+ {
+  "original": "Shadowed Netch Leather Armor",
+  "string": "Броня из темной шкуры нетча",
+  "form_id": "00000C21|DBM_CC_NetchLeatherArmorHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTNetchLeatherShadowArmor"
+ },
+ {
+  "original": "Shadowed Netch Leather Helmet",
+  "string": "Шлем из темной шкуры нетча",
+  "form_id": "00000C22|DBM_CC_NetchLeatherArmorHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTNetchLeatherShadowHelmet"
+ },
+ {
+  "original": "Shadowed Netch Leather Boots",
+  "string": "Сапоги из темной шкуры нетча",
+  "form_id": "00000C23|DBM_CC_NetchLeatherArmorHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTNetchLeatherShadowBoots"
+ },
+ {
+  "original": "Shadowed Netch Leather Bracers",
+  "string": "Наручи из темной шкуры нетча",
+  "form_id": "00000C24|DBM_CC_NetchLeatherArmorHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTNetchLeatherShadowGauntlets"
+ },
+ {
+  "original": "Netch Leather Shield",
+  "string": "Щит из шкуры нетча",
+  "form_id": "00000C25|DBM_CC_NetchLeatherArmorHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTNetchLeatherShield"
+ },
+ {
+  "original": "Netch Leather Tower Shield",
+  "string": "Осадный щит из шкуры нетча",
+  "form_id": "00000C26|DBM_CC_NetchLeatherArmorHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTNetchLeatherShieldTower"
+ },
+ {
+  "original": "Boots of Blinding Speed",
+  "string": "Сапоги бешеной скорости",
+  "form_id": "0000092B|ccbgssse041-netchleather.esl",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "ccBGSSSE041_ArmorNetchLeatherBootsBlindingSpeed"
+ },
+ {
+  "original": "Hall of Wonders",
+  "string": "Зал чудес",
+  "form_id": "000104C9|DBM_CC_HallOfWonders.esp",
+  "type": "CELL FULL",
+  "index": null,
+  "editor_id": "DBMDGHallofWondersCC"
+ },
+ {
+  "original": "Netch Leather Handler",
+  "string": "Шкура нетча (служебный)",
+  "form_id": "00000806|DBM_CC_NetchLeatherArmorHOWPatch.esp",
+  "type": "QUST FULL",
+  "index": null,
+  "editor_id": "DBM_CC_NetchLeatherHandler"
+ }
+]

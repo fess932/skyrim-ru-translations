@@ -1,0 +1,18 @@
+[
+ {
+  "original": "The Curators Companion - Expanded Crossbow Pack",
+  "string": "Помощник куратора - Расширенный набор арбалетов",
+  "form_id": "00000801|LOTD_TCC_ExpandedCross.esp",
+  "type": "QUST FULL",
+  "index": null,
+  "editor_id": "TCC_SM_ExpandedCross"
+ },
+ {
+  "original": "<font color='#<Alias=ColourAlias>'>The Curators Companion: Mod Complete (Expanded Crossbow Pack)</font>",
+  "string": "<font color='#<Alias=ColourAlias>'>Компаньон куратора: Мод завершен (Расширенный набор арбалетов)</font>",
+  "form_id": "00000803|LOTD_TCC_ExpandedCross.esp",
+  "type": "MESG DESC",
+  "index": null,
+  "editor_id": "_CompleteNotification_ExpandedCross"
+ }
+]

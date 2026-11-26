@@ -1,0 +1,18 @@
+[
+ {
+  "original": "The Curators Companion - Alternate Armors - Dwarven Mail",
+  "string": "Помощник куратора - Альтернативная броня - Двемерская кольчуга",
+  "form_id": "00000800|LOTD_TCC_AADwarvenMail.esp",
+  "type": "QUST FULL",
+  "index": null,
+  "editor_id": "TCC_SM_AADwarvenMail"
+ },
+ {
+  "original": "<font color='#<Alias=ColourAlias>'>The Curators Companion: Mod Complete (Dwarven Mail)</font>",
+  "string": "<font color='#<Alias=ColourAlias>'>Компаньон куратора: Мод завершен (Двемерская кольчуга)</font>",
+  "form_id": "00000803|LOTD_TCC_AADwarvenMail.esp",
+  "type": "MESG DESC",
+  "index": null,
+  "editor_id": "_CompleteNotification_AADwarvenMail"
+ }
+]

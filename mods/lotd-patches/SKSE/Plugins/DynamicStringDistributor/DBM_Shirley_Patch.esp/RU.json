@@ -1,0 +1,106 @@
+[
+ {
+  "original": "Elderbranch",
+  "string": "Старейшая ветвь",
+  "form_id": "0000082F|DBM_Shirley_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBMBOWACTElderbranch"
+ },
+ {
+  "original": "Ugly Outfit",
+  "string": "Безобразный наряд",
+  "form_id": "00000831|DBM_Shirley_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBMARMORACTShirleyOutfit"
+ },
+ {
+  "original": "Hard Candy",
+  "string": "Леденец",
+  "form_id": "00000833|DBM_Shirley_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBMFOODACTShirleyCandyGreen"
+ },
+ {
+  "original": "The Rose",
+  "string": "Роза",
+  "form_id": "00000835|DBM_Shirley_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBMSWORDACTRoseSword"
+ },
+ {
+  "original": "Mor Khass",
+  "string": "Мор Хасс",
+  "form_id": "00000837|DBM_Shirley_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBMSWORDACTMorKhass"
+ },
+ {
+  "original": "Brightwood",
+  "string": "Яркий лес",
+  "form_id": "00000839|DBM_Shirley_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_ShirleyEXPLORATIONDISPBrightwood"
+ },
+ {
+  "original": "Grandma Shirley Items",
+  "string": "Предметы бабушки Ширли",
+  "form_id": "00000842|DBM_Shirley_Patch.esp",
+  "type": "CONT FULL",
+  "index": null,
+  "editor_id": "DBM_CheatCrateGrandmaShirley"
+ },
+ {
+  "original": "Elderbranch (replica)",
+  "string": "Старшая ветвь (копия)",
+  "form_id": "000B0CEE|Shirley.esp",
+  "type": "WEAP FULL",
+  "index": null,
+  "editor_id": "_SC_WP_WeaponBow_PLAYABLE"
+ },
+ {
+  "original": "Mor Khass (replica)",
+  "string": "Мор Хасс (копия)",
+  "form_id": "000B0CF1|Shirley.esp",
+  "type": "WEAP FULL",
+  "index": null,
+  "editor_id": "_SC_WP_WeaponGreatsword_PLAYABLE"
+ },
+ {
+  "original": "The Rose (replica)",
+  "string": "Роза (копия)",
+  "form_id": "0000083C|DBM_Shirley_Patch.esp",
+  "type": "WEAP FULL",
+  "index": null,
+  "editor_id": "DBM_RoseSwordREPLICA"
+ },
+ {
+  "original": "Especially effective against undead.",
+  "string": "Особенно эффективен против нежити.",
+  "form_id": "0000083C|DBM_Shirley_Patch.esp",
+  "type": "WEAP DESC",
+  "index": null,
+  "editor_id": "DBM_RoseSwordREPLICA"
+ },
+ {
+  "original": "Brightwood",
+  "string": "Яркий лес",
+  "form_id": "00011E58|Shirley.esp",
+  "type": "CELL FULL",
+  "index": null,
+  "editor_id": "000SCBrightwood"
+ },
+ {
+  "original": "Grandma Shirley Support Handler",
+  "string": "Поддержка Бабушки Ширли (служебный)",
+  "form_id": "00000803|DBM_Shirley_Patch.esp",
+  "type": "QUST FULL",
+  "index": null,
+  "editor_id": "DBM_GrandmaShirley_SupportHandler"
+ }
+]

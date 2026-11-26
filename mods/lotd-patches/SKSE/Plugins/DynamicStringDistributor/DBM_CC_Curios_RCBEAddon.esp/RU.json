@@ -1,0 +1,106 @@
+[
+ {
+  "original": "Daedric Bolt",
+  "string": "Даэдрический болт",
+  "form_id": "00000800|DBM_CC_Curios_RCBEAddon.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTBoltDaedric"
+ },
+ {
+  "original": "Dragonbone Bolt",
+  "string": "Драконий болт",
+  "form_id": "0000080D|DBM_CC_Curios_RCBEAddon.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTBoltDragonbone"
+ },
+ {
+  "original": "Glass Bolt",
+  "string": "Стеклянный болт",
+  "form_id": "0000080E|DBM_CC_Curios_RCBEAddon.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTBoltGlass"
+ },
+ {
+  "original": "Iron Bolt",
+  "string": "Железный болт",
+  "form_id": "0000080F|DBM_CC_Curios_RCBEAddon.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTBoltIron"
+ },
+ {
+  "original": "Nordic Bolt",
+  "string": "Нордский болт",
+  "form_id": "00000810|DBM_CC_Curios_RCBEAddon.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTBoltNordic"
+ },
+ {
+  "original": "Orcish Bolt",
+  "string": "Орочий болт",
+  "form_id": "00000811|DBM_CC_Curios_RCBEAddon.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTBoltOrcish"
+ },
+ {
+  "original": "Silver Bolt",
+  "string": "Серебряный болт",
+  "form_id": "00000812|DBM_CC_Curios_RCBEAddon.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTBoltSilver"
+ },
+ {
+  "original": "Stalhrim Bolt",
+  "string": "Сталгримовый болт",
+  "form_id": "00000813|DBM_CC_Curios_RCBEAddon.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTBoltStalhrim"
+ },
+ {
+  "original": "Elven Bolt",
+  "string": "Эльфийский болт",
+  "form_id": "00000816|DBM_CC_Curios_RCBEAddon.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTBoltElven"
+ },
+ {
+  "original": "Ebony Bolt",
+  "string": "Эбонитовый болт",
+  "form_id": "00000817|DBM_CC_Curios_RCBEAddon.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTBoltEbony"
+ },
+ {
+  "original": "Bonemold Bolt",
+  "string": "Костяной болт",
+  "form_id": "0000081A|DBM_CC_Curios_RCBEAddon.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTBoltBonemold"
+ },
+ {
+  "original": "Corkbulb Bolt",
+  "string": "Пробковый болт",
+  "form_id": "0000081B|DBM_CC_Curios_RCBEAddon.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTBoltCorkbulb"
+ },
+ {
+  "original": "Hall of Wonders",
+  "string": "Зал чудес",
+  "form_id": "000104C9|DBM_CC_HallOfWonders.esp",
+  "type": "CELL FULL",
+  "index": null,
+  "editor_id": "DBMDGHallofWondersCC"
+ }
+]

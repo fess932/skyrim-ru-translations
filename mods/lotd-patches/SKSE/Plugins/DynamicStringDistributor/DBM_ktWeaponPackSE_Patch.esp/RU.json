@@ -1,0 +1,82 @@
+[
+ {
+  "original": "Venomspite",
+  "string": "Ядовитая злоба",
+  "form_id": "0000080B|DBM_ktWeaponPackSE_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBMItemTYPEACTVenomspite"
+ },
+ {
+  "original": "Chitin Greatsword",
+  "string": "Хитиновый двуручный меч",
+  "form_id": "0000080D|DBM_ktWeaponPackSE_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBMItemTypeACTChitinGreatsword"
+ },
+ {
+  "original": "Dwemer Lightning Fork",
+  "string": "Двемерская молниевая вилка",
+  "form_id": "0000080F|DBM_ktWeaponPackSE_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBMItemTypeActDwemerLightningFork"
+ },
+ {
+  "original": "Chitin Bow",
+  "string": "Хитиновый лук",
+  "form_id": "00000811|DBM_ktWeaponPackSE_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBMItemTypeACTChitinBow"
+ },
+ {
+  "original": "Chitin Bow",
+  "string": "Хитиновый лук",
+  "form_id": "00000813|DBM_ktWeaponPackSE_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBMItemTypeACTChitinBowNoPearls"
+ },
+ {
+  "original": "Chitin Sword",
+  "string": "Хитиновый меч",
+  "form_id": "00000822|DBM_ktWeaponPackSE_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "ktSwordActi"
+ },
+ {
+  "original": "Chitin Dagger",
+  "string": "Хитиновый кинжал",
+  "form_id": "00000824|DBM_ktWeaponPackSE_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "ChitinDaggerACTI"
+ },
+ {
+  "original": "Kthonia's Unique Weapon Pack",
+  "string": "Уникальное оружие Ктонии",
+  "form_id": "0000081A|DBM_ktWeaponPackSE_Patch.esp",
+  "type": "CONT FULL",
+  "index": null,
+  "editor_id": "DBM_CheatCrateKtWeaponPack"
+ },
+ {
+  "original": "Dwemer Lightning Fork",
+  "string": "Двемерская молниевая вилка",
+  "form_id": "00017EC0|ktWeaponPackSE.esp",
+  "type": "WEAP FULL",
+  "index": null,
+  "editor_id": "ktDwemerFork_Dagger"
+ },
+ {
+  "original": "A rare and advanced Dwemer Artifact.",
+  "string": "Редкий и сложный двемерский артефакт.",
+  "form_id": "00017EC0|ktWeaponPackSE.esp",
+  "type": "WEAP DESC",
+  "index": null,
+  "editor_id": "ktDwemerFork_Dagger"
+ }
+]

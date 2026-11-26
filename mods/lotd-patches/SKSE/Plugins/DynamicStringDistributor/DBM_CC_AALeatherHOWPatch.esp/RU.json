@@ -1,0 +1,50 @@
+[
+ {
+  "original": "Leather Scout Hood",
+  "string": "Кожаный капюшон разведчика",
+  "form_id": "00000805|DBM_CC_AALeatherHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTLeatherScoutHelmet"
+ },
+ {
+  "original": "Leather Scout Armor",
+  "string": "Кожаная броня разведчика",
+  "form_id": "00000806|DBM_CC_AALeatherHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTLeatherScoutArmor"
+ },
+ {
+  "original": "Leather Scout Gauntlets",
+  "string": "Кожаные перчатки разведчика",
+  "form_id": "00000807|DBM_CC_AALeatherHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTLeatherScoutGauntlets"
+ },
+ {
+  "original": "Leather Scout Boots",
+  "string": "Кожаные сапоги разведчика",
+  "form_id": "00000808|DBM_CC_AALeatherHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTLeatherScoutBoots"
+ },
+ {
+  "original": "Hall of Wonders",
+  "string": "Зал чудес",
+  "form_id": "000104C9|DBM_CC_HallOfWonders.esp",
+  "type": "CELL FULL",
+  "index": null,
+  "editor_id": "DBMDGHallofWondersCC"
+ },
+ {
+  "original": "Alt Armors Leather Scout Handler",
+  "string": "Альтернативная броня: кожаная броня разведчика (служебный)",
+  "form_id": "00000804|DBM_CC_AALeatherHOWPatch.esp",
+  "type": "QUST FULL",
+  "index": null,
+  "editor_id": "DBM_CC_LeatherScoutHandler"
+ }
+]

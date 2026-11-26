@@ -1,0 +1,34 @@
+[
+ {
+  "original": "Breathtaker Damage",
+  "string": "Урон Удушителя",
+  "form_id": "00000800|DBM_CC_GotT_MaSSynergy.esp",
+  "type": "ENCH FULL",
+  "index": null,
+  "editor_id": "DBM_CC_EnchBreathtaker"
+ },
+ {
+  "original": "Breathtaker",
+  "string": "Захватывающий дух",
+  "form_id": "0000087C|DBM_CC_GhostsoftheTribunalHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTMagebane"
+ },
+ {
+  "original": "Breathtaker",
+  "string": "Захватывающий дух",
+  "form_id": "0013101B|ccasvsse001-almsivi.esm",
+  "type": "WEAP FULL",
+  "index": null,
+  "editor_id": "ccASVSSE001_Magebane"
+ },
+ {
+  "original": "Breathtaker (replica)",
+  "string": "Дыхоотъем (копия)",
+  "form_id": "000008AA|DBM_CC_GhostsoftheTribunalHOWPatch.esp",
+  "type": "WEAP FULL",
+  "index": null,
+  "editor_id": "DBM_CC_MagebaneREPLICA"
+ }
+]

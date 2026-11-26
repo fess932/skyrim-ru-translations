@@ -1,0 +1,26 @@
+[
+ {
+  "original": "Hall of Wonders",
+  "string": "Зал чудес",
+  "form_id": "000104C9|DBM_CC_HallOfWonders.esp",
+  "type": "CELL FULL",
+  "index": null,
+  "editor_id": "DBMDGHallofWondersCC"
+ },
+ {
+  "original": "The Curators Companion - Goblins",
+  "string": "Помощник куратора - Гоблины",
+  "form_id": "00000803|LOTD_TCC_Goblins.esp",
+  "type": "QUST FULL",
+  "index": null,
+  "editor_id": "TCC_SM_Goblins"
+ },
+ {
+  "original": "<font color='#<Alias=ColourAlias>'>The Curators Companion: Mod Complete (Goblins)</font>",
+  "string": "<font color='#<Alias=ColourAlias>'>Компаньон куратора: Мод завершен (Гоблины)</font>",
+  "form_id": "00000802|LOTD_TCC_Goblins.esp",
+  "type": "MESG DESC",
+  "index": null,
+  "editor_id": "_CompleteNotification_Goblins"
+ }
+]

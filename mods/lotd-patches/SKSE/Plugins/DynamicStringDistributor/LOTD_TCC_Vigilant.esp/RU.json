@@ -1,0 +1,18 @@
+[
+ {
+  "original": "The Curators Companion - Vigilant",
+  "string": "Помощник куратора - Дозорный",
+  "form_id": "00000802|LOTD_TCC_Vigilant.esp",
+  "type": "QUST FULL",
+  "index": null,
+  "editor_id": "TCC_SM_Vigilant"
+ },
+ {
+  "original": "<font color='#<Alias=ColourAlias>'>The Curators Companion: Mod Complete (Vigilant)</font>",
+  "string": "<font color='#<Alias=ColourAlias>'>Компаньон куратора: мод завершен (Дозорный)</font>",
+  "form_id": "00000804|LOTD_TCC_Vigilant.esp",
+  "type": "MESG DESC",
+  "index": null,
+  "editor_id": "_CompleteNotification_Vigilant"
+ }
+]

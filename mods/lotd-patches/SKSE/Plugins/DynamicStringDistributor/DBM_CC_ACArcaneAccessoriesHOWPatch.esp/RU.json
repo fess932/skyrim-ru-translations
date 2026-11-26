@@ -1,0 +1,306 @@
+[
+ {
+  "original": "Ancient Spell Tomes: Conjuration",
+  "string": "Древние тома заклинаний: Колдовство",
+  "form_id": "0000080B|DBM_CC_ACArcaneAccessoriesHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DummyACTTomeConjuration"
+ },
+ {
+  "original": "Robes of Conjuration & Illusion",
+  "string": "Одеяния колдовства и иллюзии",
+  "form_id": "00000800|DBM_CC_ACArcaneAccessoriesHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTRobesOrange"
+ },
+ {
+  "original": "Ancient Restoration Tome (replica)",
+  "string": "Древний том Восстановления (копия)",
+  "form_id": "00000808|DBM_CC_ACArcaneAccessoriesHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTTomeRestoration"
+ },
+ {
+  "original": "Ancient Spell Tomes: Alteration",
+  "string": "Древние тома заклинаний: Изменение",
+  "form_id": "00000809|DBM_CC_ACArcaneAccessoriesHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DummyACTTomeAlteration"
+ },
+ {
+  "original": "Ancient Restoration Tome (replica)",
+  "string": "Древний том Восстановления (копия)",
+  "form_id": "0000080A|DBM_CC_ACArcaneAccessoriesHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DummyACTTomeRestoration"
+ },
+ {
+  "original": "Robes of Destruction & Alteration",
+  "string": "Одеяния разрушения и изменения",
+  "form_id": "00000854|DBM_CC_ACArcaneAccessoriesHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DummyACTRobeBlue"
+ },
+ {
+  "original": "Ancient Spell Tomes: Destruction",
+  "string": "Древние тома заклинаний: Разрушение",
+  "form_id": "0000080C|DBM_CC_ACArcaneAccessoriesHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DummyACTTomeDestruction"
+ },
+ {
+  "original": "Ancient Spell Tomes: Illusion",
+  "string": "Древние тома заклинаний: Иллюзия",
+  "form_id": "0000080E|DBM_CC_ACArcaneAccessoriesHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DummyACTTomeIllusion"
+ },
+ {
+  "original": "Robes of Destruction & Alteration",
+  "string": "Одеяния разрушения и изменения",
+  "form_id": "0000082F|DBM_CC_ACArcaneAccessoriesHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTRobesBlue"
+ },
+ {
+  "original": "Robes of Conjuration & Illusion",
+  "string": "Одеяния колдовства и иллюзии",
+  "form_id": "00000853|DBM_CC_ACArcaneAccessoriesHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DummyACTRobeOrange"
+ },
+ {
+  "original": "Spell Tome: Orum's Aquatic Escape",
+  "string": "Том заклинаний: Побег Орума по воде",
+  "form_id": "00000867|DBM_CC_ACArcaneAccessoriesHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTTomeIllOrum"
+ },
+ {
+  "original": "Spell Tome: Paralysis Rune",
+  "string": "Книга заклинаний: Руна паралича",
+  "form_id": "00000858|DBM_CC_ACArcaneAccessoriesHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTTomeAltParalysisRune"
+ },
+ {
+  "original": "Spell Tome: Pride of Hirstaang",
+  "string": "Том заклинаний: Гордость Хирстаанга",
+  "form_id": "00000859|DBM_CC_ACArcaneAccessoriesHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTTomeConHirstaang"
+ },
+ {
+  "original": "Spell Tome: Choking Grasp",
+  "string": "Том заклинаний: Удушающая хватка",
+  "form_id": "0000085A|DBM_CC_ACArcaneAccessoriesHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTTomeDesAbsorb01"
+ },
+ {
+  "original": "Spell Tome: Strangulation",
+  "string": "Том заклинаний: Удушение",
+  "form_id": "0000085B|DBM_CC_ACArcaneAccessoriesHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTTomeDesAbsorb02"
+ },
+ {
+  "original": "Spell Tome: Hangman's Noose",
+  "string": "Том заклинаний: Петля висельника",
+  "form_id": "0000085C|DBM_CC_ACArcaneAccessoriesHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTTomeDesAbsorb03"
+ },
+ {
+  "original": "Spell Tome: Touch of Death",
+  "string": "Том заклинаний: Прикосновение смерти",
+  "form_id": "0000085D|DBM_CC_ACArcaneAccessoriesHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTTomeDesAbsorb04"
+ },
+ {
+  "original": "Spell Tome: Elemental Flare",
+  "string": "Том заклинаний: Элементная вспышка",
+  "form_id": "0000085E|DBM_CC_ACArcaneAccessoriesHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTTomeDesElemental01"
+ },
+ {
+  "original": "Spell Tome: Elemental Bolt",
+  "string": "Том заклинаний: Элементная молния",
+  "form_id": "0000085F|DBM_CC_ACArcaneAccessoriesHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTTomeDesElemental02"
+ },
+ {
+  "original": "Spell Tome: Elemental Burst",
+  "string": "Том заклинаний: Элементный толчок",
+  "form_id": "00000860|DBM_CC_ACArcaneAccessoriesHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTTomeDesElemental03"
+ },
+ {
+  "original": "Spell Tome: Elemental Blast",
+  "string": "Том заклинаний: Элементный взрыв",
+  "form_id": "00000861|DBM_CC_ACArcaneAccessoriesHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTTomeDesElemental04"
+ },
+ {
+  "original": "Spell Tome: Unbounded Flames",
+  "string": "Книга заклинаний: Безудержный огонь",
+  "form_id": "00000862|DBM_CC_ACArcaneAccessoriesHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTTomeDesUnboundFire"
+ },
+ {
+  "original": "Spell Tome: Unbounded Freezing",
+  "string": "Книга заклинаний: Безудержный мороз",
+  "form_id": "00000863|DBM_CC_ACArcaneAccessoriesHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTTomeDesUnboundFrost"
+ },
+ {
+  "original": "Spell Tome: Unbounded Storms",
+  "string": "Книга заклинаний: Безудержный шторм",
+  "form_id": "00000864|DBM_CC_ACArcaneAccessoriesHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTTomeDesUnboundShock"
+ },
+ {
+  "original": "Spell Tome: Mara's Wrath",
+  "string": "Том заклинаний: Гнев Мары",
+  "form_id": "00000865|DBM_CC_ACArcaneAccessoriesHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTTomeDesMarasWrath"
+ },
+ {
+  "original": "Spell Tome: Fenrik's Welcome",
+  "string": "Том заклинаний: Радушие Фенрика",
+  "form_id": "00000866|DBM_CC_ACArcaneAccessoriesHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTTomeIllFenrik"
+ },
+ {
+  "original": "Ancient Destruction Tome (replica)",
+  "string": "Древний фолиант Разрушения (копия)",
+  "form_id": "0000083A|DBM_CC_ACArcaneAccessoriesHOWPatch.esp",
+  "type": "BOOK FULL",
+  "index": null,
+  "editor_id": "DBM_CC_TomeDestructionREPL"
+ },
+ {
+  "original": "<font face'$HandwrittenFont'><font size='40'><p align='center'>\r\n...",
+  "string": "<font face'$HandwrittenFont'><font size='40'><p align='center'>\r\n...",
+  "form_id": "0000083A|DBM_CC_ACArcaneAccessoriesHOWPatch.esp",
+  "type": "BOOK DESC",
+  "index": null,
+  "editor_id": "DBM_CC_TomeDestructionREPL"
+ },
+ {
+  "original": "Ancient Conjuration Tome (replica)",
+  "string": "Древний фолиант Колдовства (копия)",
+  "form_id": "0000083B|DBM_CC_ACArcaneAccessoriesHOWPatch.esp",
+  "type": "BOOK FULL",
+  "index": null,
+  "editor_id": "DBM_CC_TomeConjurationREPL"
+ },
+ {
+  "original": "<font face'$HandwrittenFont'><font size='40'><p align='center'>\r\n...",
+  "string": "<font face'$HandwrittenFont'><font size='40'><p align='center'>\r\n...",
+  "form_id": "0000083B|DBM_CC_ACArcaneAccessoriesHOWPatch.esp",
+  "type": "BOOK DESC",
+  "index": null,
+  "editor_id": "DBM_CC_TomeConjurationREPL"
+ },
+ {
+  "original": "Ancient Alteration Tome (replica)",
+  "string": "Древний фолиант Изменения (копия)",
+  "form_id": "0000083C|DBM_CC_ACArcaneAccessoriesHOWPatch.esp",
+  "type": "BOOK FULL",
+  "index": null,
+  "editor_id": "DBM_CC_TomeAlterationREPL"
+ },
+ {
+  "original": "<font face'$HandwrittenFont'><font size='40'><p align='center'>\r\n...",
+  "string": "<font face'$HandwrittenFont'><font size='40'><p align='center'>\r\n...",
+  "form_id": "0000083C|DBM_CC_ACArcaneAccessoriesHOWPatch.esp",
+  "type": "BOOK DESC",
+  "index": null,
+  "editor_id": "DBM_CC_TomeAlterationREPL"
+ },
+ {
+  "original": "Ancient Illusion Tome (replica)",
+  "string": "Древний фолиант Иллюзии (копия)",
+  "form_id": "0000083D|DBM_CC_ACArcaneAccessoriesHOWPatch.esp",
+  "type": "BOOK FULL",
+  "index": null,
+  "editor_id": "DBM_CC_TomeIllusionREPL"
+ },
+ {
+  "original": "<font face'$HandwrittenFont'><font size='40'><p align='center'>\r\n...",
+  "string": "<font face'$HandwrittenFont'><font size='40'><p align='center'>\r\n...",
+  "form_id": "0000083D|DBM_CC_ACArcaneAccessoriesHOWPatch.esp",
+  "type": "BOOK DESC",
+  "index": null,
+  "editor_id": "DBM_CC_TomeIllusionREPL"
+ },
+ {
+  "original": "Ancient Restoration Tome (replica)",
+  "string": "Древний том Восстановления (копия)",
+  "form_id": "0000083F|DBM_CC_ACArcaneAccessoriesHOWPatch.esp",
+  "type": "BOOK FULL",
+  "index": null,
+  "editor_id": "DBM_CC_TomeRestorationREPL"
+ },
+ {
+  "original": "<font face'$HandwrittenFont'><font size='40'><p align='center'>\r\n...",
+  "string": "<font face'$HandwrittenFont'><font size='40'><p align='center'>\r\n...",
+  "form_id": "0000083F|DBM_CC_ACArcaneAccessoriesHOWPatch.esp",
+  "type": "BOOK DESC",
+  "index": null,
+  "editor_id": "DBM_CC_TomeRestorationREPL"
+ },
+ {
+  "original": "Hall of Wonders",
+  "string": "Зал чудес",
+  "form_id": "000104C9|DBM_CC_HallOfWonders.esp",
+  "type": "CELL FULL",
+  "index": null,
+  "editor_id": "DBMDGHallofWondersCC"
+ },
+ {
+  "original": "Arcane Accessories Handler",
+  "string": "Волшебные предметы (служебный)",
+  "form_id": "00000806|DBM_CC_ACArcaneAccessoriesHOWPatch.esp",
+  "type": "QUST FULL",
+  "index": null,
+  "editor_id": "DBM_CC_ArcaneAccessoriesHandler"
+ }
+]

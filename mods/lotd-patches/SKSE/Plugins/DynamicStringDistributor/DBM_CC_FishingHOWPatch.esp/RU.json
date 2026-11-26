@@ -1,0 +1,826 @@
+[
+ {
+  "original": "Atronite Ring",
+  "string": "Атронитовое кольцо",
+  "form_id": "0000098B|DBM_CC_FishingHOWPatch.esp",
+  "type": "ENCH FULL",
+  "index": null,
+  "editor_id": "DBM_CC_EnchRingAtronite"
+ },
+ {
+  "original": "Gelid Protection",
+  "string": "Ледяная защита",
+  "form_id": "0000098A|DBM_CC_FishingHOWPatch.esp",
+  "type": "ENCH FULL",
+  "index": null,
+  "editor_id": "DBM_CC_EnchRingJelidity"
+ },
+ {
+  "original": "Aetherium Dynamo Core",
+  "string": "Этериевый сердечник генератора",
+  "form_id": "00000917|DBM_CC_FishingHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTAetheriumDynamoB"
+ },
+ {
+  "original": "Catch",
+  "string": "Поймать",
+  "form_id": "0000085D|DBM_CC_FishingHOWPatch.esp",
+  "type": "ACTI RNAM",
+  "index": null,
+  "editor_id": "DBM_CC_TankCritterMudcrab"
+ },
+ {
+  "original": "Deepglow Char",
+  "string": "Глубинный голец",
+  "form_id": "000008C9|DBM_CC_FishingHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_CritterDeepChar01"
+ },
+ {
+  "original": "Catch",
+  "string": "Поймать",
+  "form_id": "000008C9|DBM_CC_FishingHOWPatch.esp",
+  "type": "ACTI RNAM",
+  "index": null,
+  "editor_id": "DBM_CC_CritterDeepChar01"
+ },
+ {
+  "original": "Wave Breaker",
+  "string": "Волнорез",
+  "form_id": "000008D9|DBM_CC_FishingHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DummyACTEmperorCrab"
+ },
+ {
+  "original": "Fishing Hat",
+  "string": "Рыбацкая шляпа",
+  "form_id": "000008DD|DBM_CC_FishingHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTFishingHat"
+ },
+ {
+  "original": "Catch",
+  "string": "Поймать",
+  "form_id": "000008DE|DBM_CC_FishingHOWPatch.esp",
+  "type": "ACTI RNAM",
+  "index": null,
+  "editor_id": "DBM_CC_TankCritterDeepChar"
+ },
+ {
+  "original": "Fishing Clothes",
+  "string": "Рыбацкая одежда",
+  "form_id": "00000907|DBM_CC_FishingHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTFishingClothes"
+ },
+ {
+  "original": "Fishing Boots",
+  "string": "Рыбацкие сапоги",
+  "form_id": "00000908|DBM_CC_FishingHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTFishingBoots"
+ },
+ {
+  "original": "Fishing Rod",
+  "string": "Удочка",
+  "form_id": "00000909|DBM_CC_FishingHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTFishingRod"
+ },
+ {
+  "original": "Alik'ri Fishing Rod",
+  "string": "Аликр'ская удочка",
+  "form_id": "0000090A|DBM_CC_FishingHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTFishingRodAlikr"
+ },
+ {
+  "original": "Argonian Fishing Rod",
+  "string": "Аргонианская удочка",
+  "form_id": "0000090B|DBM_CC_FishingHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTFishingRodArgonian"
+ },
+ {
+  "original": "Dwarven Fishing Rod",
+  "string": "Двемерская удочка",
+  "form_id": "0000090C|DBM_CC_FishingHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTFishingRodDwemer"
+ },
+ {
+  "original": "Viriya's Charm",
+  "string": "Амулет Вирии",
+  "form_id": "0000090D|DBM_CC_FishingHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTViriyasCharm"
+ },
+ {
+  "original": "Ring of Agility",
+  "string": "Кольцо ловкости",
+  "form_id": "0000090E|DBM_CC_FishingHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTRingAgility"
+ },
+ {
+  "original": "Atronite Ring",
+  "string": "Атронитовое кольцо",
+  "form_id": "0000090F|DBM_CC_FishingHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTRingAtronite"
+ },
+ {
+  "original": "Ring of Gelid Protection",
+  "string": "Кольцо ледяной защиты",
+  "form_id": "00000910|DBM_CC_FishingHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTRingJelidity"
+ },
+ {
+  "original": "Ring of Kynareth",
+  "string": "Кольцо Кинарет",
+  "form_id": "00000911|DBM_CC_FishingHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTRingKynareth"
+ },
+ {
+  "original": "Ring of Willpower",
+  "string": "Кольцо силы воли",
+  "form_id": "00000912|DBM_CC_FishingHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTRingWillpower"
+ },
+ {
+  "original": "Irkngthand War Axe",
+  "string": "Иркнтандский боевой топор",
+  "form_id": "00000913|DBM_CC_FishingHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTDwarvenAxeBasic"
+ },
+ {
+  "original": "Irkngthand War Axe of Fire",
+  "string": "Иркнтандский боевой топор огня",
+  "form_id": "00000914|DBM_CC_FishingHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTDwarvenAxeFire"
+ },
+ {
+  "original": "Irkngthand War Axe of Ice",
+  "string": "Иркнтандский боевой топор льда",
+  "form_id": "00000915|DBM_CC_FishingHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTDwarvenAxeIce"
+ },
+ {
+  "original": "Aetherium Dynamo Core",
+  "string": "Этериевый сердечник генератора",
+  "form_id": "00000916|DBM_CC_FishingHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTAetheriumDynamoA"
+ },
+ {
+  "original": "Deepglow Char",
+  "string": "Глубинный голец",
+  "form_id": "00000931|DBM_CC_FishingHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTFishDeepglowChar"
+ },
+ {
+  "original": "Line and Lure",
+  "string": "Леска и крючок",
+  "form_id": "00000918|DBM_CC_FishingHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTBookLineAndLure"
+ },
+ {
+  "original": "Fishing Mastery, v1",
+  "string": "Искусство рыбной ловли, том 1",
+  "form_id": "00000919|DBM_CC_FishingHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTBookFishGuide1"
+ },
+ {
+  "original": "Fishing Mastery, v2",
+  "string": "Искусство рыбной ловли, т. 2",
+  "form_id": "0000091A|DBM_CC_FishingHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTBookFishGuide2"
+ },
+ {
+  "original": "Fishing Mastery, v3",
+  "string": "Искусство рыбной ловли, т. 3",
+  "form_id": "0000091B|DBM_CC_FishingHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTBookFishGuide3"
+ },
+ {
+  "original": "Fishing Mastery, v4",
+  "string": "Искусство рыбной ловли, том 4",
+  "form_id": "0000091C|DBM_CC_FishingHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTBookFishGuide4"
+ },
+ {
+  "original": "Fishing Mastery, v5",
+  "string": "Искусство рыбной ловли, том 5",
+  "form_id": "0000091D|DBM_CC_FishingHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTBookFishGuide5"
+ },
+ {
+  "original": "Fishing Map - Eastmarch",
+  "string": "Рыбацкая карта - Истмарк",
+  "form_id": "0000091E|DBM_CC_FishingHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTMapEastmarch"
+ },
+ {
+  "original": "Fishing Map - Falkreath",
+  "string": "Рыбацкая карта - Фолкрит",
+  "form_id": "0000091F|DBM_CC_FishingHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTMapFalkreath"
+ },
+ {
+  "original": "Fishing Map - Haafingar",
+  "string": "Рыбацкая карта - Хаафингар",
+  "form_id": "00000920|DBM_CC_FishingHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTMapHaafingar"
+ },
+ {
+  "original": "Fishing Map - Hjaalmarch",
+  "string": "Рыбацкая карта - Хьялмарк",
+  "form_id": "00000921|DBM_CC_FishingHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTMapHjaalmarch"
+ },
+ {
+  "original": "Fishing Map - The Pale",
+  "string": "Рыбацкая карта - Белый Берег",
+  "form_id": "00000922|DBM_CC_FishingHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTMapPale"
+ },
+ {
+  "original": "Fishing Map - The Reach",
+  "string": "Рыбацкая карта - Предел",
+  "form_id": "00000923|DBM_CC_FishingHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTMapReach"
+ },
+ {
+  "original": "Fishing Map - The Rift",
+  "string": "Рыбацкая карта - Рифт",
+  "form_id": "00000924|DBM_CC_FishingHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTMapRift"
+ },
+ {
+  "original": "Fishing Map - Whiterun",
+  "string": "Рыбацкая карта - Вайтран",
+  "form_id": "00000925|DBM_CC_FishingHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTMapWhiterun"
+ },
+ {
+  "original": "Fishing Map - Winterhold",
+  "string": "Рыбацкая карта - Винтерхолд",
+  "form_id": "00000926|DBM_CC_FishingHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTMapWinterhold"
+ },
+ {
+  "original": "Fishing Map - Solstheim",
+  "string": "Рыбацкая карта - Солстейм",
+  "form_id": "00000927|DBM_CC_FishingHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTMapSolstheim"
+ },
+ {
+  "original": "Angelfish",
+  "string": "Рыба-ангел",
+  "form_id": "00000928|DBM_CC_FishingHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTFishAngelfish"
+ },
+ {
+  "original": "Angler",
+  "string": "Удильщик",
+  "form_id": "00000929|DBM_CC_FishingHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTFishAngler"
+ },
+ {
+  "original": "Angler Larvae",
+  "string": "Малек удильщика",
+  "form_id": "0000092A|DBM_CC_FishingHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTFishAnglerLarvae"
+ },
+ {
+  "original": "Arctic Char",
+  "string": "Полярный голец",
+  "form_id": "0000092B|DBM_CC_FishingHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTFishArcticChar"
+ },
+ {
+  "original": "Arctic Grayling",
+  "string": "Полярный хариус",
+  "form_id": "0000092C|DBM_CC_FishingHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTFishArcticGrayling"
+ },
+ {
+  "original": "Brook Bass",
+  "string": "Мелководный окунь",
+  "form_id": "0000092D|DBM_CC_FishingHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTFishBrookBass"
+ },
+ {
+  "original": "Carp",
+  "string": "Карп",
+  "form_id": "0000092E|DBM_CC_FishingHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTFishCarp"
+ },
+ {
+  "original": "Catfish",
+  "string": "Сом",
+  "form_id": "0000092F|DBM_CC_FishingHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTFishCatfish"
+ },
+ {
+  "original": "Cod",
+  "string": "Треска",
+  "form_id": "00000930|DBM_CC_FishingHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTFishCod"
+ },
+ {
+  "original": "Histcarp",
+  "string": "Хисткарп",
+  "form_id": "00000945|DBM_CC_FishingHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTFishPond05"
+ },
+ {
+  "original": "Direfish",
+  "string": "Люторыба",
+  "form_id": "00000932|DBM_CC_FishingHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTFishDirefish"
+ },
+ {
+  "original": "Glass Catfish",
+  "string": "Стеклянный сомик",
+  "form_id": "00000933|DBM_CC_FishingHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTFishGlassCatfish"
+ },
+ {
+  "original": "Glassfish",
+  "string": "Стеклянный окунь",
+  "form_id": "00000934|DBM_CC_FishingHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTFishGlassfish"
+ },
+ {
+  "original": "Goldfish",
+  "string": "Золотая рыбка",
+  "form_id": "00000935|DBM_CC_FishingHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTFishGoldfish"
+ },
+ {
+  "original": "Juvenile Mudcrab",
+  "string": "Молодой грязевой краб",
+  "form_id": "00000936|DBM_CC_FishingHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTFishJuvenileMudcrab"
+ },
+ {
+  "original": "Lyretail Anthias",
+  "string": "Лирохвостый окунь",
+  "form_id": "00000937|DBM_CC_FishingHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTFishLyretailAnthias"
+ },
+ {
+  "original": "Pearlfish",
+  "string": "Карапус",
+  "form_id": "00000938|DBM_CC_FishingHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTFishPearlfish"
+ },
+ {
+  "original": "Pogfish",
+  "string": "Страж-рыба",
+  "form_id": "00000939|DBM_CC_FishingHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTFishPogfish"
+ },
+ {
+  "original": "Pygmy Sunfish",
+  "string": "Карликовый солнечник",
+  "form_id": "0000093A|DBM_CC_FishingHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTFishPygmySunfish"
+ },
+ {
+  "original": "Salmon",
+  "string": "Лосось",
+  "form_id": "0000093B|DBM_CC_FishingHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTFishSalmon"
+ },
+ {
+  "original": "Scorpion Fish",
+  "string": "Скорпена",
+  "form_id": "0000093C|DBM_CC_FishingHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTFishScorpionFish"
+ },
+ {
+  "original": "Slaughterfish",
+  "string": "Рыба-убийца",
+  "form_id": "0000093D|DBM_CC_FishingHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTFishSlaughterfish"
+ },
+ {
+  "original": "Spadefish",
+  "string": "Рыба-лопата",
+  "form_id": "0000093E|DBM_CC_FishingHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTFishSpadefish"
+ },
+ {
+  "original": "Tripod Spiderfish",
+  "string": "Трехногая рыба-паук",
+  "form_id": "0000093F|DBM_CC_FishingHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTFishTripodSpiderfish"
+ },
+ {
+  "original": "Vampire Fish",
+  "string": "Рыба-вампир",
+  "form_id": "00000940|DBM_CC_FishingHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTFishVampireFish"
+ },
+ {
+  "original": "Silverside Perch",
+  "string": "Серебристый окунь",
+  "form_id": "00000941|DBM_CC_FishingHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTFishPond01"
+ },
+ {
+  "original": "Abecean Longfin",
+  "string": "Абесинский окунь",
+  "form_id": "00000942|DBM_CC_FishingHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTFishPond02"
+ },
+ {
+  "original": "River Betty",
+  "string": "Бойцовая рыбка",
+  "form_id": "00000943|DBM_CC_FishingHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTFishPond03"
+ },
+ {
+  "original": "Cyrodilic Spadetail",
+  "string": "Сиродильский лопатохвост",
+  "form_id": "00000944|DBM_CC_FishingHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTFishPond04"
+ },
+ {
+  "original": "Viriya's Charm (replica)",
+  "string": "Амулет Вирии (копия)",
+  "form_id": "000008D6|DBM_CC_FishingHOWPatch.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "DBM_CC_MudcrabAmuletREPLICA"
+ },
+ {
+  "original": "Resistance to magic, shock, and poison is improved by <20>%.",
+  "string": "Сопротивляемость магии, электричеству и яду повышена на <20>%.",
+  "form_id": "00125B04|LegacyoftheDragonborn.esm",
+  "type": "ARMO DESC",
+  "index": null,
+  "editor_id": "DBM_PrvtIPhynastersRing"
+ },
+ {
+  "original": "Ring of Willpower",
+  "string": "Кольцо силы воли",
+  "form_id": "000008EF|DBM_CC_FishingHOWPatch.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "DBM_CC_RingWillpower"
+ },
+ {
+  "original": "Increases your Magicka by <50> points. Spells are 25% stronger.",
+  "string": "Увеличивает запас магии на <50> ед. Заклинания на 25% сильнее.",
+  "form_id": "000008EF|DBM_CC_FishingHOWPatch.esp",
+  "type": "ARMO DESC",
+  "index": null,
+  "editor_id": "DBM_CC_RingWillpower"
+ },
+ {
+  "original": "Ring of Gelid Protection",
+  "string": "Кольцо ледяной защиты",
+  "form_id": "000008F0|DBM_CC_FishingHOWPatch.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "DBM_CC_RingJelidity"
+ },
+ {
+  "original": "Atronite Ring",
+  "string": "Атронитовое кольцо",
+  "form_id": "000008F1|DBM_CC_FishingHOWPatch.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "DBM_CC_RingAtronite"
+ },
+ {
+  "original": "Resistance against fire, frost, and shock is improved by <10>%. Fire, frost and shock spells are <10>% stronger.",
+  "string": "Сопротивление огню, холоду и электричеству повышается на <10>%. Заклинания огня, мороза и шока на <10>% сильнее.",
+  "form_id": "000008F1|DBM_CC_FishingHOWPatch.esp",
+  "type": "ARMO DESC",
+  "index": null,
+  "editor_id": "DBM_CC_RingAtronite"
+ },
+ {
+  "original": "Ring of Agility",
+  "string": "Кольцо ловкости",
+  "form_id": "000008F2|DBM_CC_FishingHOWPatch.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "DBM_CC_RingAgility"
+ },
+ {
+  "original": "Increases your Stamina by <50> points. Physical attacks are 25% stronger.",
+  "string": "Увеличивает запас сил на <50> ед. Физические атаки на 25% сильнее.",
+  "form_id": "000008F2|DBM_CC_FishingHOWPatch.esp",
+  "type": "ARMO DESC",
+  "index": null,
+  "editor_id": "DBM_CC_RingAgility"
+ },
+ {
+  "original": "Ring of Willpower (replica)",
+  "string": "Кольцо силы воли (копия)",
+  "form_id": "000008F3|DBM_CC_FishingHOWPatch.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "DBM_CC_RingWillpowerREPLICA"
+ },
+ {
+  "original": "Ring of Gelid Protection (replica)",
+  "string": "Кольцо ледяной защиты (копия)",
+  "form_id": "000008F4|DBM_CC_FishingHOWPatch.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "DBM_CC_RingJelidityREPLICA"
+ },
+ {
+  "original": "Atronite Ring (replica)",
+  "string": "Атронитовое кольцо (копия)",
+  "form_id": "000008F5|DBM_CC_FishingHOWPatch.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "DBM_CC_RingAtroniteREPLICA"
+ },
+ {
+  "original": "Ring of Agility (replica)",
+  "string": "Кольцо ловкости (копия)",
+  "form_id": "000008F6|DBM_CC_FishingHOWPatch.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "DBM_CC_RingAgilityREPLICA"
+ },
+ {
+  "original": "Ring of Kynareth (replica)",
+  "string": "Кольцо Кинарет (копия)",
+  "form_id": "00000904|DBM_CC_FishingHOWPatch.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "DBM_CC_RingKynarethREPLICA"
+ },
+ {
+  "original": "Fish",
+  "string": "Рыба",
+  "form_id": "0000098D|DBM_CC_FishingHOWPatch.esp",
+  "type": "CONT FULL",
+  "index": null,
+  "editor_id": "DBM_HatcheryFish"
+ },
+ {
+  "original": "Perfect Roe",
+  "string": "Отборная икра",
+  "form_id": "0000085E|DBM_CC_FishingHOWPatch.esp",
+  "type": "INGR FULL",
+  "index": null,
+  "editor_id": "DBM_CC_PerfectRoe"
+ },
+ {
+  "original": "Perfect Roe (replica)",
+  "string": "Идеальная икра (копия)",
+  "form_id": "00000860|DBM_CC_FishingHOWPatch.esp",
+  "type": "MISC FULL",
+  "index": null,
+  "editor_id": "DBM_CC_PerfectRoeREPLICA"
+ },
+ {
+  "original": "Irkngthand War Axe of Fire",
+  "string": "Иркнтандский боевой топор огня",
+  "form_id": "000009D9|ccBGSSSE001-Fish.esm",
+  "type": "WEAP FULL",
+  "index": null,
+  "editor_id": "ccBGSSSE001_SpecialDwarvenAxe01"
+ },
+ {
+  "original": "Irkngthand War Axe of Freezing",
+  "string": "Иркнтандский боевой топор стужи",
+  "form_id": "0004D05E|ccBGSSSE001-Fish.esm",
+  "type": "WEAP FULL",
+  "index": null,
+  "editor_id": "ccBGSSSE001_SpecialDwarvenAxe02"
+ },
+ {
+  "original": "Irkngthand War Axe of Fire (replica)",
+  "string": "Иркнтандский боевой топор огня (копия)",
+  "form_id": "000008CC|DBM_CC_FishingHOWPatch.esp",
+  "type": "WEAP FULL",
+  "index": null,
+  "editor_id": "DBM_CC_SpecialDwarvenWarAxeFireREPLICA"
+ },
+ {
+  "original": "Irkngthand War Axe of Freezing (replica)",
+  "string": "Иркнтандский боевой топор стужи (копия)",
+  "form_id": "000008CD|DBM_CC_FishingHOWPatch.esp",
+  "type": "WEAP FULL",
+  "index": null,
+  "editor_id": "DBM_CC_SpecialDwarvenWarAxeIceREPLICA"
+ },
+ {
+  "original": "Cooked Deepglow Char",
+  "string": "Жареный глубинный голец",
+  "form_id": "000008C6|DBM_CC_FishingHOWPatch.esp",
+  "type": "ALCH FULL",
+  "index": null,
+  "editor_id": "DBM_CC_FoodDeepCharCooked"
+ },
+ {
+  "original": "Deepglow Char",
+  "string": "Глубинный голец",
+  "form_id": "000008C5|DBM_CC_FishingHOWPatch.esp",
+  "type": "ALCH FULL",
+  "index": null,
+  "editor_id": "DBM_CC_FoodDeepChar"
+ },
+ {
+  "original": "Hall of Wonders",
+  "string": "Зал чудес",
+  "form_id": "000104C9|DBM_CC_HallOfWonders.esp",
+  "type": "CELL FULL",
+  "index": null,
+  "editor_id": "DBMDGHallofWondersCC"
+ },
+ {
+  "original": "Fishing Handler",
+  "string": "Рыбалка (служебный)",
+  "form_id": "00000804|DBM_CC_FishingHOWPatch.esp",
+  "type": "QUST FULL",
+  "index": null,
+  "editor_id": "DBM_CC_FishingHandler"
+ },
+ {
+  "original": "Perfect Roe Handler",
+  "string": "Идеальная икра (служебный)",
+  "form_id": "000008D7|DBM_CC_FishingHOWPatch.esp",
+  "type": "QUST FULL",
+  "index": null,
+  "editor_id": "DBM_CC_FishingPerfectRoeSetup"
+ },
+ {
+  "original": "Ring of Agility",
+  "string": "Кольцо ловкости",
+  "form_id": "00000988|DBM_CC_FishingHOWPatch.esp",
+  "type": "PERK FULL",
+  "index": null,
+  "editor_id": "DBM_CC_PerkRingAgility"
+ },
+ {
+  "original": "Physical attacks do 25% more damage.",
+  "string": "Физические атаки наносят на 25% больше урона.",
+  "form_id": "00000988|DBM_CC_FishingHOWPatch.esp",
+  "type": "PERK DESC",
+  "index": null,
+  "editor_id": "DBM_CC_PerkRingAgility"
+ },
+ {
+  "original": "Ring of Willpower",
+  "string": "Кольцо силы воли",
+  "form_id": "00000987|DBM_CC_FishingHOWPatch.esp",
+  "type": "PERK FULL",
+  "index": null,
+  "editor_id": "DBM_CC_PerkRingWillpower"
+ },
+ {
+  "original": "Spells do 25% more damage.",
+  "string": "Заклинания наносят на 25% больше урона.",
+  "form_id": "00000987|DBM_CC_FishingHOWPatch.esp",
+  "type": "PERK DESC",
+  "index": null,
+  "editor_id": "DBM_CC_PerkRingWillpower"
+ },
+ {
+  "original": "Atronite Ring",
+  "string": "Атронитовое кольцо",
+  "form_id": "00000989|DBM_CC_FishingHOWPatch.esp",
+  "type": "PERK FULL",
+  "index": null,
+  "editor_id": "DBM_CC_PerkRingAtronite"
+ },
+ {
+  "original": "Fire, frost and shock spells do 10% more damage.",
+  "string": "Заклинания огня, мороза и шока наносят на 10% больше урона.",
+  "form_id": "00000989|DBM_CC_FishingHOWPatch.esp",
+  "type": "PERK DESC",
+  "index": null,
+  "editor_id": "DBM_CC_PerkRingAtronite"
+ }
+]

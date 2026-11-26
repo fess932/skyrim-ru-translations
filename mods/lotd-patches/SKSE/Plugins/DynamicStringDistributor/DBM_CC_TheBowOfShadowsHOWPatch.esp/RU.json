@@ -1,0 +1,234 @@
+[
+ {
+  "original": "Bow of Obfuscation",
+  "string": "Лук запутывания",
+  "form_id": "00000807|DBM_CC_TheBowOfShadowsHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTBowOfObfuscation"
+ },
+ {
+  "original": "Assassin's Journal",
+  "string": "Дневник убийцы",
+  "form_id": "00000825|ccbgssse038-bowofshadows.esl",
+  "type": "BOOK FULL",
+  "index": null,
+  "editor_id": "ccBGSSSE038_AssassinJournal"
+ },
+ {
+  "original": "<font face='$HandwrittenFont'>\r\nI must wait for a quiet moment, one that's intimate, when the Jarl is not engaged in talks of war and dragons. If the battle for Skyrim comes to Whiterun, I will be forced to redraw. \r\n\r\nBut there will come a time when he sits idly by in his grand hall, unbothered by the world. \r\n\r\nIn that moment, when the Jarl has a chance to finally breathe, I will sneak my way to the upper floors and make sure that breath is his last. And when I take my leave cloaked in shadow, all anyone will hear is a rattle.</font>",
+  "string": "<font face='$HandwrittenFont'>\r\nНужно дождаться тихой минуты, укромной, когда ярл не будет занят разговорами о войне и драконах. Если битва за Скайрим докатится до Вайтрана, мне придется отступить. \r\n\r\nНо настанет время, когда он будет праздно сидеть в своем великом чертоге, не тревожимый миром. \r\n\r\nВ этот миг, когда ярл наконец сможет перевести дух, я проберусь на верхние этажи и позабочусь, чтобы этот вздох стал для него последним. И когда я удалюсь, укрытый тенью, все услышат лишь предсмертный хрип.</font>",
+  "form_id": "00000825|ccbgssse038-bowofshadows.esl",
+  "type": "BOOK DESC",
+  "index": null,
+  "editor_id": "ccBGSSSE038_AssassinJournal"
+ },
+ {
+  "original": "Bow of Obfuscation",
+  "string": "Лук запутывания",
+  "form_id": "00000807|ccbgssse038-bowofshadows.esl",
+  "type": "WEAP FULL",
+  "index": null,
+  "editor_id": "ccBGSSSE038_BowOfShadows"
+ },
+ {
+  "original": "Weapon draw is <20>% faster and casts invisibility for <30> seconds.",
+  "string": "Вы можете достать оружие на <20>% быстрее. Достав его, вы получаете невидимость на <30> сек.",
+  "form_id": "00000807|ccbgssse038-bowofshadows.esl",
+  "type": "WEAP DESC",
+  "index": null,
+  "editor_id": "ccBGSSSE038_BowOfShadows"
+ },
+ {
+  "original": "Bow of Obfuscation (replica)",
+  "string": "Лук Затмения (копия)",
+  "form_id": "00000800|DBM_CC_TheBowOfShadowsHOWPatch.esp",
+  "type": "WEAP FULL",
+  "index": null,
+  "editor_id": "DBM_CC_BowofObfuscationREPLICA"
+ },
+ {
+  "original": "Hall of Wonders",
+  "string": "Зал чудес",
+  "form_id": "000104C9|DBM_CC_HallOfWonders.esp",
+  "type": "CELL FULL",
+  "index": null,
+  "editor_id": "DBMDGHallofWondersCC"
+ },
+ {
+  "original": "In the Shadows",
+  "string": "В тенях",
+  "form_id": "0000080E|ccbgssse038-bowofshadows.esl",
+  "type": "QUST FULL",
+  "index": null,
+  "editor_id": "ccBGSSSE038_Quest"
+ },
+ {
+  "original": "With the death of King Torygg, it seems not even the Jarls are safe in Skyrim, and security comes at a premium. Given the need for capable warriors, I should speak with the steward and see if he has any work for me.",
+  "string": "После смерти короля Торуга даже ярлам в Скайриме приходится опасаться за свою жизнь, а их безопасность ставится превыше всего. Поскольку хорошие воины всегда нужны, мне стоит поговорить с управителем и узнать, нет ли у него для меня работы.",
+  "form_id": "0000080E|ccbgssse038-bowofshadows.esl",
+  "type": "QUST CNAM",
+  "index": 0,
+  "editor_id": "ccBGSSSE038_Quest"
+ },
+ {
+  "original": "In Whiterun, I spoke to the Jarl's steward and asked him if he had any work. He handed me a note with details on a job.",
+  "string": "На вопрос о том, нет ли у них какой-нибудь работы, управитель ярла Вайтрана передал мне записку с подробностями.",
+  "form_id": "0000080E|ccbgssse038-bowofshadows.esl",
+  "type": "QUST CNAM",
+  "index": 10,
+  "editor_id": "ccBGSSSE038_Quest"
+ },
+ {
+  "original": "In Whiterun, I spoke to the Jarl's steward and asked him if he had any work. He handed me a note with details on a job. Reading the note, it seems there may be a potential assassination plot against the Jarl. The steward wants me to visit the local alchemist and check if anyone has purchased any poisons.",
+  "string": "На вопрос о том, нет ли у них какой-нибудь работы, управитель ярла Вайтрана передал мне записку с подробностями, в которой изложил, что на ярла готовится покушение. Управитель попросил меня отправиться к местному алхимику и узнать, не покупал ли кто-то яды.",
+  "form_id": "0000080E|ccbgssse038-bowofshadows.esl",
+  "type": "QUST CNAM",
+  "index": 20,
+  "editor_id": "ccBGSSSE038_Quest"
+ },
+ {
+  "original": "It seems there may be a potential assassination plot against the Jarl. At the steward's direction, I visited a local alchemist and took a copy of her ledger. I should read it to see if anyone has recently purchased any poisons.",
+  "string": "Похоже, на ярла готовится покушение. Его управитель попросил меня отправиться к местному алхимику и взять копию ее конторской книги. Надо прочесть записи и узнать, не покупал ли кто-то яды.",
+  "form_id": "0000080E|ccbgssse038-bowofshadows.esl",
+  "type": "QUST CNAM",
+  "index": 30,
+  "editor_id": "ccBGSSSE038_Quest"
+ },
+ {
+  "original": "It seems there may be a potential assassination plot against the Jarl. At the steward's direction, I visited a local alchemist and took a copy of her ledger. I read it and found two people had purchased poisons. A priest at the Hall of the Dead, and a stable boy.",
+  "string": "Похоже, на ярла готовится покушение. Его управитель попросил меня отправиться к местному алхимику и взять копию ее конторской книги. Согласно записям, два покупателя приобрели там яды. Один из них - жрец из Зала мертвых, а второй - конюх.",
+  "form_id": "0000080E|ccbgssse038-bowofshadows.esl",
+  "type": "QUST CNAM",
+  "index": 40,
+  "editor_id": "ccBGSSSE038_Quest"
+ },
+ {
+  "original": "It seems there may be a potential assassination plot against the Jarl. At the steward's direction, I visited a local alchemist and took a copy of her ledger. I read it and found two people had purchased poisons. A priest at the Hall of the Dead, and a stable boy. At the Whiterun Stables I found a dead body and clues that point to the Silent Moons Camp. I should investigate the area and see what I can find.",
+  "string": "Похоже, на ярла готовится покушение. Его управитель попросил меня отправиться к местному алхимику и взять копию ее конторской книги. Согласно записям, два покупателя приобрели там яды. Один из них - жрец из Зала мертвых, а второй - конюх. В конюшнях Вайтрана отыскался труп и указания на лагерь Тихих Лун. Нужно обследовать этот лагерь.",
+  "form_id": "0000080E|ccbgssse038-bowofshadows.esl",
+  "type": "QUST CNAM",
+  "index": 50,
+  "editor_id": "ccBGSSSE038_Quest"
+ },
+ {
+  "original": "At the Silent Moons Camp, I discovered a journal from an assassin who intends on killing the Jarl of Whiterun. He intends to take the shot from somewhere unoccupied, using the Bow of Shadows to conceal himself. It's likely he will only appear when the Jarl is not tending to any other business. I should find him and take him out before he can carry through with the plot.",
+  "string": "В лагере Тихих Лун нашелся дневник убийцы, готовящего покушение на ярла Вайтрана. Он собирается сделаться невидимым с помощью Лука Теней, затаиться где-то, где никого не будет, и убить ярла, когда тот не будет ничем занят. Нужно найти и остановить убийцу, пока он не привел свой план в действие.",
+  "form_id": "0000080E|ccbgssse038-bowofshadows.esl",
+  "type": "QUST CNAM",
+  "index": 60,
+  "editor_id": "ccBGSSSE038_Quest"
+ },
+ {
+  "original": "At the Silent Moons Camp, I discovered a journal from an assassin who intends on killing the Jarl of Whiterun. After following his trail, I found him in Dragonsreach and eliminated him.",
+  "string": "В лагере Тихих Лун нашелся дневник убийцы, готовившего покушение на ярла Вайтрана. Мне удалось отыскать убийцу в Драконьем Пределе и расправиться с ним.",
+  "form_id": "0000080E|ccbgssse038-bowofshadows.esl",
+  "type": "QUST CNAM",
+  "index": 80,
+  "editor_id": "ccBGSSSE038_Quest"
+ },
+ {
+  "original": "At the Silent Moons Camp, I discovered a journal from an assassin who intends on killing the Jarl of Whiterun. After following his trail, I found him in Dragonsreach and eliminated him.",
+  "string": "В лагере Тихих Лун нашелся дневник убийцы, готовившего покушение на ярла Вайтрана. Мне удалось отыскать убийцу в Драконьем Пределе и расправиться с ним.",
+  "form_id": "0000080E|ccbgssse038-bowofshadows.esl",
+  "type": "QUST CNAM",
+  "index": 90,
+  "editor_id": "ccBGSSSE038_Quest"
+ },
+ {
+  "original": "At the Silent Moons Camp, I discovered a journal from an assassin who intends on killing the Jarl of Whiterun. After following his trail, I found him in Dragonsreach and eliminated him. I then returned to the steward and received my reward.",
+  "string": "В лагере Безмолвных Лун мне попался дневник убийцы, который собирался убить ярла Вайтрана. Пройдя по его следу, мне удалось найти его в Драконьем Пределе и устранить. После этого управитель выдал мне награду.",
+  "form_id": "0000080E|ccbgssse038-bowofshadows.esl",
+  "type": "QUST CNAM",
+  "index": 100,
+  "editor_id": "ccBGSSSE038_Quest"
+ },
+ {
+  "original": "Speak to the Jarl's Steward",
+  "string": "Поговорить с управителем ярла",
+  "form_id": "0000080E|ccbgssse038-bowofshadows.esl",
+  "type": "QUST NNAM",
+  "index": 10,
+  "editor_id": "ccBGSSSE038_Quest"
+ },
+ {
+  "original": "Read the Steward's Note",
+  "string": "Прочесть записку управителя",
+  "form_id": "0000080E|ccbgssse038-bowofshadows.esl",
+  "type": "QUST NNAM",
+  "index": 20,
+  "editor_id": "ccBGSSSE038_Quest"
+ },
+ {
+  "original": "Take the ledger copy at Arcadia's Cauldron",
+  "string": "Взять копию конторской книги в \"Котелке Аркадии\"",
+  "form_id": "0000080E|ccbgssse038-bowofshadows.esl",
+  "type": "QUST NNAM",
+  "index": 30,
+  "editor_id": "ccBGSSSE038_Quest"
+ },
+ {
+  "original": "Read the Business Ledger Copy",
+  "string": "Прочесть копию конторской книги",
+  "form_id": "0000080E|ccbgssse038-bowofshadows.esl",
+  "type": "QUST NNAM",
+  "index": 40,
+  "editor_id": "ccBGSSSE038_Quest"
+ },
+ {
+  "original": "Investigate the Hall of the Dead",
+  "string": "Выяснить, что происходит в Зале мертвых",
+  "form_id": "0000080E|ccbgssse038-bowofshadows.esl",
+  "type": "QUST NNAM",
+  "index": 50,
+  "editor_id": "ccBGSSSE038_Quest"
+ },
+ {
+  "original": "Check the stables",
+  "string": "Проверить конюшни",
+  "form_id": "0000080E|ccbgssse038-bowofshadows.esl",
+  "type": "QUST NNAM",
+  "index": 60,
+  "editor_id": "ccBGSSSE038_Quest"
+ },
+ {
+  "original": "Investigate the Silent Moons Camp",
+  "string": "Обследовать лагерь Тихих Лун",
+  "form_id": "0000080E|ccbgssse038-bowofshadows.esl",
+  "type": "QUST NNAM",
+  "index": 70,
+  "editor_id": "ccBGSSSE038_Quest"
+ },
+ {
+  "original": "Find the Assassin on the upper floor of Dragonsreach when the Jarl is unoccupied",
+  "string": "Найти убийцу на верхнем этаже Драконьего Предела, когда ярл будет не занят делами",
+  "form_id": "0000080E|ccbgssse038-bowofshadows.esl",
+  "type": "QUST NNAM",
+  "index": 80,
+  "editor_id": "ccBGSSSE038_Quest"
+ },
+ {
+  "original": "Retrieve the Bow of Obfuscation",
+  "string": "Забрать Лук обмана",
+  "form_id": "0000080E|ccbgssse038-bowofshadows.esl",
+  "type": "QUST NNAM",
+  "index": 90,
+  "editor_id": "ccBGSSSE038_Quest"
+ },
+ {
+  "original": "Speak to the Jarl's Steward",
+  "string": "Поговорить с управителем ярла",
+  "form_id": "0000080E|ccbgssse038-bowofshadows.esl",
+  "type": "QUST NNAM",
+  "index": 100,
+  "editor_id": "ccBGSSSE038_Quest"
+ },
+ {
+  "original": "Bow of Shadows Handler",
+  "string": "Лук Теней (служебный)",
+  "form_id": "0000080C|DBM_CC_TheBowOfShadowsHOWPatch.esp",
+  "type": "QUST FULL",
+  "index": null,
+  "editor_id": "DBM_CC_BowOfShadowsHandler"
+ }
+]

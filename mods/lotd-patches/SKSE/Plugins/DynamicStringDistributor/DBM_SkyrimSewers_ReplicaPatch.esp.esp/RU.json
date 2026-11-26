@@ -1,0 +1,34 @@
+[
+ {
+  "original": "Honorblade of Whiterun (replica)",
+  "string": "Почетный Клинок Вайтрана (копия)",
+  "form_id": "00000801|DBM_SkyrimSewers_ReplicaPatch.esp.esp",
+  "type": "WEAP FULL",
+  "index": null,
+  "editor_id": "SSewersWhiterunBladeREPLICA"
+ },
+ {
+  "original": "Blade of the Rourken (replica)",
+  "string": "Клинок Роуркена (копия)",
+  "form_id": "00000802|DBM_SkyrimSewers_ReplicaPatch.esp.esp",
+  "type": "WEAP FULL",
+  "index": null,
+  "editor_id": "SSewersRourkenBladeREPLICA"
+ },
+ {
+  "original": "Mournbringer (replica)",
+  "string": "Дарующий Печаль (копия)",
+  "form_id": "00000803|DBM_SkyrimSewers_ReplicaPatch.esp.esp",
+  "type": "WEAP FULL",
+  "index": null,
+  "editor_id": "SSewersStormFang01REPLICA"
+ },
+ {
+  "original": "Shardslayer (replica)",
+  "string": "Осколочный Убийца (копия)",
+  "form_id": "00000804|DBM_SkyrimSewers_ReplicaPatch.esp.esp",
+  "type": "WEAP FULL",
+  "index": null,
+  "editor_id": "SSewersStahlrimLongswordREPLICA"
+ }
+]

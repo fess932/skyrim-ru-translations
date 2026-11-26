@@ -1,0 +1,242 @@
+[
+ {
+  "original": "Perk Tree: Academia",
+  "string": "Древо навыков: Наука",
+  "form_id": "0000080B|LOTD Skill Trees.esp",
+  "type": "BOOK FULL",
+  "index": null,
+  "editor_id": "zzz_dbm_arcBookAcademia"
+ },
+ {
+  "original": "[pagebreak]\r\n<p align=\"center\">\r\n\r\n\r\n\r\n\r\nAcademia</p>",
+  "string": "[pagebreak]\r\n<p align=\"center\">\r\n\r\n\r\n\r\n\r\nНаука</p>",
+  "form_id": "0000080B|LOTD Skill Trees.esp",
+  "type": "BOOK DESC",
+  "index": null,
+  "editor_id": "zzz_dbm_arcBookAcademia"
+ },
+ {
+  "original": "Perk Tree: Expedition",
+  "string": "Древо навыков: Экспедиция",
+  "form_id": "0000080C|LOTD Skill Trees.esp",
+  "type": "BOOK FULL",
+  "index": null,
+  "editor_id": "zzz_dbm_arcBookExpedition"
+ },
+ {
+  "original": "[pagebreak]\r\n<p align=\"center\">\r\n\r\n\r\n\r\n\r\nExpedition</p>",
+  "string": "[pagebreak]\r\n<p align=\"center\">\r\n\r\n\r\n\r\n\r\nЭкспедиция</p>",
+  "form_id": "0000080C|LOTD Skill Trees.esp",
+  "type": "BOOK DESC",
+  "index": null,
+  "editor_id": "zzz_dbm_arcBookExpedition"
+ },
+ {
+  "original": "Perk Tree: Excavation",
+  "string": "Древо навыков: Раскопки",
+  "form_id": "0000080D|LOTD Skill Trees.esp",
+  "type": "BOOK FULL",
+  "index": null,
+  "editor_id": "zzz_dbm_arcBookExcavation"
+ },
+ {
+  "original": "[pagebreak]\r\n<p align=\"center\">\r\n\r\n\r\n\r\n\r\nExcavation</p>",
+  "string": "[pagebreak]\r\n<p align=\"center\">\r\n\r\n\r\n\r\n\r\nРаскопки</p>",
+  "form_id": "0000080D|LOTD Skill Trees.esp",
+  "type": "BOOK DESC",
+  "index": null,
+  "editor_id": "zzz_dbm_arcBookExcavation"
+ },
+ {
+  "original": "1 extra fragment from excavation sites and 20% chance of 1 extra keystone.",
+  "string": "+1 фрагмент с мест раскопок и 20% шанс получить еще 1 ключевой камень.",
+  "form_id": "001C661C|LegacyoftheDragonborn.esm",
+  "type": "PERK DESC",
+  "index": null,
+  "editor_id": "DBM_ArcPerkExcavator1"
+ },
+ {
+  "original": "2 extra fragments from excavation sites and 25% chance of 1 extra keystone.",
+  "string": "+2 фрагмента с мест раскопок и 25% шанс получить еще 1 ключевой камень.",
+  "form_id": "001C661D|LegacyoftheDragonborn.esm",
+  "type": "PERK DESC",
+  "index": null,
+  "editor_id": "DBM_ArcPerkExcavator2"
+ },
+ {
+  "original": "3 extra fragments from excavation sites and 30% chance of 1 extra keystone.",
+  "string": "+3 фрагмента с мест раскопок и 30% шанс получить еще 1 ключевой камень.",
+  "form_id": "001C661E|LegacyoftheDragonborn.esm",
+  "type": "PERK DESC",
+  "index": null,
+  "editor_id": "DBM_ArcPerkExcavator3"
+ },
+ {
+  "original": "Gives Survey Dig Site Power which targets a nearby excavation site.",
+  "string": "Дает способность \"Поиск раскопок\", указывающую на ближайшее место раскопок.",
+  "form_id": "001C6632|LegacyoftheDragonborn.esm",
+  "type": "PERK DESC",
+  "index": null,
+  "editor_id": "DBM_ArcPerkSurveyor"
+ },
+ {
+  "original": "Gives Locate Relic Power, which targets a nearby relic.",
+  "string": "Дает способность \"Поиск реликвии\", указывающую на ближайшую реликвию.",
+  "form_id": "001C6633|LegacyoftheDragonborn.esm",
+  "type": "PERK DESC",
+  "index": null,
+  "editor_id": "DBM_ArcPerkRelicHunter"
+ },
+ {
+  "original": "Increase carry capacity by 50.",
+  "string": "Увеличивает переносимый вес на 50.",
+  "form_id": "001C6649|LegacyoftheDragonborn.esm",
+  "type": "PERK DESC",
+  "index": null,
+  "editor_id": "DBM_ArcPerkPackItIn1"
+ },
+ {
+  "original": "Increase carry capacity by 75.",
+  "string": "Увеличивает переносимый вес на 75.",
+  "form_id": "001C664E|LegacyoftheDragonborn.esm",
+  "type": "PERK DESC",
+  "index": null,
+  "editor_id": "DBM_ArcPerkPackItIn2"
+ },
+ {
+  "original": "Increase carry capacity by 100.",
+  "string": "Увеличивает переносимый вес на 100.",
+  "form_id": "001C6650|LegacyoftheDragonborn.esm",
+  "type": "PERK DESC",
+  "index": null,
+  "editor_id": "DBM_ArcPerkPackItIn3"
+ },
+ {
+  "original": "50% bonus to blocking with torches and 25% bonus damage with pickaxes.",
+  "string": "Блокирование факелом на 50% эффективнее, урон кирками больше на 25%.",
+  "form_id": "001CB7A6|LegacyoftheDragonborn.esm",
+  "type": "PERK DESC",
+  "index": null,
+  "editor_id": "DBM_ArcPerkScrapper"
+ },
+ {
+  "original": "Automatons drop increased loot and the possibility of fragments. Enables dwemer fragment recipes at archaeology stations.",
+  "string": "С автоматонов падает больше добычи и, возможно, фрагменты. Открывает рецепты двемерских фрагментов на археологических станках.",
+  "form_id": "001D5C1F|LegacyoftheDragonborn.esm",
+  "type": "PERK DESC",
+  "index": null,
+  "editor_id": "DBM_ArcPerkSalvager"
+ },
+ {
+  "original": "You can spend 1 Filled Greater Soul Gem to rebuild a fallen automaton as a follower.",
+  "string": "Можно потратить 1 заполненный большой камень душ, чтобы восстановить поверженного автоматона и сделать его спутником.",
+  "form_id": "001D5C20|LegacyoftheDragonborn.esm",
+  "type": "PERK DESC",
+  "index": null,
+  "editor_id": "DBM_ArcPerkArtificer"
+ },
+ {
+  "original": "Provides more gold and inventory to the Explorer's Society Quartermaster shop.",
+  "string": "У квартирмейстера Общества исследователей становится больше золота и товаров.",
+  "form_id": "001E4F49|LegacyoftheDragonborn.esm",
+  "type": "PERK DESC",
+  "index": null,
+  "editor_id": "DBM_ArcPerkQuartermaster"
+ },
+ {
+  "original": "Find increased gems, gold and possible fragments from Draugr, urns and burial remains.",
+  "string": "Больше самоцветов, золота и, возможно, фрагментов с драугров, из урн и погребальных останков.",
+  "form_id": "001EA062|LegacyoftheDragonborn.esm",
+  "type": "PERK DESC",
+  "index": null,
+  "editor_id": "DBM_ArcPerkExhumeDUPLICATE001"
+ },
+ {
+  "original": "Yield more resources and possible fragments from Chaurus and Falmer.",
+  "string": "Больше ресурсов и, возможно, фрагменты с корусов и фалмеров.",
+  "form_id": "00208924|LegacyoftheDragonborn.esm",
+  "type": "PERK DESC",
+  "index": null,
+  "editor_id": "DBM_ArcPerkScavenger"
+ },
+ {
+  "original": "Provides a power that allows the caster to move unabated amongst the undead.",
+  "string": "Дает способность беспрепятственно передвигаться среди нежити.",
+  "form_id": "00208928|LegacyoftheDragonborn.esm",
+  "type": "PERK DESC",
+  "index": null,
+  "editor_id": "DBM_ArcPerkWalkWithDead"
+ },
+ {
+  "original": "Perk Tree: Expedition",
+  "string": "Древо навыков: Экспедиция",
+  "form_id": "00000809|LOTD Skill Trees.esp",
+  "type": "MESG DESC",
+  "index": null,
+  "editor_id": "zzz_dbm_arcMessageExpedition"
+ },
+ {
+  "original": "Access Perks",
+  "string": "Открыть навыки",
+  "form_id": "00000809|LOTD Skill Trees.esp",
+  "type": "MESG ITXT",
+  "index": 0,
+  "editor_id": "zzz_dbm_arcMessageExpedition"
+ },
+ {
+  "original": "Take Book",
+  "string": "Взять книгу",
+  "form_id": "00000809|LOTD Skill Trees.esp",
+  "type": "MESG ITXT",
+  "index": 1,
+  "editor_id": "zzz_dbm_arcMessageExpedition"
+ },
+ {
+  "original": "Perk Tree: Academia",
+  "string": "Древо навыков: Наука",
+  "form_id": "0000080A|LOTD Skill Trees.esp",
+  "type": "MESG DESC",
+  "index": null,
+  "editor_id": "zzz_dbm_arcMessageAcademia"
+ },
+ {
+  "original": "Access Perks",
+  "string": "Открыть навыки",
+  "form_id": "0000080A|LOTD Skill Trees.esp",
+  "type": "MESG ITXT",
+  "index": 0,
+  "editor_id": "zzz_dbm_arcMessageAcademia"
+ },
+ {
+  "original": "Take Book",
+  "string": "Взять книгу",
+  "form_id": "0000080A|LOTD Skill Trees.esp",
+  "type": "MESG ITXT",
+  "index": 1,
+  "editor_id": "zzz_dbm_arcMessageAcademia"
+ },
+ {
+  "original": "Perk Tree: Excavation",
+  "string": "Древо навыков: Раскопки",
+  "form_id": "0000080E|LOTD Skill Trees.esp",
+  "type": "MESG DESC",
+  "index": null,
+  "editor_id": "zzz_dbm_arcMessageExcavation"
+ },
+ {
+  "original": "Access Perks",
+  "string": "Открыть навыки",
+  "form_id": "0000080E|LOTD Skill Trees.esp",
+  "type": "MESG ITXT",
+  "index": 0,
+  "editor_id": "zzz_dbm_arcMessageExcavation"
+ },
+ {
+  "original": "Take Book",
+  "string": "Взять книгу",
+  "form_id": "0000080E|LOTD Skill Trees.esp",
+  "type": "MESG ITXT",
+  "index": 1,
+  "editor_id": "zzz_dbm_arcMessageExcavation"
+ }
+]

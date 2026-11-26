@@ -1,0 +1,178 @@
+[
+ {
+  "original": "Vigil Enforcer Armor",
+  "string": "Броня пристава Дозора",
+  "form_id": "00000800|DBM_CC_VigilEnforcerArmorHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTVigilEnforcerArmor"
+ },
+ {
+  "original": "Vigil Corrupted Sashed Armor",
+  "string": "Легкая броня предателя Дозора",
+  "form_id": "00000960|DBM_CC_VigilEnforcerArmorHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTVigilCorruptSashedArmor"
+ },
+ {
+  "original": "Vigil Corrupted Helmet",
+  "string": "Шлем предателя Дозора",
+  "form_id": "00000961|DBM_CC_VigilEnforcerArmorHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTVigilCorruptFullHelmet"
+ },
+ {
+  "original": "Vigil Veteran Sashed Armor",
+  "string": "Легкая броня ветерана Дозора",
+  "form_id": "00000962|DBM_CC_VigilEnforcerArmorHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTVigilVeteranSashedArmor"
+ },
+ {
+  "original": "Vigil Veteran Helmet",
+  "string": "Шлем ветерана Дозора",
+  "form_id": "00000963|DBM_CC_VigilEnforcerArmorHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTVigilVeteranFullHelmet"
+ },
+ {
+  "original": "Vigil Enforcer Helmet",
+  "string": "Шлем пристава Дозора",
+  "form_id": "00000B14|DBM_CC_VigilEnforcerArmorHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTVigilEnforcerHelmet"
+ },
+ {
+  "original": "Vigil Enforcer Boots",
+  "string": "Сапоги пристава Дозора",
+  "form_id": "00000B15|DBM_CC_VigilEnforcerArmorHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTVigilEnforcerBoots"
+ },
+ {
+  "original": "Vigil Enforcer Gauntlets",
+  "string": "Перчатки пристава Дозора",
+  "form_id": "00000B16|DBM_CC_VigilEnforcerArmorHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTVigilEnforcerGauntlets"
+ },
+ {
+  "original": "Vigil Silver Hand Armor",
+  "string": "Броня Серебряной Руки Дозора",
+  "form_id": "00000B17|DBM_CC_VigilEnforcerArmorHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTVigilSilverArmor"
+ },
+ {
+  "original": "Vigil Silver Hand Helmet",
+  "string": "Шлем Серебряной Руки Дозора",
+  "form_id": "00000B18|DBM_CC_VigilEnforcerArmorHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTVigilSilverHelmet"
+ },
+ {
+  "original": "Vigil Silver Hand Boots",
+  "string": "Сапоги Серебряной Руки Дозора",
+  "form_id": "00000B19|DBM_CC_VigilEnforcerArmorHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTVigilSilverBoots"
+ },
+ {
+  "original": "Vigil Silver Hand Gauntlets",
+  "string": "Перчатки Серебряной Руки Дозора",
+  "form_id": "00000B1A|DBM_CC_VigilEnforcerArmorHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTVigilSilverGauntlets"
+ },
+ {
+  "original": "Vigil Corrupted Armor",
+  "string": "Броня предателя Дозора",
+  "form_id": "00000B1B|DBM_CC_VigilEnforcerArmorHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTVigilCorruptArmor"
+ },
+ {
+  "original": "Vigil Corrupted Open Helmet",
+  "string": "Открытый шлем предателя Дозора",
+  "form_id": "00000B1C|DBM_CC_VigilEnforcerArmorHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTVigilCorruptHelmet"
+ },
+ {
+  "original": "Vigil Corrupted Boots",
+  "string": "Сапоги предателя Дозора",
+  "form_id": "00000B1D|DBM_CC_VigilEnforcerArmorHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTVigilCorruptBoots"
+ },
+ {
+  "original": "Vigil Corrupted Gauntlets",
+  "string": "Перчатки предателя Дозора",
+  "form_id": "00000B1E|DBM_CC_VigilEnforcerArmorHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTVigilCorruptGauntlets"
+ },
+ {
+  "original": "Vigil Veteran Armor",
+  "string": "Броня ветерана Дозора",
+  "form_id": "00000B21|DBM_CC_VigilEnforcerArmorHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTVigilVeteranArmor"
+ },
+ {
+  "original": "Vigil Veteran Open Helmet",
+  "string": "Открытый шлем ветерана Дозора",
+  "form_id": "00000B22|DBM_CC_VigilEnforcerArmorHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTVigilVeteranHelmet"
+ },
+ {
+  "original": "Vigil Veteran Boots",
+  "string": "Сапоги ветерана Дозора",
+  "form_id": "00000B23|DBM_CC_VigilEnforcerArmorHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTVigilVeteranBoots"
+ },
+ {
+  "original": "Vigil Veteran Gauntlets",
+  "string": "Перчатки ветерана Дозора",
+  "form_id": "00000B24|DBM_CC_VigilEnforcerArmorHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTVigilVeteranGauntlets"
+ },
+ {
+  "original": "Hall of Wonders",
+  "string": "Зал чудес",
+  "form_id": "000104C9|DBM_CC_HallOfWonders.esp",
+  "type": "CELL FULL",
+  "index": null,
+  "editor_id": "DBMDGHallofWondersCC"
+ },
+ {
+  "original": "Vigil Enforcer Armor Handler",
+  "string": "Броня пристава Дозора (служебный)",
+  "form_id": "00000806|DBM_CC_VigilEnforcerArmorHOWPatch.esp",
+  "type": "QUST FULL",
+  "index": null,
+  "editor_id": "DBM_CC_VigilEnforcerArmorHandler"
+ }
+]

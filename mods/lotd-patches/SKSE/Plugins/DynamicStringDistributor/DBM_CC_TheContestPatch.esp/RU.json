@@ -1,0 +1,66 @@
+[
+ {
+  "original": "Frostfire Damage",
+  "string": "Урон от ледяного огня",
+  "form_id": "00000803|DBM_CC_TheContestPatch.esp",
+  "type": "ENCH FULL",
+  "index": null,
+  "editor_id": "DBM_CC_EnchWeaponIcecarver"
+ },
+ {
+  "original": "Icecarver",
+  "string": "Ледорез",
+  "form_id": "00000805|DBM_CC_TheContestPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTIcecarver"
+ },
+ {
+  "original": "Fists of Randagulf",
+  "string": "Кулаки Рандагальфа",
+  "form_id": "00000813|ccbgssse069-contest.esl",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "ccBGSSSE069_FistsofRandagulf"
+ },
+ {
+  "original": "Icecarver",
+  "string": "Ледорез",
+  "form_id": "00000815|ccbgssse069-contest.esl",
+  "type": "WEAP FULL",
+  "index": null,
+  "editor_id": "ccBGSSSE069_IceBladeMonarch"
+ },
+ {
+  "original": "Target takes <15> points of both frost and fire damage. Especially effective against undead.",
+  "string": "Цель получает <15> ед. урона и холодом, и огнем. Особенно эффективно против нежити.",
+  "form_id": "00000815|ccbgssse069-contest.esl",
+  "type": "WEAP DESC",
+  "index": null,
+  "editor_id": "ccBGSSSE069_IceBladeMonarch"
+ },
+ {
+  "original": "Icecarver (replica)",
+  "string": "Ледорез (копия)",
+  "form_id": "00000801|DBM_CC_TheContestPatch.esp",
+  "type": "WEAP FULL",
+  "index": null,
+  "editor_id": "DBM_CC_WeaponIcecarverREPLICA"
+ },
+ {
+  "original": "Hall of Wonders",
+  "string": "Зал чудес",
+  "form_id": "000104C9|DBM_CC_HallOfWonders.esp",
+  "type": "CELL FULL",
+  "index": null,
+  "editor_id": "DBMDGHallofWondersCC"
+ },
+ {
+  "original": "Populate Alt With The Contest",
+  "string": "Добавление \"Состязания\" в альтернативы",
+  "form_id": "00000802|DBM_CC_TheContestPatch.esp",
+  "type": "QUST FULL",
+  "index": null,
+  "editor_id": "DBM_CC_AddTheContest"
+ }
+]

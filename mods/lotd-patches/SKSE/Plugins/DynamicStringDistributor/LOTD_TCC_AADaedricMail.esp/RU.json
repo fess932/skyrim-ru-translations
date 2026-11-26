@@ -1,0 +1,18 @@
+[
+ {
+  "original": "The Curators Companion - Alternate Armors - Daedric Mail",
+  "string": "Помощник куратора - Альтернативная броня - Даэдрическая кольчуга",
+  "form_id": "00000800|LOTD_TCC_AADaedricMail.esp",
+  "type": "QUST FULL",
+  "index": null,
+  "editor_id": "TCC_SM_AADaedricMail"
+ },
+ {
+  "original": "<font color='#<Alias=ColourAlias>'>The Curators Companion: Mod Complete (Daedric Mail)</font>",
+  "string": "<font color='#<Alias=ColourAlias>'>Компаньон куратора: Мод завершен (Даэдрическая кольчуга)</font>",
+  "form_id": "00000803|LOTD_TCC_AADaedricMail.esp",
+  "type": "MESG DESC",
+  "index": null,
+  "editor_id": "_CompleteNotification_AADaedricMail"
+ }
+]

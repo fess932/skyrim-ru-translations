@@ -1,0 +1,90 @@
+[
+ {
+  "original": "Daedric Mail Armor",
+  "string": "Даэдрическая кольчужная броня",
+  "form_id": "00000800|DBM_CC_AADaedricMailHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTAADaedricMailArmor"
+ },
+ {
+  "original": "Ring of Masser",
+  "string": "Кольцо Массера",
+  "form_id": "00000811|DBM_CC_AADaedricMailHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTAADaedricMailRing"
+ },
+ {
+  "original": "Daedric Mail Boots",
+  "string": "Даэдрические кольчужные сапоги",
+  "form_id": "00000819|DBM_CC_AADaedricMailHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTAADaedricMailBoots"
+ },
+ {
+  "original": "Daedric Mail Gauntlets",
+  "string": "Даэдрические кольчужные перчатки",
+  "form_id": "0000081A|DBM_CC_AADaedricMailHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTAADaedricMailGauntlets"
+ },
+ {
+  "original": "The Crimson Dirks, v5",
+  "string": "\"Кровавые кинжалы\", т. 5",
+  "form_id": "0000081B|DBM_CC_AADaedricMailHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTAADaedricMailBook"
+ },
+ {
+  "original": "Ring of Masser",
+  "string": "Кольцо Массера",
+  "form_id": "00000823|ccbgssse051-ba_daedricmail.esl",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "ccBGSSSE051_Ring"
+ },
+ {
+  "original": "Ring of Masser (Replica)",
+  "string": "Кольцо Массера (копия)",
+  "form_id": "00000805|DBM_CC_AADaedricMailHOWPatch.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "ccBGSSSE051_RingREPLICA"
+ },
+ {
+  "original": "The Crimson Dirks, v5",
+  "string": "\"Кровавые кинжалы\", т. 5",
+  "form_id": "00000847|ccbgssse051-ba_daedricmail.esl",
+  "type": "BOOK FULL",
+  "index": null,
+  "editor_id": "ccBGSSSE051_BookVol5"
+ },
+ {
+  "original": "[pagebreak]\r\n<p align=\"center\">\r\n\r\n\r\nThe Crimson Dirks\r\nBook Five\r\n\r\n\r\nby \r\nGathers-the-Coin\r\n</p>\r\n\r\n\r\n\r\n[pagebreak]\r\n<p align=\"left\">\r\n<img src='img://Textures/Interface/Books/Illuminated_Letters/E_letter.png'>rwan was convinced the ring was cursed. \r\n\r\nAt first, the proof came in small doses. There were bad streaks at the card table, sudden pain in her tooth, and stale bottles of mead. Soon, the proof took on a larger, more dangerous form. Her blade would miss its mark. Potions would cure too slowly. Or she'd step on a rune that her barbarian companion, Skjol, had no business skipping over. \r\n\r\nThen there was the greater proof, the instances that threatened their livelihood. There was the coin drying up, new guard patrols at the usual haunts, and word that the East Empire Company had taken notice of their works. All told it augured a slow, tumbling march toward the end of the Crimson Dirks.\r\n\r\nKnowing this, a smart person might've cast it out; tossed the foul ring into the heart of Illiac Bay and let the waves ferry it to forgotten shores. A wise person might've taken it a step further, destroying the artifact and its ill-fated magic, so that no person, past or present, would ever come to harm.\r\n\r\nErwan, of course, decided to wear it around her neck.\r\n\r\nWith regard to the ring's nature, she told only the barbarian. Her brother Edward would refuse to believe her. The others would demand she get rid of it, in whatever manner best fit their inclinations. Skjol, on the other hand, would neither object nor disapprove. \r\n\r\nWhenever she confided in him, Skjol would simply stare at her blankly and let out a guttural snort before chewing on the nearest piece of meat. Skjol, after all, was not just a barbarian, but one who wore that label like a badge, or an honor bestowed upon him by the High King. Of words he knew few, and when he wrote them down, rarely did he put them in the right order. The only thng that spared him from further ignominy was the fact he couldn't speak.\r\n\r\nAs the story goes, the leader of the Crimson Dirks, Tyra Blood-Fire, found him in a cage with his tongue removed, and upon freeing him gained his axe. To this day it was never clear if Skjol was loyal to her or the crew, or whether that distinction had any meaning to him. If Tyra asked him to back Erwan on a job, he would do so without question, and absorb whatever secrets, insults, and curses the Breton decided to fling in his general direction.\r\n\r\nThat theory would be tested the moment she stepped on that rune.\r\n\r\nEarlier that week, they had received a tip. A new crew had set up a smuggler's operation in one of the old ruins outside the capital. It was supposed to be a simple task. They were to meet with the clan leaders, flex their muscle, and come home with new members or a percentage of the take. It all would've gone according to script, Erwan thought, had the ring not been cursed.\r\n\r\n\"This is all your fault,\" she said to no one in particular, while glaring at her disobedient hands. Moments earlier, the Breton had awoken to the sound of chanting - a low and ominous moan floating through the chamber. The rune had blurred her sight, but it was the haunting refrain that seemed to dull her focus, unable to cast a spell. \r\n\r\nRegardless, it was clear their captors were more than smugglers. Erwan didn't need to see the source of the chanting to know it was bad business, no matter how long Skjol mindlessly pointed in that direction.\r\n\r\n\"Well, at least it isn't cannibals,\" Erwan sneered, \"although you being a choking hazard might've worked in our favor.\"\r\n\r\nSkjol wasn't the brightest Nord, but he knew when he was being insulted. In a past life, he would've simply crushed Erwan's skull and taken a nap. Moreover, cages were nothing new to him, and Erwan's noisy jests were to him, signs of panic. But he had sworn a vow to protect the charges of the one they called Blood-Fire, and so rather than kill the Breton for looking at him oddly, Skjol continued to point, much to Erwan's confusion. \r\n\r\nThe shrine behind her was Daedric in origin - large, twisted and barbed, its stems ugly and misshapen. Blood dripped from its ebony thorns, spilling past the cage and down the stone steps like shifting roots. At the base of the steps stood robed cultists, lost in their supplication, flanked by guards dressed in Daedric armor and mail. Despite an open roof, the air in the ruins was thick and noxious, and the shrine seemed to throb in the blood moon's light.\r\n \r\nAs the light shone on the altar, the cultist chants began to turn more vehement and forceful. The voices continued to rise, louder and louder, until one of the guards broke from his stance, climbing the steps toward the cage. Seeing this, Erwan bared her teeth and snarled at him like an animal, but he continued his approach undeterred. As the chants hit a crescendo, Erwan could no longer hear her own thoughts, seeing nothing save the cold, black gauntlet split through the bars and reach for her neck. \r\n\r\nWith a thrust the guard grabbed her by the head and slammed her into the bars, drawing his weapon with his other hand. With spit bubbling from her mouth and her body pressed against the iron, Erwan screamed at Skjol every manner of insult she could contrive. But the oaf continued to sit in place, his finger still extended, even as the cultists' chant drummed against their ears. Only now the finger was pointed to the ground, tracing a circle.\r\n\r\nErwan looked down and saw the ring, glowing hotly on her chest. \r\n\r\nSkjol didn't need to tell her what to do next. She wrung herself free of the guard's grasp, and not knowing what would happen, placed the ring on her finger.\r\n\r\nThe chanting stopped. And in its place, the shrill cry of weapons drawn from their scabbards. The Daedric warrior turned his attention to the cultists, but it was too late. Erwan's spell of hysteria had taken hold, her focus restored by the power of the ring. One by one the cultists turned on each other, their rage driven by hers. And when the clangs of metal faded and the screams turned to silence, Erwan collapsed, having exhausted all of herself and the ring.\r\n\r\nAs the hours passed into the day, Erwan lay there on the floor of her cage, letting the sun splash through the bars. Skjol snored softly in his corner, shifting on occasion to scratch himself. Outside, ravens picked at the flesh of the dead, sharpening their beaks on the bones and paying no mind to the living.  \r\n\r\nThe others would come looking for them eventually, and fetch M'Sharra to pick the lock. But for now Erwan was content as she was. She held the ring up against the sky, circling the area where the moon once stood. Perhaps she had made a mistake, and the ring wasn't cursed after all.\r\n\r\nBut Erwan still held out hope.</p>\r\n",
+  "string": "[pagebreak]\r\n<p align=\"center\">\r\n\r\n\r\n\"Кровавые кинжалы\"\r\nКнига пятая\r\n\r\n\r\nавтор \r\nСобирающий-Монеты\r\n</p>\r\n\r\n\r\n\r\n[pagebreak]\r\n<p align=\"left\">\r\nЭрвен была уверена, что кольцо проклято. \r\n\r\nСперва подтверждения тому находились в мелочах. Невезение за карточным столом, внезапная зубная боль, забродивший мед в бутылке. Вскоре проблемы стали серьезнее и опаснее. Ее клинок проходил мимо цели. Зелье исцеления работало слишком медленно. Ну или, к примеру, она наступила на руну, которую ее спутник, варвар Скьол, просто взял и обошел. \r\n\r\nКроме того, были и другие свидетельства, которые угрожали уже самому укладу их жизни. Доходы падали, новая стража устраивала рейды по их притонам, а затем прошел слух, что их делами заинтересовалась Восточная имперская компания. Все вместе это явно предвещало скорый конец \"Кровавых кинжалов\".\r\n\r\nУмный человек постарался бы как можно скорее избавиться от кольца: выкинул бы его, например, в залив Иллиак, чтобы воды унесли эту проклятую безделушку к далеким берегам. Мудрый человек пошел бы еще дальше и уничтожил артефакт, полный злостной магии, чтобы никто больше не пострадал от него.\r\n\r\nЭрвен, само собой, решила носить кольцо на цепочке на шее.\r\n\r\nПро силы кольца она рассказала только варвару. Ее брат Эдвард не поверил бы ей. Другие потребовали бы, чтобы она избавилась от кольца. А Скьол никогда не спорил с ней и не осуждал ее. \r\n\r\nЧто бы она ему ни поведала, Скьол просто тупо глядел на нее, а затем издавал утробный всхрап и принимался жевать любое мясо, какое мог найти. В конце концов, Скьол не просто был варваром: он носил это прозвание точно титул, пожалованный самим Верховным королем. Слов он знал немного, а если пытался что-то написать, выходила та еще чепуха. Единственное, что спасало его от полного позора - то, что он был немым.\r\n\r\nГоворят, что предводитель \"Кровавых кинжалов\", Тира Кровавый Огонь, нашла его в клетке и освободила. Язык у него был вырван. До сих пор неясно, почему он стал работать на нее; ей ли он был предан или ее команде, и была ли между этими понятиями для него хоть какая-то разница. Если Тира отправляла его помочь Эрвен с работой, он покорно это делал, не реагируя на тайны, оскорбления и проклятья, которые слышал от бретонки.\r\n\r\nКогда она наступила на эту руну, у нее появился шанс узнать больше о его преданности.\r\n\r\nНа этой неделе они получили наводку. Новая команда занималась контрабандой в каких-то старых развалинах за пределами столицы. Это должна была быть простая работенка. Им надо было встретиться с главами кланов, поиграть мускулами, побеседовать и отправиться обратно с новыми членами группы или процентом от прибыли. \"И все бы прошло как по-писаному, - думала Эрвен, - если бы не проклятие на кольце\".\r\n\r\n\"Это все твоя вина\", - сказала она, ни к кому особенно не обращаясь и уткнувшись взглядом в собственные непослушные руки. Несколько минут назад бретонка проснулась от монотонного пения, разносившегося по комнате, низкого и жуткого. Руна размывала зрение, но именно этот повторяющийся напев не давал сосредоточиться и сотворить заклинание. \r\n\r\nВ любом случае было ясно, что те, кто их поймал - не контрабандисты. Эрвен не требовалось видеть, кто так монотонно завывает, чтобы понять, что добром это не кончится, и неважно, сколько еще Скьол будет тыкать пальцем в том направлении.\r\n\r\n\"Ну, по крайней мере, это не каннибалы, - хмыкнула Эрвен, - хотя, с другой стороны, каннибалы побоялись бы тобой подавиться\".\r\n\r\nСкьол был не самым умным среди нордов, но он понимал, если его оскорбляли. В прошлом он бы просто размозжил Эрвен череп и прилег подремать. Кроме того, клетки его не раздражали, а вот панические шуточки Эрвен - весьма. Но он дал клятву защищать тех, кем руководила Кровавый Огонь, поэтому вместо того, чтобы прикончить бретонку за такие слова, Скьол продолжал указывать все туда же, куда и до того, к явному ее замешательству. \r\n\r\nСвятилище за ее спиной было, безусловно, даэдрическим - огромное, немыслимо вывернутое и покрытое выростами, бесформенное и уродливое. Кровь капала с его эбонитовых шипов и текла мимо клетки и вниз, по каменным ступеням, точно шевелящиеся корни. У подножия лестницы стояли сектанты в рясах, полностью поглощенные своей молитвой, а по обе стороны от них - стража в даэдрических доспехах и кольчугах. Несмотря на отсутствие крыши воздух в развалинах был густой и душный, а святилище словно бы пульсировало в кровавом лунном свете.\r\n\r\nКогда свет пролился на алтарь, пение сектантов стало более исступленным, почти яростным. Их голоса делались все громче и громче, пока наконец один из стражей не стронулся с места и не пошел по ступеням к клетке. При виде этого Эрвен оскалилась и по-звериному зарычала на него, но он продолжал приближаться. Когда пение достигло пика, Эрвен уже не слышала даже собственных мыслей и не видела ничего, кроме холодной черной перчатки, что просунулась между прутьев и потянулась к ее горлу. \r\n\r\nРезким рывком страж схватил ее за голову и ударил о прутья, другой рукой доставая оружие. Эрвен, прижатая к железным прутьям, брызжа слюной кричала Скьолу все оскорбления, какие только приходили ей в голову. Но громила по-прежнему сидел на месте, все так же вытянув палец, только теперь он указывал им в землю и обводил круг.\r\n\r\nЭрвен глянула вниз и увидела, что кольцо на ее груди пылает ярким светом. \r\n\r\nДальше подсказки были ей не нужны. Вывернувшись из хватки стража и не зная, что случится вслед за этим, она быстро надела кольцо на палец.\r\n\r\nПение умолкло. Вместо него прозвучал визг оружия, извлекаемого из ножен. Даэдрический воин развернулся к культистам, но было уже слишком поздно. Кольцо помогло Эрвен сосредоточиться, и теперь заклинание истерии обернуло сектантов друг против друга, наполняя их ее яростью. А когда звон мечей и крики наконец затихли, Эрвен потеряла сознание, исчерпав собственные силы и силу кольца.\r\n\r\nКогда наступил день, Эрвен лежала на полу клетки, щурясь от льющегося сверху солнца. Скьол тихо похрапывал в углу, изредка почесываясь. Слетевшиеся вороны клевали трупы, скрежеща клювами по костям и не обращая внимания на живых.  \r\n\r\nПозже их разыщут, позовут М'Шарра, и тот вскроет замок. Но пока что Эрвен была вполне спокойна. Она подняла кольцо к небу, глядя сквозь него на то место, где ночью висела луна. Возможно, она ошиблась, и кольцо все же не было проклято.\r\n\r\nНо Эрвен не теряла надежды.\r\n",
+  "form_id": "00000847|ccbgssse051-ba_daedricmail.esl",
+  "type": "BOOK DESC",
+  "index": null,
+  "editor_id": "ccBGSSSE051_BookVol5"
+ },
+ {
+  "original": "Hall of Wonders",
+  "string": "Зал чудес",
+  "form_id": "000104C9|DBM_CC_HallOfWonders.esp",
+  "type": "CELL FULL",
+  "index": null,
+  "editor_id": "DBMDGHallofWondersCC"
+ },
+ {
+  "original": "Alt Armors Daedric Mail Handler",
+  "string": "Альтернативная броня: даэдрическая кольчуга (служебный)",
+  "form_id": "00000804|DBM_CC_AADaedricMailHOWPatch.esp",
+  "type": "QUST FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DaedricMailHandler"
+ }
+]

@@ -1,0 +1,98 @@
+[
+ {
+  "original": "Dragon's Fang",
+  "string": "Драконий клык",
+  "form_id": "00000800|DBM_HelgenReborn_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTHelgenDragonfang"
+ },
+ {
+  "original": "Keepers of Hattu Armor",
+  "string": "Броня Хранителей Хатту",
+  "form_id": "00000801|DBM_HelgenReborn_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTHelgenArmor"
+ },
+ {
+  "original": "Pickaxe of the Impatient",
+  "string": "Кирка нетерпеливых",
+  "form_id": "00000802|DBM_HelgenReborn_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTHelgenPickaxeImpatient"
+ },
+ {
+  "original": "Keepers of Hattu Helmet",
+  "string": "Шлем Хранителей Хатту",
+  "form_id": "00000803|DBM_HelgenReborn_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTHelgenHelm"
+ },
+ {
+  "original": "Keepers of Hattu Boots",
+  "string": "Хранителей Хатту сапоги",
+  "form_id": "00000804|DBM_HelgenReborn_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTHelgenBoots"
+ },
+ {
+  "original": "Keepers of Hattu Gauntlets",
+  "string": "Хранителей Хатту перчатки",
+  "form_id": "00000805|DBM_HelgenReborn_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTHelgenGauntlets"
+ },
+ {
+  "original": "Keepers of Haatu Quest Display",
+  "string": "Экспозиция задания \"Хранители Хатту\"",
+  "form_id": "00000806|DBM_HelgenReborn_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_QPlaqueHelgenReborn"
+ },
+ {
+  "original": "Helgen Guard Armor",
+  "string": "Броня стражника Хелгена",
+  "form_id": "00000851|DBM_HelgenReborn_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTGuardHelgenArmor"
+ },
+ {
+  "original": "Helgen Guard Shield",
+  "string": "Щит стражника Хелгена",
+  "form_id": "00000854|DBM_HelgenReborn_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTGuardHelgenShield"
+ },
+ {
+  "original": "Plot Course:",
+  "string": "Установить курс:",
+  "form_id": "00000865|DBM_HelgenReborn_Patch.esp",
+  "type": "ACTI RNAM",
+  "index": null,
+  "editor_id": "PKY_FlagHelgen"
+ },
+ {
+  "original": "Helgen Reborn Items",
+  "string": "Предметы из Helgen Reborn",
+  "form_id": "00000838|DBM_HelgenReborn_Patch.esp",
+  "type": "CONT FULL",
+  "index": null,
+  "editor_id": "DBM_CheatCrateHelgenReborn"
+ },
+ {
+  "original": "Helgen Reborn Support Handler",
+  "string": "Поддержка Helgen Reborn (служебный)",
+  "form_id": "00000830|DBM_HelgenReborn_Patch.esp",
+  "type": "QUST FULL",
+  "index": null,
+  "editor_id": "DBM_SupportedModHelgenReborn"
+ }
+]

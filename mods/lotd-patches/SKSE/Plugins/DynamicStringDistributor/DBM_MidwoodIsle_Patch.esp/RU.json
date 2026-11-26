@@ -1,0 +1,74 @@
+[
+ {
+  "original": "Midwood Isle",
+  "string": "Остров Мидвуд",
+  "form_id": "00000810|DBM_MidwoodIsle_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_QPlaqueMidwoodIsle"
+ },
+ {
+  "original": "Read Plaque:",
+  "string": "Прочитать табличку:",
+  "form_id": "00000810|DBM_MidwoodIsle_Patch.esp",
+  "type": "ACTI RNAM",
+  "index": null,
+  "editor_id": "DBM_QPlaqueMidwoodIsle"
+ },
+ {
+  "original": "Erkaloth's Staff",
+  "string": "Посох Эркалота",
+  "form_id": "00000816|DBM_MidwoodIsle_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_ITEMTYPEACTErkalothStaffMidwoodIsle"
+ },
+ {
+  "original": "Drakus' Sword",
+  "string": "Меч Дракуса",
+  "form_id": "00000817|DBM_MidwoodIsle_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_ITEMTYPEACTDrakusSwordMidwoodIsle"
+ },
+ {
+  "original": "Zahkris' Sword",
+  "string": "Меч Закриса",
+  "form_id": "00000818|DBM_MidwoodIsle_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_ITEMTYPEACTZahkrisSwordMidwoodIsle"
+ },
+ {
+  "original": "Midwood Isle",
+  "string": "Остров Мидвуд",
+  "form_id": "00000821|DBM_MidwoodIsle_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_MidwoodIsleACT"
+ },
+ {
+  "original": "Midwood Isle Items",
+  "string": "Предметы из Midwood Isle",
+  "form_id": "0000081E|DBM_MidwoodIsle_Patch.esp",
+  "type": "CONT FULL",
+  "index": null,
+  "editor_id": "DBM_CheatCrateMidwoodIsle"
+ },
+ {
+  "original": "Midwood Isle Support",
+  "string": "Поддержка Мидвудского острова",
+  "form_id": "00000820|DBM_MidwoodIsle_Patch.esp",
+  "type": "QUST FULL",
+  "index": null,
+  "editor_id": "DBM_MidwoodIsle"
+ },
+ {
+  "original": "Midwood Isle is a small island to the north-west of central High Rock, which prospers via trade with Tamriel. The Sonmer who inhabit the island believe to have descended from Erkaloth, an aspect of Lorkhan. \r\nLong ago, his rival, a lesser Daedric Lord by the name of Zahkris, attacked Midwood Isle and left it in ruin. However, he was injured and banished by the warrior Vorir.\r\nZahkris was assumed dead until he resurfaced eras later to hunt and possess the Last Dragonborn's body and soul, but was defeated once more, this time for good.",
+  "string": "Мидвудский остров - небольшой остров к северо-западу от центральной части Хай Рока, процветающий благодаря торговле с Тамриэлем. Населяющие его сонмеры верят, что происходят от Эркалота, одного из аспектов Лорхана. \r\nДавным-давно его соперник, младший даэдрический лорд по имени Закрис, напал на Мидвудский остров и оставил его в руинах. Однако воин Ворир ранил его и изгнал.\r\nЗакриса считали погибшим, пока он не объявился спустя эры, чтобы выследить Последнего Довакина и завладеть его телом и душой, но был вновь повержен - на этот раз навсегда.",
+  "form_id": "00000811|DBM_MidwoodIsle_Patch.esp",
+  "type": "MESG DESC",
+  "index": null,
+  "editor_id": "DBM_QPlaqueMidwoodIsleMSG"
+ }
+]

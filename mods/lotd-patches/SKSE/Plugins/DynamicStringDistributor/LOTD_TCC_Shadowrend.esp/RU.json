@@ -1,0 +1,18 @@
+[
+ {
+  "original": "The Curators Companion - Shadowrend",
+  "string": "Помощник куратора - Теневик",
+  "form_id": "00000804|LOTD_TCC_Shadowrend.esp",
+  "type": "QUST FULL",
+  "index": null,
+  "editor_id": "TCC_SM_Shadowrend"
+ },
+ {
+  "original": "<font color='#<Alias=ColourAlias>'>The Curators Companion: Mod Complete (Shadowrend)</font>",
+  "string": "<font color='#<Alias=ColourAlias>'>Компаньон куратора: мод завершен (Теневик)</font>",
+  "form_id": "00000802|LOTD_TCC_Shadowrend.esp",
+  "type": "MESG DESC",
+  "index": null,
+  "editor_id": "_CompleteNotification_Shadowrend"
+ }
+]

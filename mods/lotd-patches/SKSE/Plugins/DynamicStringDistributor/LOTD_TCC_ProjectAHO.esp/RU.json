@@ -1,0 +1,18 @@
+[
+ {
+  "original": "The Curators Companion - Project AHO",
+  "string": "Помощник куратора - Проект ЭГО",
+  "form_id": "00000800|LOTD_TCC_ProjectAHO.esp",
+  "type": "QUST FULL",
+  "index": null,
+  "editor_id": "TCC_SM_ProjectAHO"
+ },
+ {
+  "original": "<font color='#<Alias=ColourAlias>'>The Curators Companion: Mod Complete (Project AHO)</font>",
+  "string": "<font color='#<Alias=ColourAlias>'>Компаньон куратора: мод завершен (Проект ЭГО)</font>",
+  "form_id": "00000806|LOTD_TCC_ProjectAHO.esp",
+  "type": "MESG DESC",
+  "index": null,
+  "editor_id": "_CompleteNotification_ProjectAHO"
+ }
+]

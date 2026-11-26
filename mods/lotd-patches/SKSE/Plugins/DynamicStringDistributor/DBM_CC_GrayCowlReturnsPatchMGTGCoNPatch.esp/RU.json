@@ -1,0 +1,266 @@
+[
+ {
+  "original": "Gray Cowl of Nocturnal",
+  "string": "Серый капюшон Ноктюрнал",
+  "form_id": "00000D62|ccbgssse020-graycowl.esl",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "ccBGSSSE020ArmorGrayCowl"
+ },
+ {
+  "original": "The Gray Cowl of Nocturnal",
+  "string": "Серый капюшон Ноктюрнал",
+  "form_id": "0000080F|ccbgssse020-graycowl.esl",
+  "type": "QUST FULL",
+  "index": null,
+  "editor_id": "ccBGSSSE020_Quest"
+ },
+ {
+  "original": "It's rumored that the Gray Fox is buried in the cemetery in Riften. If so, he may have been buried with his cowl.",
+  "string": "Ходит слух, что Серый Лис похоронен на кладбище в Рифтене. Если это так, возможно, его капюшон все еще при нем.",
+  "form_id": "0000080F|ccbgssse020-graycowl.esl",
+  "type": "QUST CNAM",
+  "index": 9,
+  "editor_id": "ccBGSSSE020_Quest"
+ },
+ {
+  "original": "It's rumored that the Gray Fox is buried in the cemetery in Riften. If so, he may have been buried with his cowl. ",
+  "string": "Ходит слух, что Серый Лис похоронен на кладбище в Рифтене. Если это так, возможно, его капюшон все еще при нем. ",
+  "form_id": "0000080F|ccbgssse020-graycowl.esl",
+  "type": "QUST CNAM",
+  "index": 10,
+  "editor_id": "ccBGSSSE020_Quest"
+ },
+ {
+  "original": "It's rumored that the Gray Fox is buried in the cemetery in Riften. If so, he may have been buried with his cowl. At the cemetery, I found a thief loitering near a tombstone.",
+  "string": "Ходит слух, что Серый Лис похоронен на кладбище в Рифтене. Если это так, возможно, его капюшон все еще при нем. На кладбище мне попался вор, ошивавшийся около гробницы.",
+  "form_id": "0000080F|ccbgssse020-graycowl.esl",
+  "type": "QUST CNAM",
+  "index": 20,
+  "editor_id": "ccBGSSSE020_Quest"
+ },
+ {
+  "original": "It's rumored that the Gray Fox is buried in the cemetery in Riften. If so, he may have been buried with his cowl. At the cemetery, I found a thief loitering near a tombstone. On his body was a note.",
+  "string": "Ходит слух, что Серый Лис похоронен на кладбище в Рифтене. Если это так, возможно, его капюшон все еще при нем. На кладбище мне попался вор, ошивавшийся около гробницы. На его теле нашлась записка.",
+  "form_id": "0000080F|ccbgssse020-graycowl.esl",
+  "type": "QUST CNAM",
+  "index": 25,
+  "editor_id": "ccBGSSSE020_Quest"
+ },
+ {
+  "original": "At the Riften cemetery, I found a thief loitering near a tombstone. On his body was a note that mentioned the Gray Fox was dead, and his cowl was to be passed on to a new owner. I should speak to a beggar and try to learn more.",
+  "string": "На Рифтенском кладбище мне попался вор, ошивавшийся около гробницы. На его теле нашлась записка, в которой говорилось, что Серый Лис мертв, а его капюшон должен перейти к новому владельцу. Надо поговорить с кем-то из нищих, чтобы узнать больше.",
+  "form_id": "0000080F|ccbgssse020-graycowl.esl",
+  "type": "QUST CNAM",
+  "index": 30,
+  "editor_id": "ccBGSSSE020_Quest"
+ },
+ {
+  "original": "At the Riften cemetery, I found a thief loitering near a tombstone. On his body was a note that mentioned the Gray Fox was dead, and his cowl was to be passed on to a new owner. I then spoke to a beggar who handed me a note.",
+  "string": "На Рифтенском кладбище мне попался вор, ошивавшийся около гробницы. На его теле нашлась записка, в которой говорилось, что Серый Лис мертв, а его капюшон должен перейти к новому владельцу. Кто-то из нищих поговорил со мной и передал мне записку.",
+  "form_id": "0000080F|ccbgssse020-graycowl.esl",
+  "type": "QUST CNAM",
+  "index": 35,
+  "editor_id": "ccBGSSSE020_Quest"
+ },
+ {
+  "original": "At the Riften cemetery, I found a thief loitering near a tombstone. On his body was a note that mentioned the Gray Fox was dead, and his cowl was to be passed on to a new owner. I spoke to a beggar who handed me a note informing me of a job. But first I must find a way into a strongbox in Bolli's House.",
+  "string": "На Рифтенском кладбище мне попался вор, ошивавшийся около гробницы. На его теле нашлась записка, в которой говорилось, что Серый Лис мертв, а его капюшон должен перейти к новому владельцу. Кто-то из нищих поговорил со мной и передал мне записку, в которой говорилось об одном задании. Но сперва мне надо пробраться к сейфу в доме Болли.",
+  "form_id": "0000080F|ccbgssse020-graycowl.esl",
+  "type": "QUST CNAM",
+  "index": 40,
+  "editor_id": "ccBGSSSE020_Quest"
+ },
+ {
+  "original": "At the Riften cemetery, I found a thief loitering near a tombstone. On his body was a note that mentioned the Gray Fox was dead, and his cowl was to be passed on to a new owner. I spoke to a beggar who handed me a note informing me of a job. I managed to find further instructions in a strongbox at Bolli's house.",
+  "string": "На Рифтенском кладбище мне попался вор, ошивавшийся около гробницы. На его теле нашлась записка, в которой говорилось, что Серый Лис мертв, а его капюшон должен перейти к новому владельцу. Кто-то из нищих поговорил со мной и передал мне записку, в которой говорилось об одном задании. Мне удалось найти дальнейшие инструкции в сейфе в доме Болли.",
+  "form_id": "0000080F|ccbgssse020-graycowl.esl",
+  "type": "QUST CNAM",
+  "index": 45,
+  "editor_id": "ccBGSSSE020_Quest"
+ },
+ {
+  "original": "At the Riften cemetery, I found a thief loitering near a tombstone. On his body was a note that mentioned the Gray Fox was dead, and his cowl was to be passed on to a new owner. After some investigating, I found a note in a strongbox that has details on a job in Solitude. If I perform the task in question, I may be rewarded.",
+  "string": "На Рифтенском кладбище мне попался вор, ошивавшийся около гробницы. На его теле нашлась записка, в которой говорилось, что Серый Лис мертв, а его капюшон должен перейти к новому владельцу. После некоторого расследования в сейфе нашлась записка с информацией о работе в Солитьюде. Если я выполню эту работу, меня вознаградят.",
+  "form_id": "0000080F|ccbgssse020-graycowl.esl",
+  "type": "QUST CNAM",
+  "index": 50,
+  "editor_id": "ccBGSSSE020_Quest"
+ },
+ {
+  "original": "At the Riften cemetery, I found a thief loitering near a tombstone. On his body was a note that mentioned the Gray Fox was dead, and his cowl was to be passed on to a new owner. To prove my worth, I retrieved a note in a strongbox that had details on a job in Solitude. I finished the job and received further instructions to retrieve an ancestral item in Silverdrift Lair.",
+  "string": "На Рифтенском кладбище мне попался вор, ошивавшийся около гробницы. На его теле нашлась записка, в которой говорилось, что Серый Лис мертв, а его капюшон должен перейти к новому владельцу. Чтобы показать себя, мне пришлось добыть записку из сейфа, в которой говорилось о работе в Солитьюде. После выполнения этой работы мне были переданы новые инструкции: нужно добыть старинный предмет в Серебряном логове.",
+  "form_id": "0000080F|ccbgssse020-graycowl.esl",
+  "type": "QUST CNAM",
+  "index": 70,
+  "editor_id": "ccBGSSSE020_Quest"
+ },
+ {
+  "original": "At the Riften cemetery, I found a thief loitering near a tombstone. On his body was a note that mentioned the Gray Fox was dead, and his cowl was to be passed on to a new owner. To prove my worth, I underwent a series of trials to retrieve items for a Stranger. Having found them all, I must now return to Riften so I can hand it and the deed over at the grave of the Gray Fox.",
+  "string": "На Рифтенском кладбище мне попался вор, ошивавшийся около гробницы. На его теле нашлась записка, в которой говорилось, что Серый Лис мертв, а его капюшон должен перейти к новому владельцу. Чтобы показать себя, мне пришлось преодолеть несколько испытаний по добыче предметов для Незнакомца. Теперь мне предстоит вернуться в Рифтен и отдать их вместе с документом на могиле Серого Лиса.",
+  "form_id": "0000080F|ccbgssse020-graycowl.esl",
+  "type": "QUST CNAM",
+  "index": 90,
+  "editor_id": "ccBGSSSE020_Quest"
+ },
+ {
+  "original": "At the Riften cemetery, I found a thief loitering near a tombstone. On his body was a note that mentioned the Gray Fox was dead, and his cowl was to be passed on to a new owner. After some trials, I met with the Stranger who revealed himself to be the real Gray Fox. After some brief words, he handed me the Gray Cowl as a reward and left the city with a young child.",
+  "string": "На Рифтенском кладбище мне попался вор, ошивавшийся около гробницы. На его теле нашлась записка, в которой говорилось, что Серый Лис мертв, а его капюшон должен перейти к новому владельцу. После нескольких испытаний мне повстречался Незнакомец, который и был настоящим Серым Лисом. После короткой беседы он отдал мне свой капюшон в качестве награды и ушел из города вместе с каким-то ребенком.",
+  "form_id": "0000080F|ccbgssse020-graycowl.esl",
+  "type": "QUST CNAM",
+  "index": 100,
+  "editor_id": "ccBGSSSE020_Quest"
+ },
+ {
+  "original": "Travel to the cemetery in Riften",
+  "string": "Отправиться на кладбище в Рифтене",
+  "form_id": "0000080F|ccbgssse020-graycowl.esl",
+  "type": "QUST NNAM",
+  "index": 10,
+  "editor_id": "ccBGSSSE020_Quest"
+ },
+ {
+  "original": "Search the thief's body",
+  "string": "Обыскать тело вора",
+  "form_id": "0000080F|ccbgssse020-graycowl.esl",
+  "type": "QUST NNAM",
+  "index": 20,
+  "editor_id": "ccBGSSSE020_Quest"
+ },
+ {
+  "original": "Read the thief's note",
+  "string": "Прочесть записку вора",
+  "form_id": "0000080F|ccbgssse020-graycowl.esl",
+  "type": "QUST NNAM",
+  "index": 25,
+  "editor_id": "ccBGSSSE020_Quest"
+ },
+ {
+  "original": "Speak the code phrase to a beggar",
+  "string": "Сказать нищим условную фразу",
+  "form_id": "0000080F|ccbgssse020-graycowl.esl",
+  "type": "QUST NNAM",
+  "index": 30,
+  "editor_id": "ccBGSSSE020_Quest"
+ },
+ {
+  "original": "Read the Stranger's Note",
+  "string": "Прочесть записку Незнакомца",
+  "form_id": "0000080F|ccbgssse020-graycowl.esl",
+  "type": "QUST NNAM",
+  "index": 35,
+  "editor_id": "ccBGSSSE020_Quest"
+ },
+ {
+  "original": "Retrieve the instructions from Bolli's House",
+  "string": "Получить инструкции в доме Болли",
+  "form_id": "0000080F|ccbgssse020-graycowl.esl",
+  "type": "QUST NNAM",
+  "index": 40,
+  "editor_id": "ccBGSSSE020_Quest"
+ },
+ {
+  "original": "(Optional) Convince Nivenor to give you her keys",
+  "string": "(Дополнительно) Убедить Нивенор отдать вам свои ключи",
+  "form_id": "0000080F|ccbgssse020-graycowl.esl",
+  "type": "QUST NNAM",
+  "index": 45,
+  "editor_id": "ccBGSSSE020_Quest"
+ },
+ {
+  "original": "(Optional) Search Nivenor's corpse for the strongbox key",
+  "string": "(Дополнительно) Обыскать тело Нивенор на предмет ключа от сейфа",
+  "form_id": "0000080F|ccbgssse020-graycowl.esl",
+  "type": "QUST NNAM",
+  "index": 46,
+  "editor_id": "ccBGSSSE020_Quest"
+ },
+ {
+  "original": "Read the Stranger's Instructions",
+  "string": "Прочесть инструкции Незнакомца",
+  "form_id": "0000080F|ccbgssse020-graycowl.esl",
+  "type": "QUST NNAM",
+  "index": 47,
+  "editor_id": "ccBGSSSE020_Quest"
+ },
+ {
+  "original": "Steal the land deed from Gisli",
+  "string": "Украсть документ на землю у Гисли",
+  "form_id": "0000080F|ccbgssse020-graycowl.esl",
+  "type": "QUST NNAM",
+  "index": 50,
+  "editor_id": "ccBGSSSE020_Quest"
+ },
+ {
+  "original": "(Optional) Investigate Erikur's House",
+  "string": "(Дополнительно) Обследовать дом Эрикура",
+  "form_id": "0000080F|ccbgssse020-graycowl.esl",
+  "type": "QUST NNAM",
+  "index": 55,
+  "editor_id": "ccBGSSSE020_Quest"
+ },
+ {
+  "original": "(Optional) Persuade or purchase the deed from Gisli",
+  "string": "(Дополнительно) Получить документ у Гисли путем убеждения или подкупа",
+  "form_id": "0000080F|ccbgssse020-graycowl.esl",
+  "type": "QUST NNAM",
+  "index": 60,
+  "editor_id": "ccBGSSSE020_Quest"
+ },
+ {
+  "original": "Pick up the forged deed",
+  "string": "Забрать поддельный документ",
+  "form_id": "0000080F|ccbgssse020-graycowl.esl",
+  "type": "QUST NNAM",
+  "index": 64,
+  "editor_id": "ccBGSSSE020_Quest"
+ },
+ {
+  "original": "Place the forged deed on the dresser",
+  "string": "Положить поддельный документ на комод",
+  "form_id": "0000080F|ccbgssse020-graycowl.esl",
+  "type": "QUST NNAM",
+  "index": 65,
+  "editor_id": "ccBGSSSE020_Quest"
+ },
+ {
+  "original": "Check the barrel for further instructions",
+  "string": "Поискать в бочке дальнейшие указания",
+  "form_id": "0000080F|ccbgssse020-graycowl.esl",
+  "type": "QUST NNAM",
+  "index": 66,
+  "editor_id": "ccBGSSSE020_Quest"
+ },
+ {
+  "original": "Read the Stranger's Final Instructions",
+  "string": "Прочесть последние инструкции Незнакомца",
+  "form_id": "0000080F|ccbgssse020-graycowl.esl",
+  "type": "QUST NNAM",
+  "index": 70,
+  "editor_id": "ccBGSSSE020_Quest"
+ },
+ {
+  "original": "Obtain the Ancestral Sword",
+  "string": "Получить Меч предков",
+  "form_id": "0000080F|ccbgssse020-graycowl.esl",
+  "type": "QUST NNAM",
+  "index": 80,
+  "editor_id": "ccBGSSSE020_Quest"
+ },
+ {
+  "original": "(Optional) Find the key on the corpse with the lantern",
+  "string": "(Дополнительно) Найти ключ на теле с фонарем",
+  "form_id": "0000080F|ccbgssse020-graycowl.esl",
+  "type": "QUST NNAM",
+  "index": 85,
+  "editor_id": "ccBGSSSE020_Quest"
+ },
+ {
+  "original": "Meet the Stranger at the tomb of the Gray Fox",
+  "string": "Встретиться с Незнакомцем у гробницы Серого Лиса",
+  "form_id": "0000080F|ccbgssse020-graycowl.esl",
+  "type": "QUST NNAM",
+  "index": 90,
+  "editor_id": "ccBGSSSE020_Quest"
+ }
+]

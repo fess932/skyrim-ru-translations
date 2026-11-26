@@ -1,0 +1,18 @@
+[
+ {
+  "original": "The Curators Companion - Kthonia's Unique Weapon Pack",
+  "string": "Помощник куратора - Kthonia's Unique Weapon Pack",
+  "form_id": "00000802|LOTD_TCC_Kthonia.esp",
+  "type": "QUST FULL",
+  "index": null,
+  "editor_id": "TCC_SM_Kthonia"
+ },
+ {
+  "original": "<font color='#<Alias=ColourAlias>'>The Curators Companion: Mod Complete (Kthonia's Weapon Pack)</font>",
+  "string": "<font color='#<Alias=ColourAlias>'>Компаньон куратора: мод завершен (Оружие Ктонии)</font>",
+  "form_id": "00000804|LOTD_TCC_Kthonia.esp",
+  "type": "MESG DESC",
+  "index": null,
+  "editor_id": "_CompleteNotification_Kthonia"
+ }
+]

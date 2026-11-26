@@ -1,0 +1,170 @@
+[
+ {
+  "original": "Helm of the Aethernaut",
+  "string": "Шлем аэронавта",
+  "form_id": "0000081F|DBM_DwemerSpectres_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACT_tw_dwarvencommanderhelm2"
+ },
+ {
+  "original": "Clutterbane",
+  "string": "Хламобой",
+  "form_id": "00000823|DBM_DwemerSpectres_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACT_tw_clutterbane"
+ },
+ {
+  "original": "Ghartar-Zhir",
+  "string": "Гартар-Жир",
+  "form_id": "00000824|DBM_DwemerSpectres_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACT_tw_physicsstaff_Playable"
+ },
+ {
+  "original": "Nullsprocket",
+  "string": "Нулевая шестерня",
+  "form_id": "00000825|DBM_DwemerSpectres_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACT_tw_nullsprocket"
+ },
+ {
+  "original": "Boilerman's Siegering",
+  "string": "Осадное кольцо кочегара",
+  "form_id": "00000828|DBM_DwemerSpectres_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACT_tw_boilerSiegeRing"
+ },
+ {
+  "original": "Ring of Kadahk Mezalf",
+  "string": "Кольцо Кадакха Мезальфа",
+  "form_id": "00000829|DBM_DwemerSpectres_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACT_tw_mezlfring"
+ },
+ {
+  "original": "Bthund's Puzzle Cube",
+  "string": "Головоломка-куб Бтунда",
+  "form_id": "00000852|DBM_DwemerSpectres_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTTW_DwemerCubeBthund"
+ },
+ {
+  "original": "Irgktchil's Puzzle Cube",
+  "string": "Головоломка-куб Иргкчиля",
+  "form_id": "00000853|DBM_DwemerSpectres_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTTW_DwemerCubeIrg"
+ },
+ {
+  "original": "Kadakh's Puzzle Cube",
+  "string": "Головоломка-куб Кадакха",
+  "form_id": "00000854|DBM_DwemerSpectres_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTTW_DwemerCubeKadahk"
+ },
+ {
+  "original": "Fareye's Puzzle Cube",
+  "string": "Головоломка-куб Дальнозоркого",
+  "form_id": "00000855|DBM_DwemerSpectres_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTTW_DwemerCubeMthan"
+ },
+ {
+  "original": "Mzark's Puzzle Cube",
+  "string": "Головоломка-куб Мзарка",
+  "form_id": "00000856|DBM_DwemerSpectres_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTTW_DwemerCubeMzark"
+ },
+ {
+  "original": "Commandant's Puzzle Cube",
+  "string": "Головоломка-куб коменданта",
+  "form_id": "00000857|DBM_DwemerSpectres_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTTW_DwemerCubeRakmag"
+ },
+ {
+  "original": "Zel-mzbhain's Puzzle Cube",
+  "string": "Головоломка-куб Зел-Мзбайна",
+  "form_id": "00000858|DBM_DwemerSpectres_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTTW_DwemerCubeZel"
+ },
+ {
+  "original": "Helm of the Aethernaut (replica)",
+  "string": "Шлем аэронавта (копия)",
+  "form_id": "0000082A|DBM_DwemerSpectres_Patch.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "_tw_dwarvencommanderhelm2REPLICA"
+ },
+ {
+  "original": "Boilerman's Siegering (replica)",
+  "string": "Осадное кольцо кочегара (копия)",
+  "form_id": "0000082B|DBM_DwemerSpectres_Patch.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "_tw_boilerSiegeRingREPLICA"
+ },
+ {
+  "original": "Ring of Kadahk Mezalf (replica)",
+  "string": "Кольцо Кадакха Мезальфа (копия)",
+  "form_id": "0000082C|DBM_DwemerSpectres_Patch.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "_tw_mezlfringREPLICA"
+ },
+ {
+  "original": "Dwemer Spectres Items",
+  "string": "Предметы из Dwemer Spectres",
+  "form_id": "00000859|DBM_DwemerSpectres_Patch.esp",
+  "type": "CONT FULL",
+  "index": null,
+  "editor_id": "DBM_CheatCrateDwemerSpectres"
+ },
+ {
+  "original": "Nullsprocket (replica)",
+  "string": "Нулевая шестерня (копия)",
+  "form_id": "00000804|DBM_DwemerSpectres_Patch.esp",
+  "type": "WEAP FULL",
+  "index": null,
+  "editor_id": "_tw_nullsprocketREPLICA"
+ },
+ {
+  "original": "Clutterbane (replica)",
+  "string": "Бич хлама (копия)",
+  "form_id": "0000082D|DBM_DwemerSpectres_Patch.esp",
+  "type": "WEAP FULL",
+  "index": null,
+  "editor_id": "_tw_clutterbaneREPLICA"
+ },
+ {
+  "original": "Ghartar-Zhir (replica)",
+  "string": "Гартар-Жир (копия)",
+  "form_id": "0000082E|DBM_DwemerSpectres_Patch.esp",
+  "type": "WEAP FULL",
+  "index": null,
+  "editor_id": "_tw_physicsstaff_PlayableREPLICA"
+ },
+ {
+  "original": "Dwemer Spectres",
+  "string": "Двемерские призраки",
+  "form_id": "0000083B|DBM_DwemerSpectres_Patch.esp",
+  "type": "QUST FULL",
+  "index": null,
+  "editor_id": "DBM_DwemerSpectres"
+ }
+]

@@ -1,0 +1,146 @@
+[
+ {
+  "original": "Soul Stealer Arrow",
+  "string": "Стрела похищения души",
+  "form_id": "00000802|DBM_CC_ACArcaneArcherHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTACArrowSoulStealer"
+ },
+ {
+  "original": "Fire Arrow",
+  "string": "Огненная стрела",
+  "form_id": "0000081A|DBM_CC_ACArcaneArcherHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTACArrowFire"
+ },
+ {
+  "original": "Ice Arrow",
+  "string": "Ледяная стрела",
+  "form_id": "0000081B|DBM_CC_ACArcaneArcherHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTACArrowIce"
+ },
+ {
+  "original": "Lightning Arrow",
+  "string": "Стрела-молния",
+  "form_id": "0000081C|DBM_CC_ACArcaneArcherHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTACArrowLightning"
+ },
+ {
+  "original": "Dragonpiercer Arrow",
+  "string": "Стрела-драконобой",
+  "form_id": "0000081D|DBM_CC_ACArcaneArcherHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTACArrowBone"
+ },
+ {
+  "original": "Telekinesis Arrow",
+  "string": "Стрела телекинеза",
+  "form_id": "0000081E|DBM_CC_ACArcaneArcherHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTACArrowTelekinesis"
+ },
+ {
+  "original": "Dwemer Arrow Diagram",
+  "string": "Чертеж двемерской стрелы",
+  "form_id": "0000081F|DBM_CC_ACArcaneArcherHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTACArrowDiagram"
+ },
+ {
+  "original": "Spell Tome: Bound Quiver",
+  "string": "Том заклинаний: Призванный колчан",
+  "form_id": "00000826|DBM_CC_ACArcaneArcherHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTACBoundQuiverTome"
+ },
+ {
+  "original": "Spell Tome: Telekinesis Arrows",
+  "string": "Том заклинаний: Стрелы телекинеза",
+  "form_id": "00000828|DBM_CC_ACArcaneArcherHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTACTelekinesisArrowTome"
+ },
+ {
+  "original": "Dwemer Arrow Diagram (replica)",
+  "string": "Чертеж двемерской стрелы (копия)",
+  "form_id": "00000820|DBM_CC_ACArcaneArcherHOWPatch.esp",
+  "type": "BOOK FULL",
+  "index": null,
+  "editor_id": "DBM_CC_SoulStealerArrowNoteREPLICA"
+ },
+ {
+  "original": "<p>  </p>",
+  "string": "<p>  </p>",
+  "form_id": "00000820|DBM_CC_ACArcaneArcherHOWPatch.esp",
+  "type": "BOOK DESC",
+  "index": null,
+  "editor_id": "DBM_CC_SoulStealerArrowNoteREPLICA"
+ },
+ {
+  "original": "Spell Tome: Telekinesis Arrows (replica)",
+  "string": "Том заклинаний: Стрелы телекинеза (копия)",
+  "form_id": "0000082E|DBM_CC_ACArcaneArcherHOWPatch.esp",
+  "type": "BOOK FULL",
+  "index": null,
+  "editor_id": "DBM_CC_SpellTomeTelekinesisArrowsREPLICA"
+ },
+ {
+  "original": "<font face'$HandwrittenFont'><font size='40'><p align='center'>\r\nTelekinesis Arrows",
+  "string": "<font face'$HandwrittenFont'><font size='40'><p align='center'>\r\nСтрелы телекинеза",
+  "form_id": "0000082E|DBM_CC_ACArcaneArcherHOWPatch.esp",
+  "type": "BOOK DESC",
+  "index": null,
+  "editor_id": "DBM_CC_SpellTomeTelekinesisArrowsREPLICA"
+ },
+ {
+  "original": "Dragonpiercer Arrow",
+  "string": "Стрела-драконобой",
+  "form_id": "00000822|ccbgssse002-exoticarrows.esl",
+  "type": "AMMO FULL",
+  "index": null,
+  "editor_id": "ccBGSSSE002_BoneArrow"
+ },
+ {
+  "original": "Bone Arrow",
+  "string": "Костяная стрела",
+  "form_id": "00000D67|ccbgssse002-exoticarrows.esl",
+  "type": "PROJ FULL",
+  "index": null,
+  "editor_id": "ccBGSSSE002_ArrowBoneProjectile"
+ },
+ {
+  "original": "Hall of Wonders",
+  "string": "Зал чудес",
+  "form_id": "000104C9|DBM_CC_HallOfWonders.esp",
+  "type": "CELL FULL",
+  "index": null,
+  "editor_id": "DBMDGHallofWondersCC"
+ },
+ {
+  "original": "Arcane Archer Handler",
+  "string": "Волшебный лучник (служебный)",
+  "form_id": "00000813|DBM_CC_ACArcaneArcherHOWPatch.esp",
+  "type": "QUST FULL",
+  "index": null,
+  "editor_id": "DBM_CC_ArcaneArcherHandler"
+ },
+ {
+  "original": "Dragonbane Arrow Explosion",
+  "string": "Взрыв стрелы \"Бич драконов\"",
+  "form_id": "00000815|DBM_CC_ACArcaneArcherHOWPatch.esp",
+  "type": "EXPL FULL",
+  "index": null,
+  "editor_id": "DBM_CC_ACArrowDragonbane"
+ }
+]

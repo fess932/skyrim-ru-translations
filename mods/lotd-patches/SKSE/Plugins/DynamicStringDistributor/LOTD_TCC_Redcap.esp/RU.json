@@ -1,0 +1,18 @@
+[
+ {
+  "original": "Redcap Official TCC Patch Handler",
+  "string": "Официальный патч Помощника куратора для Красной шапки (служебный)",
+  "form_id": "00000806|LOTD_TCC_Redcap.esp",
+  "type": "QUST FULL",
+  "index": null,
+  "editor_id": "TCC_SM_Redcap"
+ },
+ {
+  "original": "<font color='#<Alias=ColourAlias>'>The Curators Companion: Mod Complete (Follower - Redcap)</font>",
+  "string": "<font color='#<Alias=ColourAlias>'>Компаньон куратора: мод завершен (Спутник - Красная шапка)</font>",
+  "form_id": "00000805|LOTD_TCC_Redcap.esp",
+  "type": "MESG DESC",
+  "index": null,
+  "editor_id": "_CompleteNotification_Redcap"
+ }
+]

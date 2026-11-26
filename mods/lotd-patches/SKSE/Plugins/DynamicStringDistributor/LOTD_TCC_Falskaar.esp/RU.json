@@ -1,0 +1,18 @@
+[
+ {
+  "original": "The Curators Companion - Falskaar",
+  "string": "Помощник куратора - Фальскаар",
+  "form_id": "00000803|LOTD_TCC_Falskaar.esp",
+  "type": "QUST FULL",
+  "index": null,
+  "editor_id": "TCC_SM_Falskaar"
+ },
+ {
+  "original": "<font color='#<Alias=ColourAlias>'>The Curators Companion: Mod Complete (Falskaar)</font>",
+  "string": "<font color='#<Alias=ColourAlias>'>Компаньон куратора: Мод завершен (Фальскаар)</font>",
+  "form_id": "00000804|LOTD_TCC_Falskaar.esp",
+  "type": "MESG DESC",
+  "index": null,
+  "editor_id": "_CompleteNotification_Falskaar"
+ }
+]

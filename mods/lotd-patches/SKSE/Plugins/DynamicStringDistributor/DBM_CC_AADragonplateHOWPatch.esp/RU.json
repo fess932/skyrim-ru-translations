@@ -1,0 +1,98 @@
+[
+ {
+  "original": "Dragonplate Insulated Armor",
+  "string": "Утепленная драконья латная броня",
+  "form_id": "00000800|DBM_CC_AADragonplateHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTAADragonplateArmor"
+ },
+ {
+  "original": "Dragonplate Insulated Helmet",
+  "string": "Утепленный драконий панцирный шлем",
+  "form_id": "00000814|DBM_CC_AADragonplateHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTAADragonplateHelmet"
+ },
+ {
+  "original": "Dragonplate Insulated Boots",
+  "string": "Утепленные драконьи панцирные сапоги",
+  "form_id": "00000815|DBM_CC_AADragonplateHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTAADragonplateBoots"
+ },
+ {
+  "original": "Dragonplate Insulated Gauntlets",
+  "string": "Утепленные драконьи панцирные перчатки",
+  "form_id": "00000816|DBM_CC_AADragonplateHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTAADragonplateGauntlets"
+ },
+ {
+  "original": "Tyrant's Bane",
+  "string": "Гибель тирана",
+  "form_id": "00000817|DBM_CC_AADragonplateHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTTyrantsBane"
+ },
+ {
+  "original": "Crowstooth's Sword",
+  "string": "Меч Вороньего Зуба",
+  "form_id": "0000091D|DBM_CC_AADragonplateHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTCrowstoothSword"
+ },
+ {
+  "original": "Dismal Visage",
+  "string": "Ужасное зрелище",
+  "form_id": "0000091E|DBM_CC_AADragonplateHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTDismalVisage"
+ },
+ {
+  "original": "Namira's Itch",
+  "string": "Зуд Намиры",
+  "form_id": "0000091F|DBM_CC_AADragonplateHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTNamirasItch"
+ },
+ {
+  "original": "Dragonbone Mail",
+  "string": "Драконья костяная броня",
+  "form_id": "0000083B|ccbgssse059-ba_dragonplate.esl",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "ccBGSSSE059_ArmorBladesCuirassEnchanted"
+ },
+ {
+  "original": "Dragonbone Mail",
+  "string": "Драконья костяная броня",
+  "form_id": "00000A26|DBM_CC_AADragonplateHOWPatch.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DragonboneMail_DISP"
+ },
+ {
+  "original": "Hall of Wonders",
+  "string": "Зал чудес",
+  "form_id": "000104C9|DBM_CC_HallOfWonders.esp",
+  "type": "CELL FULL",
+  "index": null,
+  "editor_id": "DBMDGHallofWondersCC"
+ },
+ {
+  "original": "Alt Armors  Dragonplate Insulated Handler",
+  "string": "Альтернативная броня: утепленные драконьи латы (служебный)",
+  "form_id": "00000804|DBM_CC_AADragonplateHOWPatch.esp",
+  "type": "QUST FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DragonplateInsulatedHandler"
+ }
+]

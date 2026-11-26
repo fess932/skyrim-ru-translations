@@ -1,0 +1,386 @@
+[
+ {
+  "original": "Shrine of Sithis",
+  "string": "Святилище Ситиса",
+  "form_id": "000009AE|DBM_Wintersun_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBMXahShrineSithisACT"
+ },
+ {
+  "original": "Shrine of Mannimarco",
+  "string": "Святилище Маннимарко",
+  "form_id": "000009B0|DBM_Wintersun_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBMXahShrineMannimarcoACT"
+ },
+ {
+  "original": "Shrine of Hircine",
+  "string": "Святилище Хирсина",
+  "form_id": "000009B2|DBM_Wintersun_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBMXahShrineHircineACT"
+ },
+ {
+  "original": "Shrine of Ebonarm",
+  "string": "Святилище Эбонарма",
+  "form_id": "000009B4|DBM_Wintersun_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBMXahShrineEbonarmACT"
+ },
+ {
+  "original": "Shrine of the All-Maker",
+  "string": "Святилище Все-Создателя",
+  "form_id": "000009B6|DBM_Wintersun_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBMXahShrineAllMakerACT"
+ },
+ {
+  "original": "Shrine of the Old Ways",
+  "string": "Святилище Старых путей",
+  "form_id": "000009B8|DBM_Wintersun_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBMXahShrineOldWaysACT"
+ },
+ {
+  "original": "Shrine of St. Alessia",
+  "string": "Святилище Святой Алессии",
+  "form_id": "000009BA|DBM_Wintersun_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBMXahShrineAllessiaACT"
+ },
+ {
+  "original": "Shrine of the Magna-Ge",
+  "string": "Святилище Магна Ге",
+  "form_id": "000009BC|DBM_Wintersun_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBMXahShrineMagnaGeACT"
+ },
+ {
+  "original": "Shrine of Shor",
+  "string": "Святилище Шора",
+  "form_id": "000009BE|DBM_Wintersun_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBMXahShrineShorACT"
+ },
+ {
+  "original": "Shrine of the Hist",
+  "string": "Святилище Хиста",
+  "form_id": "000009C0|DBM_Wintersun_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBMXahShrineHistACT"
+ },
+ {
+  "original": "Shrine of Namira",
+  "string": "Святилище Намиры",
+  "form_id": "000009C2|DBM_Wintersun_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBMXahShrineNamiraACT"
+ },
+ {
+  "original": "Shrine of Sheogorath",
+  "string": "Святилище Шеогората",
+  "form_id": "000009C4|DBM_Wintersun_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBMXahShrineSheogorathACT"
+ },
+ {
+  "original": "Shrine of Peryite",
+  "string": "Святилище Периайта",
+  "form_id": "000009C6|DBM_Wintersun_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBMXahShrinePeryiteACT"
+ },
+ {
+  "original": "Shrine to Clavicus Vile",
+  "string": "Святилище Клавикуса Вайла",
+  "form_id": "000009C8|DBM_Wintersun_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBMXahShrineClavicusACT"
+ },
+ {
+  "original": "Shrine of Jyggalag",
+  "string": "Святилище Джиггалага",
+  "form_id": "000009CA|DBM_Wintersun_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBMXahShrineJyggalagACT"
+ },
+ {
+  "original": "Shrine of Molag Bal",
+  "string": "Святилище Молага Бала",
+  "form_id": "000009CC|DBM_Wintersun_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBMXahShrineMolagBalACT"
+ },
+ {
+  "original": "Shrine of Hermaeus Mora",
+  "string": "Святилище Хермеуса Моры",
+  "form_id": "000009CE|DBM_Wintersun_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBMXahShrineHermaMoraACT"
+ },
+ {
+  "original": "Statue to Meridia",
+  "string": "Статуя Меридии",
+  "form_id": "000009D0|DBM_Wintersun_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBMXahShrineMeridiaACT"
+ },
+ {
+  "original": "Shrine of Vaermina",
+  "string": "Святилище Вермины",
+  "form_id": "000009D2|DBM_Wintersun_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBMXahShrineVaermina"
+ },
+ {
+  "original": "Shrine of Malacath",
+  "string": "Святилище Малаката",
+  "form_id": "000009D4|DBM_Wintersun_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBMXahShrineMalacathACT"
+ },
+ {
+  "original": "Shrine of Sanguine",
+  "string": "Святилище Сангвина",
+  "form_id": "000009D6|DBM_Wintersun_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBMXahShrineSanguineACT"
+ },
+ {
+  "original": "Shrine of Mehrunes Dagon",
+  "string": "Святилище Мерунеса Дагона",
+  "form_id": "000009D8|DBM_Wintersun_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBMXahShrineDagonACT"
+ },
+ {
+  "original": "Shrine of Nocturnal",
+  "string": "Святилище Ноктюрнал",
+  "form_id": "000009DA|DBM_Wintersun_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBMXahShrineNocturnalACT"
+ },
+ {
+  "original": "Shrine of Riddle'Thar",
+  "string": "Святилище Риддл'Тара",
+  "form_id": "000009DC|DBM_Wintersun_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBMXahShrineRiddleTharACT"
+ },
+ {
+  "original": "Shrine of Rajhin",
+  "string": "Святилище Раджина",
+  "form_id": "000009DE|DBM_Wintersun_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBMXahShrineRajhinACT"
+ },
+ {
+  "original": "Shrine of Baan Dar",
+  "string": "Святилище Баан Дара",
+  "form_id": "000009E0|DBM_Wintersun_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBMXahShrineBaanDarACT"
+ },
+ {
+  "original": "Shrine of Z'en",
+  "string": "Святилище З'ена",
+  "form_id": "000009E2|DBM_Wintersun_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBMXahShrineZenACT"
+ },
+ {
+  "original": "Shrine of Syrabane",
+  "string": "Святилище Сирабейна",
+  "form_id": "000009E4|DBM_Wintersun_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBMXahShrineSyrabaneACT"
+ },
+ {
+  "original": "Shrine of Magnus",
+  "string": "Святилище Магнуса",
+  "form_id": "000009E8|DBM_Wintersun_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBMXahShrineMagnusACT"
+ },
+ {
+  "original": "Shrine of Phynaster",
+  "string": "Святилище Финастера",
+  "form_id": "000009EA|DBM_Wintersun_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBMXahShrinePhynasterACT"
+ },
+ {
+  "original": "Shrine of Trinimac",
+  "string": "Святилище Тринимака",
+  "form_id": "000009EC|DBM_Wintersun_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBMXahShrineTrinimacACT"
+ },
+ {
+  "original": "Shrine of Jephre",
+  "string": "Святилище Джефре",
+  "form_id": "000009EE|DBM_Wintersun_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBMXahShrineJephreACT"
+ },
+ {
+  "original": "Shrine of Xarxes",
+  "string": "Святилище Заркса",
+  "form_id": "000009F0|DBM_Wintersun_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBMXahShrineXarxesACT"
+ },
+ {
+  "original": "Shrine of Leki",
+  "string": "Святилище Леки",
+  "form_id": "000009F2|DBM_Wintersun_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBMXahShrineLekiACT"
+ },
+ {
+  "original": "Shrine of Morwha",
+  "string": "Святилище Морвы",
+  "form_id": "000009F4|DBM_Wintersun_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBMXahShrineMorwhaACT"
+ },
+ {
+  "original": "Shrine of Satakal",
+  "string": "Святилище Сатакала",
+  "form_id": "000009F6|DBM_Wintersun_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBMXahShrineSatakalACT"
+ },
+ {
+  "original": "Shrine of Tall Papa",
+  "string": "Святилище Высокого Папы",
+  "form_id": "000009F8|DBM_Wintersun_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBMXahShrineTallPapaACT"
+ },
+ {
+  "original": "Shrine of the HoonDing",
+  "string": "Святилище ХунДинга",
+  "form_id": "000009FA|DBM_Wintersun_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBMXahShrineHoonDingACT"
+ },
+ {
+  "original": "Ebony Raven",
+  "string": "Эбонитовый ворон",
+  "form_id": "00000A23|DBM_Wintersun_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBMITEMTYPEACTEbonyRaven"
+ },
+ {
+  "original": "Goblet of Infinite Grace",
+  "string": "Кубок бесконечной милости",
+  "form_id": "00000A29|DBM_Wintersun_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBMITEMTYPEACTGobletofInfiniteGrace"
+ },
+ {
+  "original": "Tempus Dominus",
+  "string": "Темпус Доминус",
+  "form_id": "00000A2B|DBM_Wintersun_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBMITEMTYPEACTTempusDominus"
+ },
+ {
+  "original": "Lantern of the Ancestors",
+  "string": "Фонарь предков",
+  "form_id": "00000A2D|DBM_Wintersun_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBMITEMTYPEACTLanternoftheAncestors"
+ },
+ {
+  "original": "Stone of the Forebears",
+  "string": "Камень предков",
+  "form_id": "00000A2F|DBM_Wintersun_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBMITEMTYPEACTStoneoftheForebears"
+ },
+ {
+  "original": "Wintersun",
+  "string": "Предметы из Wintersun",
+  "form_id": "00000A31|DBM_Wintersun_Patch.esp",
+  "type": "CONT FULL",
+  "index": null,
+  "editor_id": "DBM_CheatCrateWintersun"
+ },
+ {
+  "original": "Hanging Moss",
+  "string": "Бородатый мох",
+  "form_id": "00000994|DBM_Wintersun_Patch.esp",
+  "type": "TREE FULL",
+  "index": null,
+  "editor_id": "DBMXahTreeFloraHangingMoss01NoHarvest"
+ },
+ {
+  "original": "Hanging Moss",
+  "string": "Бородатый мох",
+  "form_id": "00000997|DBM_Wintersun_Patch.esp",
+  "type": "TREE FULL",
+  "index": null,
+  "editor_id": "DBMXahTreeFloraHangingMoss02NoHarvest"
+ },
+ {
+  "original": "Bleeding Crown",
+  "string": "Кровавый венец",
+  "form_id": "00000A21|DBM_Wintersun_Patch.esp",
+  "type": "FLOR FULL",
+  "index": null,
+  "editor_id": "DBMXahFloraMushroom02SmallNoHarvest"
+ },
+ {
+  "original": "Harvest",
+  "string": "Сорвать:",
+  "form_id": "00000A21|DBM_Wintersun_Patch.esp",
+  "type": "FLOR RNAM",
+  "index": null,
+  "editor_id": "DBMXahFloraMushroom02SmallNoHarvest"
+ }
+]

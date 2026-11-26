@@ -1,0 +1,18 @@
+[
+ {
+  "original": "The Curators Companion - Undeath",
+  "string": "Помощник куратора - Undeath",
+  "form_id": "00000803|LOTD_TCC_Undeath.esp",
+  "type": "QUST FULL",
+  "index": null,
+  "editor_id": "TCC_SM_Undeath"
+ },
+ {
+  "original": "<font color='#<Alias=ColourAlias>'>The Curators Companion: Mod Complete (Undeath)</font>",
+  "string": "<font color='#<Alias=ColourAlias>'>Компаньон куратора: мод завершен (Нежизнь)</font>",
+  "form_id": "00000804|LOTD_TCC_Undeath.esp",
+  "type": "MESG DESC",
+  "index": null,
+  "editor_id": "_CompleteNotification_Undeath"
+ }
+]

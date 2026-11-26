@@ -1,0 +1,74 @@
+[
+ {
+  "original": "Orcish Scaled Armor",
+  "string": "Орочья ламеллярная броня",
+  "form_id": "00000800|DBM_CC_AAOrcishScaledHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTAAOrcishScaledArmor"
+ },
+ {
+  "original": "Orcish Scaled Helmet",
+  "string": "Орочий ламеллярный шлем",
+  "form_id": "00000805|DBM_CC_AAOrcishScaledHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTAAOrcishScaledHelmet"
+ },
+ {
+  "original": "Orcish Scaled Boots",
+  "string": "Орочьи ламеллярные сапоги",
+  "form_id": "00000806|DBM_CC_AAOrcishScaledHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTAAOrcishScaledBoots"
+ },
+ {
+  "original": "Orcish Scaled Gauntlets",
+  "string": "Орочьи ламеллярные перчатки",
+  "form_id": "00000807|DBM_CC_AAOrcishScaledHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTAAOrcishScaledGauntlets"
+ },
+ {
+  "original": "The Crimson Dirks, v6",
+  "string": "\"Кровавые кинжалы\", т. 6",
+  "form_id": "00000808|DBM_CC_AAOrcishScaledHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTAAOrcishScaledBook"
+ },
+ {
+  "original": "The Crimson Dirks, v6",
+  "string": "\"Кровавые кинжалы\", т. 6",
+  "form_id": "00000839|ccbgssse055-ba_orcishscaled.esl",
+  "type": "BOOK FULL",
+  "index": null,
+  "editor_id": "ccBGSSSE055_Bookv6"
+ },
+ {
+  "original": "[pagebreak]\r\n<p align=\"center\">\r\n\r\n\r\nThe Crimson Dirks\r\nBook Six\r\n\r\n\r\nby \r\nGathers-the-Coin\r\n</p>\r\n\r\n\r\n\r\n[pagebreak]\r\n<p align=\"left\">\r\n<img src='img://Textures/Interface/Books/Illuminated_Letters/E_letter.png'>dward taught Antonius the game he learned in Elsweyr, as Casival, Ehlhiel and Zaharia joined them at the table. A cloth, stained with every conceivable color of wine and spirit, was placed over the top of the wood, allowing the bones and tiles to slide across its otherwise splintered face. While some of the rules were lost in translation, Edward knew enough for the game to function. Moreover, if he were to bend said rules to his favor, his opponents would be none the wiser.\r\n\r\n\"There are two types of games,\" Edward explained, laying the tiles out on the surface, \"those with perfect information, and those that are imperfect. Chess, for example, is a game with perfect information. We know each other's pieces and their placement on the board. Card games, on the other hand, are of the imperfect variety. We are each dealt a hand with a set value, and must divine, through whatever means are available to us, who has the better of it.\"\r\n\r\n\"And which type do you prefer?\" asked Casival.\r\n\r\n\"I prefer to know who and what I'm dealing with,\" replied Edward, \"but at the same time, I know the more practical skill is to play games where the information is imperfect. After all, that is how the world around us is played.\"\r\n\r\n\"I wasn't aware life was a game,\" said Ehlhiel, \"because if so, I need to find a better way to cheat.\"\r\n\r\n\"Don't be so modest,\" replied Edward, raking in another pot, \"I think you're doing just fine. The same can't be said for our friend Antonius here.\"\r\n\r\n\"I only lost because you distracted me,\" barked Antonius, \"with that inhaling and exhaling thing you do with your nose.\"\r\n\r\n\"Do you mean breathing?\" asked Edward.\r\n\r\n\"Yes, that.\"\r\n\r\nAs a careful study of others, Casival understood the gist of Edward's speech. There were layers beyond what faces advertised. Edward, for instance, used his charm and intellect like a sword, his sly demeanor having a purpose that disarmed his opponents. Ehlhiel, on the other hand, wore his humor like armor, deflecting any inkling of emotion or motive. Zaharia, for all her straightforwardness, was also passionate and sincere, making her prone to falling victim to her temper. Even Antonius, for all his inebriation, was a skilled hedge mage, and one wondered at times if his drunkenness was merely a performance that allowed people to excuse his worst impulses. \r\n\r\nThe same rules applied to the crew as a whole. The less that was known about the bandits - the more imperfect the information - the better their chance of survival. Their enemies would always hold the better cards. The only way to win was to bluff.\r\n\r\nIt's for this reason Casival was uneasy about the last job. They had purchased a building near a warehouse, tunneling into it and stealing the goods. The plan was solid and the profit healthy, but it was the target that worried him still, even now after it was complete. After all, unlike some enterprises, the East Empire Company was a machine that counted every coin to its last, and weighed every commodity to the gram. Their employees were punctual, their accountants circumspect, and their ledgers pristine. They would identify precisely what goods were stolen, and investigate thoroughly the time and manner of the theft. \r\n\r\nThus it weighed heavy on his mind when the forger who purchased the building next to the warehouse had not responded to his last letter. Casival wrote the missive posing as a concerned relative, not wishing to betray any secrets lest the forger had been compromised. Another concern was news that the Company had enlisted the help of the local guard captains, in an effort to pool their information. With the added protection, caravans had been harder to sack. And with a more watchful eye on merchants, goods had been much harder to smuggle. As it turned out, it was possible to rob from the East Empire Company, but not without revealing some of their cards. \r\n\r\n\"Did you know that Pale-Eyes can sing?\" Ehlhiel said, much to everyone's surprise.\r\n\r\n\"Is that a joke?\" asked Zaharia, somewhat surprised.\r\n\r\n\"I'm being serious, he's actually better than most bards,\" Ehlhiel replied, for once completely sincere, \"Trust me, it shocked me more than anything. I wasn't even aware Argonians could even make that kind of noise, let alone do it on key.\"\r\n\r\nCasival laughed at the thought of the shy Argonian melodically strumming his lute. Even after he thought he'd learned everything there was to know about the others, they were always surprising him in strange and interesting ways. Perhaps the same could be said about their current predicament. So long as they were free, it meant whatever information their pursuers had was still imperfect. \r\n\r\nThe bandits had revealed much of their cards already, but hopefully, they had yet to give away their entire hand. ",
+  "string": "[pagebreak]\r\n<p align=\"center\">\r\n\r\n\r\n\"Кровавые кинжалы\"\r\nТ. 6\r\n\r\n\r\nавтор\r\nСобирающий-Монеты\r\n</p>\r\n\r\n\r\n\r\n[pagebreak]\r\n<p align=\"left\">\r\nЭдвард обучал Антония игре, которую узнал в Эльсвейре, когда к ним за стол подсели Касиваль, Эхлиэль и Захария. На столе была расстелена пестрая от винных пятен тряпка, чтобы кости и фишки не цеплялись за щепки, торчавшие из необработанной столешницы. Несмотря на то, что некоторые правила Эдвард в свое время так и не понял из-за трудностей перевода, он знал достаточно, чтобы можно было играть. К тому же, если бы он истолковал что-то из этих правил в свою пользу, его оппоненты были бы не в курсе.\r\n\r\n\"Существует две разновидности игр, - объяснял Эдвард, выкладывая фишки на стол, - предоставляющие полную информацию и предоставляющие неполную информацию. К примеру, шахматы предоставляют полную информацию. Мы знаем, какие фигурки есть у противника и где они стоят. А вот карточные игры дают неполную информацию. Каждому раздается набор карт с определенной стоимостью, и нам нужно любыми способами догадаться, у кого рука лучше\".\r\n\r\n\"А какую разновидность предпочитаешь ты?\" - спросил Касиваль.\r\n\r\n\"Я предпочитаю знать, с кем и чем имею дело, - ответил Эдвард, - но понимаю, что куда полезнее уметь играть в игры, которые дают неполную информацию. В конце концов, весь мир устроен по такому же принципу\".\r\n\r\n\"Не знал, что жизнь - это тоже игра, - сказал Эхлиэль. - Тогда мне надо научиться жульничать\".\r\n\r\n\"Не скромничай, - ответил Эдвард, загребая очередной выигрыш, - у тебя уже отлично получается. В отличие от нашего дражайшего Антония\".\r\n\r\n\"Я проиграл, потому что ты отвлекал меня, - рыкнул Антоний, - вот тем, что ты делаешь носом\".\r\n\r\n\"Ты имеешь в виду - дышу?\" - спросил Эдвард.\r\n\r\n\"Да-да, именно!\"\r\n\r\nКасиваль, хорошо разбиравшийся в людях, понимал, о чем говорит Эдвард. По внешности никогда нельзя было понять, что за человек перед тобой. Например, оружием Эдварда были обаяние и ум, а за личиной шельмы скрывалась стальная воля, обескураживавшая противников. Эхлиэль, в отличие от него, прикрывался иронией как щитом, пряча за ней свои истинные мотивы или любые проявления эмоций. Прямолинейная Захария была натурой страстной и искренней и зачастую становилась жертвой собственного темперамента. Даже Антоний, несмотря на вечное пьянство, был опытным магом, и порой можно было заподозрить, что его алкоголизм - всего лишь притворство, на которое окружающие охотно списывали даже самые дурные его поступки.\r\n\r\nТе же утверждения были применимы и ко всей их банде. Чем меньше было известно о бандитах - чем более неполной была эта информация, - тем выше были шансы на выживание. У врагов карты всегда были лучше. И обыграть их можно было только с помощью блефа.\r\n\r\nИменно поэтому Касиваля одолевали нехорошие мысли по поводу последней их работы. Они купили здание рядом со складом, прокопали тоннель и вынесли товары. План был надежным, а прибыль – большой, но даже после завершения работы его продолжало беспокоить, кого именно они обокрали. Все-таки, в отличие от других, Восточная имперская компания была отлаженным механизмом, который подсчитывал все деньги до последней монетки и взвешивал каждый товар до йоты. Их работники были пунктуальными, счетоводы – внимательными, а конторские книги – безупречными. Они наверняка установили, какие именно товары были украдены, и тщательно изучили время и способ кражи.\r\n\r\nЭта мысль не давала ему покоя с тех пор, как фальшивомонетчик, купивший здание рядом со складом, не ответил на последнее письмо. Касиваль, осторожничая, написал ему от лица обеспокоенного родственника - на случай, если фальшивомонетчика поймали. Кроме того, он слышал, что Компания заручилась поддержкой местных капитанов стражи, желая получить доступ к их информации. Караваны ходили с дополнительной охраной, их стало сложнее грабить. А при усиленном контроле за торговцами сделалось труднее сбывать краденое. Как выяснилось, обокрасть Восточную имперскую компанию можно, но утаить все свои карты при этом не удастся.\r\n\r\n\"А вы знали, что Бледные-Глаза умеет петь?\" - вдруг сказал Эхлиэль ко всеобщему удивлению.\r\n\r\n\"Шутишь?\" - изумленно спросила Захария.\r\n\r\n\"Нет, серьезно, он поет куда лучше многих бардов, - в кои-то веки искренне ответил Эхлиэль. – Поверь, я удивлен не меньше вас. Я даже не знал, что аргониане умеют издавать подобные звуки, не говоря уж о том, чтобы попадать в ноты\".\r\n\r\nПри мысли о том, как застенчивый аргонианин бренчит на лютне, Касиваль рассмеялся. Он-то думал, что знает все о своих товарищах, но они всегда умудрялись удивить его. Возможно, то же самое можно было сказать и о сложившейся ситуации. Пока они на свободе, любая информация, имевшаяся у их преследователей, будет неполной.\r\n\r\nБандиты раскрыли уже немало своих карт, но, пожалуй, раскрывать всю руку было еще рановато. ",
+  "form_id": "00000839|ccbgssse055-ba_orcishscaled.esl",
+  "type": "BOOK DESC",
+  "index": null,
+  "editor_id": "ccBGSSSE055_Bookv6"
+ },
+ {
+  "original": "Hall of Wonders",
+  "string": "Зал чудес",
+  "form_id": "000104C9|DBM_CC_HallOfWonders.esp",
+  "type": "CELL FULL",
+  "index": null,
+  "editor_id": "DBMDGHallofWondersCC"
+ },
+ {
+  "original": "Alt Armors Orcish Scaled Handler",
+  "string": "Альтернативная броня: орочья чешуйчатая (служебный)",
+  "form_id": "00000804|DBM_CC_AAOrcishScaledHOWPatch.esp",
+  "type": "QUST FULL",
+  "index": null,
+  "editor_id": "DBM_CC_OrcishScaledHandler"
+ }
+]

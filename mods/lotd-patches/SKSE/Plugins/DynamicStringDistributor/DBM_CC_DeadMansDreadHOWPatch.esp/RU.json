@@ -1,0 +1,250 @@
+[
+ {
+  "original": "Scrub Clothes",
+  "string": "Ветхая одежда",
+  "form_id": "00000854|DBM_CC_DeadMansDreadHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTScrubClothes02"
+ },
+ {
+  "original": "Boatswain Clothes",
+  "string": "Одежда боцмана",
+  "form_id": "0000085B|DBM_CC_DeadMansDreadHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTBoatswainClothes03"
+ },
+ {
+  "original": "Captain Clothes",
+  "string": "Одежда капитана",
+  "form_id": "00000855|DBM_CC_DeadMansDreadHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTCaptainClothes01"
+ },
+ {
+  "original": "Blackwater Blade",
+  "string": "Клинок Черной Воды",
+  "form_id": "00000800|DBM_CC_DeadMansDreadHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTBlackwaterBlade"
+ },
+ {
+  "original": "Cyrus' Clothes",
+  "string": "Одежда Сайруса",
+  "form_id": "00000851|DBM_CC_DeadMansDreadHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTCyrusClothes"
+ },
+ {
+  "original": "Cyrus' Boots",
+  "string": "Сапоги Сайруса",
+  "form_id": "00000852|DBM_CC_DeadMansDreadHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTCyrusBoots"
+ },
+ {
+  "original": "Scrub Clothes",
+  "string": "Ветхая одежда",
+  "form_id": "00000853|DBM_CC_DeadMansDreadHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTScrubClothes01"
+ },
+ {
+  "original": "Boatswain Boots",
+  "string": "Сапоги боцмана",
+  "form_id": "0000085C|DBM_CC_DeadMansDreadHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTBoatswainBoots01"
+ },
+ {
+  "original": "Boatswain Boots",
+  "string": "Сапоги боцмана",
+  "form_id": "0000085D|DBM_CC_DeadMansDreadHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTBoatswainBoots02"
+ },
+ {
+  "original": "Captain Clothes",
+  "string": "Одежда капитана",
+  "form_id": "00000856|DBM_CC_DeadMansDreadHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTCaptainClothes02"
+ },
+ {
+  "original": "Captain Boots",
+  "string": "Сапоги капитана",
+  "form_id": "00000857|DBM_CC_DeadMansDreadHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTCaptainBoots01"
+ },
+ {
+  "original": "Captain Boots",
+  "string": "Сапоги капитана",
+  "form_id": "00000858|DBM_CC_DeadMansDreadHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTCaptainBoots02"
+ },
+ {
+  "original": "Boatswain Clothes",
+  "string": "Одежда боцмана",
+  "form_id": "00000859|DBM_CC_DeadMansDreadHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTBoatswainClothes01"
+ },
+ {
+  "original": "Boatswain Clothes",
+  "string": "Одежда боцмана",
+  "form_id": "0000085A|DBM_CC_DeadMansDreadHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTBoatswainClothes02"
+ },
+ {
+  "original": "Boatswain Boots",
+  "string": "Сапоги боцмана",
+  "form_id": "0000085E|DBM_CC_DeadMansDreadHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTBoatswainBoots03"
+ },
+ {
+  "original": "The Restless",
+  "string": "Неупокоенные",
+  "form_id": "0000085F|DBM_CC_DeadMansDreadHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTTheRestless"
+ },
+ {
+  "original": "Map to Blackbone Isle",
+  "string": "Карта к острову Черной кости",
+  "form_id": "00000860|DBM_CC_DeadMansDreadHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTBlackboneIsleMap"
+ },
+ {
+  "original": "Secrets of Blackbone Isle",
+  "string": "Тайны Острова Черной кости",
+  "form_id": "00000A8F|DBM_CC_DeadMansDreadHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_ExplorationTriggerDMD01"
+ },
+ {
+  "original": "Cyrus' Boots (replica)",
+  "string": "Сапоги Сайруса (копия)",
+  "form_id": "00000863|DBM_CC_DeadMansDreadHOWPatch.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "DBM_CC_CyrusClothesBootsREPLICA"
+ },
+ {
+  "original": "Cyrus' Clothes (replica)",
+  "string": "Одежда Сайруса (копия)",
+  "form_id": "00000864|DBM_CC_DeadMansDreadHOWPatch.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "DBM_CC_CyrusClothesREPLICA"
+ },
+ {
+  "original": "Celeste's Note",
+  "string": "Записка Селесты",
+  "form_id": "000008E8|ccbgssse031-advcyrus.esm",
+  "type": "BOOK FULL",
+  "index": null,
+  "editor_id": "ccBGSSSE031_BlackwaterNote"
+ },
+ {
+  "original": "<font face=\"$HandwrittenFont\">\r\nI heard there's a grand old ship over at Blackbone Isle. Might even have more loot than the Golden Galleon, the one the old Imperial used to tell stories about when I first joined up.\r\n\r\nFrom what I hear, the isle ain't too far from here. We could probably steal a boat from the wrecks up north.\r\n\r\nSo the crew asks me, how we gonna find Blackbone Isle if we don't know where it is?\r\n\r\nAnd I tell them, shut up, I'm not sharing the location with anyone.\r\n</font>",
+  "string": "<font face=\"$HandwrittenFont\">\r\nГоворят, у Острова Черной кости стоит большой старый корабль. Там добра может оказаться даже больше, чем на Золотом галеоне - том самом, про который рассказывал старый имперец, когда я только к вам прибился.\r\n\r\nСлыхал я, что остров отсюда недалеко. Можно, наверное, угнать лодку из обломков на севере.\r\n\r\nТак вот, команда меня спрашивает: как мы найдем Остров Черной кости, если не знаем, где он?\r\n\r\nА я им: заткнитесь, я никому не скажу, где он.\r\n</font>",
+  "form_id": "000008E8|ccbgssse031-advcyrus.esm",
+  "type": "BOOK DESC",
+  "index": null,
+  "editor_id": "ccBGSSSE031_BlackwaterNote"
+ },
+ {
+  "original": "Brinehammer Captain's Note",
+  "string": "Записка капитана \"Соленого молота\"",
+  "form_id": "0000086F|DBM_CC_DeadMansDreadHOWPatch.esp",
+  "type": "BOOK FULL",
+  "index": null,
+  "editor_id": "DBM_CC_BrinehammerNote"
+ },
+ {
+  "original": "<font face=\"$HandwrittenFont\">\r\nTo any who happens upon the wreckage of my ship, hear my story and heed my warning.\r\n\r\nWe have been searching the Sea of Ghosts for years, and never even found a hint at the location of the fabled Blackbone Isle.\r\n\r\nI was on the verge of giving up on my dream when I met a captain on a routine stop in Dawnstar. They sold me what he claimed to be the sword of Cyrus and with it a map to the location of Blackbone Isle, costing me the majority of my wealth and that of my crew. The map and the sword unfortunately turned out to be a fake, I should have known better than to trust someone of his kind, but my dream had left me blind to the deception.\r\n\r\nI left the book that started this journey in the Winking Skeever in Solitude so I would no longer be tempted to scour its pages for clues.\r\n\r\nWe started with nothing, and we ended with nothing, and so I told my crew to go ashore. I plan to run the ship into the rocks, for there is nothing left for me in this world and I wish not to turn to piracy for my survival. Do not spare me a thought, reader, for I now sleep amongst the waves where I belong.\r\n\r\nIf you read the book, do not dream of finding the treasure, for it is a fools errand and will surely lead you to lose everything you own.\r\n</font>",
+  "string": "<font face=\"$HandwrittenFont\">\r\nТому, кто наткнется на обломки моего корабля: выслушай мою историю и внемли моему предостережению.\r\n\r\nМы годами бороздили Море Призраков, но так и не нашли даже намека на то, где лежит легендарный Остров Черной кости.\r\n\r\nЯ уже готов был распрощаться с мечтой, когда во время обычной стоянки в Данстаре повстречал одного капитана. Он продал мне клинок, который выдавал за меч Сайруса, а вместе с ним - карту, указывающую путь к Острову Черной кости. Это обошлось мне в большую часть моего состояния и состояния моей команды. Увы, и карта, и меч оказались подделкой. Мне следовало знать, что таким, как он, доверять нельзя, но мечта ослепила меня, и я не разглядел обмана.\r\n\r\nКнигу, с которой началось это путешествие, я оставил в \"Смеющейся крысе\" в Солитьюде, чтобы больше не поддаваться искушению искать подсказки на ее страницах.\r\n\r\nМы начинали ни с чем и ни с чем остались, поэтому я велел команде сойти на берег. Я направлю корабль на скалы, ибо в этом мире для меня ничего не осталось, а пиратствовать ради выживания я не желаю. Не трать на меня ни единой мысли, читатель, ибо теперь я сплю среди волн, где мне и место.\r\n\r\nЕсли прочтешь ту книгу, не мечтай найти сокровище: это затея для глупцов, и она наверняка лишит тебя всего, что у тебя есть.\r\n</font>",
+  "form_id": "0000086F|DBM_CC_DeadMansDreadHOWPatch.esp",
+  "type": "BOOK DESC",
+  "index": null,
+  "editor_id": "DBM_CC_BrinehammerNote"
+ },
+ {
+  "original": "Blackwater Blade (replica)",
+  "string": "Клинок Черной Воды (копия)",
+  "form_id": "00000814|DBM_CC_DeadMansDreadHOWPatch.esp",
+  "type": "WEAP FULL",
+  "index": null,
+  "editor_id": "DBM_CC_BlackwaterBladeREPLICA"
+ },
+ {
+  "original": "Cyrus' Sabre",
+  "string": "Сабля Сайруса",
+  "form_id": "00000D63|ccbgssse031-advcyrus.esm",
+  "type": "WEAP FULL",
+  "index": null,
+  "editor_id": "ccBGSSSE031_CyrusSabre"
+ },
+ {
+  "original": "You have an extra <25%> chance to deal a critical hit. Causes stagger.",
+  "string": "Имеет дополнительный <25%>-й шанс нанести критический урон. Вызывает ошеломление.",
+  "form_id": "00000D63|ccbgssse031-advcyrus.esm",
+  "type": "WEAP DESC",
+  "index": null,
+  "editor_id": "ccBGSSSE031_CyrusSabre"
+ },
+ {
+  "original": "Hall of Wonders",
+  "string": "Зал чудес",
+  "form_id": "000104C9|DBM_CC_HallOfWonders.esp",
+  "type": "CELL FULL",
+  "index": null,
+  "editor_id": "DBMDGHallofWondersCC"
+ },
+ {
+  "original": "Blackbone Isle Grotto",
+  "string": "Остров Черной кости - Грот",
+  "form_id": "00000818|ccbgssse031-advcyrus.esm",
+  "type": "CELL FULL",
+  "index": null,
+  "editor_id": "ccBGSSSE031Interior01"
+ },
+ {
+  "original": "Blackbone Isle",
+  "string": "Остров Черной кости",
+  "form_id": "00000F6C|ccbgssse031-advcyrus.esm",
+  "type": "WRLD FULL",
+  "index": null,
+  "editor_id": "ccBGSSSE031BlackboneIsle"
+ },
+ {
+  "original": "Dead Man's Dread Handler",
+  "string": "Ужас Мертвеца (служебный)",
+  "form_id": "00000806|DBM_CC_DeadMansDreadHOWPatch.esp",
+  "type": "QUST FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DeadMansDreadHandler"
+ }
+]

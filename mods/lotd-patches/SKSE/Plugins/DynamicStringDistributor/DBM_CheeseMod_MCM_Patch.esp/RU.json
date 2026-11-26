@@ -1,0 +1,18 @@
+[
+ {
+  "original": "Cheesemod",
+  "string": "Сырный мод",
+  "form_id": "00000A1E|DBM_CheeseMod_MCM_Patch.esp",
+  "type": "CONT FULL",
+  "index": null,
+  "editor_id": "DBM_CheatCrateCheesemod"
+ },
+ {
+  "original": "Cheesemod",
+  "string": "Сырный мод",
+  "form_id": "00000A1F|DBM_CheeseMod_MCM_Patch.esp",
+  "type": "QUST FULL",
+  "index": null,
+  "editor_id": "DBM_Cheesemod"
+ }
+]

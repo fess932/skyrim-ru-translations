@@ -1,0 +1,114 @@
+[
+ {
+  "original": "Gray Cowl of Nocturnal (replica)",
+  "string": "Серый капюшон Ноктюрнал (копия)",
+  "form_id": "00000808|DBM_TheGrayCowlofNocturnal_ReplicaPatch.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "manny_GF_Armor_GrayCowlREPLICA"
+ },
+ {
+  "original": "Boots of Springheel Jak (replica)",
+  "string": "Сапоги Быстроногого Джека (копия)",
+  "form_id": "0000080B|DBM_TheGrayCowlofNocturnal_ReplicaPatch.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "manny_GF_Armor_BootsofSpringheelJakREPLICA"
+ },
+ {
+  "original": "Ancient Redguard Boots (replica)",
+  "string": "Древние редгардские сапоги (копия)",
+  "form_id": "0000080C|DBM_TheGrayCowlofNocturnal_ReplicaPatch.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "manny_GF_Armor_AncientRedguardBootsREPLICA"
+ },
+ {
+  "original": "Ancient Redguard Clothes (replica)",
+  "string": "Древняя редгардская одежда (копия)",
+  "form_id": "0000080D|DBM_TheGrayCowlofNocturnal_ReplicaPatch.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "manny_GF_Armor_AncientRedguardClothesREPLICA"
+ },
+ {
+  "original": "Ancient Redguard Hood (replica)",
+  "string": "Древний редгардский капюшон (копия)",
+  "form_id": "0000080E|DBM_TheGrayCowlofNocturnal_ReplicaPatch.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "manny_GF_Armor_AncientRedguardHoodREPLICA"
+ },
+ {
+  "original": "Right Eye of Coldharbour (replica)",
+  "string": "Правый глаз Хладной гавани (копия)",
+  "form_id": "0000080F|DBM_TheGrayCowlofNocturnal_ReplicaPatch.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "manny_GF_Amulet_RightEyeOfColdharbourREPLICA"
+ },
+ {
+  "original": "Left Eye of Coldharbour (replica)",
+  "string": "Левый глаз Хладной гавани (копия)",
+  "form_id": "00000810|DBM_TheGrayCowlofNocturnal_ReplicaPatch.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "manny_GF_Amulet_LeftEyeOfColdharbourREPLICA"
+ },
+ {
+  "original": "Eagle Eye (replica)",
+  "string": "Орлиный взор (копия)",
+  "form_id": "00000811|DBM_TheGrayCowlofNocturnal_ReplicaPatch.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "manny_GF_Amulet_EagleEyeREPLICA"
+ },
+ {
+  "original": "Alliance of Ancestral Cheetahs (replica)",
+  "string": "Союз племеных гепардов (копия)",
+  "form_id": "00000812|DBM_TheGrayCowlofNocturnal_ReplicaPatch.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "manny_GF_Amulet_AllianceOfAncestralCheetahsREPLICA"
+ },
+ {
+  "original": "Yokuda (replica)",
+  "string": "Йокуда (копия)",
+  "form_id": "00000831|DBM_TheGrayCowlofNocturnal_ReplicaPatch.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "manny_GF_Armor_YokudaREPLICA"
+ },
+ {
+  "original": "Bow of the Forgotten Chaos (replica)",
+  "string": "Лук Забытого Хаоса (копия)",
+  "form_id": "0000081B|DBM_TheGrayCowlofNocturnal_ReplicaPatch.esp",
+  "type": "WEAP FULL",
+  "index": null,
+  "editor_id": "manny_GF_Weapon_ForgottenChaosBowREPLICA"
+ },
+ {
+  "original": "Ornate Scimitar (replica)",
+  "string": "Узорчатый скимитар (копия)",
+  "form_id": "0000081C|DBM_TheGrayCowlofNocturnal_ReplicaPatch.esp",
+  "type": "WEAP FULL",
+  "index": null,
+  "editor_id": "manny_GF_Weapon_GoldenScimitarREPLICA"
+ },
+ {
+  "original": "Ocato's Dagger (replica)",
+  "string": "Кинжал Окато (копия)",
+  "form_id": "0000081D|DBM_TheGrayCowlofNocturnal_ReplicaPatch.esp",
+  "type": "WEAP FULL",
+  "index": null,
+  "editor_id": "manny_GF_Weapon_OcatoREPLICA"
+ },
+ {
+  "original": "The Withdrawal (replica)",
+  "string": "Изъятие (копия)",
+  "form_id": "0000081E|DBM_TheGrayCowlofNocturnal_ReplicaPatch.esp",
+  "type": "WEAP FULL",
+  "index": null,
+  "editor_id": "manny_GF_Weapon_TheWithdrawalREPLICA"
+ }
+]

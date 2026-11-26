@@ -1,0 +1,18 @@
+[
+ {
+  "original": "The Curators Companion - Netch Leather Armor",
+  "string": "Помощник куратора - Броня из шкуры нетча",
+  "form_id": "00000803|LOTD_TCC_NetchLeatherArmor.esp",
+  "type": "QUST FULL",
+  "index": null,
+  "editor_id": "TCC_SM_NetchLeatherArmor"
+ },
+ {
+  "original": "<font color='#<Alias=ColourAlias>'>The Curators Companion: Mod Complete (Netch Leather Armor)</font>",
+  "string": "<font color='#<Alias=ColourAlias>'>Компаньон куратора: мод завершен (Броня из шкуры нетча)</font>",
+  "form_id": "00000802|LOTD_TCC_NetchLeatherArmor.esp",
+  "type": "MESG DESC",
+  "index": null,
+  "editor_id": "_CompleteNotification_NetchLeatherArmor"
+ }
+]

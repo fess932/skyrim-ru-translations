@@ -1,0 +1,458 @@
+[
+ {
+  "original": "Turn of the Seasons",
+  "string": "Смена сезонов",
+  "form_id": "000008BF|DBM_CC_ForgottenSeasonsHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTBookSeasons"
+ },
+ {
+  "original": "Forgotten Seasons, v1",
+  "string": "Забытые времена года, т. 1",
+  "form_id": "000008C0|DBM_CC_ForgottenSeasonsHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTBookForgotten"
+ },
+ {
+  "original": "Glowing Red Wheat",
+  "string": "Сияющая красная пшеница",
+  "form_id": "000008C1|DBM_CC_ForgottenSeasonsHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTWheatRed"
+ },
+ {
+  "original": "Dwarven Spring Visage",
+  "string": "Двемерская весенняя маска",
+  "form_id": "0000089A|DBM_CC_ForgottenSeasonsHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTVisageSpring"
+ },
+ {
+  "original": "Dwarven Autumn Visage",
+  "string": "Двемерская осенняя маска",
+  "form_id": "0000089B|DBM_CC_ForgottenSeasonsHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTVisageAutumn"
+ },
+ {
+  "original": "Dwarven Winter Visage",
+  "string": "Двемерская зимняя маска",
+  "form_id": "0000089C|DBM_CC_ForgottenSeasonsHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTVisageWinter"
+ },
+ {
+  "original": "Dwarven Crown",
+  "string": "Двемерская корона",
+  "form_id": "0000089D|DBM_CC_ForgottenSeasonsHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTCrownOpen"
+ },
+ {
+  "original": "Dwarven Crown of Spring",
+  "string": "Двемерская корона весны",
+  "form_id": "000008A0|DBM_CC_ForgottenSeasonsHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTCrownSpring"
+ },
+ {
+  "original": "Dwarven Crown of Autumn",
+  "string": "Двемерская корона осени",
+  "form_id": "000008A1|DBM_CC_ForgottenSeasonsHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTCrownAutumn"
+ },
+ {
+  "original": "Dwarven Crown of Winter",
+  "string": "Двемерская корона зимы",
+  "form_id": "000008A2|DBM_CC_ForgottenSeasonsHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTCrownWinter"
+ },
+ {
+  "original": "Ward of the Seasons",
+  "string": "Оберег времен года",
+  "form_id": "000008A3|DBM_CC_ForgottenSeasonsHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTArmorSeasons"
+ },
+ {
+  "original": "Spider Control Rod",
+  "string": "Жезл управления пауками",
+  "form_id": "000008A4|DBM_CC_ForgottenSeasonsHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTControlRod"
+ },
+ {
+  "original": "Dwarven Drone Fly",
+  "string": "Двемерская муха-дрон",
+  "form_id": "000008A5|DBM_CC_ForgottenSeasonsHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTDroneFly"
+ },
+ {
+  "original": "Dwarven Horse Back Right Leg",
+  "string": "Задняя правая нога двемерской лошади",
+  "form_id": "000008CC|DBM_CC_ForgottenSeasonsHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTHorseLegBR"
+ },
+ {
+  "original": "Vardnknd Conduit Gem",
+  "string": "Камень проводника в Варднкнде",
+  "form_id": "000008CD|DBM_CC_ForgottenSeasonsHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTConduitGemA"
+ },
+ {
+  "original": "Vardnknd Conduit Gem",
+  "string": "Камень проводника в Варднкнде",
+  "form_id": "000008CE|DBM_CC_ForgottenSeasonsHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTConduitGemB"
+ },
+ {
+  "original": "Orange-Encrusted Wheat",
+  "string": "Пшеница в рыжей корке",
+  "form_id": "000008C2|DBM_CC_ForgottenSeasonsHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTWheatOrange"
+ },
+ {
+  "original": "Off-Color Wheat",
+  "string": "Бесцветная пшеница",
+  "form_id": "000008C3|DBM_CC_ForgottenSeasonsHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTWheatYellow"
+ },
+ {
+  "original": "Sickly Green Wheat",
+  "string": "Ненатурально зеленая пшеница",
+  "form_id": "000008C4|DBM_CC_ForgottenSeasonsHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTWheatGreen"
+ },
+ {
+  "original": "White Molded Wheat",
+  "string": "Пшеница в белой плесени",
+  "form_id": "000008C5|DBM_CC_ForgottenSeasonsHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTWheatWhite"
+ },
+ {
+  "original": "Blue Luminous Wheat",
+  "string": "Голубая светящаяся пшеница",
+  "form_id": "000008C6|DBM_CC_ForgottenSeasonsHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTWheatBlue"
+ },
+ {
+  "original": "Dwarven Horse Head",
+  "string": "Голова двемерской лошади",
+  "form_id": "000008C7|DBM_CC_ForgottenSeasonsHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTHorseHead"
+ },
+ {
+  "original": "Dwarven Horse Torso",
+  "string": "Тело двемерской лошади",
+  "form_id": "000008C8|DBM_CC_ForgottenSeasonsHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTHorseTorso"
+ },
+ {
+  "original": "Dwarven Horse Front Left Leg",
+  "string": "Передняя левая нога двемерской лошади",
+  "form_id": "000008C9|DBM_CC_ForgottenSeasonsHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTHorseLegFL"
+ },
+ {
+  "original": "Dwarven Horse Front Right Leg",
+  "string": "Передняя правая нога двемерской лошади",
+  "form_id": "000008CA|DBM_CC_ForgottenSeasonsHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTHorseLegFR"
+ },
+ {
+  "original": "Dwarven Horse Back Left Leg",
+  "string": "Задняя левая нога двемерской лошади",
+  "form_id": "000008CB|DBM_CC_ForgottenSeasonsHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTHorseLegBL"
+ },
+ {
+  "original": "Vardnknd Conduit Gem",
+  "string": "Камень проводника в Варднкнде",
+  "form_id": "000008CF|DBM_CC_ForgottenSeasonsHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTConduitGemC"
+ },
+ {
+  "original": "Waterworks of Vardnknd",
+  "string": "Водопровод Варднкнда",
+  "form_id": "00000AF9|DBM_CC_ForgottenSeasonsHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_ExplorationTriggerFS01"
+ },
+ {
+  "original": "Dwarven Crown (replica)",
+  "string": "Двемерская корона (копия)",
+  "form_id": "0000085A|DBM_CC_ForgottenSeasonsHOWPatch.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "DBM_CC_ArmorCrownOpenREPLICA"
+ },
+ {
+  "original": "Ward of the Seasons",
+  "string": "Оберег времен года",
+  "form_id": "00000893|cctwbsse001-puzzledungeon.esm",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "DLCDwarvenPuzzleDungeon_BossArmor"
+ },
+ {
+  "original": "Gain attunement to the active weather type when equipped, increasing your magical resistances and potency based on the weather type attuned. Attunement can be reset by removing and re-equipping.",
+  "string": "Когда предмет надет, вы настраиваетесь на текущую погоду, что повышает сопротивление магии и силу заклинаний в зависимости от типа погоды. Чтобы сбросить настройку, снимите предмет и наденьте снова.",
+  "form_id": "00000893|cctwbsse001-puzzledungeon.esm",
+  "type": "ARMO DESC",
+  "index": null,
+  "editor_id": "DLCDwarvenPuzzleDungeon_BossArmor"
+ },
+ {
+  "original": "Ward of the Seasons (replica)",
+  "string": "Оберег времен года (копия)",
+  "form_id": "00000858|DBM_CC_ForgottenSeasonsHOWPatch.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "DBM_CC_ArmorSeasonsREPLICA"
+ },
+ {
+  "original": "Dwarven Crown of Autumn (replica)",
+  "string": "Двемерская корона осени (копия)",
+  "form_id": "00000859|DBM_CC_ForgottenSeasonsHOWPatch.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "DBM_CC_ArmorCrownAutumnREPLICA"
+ },
+ {
+  "original": "Dwarven Crown of Spring (replica)",
+  "string": "Двемерская корона весны (копия)",
+  "form_id": "0000085B|DBM_CC_ForgottenSeasonsHOWPatch.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "DBM_CC_ArmorCrownSpringREPLICA"
+ },
+ {
+  "original": "Dwarven Crown of Winter (replica)",
+  "string": "Двемерская корона зимы (копия)",
+  "form_id": "0000085C|DBM_CC_ForgottenSeasonsHOWPatch.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "DBM_CC_ArmorCrownWinterREPLICA"
+ },
+ {
+  "original": "Dwarven Autumn Visage (replica)",
+  "string": "Двемерская осенняя маска (копия)",
+  "form_id": "0000085D|DBM_CC_ForgottenSeasonsHOWPatch.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "DBM_CC_ArmorMaskAutumnREPLICA"
+ },
+ {
+  "original": "Dwarven Spring Visage (replica)",
+  "string": "Двемерская весенняя маска (копия)",
+  "form_id": "0000085E|DBM_CC_ForgottenSeasonsHOWPatch.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "DBM_CC_ArmorMaskSpringREPLICA"
+ },
+ {
+  "original": "Dwarven Winter Visage (replica)",
+  "string": "Двемерская зимняя маска (копия)",
+  "form_id": "0000085F|DBM_CC_ForgottenSeasonsHOWPatch.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "DBM_CC_ArmorMaskWinterREPLICA"
+ },
+ {
+  "original": "Dwarven Horse Head (replica)",
+  "string": "Голова двемерской лошади (копия)",
+  "form_id": "00000852|DBM_CC_ForgottenSeasonsHOWPatch.esp",
+  "type": "MISC FULL",
+  "index": null,
+  "editor_id": "DBM_CC_HorsePart_HeadREPLICA"
+ },
+ {
+  "original": "Dwarven Horse Left Back Leg (replica)",
+  "string": "Левая задняя нога двемерской лошади (копия)",
+  "form_id": "00000853|DBM_CC_ForgottenSeasonsHOWPatch.esp",
+  "type": "MISC FULL",
+  "index": null,
+  "editor_id": "DBM_CC_HorsePart_LeftBackLegREPLICA"
+ },
+ {
+  "original": "Dwarven Horse Left Front Leg (replica)",
+  "string": "Левая передняя нога двемерской лошади (копия)",
+  "form_id": "00000854|DBM_CC_ForgottenSeasonsHOWPatch.esp",
+  "type": "MISC FULL",
+  "index": null,
+  "editor_id": "DBM_CC_HorsePart_LeftFrontLegREPLICA"
+ },
+ {
+  "original": "Dwarven Horse Right Back Leg (replica)",
+  "string": "Правая задняя нога двемерской лошади (копия)",
+  "form_id": "00000855|DBM_CC_ForgottenSeasonsHOWPatch.esp",
+  "type": "MISC FULL",
+  "index": null,
+  "editor_id": "DBM_CC_HorsePart_RightBackLegREPLICA"
+ },
+ {
+  "original": "Dwarven Horse Right Front Leg (replica)",
+  "string": "Правая передняя нога двемерской лошади (копия)",
+  "form_id": "00000856|DBM_CC_ForgottenSeasonsHOWPatch.esp",
+  "type": "MISC FULL",
+  "index": null,
+  "editor_id": "DBM_CC_HorsePart_RightFrontLegREPLICA"
+ },
+ {
+  "original": "Dwarven Horse Torso (replica)",
+  "string": "Тело двемерской лошади (копия)",
+  "form_id": "00000857|DBM_CC_ForgottenSeasonsHOWPatch.esp",
+  "type": "MISC FULL",
+  "index": null,
+  "editor_id": "DBM_CC_HorsePart_TorsoREPLICA"
+ },
+ {
+  "original": "Turn of the Seasons (replica)",
+  "string": "Смена сезонов (копия)",
+  "form_id": "00000860|DBM_CC_ForgottenSeasonsHOWPatch.esp",
+  "type": "MISC FULL",
+  "index": null,
+  "editor_id": "DBM_CC_SeasonsBookREPLICA"
+ },
+ {
+  "original": "Dwarven Drone Fly (replica)",
+  "string": "Двемерская муха-дрон (копия)",
+  "form_id": "00000862|DBM_CC_ForgottenSeasonsHOWPatch.esp",
+  "type": "MISC FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DroneFlyREPLICA"
+ },
+ {
+  "original": "White Molded Wheat (replica)",
+  "string": "Пшеница в белой плесени (копия)",
+  "form_id": "000009F5|DBM_CC_ForgottenSeasonsHOWPatch.esp",
+  "type": "MISC FULL",
+  "index": null,
+  "editor_id": "DBM_CC_BadWheatItem2REPLICA"
+ },
+ {
+  "original": "Blue Luminous Wheat (replica)",
+  "string": "Голубая светящаяся пшеница (копия)",
+  "form_id": "000009F6|DBM_CC_ForgottenSeasonsHOWPatch.esp",
+  "type": "MISC FULL",
+  "index": null,
+  "editor_id": "DBM_CC_BadWheatItem3REPLICA"
+ },
+ {
+  "original": "Orange-Encrusted Wheat (replica)",
+  "string": "Пшеница в рыжей корке (копия)",
+  "form_id": "000009F7|DBM_CC_ForgottenSeasonsHOWPatch.esp",
+  "type": "MISC FULL",
+  "index": null,
+  "editor_id": "DBM_CC_BadWheatItem4REPLICA"
+ },
+ {
+  "original": "Off-Color Wheat (replica)",
+  "string": "Бесцветная пшеница (копия)",
+  "form_id": "000009F8|DBM_CC_ForgottenSeasonsHOWPatch.esp",
+  "type": "MISC FULL",
+  "index": null,
+  "editor_id": "DBM_CC_BadWheatItem5REPLICA"
+ },
+ {
+  "original": "Sickly Green Wheat (replica)",
+  "string": "Ненатурально зеленая пшеница (копия)",
+  "form_id": "000009F9|DBM_CC_ForgottenSeasonsHOWPatch.esp",
+  "type": "MISC FULL",
+  "index": null,
+  "editor_id": "DBM_CC_BadWheatItem6REPLICA"
+ },
+ {
+  "original": "Glowing Red Wheat (replica)",
+  "string": "Сияющая красная пшеница (копия)",
+  "form_id": "000009FA|DBM_CC_ForgottenSeasonsHOWPatch.esp",
+  "type": "MISC FULL",
+  "index": null,
+  "editor_id": "DBM_CC_BadWheatItem1REPLICA"
+ },
+ {
+  "original": "Spider Control Rod (replica)",
+  "string": "Жезл управления пауками (копия)",
+  "form_id": "00000861|DBM_CC_ForgottenSeasonsHOWPatch.esp",
+  "type": "WEAP FULL",
+  "index": null,
+  "editor_id": "DBM_CC_ControlRodREPLICA"
+ },
+ {
+  "original": "Hall of Wonders",
+  "string": "Зал чудес",
+  "form_id": "000104C9|DBM_CC_HallOfWonders.esp",
+  "type": "CELL FULL",
+  "index": null,
+  "editor_id": "DBMDGHallofWondersCC"
+ },
+ {
+  "original": "Vardnknd Gallery",
+  "string": "Галерея Варднкнда",
+  "form_id": "00001703|cctwbsse001-puzzledungeon.esm",
+  "type": "CELL FULL",
+  "index": null,
+  "editor_id": "ccTWBSSE001DwarvenPuzzleDungeon02"
+ },
+ {
+  "original": "Runoff Caverns",
+  "string": "Пещеры слива",
+  "form_id": "00000A98|cctwbsse001-puzzledungeon.esm",
+  "type": "CELL FULL",
+  "index": null,
+  "editor_id": "ccTWBSSE001DwarvenPuzzleDungeon01"
+ },
+ {
+  "original": "Forgotten Seasons Handler",
+  "string": "Забытые времена года (служебный)",
+  "form_id": "00000800|DBM_CC_ForgottenSeasonsHOWPatch.esp",
+  "type": "QUST FULL",
+  "index": null,
+  "editor_id": "DBM_ForgottenSeasonsHandler"
+ }
+]

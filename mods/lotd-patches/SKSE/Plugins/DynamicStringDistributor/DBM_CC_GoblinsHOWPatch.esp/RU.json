@@ -1,0 +1,90 @@
+[
+ {
+  "original": "Goblin Totem Staff",
+  "string": "Тотемный посох гоблина",
+  "form_id": "00000805|DBM_CC_GoblinsHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTGoblinTotemStaff"
+ },
+ {
+  "original": "Spear of Bitter Mercy",
+  "string": "Копье жестокого милосердия",
+  "form_id": "00000806|DBM_CC_GoblinsHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTSpearOfBitterMercy"
+ },
+ {
+  "original": "Goblins in Gromm's Pass",
+  "string": "Гоблины на перевале Громма",
+  "form_id": "0000082B|DBM_CC_GoblinsHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_ExplorationTriggerGob01"
+ },
+ {
+  "original": "Spear of Bitter Mercy",
+  "string": "Копье жестокого милосердия",
+  "form_id": "0000083A|DBM_CC_GoblinsHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_ExhibitSignBitterMercy"
+ },
+ {
+  "original": "Read Plaque:",
+  "string": "Прочитать табличку:",
+  "form_id": "0000083A|DBM_CC_GoblinsHOWPatch.esp",
+  "type": "ACTI RNAM",
+  "index": null,
+  "editor_id": "DBM_CC_ExhibitSignBitterMercy"
+ },
+ {
+  "original": "Blue in the Face Display",
+  "string": "Экспозиция \"До посинения\"",
+  "form_id": "00000842|DBM_CC_GoblinsHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DummyQuest01"
+ },
+ {
+  "original": "Spear of Bitter Mercy (replica)",
+  "string": "Копье жестокого милосердия (копия)",
+  "form_id": "0000080C|DBM_CC_GoblinsHOWPatch.esp",
+  "type": "WEAP FULL",
+  "index": null,
+  "editor_id": "DBM_CC_SpearOfBitterMercyREPLICA"
+ },
+ {
+  "original": "Hall of Wonders",
+  "string": "Зал чудес",
+  "form_id": "000104C9|DBM_CC_HallOfWonders.esp",
+  "type": "CELL FULL",
+  "index": null,
+  "editor_id": "DBMDGHallofWondersCC"
+ },
+ {
+  "original": "Goblins Handler",
+  "string": "Гоблины (служебный)",
+  "form_id": "00000804|DBM_CC_GoblinsHOWPatch.esp",
+  "type": "QUST FULL",
+  "index": null,
+  "editor_id": "DBM_CC_GoblinsHandler"
+ },
+ {
+  "original": "Little to nothing is known about the Spear of Bitter Mercy except that multiple spears exist and that they are said to have been forged by the Daedric Prince Mehrunes Dagon. While Dagon is credited for their creation, one such artifact is known to have become the signature weapon of his ally Hircine, and as a result, it is with Hircine, and not Dagon, that the Spear of Bitter Mercy has become most closely associated.",
+  "string": "О Копье жестокого милосердия почти ничего не известно, кроме того, что таких копий несколько и что их, по преданию, выковал даэдрический принц Мерунес Дагон. Хотя их создание приписывают Дагону, одно из этих копий стало знаменитым оружием его союзника Хирсина, и потому Копье жестокого милосердия связывают прежде всего с Хирсином, а не с Дагоном.",
+  "form_id": "00000839|DBM_CC_GoblinsHOWPatch.esp",
+  "type": "MESG DESC",
+  "index": null,
+  "editor_id": "DBM_CC_MessageBitterMercy"
+ },
+ {
+  "original": "Spear of Bitter Mercy",
+  "string": "Копье жестокого милосердия",
+  "form_id": "00000839|DBM_CC_GoblinsHOWPatch.esp",
+  "type": "MESG FULL",
+  "index": null,
+  "editor_id": "DBM_CC_MessageBitterMercy"
+ }
+]

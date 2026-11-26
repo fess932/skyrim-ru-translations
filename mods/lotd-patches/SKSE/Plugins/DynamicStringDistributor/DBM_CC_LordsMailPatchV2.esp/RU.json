@@ -1,0 +1,114 @@
+[
+ {
+  "original": "Minor Lord's Mail",
+  "string": "Малая кольчуга лорда",
+  "form_id": "00000808|ccbgssse021-lordsmail.esl",
+  "type": "MGEF FULL",
+  "index": null,
+  "editor_id": "ccBGSSSE021_LordsMailDescription"
+ },
+ {
+  "original": "Opponents in melee range have <5> points of health absorbed per second.  Increases Poison and Disease Resistance by <50>%.  Increases Magic Resistance by <15>%.",
+  "string": "Противники в ближнем бою теряют <5> ед. здоровья в секунду, которые поглощает носитель. Сопротивление ядам и болезням повышается на <50>%. Сопротивление магии повышается на <15>%.",
+  "form_id": "00000808|ccbgssse021-lordsmail.esl",
+  "type": "MGEF DNAM",
+  "index": null,
+  "editor_id": "ccBGSSSE021_LordsMailDescription"
+ },
+ {
+  "original": "Lord's Mail",
+  "string": "Кольчуга лорда",
+  "form_id": "00000804|DBM_CC_LordsMailPatchV2.esp",
+  "type": "MGEF FULL",
+  "index": null,
+  "editor_id": "DBM_CC_LordsMailDescriptionMajor"
+ },
+ {
+  "original": "Opponents in melee range have <10> points of health absorbed per second.  Increases Poison and Disease Resistance by <100>%.  Increases Magic Resistance by <30>%.",
+  "string": "Противники в ближнем бою теряют <10> ед. здоровья в секунду, которые поглощает носитель. Сопротивление ядам и болезням повышается на <100>%. Сопротивление магии повышается на <30>%.",
+  "form_id": "00000804|DBM_CC_LordsMailPatchV2.esp",
+  "type": "MGEF DNAM",
+  "index": null,
+  "editor_id": "DBM_CC_LordsMailDescriptionMajor"
+ },
+ {
+  "original": "Resist Disease",
+  "string": "Сопротивление болезням",
+  "form_id": "00000805|DBM_CC_LordsMailPatchV2.esp",
+  "type": "MGEF FULL",
+  "index": null,
+  "editor_id": "ccBGSSSE021_EnchResistDiseaseConstantSelf"
+ },
+ {
+  "original": "Increases Disease Resistance by <mag>%.",
+  "string": "Увеличивает сопротивление болезням на <mag>%.",
+  "form_id": "00000805|DBM_CC_LordsMailPatchV2.esp",
+  "type": "MGEF DNAM",
+  "index": null,
+  "editor_id": "ccBGSSSE021_EnchResistDiseaseConstantSelf"
+ },
+ {
+  "original": "Minor Kynareth's Fold",
+  "string": "Малые Объятья Кинарет",
+  "form_id": "00000803|ccbgssse021-lordsmail.esl",
+  "type": "ENCH FULL",
+  "index": null,
+  "editor_id": "ccBGSSSE021_ArmorAbsorbHealthCloak_Ench"
+ },
+ {
+  "original": "Lord's Mail (replica) (Cursed)",
+  "string": "Кольчуга лорда (копия) (проклята)",
+  "form_id": "00000804|ccbgssse021-lordsmail.esl",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "ccBGSSSE021LordsMail_Cursed"
+ },
+ {
+  "original": "Minor Lord's Mail",
+  "string": "Малая кольчуга лорда",
+  "form_id": "00000D63|ccbgssse021-lordsmail.esl",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "ccBGSSSE021LordsMail"
+ },
+ {
+  "original": "Opponents in melee range have <5> points of health absorbed per second.  Increases Poison and Disease Resistance by <50>%.  Increases Magic Resistance by <15>%.",
+  "string": "Противники в ближнем бою теряют <5> ед. здоровья в секунду, которые поглощает носитель. Сопротивление ядам и болезням повышается на <50>%. Сопротивление магии повышается на <15>%.",
+  "form_id": "00000D63|ccbgssse021-lordsmail.esl",
+  "type": "ARMO DESC",
+  "index": null,
+  "editor_id": "ccBGSSSE021LordsMail"
+ },
+ {
+  "original": "Majid - Please Read",
+  "string": "Маджид – прочитай, пожалуйста",
+  "form_id": "00000839|ccbgssse021-lordsmail.esl",
+  "type": "BOOK FULL",
+  "index": null,
+  "editor_id": "ccBGSSSE021_ChestArmorNote"
+ },
+ {
+  "original": "<font face=\"$HandwrittenFont\" size=\"16\">\r\nMajid,\r\n\r\nAs we discussed, this armor may be a replica, but it is still extremely valuable.  Please protect it at all costs.  You and your men should sleep in shifts in order to prevent any surprises, and dispose of anyone you do not recognize.  We cannot be found out.\r\n\r\nThe buyer will be traveling to meet you in the coming days.  We stand to make a small fortune, and you and your men will get the proper cut of the profits, as agreed.  The loss of such an artifact would bring disgrace to the Empire, and we should all be proud to be a part of scamming them out of their reserves on top of that.\r\n\r\nPlease be aware, it is extremely important that you do not put this armor on.  I did not believe the stories, but when I put it on I was overcome with an uneasy fatigue.  Do not tell the prospective buyer about this lest they change their minds.  Let them seek out Kynareth's blessing themselves.\r\n</font>",
+  "string": "<font face=\"$HandwrittenFont\" size=\"16\">\r\nМаджид,\r\n\r\nКак мы и договаривались: пусть эта броня - всего лишь копия, она все равно чрезвычайно ценна. Береги ее любой ценой. Вы с людьми должны спать посменно, чтобы не допустить неожиданностей, а от любого незнакомца избавляйтесь. Нас не должны раскрыть.\r\n\r\nПокупатель отправится к вам на встречу в ближайшие дни. Мы можем сколотить небольшое состояние, и ты со своими людьми получишь причитающуюся долю прибыли, как и условлено. Утрата такого артефакта опозорит Империю, а мы вдобавок выманим у нее часть казны - этим можно только гордиться.\r\n\r\nИ учти: ни в коем случае не надевай эту броню. Я не верил историям, но когда надел ее, меня охватила тягостная усталость. Не говори об этом покупателю, а то еще передумает. Пусть сам ищет Благословение Кинарет.\r\n</font>",
+  "form_id": "00000839|ccbgssse021-lordsmail.esl",
+  "type": "BOOK DESC",
+  "index": null,
+  "editor_id": "ccBGSSSE021_ChestArmorNote"
+ },
+ {
+  "original": "Populate Alt With Lord's Mail",
+  "string": "Добавление Кольчуги лорда в альтернативы",
+  "form_id": "0000080A|DBM_CC_LordsMailPatchV2.esp",
+  "type": "QUST FULL",
+  "index": null,
+  "editor_id": "DBM_CC_AddLordsMail"
+ },
+ {
+  "original": "The cursed Lord's Mail replica has been cleansed and blessed by Kynareth",
+  "string": "Проклятая копия Кольчуги лорда очищена и благословлена Кинарет",
+  "form_id": "00000814|ccbgssse021-lordsmail.esl",
+  "type": "MESG DESC",
+  "index": null,
+  "editor_id": "ccBGSSSE021_MessageCleanseSuccess"
+ }
+]

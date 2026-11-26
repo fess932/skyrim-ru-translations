@@ -1,0 +1,42 @@
+[
+ {
+  "original": "Brinehammer Captain's Note",
+  "string": "Записка капитана \"Соленого молота\"",
+  "form_id": "0000086F|DBM_CC_DeadMansDreadHOWPatch.esp",
+  "type": "BOOK FULL",
+  "index": null,
+  "editor_id": "DBM_CC_BrinehammerNote"
+ },
+ {
+  "original": "<font face=\"$HandwrittenFont\">\r\nTo any who happens upon the wreckage of my ship, hear my story and heed my warning.\r\n\r\nWe have been searching the Sea of Ghosts for years, and never even found a hint at the location of the fabled Blackbone Isle.\r\n\r\nI was on the verge of giving up on my dream when I met a captain by the name of Rein on a routine stop in Dawnstar. They sold me what he claimed to be the sword of Cyrus and with it a map to the location of Blackbone Isle, costing me the majority of my wealth and that of my crew. The map and the sword unfortunately turned out to be a fake, I should have known better than to trust someone of his kind, but my dream had left me blind to the deception.\r\n\r\nI left the book that started this journey in the Winking Skeever in Solitude so I would no longer be tempted to scour its pages for clues.\r\n\r\nWe started with nothing, and we ended with nothing, and so I told my crew to go ashore. I plan to run the ship into the rocks, for there is nothing left for me in this world and I wish not to turn to piracy for my survival. Do not spare me a thought, reader, for I now sleep amongst the waves where I belong.\r\n\r\nIf you read the book, do not dream of finding the treasure, for it is a fools errand and will surely lead you to lose everything you own.\r\n</font>",
+  "string": "<font face=\"$HandwrittenFont\">\r\nТому, кто наткнется на обломки моего корабля: выслушай мою историю и внемли моему предостережению.\r\n\r\nМы годами прочесывали Море Призраков и так и не нашли ни малейшего намека на то, где лежит легендарный Остров Черной кости.\r\n\r\nЯ уже готов был отказаться от своей мечты, когда во время обычной стоянки в Данстаре встретил капитана по имени Рейн. Он продал мне то, что выдавал за меч Сайруса, а вместе с ним и карту к Острову Черной кости, и это стоило большей части моего состояния и состояния моей команды. Увы, и карта, и меч оказались подделкой. Не стоило доверять человеку такого сорта, но мечта ослепила меня, и обмана я не разглядел.\r\n\r\nКнигу, с которой началось это путешествие, я оставил в \"Смеющейся крысе\" в Солитьюде, чтобы меня больше не тянуло рыскать по ее страницам в поисках подсказок.\r\n\r\nМы начинали ни с чем и ни с чем остались, поэтому я велел команде сойти на берег. Я направлю корабль на скалы: в этом мире для меня ничего не осталось, а промышлять пиратством ради выживания я не желаю. Не трать на меня мыслей, читатель, ибо теперь я сплю среди волн, где мне и место.\r\n\r\nЕсли ты читал ту книгу, не мечтай найти сокровище: это дурацкая затея, и она наверняка лишит тебя всего, что у тебя есть.\r\n</font>",
+  "form_id": "0000086F|DBM_CC_DeadMansDreadHOWPatch.esp",
+  "type": "BOOK DESC",
+  "index": null,
+  "editor_id": "DBM_CC_BrinehammerNote"
+ },
+ {
+  "original": "Note to Rein",
+  "string": "Записка для Рейна",
+  "form_id": "0000086E|DBM_CC_DMD_OAPSynergy.esp",
+  "type": "BOOK FULL",
+  "index": null,
+  "editor_id": "DBM_CC_ReinNote"
+ },
+ {
+  "original": "<font face=\"$HandwrittenFont\">\r\nI found it Rein. You said I never could, but I found the location of Blackbone Isle. \r\n\r\nI found that stupid book you were always blabbering on about in the Winking Skeever too, you ask me, your old man Kevon deserved his fate for keeping the location secret.\r\n\r\nFirst, I'm taking back my blade, and then I am getting myself that ship. I hope you and your crew get wrecked in a storm for all you put me through.\r\n\r\nYou'll be glad to know I walked right passed your crew, they were all blind drunk as usual.\r\n\r\nEnjoy your replica you worthless bastard!\r\n\r\nCAPTAIN Celeste\r\n</font>",
+  "string": "<font face=\"$HandwrittenFont\">\r\nЯ нашла его, Рейн. Ты говорил, что мне никогда не найти, но я нашла, где лежит Остров Черной кости. \r\n\r\nИ ту дурацкую книгу, о которой ты вечно трепался, я тоже нашла в \"Смеющейся крысе\". Если хочешь знать мое мнение, твой старик Кевон получил по заслугам за то, что держал это место в тайне.\r\n\r\nСначала я заберу свой клинок, а потом добуду себе тот корабль. Надеюсь, вас с командой разобьет штормом за все, через что ты меня протащил.\r\n\r\nТебе будет приятно узнать, что я прошла прямо мимо твоей команды - они, как обычно, были пьяны в стельку.\r\n\r\nНаслаждайся своей копией, никчемный ублюдок!\r\n\r\nКАПИТАН Селеста\r\n</font>",
+  "form_id": "0000086E|DBM_CC_DMD_OAPSynergy.esp",
+  "type": "BOOK DESC",
+  "index": null,
+  "editor_id": "DBM_CC_ReinNote"
+ },
+ {
+  "original": "Dead Man's Dread Handler",
+  "string": "Ужас Мертвеца (служебный)",
+  "form_id": "00000806|DBM_CC_DeadMansDreadHOWPatch.esp",
+  "type": "QUST FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DeadMansDreadHandler"
+ }
+]

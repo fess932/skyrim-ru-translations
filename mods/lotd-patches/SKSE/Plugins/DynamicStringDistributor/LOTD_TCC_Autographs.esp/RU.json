@@ -1,0 +1,18 @@
+[
+ {
+  "original": "Autographs of Skyrim TCC Patch Handler",
+  "string": "Патч Помощника куратора для Autographs of Skyrim (служебный)",
+  "form_id": "00000806|LOTD_TCC_Autographs.esp",
+  "type": "QUST FULL",
+  "index": null,
+  "editor_id": "TCC_SM_Autographs"
+ },
+ {
+  "original": "<font color='#<Alias=ColourAlias>'>The Curators Companion: Mod Complete (Autographs of Skyrim)</font>",
+  "string": "<font color='#<Alias=ColourAlias>'>Компаньон куратора: Мод завершен (Автографы Скайрима)</font>",
+  "form_id": "00000805|LOTD_TCC_Autographs.esp",
+  "type": "MESG DESC",
+  "index": null,
+  "editor_id": "_CompleteNotification_Autographs"
+ }
+]

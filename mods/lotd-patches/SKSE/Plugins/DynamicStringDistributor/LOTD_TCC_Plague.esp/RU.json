@@ -1,0 +1,18 @@
+[
+ {
+  "original": "The Curators Companion - Plague of the Dead",
+  "string": "Помощник куратора - Чума мертвецов",
+  "form_id": "00000803|LOTD_TCC_Plague.esp",
+  "type": "QUST FULL",
+  "index": null,
+  "editor_id": "TCC_SM_Plague"
+ },
+ {
+  "original": "<font color='#<Alias=ColourAlias>'>The Curators Companion: Mod Complete (Plague of the Dead)</font>",
+  "string": "<font color='#<Alias=ColourAlias>'>Компаньон куратора: мод завершен (Чума мертвецов)</font>",
+  "form_id": "00000802|LOTD_TCC_Plague.esp",
+  "type": "MESG DESC",
+  "index": null,
+  "editor_id": "_CompleteNotification_Plague"
+ }
+]

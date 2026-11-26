@@ -1,0 +1,18 @@
+[
+ {
+  "original": "Heavy Armory Items",
+  "string": "Предметы из Heavy Armory",
+  "form_id": "000008B8|DBM_HA_Patch.esp",
+  "type": "CONT FULL",
+  "index": null,
+  "editor_id": "DBM_CheatCrateHeavyArmory"
+ },
+ {
+  "original": "Heavy Armory Handler",
+  "string": "Heavy Armory (служебный)",
+  "form_id": "000008B7|DBM_HA_Patch.esp",
+  "type": "QUST FULL",
+  "index": null,
+  "editor_id": "DBM_SupportedModHeavyArmory"
+ }
+]

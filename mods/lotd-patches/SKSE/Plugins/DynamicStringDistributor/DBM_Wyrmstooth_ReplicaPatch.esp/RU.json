@@ -1,0 +1,122 @@
+[
+ {
+  "original": "Gauntlets of Dentistry (replica)",
+  "string": "Перчатки зубного врача (копия)",
+  "form_id": "00000801|DBM_Wyrmstooth_ReplicaPatch.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "WTArmorBazrobGauntletsREPLICA"
+ },
+ {
+  "original": "Suleyk (replica)",
+  "string": "Сулейк (копия)",
+  "form_id": "00000805|DBM_Wyrmstooth_ReplicaPatch.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "WTDragonPriestHelmSuleykREPLICA"
+ },
+ {
+  "original": "Wagon Shield (replica)",
+  "string": "Сводчатый щит (копия)",
+  "form_id": "00000829|DBM_Wyrmstooth_ReplicaPatch.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "WTArmorWagonShieldREPLICA"
+ },
+ {
+  "original": "Shipwheel Shield (replica)",
+  "string": "Круглый корабельный щит (копия)",
+  "form_id": "0000082C|DBM_Wyrmstooth_ReplicaPatch.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "WTArmorShipwheelShieldREPLICA"
+ },
+ {
+  "original": "Bladed Broom (replica)",
+  "string": "Заточенный ракитник (копия)",
+  "form_id": "00000802|DBM_Wyrmstooth_ReplicaPatch.esp",
+  "type": "WEAP FULL",
+  "index": null,
+  "editor_id": "WTBladedBroomREPLICA"
+ },
+ {
+  "original": "Bloodletter (replica)",
+  "string": "Кровопускатель (копия)",
+  "form_id": "00000803|DBM_Wyrmstooth_ReplicaPatch.esp",
+  "type": "WEAP FULL",
+  "index": null,
+  "editor_id": "WTBloodletterDaggerREPLICA"
+ },
+ {
+  "original": "Chaoswielder (replica)",
+  "string": "Владелец Хаоса (копия)",
+  "form_id": "00000804|DBM_Wyrmstooth_ReplicaPatch.esp",
+  "type": "WEAP FULL",
+  "index": null,
+  "editor_id": "WTChaoswielderREPLICA"
+ },
+ {
+  "original": "Giant Club (replica)",
+  "string": "Дубина великана (копия)",
+  "form_id": "00000806|DBM_Wyrmstooth_ReplicaPatch.esp",
+  "type": "WEAP FULL",
+  "index": null,
+  "editor_id": "WTGiantClubREPLICA"
+ },
+ {
+  "original": "Eyegouger (replica)",
+  "string": "Глазокол (копия)",
+  "form_id": "00000807|DBM_Wyrmstooth_ReplicaPatch.esp",
+  "type": "WEAP FULL",
+  "index": null,
+  "editor_id": "WTKitchenOverlordForkREPLICA"
+ },
+ {
+  "original": "Dragonslayer (replica)",
+  "string": "Драконоборец (копия)",
+  "form_id": "00000808|DBM_Wyrmstooth_ReplicaPatch.esp",
+  "type": "WEAP FULL",
+  "index": null,
+  "editor_id": "WTKitchenOverlordKnifeREPLICA"
+ },
+ {
+  "original": "Severed Leg (replica)",
+  "string": "Оторванная нога (копия)",
+  "form_id": "00000809|DBM_Wyrmstooth_ReplicaPatch.esp",
+  "type": "WEAP FULL",
+  "index": null,
+  "editor_id": "WTSeveredLegREPLICA"
+ },
+ {
+  "original": "Staff of Malentis (replica)",
+  "string": "Посох Малентиса (копия)",
+  "form_id": "0000080A|DBM_Wyrmstooth_ReplicaPatch.esp",
+  "type": "WEAP FULL",
+  "index": null,
+  "editor_id": "WTStaffMalentisREPLICA"
+ },
+ {
+  "original": "Dwarven Paralysis Rod (replica)",
+  "string": "Двемерский парализующий жезл (копия)",
+  "form_id": "0000080B|DBM_Wyrmstooth_ReplicaPatch.esp",
+  "type": "WEAP FULL",
+  "index": null,
+  "editor_id": "WTStaffParalysisREPLICA"
+ },
+ {
+  "original": "Vulom's Staff (replica)",
+  "string": "Посох Вулома (копия)",
+  "form_id": "0000080C|DBM_Wyrmstooth_ReplicaPatch.esp",
+  "type": "WEAP FULL",
+  "index": null,
+  "editor_id": "WTStaffVulomREPLICA"
+ },
+ {
+  "original": "Alka's Staff (replica)",
+  "string": "Посох Алки (копия)",
+  "form_id": "0000080D|DBM_Wyrmstooth_ReplicaPatch.esp",
+  "type": "WEAP FULL",
+  "index": null,
+  "editor_id": "WTAlkaStaffREPLICA"
+ }
+]

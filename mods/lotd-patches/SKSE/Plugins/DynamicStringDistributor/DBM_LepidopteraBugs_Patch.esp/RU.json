@@ -1,0 +1,26 @@
+[
+ {
+  "original": "Insects (more)",
+  "string": "Насекомые (еще)",
+  "form_id": "0000001B|DBM_LepidopteraBugs_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTBugs2"
+ },
+ {
+  "original": "Display",
+  "string": "Выставить",
+  "form_id": "0000001B|DBM_LepidopteraBugs_Patch.esp",
+  "type": "ACTI RNAM",
+  "index": null,
+  "editor_id": "DBM_DISPACTBugs2"
+ },
+ {
+  "original": " Lepidoptera Butterflies and Moths",
+  "string": " Чешуекрылые: бабочки и мотыльки",
+  "form_id": "00000019|DBM_LepidopteraBugs_Patch.esp",
+  "type": "CONT FULL",
+  "index": null,
+  "editor_id": "DBM_CheatCrateNSBugs"
+ }
+]

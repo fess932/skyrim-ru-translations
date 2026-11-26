@@ -1,0 +1,26 @@
+[
+ {
+  "original": "Steel-Blue Entoloma (replica)",
+  "string": "Ярко-синяя энтолома (копия)",
+  "form_id": "00000801|DBM_CC_Gob_CuriosAddon.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTSteelBlueEntomola"
+ },
+ {
+  "original": "Steel-Blue Entoloma (replica)",
+  "string": "Ярко-синяя энтолома (копия)",
+  "form_id": "00000802|DBM_CC_Gob_CuriosAddon.esp",
+  "type": "MISC FULL",
+  "index": null,
+  "editor_id": "DBM_CC_SteelBlueEntomolaREPLICA"
+ },
+ {
+  "original": "Hall of Wonders",
+  "string": "Зал чудес",
+  "form_id": "000104C9|DBM_CC_HallOfWonders.esp",
+  "type": "CELL FULL",
+  "index": null,
+  "editor_id": "DBMDGHallofWondersCC"
+ }
+]

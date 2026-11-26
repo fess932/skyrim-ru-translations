@@ -1,0 +1,362 @@
+[
+ {
+  "original": "Home Decorating Guide - Solitude",
+  "string": "Солитьюд: Каталог домашнего декора",
+  "form_id": "00000835|DBM_VanillaPlayerHomes_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_BOOKACTHouseDecorateSolitude"
+ },
+ {
+  "original": "Home Decorating Guide - Markarth",
+  "string": "Маркарт: Каталог домашнего декора",
+  "form_id": "0000084B|DBM_VanillaPlayerHomes_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_BOOKACTHouseDecorateMarkarth"
+ },
+ {
+  "original": "Home Decorating Guide - Windhelm",
+  "string": "Виндхельм: Каталог домашнего декора",
+  "form_id": "0000084C|DBM_VanillaPlayerHomes_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_BOOKACTHouseDecorateWindhelm"
+ },
+ {
+  "original": "Home Decorating Guide - Whiterun",
+  "string": "Вайтран: Каталог домашнего декора",
+  "form_id": "0000084D|DBM_VanillaPlayerHomes_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_BOOKACTHouseDecorateWhiterun"
+ },
+ {
+  "original": "Home Decorating Guide - Riften",
+  "string": "Рифтен: Каталог домашнего декора",
+  "form_id": "0000084E|DBM_VanillaPlayerHomes_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_BOOKACTHouseDecorateRiften"
+ },
+ {
+  "original": "Charter - Heljarchen Hall",
+  "string": "Купчая - Хельяркен-холл",
+  "form_id": "00000856|DBM_VanillaPlayerHomes_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_BOOKACTBYOHHouse3Deed"
+ },
+ {
+  "original": "Charter - Windstad Manor",
+  "string": "Купчая - Поместье Уиндстад",
+  "form_id": "00000857|DBM_VanillaPlayerHomes_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_BOOKACTBYOHHouse2Deed"
+ },
+ {
+  "original": "Charter - Lakeview Manor",
+  "string": "Купчая - Поместье Озерное",
+  "form_id": "00000858|DBM_VanillaPlayerHomes_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_BOOKACTBYOHHouse1Deed"
+ },
+ {
+  "original": "Beginner's Guides to Homesteading",
+  "string": "Руководства для начинающих домовладельцев",
+  "form_id": "0000085A|DBM_VanillaPlayerHomes_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_BOOKACTBYOHHouseGuide"
+ },
+ {
+  "original": "Lakeview Manor",
+  "string": "Поместье Озерное",
+  "form_id": "0000085B|DBM_VanillaPlayerHomes_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_QuestPlaqueBYOHHouse1"
+ },
+ {
+  "original": "Windstad Manor",
+  "string": "Поместье Уиндстад",
+  "form_id": "0000085C|DBM_VanillaPlayerHomes_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_QuestPlaqueBYOHHouse2"
+ },
+ {
+  "original": "Heljarchen Hall",
+  "string": "Хельяркен-холл",
+  "form_id": "0000085D|DBM_VanillaPlayerHomes_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_QuestPlaqueBYOHHouse3"
+ },
+ {
+  "original": "Honeyside",
+  "string": "Медовик",
+  "form_id": "0000085E|DBM_VanillaPlayerHomes_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_QuestPlaqueHoneyside"
+ },
+ {
+  "original": "Hjerim",
+  "string": "Хьерим",
+  "form_id": "0000085F|DBM_VanillaPlayerHomes_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_QuestPlaqueHjerim"
+ },
+ {
+  "original": "Breezehome",
+  "string": "Дом теплых ветров",
+  "form_id": "00000860|DBM_VanillaPlayerHomes_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_QuestPlaqueBreezehome"
+ },
+ {
+  "original": "Proudspire Manor",
+  "string": "Поместье Высокий шпиль",
+  "form_id": "00000861|DBM_VanillaPlayerHomes_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_QuestPlaqueProudspireManor"
+ },
+ {
+  "original": "Vlindrel Hall",
+  "string": "Влиндрел-холл",
+  "form_id": "00000862|DBM_VanillaPlayerHomes_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_QuestPlaqueVlindrelHall"
+ },
+ {
+  "original": "Severin Manor Display",
+  "string": "Экспозиция \"Поместье Северин\"",
+  "form_id": "00000863|DBM_VanillaPlayerHomes_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_QuestPlaqueSeverinManor"
+ },
+ {
+  "original": "Breezehome Display",
+  "string": "Экспозиция \"Дом теплых ветров\"",
+  "form_id": "0000088A|DBM_VanillaPlayerHomes_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DummyActBreezehomeDisplay"
+ },
+ {
+  "original": "Proudspire Manor Display",
+  "string": "Экспозиция \"Поместье Высокий шпиль\"",
+  "form_id": "0000088B|DBM_VanillaPlayerHomes_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DummyActProudspireDisplay"
+ },
+ {
+  "original": "Vlindril Hall Display",
+  "string": "Экспозиция \"Влиндрел-холл\"",
+  "form_id": "0000088C|DBM_VanillaPlayerHomes_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DummyActVlidnrilHallDisplay"
+ },
+ {
+  "original": "Honeyside Display",
+  "string": "Экспозиция \"Медовик\"",
+  "form_id": "0000088D|DBM_VanillaPlayerHomes_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DummyActHoneysideDisplay"
+ },
+ {
+  "original": "Hjerim Display",
+  "string": "Экспозиция \"Хьерим\"",
+  "form_id": "0000088E|DBM_VanillaPlayerHomes_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DummyActHjerimDisplay"
+ },
+ {
+  "original": "Lakeview Manor Display",
+  "string": "Экспозиция \"Поместье Озерное\"",
+  "form_id": "0000088F|DBM_VanillaPlayerHomes_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DummyActLakeviewManorDisplay"
+ },
+ {
+  "original": "Windstad Manor Display",
+  "string": "Экспозиция \"Поместье Уиндстад\"",
+  "form_id": "00000890|DBM_VanillaPlayerHomes_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DummyActWindstadManorDisplay"
+ },
+ {
+  "original": "Heljarchen Hall Display",
+  "string": "Экспозиция \"Хельяркен-холл\"",
+  "form_id": "00000891|DBM_VanillaPlayerHomes_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DummyActHeljarchenHallDisplay"
+ },
+ {
+  "original": "Player Homes",
+  "string": "Дома игрока",
+  "form_id": "00000847|DBM_VanillaPlayerHomes_Patch.esp",
+  "type": "QUST FULL",
+  "index": null,
+  "editor_id": "DBM_PlayerHomes"
+ },
+ {
+  "original": "Hjerim, player home in Windhelm",
+  "string": "Хьерим, дом игрока в Виндхельме",
+  "form_id": "00000878|DBM_VanillaPlayerHomes_Patch.esp",
+  "type": "MESG DESC",
+  "index": null,
+  "editor_id": "HjerimQSTMSG"
+ },
+ {
+  "original": "Hjerim",
+  "string": "Хьерим",
+  "form_id": "00000878|DBM_VanillaPlayerHomes_Patch.esp",
+  "type": "MESG FULL",
+  "index": null,
+  "editor_id": "HjerimQSTMSG"
+ },
+ {
+  "original": "Proudspire Manor, player home in Solitude",
+  "string": "Поместье Высокий шпиль, дом игрока в Солитьюде",
+  "form_id": "00000879|DBM_VanillaPlayerHomes_Patch.esp",
+  "type": "MESG DESC",
+  "index": null,
+  "editor_id": "ProudspireManorQSTMSG"
+ },
+ {
+  "original": "Proudspire Manor",
+  "string": "Поместье Высокий шпиль",
+  "form_id": "00000879|DBM_VanillaPlayerHomes_Patch.esp",
+  "type": "MESG FULL",
+  "index": null,
+  "editor_id": "ProudspireManorQSTMSG"
+ },
+ {
+  "original": "Vlindrel Hall, player home in Markarth",
+  "string": "Влиндрел-холл, дом игрока в Маркарте",
+  "form_id": "0000087A|DBM_VanillaPlayerHomes_Patch.esp",
+  "type": "MESG DESC",
+  "index": null,
+  "editor_id": "VlindrelHallQSTMSG"
+ },
+ {
+  "original": "Vlindrel Hall",
+  "string": "Влиндрел-холл",
+  "form_id": "0000087A|DBM_VanillaPlayerHomes_Patch.esp",
+  "type": "MESG FULL",
+  "index": null,
+  "editor_id": "VlindrelHallQSTMSG"
+ },
+ {
+  "original": "Severin Manor, player home in Raven Rock",
+  "string": "Поместье Северин, дом игрока в Вороньей Скале",
+  "form_id": "0000087B|DBM_VanillaPlayerHomes_Patch.esp",
+  "type": "MESG DESC",
+  "index": null,
+  "editor_id": "SeveringManorQSTMSG"
+ },
+ {
+  "original": "Severin Manor",
+  "string": "Поместье Северин",
+  "form_id": "0000087B|DBM_VanillaPlayerHomes_Patch.esp",
+  "type": "MESG FULL",
+  "index": null,
+  "editor_id": "SeveringManorQSTMSG"
+ },
+ {
+  "original": "Lakeview Manor, player home in Falkreath",
+  "string": "Поместье Озерное, дом игрока в Фолкрите",
+  "form_id": "0000087C|DBM_VanillaPlayerHomes_Patch.esp",
+  "type": "MESG DESC",
+  "index": null,
+  "editor_id": "LakeviewManorQSTMSG"
+ },
+ {
+  "original": "Lakeview Manor",
+  "string": "Поместье Озерное",
+  "form_id": "0000087C|DBM_VanillaPlayerHomes_Patch.esp",
+  "type": "MESG FULL",
+  "index": null,
+  "editor_id": "LakeviewManorQSTMSG"
+ },
+ {
+  "original": "Windstad Manor, player home in Hjaalmarch",
+  "string": "Поместье Уиндстад, дом игрока в Хьялмарке",
+  "form_id": "0000087E|DBM_VanillaPlayerHomes_Patch.esp",
+  "type": "MESG DESC",
+  "index": null,
+  "editor_id": "WindstadManorQSTMSG"
+ },
+ {
+  "original": "Windstad Manor",
+  "string": "Поместье Уиндстад",
+  "form_id": "0000087E|DBM_VanillaPlayerHomes_Patch.esp",
+  "type": "MESG FULL",
+  "index": null,
+  "editor_id": "WindstadManorQSTMSG"
+ },
+ {
+  "original": "Breezehome, player home in Whiterun",
+  "string": "Дом теплых ветров, дом игрока в Вайтране",
+  "form_id": "00000876|DBM_VanillaPlayerHomes_Patch.esp",
+  "type": "MESG DESC",
+  "index": null,
+  "editor_id": "BreezehomeQSTMSG"
+ },
+ {
+  "original": "Breezehome",
+  "string": "Дом теплых ветров",
+  "form_id": "00000876|DBM_VanillaPlayerHomes_Patch.esp",
+  "type": "MESG FULL",
+  "index": null,
+  "editor_id": "BreezehomeQSTMSG"
+ },
+ {
+  "original": "Honeyside, player home in Riften",
+  "string": "Медовик, дом игрока в Рифтене",
+  "form_id": "00000877|DBM_VanillaPlayerHomes_Patch.esp",
+  "type": "MESG DESC",
+  "index": null,
+  "editor_id": "HoneysideQSTMSG"
+ },
+ {
+  "original": "Honeyside",
+  "string": "Медовик",
+  "form_id": "00000877|DBM_VanillaPlayerHomes_Patch.esp",
+  "type": "MESG FULL",
+  "index": null,
+  "editor_id": "HoneysideQSTMSG"
+ },
+ {
+  "original": "Heljarchen Hall, player home in The Pale",
+  "string": "Хельяркен-холл, дом игрока в Белом Береге",
+  "form_id": "0000087D|DBM_VanillaPlayerHomes_Patch.esp",
+  "type": "MESG DESC",
+  "index": null,
+  "editor_id": "HeljarchenHallQSTMSG"
+ },
+ {
+  "original": "Heljarchen Hall",
+  "string": "Хельяркен-холл",
+  "form_id": "0000087D|DBM_VanillaPlayerHomes_Patch.esp",
+  "type": "MESG FULL",
+  "index": null,
+  "editor_id": "HeljarchenHallQSTMSG"
+ }
+]

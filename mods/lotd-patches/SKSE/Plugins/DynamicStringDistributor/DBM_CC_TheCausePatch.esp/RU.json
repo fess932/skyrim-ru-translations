@@ -1,0 +1,266 @@
+[
+ {
+  "original": "The Halls of Rielle",
+  "string": "Чертоги Риэль",
+  "form_id": "00000855|DBM_CC_TheCausePatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DUMMYACTRielleDummy"
+ },
+ {
+  "original": "Realm of Destruction",
+  "string": "Царство разрушения",
+  "form_id": "00000856|DBM_CC_TheCausePatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DUMMYACTDeadlandsDummy"
+ },
+ {
+  "original": "Staff of Ehlno Ede",
+  "string": "Посох Эльно-Эде",
+  "form_id": "00000857|DBM_CC_TheCausePatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTStaffEhlnoEde"
+ },
+ {
+  "original": "Ayleid Crown of Rielle",
+  "string": "Айлейдская корона Риэли",
+  "form_id": "0000086C|DBM_CC_TheCausePatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTCrownRielle"
+ },
+ {
+  "original": "Elemental Shard - Sercen",
+  "string": "Стихийный осколок - Серсен",
+  "form_id": "00000870|DBM_CC_TheCausePatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTRielleShard01Earth"
+ },
+ {
+  "original": "Elemental Shard - Nen",
+  "string": "Стихийный осколок - Нен",
+  "form_id": "00000871|DBM_CC_TheCausePatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTRielleShard02Water"
+ },
+ {
+  "original": "Elemental Shard - Wel",
+  "string": "Стихийный осколок - Вел",
+  "form_id": "00000872|DBM_CC_TheCausePatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTRielleShard03Air"
+ },
+ {
+  "original": "Elemental Shard - Alata",
+  "string": "Стихийный осколок - Алата",
+  "form_id": "00000873|DBM_CC_TheCausePatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTRielleShard04Light"
+ },
+ {
+  "original": "Great Welkynd Stone",
+  "string": "Большой велкиндский камень",
+  "form_id": "00000874|DBM_CC_TheCausePatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTGreatWelkyndStone"
+ },
+ {
+  "original": "Torment",
+  "string": "Мучение",
+  "form_id": "00000875|DBM_CC_TheCausePatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTTorment"
+ },
+ {
+  "original": "Spell Tome: Conjure Ayleid Lich (replica)",
+  "string": "Книга заклинаний: Вызов айлейдского лича (копия)",
+  "form_id": "00000879|DBM_CC_TheCausePatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTTomeAyleidLich"
+ },
+ {
+  "original": "Spell Tome: Conjure Daedric Horse (replica)",
+  "string": "Книга заклинаний: Вызов даэдрического коня (копия)",
+  "form_id": "0000087A|DBM_CC_TheCausePatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTTomeDaedricHorse"
+ },
+ {
+  "original": "Ayleid Crown of Rielle",
+  "string": "Айлейдская корона Риэли",
+  "form_id": "00000B71|ccbgssse067-daedinv.esm",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "ccBGSSSE067_AyleidCrown"
+ },
+ {
+  "original": "Ayleid Crown of Rielle (replica)",
+  "string": "Айлейдская корона Риэли (копия)",
+  "form_id": "0000086F|DBM_CC_TheCausePatch.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "DBM_CC_AyleidCrownREPLICA"
+ },
+ {
+  "original": "Spell Tome: Conjure Ayleid Lich (replica)",
+  "string": "Книга заклинаний: Вызов айлейдского лича (копия)",
+  "form_id": "00000877|DBM_CC_TheCausePatch.esp",
+  "type": "BOOK FULL",
+  "index": null,
+  "editor_id": "DBM_CC_TomeConjureAyleidLichREPLICA"
+ },
+ {
+  "original": "<font face'$HandwrittenFont'><font size='40'><p align='center'>\r\nConjure Ayleid Lich",
+  "string": "<font face'$HandwrittenFont'><font size='40'><p align='center'>\r\nВызов айлейдского лича",
+  "form_id": "00000877|DBM_CC_TheCausePatch.esp",
+  "type": "BOOK DESC",
+  "index": null,
+  "editor_id": "DBM_CC_TomeConjureAyleidLichREPLICA"
+ },
+ {
+  "original": "Spell Tome: Conjure Daedric Horse (replica)",
+  "string": "Книга заклинаний: Вызов даэдрического коня (копия)",
+  "form_id": "00000878|DBM_CC_TheCausePatch.esp",
+  "type": "BOOK FULL",
+  "index": null,
+  "editor_id": "DBM_CC_TomeConjureDaedricHorseREPLICA"
+ },
+ {
+  "original": "<font face'$HandwrittenFont'><font size='40'><p align='center'>\r\nConjure Daedric Horse",
+  "string": "<font face='$HandwrittenFont'><font size='40'><p align='center'>\r\nВызов даэдрического коня",
+  "form_id": "00000878|DBM_CC_TheCausePatch.esp",
+  "type": "BOOK DESC",
+  "index": null,
+  "editor_id": "DBM_CC_TomeConjureDaedricHorseREPLICA"
+ },
+ {
+  "original": "Elemental Shard - Sercen (replica)",
+  "string": "Стихийный осколок - Серсен (копия)",
+  "form_id": "00000858|DBM_CC_TheCausePatch.esp",
+  "type": "MISC FULL",
+  "index": null,
+  "editor_id": "DBM_CC_RielleElementShard01EarthREPLICA"
+ },
+ {
+  "original": "Elemental Shard - Nen (replica)",
+  "string": "Стихийный осколок - Нен (копия)",
+  "form_id": "00000859|DBM_CC_TheCausePatch.esp",
+  "type": "MISC FULL",
+  "index": null,
+  "editor_id": "DBM_CC_RielleElementShard02WaterREPLICA"
+ },
+ {
+  "original": "Elemental Shard - Wel (replica)",
+  "string": "Стихийный осколок - Вел (копия)",
+  "form_id": "0000085A|DBM_CC_TheCausePatch.esp",
+  "type": "MISC FULL",
+  "index": null,
+  "editor_id": "DBM_CC_RielleElementShard03AirREPLICA"
+ },
+ {
+  "original": "Elemental Shard - Alata (replica)",
+  "string": "Стихийный осколок - Алата (копия)",
+  "form_id": "0000085B|DBM_CC_TheCausePatch.esp",
+  "type": "MISC FULL",
+  "index": null,
+  "editor_id": "DBM_CC_RielleElementShard04LightREPLICA"
+ },
+ {
+  "original": "Great Welkynd Stone (replica)",
+  "string": "Большой велкиндский камень (копия)",
+  "form_id": "0000085C|DBM_CC_TheCausePatch.esp",
+  "type": "MISC FULL",
+  "index": null,
+  "editor_id": "DBM_CC_ARGreatWelkyndStoneItem01REPLICA"
+ },
+ {
+  "original": "Torment (replica)",
+  "string": "Мучение (копия)",
+  "form_id": "0000085D|DBM_CC_TheCausePatch.esp",
+  "type": "WEAP FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DaedricLongswordTormentREPLICA"
+ },
+ {
+  "original": "Staff of Ehlno Ede (replica)",
+  "string": "Посох Эльно-Эде (копия)",
+  "form_id": "0000085E|DBM_CC_TheCausePatch.esp",
+  "type": "WEAP FULL",
+  "index": null,
+  "editor_id": "DBM_CC_AyleidLichStaff01REPLICA"
+ },
+ {
+  "original": "Norion the Undying",
+  "string": "Норион Бессмертный",
+  "form_id": "00000B73|ccbgssse067-daedinv.esm",
+  "type": "NPC_ FULL",
+  "index": null,
+  "editor_id": "ccBGSSSE067_AyleidLichBossAmbush"
+ },
+ {
+  "original": "Norion",
+  "string": "Норион",
+  "form_id": "00000B73|ccbgssse067-daedinv.esm",
+  "type": "NPC_ SHRT",
+  "index": null,
+  "editor_id": "ccBGSSSE067_AyleidLichBossAmbush"
+ },
+ {
+  "original": "Hall of Wonders",
+  "string": "Зал чудес",
+  "form_id": "000104C9|DBM_CC_HallOfWonders.esp",
+  "type": "CELL FULL",
+  "index": null,
+  "editor_id": "DBMDGHallofWondersCC"
+ },
+ {
+  "original": "Rielle",
+  "string": "Риэль",
+  "form_id": "000030E5|Update.esm",
+  "type": "CELL FULL",
+  "index": null,
+  "editor_id": "ccBGSSSE067Rielle01"
+ },
+ {
+  "original": "Deadlands",
+  "string": "Мертвые Земли",
+  "form_id": "000E1592|ccbgssse067-daedinv.esm",
+  "type": "WRLD FULL",
+  "index": null,
+  "editor_id": "ccBGSSSE067DeadlandsWorld"
+ },
+ {
+  "original": "The Cause Handler",
+  "string": "Дело (служебный)",
+  "form_id": "00000888|DBM_CC_TheCausePatch.esp",
+  "type": "QUST FULL",
+  "index": null,
+  "editor_id": "DBM_CC_TheCauseHandler"
+ },
+ {
+  "original": "Ayleid Enchanting",
+  "string": "Айлейдское зачарование",
+  "form_id": "00000852|DBM_CC_TheCausePatch.esp",
+  "type": "PERK FULL",
+  "index": null,
+  "editor_id": "DBM_CC_LichCrownPerk"
+ },
+ {
+  "original": "Enchantments are 25% stronger.",
+  "string": "Зачарования на 25% сильнее.",
+  "form_id": "00000852|DBM_CC_TheCausePatch.esp",
+  "type": "PERK DESC",
+  "index": null,
+  "editor_id": "DBM_CC_LichCrownPerk"
+ }
+]

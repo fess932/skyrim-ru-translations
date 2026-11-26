@@ -1,0 +1,434 @@
+[
+ {
+  "original": "Woodsmans Axe",
+  "string": "Топор лесоруба",
+  "form_id": "00000860|DBM_JaysusSwords_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTJSWoodsmanAxe"
+ },
+ {
+  "original": "Norse Axe",
+  "string": "Нордический топор  ",
+  "form_id": "00000862|DBM_JaysusSwords_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTJSNorseAxe"
+ },
+ {
+  "original": "Crude Axe",
+  "string": "Грубый топор  ",
+  "form_id": "00000864|DBM_JaysusSwords_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTJSCrudeAxe"
+ },
+ {
+  "original": "Fine Norse Axe",
+  "string": "Отличный нордический топор  ",
+  "form_id": "00000866|DBM_JaysusSwords_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTJSFineNorseAxe"
+ },
+ {
+  "original": "Great Norse Axe",
+  "string": "Великий нордический топор  ",
+  "form_id": "00000868|DBM_JaysusSwords_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTJSGreatNorseAxe"
+ },
+ {
+  "original": "Dragonbone Greatsword",
+  "string": "Драконий костяной двуручный меч",
+  "form_id": "0000086A|DBM_JaysusSwords_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTJSDragonboneGreatsword"
+ },
+ {
+  "original": "Dragonbone Sword",
+  "string": "Драконий костяной меч",
+  "form_id": "0000086C|DBM_JaysusSwords_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTJSDragonboneSword"
+ },
+ {
+  "original": "Dragonbone Battleaxe",
+  "string": "Драконья костяная секира",
+  "form_id": "0000086E|DBM_JaysusSwords_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTJSDragonboneBattleaxe"
+ },
+ {
+  "original": "Dragonbone Waraxe",
+  "string": "Драконий костяной боевой топор",
+  "form_id": "00000870|DBM_JaysusSwords_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTJSDragonboneWaraxe"
+ },
+ {
+  "original": "Fine Bastard Sword",
+  "string": "Отличный меч-бастард  ",
+  "form_id": "0000087B|DBM_JaysusSwords_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTJSFineBastardSword"
+ },
+ {
+  "original": "Knights Sword",
+  "string": "Рыцарский меч",
+  "form_id": "0000087D|DBM_JaysusSwords_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTJSKnightSword"
+ },
+ {
+  "original": "Bastard Sword",
+  "string": "Меч-бастард  ",
+  "form_id": "0000087F|DBM_JaysusSwords_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTJSBastardSword"
+ },
+ {
+  "original": "Dagger",
+  "string": "Кинжал",
+  "form_id": "00000881|DBM_JaysusSwords_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTJSDagger"
+ },
+ {
+  "original": "Fine Iron Sword",
+  "string": "Отличный железный меч  ",
+  "form_id": "00000883|DBM_JaysusSwords_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTJSFineIronSword"
+ },
+ {
+  "original": "Gilded Crusader Sword",
+  "string": "Позолоченный меч крестоносца  ",
+  "form_id": "00000885|DBM_JaysusSwords_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTJSGildedCrusaderSword"
+ },
+ {
+  "original": "Fine Crusader Sword",
+  "string": "Отличный меч крестоносца  ",
+  "form_id": "00000887|DBM_JaysusSwords_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTJSFineCrusaderSword"
+ },
+ {
+  "original": "Heavy Crusader Sword",
+  "string": "Тяжелый меч крестоносца  ",
+  "form_id": "00000889|DBM_JaysusSwords_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTJSHeavyCrusaderSword"
+ },
+ {
+  "original": "Crusader Sword",
+  "string": "Меч крестоносца  ",
+  "form_id": "0000088B|DBM_JaysusSwords_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTJSCrusaderSword"
+ },
+ {
+  "original": "Blade of Dibella",
+  "string": "Клинок Дибеллы",
+  "form_id": "0000088D|DBM_JaysusSwords_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTJSBladeOfDibella"
+ },
+ {
+  "original": "Legendary Corundrum Blade",
+  "string": "Легендарный корундовый клинок  ",
+  "form_id": "0000089F|DBM_JaysusSwords_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTJSLegendaryCorundrumBlade"
+ },
+ {
+  "original": "Dovah Luv",
+  "string": "Дова Лув  ",
+  "form_id": "000008A1|DBM_JaysusSwords_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTJSDovahLuv"
+ },
+ {
+  "original": "Dragonbrand",
+  "string": "Меч Дракона  ",
+  "form_id": "000008A3|DBM_JaysusSwords_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTJSDragonbrand"
+ },
+ {
+  "original": "Azurbrand",
+  "string": "Азурбренд  ",
+  "form_id": "000008A5|DBM_JaysusSwords_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTJSAzurbrand"
+ },
+ {
+  "original": "Jade Blade",
+  "string": "Нефритовый клинок  ",
+  "form_id": "000008A7|DBM_JaysusSwords_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTJSJadeBlade"
+ },
+ {
+  "original": "Gungnir",
+  "string": "Гунгнир  ",
+  "form_id": "000008A9|DBM_JaysusSwords_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTJSGungnir"
+ },
+ {
+  "original": "Baskethilt Sword",
+  "string": "Меч с корзинчатым навершием  ",
+  "form_id": "000008AB|DBM_JaysusSwords_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTJSBaskethiltSword"
+ },
+ {
+  "original": "Shiavonna",
+  "string": "Шиавонна  ",
+  "form_id": "000008AD|DBM_JaysusSwords_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTJSShiavonna"
+ },
+ {
+  "original": "Smallsword",
+  "string": "Короткий меч  ",
+  "form_id": "000008AF|DBM_JaysusSwords_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTJSSmallsword"
+ },
+ {
+  "original": "Magnificent Sword",
+  "string": "Великолепный меч  ",
+  "form_id": "000008B1|DBM_JaysusSwords_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTJSMagnificentSword"
+ },
+ {
+  "original": "Boarding Knife",
+  "string": "Корабельный нож  ",
+  "form_id": "000008B3|DBM_JaysusSwords_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTJSBoardingKnife"
+ },
+ {
+  "original": "Khajiit Saber",
+  "string": "Кацийский сабель  ",
+  "form_id": "000008B5|DBM_JaysusSwords_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTJSKhajiitSaber"
+ },
+ {
+  "original": "Albensword",
+  "string": "Меч Альбена  ",
+  "form_id": "000008B7|DBM_JaysusSwords_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTJSAlbensword"
+ },
+ {
+  "original": "Scimitar",
+  "string": "Скимитар",
+  "form_id": "000008B9|DBM_JaysusSwords_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTJSScimitar"
+ },
+ {
+  "original": "Hunting Sword",
+  "string": "Охотничий меч  ",
+  "form_id": "000008BB|DBM_JaysusSwords_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTJSLongHuntingSword"
+ },
+ {
+  "original": "Hunting Dagger",
+  "string": "Охотничий кинжал",
+  "form_id": "000008BD|DBM_JaysusSwords_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTJSHuntingSword"
+ },
+ {
+  "original": "Hunting Sword",
+  "string": "Охотничий меч  ",
+  "form_id": "000008BF|DBM_JaysusSwords_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTJSLongHuntingSword2"
+ },
+ {
+  "original": "Hunting Dagger",
+  "string": "Охотничий кинжал",
+  "form_id": "000008C1|DBM_JaysusSwords_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTJSHuntingSword2"
+ },
+ {
+  "original": "Knights Greatsword",
+  "string": "Рыцарский двуручный меч",
+  "form_id": "000008C3|DBM_JaysusSwords_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTJSKnightGreatsword"
+ },
+ {
+  "original": "Argonian Blade",
+  "string": "Аргонианский клинок  ",
+  "form_id": "000008C5|DBM_JaysusSwords_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTJSArgonianBlade"
+ },
+ {
+  "original": "Argonian Battleblade",
+  "string": "Аргонианский боевой меч  ",
+  "form_id": "000008C7|DBM_JaysusSwords_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTJSArgonianBattleblade"
+ },
+ {
+  "original": "Akaviri Sword",
+  "string": "Акавирский меч",
+  "form_id": "000008C9|DBM_JaysusSwords_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTJSAkaviriSword"
+ },
+ {
+  "original": "Akaviri Battlesaber",
+  "string": "Акавирская боевая сабля",
+  "form_id": "000008CB|DBM_JaysusSwords_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTJSAkaviriiBattlesaber"
+ },
+ {
+  "original": "Akaviri Saber",
+  "string": "Акавирская сабля",
+  "form_id": "000008CD|DBM_JaysusSwords_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTJSAkaviriiSaber"
+ },
+ {
+  "original": "Akaviri Short Saber",
+  "string": "Акавирская короткая сабля",
+  "form_id": "000008CF|DBM_JaysusSwords_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTJSAkaviriiShortSaber"
+ },
+ {
+  "original": "Dragonsting Sword",
+  "string": "Меч \"Ужас Дракона\"  ",
+  "form_id": "000008D1|DBM_JaysusSwords_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTJSDragonstingSword"
+ },
+ {
+  "original": "Dragonsting Dagger",
+  "string": "Кинжал \"Ужас Дракона\"  ",
+  "form_id": "000008D3|DBM_JaysusSwords_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTJSDragonstingDagger"
+ },
+ {
+  "original": "Hunting Knife",
+  "string": "Охотничий нож  ",
+  "form_id": "000008D5|DBM_JaysusSwords_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTJSHuntingKnife"
+ },
+ {
+  "original": "Legionaires Sword",
+  "string": "Меч легионера",
+  "form_id": "000008D7|DBM_JaysusSwords_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTJSLegionaireSword"
+ },
+ {
+  "original": "Ancient Sword",
+  "string": "Древний меч  ",
+  "form_id": "000008D9|DBM_JaysusSwords_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTJSAncientSword"
+ },
+ {
+  "original": "Ancient Nordic Sword",
+  "string": "Древний нордский меч",
+  "form_id": "000008DB|DBM_JaysusSwords_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTJSAncientNordicSword"
+ },
+ {
+  "original": "Gilded Norse Sword",
+  "string": "Позолоченный нордический меч  ",
+  "form_id": "000008DD|DBM_JaysusSwords_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTJSGildedNorseSword"
+ },
+ {
+  "original": "Norse Sword",
+  "string": "Нордический меч  ",
+  "form_id": "000008DF|DBM_JaysusSwords_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTJSNorseSword"
+ },
+ {
+  "original": "Nordic Blade",
+  "string": "Нордический клинок  ",
+  "form_id": "000008E1|DBM_JaysusSwords_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTJSNordicBlade"
+ },
+ {
+  "original": "Jaysus Swords Items",
+  "string": "Предметы из Jaysus Swords",
+  "form_id": "0000085E|DBM_JaysusSwords_Patch.esp",
+  "type": "CONT FULL",
+  "index": null,
+  "editor_id": "DBM_CheatCrateJaysus"
+ }
+]

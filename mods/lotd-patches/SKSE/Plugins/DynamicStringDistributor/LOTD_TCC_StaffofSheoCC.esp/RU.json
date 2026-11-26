@@ -1,0 +1,18 @@
+[
+ {
+  "original": "The Curators Companion - Staff of Sheogorath",
+  "string": "Помощник куратора - Посох Шеогората",
+  "form_id": "00000803|LOTD_TCC_StaffofSheoCC.esp",
+  "type": "QUST FULL",
+  "index": null,
+  "editor_id": "TCC_SM_StaffofSheoCC"
+ },
+ {
+  "original": "<font color='#<Alias=ColourAlias>'>The Curators Companion: Mod Complete (Staff of Sheogorath)</font>",
+  "string": "<font color='#<Alias=ColourAlias>'>Компаньон куратора: мод завершен (Посох Шеогората)</font>",
+  "form_id": "00000802|LOTD_TCC_StaffofSheoCC.esp",
+  "type": "MESG DESC",
+  "index": null,
+  "editor_id": "_CompleteNotification_StaffofSheoCC"
+ }
+]

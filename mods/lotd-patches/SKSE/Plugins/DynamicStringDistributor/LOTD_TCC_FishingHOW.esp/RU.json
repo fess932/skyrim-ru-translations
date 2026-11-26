@@ -1,0 +1,18 @@
+[
+ {
+  "original": "The Curators Companion - Alternate Armors - Daedric Mail",
+  "string": "Помощник куратора - Альтернативная броня - Даэдрическая кольчуга",
+  "form_id": "00000808|LOTD_TCC_FishingHOW.esp",
+  "type": "QUST FULL",
+  "index": null,
+  "editor_id": "TCC_SM_Fishing"
+ },
+ {
+  "original": "<font color='#<Alias=ColourAlias>'>The Curators Companion: Mod Complete (Fishing)</font>",
+  "string": "<font color='#<Alias=ColourAlias>'>Компаньон куратора: Мод завершен (Рыбалка)</font>",
+  "form_id": "00000803|LOTD_TCC_FishingHOW.esp",
+  "type": "MESG DESC",
+  "index": null,
+  "editor_id": "_CompleteNotification_Fishing"
+ }
+]

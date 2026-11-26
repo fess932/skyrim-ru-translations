@@ -1,0 +1,266 @@
+[
+ {
+  "original": "Shadowsting",
+  "string": "Призрачный меч",
+  "form_id": "00000800|DBM_IW_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTIWShadowsting"
+ },
+ {
+  "original": "Justice",
+  "string": "Справедливость",
+  "form_id": "00000803|DBM_IW_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTIWJustice"
+ },
+ {
+  "original": "Gron-Tosh's Fist",
+  "string": "Кулак Грон-Тоша",
+  "form_id": "00000804|DBM_IW_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTIWGronToshsFist"
+ },
+ {
+  "original": "Malacath's Cleaver",
+  "string": "Тесак Малаката",
+  "form_id": "00000805|DBM_IW_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTIWMalacathsCleaver"
+ },
+ {
+  "original": "Wrath of the Spurned",
+  "string": "Гнев отверженных",
+  "form_id": "00000806|DBM_IW_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_exhibitsignMalacath"
+ },
+ {
+  "original": "Read Plaque:",
+  "string": "Прочитать табличку:",
+  "form_id": "00000806|DBM_IW_Patch.esp",
+  "type": "ACTI RNAM",
+  "index": null,
+  "editor_id": "DBM_exhibitsignMalacath"
+ },
+ {
+  "original": "Immersive Weapons",
+  "string": "Оружие из Immersive Weapons",
+  "form_id": "000008B6|DBM_IW_Patch.esp",
+  "type": "CONT FULL",
+  "index": null,
+  "editor_id": "DBM_CheatCrateImmersiveWeapons"
+ },
+ {
+  "original": "Sithis' Blade",
+  "string": "Клинок Ситиса",
+  "form_id": "00022C9E|Immersive Weapons.esp",
+  "type": "WEAP FULL",
+  "index": null,
+  "editor_id": "IWSithissBladeNinjato"
+ },
+ {
+  "original": "Rueful Axe (replica)",
+  "string": "Топор Скорби (копия)",
+  "form_id": "000478C8|Immersive Weapons.esp",
+  "type": "WEAP FULL",
+  "index": null,
+  "editor_id": "IWCRuefulAxe"
+ },
+ {
+  "original": "Volendrung (replica)",
+  "string": "Волендранг (копия)",
+  "form_id": "000478C9|Immersive Weapons.esp",
+  "type": "WEAP FULL",
+  "index": null,
+  "editor_id": "IWCVolendrung"
+ },
+ {
+  "original": "Mehrunes' Razor (replica)",
+  "string": "Бритва Мерунеса (копия)",
+  "form_id": "000478CA|Immersive Weapons.esp",
+  "type": "WEAP FULL",
+  "index": null,
+  "editor_id": "IWCMehrunesRazor"
+ },
+ {
+  "original": "Ebony Blade (replica)",
+  "string": "Эбонитовый Клинок (копия)",
+  "form_id": "000478CB|Immersive Weapons.esp",
+  "type": "WEAP FULL",
+  "index": null,
+  "editor_id": "IWCEbonyBlade"
+ },
+ {
+  "original": "Dawnbreaker (replica)",
+  "string": "Сияние Рассвета (копия)",
+  "form_id": "000478CC|Immersive Weapons.esp",
+  "type": "WEAP FULL",
+  "index": null,
+  "editor_id": "IWCDawnbreaker"
+ },
+ {
+  "original": "Mace of Molag Bal (replica)",
+  "string": "Булава Молаг Бала (копия)",
+  "form_id": "000478CD|Immersive Weapons.esp",
+  "type": "WEAP FULL",
+  "index": null,
+  "editor_id": "IWCMaceofMolagBal"
+ },
+ {
+  "original": "Nightingale Blade (replica)",
+  "string": "Соловьиный клинок (копия)",
+  "form_id": "000478CF|Immersive Weapons.esp",
+  "type": "WEAP FULL",
+  "index": null,
+  "editor_id": "IWCNightingaleBlade"
+ },
+ {
+  "original": "Nightingale Bow (replica)",
+  "string": "Соловьиный лук (копия)",
+  "form_id": "000478D0|Immersive Weapons.esp",
+  "type": "WEAP FULL",
+  "index": null,
+  "editor_id": "IWCNightingaleBow"
+ },
+ {
+  "original": "Chillrend (replica)",
+  "string": "Охладитель (копия)",
+  "form_id": "000478D1|Immersive Weapons.esp",
+  "type": "WEAP FULL",
+  "index": null,
+  "editor_id": "IWCChillrend"
+ },
+ {
+  "original": "BiPolar Blade (replica)",
+  "string": "Биполярный клинок (копия)",
+  "form_id": "00048D62|Immersive Weapons.esp",
+  "type": "WEAP FULL",
+  "index": null,
+  "editor_id": "IWCBiPolarBladeGreatsword"
+ },
+ {
+  "original": "Sixth House Bell Hammer",
+  "string": "Колокольный молот Шестого Дома",
+  "form_id": "00370D63|Immersive Weapons.esp",
+  "type": "WEAP FULL",
+  "index": null,
+  "editor_id": "IWSixthHouseBellWarhammer"
+ },
+ {
+  "original": "Gron-Tosh's Fist",
+  "string": "Кулак Грон-Тоша",
+  "form_id": "00440D62|Immersive Weapons.esp",
+  "type": "WEAP FULL",
+  "index": null,
+  "editor_id": "IWGronToshsFistMace"
+ },
+ {
+  "original": "Sithis' Razor",
+  "string": "Бритва Ситиса",
+  "form_id": "0048E559|Immersive Weapons.esp",
+  "type": "WEAP FULL",
+  "index": null,
+  "editor_id": "IWSithissRazorTanto"
+ },
+ {
+  "original": "Chrysamere (replica)",
+  "string": "Хризамер (копия)",
+  "form_id": "00650D62|Immersive Weapons.esp",
+  "type": "WEAP FULL",
+  "index": null,
+  "editor_id": "IWChrysamereGreatsword"
+ },
+ {
+  "original": "Umbra (forgery)",
+  "string": "Умбра (подделка)",
+  "form_id": "00779D62|Immersive Weapons.esp",
+  "type": "WEAP FULL",
+  "index": null,
+  "editor_id": "IWPenUmbraSword"
+ },
+ {
+  "original": "Goldbrand (replica)",
+  "string": "Золотая Марка (копия)",
+  "form_id": "00844D62|Immersive Weapons.esp",
+  "type": "WEAP FULL",
+  "index": null,
+  "editor_id": "IWGoldbrandKatana"
+ },
+ {
+  "original": "Ice Blade of the Monarch (replica)",
+  "string": "Ледяной Клинок Монарха (копия)",
+  "form_id": "00886D63|Immersive Weapons.esp",
+  "type": "WEAP FULL",
+  "index": null,
+  "editor_id": "IWIceBladeoftheMonarchGreatsword"
+ },
+ {
+  "original": "Dukaan",
+  "string": "Дукан",
+  "form_id": "000248E1|Dragonborn.esm",
+  "type": "NPC_ FULL",
+  "index": null,
+  "editor_id": "DLC2AcolyteDukaan"
+ },
+ {
+  "original": "Zahkriisos",
+  "string": "Закрисош",
+  "form_id": "000248E8|Dragonborn.esm",
+  "type": "NPC_ FULL",
+  "index": null,
+  "editor_id": "DLC2AcolyteZahkriisos"
+ },
+ {
+  "original": "Ahzidal",
+  "string": "Азидал",
+  "form_id": "000248E9|Dragonborn.esm",
+  "type": "NPC_ FULL",
+  "index": null,
+  "editor_id": "DLC2AcolyteAhzidal"
+ },
+ {
+  "original": "Immersive Weapons Support",
+  "string": "Поддержка Immersive Weapons",
+  "form_id": "00000898|DBM_IW_Patch.esp",
+  "type": "QUST FULL",
+  "index": null,
+  "editor_id": "DBM_SupportedModImmersiveWeapons"
+ },
+ {
+  "original": "Malacath has perhaps the most reason to hate his Daedric brethren, having been betrayed and warped into being by their loathsome plots, and tricked into slaying his own son. The means by which this blade was stolen from Malacath is unknown, but is seethes with the rage of vengeance that stews in his heart, removing any doubt that it is in fact the genuine article.",
+  "string": "У Малаката, пожалуй, больше всех причин ненавидеть своих даэдрических собратьев: их гнусные козни предали его и исказили его сущность, а обманом его заставили убить собственного сына. Как этот клинок был похищен у Малаката - неизвестно, но он кипит той же жаждой мести, что тлеет в его сердце, и это развеивает любые сомнения в его подлинности.",
+  "form_id": "00000807|DBM_IW_Patch.esp",
+  "type": "MESG DESC",
+  "index": null,
+  "editor_id": "DBM_messageMalacathCleaver"
+ },
+ {
+  "original": "Wrath of the Spurned",
+  "string": "Гнев отверженных",
+  "form_id": "00000807|DBM_IW_Patch.esp",
+  "type": "MESG FULL",
+  "index": null,
+  "editor_id": "DBM_messageMalacathCleaver"
+ },
+ {
+  "original": "The Fork of Horripilation is a cursed artifact created by the Daedric Prince Sheogorath, who refers to it affectionately as Forky. In appearance and in function, it is a mundane iron fork. However, it is imbued with an enchantment which excites and synergizes magicka around it, and can produce dramatic results when held by certain people. Sheogorath is fond of forcing mortals to use it as a weapon, in which case it curses the wielder with Fork's Wound, a magical effect which stunts the wielder's magicka or drains it completely. The Fork smells lightly of roast beef. It is unknown what relation the fork has to horripilation.",
+  "string": "Вилка Ужаса - проклятый артефакт, созданный даэдрическим принцем Шеогоратом, который ласково называет ее Вилкой. И с виду, и по назначению это самая обычная железная вилка. Однако на нее наложено зачарование, возбуждающее и сплетающее магию вокруг нее, и в руках некоторых людей она способна творить поразительные вещи. Шеогорат любит заставлять смертных сражаться ею как оружием - и тогда она проклинает владельца Раной Вилки, магическим эффектом, который подавляет его магию или полностью ее истощает. От Вилки слегка пахнет жареной говядиной. Какое отношение вилка имеет к ужасу, неизвестно.",
+  "form_id": "00000809|DBM_IW_Patch.esp",
+  "type": "MESG DESC",
+  "index": null,
+  "editor_id": "DBM_ForkofHorripilationmsg"
+ },
+ {
+  "original": "Sheo's Forky",
+  "string": "Вилка Шео",
+  "form_id": "00000809|DBM_IW_Patch.esp",
+  "type": "MESG FULL",
+  "index": null,
+  "editor_id": "DBM_ForkofHorripilationmsg"
+ }
+]

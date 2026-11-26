@@ -1,0 +1,290 @@
+[
+ {
+  "original": "Ancient Falmer Heavy Boots",
+  "string": "Древние фалмерские тяжелые сапоги",
+  "form_id": "00000052|DBM_TSEA_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTSEAheavyboots"
+ },
+ {
+  "original": "Ancient Falmer Heavy Cuirass",
+  "string": "Тяжелая кираса древних фалмеров",
+  "form_id": "00000055|DBM_TSEA_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTSEAheavycuiras"
+ },
+ {
+  "original": "Ancient Falmer Heavy Gauntlets",
+  "string": "Древние фалмерские тяжелые перчатки",
+  "form_id": "00000057|DBM_TSEA_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTSEAheavygauntlets"
+ },
+ {
+  "original": "Ancient Falmer Heavy Helmet",
+  "string": "Древний фалмерский тяжелый шлем",
+  "form_id": "00000059|DBM_TSEA_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTSEAheavyhelm"
+ },
+ {
+  "original": "Ancient Falmer Heavy Shield",
+  "string": "Древний фалмерский тяжелый щит",
+  "form_id": "0000005B|DBM_TSEA_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTSEAheavyshield"
+ },
+ {
+  "original": "Ancient Falmer Noble Boots",
+  "string": "Древние фалмерские благородные сапоги",
+  "form_id": "0000005D|DBM_TSEA_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTSEAnobleboots"
+ },
+ {
+  "original": "Ancient Falmer Noble Cuirass",
+  "string": "Знатная кираса древних фалмеров",
+  "form_id": "0000005F|DBM_TSEA_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTSEAnoblecuirass"
+ },
+ {
+  "original": "Ancient Falmer Noble Gauntlets",
+  "string": "Древние фалмерские благородные перчатки",
+  "form_id": "00000061|DBM_TSEA_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTSEAnobleGauntlets"
+ },
+ {
+  "original": "Ancient Falmer Noble Helmet",
+  "string": "Древний фалмерский благородный шлем",
+  "form_id": "00000063|DBM_TSEA_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTSEAnobleHelm"
+ },
+ {
+  "original": "Ancient Falmer Scout Boots",
+  "string": "Древние фалмерские сапоги разведчика",
+  "form_id": "00000065|DBM_TSEA_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTSEAscoutboots"
+ },
+ {
+  "original": "Ancient Falmer Scout Cuirass",
+  "string": "Кираса разведчика древних фалмеров",
+  "form_id": "00000067|DBM_TSEA_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTSEAscoutcuirass"
+ },
+ {
+  "original": "Ancient Falmer Scout Gauntlets",
+  "string": "Древние фалмерские перчатки разведчика",
+  "form_id": "00000069|DBM_TSEA_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTSEAscoutgauntlets"
+ },
+ {
+  "original": "Ancient Falmer Scout Helmet",
+  "string": "Древний фалмерский шлем разведчика",
+  "form_id": "0000006B|DBM_TSEA_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTSEAscouthelm"
+ },
+ {
+  "original": "Ancient Falmer Shield",
+  "string": "Древний фалмерский щит",
+  "form_id": "0000006D|DBM_TSEA_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTSEAshield"
+ },
+ {
+  "original": "Ancient Falmer Mage Robes",
+  "string": "Древнее фалмерское одеяние мага",
+  "form_id": "0000006F|DBM_TSEA_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTSEAmagerobes"
+ },
+ {
+  "original": "Ancient Falmer Mage Boots",
+  "string": "Древние фалмерские сапоги мага",
+  "form_id": "00000071|DBM_TSEA_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTSEAmageboots"
+ },
+ {
+  "original": "Ancient Falmer Mage Gloves",
+  "string": "Древние фалмерские перчатки мага",
+  "form_id": "00000073|DBM_TSEA_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTSEAmagegloves"
+ },
+ {
+  "original": "Ancient Falmer Mage Hood",
+  "string": "Древний фалмерский капюшон мага",
+  "form_id": "00000075|DBM_TSEA_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTSEAmagehood"
+ },
+ {
+  "original": "Ancient Falmer Staff",
+  "string": "Посох древних фалмеров",
+  "form_id": "00000077|DBM_TSEA_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTSEAstaff"
+ },
+ {
+  "original": "Ancient Falmer Warhammer",
+  "string": "Древний фалмерский боевой молот",
+  "form_id": "00000079|DBM_TSEA_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTSEAWarhammer"
+ },
+ {
+  "original": "Ancient Falmer Sword",
+  "string": "Древний фалмерский меч",
+  "form_id": "0000007B|DBM_TSEA_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTSEASword"
+ },
+ {
+  "original": "Ancient Falmer Mace",
+  "string": "Древняя фалмерская булава",
+  "form_id": "0000007D|DBM_TSEA_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTSEAMace"
+ },
+ {
+  "original": "Ancient Falmer Greatsword",
+  "string": "Древний фалмерский двуручный меч",
+  "form_id": "0000007F|DBM_TSEA_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTSEAgreatsword"
+ },
+ {
+  "original": "Ancient Falmer Dagger",
+  "string": "Древний фалмерский кинжал",
+  "form_id": "00000082|DBM_TSEA_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTSEADagger"
+ },
+ {
+  "original": "Ancient Falmer Bow",
+  "string": "Древний фалмерский лук",
+  "form_id": "00000083|DBM_TSEA_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTSEABow"
+ },
+ {
+  "original": "Ancient Falmer Glaive",
+  "string": "Древняя фалмерская глефа",
+  "form_id": "00000085|DBM_TSEA_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTSEAbattleaxe"
+ },
+ {
+  "original": "Ancient Falmer War Axe",
+  "string": "Древний фалмерский боевой топор",
+  "form_id": "00000087|DBM_TSEA_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTSEAwaraxe"
+ },
+ {
+  "original": "Blade of the Ancient One",
+  "string": "Клинок Древнего",
+  "form_id": "00000089|DBM_TSEA_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTSESwordUnique"
+ },
+ {
+  "original": "Warhorn of the Forgotten Vale",
+  "string": "Боевой горн Забытой долины",
+  "form_id": "0000008B|DBM_TSEA_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTSEHornHorse"
+ },
+ {
+  "original": "Warhorn of Ancient Wars",
+  "string": "Боевой горн Древних войн",
+  "form_id": "0000008D|DBM_TSEA_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTSEHornCat"
+ },
+ {
+  "original": "Warhorn of the Ancient One",
+  "string": "Боевой горн Древнего",
+  "form_id": "0000008F|DBM_TSEA_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTSEHornHorseCorrupted"
+ },
+ {
+  "original": "Helmet of the Ancient one",
+  "string": "Шлем Древнего",
+  "form_id": "0000009B|DBM_TSEA_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTSEAAncientoneHood"
+ },
+ {
+  "original": "Gauntlets of the Ancient one",
+  "string": "Перчатки Древнего",
+  "form_id": "0000009D|DBM_TSEA_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTSEAAncientonegloves"
+ },
+ {
+  "original": "Cuirass of the Ancient one",
+  "string": "Кираса Древнего",
+  "form_id": "0000009F|DBM_TSEA_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTSEAAncientoneCuriass"
+ },
+ {
+  "original": "Boots of the Ancient one",
+  "string": "Сапоги Древнего",
+  "form_id": "000000A1|DBM_TSEA_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTSEAAncientoneBoots"
+ },
+ {
+  "original": "Snow Elf Arsenal",
+  "string": "Арсенал снежных эльфов",
+  "form_id": "00000092|DBM_TSEA_Patch.esp",
+  "type": "CONT FULL",
+  "index": null,
+  "editor_id": "DBM_CheatCrateTSEA"
+ }
+]

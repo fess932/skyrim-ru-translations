@@ -1,0 +1,18 @@
+[
+ {
+  "original": "Jarrik's Crusher (replica)",
+  "string": "Крушитель Яррика (копия)",
+  "form_id": "00000800|DBM_Falskaar_ReplicaPatch.esp",
+  "type": "WEAP FULL",
+  "index": null,
+  "editor_id": "FSSkullCrusherREPLICA"
+ },
+ {
+  "original": "Barkrot (replica)",
+  "string": "Баркрот (копия)",
+  "form_id": "00000801|DBM_Falskaar_ReplicaPatch.esp",
+  "type": "WEAP FULL",
+  "index": null,
+  "editor_id": "FSdunWeapBarkrotREPLICA"
+ }
+]

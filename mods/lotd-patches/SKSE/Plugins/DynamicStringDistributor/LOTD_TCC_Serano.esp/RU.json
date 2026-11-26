@@ -1,0 +1,18 @@
+[
+ {
+  "original": "Val Serano Official TCC Patch Handler",
+  "string": "Официальный патч Помощника куратора для Вала Серано (служебный)",
+  "form_id": "00000806|LOTD_TCC_Serano.esp",
+  "type": "QUST FULL",
+  "index": null,
+  "editor_id": "TCC_SM_Serano"
+ },
+ {
+  "original": "<font color='#<Alias=ColourAlias>'>The Curators Companion: Mod Complete (Follower - Val Serano)</font>",
+  "string": "<font color='#<Alias=ColourAlias>'>Компаньон куратора: мод завершен (Спутник - Вал Серано)</font>",
+  "form_id": "00000805|LOTD_TCC_Serano.esp",
+  "type": "MESG DESC",
+  "index": null,
+  "editor_id": "_CompleteNotification_Serano"
+ }
+]

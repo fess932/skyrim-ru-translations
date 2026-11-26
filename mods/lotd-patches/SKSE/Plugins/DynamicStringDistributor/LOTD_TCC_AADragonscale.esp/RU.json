@@ -1,0 +1,18 @@
+[
+ {
+  "original": "The Curators Companion - Alternate Armors - Dragonscale",
+  "string": "Помощник куратора - Альтернативная броня - Драконья чешуя",
+  "form_id": "00000800|LOTD_TCC_AADragonscale.esp",
+  "type": "QUST FULL",
+  "index": null,
+  "editor_id": "TCC_SM_AADragonscale"
+ },
+ {
+  "original": "<font color='#<Alias=ColourAlias>'>The Curators Companion: Mod Complete (Dragonscale)</font>",
+  "string": "<font color='#<Alias=ColourAlias>'>Компаньон куратора: Мод завершен (Драконья чешуя)</font>",
+  "form_id": "00000802|LOTD_TCC_AADragonscale.esp",
+  "type": "MESG DESC",
+  "index": null,
+  "editor_id": "_CompleteNotification_AADragonscale"
+ }
+]

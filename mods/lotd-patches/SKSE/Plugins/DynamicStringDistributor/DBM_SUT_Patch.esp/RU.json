@@ -1,0 +1,1434 @@
+[
+ {
+  "original": "Clavicus Vile Figurine",
+  "string": "Фигурка клавикус Вайла",
+  "form_id": "00000980|DBM_SUT_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTSUTClavicusVileFigurine"
+ },
+ {
+  "original": "Falmer Figurine",
+  "string": "Фигурка фалмера",
+  "form_id": "00000982|DBM_SUT_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTSUTFalmerFigurine"
+ },
+ {
+  "original": "Golden Headdress",
+  "string": "Золотой головной убор",
+  "form_id": "00000984|DBM_SUT_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTSUTGoldenHeaddress"
+ },
+ {
+  "original": "Alduin Statue",
+  "string": "Статуя Алдуина",
+  "form_id": "00000986|DBM_SUT_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTSUTAlduiinStatue"
+ },
+ {
+  "original": "Cow Statue",
+  "string": "Статуя коровы",
+  "form_id": "00000988|DBM_SUT_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTSUTCowStatue"
+ },
+ {
+  "original": "Odahviing Statue",
+  "string": "Статуя Одавинга",
+  "form_id": "0000098A|DBM_SUT_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTSUTOdahviingStatue"
+ },
+ {
+  "original": "Elk Statue",
+  "string": "Статуя лося",
+  "form_id": "0000098C|DBM_SUT_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTSUTElkStatue"
+ },
+ {
+  "original": "Hammered Copper Jug 3",
+  "string": "Кованый медный кувшин 3",
+  "form_id": "0000098E|DBM_SUT_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTSUTCopperJug3"
+ },
+ {
+  "original": "Hammered Copper Pot 3",
+  "string": "Кованый медный горшок 3",
+  "form_id": "00000990|DBM_SUT_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTSUTCopperPot3"
+ },
+ {
+  "original": "Hammered Copper Pot 4",
+  "string": "Кованый медный горшок 4",
+  "form_id": "00000992|DBM_SUT_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTSUTCopperPot4"
+ },
+ {
+  "original": "Hammered Copper Pot 2",
+  "string": "Кованый медный горшок 2",
+  "form_id": "00000994|DBM_SUT_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTSUTCopperPot2"
+ },
+ {
+  "original": "Genie Lamp",
+  "string": "Лампа джина",
+  "form_id": "00000996|DBM_SUT_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTSUTGenieLamp"
+ },
+ {
+  "original": "Alien Console",
+  "string": "Консоль Чужого",
+  "form_id": "00000998|DBM_SUT_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTSUTAlienConsole"
+ },
+ {
+  "original": "Aquamarine Wine Glass",
+  "string": "Аквамариновый бокал",
+  "form_id": "0000099A|DBM_SUT_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTSUTAquamarineWineGlass"
+ },
+ {
+  "original": "Arena Plate",
+  "string": "Тарелка \"Арена\"",
+  "form_id": "0000099C|DBM_SUT_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTSUTArenaPlate"
+ },
+ {
+  "original": "Banjo",
+  "string": "Банжо",
+  "form_id": "0000099E|DBM_SUT_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTSUTBanjo"
+ },
+ {
+  "original": "Battlespire Plate",
+  "string": "Тарелка \"Battlespire\"",
+  "form_id": "000009A0|DBM_SUT_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTSUTBattlespirePlate"
+ },
+ {
+  "original": "Bear Figurine",
+  "string": "Фигурка медведя",
+  "form_id": "000009A2|DBM_SUT_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTSUTBearFigurine"
+ },
+ {
+  "original": "Bloody Skull",
+  "string": "Кровавый череп",
+  "form_id": "000009A4|DBM_SUT_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTSUTBloodySkull"
+ },
+ {
+  "original": "Bloodmoon Plate",
+  "string": "Тарелка \"Bloodmoon\"",
+  "form_id": "000009A6|DBM_SUT_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTSUTBloodmoonPlate"
+ },
+ {
+  "original": "Blood Soul Gem",
+  "string": "Кровавый камень душ",
+  "form_id": "000009A8|DBM_SUT_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTSUTBloodSoulGem"
+ },
+ {
+  "original": "Blue Emerald Skull",
+  "string": "Череп с синими изумрудами",
+  "form_id": "000009AA|DBM_SUT_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTSUTBlueEmeraldSkull"
+ },
+ {
+  "original": "Blue Sapphire Wine Glass",
+  "string": "Бокал из синего сапфира",
+  "form_id": "000009AC|DBM_SUT_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTSUTBlueSapphireWineGlass"
+ },
+ {
+  "original": "Bongo Drum",
+  "string": "Бонго",
+  "form_id": "000009AE|DBM_SUT_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTSUTBongoDrum"
+ },
+ {
+  "original": "Bronze Dragon Figurine",
+  "string": "Фигурка бронзового дракона",
+  "form_id": "000009B0|DBM_SUT_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTSUTBronzeDragonFigurine"
+ },
+ {
+  "original": "Cannon Model",
+  "string": "Пушка",
+  "form_id": "000009B2|DBM_SUT_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTSUTCannonModel"
+ },
+ {
+  "original": "Carved Tusk Fragment",
+  "string": "Фрагмент бивня",
+  "form_id": "000009B4|DBM_SUT_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTSUTCarvedTuskFragment"
+ },
+ {
+  "original": "Mysterious Skull",
+  "string": "Мистический череп",
+  "form_id": "000009B6|DBM_SUT_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTSUTMysteriousSkull"
+ },
+ {
+  "original": "Cornamuse",
+  "string": "Волынка",
+  "form_id": "000009B8|DBM_SUT_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTSUTCornamuse"
+ },
+ {
+  "original": "Crown",
+  "string": "Корона",
+  "form_id": "000009BA|DBM_SUT_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTSUTCrown"
+ },
+ {
+  "original": "Crystal Ball",
+  "string": "Кристальный шар",
+  "form_id": "000009BC|DBM_SUT_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTSUTCrystalBall"
+ },
+ {
+  "original": "Crystal Skull",
+  "string": "Кристальный череп",
+  "form_id": "000009BE|DBM_SUT_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTSUTCrystalSkull"
+ },
+ {
+  "original": "Daggerfall Plate",
+  "string": "Тарелка \"Daggerfall\"",
+  "form_id": "000009C0|DBM_SUT_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTSUTDaggerfallPlate"
+ },
+ {
+  "original": "Crystal Wine Glass",
+  "string": "Кристальный бокал",
+  "form_id": "000009C2|DBM_SUT_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTSUTCrystalWineGlass"
+ },
+ {
+  "original": "Dovakin Drum",
+  "string": "Барабан Довакина",
+  "form_id": "000009C4|DBM_SUT_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTSUTDovakinDrum"
+ },
+ {
+  "original": "Emerald Wine Glass",
+  "string": "Изумрудный бокал",
+  "form_id": "000009C6|DBM_SUT_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTSUTEmeraldWineGlass"
+ },
+ {
+  "original": "Fire Opal Wine Glass",
+  "string": "Бокал из огненного опала",
+  "form_id": "000009C8|DBM_SUT_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTSUTFireOpalWineGlass"
+ },
+ {
+  "original": "Golden Flagon",
+  "string": "Кувшин",
+  "form_id": "000009CA|DBM_SUT_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTSUTGoldenFlagon"
+ },
+ {
+  "original": "Frost Dragon Figurine",
+  "string": "Фигурка морозного дракона",
+  "form_id": "000009CC|DBM_SUT_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTSUTFrostDragonFigurine"
+ },
+ {
+  "original": "Leviathan Emerald",
+  "string": "Громадный изумруд",
+  "form_id": "000009CE|DBM_SUT_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTSUTLeviathanEmerald"
+ },
+ {
+  "original": "Leviathan Garnet",
+  "string": "Громадный гранат",
+  "form_id": "000009D0|DBM_SUT_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTSUTLeviathanGarnet"
+ },
+ {
+  "original": "Gemstone Pitcher",
+  "string": "Самоцветный кувшин",
+  "form_id": "000009D2|DBM_SUT_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTSUTGemstonePitcher"
+ },
+ {
+  "original": "Leviathan Ruby",
+  "string": "Громадный рубин",
+  "form_id": "000009D4|DBM_SUT_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTSUTLeviathanRuby"
+ },
+ {
+  "original": "Leviathan Sapphire",
+  "string": "Громадный сапфир",
+  "form_id": "000009D6|DBM_SUT_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTSUTLeviathanSapphire"
+ },
+ {
+  "original": "Leviathan Amethyst",
+  "string": "Громадный аметист",
+  "form_id": "000009D8|DBM_SUT_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTSUTLeviathanAmethyst"
+ },
+ {
+  "original": "Gold Chalice",
+  "string": "Медный кубок",
+  "form_id": "000009DA|DBM_SUT_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTSUTGoldChalice"
+ },
+ {
+  "original": "Gold Model Ship",
+  "string": "Золотая модель корабля",
+  "form_id": "000009DC|DBM_SUT_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTSUTGoldModelShip"
+ },
+ {
+  "original": "Hammered Copper Bowl 1",
+  "string": "Кованая медная чаша 1",
+  "form_id": "000009DE|DBM_SUT_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTSUTHammeredCopperBowl1"
+ },
+ {
+  "original": "Hammered Copper Bowl 2",
+  "string": "Кованая медная чаша 2",
+  "form_id": "000009E0|DBM_SUT_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTSUTHammeredCopperBowl2"
+ },
+ {
+  "original": "Golden Candlestick",
+  "string": "Золотой подсвечник",
+  "form_id": "000009E2|DBM_SUT_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTSUTGoldenCandlestick"
+ },
+ {
+  "original": "Solid Gold Candlestick",
+  "string": "Подсвечник из твердого золота",
+  "form_id": "000009E4|DBM_SUT_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTSUTSolidGoldCandlestick"
+ },
+ {
+  "original": "Hammered Copper Cup",
+  "string": "Чеканная медная чаша",
+  "form_id": "000009E6|DBM_SUT_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTSUTHammeredCopperCup"
+ },
+ {
+  "original": "Golden Dibella Statue",
+  "string": "Золотая статуя Дибеллы",
+  "form_id": "000009E8|DBM_SUT_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTSUTGoldenDibellaStatue"
+ },
+ {
+  "original": "Drinking Horn",
+  "string": "Питьевой рог",
+  "form_id": "000009EA|DBM_SUT_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTSUTDrinkingHorn"
+ },
+ {
+  "original": "Golden Bowl",
+  "string": "Золотая миска",
+  "form_id": "000009EC|DBM_SUT_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTSUTGoldenBowl"
+ },
+ {
+  "original": "Golden Horn",
+  "string": "Золотой рог",
+  "form_id": "000009EE|DBM_SUT_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTSUTGoldenHorn"
+ },
+ {
+  "original": "Golden Ladel",
+  "string": "Золотой черпак",
+  "form_id": "000009F0|DBM_SUT_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTSUTGoldenLadel"
+ },
+ {
+  "original": "Golden Fork",
+  "string": "Золотая вилка",
+  "form_id": "000009F2|DBM_SUT_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTSUTGoldenFork"
+ },
+ {
+  "original": "Gemstone Goblet",
+  "string": "Самоцветный кубок",
+  "form_id": "000009F4|DBM_SUT_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTSUTGemstoneGoblet"
+ },
+ {
+  "original": "Gemstone Urn",
+  "string": "Самоцветная урна",
+  "form_id": "000009F6|DBM_SUT_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTSUTGemstoneUrn"
+ },
+ {
+  "original": "Hammered Copper Goblet",
+  "string": "Чеканный медный кубок",
+  "form_id": "000009F8|DBM_SUT_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTSUTHammeredCopperGoblet"
+ },
+ {
+  "original": "Hammered Copper Jug 2",
+  "string": "Кованый медный кувшин 2",
+  "form_id": "000009FA|DBM_SUT_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTSUTHammeredCopperJug2"
+ },
+ {
+  "original": "Hammered Copper Jug 1",
+  "string": "Кованый медный кувшин 1",
+  "form_id": "000009FC|DBM_SUT_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTSUTHammeredCopperJug1"
+ },
+ {
+  "original": "Golden Knife",
+  "string": "Золотой нож",
+  "form_id": "000009FE|DBM_SUT_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTSUTGoldenKnife"
+ },
+ {
+  "original": "Gold Nugget",
+  "string": "Золотой самородок",
+  "form_id": "00000A00|DBM_SUT_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTSUTGoldNugget"
+ },
+ {
+  "original": "Hammered Copper Plate",
+  "string": "Золотая тарелка",
+  "form_id": "00000A02|DBM_SUT_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTSUTHammeredCopperPlate"
+ },
+ {
+  "original": "Gold Plate",
+  "string": "Золотая тарелка 2",
+  "form_id": "00000A04|DBM_SUT_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTSUTGoldPlate"
+ },
+ {
+  "original": "Hammered Copper Urn 1",
+  "string": "Кованая медная урна 1",
+  "form_id": "00000A06|DBM_SUT_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTSUTHammeredCopperUrn1"
+ },
+ {
+  "original": "Hammered Copper Pot 1",
+  "string": "Кованый медный горшок 1",
+  "form_id": "00000A08|DBM_SUT_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTSUTHammeredCopperPot1"
+ },
+ {
+  "original": "Golden Tankard",
+  "string": "Золотая пивная кружка",
+  "form_id": "00000A0A|DBM_SUT_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTSUTGoldenTankard"
+ },
+ {
+  "original": "Hammered Copper Urn 2",
+  "string": "Кованая медная урна 2",
+  "form_id": "00000A0C|DBM_SUT_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTSUTHammeredCopperUrn2"
+ },
+ {
+  "original": "Green Emerald Skull",
+  "string": "Череп из зеленого изумруда",
+  "form_id": "00000A0E|DBM_SUT_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTSUTGreenEmeraldSkull"
+ },
+ {
+  "original": "20 String Harp Guitar",
+  "string": "20-струнная арфа-гитара",
+  "form_id": "00000A10|DBM_SUT_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTSUT20StringHarpGuitar"
+ },
+ {
+  "original": "10 String Harp",
+  "string": "10-струнная арфа",
+  "form_id": "00000A12|DBM_SUT_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTSUT10StringHarp"
+ },
+ {
+  "original": "Hooka Pipe",
+  "string": "Кальян",
+  "form_id": "00000A14|DBM_SUT_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTSUTHookaPipe"
+ },
+ {
+  "original": "Ice Skull",
+  "string": "Ледяной череп",
+  "form_id": "00000A16|DBM_SUT_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTSUTIceskull"
+ },
+ {
+  "original": "Invisible Daedra Head in a Jar",
+  "string": "Невидимая голова даэдра в банке",
+  "form_id": "00000A18|DBM_SUT_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTSUTInvisibleDaedraHead"
+ },
+ {
+  "original": "Jeweled Horn",
+  "string": "Украшенный рог",
+  "form_id": "00000A1A|DBM_SUT_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTJeweledHornDUPLICATE001"
+ },
+ {
+  "original": "Knights of the Nine Plate",
+  "string": "Тарелка \"Knights of the Nine\"",
+  "form_id": "00000A1C|DBM_SUT_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTSUTKOTNPlate"
+ },
+ {
+  "original": "Psaltery",
+  "string": "Гусли",
+  "form_id": "00000A1E|DBM_SUT_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTSUTPsaltery"
+ },
+ {
+  "original": "Lime Emerald Wine Glass",
+  "string": "Бокал из лаймового изумруда",
+  "form_id": "00000A20|DBM_SUT_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTSUTLimeEmeraldWineglass"
+ },
+ {
+  "original": "Traditional Lute",
+  "string": "Лютня",
+  "form_id": "00000A22|DBM_SUT_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTSUTTraditionalLute"
+ },
+ {
+  "original": "Meteorite",
+  "string": "Метеорит",
+  "form_id": "00000A24|DBM_SUT_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTSUTMeteorite"
+ },
+ {
+  "original": "Morrowind Plate",
+  "string": "Тарелка \"Морровинд\"",
+  "form_id": "00000A26|DBM_SUT_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTSUTMorrowindPlate"
+ },
+ {
+  "original": "Leviathan Morganite Stone",
+  "string": "Громадный морганит",
+  "form_id": "00000A28|DBM_SUT_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTSUTLeviathanMorganiteStone"
+ },
+ {
+  "original": "Black Ninja Doll",
+  "string": "Кукла черного ниндзя",
+  "form_id": "00000A2A|DBM_SUT_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTSUTBlackNinjaDoll"
+ },
+ {
+  "original": "Blue Ninja Doll",
+  "string": "Кукла синего ниндзя",
+  "form_id": "00000A2C|DBM_SUT_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTSUTBlueNinjaDoll"
+ },
+ {
+  "original": "Green Ninja Doll",
+  "string": "Кукла зеленого ниндзя",
+  "form_id": "00000A2E|DBM_SUT_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTSUTGreenNinjaDoll"
+ },
+ {
+  "original": "Red Ninja Doll",
+  "string": "Кукла красного ниндзя",
+  "form_id": "00000A30|DBM_SUT_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTSUTRedNinjaDoll"
+ },
+ {
+  "original": "Nocturnal Figurine",
+  "string": "Фигурка ноктюрнала",
+  "form_id": "00000A32|DBM_SUT_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTSUTNocturnalFigurine"
+ },
+ {
+  "original": "Oblivion Plate",
+  "string": "Тарелка \"Обливион\"",
+  "form_id": "00000A34|DBM_SUT_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTSUTOblivionPlate"
+ },
+ {
+  "original": "Pan Flute",
+  "string": "Флейта Пана",
+  "form_id": "00000A36|DBM_SUT_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTSUTPanFlute"
+ },
+ {
+  "original": "Pink Glofly in a Jar",
+  "string": "Розовый светящийся шар в банке",
+  "form_id": "00000A38|DBM_SUT_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTSUTPinkGlofly"
+ },
+ {
+  "original": "Pink Sapphire Skull",
+  "string": "Череп из розового сапфира",
+  "form_id": "00000A3A|DBM_SUT_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTSUTPinkSapphireSkull"
+ },
+ {
+  "original": "Pink Sapphire Wine Glass",
+  "string": "Бокал из розового сапфира",
+  "form_id": "00000A3C|DBM_SUT_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTSUTPinkSapphireWineGlass"
+ },
+ {
+  "original": "Rainbow Butterfly in a Jar",
+  "string": "Радужная бабочка в банке",
+  "form_id": "00000A3E|DBM_SUT_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTSUTRainbowButterfly"
+ },
+ {
+  "original": "Redguard Plate",
+  "string": "Тарелка \"Redguard\"",
+  "form_id": "00000A40|DBM_SUT_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTSUTRedguardPlate"
+ },
+ {
+  "original": "Ruby Skull",
+  "string": "Рубиновый человеческий череп",
+  "form_id": "00000A42|DBM_SUT_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTSUTRubySkull"
+ },
+ {
+  "original": "Ruby Troll Skull",
+  "string": "Рубиновый череп тролля",
+  "form_id": "00000A44|DBM_SUT_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTSUTRubyTrollSkull"
+ },
+ {
+  "original": "Ruby Wine Glass",
+  "string": "Рубиновый бокал",
+  "form_id": "00000A46|DBM_SUT_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTSUTRubyWineGlass"
+ },
+ {
+  "original": "Sabre Cat Figurine",
+  "string": "Фигурка саблезуба",
+  "form_id": "00000A48|DBM_SUT_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTSUTSabreCatFigurine"
+ },
+ {
+  "original": "Ship in a Bottle",
+  "string": "Корабль в бутылке",
+  "form_id": "00000A4A|DBM_SUT_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTSUTShipinaBottle"
+ },
+ {
+  "original": "Sailing Ship in a Bottle",
+  "string": "Парусник в бутылке",
+  "form_id": "00000A4C|DBM_SUT_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTSUTSailingShipinaBottle"
+ },
+ {
+  "original": "Shivering Isles Plate",
+  "string": "Тарелка \"Дрожащие острова\"",
+  "form_id": "00000A4E|DBM_SUT_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTSUTShiveringIslesPlate"
+ },
+ {
+  "original": "Gold Skeleton Hand",
+  "string": "Золотая человеческая рука",
+  "form_id": "00000A50|DBM_SUT_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTSUTGoldSkeletonHand"
+ },
+ {
+  "original": "Skyrim Plate",
+  "string": "Тарелка \"Скайрим\"",
+  "form_id": "00000A52|DBM_SUT_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTSUTGoldSkyrimPlate"
+ },
+ {
+  "original": "Swamp Dragon Figurine",
+  "string": "Фигурка болотного дракона",
+  "form_id": "00000A54|DBM_SUT_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTSUTSwampDragonFigurine"
+ },
+ {
+  "original": "Tanzenite Wine Glass",
+  "string": "Бокал из танзелита",
+  "form_id": "00000A56|DBM_SUT_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTSUTTanzeniteWineGlass"
+ },
+ {
+  "original": "Topaz Wine Glass",
+  "string": "Топазовый бокал",
+  "form_id": "00000A58|DBM_SUT_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTSUTTopazWineGlass"
+ },
+ {
+  "original": "Tribunal Plate",
+  "string": "Тарелка \"Tribunal\"",
+  "form_id": "00000A5A|DBM_SUT_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTSUTTribunalPlate"
+ },
+ {
+  "original": "StinkBug in a Jar",
+  "string": "Клоп в банке",
+  "form_id": "00000A5C|DBM_SUT_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTSUTStinkBug"
+ },
+ {
+  "original": "Golden Quill",
+  "string": "Золотое перо",
+  "form_id": "00000A5E|DBM_SUT_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTSUTGoldenQuill"
+ },
+ {
+  "original": "Wood Flute",
+  "string": "Деревянная флейта",
+  "form_id": "00000A60|DBM_SUT_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTSUTWoodFlute"
+ },
+ {
+  "original": "Leviathan Diamond",
+  "string": "Громадный алмаз",
+  "form_id": "00000A62|DBM_SUT_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTSUTLeviathanDiamond"
+ },
+ {
+  "original": "Golden Inkwell",
+  "string": "Золотая чернильница",
+  "form_id": "00000A64|DBM_SUT_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTSUTGoldenInkwell"
+ },
+ {
+  "original": "Love Bug in a Jar",
+  "string": "Жук любви в банке",
+  "form_id": "00000A66|DBM_SUT_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTSUTLoveBug"
+ },
+ {
+  "original": "Upright Harp",
+  "string": "Вертикальная арфа",
+  "form_id": "00000A68|DBM_SUT_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTSUTUprightHarp"
+ },
+ {
+  "original": "Worldstone",
+  "string": "Камень мира",
+  "form_id": "00000A6A|DBM_SUT_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTSUTWorldstone"
+ },
+ {
+  "original": "Tenor Recorder",
+  "string": "Блокфлейта",
+  "form_id": "00000A6C|DBM_SUT_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTSUTTenorRecorder"
+ },
+ {
+  "original": "Executioner Great Axe",
+  "string": "Большой топор палача",
+  "form_id": "00000A6E|DBM_SUT_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTSUTExecutionerGreatAxe"
+ },
+ {
+  "original": "Battle Arm Sword",
+  "string": "Боевой наручный меч",
+  "form_id": "00000A70|DBM_SUT_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTSUTBattleArmSword"
+ },
+ {
+  "original": "Butterfly Sword",
+  "string": "Меч-бабочка",
+  "form_id": "00000A72|DBM_SUT_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTSUTButterflySword"
+ },
+ {
+  "original": "Executioner's War Axe",
+  "string": "Боевой топор палача",
+  "form_id": "00000A74|DBM_SUT_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTSUTExecutionersWaraxe"
+ },
+ {
+  "original": "Galaxy Sword",
+  "string": "Галактический меч",
+  "form_id": "00000A76|DBM_SUT_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTSUTGalaxySword"
+ },
+ {
+  "original": "Guan Dao",
+  "string": "Гуан Дао",
+  "form_id": "00000A78|DBM_SUT_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTSUTGuanDao"
+ },
+ {
+  "original": "Hook Sword",
+  "string": "Меч-крюк",
+  "form_id": "00000A7A|DBM_SUT_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTSUTHookSword"
+ },
+ {
+  "original": "Ichigo Kurosaki Sword",
+  "string": "Меч Куросаки Ичиго",
+  "form_id": "00000A7C|DBM_SUT_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTSUTIchigoKurosakiSword"
+ },
+ {
+  "original": "Kama",
+  "string": "Кама",
+  "form_id": "00000A7E|DBM_SUT_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTSUTKama"
+ },
+ {
+  "original": "Mammoth Staff of Fire Ball",
+  "string": "Мамонтовый посох огненных шаров",
+  "form_id": "00000A80|DBM_SUT_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTSUTMammothStaff"
+ },
+ {
+  "original": "Naginata",
+  "string": "Нагината",
+  "form_id": "00000A82|DBM_SUT_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTSUTNaginata"
+ },
+ {
+  "original": "Ninjato",
+  "string": "Ниндзято",
+  "form_id": "00000A84|DBM_SUT_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTSUTNinjato"
+ },
+ {
+  "original": "Oblivion Dagger",
+  "string": "Кинжал Обливиона",
+  "form_id": "00000A86|DBM_SUT_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTSUTOblivionDagger"
+ },
+ {
+  "original": "Ronin Sword",
+  "string": "Меч Ронина",
+  "form_id": "00000A88|DBM_SUT_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTSUTRoninSword"
+ },
+ {
+  "original": "Sai",
+  "string": "Сай",
+  "form_id": "00000A8A|DBM_SUT_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTSUTSai"
+ },
+ {
+  "original": "Akaviri Honorblade",
+  "string": "Честь Акавирца",
+  "form_id": "00000A8C|DBM_SUT_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTSUTAkaviriHonorblade"
+ },
+ {
+  "original": "Scepter of Banishment",
+  "string": "Скипетр изгнания",
+  "form_id": "00000A8E|DBM_SUT_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTSUTScepterofBanishment"
+ },
+ {
+  "original": "S.H.A.R.K.",
+  "string": "А.К.У.Л.А.",
+  "form_id": "00000A90|DBM_SUT_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTSUTSHARK"
+ },
+ {
+  "original": "Tanto",
+  "string": "Танто",
+  "form_id": "00000A92|DBM_SUT_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTSUTTanto"
+ },
+ {
+  "original": "Tomahawk",
+  "string": "Томогавк",
+  "form_id": "00000A94|DBM_SUT_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTSUTTomahawk"
+ },
+ {
+  "original": "Wabbajack Wand",
+  "string": "Палочка-Ваббаджек",
+  "form_id": "00000A96|DBM_SUT_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTSUTWandofWabbajack"
+ },
+ {
+  "original": "Golden Apple",
+  "string": "Золотое яблоко",
+  "form_id": "00000A98|DBM_SUT_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTSUTGoldenApple"
+ },
+ {
+  "original": "Sexy Beast Ale",
+  "string": "Эль «Сексуальный зверь»",
+  "form_id": "00000A9A|DBM_SUT_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTSUTSexyBeastAle"
+ },
+ {
+  "original": "Oblivion Girl",
+  "string": "Девушка Обливиона",
+  "form_id": "00000A9C|DBM_SUT_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTSUTOblivionGirl"
+ },
+ {
+  "original": "Dremora Kiss",
+  "string": "Поцелуй дремора",
+  "form_id": "00000A9E|DBM_SUT_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTSUTDremoraKiss"
+ },
+ {
+  "original": "Dremora Gold Mead",
+  "string": "Золотая медовуха дремора",
+  "form_id": "00000AA0|DBM_SUT_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTSUTDremoraGoldMead"
+ },
+ {
+  "original": "Dremora's Belt",
+  "string": "Пояс дремора",
+  "form_id": "00000AA2|DBM_SUT_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTSUTDremorasBelt"
+ },
+ {
+  "original": "Daedra Love",
+  "string": "Любовь даэдра",
+  "form_id": "00000AA4|DBM_SUT_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTSUTDaedraLove"
+ },
+ {
+  "original": "Daedra Drink",
+  "string": "Питье даэдра",
+  "form_id": "00000AA6|DBM_SUT_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTSUTDaedraDrink"
+ },
+ {
+  "original": "Daedra Blood",
+  "string": "Кровь даэдра",
+  "form_id": "00000AA8|DBM_SUT_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTSUTDaedraBlood"
+ },
+ {
+  "original": "Golden Headdress (replica)",
+  "string": "Золотой головной убор (копия)",
+  "form_id": "00000CB6|DBM_SUT_Patch.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "aaauniqueCrownPlayableREPLICA"
+ },
+ {
+  "original": "Treasure Chest",
+  "string": "Сундук с Сокровищами",
+  "form_id": "0000EBF3|SkyrimsUniqueTreasures.esp",
+  "type": "CONT FULL",
+  "index": null,
+  "editor_id": "aaauniqueTreasureChest10"
+ },
+ {
+  "original": "Treasure Chest",
+  "string": "Сундук с Сокровищами",
+  "form_id": "0000EBF5|SkyrimsUniqueTreasures.esp",
+  "type": "CONT FULL",
+  "index": null,
+  "editor_id": "aaauniqueTreasureChest11"
+ },
+ {
+  "original": "Treasure Chest",
+  "string": "Сундук с Сокровищами",
+  "form_id": "000101CE|SkyrimsUniqueTreasures.esp",
+  "type": "CONT FULL",
+  "index": null,
+  "editor_id": "aaauniqueTreasureChest14"
+ },
+ {
+  "original": "Treasure Chest",
+  "string": "Сундук с Сокровищами",
+  "form_id": "000101D0|SkyrimsUniqueTreasures.esp",
+  "type": "CONT FULL",
+  "index": null,
+  "editor_id": "aaauniqueTreasureChest15"
+ },
+ {
+  "original": "Treasure Chest",
+  "string": "Сундук с Сокровищами",
+  "form_id": "000101D1|SkyrimsUniqueTreasures.esp",
+  "type": "CONT FULL",
+  "index": null,
+  "editor_id": "aaauniqueTreasureChest16"
+ },
+ {
+  "original": "Treasure Chest",
+  "string": "Сундук с Сокровищами",
+  "form_id": "000101D2|SkyrimsUniqueTreasures.esp",
+  "type": "CONT FULL",
+  "index": null,
+  "editor_id": "aaauniqueTreasureChest17"
+ },
+ {
+  "original": "Skyrim Unique Treasures",
+  "string": "Уникальные сокровища Скайрима",
+  "form_id": "00000AAA|DBM_SUT_Patch.esp",
+  "type": "CONT FULL",
+  "index": null,
+  "editor_id": "DBM_CheatCrateSUT"
+ },
+ {
+  "original": "Galaxy Sword (replica)",
+  "string": "Галактический меч (копия)",
+  "form_id": "00000CE8|DBM_SUT_Patch.esp",
+  "type": "WEAP FULL",
+  "index": null,
+  "editor_id": "aaaGalaxyswordREPLICA"
+ },
+ {
+  "original": "Wabbajack Wand (replica)",
+  "string": "Палочка-Ваббаджек (копия)",
+  "form_id": "00000CE9|DBM_SUT_Patch.esp",
+  "type": "WEAP FULL",
+  "index": null,
+  "editor_id": "aaawandofwabbajackREPLICA"
+ },
+ {
+  "original": "Tomahawk (replica)",
+  "string": "Томогавк (копия)",
+  "form_id": "00000CEA|DBM_SUT_Patch.esp",
+  "type": "WEAP FULL",
+  "index": null,
+  "editor_id": "aaatomahawkREPLICA"
+ },
+ {
+  "original": "Tanto (replica)",
+  "string": "Танто (копия)",
+  "form_id": "00000CEB|DBM_SUT_Patch.esp",
+  "type": "WEAP FULL",
+  "index": null,
+  "editor_id": "aaatantoREPLICA"
+ },
+ {
+  "original": "Scepter of Banishment (replica)",
+  "string": "Скипетр изгнания (копия)",
+  "form_id": "00000CED|DBM_SUT_Patch.esp",
+  "type": "WEAP FULL",
+  "index": null,
+  "editor_id": "aaascepterUniqueREPLICA"
+ },
+ {
+  "original": "Sai (replica)",
+  "string": "Сай (копия)",
+  "form_id": "00000CEE|DBM_SUT_Patch.esp",
+  "type": "WEAP FULL",
+  "index": null,
+  "editor_id": "aaaSaiREPLICA"
+ },
+ {
+  "original": "S.H.A.R.K. (replica)",
+  "string": "А.К.У.Л.А. (копия)",
+  "form_id": "00000CEF|DBM_SUT_Patch.esp",
+  "type": "WEAP FULL",
+  "index": null,
+  "editor_id": "aaasharkREPLICA"
+ },
+ {
+  "original": "Ronin Sword (replica)",
+  "string": "Меч Ронина (копия)",
+  "form_id": "00000CF0|DBM_SUT_Patch.esp",
+  "type": "WEAP FULL",
+  "index": null,
+  "editor_id": "aaaronin2REPLICA"
+ },
+ {
+  "original": "Oblivion Dagger (replica)",
+  "string": "Кинжал Обливиона (копия)",
+  "form_id": "00000CF1|DBM_SUT_Patch.esp",
+  "type": "WEAP FULL",
+  "index": null,
+  "editor_id": "aaaOblivionDaggerSUTREPLICA"
+ },
+ {
+  "original": "Ninjato (replica)",
+  "string": "Ниндзято (копия)",
+  "form_id": "00000CF2|DBM_SUT_Patch.esp",
+  "type": "WEAP FULL",
+  "index": null,
+  "editor_id": "aaaninjatoREPLICA"
+ },
+ {
+  "original": "Naginata (replica)",
+  "string": "Нагината (копия)",
+  "form_id": "00000CF3|DBM_SUT_Patch.esp",
+  "type": "WEAP FULL",
+  "index": null,
+  "editor_id": "aaaNaginataREPLICA"
+ },
+ {
+  "original": "Mammoth Staff of Fire Ball (replica)",
+  "string": "Мамонтовый посох огненных шаров (копия)",
+  "form_id": "00000CF4|DBM_SUT_Patch.esp",
+  "type": "WEAP FULL",
+  "index": null,
+  "editor_id": "aaamammothstaffREPLICA"
+ },
+ {
+  "original": "Kama (replica)",
+  "string": "Кама (копия)",
+  "form_id": "00000CF5|DBM_SUT_Patch.esp",
+  "type": "WEAP FULL",
+  "index": null,
+  "editor_id": "aaakamaREPLICA"
+ },
+ {
+  "original": "Ichigo Kurosaki Sword (replica)",
+  "string": "Меч Куросаки Ичиго (копия)",
+  "form_id": "00000CF6|DBM_SUT_Patch.esp",
+  "type": "WEAP FULL",
+  "index": null,
+  "editor_id": "aaaichigoREPLICA"
+ },
+ {
+  "original": "Hook Sword (replica)",
+  "string": "Меч-крюк (копия)",
+  "form_id": "00000CF7|DBM_SUT_Patch.esp",
+  "type": "WEAP FULL",
+  "index": null,
+  "editor_id": "aaaHookswordREPLICA"
+ },
+ {
+  "original": "Guan Dao (replica)",
+  "string": "Гуан Дао (копия)",
+  "form_id": "00000CF8|DBM_SUT_Patch.esp",
+  "type": "WEAP FULL",
+  "index": null,
+  "editor_id": "aaaGuandaoSUTREPLICA"
+ },
+ {
+  "original": "Executioner's War Axe (replica)",
+  "string": "Боевой топор палача (копия)",
+  "form_id": "00000CF9|DBM_SUT_Patch.esp",
+  "type": "WEAP FULL",
+  "index": null,
+  "editor_id": "aaaexecutionerwaraxeREPLICA"
+ },
+ {
+  "original": "Executioner's Great Axe (replica)",
+  "string": "Большой топор палача (копия)",
+  "form_id": "00000CFA|DBM_SUT_Patch.esp",
+  "type": "WEAP FULL",
+  "index": null,
+  "editor_id": "aaa2HeadedexeAxeREPLICA"
+ },
+ {
+  "original": "Butterfly Sword (replica)",
+  "string": "Меч-бабочка (копия)",
+  "form_id": "00000CFB|DBM_SUT_Patch.esp",
+  "type": "WEAP FULL",
+  "index": null,
+  "editor_id": "aaaButterflyswordREPLICA"
+ },
+ {
+  "original": "Battle Arm Sword (replica)",
+  "string": "Боевой наручный меч (копия)",
+  "form_id": "00000CFC|DBM_SUT_Patch.esp",
+  "type": "WEAP FULL",
+  "index": null,
+  "editor_id": "aaabattlearmREPLICA"
+ },
+ {
+  "original": "Akaviri Honorblade (replica)",
+  "string": "Честь Акавирца (копия)",
+  "form_id": "00000CFD|DBM_SUT_Patch.esp",
+  "type": "WEAP FULL",
+  "index": null,
+  "editor_id": "aaaSamauriREPLICA"
+ },
+ {
+  "original": "Skyrim Unique Treasures Support Handler",
+  "string": "Поддержка Skyrim Unique Treasures (служебный)",
+  "form_id": "00000AA9|DBM_SUT_Patch.esp",
+  "type": "QUST FULL",
+  "index": null,
+  "editor_id": "DBM_SupportedModSUT"
+ }
+]

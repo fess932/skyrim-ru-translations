@@ -1,0 +1,18 @@
+[
+ {
+  "original": "The Curators Companion - Alternate Armors - Ebony Plate",
+  "string": "Помощник куратора - Альтернативная броня - Эбонитовые латы",
+  "form_id": "00000800|LOTD_TCC_AAEbonyPlate.esp",
+  "type": "QUST FULL",
+  "index": null,
+  "editor_id": "TCC_SM_AAEbonyPlate"
+ },
+ {
+  "original": "<font color='#<Alias=ColourAlias>'>The Curators Companion: Mod Complete (Ebony Plate)</font>",
+  "string": "<font color='#<Alias=ColourAlias>'>Компаньон куратора: Мод завершен (Эбонитовая латная броня)</font>",
+  "form_id": "00000803|LOTD_TCC_AAEbonyPlate.esp",
+  "type": "MESG DESC",
+  "index": null,
+  "editor_id": "_CompleteNotification_AAEbonyPlate"
+ }
+]

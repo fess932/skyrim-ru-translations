@@ -1,0 +1,106 @@
+[
+ {
+  "original": "Bliss Bug Thorax (replica)",
+  "string": "Торакс жука из Блисса (копия)",
+  "form_id": "00000803|DBM_CC_SaS_CuriosAddon.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTBlissBugThorax"
+ },
+ {
+  "original": "Green Butterfly Wing (replica)",
+  "string": "Крыло зеленой бабочки (копия)",
+  "form_id": "00000811|DBM_CC_SaS_CuriosAddon.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTGreenButterflyWing"
+ },
+ {
+  "original": "Purple Butterfly Wing (replica)",
+  "string": "Крыло фиолетовой бабочки (копия)",
+  "form_id": "00000812|DBM_CC_SaS_CuriosAddon.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTPurpleButterflyWing"
+ },
+ {
+  "original": "Rot Scale (replica)",
+  "string": "Гнилая чешуйка (копия)",
+  "form_id": "00000813|DBM_CC_SaS_CuriosAddon.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTRotScale"
+ },
+ {
+  "original": "Screaming Maw (replica)",
+  "string": "Кричалка (копия)",
+  "form_id": "00000814|DBM_CC_SaS_CuriosAddon.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTScreamingMaw"
+ },
+ {
+  "original": "Thorn Hook (replica)",
+  "string": "Шип (копия)",
+  "form_id": "00000815|DBM_CC_SaS_CuriosAddon.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTThornHook"
+ },
+ {
+  "original": "Bliss Bug Thorax (replica)",
+  "string": "Торакс жука из Блисса (копия)",
+  "form_id": "00000801|DBM_CC_SaS_CuriosAddon.esp",
+  "type": "MISC FULL",
+  "index": null,
+  "editor_id": "DBM_CC_BlissBugThoraxREPLICA"
+ },
+ {
+  "original": "Green Butterfly Wing (replica)",
+  "string": "Крыло зеленой бабочки (копия)",
+  "form_id": "00000805|DBM_CC_SaS_CuriosAddon.esp",
+  "type": "MISC FULL",
+  "index": null,
+  "editor_id": "DBM_CC_GreenButterflyWingREPLICA"
+ },
+ {
+  "original": "Purple Butterfly Wing (replica)",
+  "string": "Крыло фиолетовой бабочки (копия)",
+  "form_id": "00000806|DBM_CC_SaS_CuriosAddon.esp",
+  "type": "MISC FULL",
+  "index": null,
+  "editor_id": "DBM_CC_PurpleButterflyWingREPLICA"
+ },
+ {
+  "original": "Rot Scale (replica)",
+  "string": "Гнилая чешуйка (копия)",
+  "form_id": "00000807|DBM_CC_SaS_CuriosAddon.esp",
+  "type": "MISC FULL",
+  "index": null,
+  "editor_id": "DBM_CC_RotScaleREPLICA"
+ },
+ {
+  "original": "Screaming Maw (replica)",
+  "string": "Кричалка (копия)",
+  "form_id": "00000808|DBM_CC_SaS_CuriosAddon.esp",
+  "type": "MISC FULL",
+  "index": null,
+  "editor_id": "DBM_CC_ScreamingMawREPLICA"
+ },
+ {
+  "original": "Thorn Hook (replica)",
+  "string": "Шип (копия)",
+  "form_id": "00000809|DBM_CC_SaS_CuriosAddon.esp",
+  "type": "MISC FULL",
+  "index": null,
+  "editor_id": "DBM_CC_ThornHookREPLICA"
+ },
+ {
+  "original": "Hall of Wonders",
+  "string": "Зал чудес",
+  "form_id": "000104C9|DBM_CC_HallOfWonders.esp",
+  "type": "CELL FULL",
+  "index": null,
+  "editor_id": "DBMDGHallofWondersCC"
+ }
+]

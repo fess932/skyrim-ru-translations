@@ -1,0 +1,18 @@
+[
+ {
+  "original": "Khajiit Will Follow Official TCC Patch Handler",
+  "string": "Официальный патч Помощника куратора для \"Каджит последует за тобой\" (служебный)",
+  "form_id": "00000806|LOTD_TCC_KhajiitWillFollow.esp",
+  "type": "QUST FULL",
+  "index": null,
+  "editor_id": "TCC_SM_KWF"
+ },
+ {
+  "original": "<font color='#<Alias=ColourAlias>'>The Curators Companion: Mod Complete (Khajiit Will Follow)</font>",
+  "string": "<font color='#<Alias=ColourAlias>'>Компаньон куратора: мод завершен (Каджит последует за тобой)</font>",
+  "form_id": "00000805|LOTD_TCC_KhajiitWillFollow.esp",
+  "type": "MESG DESC",
+  "index": null,
+  "editor_id": "_CompleteNotification_KWF"
+ }
+]

@@ -1,0 +1,114 @@
+[
+ {
+  "original": "Ebony Warrior's Helmet",
+  "string": "Шлем Эбонитового воина",
+  "form_id": "0000082C|DBM_EbonyWarriorOverhaul_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBMARMORACTEbonyWarriorHelmet"
+ },
+ {
+  "original": "Ebony Warrior's Boots",
+  "string": "Сапоги Эбонитового воина",
+  "form_id": "0000082E|DBM_EbonyWarriorOverhaul_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBMARMORACTEbonyWarriorBoots"
+ },
+ {
+  "original": "Ebony Warrior's Armor",
+  "string": "Броня Эбонитового воина",
+  "form_id": "0000082F|DBM_EbonyWarriorOverhaul_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBMARMORACTEbonyWarriorCuirass"
+ },
+ {
+  "original": "Ebony Warrior's Gauntlets",
+  "string": "Перчатки Эбонитового воина",
+  "form_id": "00000830|DBM_EbonyWarriorOverhaul_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBMARMORACTEbonyWarriorGauntlets"
+ },
+ {
+  "original": "Ebony Warrior's Shield",
+  "string": "Щит Эбонитового воина",
+  "form_id": "00000831|DBM_EbonyWarriorOverhaul_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBMARMORACTEbonyWarriorShield"
+ },
+ {
+  "original": "Ebonarm's Might",
+  "string": "Мощь Эбонарма",
+  "form_id": "00000832|DBM_EbonyWarriorOverhaul_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBMARMORACTEbonyWarriorSword"
+ },
+ {
+  "original": "Ebony Warrior's Boots (replica)",
+  "string": "Сапоги Эбонитового воина (копия)",
+  "form_id": "00000816|DBM_EbonyWarriorOverhaul_Patch.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "GM_EbonyWarriorBootsREPLICA"
+ },
+ {
+  "original": "Ebony Warrior's Armor (replica)",
+  "string": "Броня Эбонитового воина (копия)",
+  "form_id": "00000817|DBM_EbonyWarriorOverhaul_Patch.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "GM_EbonyWarriorCuirassREPLICA"
+ },
+ {
+  "original": "Ebony Warrior's Gauntlets (replica)",
+  "string": "Перчатки Эбонитового воина (копия)",
+  "form_id": "00000818|DBM_EbonyWarriorOverhaul_Patch.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "GM_EbonyWarriorGauntletsREPLICA"
+ },
+ {
+  "original": "Ebony Warrior's Helmet (replica)",
+  "string": "Шлем Эбонитового воина (копия)",
+  "form_id": "00000819|DBM_EbonyWarriorOverhaul_Patch.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "GM_EbonyWarriorHelmetREPLICA"
+ },
+ {
+  "original": "Ebony Warrior's Shield (replica)",
+  "string": "Щит Эбонитового воина (копия)",
+  "form_id": "0000081A|DBM_EbonyWarriorOverhaul_Patch.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "GM_EbonyWarriorShieldREPLICA"
+ },
+ {
+  "original": "Ebony Warrior Overhaul Items",
+  "string": "Предметы из Ebony Warrior Overhaul",
+  "form_id": "0000083C|DBM_EbonyWarriorOverhaul_Patch.esp",
+  "type": "CONT FULL",
+  "index": null,
+  "editor_id": "DBM_CheatCrateEbonyWarriorOverhaul"
+ },
+ {
+  "original": "Ebonarm's Might (replica)",
+  "string": "Мощь Эбонарма (копия)",
+  "form_id": "0000081B|DBM_EbonyWarriorOverhaul_Patch.esp",
+  "type": "WEAP FULL",
+  "index": null,
+  "editor_id": "GM_EbonyWarriorSwordREPLICA"
+ },
+ {
+  "original": "Ebony Warrior Overhaul",
+  "string": "Переработка Эбонитового воина",
+  "form_id": "0000082B|DBM_EbonyWarriorOverhaul_Patch.esp",
+  "type": "QUST FULL",
+  "index": null,
+  "editor_id": "DBM_EbonyWarriorOverhaul"
+ }
+]

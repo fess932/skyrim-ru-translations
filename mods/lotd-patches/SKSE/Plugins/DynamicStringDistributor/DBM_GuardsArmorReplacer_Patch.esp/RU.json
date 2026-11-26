@@ -1,0 +1,178 @@
+[
+ {
+  "original": "Whiterun Guard Light Armor",
+  "string": "Легкая броня стражника Вайтрана",
+  "form_id": "00000819|DBM_GuardsArmorReplacer_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTGuardWhiterunLightArmor"
+ },
+ {
+  "original": "Whiterun Guard Light Helmet",
+  "string": "Легкий шлем стражника Вайтрана",
+  "form_id": "0000081B|DBM_GuardsArmorReplacer_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTGuardWhiterunLightHelmet"
+ },
+ {
+  "original": "Solitude Guard Light Armor",
+  "string": "Легкая броня стражника Солитьюда",
+  "form_id": "00000829|DBM_GuardsArmorReplacer_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTGuardHaafingarLightArmor"
+ },
+ {
+  "original": "Solitude Guard Light Helm",
+  "string": "Легкий шлем стражника Солитьюда",
+  "form_id": "0000082A|DBM_GuardsArmorReplacer_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTGuardHaafingarLightHelm"
+ },
+ {
+  "original": "Winterhold Guard Light Armor",
+  "string": "Легкая броня стражника Винтерхолда",
+  "form_id": "00000836|DBM_GuardsArmorReplacer_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTGuardWinterholdLightArmor"
+ },
+ {
+  "original": "Winterhold Guard Light Helm",
+  "string": "Легкий шлем стражника Винтерхолда",
+  "form_id": "00000837|DBM_GuardsArmorReplacer_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTGuardWinterholdLightHelm"
+ },
+ {
+  "original": "Falkreath Guard Light Helm",
+  "string": "Легкий шлем стражника Фолкрита",
+  "form_id": "00000842|DBM_GuardsArmorReplacer_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTGuardFalkreathHelmLight"
+ },
+ {
+  "original": "Falkreath Guard Light Armor",
+  "string": "Легкая броня стражника Фолкрита",
+  "form_id": "00000843|DBM_GuardsArmorReplacer_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTGuardFalkreathArmorLight"
+ },
+ {
+  "original": "Morthal Guard Light Armor",
+  "string": "Легкая броня стражника Морфала",
+  "form_id": "00000855|DBM_GuardsArmorReplacer_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTGuardHjaalmarchArmorLight"
+ },
+ {
+  "original": "Morthal Guard Light Helm",
+  "string": "Легкий шлем стражника Морфала",
+  "form_id": "00000856|DBM_GuardsArmorReplacer_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTGuardHjaalmarchHelmLight"
+ },
+ {
+  "original": "Dawnstar Guard Light Armor",
+  "string": "Легкая броня стражника Данстара",
+  "form_id": "00000866|DBM_GuardsArmorReplacer_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTGuardThePaleArmorLight"
+ },
+ {
+  "original": "Dawnstar Guard Light Helm",
+  "string": "Легкий шлем стражника Данстара",
+  "form_id": "00000867|DBM_GuardsArmorReplacer_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTGuardThePaleHelmLight"
+ },
+ {
+  "original": "Riften Guard Light Armor",
+  "string": "Легкая броня стражника Рифтена",
+  "form_id": "00000879|DBM_GuardsArmorReplacer_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTGuardTheRiftArmorLight"
+ },
+ {
+  "original": "Riften Guard Light Helm",
+  "string": "Легкий шлем стражника Рифтена",
+  "form_id": "0000087A|DBM_GuardsArmorReplacer_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTGuardTheRiftHelmLight"
+ },
+ {
+  "original": "Markarth Guard Helm",
+  "string": "Шлем стражи Маркарта",
+  "form_id": "00000888|DBM_GuardsArmorReplacer_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTGuardTheReachHelmLight"
+ },
+ {
+  "original": "Markarth Guard Armor",
+  "string": "Броня стражи Маркарта",
+  "form_id": "00000889|DBM_GuardsArmorReplacer_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTGuardTheReachArmorLight"
+ },
+ {
+  "original": "Eastmarch Guard Armor",
+  "string": "Броня стражника Истмарка",
+  "form_id": "00000892|DBM_GuardsArmorReplacer_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTGuardEastmarchArmorLight"
+ },
+ {
+  "original": "Eastmarch Guard Helm",
+  "string": "Шлем стражника Истмарка",
+  "form_id": "00000893|DBM_GuardsArmorReplacer_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTGuardEastmarchHelmLight"
+ },
+ {
+  "original": "Windhelm Guard Armor",
+  "string": "Броня стражи Виндхельма",
+  "form_id": "0000089B|DBM_GuardsArmorReplacer_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTGuardEastmarchArmor2"
+ },
+ {
+  "original": "Windhelm Guard Helm",
+  "string": "Шлем стражи Виндхельма",
+  "form_id": "0000089C|DBM_GuardsArmorReplacer_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTGuardEastmarchHelm2"
+ },
+ {
+  "original": "Guard Armor Replacer Chest",
+  "string": "Сундук Guard Armor Replacer",
+  "form_id": "00000814|DBM_GuardsArmorReplacer_Patch.esp",
+  "type": "CONT FULL",
+  "index": null,
+  "editor_id": "DBM_CheatCrateGAR"
+ },
+ {
+  "original": "Guards Armor Replacer Quest Handler",
+  "string": "Замена брони стражи (служебный)",
+  "form_id": "00000818|DBM_GuardsArmorReplacer_Patch.esp",
+  "type": "QUST FULL",
+  "index": null,
+  "editor_id": "DBM_GAR"
+ }
+]

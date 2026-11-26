@@ -1,0 +1,34 @@
+[
+ {
+  "original": "Bloodthirst",
+  "string": "Жажда крови",
+  "form_id": "00000809|DBM_CC_DuskDawnHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTBloodthirst"
+ },
+ {
+  "original": "Bloodthirst (replica)",
+  "string": "Жажда крови (копия)",
+  "form_id": "00000817|DBM_CC_DuskDawnHOWPatch.esp",
+  "type": "WEAP FULL",
+  "index": null,
+  "editor_id": "ccBGSSSE013_BloodthirstReplica"
+ },
+ {
+  "original": "Hall of Wonders",
+  "string": "Зал чудес",
+  "form_id": "000104C9|DBM_CC_HallOfWonders.esp",
+  "type": "CELL FULL",
+  "index": null,
+  "editor_id": "DBMDGHallofWondersCC"
+ },
+ {
+  "original": "Dawnfang and Duskfang Handler",
+  "string": "Клык Рассвета и Клык Заката (служебный)",
+  "form_id": "00000806|DBM_CC_DuskDawnHOWPatch.esp",
+  "type": "QUST FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DawnfangHandler"
+ }
+]

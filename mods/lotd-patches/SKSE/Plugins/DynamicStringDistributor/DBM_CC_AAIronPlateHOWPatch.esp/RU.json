@@ -1,0 +1,50 @@
+[
+ {
+  "original": "Iron Plate Helmet",
+  "string": "Железный пластинчатый шлем",
+  "form_id": "00000805|DBM_CC_AAIronPlateHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTIronPlateHelmet"
+ },
+ {
+  "original": "Iron Plate Armor",
+  "string": "Железная пластинчатая броня",
+  "form_id": "00000806|DBM_CC_AAIronPlateHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTIronPlateArmor"
+ },
+ {
+  "original": "Iron Plate Gauntlets",
+  "string": "Железные пластинчатые перчатки",
+  "form_id": "00000807|DBM_CC_AAIronPlateHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTIronPlateGauntlets"
+ },
+ {
+  "original": "Iron Plate Boots",
+  "string": "Железные пластинчатые сапоги",
+  "form_id": "00000808|DBM_CC_AAIronPlateHOWPatch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTIronPlateBoots"
+ },
+ {
+  "original": "Hall of Wonders",
+  "string": "Зал чудес",
+  "form_id": "000104C9|DBM_CC_HallOfWonders.esp",
+  "type": "CELL FULL",
+  "index": null,
+  "editor_id": "DBMDGHallofWondersCC"
+ },
+ {
+  "original": "Alt Armors Iron Plate Handler",
+  "string": "Альтернативная броня: железные латы (служебный)",
+  "form_id": "00000804|DBM_CC_AAIronPlateHOWPatch.esp",
+  "type": "QUST FULL",
+  "index": null,
+  "editor_id": "DBM_CC_IronPlateHandler"
+ }
+]

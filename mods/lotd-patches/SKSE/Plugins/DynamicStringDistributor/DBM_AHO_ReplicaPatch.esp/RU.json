@@ -1,0 +1,34 @@
+[
+ {
+  "original": "Telvanni Hybrid Boots (replica)",
+  "string": "Гибридные сапоги Телванни (копия)",
+  "form_id": "00000800|DBM_AHO_ReplicaPatch.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "DwaSpArm01BootsREPLICA"
+ },
+ {
+  "original": "Telvanni Hybrid Armor (replica)",
+  "string": "Гибридная броня Телванни (копия)",
+  "form_id": "00000801|DBM_AHO_ReplicaPatch.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "DwaSpArm02CuirassSpecialREPLICA"
+ },
+ {
+  "original": "Ancient Dwemer Robe (replica)",
+  "string": "Древнее одеяние двемера (копия)",
+  "form_id": "00000802|DBM_AHO_ReplicaPatch.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "DwaSpSakeRobes06REPLICA"
+ },
+ {
+  "original": "Aetherium Telvanni Bow (replica)",
+  "string": "Этериевый лук Телванни (копия)",
+  "form_id": "00000809|DBM_AHO_ReplicaPatch.esp",
+  "type": "WEAP FULL",
+  "index": null,
+  "editor_id": "DwaSpBowSpecialREPLICA"
+ }
+]

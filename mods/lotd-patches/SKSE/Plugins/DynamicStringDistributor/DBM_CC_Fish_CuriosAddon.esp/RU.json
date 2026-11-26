@@ -1,0 +1,18 @@
+[
+ {
+  "original": "Perfect Roe (replica)",
+  "string": "Идеальная икра (копия)",
+  "form_id": "00000801|DBM_CC_Fish_CuriosAddon.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_CC_DISPACTPerfectRoe"
+ },
+ {
+  "original": "Hall of Wonders",
+  "string": "Зал чудес",
+  "form_id": "000104C9|DBM_CC_HallOfWonders.esp",
+  "type": "CELL FULL",
+  "index": null,
+  "editor_id": "DBMDGHallofWondersCC"
+ }
+]

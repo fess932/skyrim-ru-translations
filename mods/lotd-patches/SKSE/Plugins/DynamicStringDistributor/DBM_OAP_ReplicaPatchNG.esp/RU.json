@@ -1,0 +1,458 @@
+[
+ {
+  "original": "Birthright of Astalon",
+  "string": "Право рождения Асталоны",
+  "form_id": "000008CA|DBM_OblivionArtifacts_Patch.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DBM_DISPACTAstalonArmor"
+ },
+ {
+  "original": "Ring of Desiccation (replica)",
+  "string": "Кольцо высушивания (копия)",
+  "form_id": "00000800|DBM_OAP_ReplicaPatchNG.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "0000V5RingofDesiccationREPLICA"
+ },
+ {
+  "original": "Ring of the Oceanborn (replica)",
+  "string": "Кольцо рожденного в океане (копия)",
+  "form_id": "00000801|DBM_OAP_ReplicaPatchNG.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "0000V5RingoftheOceanbornREPLICA"
+ },
+ {
+  "original": "Blackwood Ring of Silence (replica)",
+  "string": "Кольцо Тишины Блэквуда (копия)",
+  "form_id": "00000802|DBM_OAP_ReplicaPatchNG.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "000BlackwoodRingofSilenceREPLICA"
+ },
+ {
+  "original": "Ring of Transmutation (replica)",
+  "string": "Кольцо трансмутации (копия)",
+  "form_id": "00000803|DBM_OAP_ReplicaPatchNG.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "000RingofTransmutationREPLICA"
+ },
+ {
+  "original": "Ring of Wortcraft (replica)",
+  "string": "Кольцо травничества (копия)",
+  "form_id": "00000804|DBM_OAP_ReplicaPatchNG.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "000RingofWortcraftREPLICA"
+ },
+ {
+  "original": "Sorcerer's Ring (replica)",
+  "string": "Кольцо чародея (копия)",
+  "form_id": "00000805|DBM_OAP_ReplicaPatchNG.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "000SorcerersRingREPLICA"
+ },
+ {
+  "original": "Draconian Madstone (replica)",
+  "string": "Драконий камень безумия (копия)",
+  "form_id": "00000806|DBM_OAP_ReplicaPatchNG.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "000DraconianMSREPLICA"
+ },
+ {
+  "original": "Eye of Sithis (replica)",
+  "string": "Глаз Ситиса (копия)",
+  "form_id": "00000807|DBM_OAP_ReplicaPatchNG.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "000EyeofSithisAmuletREPLICA"
+ },
+ {
+  "original": "Ring of the Vipereye (replica)",
+  "string": "Кольцо \"Глаз Змеи\" (копия)",
+  "form_id": "00000808|DBM_OAP_ReplicaPatchNG.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "000VipereyeRingREPLICA"
+ },
+ {
+  "original": "Aegis of the Apocalypse (replica)",
+  "string": "Эгида Апокалипсиса (копия)",
+  "form_id": "0000080A|DBM_OAP_ReplicaPatchNG.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "000ApocalypseArmorREPLICA"
+ },
+ {
+  "original": "Alvante's Armor (replica)",
+  "string": "Доспехи Альванте (копия)",
+  "form_id": "0000080B|DBM_OAP_ReplicaPatchNG.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "000AlvantesArmorREPLICA"
+ },
+ {
+  "original": "Alvante's Boots (replica)",
+  "string": "Сапоги Альванте (копия)",
+  "form_id": "0000080C|DBM_OAP_ReplicaPatchNG.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "000AlvantesBootsREPLICA"
+ },
+ {
+  "original": "Alvante's Gloves (replica)",
+  "string": "Перчатки Альванте (копия)",
+  "form_id": "0000080D|DBM_OAP_ReplicaPatchNG.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "000AlvantesGlovesREPLICA"
+ },
+ {
+  "original": "Alvante's Hood (replica)",
+  "string": "Капюшон Альванте (копия)",
+  "form_id": "0000080E|DBM_OAP_ReplicaPatchNG.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "000AlvantesHood2REPLICA"
+ },
+ {
+  "original": "Apron of the Master Artisan (replica)",
+  "string": "Фартук Мастера Артизана (копия)",
+  "form_id": "0000080F|DBM_OAP_ReplicaPatchNG.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "000MasterClothesBlackSmithREPLICA"
+ },
+ {
+  "original": "Birthright of Astalon (replica)",
+  "string": "Право рождения Асталоны (копия)",
+  "form_id": "00000810|DBM_OAP_ReplicaPatchNG.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "0000BirthrightofAstalonREPLICA"
+ },
+ {
+  "original": "Boots of the Swift Merchant (replica)",
+  "string": "Сапоги ловкого торговца (копия)",
+  "form_id": "00000811|DBM_OAP_ReplicaPatchNG.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "000MerchSwiftREPLICA"
+ },
+ {
+  "original": "Brusef Amelion's Armor (replica)",
+  "string": "Доспехи Брусефа Амелиона (копия)",
+  "form_id": "00000812|DBM_OAP_ReplicaPatchNG.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "000AmelionArmorREPLICA"
+ },
+ {
+  "original": "Brusef Amelion's Boots (replica)",
+  "string": "Сапоги Брусефа Амелиона (копия)",
+  "form_id": "00000813|DBM_OAP_ReplicaPatchNG.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "000BrusefAmelionsBootsREPLICA"
+ },
+ {
+  "original": "Brusef Amelion's Gauntlets (replica)",
+  "string": "Рукавицы Брусефа Амелиона (копия)",
+  "form_id": "00000814|DBM_OAP_ReplicaPatchNG.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "000BrusefAmelionsGauntletsREPLICA"
+ },
+ {
+  "original": "Brusef Amelion's Helmet (replica)",
+  "string": "Шлем Брусефа Амелиона (копия)",
+  "form_id": "00000815|DBM_OAP_ReplicaPatchNG.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "000BrusefAmelionsHelmetREPLICA"
+ },
+ {
+  "original": "Brusef Amelion's Shield (replica)",
+  "string": "Щит Брусефа Амелиона (копия)",
+  "form_id": "00000816|DBM_OAP_ReplicaPatchNG.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "000BrusefAmelionsShieldREPLICA"
+ },
+ {
+  "original": "Dondoran's Juggernaut (replica)",
+  "string": "Доспехи Дондорана (копия)",
+  "form_id": "00000818|DBM_OAP_ReplicaPatchNG.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "000JuggernautArmorREPLICA"
+ },
+ {
+  "original": "Escutcheon of Chorrol (replica)",
+  "string": "Щит Чоррола (копия)",
+  "form_id": "00000819|DBM_OAP_ReplicaPatchNG.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "000EscutcheonofChorrolShieldREPLICA"
+ },
+ {
+  "original": "Knight of Chorrol Armor (replica)",
+  "string": "Доспехи Рыцаря Чоррола (копия)",
+  "form_id": "0000081A|DBM_OAP_ReplicaPatchNG.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "000HonorArmorEbonyCuirassREPLICA"
+ },
+ {
+  "original": "Knight of Chorrol Shield (replica)",
+  "string": "Щит Рыцаря Чоррола (копия)",
+  "form_id": "0000081B|DBM_OAP_ReplicaPatchNG.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "000HonorArmorEbonyShieldREPLICA"
+ },
+ {
+  "original": "Knight of Chorrol Boots (replica)",
+  "string": "Сапоги рыцаря Коррола (копия)",
+  "form_id": "0000081C|DBM_OAP_ReplicaPatchNG.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "000HonorArmorEbonyBootsREPLICA"
+ },
+ {
+  "original": "Knight of Chorrol Gauntlets (replica)",
+  "string": "Перчатки рыцаря Коррола (копия)",
+  "form_id": "0000081D|DBM_OAP_ReplicaPatchNG.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "000HonorArmorEbonyGauntletsREPLICA"
+ },
+ {
+  "original": "Knight of Chorrol Helmet (replica)",
+  "string": "Шлем рыцаря Коррола (копия)",
+  "form_id": "0000081E|DBM_OAP_ReplicaPatchNG.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "000HonorArmorEbonyHelmetREPLICA"
+ },
+ {
+  "original": "Robe of Creativity (replica)",
+  "string": "Одеяние творчества (копия)",
+  "form_id": "0000081F|DBM_OAP_ReplicaPatchNG.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "000RobecreatiREPLICA"
+ },
+ {
+  "original": "Tower of the Nine (replica)",
+  "string": "Башня Девяти (копия)",
+  "form_id": "00000820|DBM_OAP_ReplicaPatchNG.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "000ArmorBladesShieldof9REPLICA"
+ },
+ {
+  "original": "Helm of Ferocity (replica)",
+  "string": "Шлем свирепости (копия)",
+  "form_id": "00000821|DBM_OAP_ReplicaPatchNG.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "000ArmorOrcishHelmetREPLICA"
+ },
+ {
+  "original": "Circlet of Omnipotence (replica)",
+  "string": "Кольцо Сверхвозможностей (копия)",
+  "form_id": "00000822|DBM_OAP_ReplicaPatchNG.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "000CircletofOmnipotenceArmorREPLICA"
+ },
+ {
+  "original": "Cowl of the Druid (replica)",
+  "string": "Капюшон друида (копия)",
+  "form_id": "00000823|DBM_OAP_ReplicaPatchNG.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "000DruidClothesCollegeHoodVariant1REPLICA"
+ },
+ {
+  "original": "Quicksilver Boots (replica)",
+  "string": "Сапоги ртути (копия)",
+  "form_id": "00000824|DBM_OAP_ReplicaPatchNG.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "000QuicksilverbootsREPLICA"
+ },
+ {
+  "original": "The Deceiver's Finery (replica)",
+  "string": "Одеяние Обманщика (копия)",
+  "form_id": "00000825|DBM_OAP_ReplicaPatchNG.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "000TheDeceiversFineryREPLICA"
+ },
+ {
+  "original": "Veil of the Seer (replica)",
+  "string": "Покров провидца (копия)",
+  "form_id": "00000826|DBM_OAP_ReplicaPatchNG.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "000VeiloftheSeerREPLICA"
+ },
+ {
+  "original": "Birthright of Astalon (replica)",
+  "string": "Право рождения Асталоны (копия)",
+  "form_id": "00000827|DBM_OAP_ReplicaPatchNG.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "0000BirthrightofAstalonLREPLICA"
+ },
+ {
+  "original": "Rasheda's Special (replica)",
+  "string": "Особое снаряжение Рашеды (копия)",
+  "form_id": "00000828|DBM_OAP_ReplicaPatchNG.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "0000RashedasSpecialREPLICA"
+ },
+ {
+  "original": "Hands of Midnight (replica)",
+  "string": "Руки полуночи (копия)",
+  "form_id": "00000829|DBM_OAP_ReplicaPatchNG.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "0000MidnightHandsREPLICA"
+ },
+ {
+  "original": "Circlet of Verdure (replica)",
+  "string": "Венец зелени (копия)",
+  "form_id": "0000082A|DBM_OAP_ReplicaPatchNG.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "0000V5CircletofVerdureREPLICA"
+ },
+ {
+  "original": "Battleaxe of Hatred (replica)",
+  "string": "Секира ненависти (копия)",
+  "form_id": "0000085C|DBM_OAP_ReplicaPatchNG.esp",
+  "type": "WEAP FULL",
+  "index": null,
+  "editor_id": "0000BattleaxeofHateREPLICA"
+ },
+ {
+  "original": "Calliben's Grim Retort (replica)",
+  "string": "Мрачный упрек Каллибена (копия)",
+  "form_id": "0000085D|DBM_OAP_ReplicaPatchNG.esp",
+  "type": "WEAP FULL",
+  "index": null,
+  "editor_id": "0000CallibensGrimRetortREPLICA"
+ },
+ {
+  "original": "Akaviri Sunderblade (replica)",
+  "string": "Акавирский рассекатель (копия)",
+  "form_id": "0000085E|DBM_OAP_ReplicaPatchNG.esp",
+  "type": "WEAP FULL",
+  "index": null,
+  "editor_id": "000AkaviriSunderbladeREPLICA"
+ },
+ {
+  "original": "Blackwater Blade (replica)",
+  "string": "Клинок Черной Воды (копия)",
+  "form_id": "0000085F|DBM_OAP_ReplicaPatchNG.esp",
+  "type": "WEAP FULL",
+  "index": null,
+  "editor_id": "000BlackwaterSteelSwordREPLICA"
+ },
+ {
+  "original": "Frostwyrm (replica)",
+  "string": "Ледяной вирм (копия)",
+  "form_id": "00000860|DBM_OAP_ReplicaPatchNG.esp",
+  "type": "WEAP FULL",
+  "index": null,
+  "editor_id": "000FrostwyrmeWeapREPLICA"
+ },
+ {
+  "original": "Captain Kordan's Saber (replica)",
+  "string": "Сабля капитана Кордана (копия)",
+  "form_id": "00000861|DBM_OAP_ReplicaPatchNG.esp",
+  "type": "WEAP FULL",
+  "index": null,
+  "editor_id": "000KordonswordREPLICA"
+ },
+ {
+  "original": "Redwave (replica)",
+  "string": "Алая волна (копия)",
+  "form_id": "00000862|DBM_OAP_ReplicaPatchNG.esp",
+  "type": "WEAP FULL",
+  "index": null,
+  "editor_id": "000RedwaveSwordREPLICA"
+ },
+ {
+  "original": "Rockshatter (replica)",
+  "string": "Разрушитель скал (копия)",
+  "form_id": "00000863|DBM_OAP_ReplicaPatchNG.esp",
+  "type": "WEAP FULL",
+  "index": null,
+  "editor_id": "000RockshatterREPLICA"
+ },
+ {
+  "original": "Shadowhunt (replica)",
+  "string": "Охота в тени (копия)",
+  "form_id": "00000864|DBM_OAP_ReplicaPatchNG.esp",
+  "type": "WEAP FULL",
+  "index": null,
+  "editor_id": "000ShadowhuntREPLICA"
+ },
+ {
+  "original": "Sinweaver (replica)",
+  "string": "Ткач грехов (копия)",
+  "form_id": "00000865|DBM_OAP_ReplicaPatchNG.esp",
+  "type": "WEAP FULL",
+  "index": null,
+  "editor_id": "000SinweaverREPLICA"
+ },
+ {
+  "original": "Dagger of Discipline (replica)",
+  "string": "Кинжал дисциплины (копия)",
+  "form_id": "00000866|DBM_OAP_ReplicaPatchNG.esp",
+  "type": "WEAP FULL",
+  "index": null,
+  "editor_id": "000DagofDREPLICA"
+ },
+ {
+  "original": "Sufferthorn (replica)",
+  "string": "Шипастая мука (копия)",
+  "form_id": "00000867|DBM_OAP_ReplicaPatchNG.esp",
+  "type": "WEAP FULL",
+  "index": null,
+  "editor_id": "000SufferthornDaggerREPLICA"
+ },
+ {
+  "original": "Witsplinter (replica)",
+  "string": "Раздробитель разума (копия)",
+  "form_id": "00000868|DBM_OAP_ReplicaPatchNG.esp",
+  "type": "WEAP FULL",
+  "index": null,
+  "editor_id": "000WitsplinterElvenDaggerREPLICA"
+ },
+ {
+  "original": "Brusef Amelion's Sword (replica)",
+  "string": "Меч Брусефа Амелиона (копия)",
+  "form_id": "00000877|DBM_OAP_ReplicaPatchNG.esp",
+  "type": "WEAP FULL",
+  "index": null,
+  "editor_id": "000AmelionSwordWeapREPLICA"
+ },
+ {
+  "original": "Adds OAP References to Formlists",
+  "string": "Добавление ссылок OAP в списки форм",
+  "form_id": "00000882|DBM_OAP_ReplicaPatchNG.esp",
+  "type": "QUST FULL",
+  "index": null,
+  "editor_id": "DBM_OAP_REPQuest"
+ }
+]
