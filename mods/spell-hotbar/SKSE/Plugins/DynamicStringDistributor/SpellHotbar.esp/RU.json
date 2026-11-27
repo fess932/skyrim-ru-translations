@@ -1,0 +1,178 @@
+[
+ {
+  "original": "Does Nothing, but 1.5.97 crashes when a spell has no magic effect",
+  "string": "Ничего не делает (нужен, чтобы 1.5.97 не вылетала без эффекта)",
+  "form_id": "00000833|SpellHotbar.esp",
+  "type": "MGEF FULL",
+  "index": null,
+  "editor_id": "SpellHotbar_UnbindDummyEffect"
+ },
+ {
+  "original": "Toggle SpellHotbar Dual Casting Effect",
+  "string": "Переключение двойного каста с панели",
+  "form_id": "0000083A|SpellHotbar.esp",
+  "type": "MGEF FULL",
+  "index": null,
+  "editor_id": "SpellHotbar_ToggleDualCastEffect"
+ },
+ {
+  "original": "Cannot gain \"Battlemage's Inspiration\"",
+  "string": "Нельзя получить \"Вдохновение боевого мага\"",
+  "form_id": "0000083E|SpellHotbar.esp",
+  "type": "MGEF FULL",
+  "index": null,
+  "editor_id": "SpellHotbar_SpellProcCD"
+ },
+ {
+  "original": "<Unbind Slot>",
+  "string": "<Освободить ячейку>",
+  "form_id": "00000810|SpellHotbar.esp",
+  "type": "SPEL FULL",
+  "index": null,
+  "editor_id": "SpellHotbar_unbind"
+ },
+ {
+  "original": "Unbind a slot in the Hotbar. If bound to an empty slot set it to 'Blocked' from inheritance.",
+  "string": "Освобождает ячейку на панели. Если применить к пустой ячейке, она станет \"Заблокированной\" и не будет наследовать заклинание.",
+  "form_id": "00000810|SpellHotbar.esp",
+  "type": "SPEL DESC",
+  "index": null,
+  "editor_id": "SpellHotbar_unbind"
+ },
+ {
+  "original": "SpellHotbar_CastFX_Spell",
+  "string": "SpellHotbar_CastFX_Spell",
+  "form_id": "00000816|SpellHotbar.esp",
+  "type": "SPEL FULL",
+  "index": null,
+  "editor_id": "SpellHotbar_CastFX_Spell"
+ },
+ {
+  "original": "Hotbar Dual Casting",
+  "string": "Двойной каст с панели",
+  "form_id": "00000839|SpellHotbar.esp",
+  "type": "SPEL FULL",
+  "index": null,
+  "editor_id": "SpellHotbar_ToggleDualCasting"
+ },
+ {
+  "original": "Apply SpellProc CD",
+  "string": "Перезарядка срабатывания заклинаний",
+  "form_id": "0000083F|SpellHotbar.esp",
+  "type": "SPEL FULL",
+  "index": null,
+  "editor_id": "SpellHotbar_ApplySpellProcCD"
+ },
+ {
+  "original": "Cast On Power Attack",
+  "string": "Каст при силовой атаке",
+  "form_id": "0000083D|SpellHotbar.esp",
+  "type": "PERK FULL",
+  "index": null,
+  "editor_id": "SpellHotbar_BattleMage_PerkProcPowerAttack"
+ },
+ {
+  "original": "Power Attack hits can trigger Novice or Apprentice spell procs. Requires 'One-Handed' or 'Two-Handed' 25.",
+  "string": "Попадания силовыми атаками могут сами выпускать заклинания уровня \"Новичок\" или \"Ученик\". Требуется навык \"Одноручное\" или \"Двуручное\" 25.",
+  "form_id": "0000083D|SpellHotbar.esp",
+  "type": "PERK DESC",
+  "index": null,
+  "editor_id": "SpellHotbar_BattleMage_PerkProcPowerAttack"
+ },
+ {
+  "original": "Cast On Backstab",
+  "string": "Каст при ударе в спину",
+  "form_id": "00000846|SpellHotbar.esp",
+  "type": "PERK FULL",
+  "index": null,
+  "editor_id": "SpellHotbar_BattleMage_PerkProcSneakAttack"
+ },
+ {
+  "original": "Sneak Attacks can trigger Novice or Apprentice spell procs. Requires 'Sneak' 25.",
+  "string": "Скрытные атаки могут сами выпускать заклинания уровня \"Новичок\" или \"Ученик\". Требуется навык \"Скрытность\" 25.",
+  "form_id": "00000846|SpellHotbar.esp",
+  "type": "PERK DESC",
+  "index": null,
+  "editor_id": "SpellHotbar_BattleMage_PerkProcSneakAttack"
+ },
+ {
+  "original": "Cast On Crit",
+  "string": "Каст при критическом ударе",
+  "form_id": "00000847|SpellHotbar.esp",
+  "type": "PERK FULL",
+  "index": null,
+  "editor_id": "SpellHotbar_BattleMage_PerkProcCrit"
+ },
+ {
+  "original": "Critical hits can trigger Novice or Apprentice spell procs. Requires 'One-Handed' or 'Two-Handed' or 'Archery' 25.",
+  "string": "Критические удары могут сами выпускать заклинания уровня \"Новичок\" или \"Ученик\". Требуется навык \"Одноручное\", \"Двуручное\" или \"Стрельба\" 25.",
+  "form_id": "00000847|SpellHotbar.esp",
+  "type": "PERK DESC",
+  "index": null,
+  "editor_id": "SpellHotbar_BattleMage_PerkProcCrit"
+ },
+ {
+  "original": "Cast On Block",
+  "string": "Каст при блоке",
+  "form_id": "00000848|SpellHotbar.esp",
+  "type": "PERK FULL",
+  "index": null,
+  "editor_id": "SpellHotbar_BattleMage_PerkProcBlock"
+ },
+ {
+  "original": "Timed Blocking can trigger Novice or Apprentice spell procs. Requires 'Block' 25.",
+  "string": "Своевременный блок может сам выпускать заклинания уровня \"Новичок\" или \"Ученик\". Требуется навык \"Блокирование\" 25.",
+  "form_id": "00000848|SpellHotbar.esp",
+  "type": "PERK DESC",
+  "index": null,
+  "editor_id": "SpellHotbar_BattleMage_PerkProcBlock"
+ },
+ {
+  "original": "Cast On Concentration",
+  "string": "Каст при концентрации",
+  "form_id": "00000849|SpellHotbar.esp",
+  "type": "PERK FULL",
+  "index": null,
+  "editor_id": "SpellHotbar_BattleMage_PerkProcConcentrationCast"
+ },
+ {
+  "original": "Casting a concentration spell for 6 seconds can trigger Novice or Apprentice spell procs. Requires a Magic Skill of at least 25.",
+  "string": "Поддержание заклинания концентрации в течение 6 секунд может само выпускать заклинания уровня \"Новичок\" или \"Ученик\". Требуется любой магический навык не ниже 25.",
+  "form_id": "00000849|SpellHotbar.esp",
+  "type": "PERK DESC",
+  "index": null,
+  "editor_id": "SpellHotbar_BattleMage_PerkProcConcentrationCast"
+ },
+ {
+  "original": "Expert Battlemage",
+  "string": "Боевой маг-эксперт",
+  "form_id": "0000084A|SpellHotbar.esp",
+  "type": "PERK FULL",
+  "index": null,
+  "editor_id": "SpellHotbar_BattleMage_PerkExpert"
+ },
+ {
+  "original": "Spell Procs can trigger Adept and Expert spells. Reduces Cooldown by 20%. Requires 'Alteration' 50.",
+  "string": "Срабатывания могут выпускать заклинания уровня \"Адепт\" и \"Эксперт\". Перезарядка сокращается на 20%. Требуется навык \"Изменение\" 50.",
+  "form_id": "0000084A|SpellHotbar.esp",
+  "type": "PERK DESC",
+  "index": null,
+  "editor_id": "SpellHotbar_BattleMage_PerkExpert"
+ },
+ {
+  "original": "Master Battlemage",
+  "string": "Боевой маг-мастер",
+  "form_id": "0000084B|SpellHotbar.esp",
+  "type": "PERK FULL",
+  "index": null,
+  "editor_id": "SpellHotbar_BattleMage_PerkMaster"
+ },
+ {
+  "original": "Spell Procs can trigger Master spells. Reduces Cooldown by 40%. Requires 'Alteration' 75.",
+  "string": "Срабатывания могут выпускать заклинания уровня \"Мастер\". Перезарядка сокращается на 40%. Требуется навык \"Изменение\" 75.",
+  "form_id": "0000084B|SpellHotbar.esp",
+  "type": "PERK DESC",
+  "index": null,
+  "editor_id": "SpellHotbar_BattleMage_PerkMaster"
+ }
+]

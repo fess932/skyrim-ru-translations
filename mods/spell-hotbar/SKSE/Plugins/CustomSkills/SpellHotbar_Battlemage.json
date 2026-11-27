@@ -1,0 +1,66 @@
+{
+  "$schema": "https://raw.githubusercontent.com/Exit-9B/CustomSkills/main/docs/schema/CustomSkill.json",
+  "version": 1,
+    "skydome": {
+    "model": "interface/intbattlemageperkskydome.nif",
+    "cameraRightPoint": 2
+  },
+  "showMenu": "SpellHotbar.esp|83C",
+  "skills": [
+    {
+      "id": "SpellHotbar_Battlemage",
+      "name": "Боевой маг",
+      "description": "Путь боевого мага улучшает каст с панели заклинаний.",
+      "nodes": [
+        {
+          "id": "SpellHotbar_Battlemage_PerkProcPowerAttack",
+          "perk": "SpellHotbar.esp|83D",
+          "x": -2.0,
+          "y": 0,
+          "links": [ "SpellHotbar_Battlemage_PerkExpert" ]
+        },
+        {
+          "id": "SpellHotbar_Battlemage_PerkProcSneakAttack",
+          "perk": "SpellHotbar.esp|846",
+          "x": -1.0,
+          "y": 0,
+          "links": [ "SpellHotbar_Battlemage_PerkExpert" ]
+        },
+        {
+          "id": "SpellHotbar_Battlemage_PerkProcCrit",
+          "perk": "SpellHotbar.esp|847",
+          "x": 0,
+          "y": 0,
+          "links": [ "SpellHotbar_Battlemage_PerkExpert" ]
+        },
+        {
+          "id": "SpellHotbar_Battlemage_PerkProcBlock",
+          "perk": "SpellHotbar.esp|848",
+          "x": 1.0,
+          "y": 0,
+          "links": [ "SpellHotbar_Battlemage_PerkExpert" ]
+        },
+        {
+          "id": "SpellHotbar_Battlemage_PerkProcConcentrationCast",
+          "perk": "SpellHotbar.esp|849",
+          "x": 2.0,
+          "y": 0,
+          "links": [ "SpellHotbar_Battlemage_PerkExpert" ]
+        },
+        {
+          "id": "SpellHotbar_Battlemage_PerkExpert",
+          "perk": "SpellHotbar.esp|84A",
+          "x": 0,
+          "y": 1.0,
+          "links": [ "SpellHotbar_Battlemage_PerkMaster" ]
+        },
+        {
+          "id": "SpellHotbar_Battlemage_PerkMaster",
+          "perk": "SpellHotbar.esp|84B",
+          "x": 0,
+          "y": 2.0
+        }
+      ]
+    }
+  ]
+}

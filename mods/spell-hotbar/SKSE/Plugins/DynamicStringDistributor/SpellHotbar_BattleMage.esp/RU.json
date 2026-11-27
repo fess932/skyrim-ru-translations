@@ -1,0 +1,26 @@
+[
+ {
+  "original": "Open Battlemage Perk Tree",
+  "string": "Открыть ветку навыков боевого мага",
+  "form_id": "00000802|SpellHotbar_BattleMage.esp",
+  "type": "MGEF FULL",
+  "index": null,
+  "editor_id": "SpellHotbar_BattleMerge_OpenPerkTreeEffect"
+ },
+ {
+  "original": "BattleMage Perk Tree",
+  "string": "Ветка навыков боевого мага",
+  "form_id": "00000801|SpellHotbar_BattleMage.esp",
+  "type": "SPEL FULL",
+  "index": null,
+  "editor_id": "SpellHotbar_BattleMage_OpenSkillMenuPower"
+ },
+ {
+  "original": "Open Battlemage Perk Tree",
+  "string": "Открыть ветку навыков боевого мага",
+  "form_id": "00000801|SpellHotbar_BattleMage.esp",
+  "type": "SPEL DESC",
+  "index": null,
+  "editor_id": "SpellHotbar_BattleMage_OpenSkillMenuPower"
+ }
+]

@@ -1,0 +1,13 @@
+{
+  "slug": "spell-hotbar",
+  "name": "Spell Hotbar 2",
+  "reuse_installed": true,
+  "plugins": [
+    "SpellHotbar.esp",
+    "SpellHotbar_BattleMage.esp"
+  ],
+  "sources": {
+    "SpellHotbar.esp": "Spell Hotbar 2",
+    "SpellHotbar_BattleMage.esp": "Spell Hotbar 2"
+  }
+}
