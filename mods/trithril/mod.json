@@ -1,0 +1,11 @@
+{
+  "slug": "trithril",
+  "name": "Noct's Trithril Weapon Pack",
+  "reuse_installed": false,
+  "plugins": [
+    "Noct_TrithrilWeaponPack.esl"
+  ],
+  "sources": {
+    "Noct_TrithrilWeaponPack.esl": "Trithril Weapon Pack - Ascendants and Stars"
+  }
+}

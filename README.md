@@ -30,6 +30,7 @@
 | Rogues 'n Raiders, Lawless, OBIS SE | 7 плагинов | `mods/bandits` (имена противников, перки, заклинания, книги; ставится как `RU_bandits.json`) |
 | [Everdamned](https://www.nexusmods.com/skyrimspecialedition/mods/162489) | 1.6.3 | `mods/everdamned` (полный перевод вместо машинного + название ветки навыков в `SKSE/Plugins/CustomSkills`) |
 | Spell Hotbar 2 | 2.x | `mods/spell-hotbar` (+ ветка навыков "Боевой маг" в `SKSE/Plugins/CustomSkills`) |
+| Noct's Trithril Weapon Pack | - | `mods/trithril` (вместо машинного перевода) |
 
 ## Как устроен перевод
 

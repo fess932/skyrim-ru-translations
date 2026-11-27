@@ -1,0 +1,322 @@
+[
+ {
+  "original": "Constiliation: The Wand",
+  "string": "Созвездие: Жезл",
+  "form_id": "00000004|Noct_TrithrilWeaponPack.esl",
+  "type": "ENCH FULL",
+  "index": null,
+  "editor_id": "TrithrilStaffEnch"
+ },
+ {
+  "original": "Trithril Halberd",
+  "string": "Тритриловая алебарда",
+  "form_id": "00000028|Noct_TrithrilWeaponPack.esl",
+  "type": "WEAP FULL",
+  "index": null,
+  "editor_id": "TrithrilHalberd"
+ },
+ {
+  "original": "One of the weapons derived from the Ascendent Order’s Trithril Spear-Staff.\r\nUsed later on by the Guards of the warrior sect, as their roles expanded beyond mearly acting as garrison for the order's academy, outposts and occasionally Reman's Mothship launch sites. The need for more versatility prompted the Halberd to be favored over the spear. Due to it being one of the most well rounded polearms.",
+  "string": "Одно из оружий, созданных на основе тритрилового посоха-копья Ордена Асцендентов.\nПозже им пользовалась стража секты воинов, когда ее обязанности вышли за рамки охраны академии ордена, аванпостов, а порой и стартовых площадок звездных кораблей Ремана. Нужда в универсальном оружии заставила предпочесть копью алебарду - одно из самых сбалансированных древковых оружий.",
+  "form_id": "00000028|Noct_TrithrilWeaponPack.esl",
+  "type": "WEAP DESC",
+  "index": null,
+  "editor_id": "TrithrilHalberd"
+ },
+ {
+  "original": "Ascendant's Trithril Staff",
+  "string": "Тритриловый посох Асцендента",
+  "form_id": "00000017|Noct_TrithrilWeaponPack.esl",
+  "type": "WEAP FULL",
+  "index": null,
+  "editor_id": "StaffTrithrilStaff"
+ },
+ {
+  "original": "Used by an order of mages called Ascendants who would draw their power from the very stars, and served the Reman Dynasty as some of the researchers about the nature of aetherius, and guards for the expedition program. This Spear-staff was their standard armament, and would serve as the basis from which all their other weapons would be derived.\n\nMade of a Glass-Ebony Alloy “Trithril” with patterning which mimics the night sky. \r\n\r\nBrought to Skyrim by the Synod exploring and researching Mzulft, Seemingly as part of the research.",
+  "string": "Им сражался орден магов-Асцендентов, черпавших силу из самих звезд. Они служили династии Реманов: изучали природу Этериуса и охраняли экспедиционную программу империи. Этот посох-копье был их стандартным оружием, и на его основе позже создали все остальное оружие ордена.\n\nСделан из \"тритрила\" - сплава стекла и эбонита, узор которого напоминает ночное небо. \n\nВ Скайрим его, судя по всему, привезли маги Синода, исследующие Мзулфт, вместе с прочими материалами своих изысканий.",
+  "form_id": "00000017|Noct_TrithrilWeaponPack.esl",
+  "type": "WEAP DESC",
+  "index": null,
+  "editor_id": "StaffTrithrilStaff"
+ },
+ {
+  "original": "Trithril Dagger",
+  "string": "Тритриловый кинжал",
+  "form_id": "00000018|Noct_TrithrilWeaponPack.esl",
+  "type": "WEAP FULL",
+  "index": null,
+  "editor_id": "TrithrilDagger"
+ },
+ {
+  "original": "One of the weapons derived from the Ascendent Order’s Trithril Spear-Staff. \r\nOften the first weapon given to new acolytes and inductees before choosing what sect of the order they would focus Warrior, Mage, or other. \r\nWith the increased funding from the second empire to assist with their research into aetherius enabled the small order of a few dozen to grow rapidly into the hundreds at their peak.",
+  "string": "Одно из оружий, созданных на основе тритрилового посоха-копья Ордена Асцендентов. \nЧасто это первое оружие, которое получали новые послушники и неофиты, прежде чем выбрать секту ордена: воинов, магов или иную. \nКогда Вторая империя стала щедро финансировать исследования Этериуса, маленький орден из нескольких десятков человек на пике своего расцвета быстро разросся до сотен.",
+  "form_id": "00000018|Noct_TrithrilWeaponPack.esl",
+  "type": "WEAP DESC",
+  "index": null,
+  "editor_id": "TrithrilDagger"
+ },
+ {
+  "original": "Trithril Sword",
+  "string": "Тритриловый меч",
+  "form_id": "00000019|Noct_TrithrilWeaponPack.esl",
+  "type": "WEAP FULL",
+  "index": null,
+  "editor_id": "TrithrilSword"
+ },
+ {
+  "original": "One of the weapons derived from the Ascendent Order’s Trithril Spear-Staff.\r\nStandard armarment of the Warrior sect and favored melee weapon of the mages who were unsatisfied with the just a dagger. The starry pattern of the Blade's Trithril alloy represents the order's yearning for the stars.\r\nOne handed variant favored by those who Duel Wield or keep their staff in their offhand.",
+  "string": "Одно из оружий, созданных на основе тритрилового посоха-копья Ордена Асцендентов.\nСтандартное оружие секты воинов и любимое оружие ближнего боя у магов, которым не хватало одного кинжала. Звездный узор тритрилового клинка символизирует стремление ордена к звездам.\nОдноручный вариант, который предпочитают те, кто сражается двумя клинками или держит посох во второй руке.",
+  "form_id": "00000019|Noct_TrithrilWeaponPack.esl",
+  "type": "WEAP DESC",
+  "index": null,
+  "editor_id": "TrithrilSword"
+ },
+ {
+  "original": "Trithril Spear",
+  "string": "Тритриловое копье",
+  "form_id": "0000001A|Noct_TrithrilWeaponPack.esl",
+  "type": "WEAP FULL",
+  "index": null,
+  "editor_id": "TrithrilSpear"
+ },
+ {
+  "original": "One of the weapons derived from the Ascendent Order’s Trithril Spear-Staff.\r\nForegoing the spell focus in favor of a more well balanced spear. Favored weapon of the Guards within the warrior sect of the Ascendant Order when guarding the academy and outposts of the order. Later on such duties would expand to the construction sites of the Reman Dynasty's projects aimed at conquoring the stars.",
+  "string": "Одно из оружий, созданных на основе тритрилового посоха-копья Ордена Асцендентов.\nВместо фокуса для заклинаний - более сбалансированное копье. Любимое оружие стражи секты воинов Ордена Асцендентов, охранявшей академию и аванпосты ордена. Позже стража охраняла и стройки династии Реманов, нацеленные на покорение звезд.",
+  "form_id": "0000001A|Noct_TrithrilWeaponPack.esl",
+  "type": "WEAP DESC",
+  "index": null,
+  "editor_id": "TrithrilSpear"
+ },
+ {
+  "original": "Trithril Shortspear",
+  "string": "Тритриловое короткое копье",
+  "form_id": "0000001B|Noct_TrithrilWeaponPack.esl",
+  "type": "WEAP FULL",
+  "index": null,
+  "editor_id": "TrithrilShortspear"
+ },
+ {
+  "original": "One of the weapons derived from the Ascendent Order’s Trithril Spear-Staff.\r\nForegoing the spell focus in favor of a more well balanced spear. Favored weapon of the Guards within the warrior sect of the Ascendant Order when guarding the academy and outposts of the order. A shortened variant to better suited for enclosed spaces such as the interior of Battlespires, Mothships and even the reman dynasty outposts on Masser.\r\nOne handed variant favored by those who use a shield or keep their staff in their offhand.",
+  "string": "Одно из оружий, созданных на основе тритрилового посоха-копья Ордена Асцендентов.\nВместо фокуса для заклинаний - более сбалансированное копье. Любимое оружие стражи секты воинов Ордена Асцендентов, охранявшей академию и аванпосты ордена. Укороченный вариант удобнее в тесных помещениях: внутри Боевых Шпилей, звездных кораблей и даже аванпостов династии Реманов на Массере.\nОдноручный вариант, который предпочитают те, кто сражается со щитом или держит посох во второй руке.",
+  "form_id": "0000001B|Noct_TrithrilWeaponPack.esl",
+  "type": "WEAP DESC",
+  "index": null,
+  "editor_id": "TrithrilShortspear"
+ },
+ {
+  "original": "Trithril Mace",
+  "string": "Тритриловая булава",
+  "form_id": "0000001C|Noct_TrithrilWeaponPack.esl",
+  "type": "WEAP FULL",
+  "index": null,
+  "editor_id": "TrithrilMace"
+ },
+ {
+  "original": "One of the weapons derived from the Ascendent Order’s Trithril Spear-Staff. Before the escalation of hostilities between Morrowind and the Second empire attempting to concuor it. some members would discuss and trade research and designs with the followers of the Living god Sotha Sil. One such blueprint served as the basis for the order's Maces and Longmaces. Some notes had scattered mentions of a \"Cutting sphere\" but not enough to attempt to make such a device.\r\nOne handed variant favored by those who Duel Wield or keep their staff in their offhand.",
+  "string": "Одно из оружий, созданных на основе тритрилового посоха-копья Ордена Асцендентов. Пока вражда между Морровиндом и пытавшейся покорить его Второй империей не обострилась, некоторые члены ордена обсуждали исследования и обменивались чертежами с последователями живого бога Сота Сила. Один из этих чертежей и лег в основу булав и длинных булав ордена. В записях попадались упоминания некой \"режущей сферы\", но сведений не хватило, чтобы построить подобное устройство.\nОдноручный вариант, который предпочитают те, кто сражается двумя клинками или держит посох во второй руке.",
+  "form_id": "0000001C|Noct_TrithrilWeaponPack.esl",
+  "type": "WEAP DESC",
+  "index": null,
+  "editor_id": "TrithrilMace"
+ },
+ {
+  "original": "Trithril Longmace",
+  "string": "Тритриловая длинная булава",
+  "form_id": "0000001D|Noct_TrithrilWeaponPack.esl",
+  "type": "WEAP FULL",
+  "index": null,
+  "editor_id": "TrithrilWarhammer"
+ },
+ {
+  "original": "One of the weapons derived from the Ascendent Order’s Trithril Spear-Staff. Before the escalation of hostilities between Morrowind and the Second empire attempting to concuor it. some members would discuss and trade research and designs with the followers of the Living god Sotha Sil. One such blueprint served as the basis for the order's Maces and Longmaces. Some notes had scattered mentions of a \"Cutting sphere\" but not enough to attempt to make such a device.",
+  "string": "Одно из оружий, созданных на основе тритрилового посоха-копья Ордена Асцендентов. Пока вражда между Морровиндом и пытавшейся покорить его Второй империей не обострилась, некоторые члены ордена обсуждали исследования и обменивались чертежами с последователями живого бога Сота Сила. Один из этих чертежей и лег в основу булав и длинных булав ордена. В записях попадались упоминания некой \"режущей сферы\", но сведений не хватило, чтобы построить подобное устройство.",
+  "form_id": "0000001D|Noct_TrithrilWeaponPack.esl",
+  "type": "WEAP DESC",
+  "index": null,
+  "editor_id": "TrithrilWarhammer"
+ },
+ {
+  "original": "Trithril Scythe",
+  "string": "Тритриловая коса",
+  "form_id": "0000001E|Noct_TrithrilWeaponPack.esl",
+  "type": "WEAP FULL",
+  "index": null,
+  "editor_id": "TrithrilScythe"
+ },
+ {
+  "original": "One of the weapons derived from the Ascendent Order’s Trithril Spear-Staff.\r\nA largely ceremonial weapon used by some of the higher ranked and elder members of the order. Sometimes seen among the members who helped in the second empire's research of the stars. It is said some were even permitted to join in the expeditions into the void and masser.",
+  "string": "Одно из оружий, созданных на основе тритрилового посоха-копья Ордена Асцендентов.\nВо многом церемониальное оружие старших и высокопоставленных членов ордена. Его видели у тех, кто помогал Второй империи изучать звезды. Говорят, некоторым даже позволили участвовать в экспедициях в Пустоту и на Массер.",
+  "form_id": "0000001E|Noct_TrithrilWeaponPack.esl",
+  "type": "WEAP DESC",
+  "index": null,
+  "editor_id": "TrithrilScythe"
+ },
+ {
+  "original": "Trithril Greatsword",
+  "string": "Тритриловый двуручный меч",
+  "form_id": "0000001F|Noct_TrithrilWeaponPack.esl",
+  "type": "WEAP FULL",
+  "index": null,
+  "editor_id": "TrithrilGreatsword"
+ },
+ {
+  "original": "One of the weapons derived from the Ascendent Order’s Trithril Spear-Staff.\r\nAn oddly light for its size greatsword. The starry pattern of the Blade's Trithril alloy represents the order's yearning for the stars. Some outsiders once compared the feint glow to that of nirn's twin moons. There were rumors that the emperor wished to conquor the moons and stars.",
+  "string": "Одно из оружий, созданных на основе тритрилового посоха-копья Ордена Асцендентов.\nНеобычно легкий для своих размеров двуручный меч. Звездный узор тритрилового клинка символизирует стремление ордена к звездам. Чужаки сравнивали его слабое свечение с сиянием двух лун Нирна. Ходили слухи, что император мечтал покорить луны и звезды.",
+  "form_id": "0000001F|Noct_TrithrilWeaponPack.esl",
+  "type": "WEAP DESC",
+  "index": null,
+  "editor_id": "TrithrilGreatsword"
+ },
+ {
+  "original": "Trithril Katana",
+  "string": "Тритриловая катана",
+  "form_id": "00000020|Noct_TrithrilWeaponPack.esl",
+  "type": "WEAP FULL",
+  "index": null,
+  "editor_id": "TrithrilKatana"
+ },
+ {
+  "original": "One of the weapons derived from the Ascendent Order’s Trithril Spear-Staff.\r\nSome members of the Ascendend Order's Warrior Sect adopted Akaviri inspired weapons after serving alongside the emperor's Dragonguard while requisitioned as additional security for the construction sites of the emperor's Battlespire projects. Soon these stations would be launched far above into the void between Mundus, Oblivion and Aetherus. \r\nOne handed variant favored by those who Duel Wield or keep their staff in their offhand.",
+  "string": "Одно из оружий, созданных на основе тритрилового посоха-копья Ордена Асцендентов.\nНекоторые воины Ордена Асцендентов переняли акавирское оружие, когда служили бок о бок с Драконьей гвардией императора, охраняя стройки его Боевых Шпилей. Вскоре эти станции поднимут высоко в Пустоту между Мундусом, Обливионом и Этериусом. \nОдноручный вариант, который предпочитают те, кто сражается двумя клинками или держит посох во второй руке.",
+  "form_id": "00000020|Noct_TrithrilWeaponPack.esl",
+  "type": "WEAP DESC",
+  "index": null,
+  "editor_id": "TrithrilKatana"
+ },
+ {
+  "original": "Trithril Rapier",
+  "string": "Тритриловая рапира",
+  "form_id": "00000021|Noct_TrithrilWeaponPack.esl",
+  "type": "WEAP FULL",
+  "index": null,
+  "editor_id": "TrithrilRapier"
+ },
+ {
+  "original": "One of the weapons derived from the Ascendent Order’s Trithril Spear-Staff.\r\nA thrusting sword used by some of the higher ranked members of the order permitted to accompany the second empire's forces in their attempt to set up outposts on the southern half of Masser. \r\nSuch weapons were said to be recovered in the aftermath of Cyrus the restless and Tiber Sceptim's sword meeting among the Ruins of said lunar outpost.\r\nOne handed blade favored by those who keep their staff in their offhand.",
+  "string": "Одно из оружий, созданных на основе тритрилового посоха-копья Ордена Асцендентов.\nКолющий меч высокопоставленных членов ордена, которым позволили сопровождать войска Второй империи, пытавшиеся основать аванпосты в южной половине Массера. \nГоворят, такие клинки находили там, где среди руин этого лунного аванпоста скрестили мечи Сайрус Неугомонный и Тайбер Септим.\nОдноручный клинок, который предпочитают те, кто держит посох во второй руке.",
+  "form_id": "00000021|Noct_TrithrilWeaponPack.esl",
+  "type": "WEAP DESC",
+  "index": null,
+  "editor_id": "TrithrilRapier"
+ },
+ {
+  "original": "Trithril Scimitar",
+  "string": "Тритриловый скимитар",
+  "form_id": "00000022|Noct_TrithrilWeaponPack.esl",
+  "type": "WEAP FULL",
+  "index": null,
+  "editor_id": "TrithrilScimitar"
+ },
+ {
+  "original": "One of the weapons derived from the Ascendent Order’s Trithril Spear-Staff.\r\nA large curved sword used by those who were trained by the swordmasters and deciphles of the Ansei of Hammerfel. Although unable to properly replicate the abilities of the Ansei and their followers, some were able to crudely copy some of the techniques using the star magics of the order.\r\nOne handed variant favored by those who Duel Wield or keep their staff in their offhand.",
+  "string": "Одно из оружий, созданных на основе тритрилового посоха-копья Ордена Асцендентов.\nБольшой изогнутый меч тех, кого обучали мастера меча и ученики ансеев из Хаммерфелла. Повторить умения ансеев и их последователей так и не удалось, но некоторые грубо скопировали отдельные приемы с помощью звездной магии ордена.\nОдноручный вариант, который предпочитают те, кто сражается двумя клинками или держит посох во второй руке.",
+  "form_id": "00000022|Noct_TrithrilWeaponPack.esl",
+  "type": "WEAP DESC",
+  "index": null,
+  "editor_id": "TrithrilScimitar"
+ },
+ {
+  "original": "Trithril Great Scimitar",
+  "string": "Тритриловый большой скимитар",
+  "form_id": "00000023|Noct_TrithrilWeaponPack.esl",
+  "type": "WEAP FULL",
+  "index": null,
+  "editor_id": "TrithrilGreatScimitar"
+ },
+ {
+  "original": "One of the weapons derived from the Ascendent Order’s Trithril Spear-Staff.\r\nA large curved sword used by those who were trained by the swordmasters and deciphles of the Ansei of Hammerfel. Although unable to properly replicate the abilities of the Ansei and their followers, some were able to crudely copy some of the techniques using the star magics of the order.",
+  "string": "Одно из оружий, созданных на основе тритрилового посоха-копья Ордена Асцендентов.\nБольшой изогнутый меч тех, кого обучали мастера меча и ученики ансеев из Хаммерфелла. Повторить умения ансеев и их последователей так и не удалось, но некоторые грубо скопировали отдельные приемы с помощью звездной магии ордена.",
+  "form_id": "00000023|Noct_TrithrilWeaponPack.esl",
+  "type": "WEAP DESC",
+  "index": null,
+  "editor_id": "TrithrilGreatScimitar"
+ },
+ {
+  "original": "Trithril DaiKatana",
+  "string": "Тритриловая дайкатана",
+  "form_id": "00000024|Noct_TrithrilWeaponPack.esl",
+  "type": "WEAP FULL",
+  "index": null,
+  "editor_id": "TrithrilDaiKatana"
+ },
+ {
+  "original": "One of the weapons derived from the Ascendent Order’s Trithril Spear-Staff.\r\nSome members of the Ascendend Order's Warrior Sect adopted Akaviri inspired weapons after serving alongside the emperor's Dragonguard while requisitioned as additional security for the construction sites of the emperor's Battlespire projects. Soon these stations would be launched far above into the void between Mundus, Oblivion and Aetherus. ",
+  "string": "Одно из оружий, созданных на основе тритрилового посоха-копья Ордена Асцендентов.\nНекоторые воины Ордена Асцендентов переняли акавирское оружие, когда служили бок о бок с Драконьей гвардией императора, охраняя стройки его Боевых Шпилей. Вскоре эти станции поднимут высоко в Пустоту между Мундусом, Обливионом и Этериусом. ",
+  "form_id": "00000024|Noct_TrithrilWeaponPack.esl",
+  "type": "WEAP DESC",
+  "index": null,
+  "editor_id": "TrithrilDaiKatana"
+ },
+ {
+  "original": "Trithril Quarterstaff",
+  "string": "Тритриловый боевой посох",
+  "form_id": "00000025|Noct_TrithrilWeaponPack.esl",
+  "type": "WEAP FULL",
+  "index": null,
+  "editor_id": "TrithrilQuarterstaff"
+ },
+ {
+  "original": "One of the weapons derived from the Ascendent Order’s Trithril Spear-Staff. Used by a smaller sect unsatisfied with the growing influence Reman's empire had on the order, Some would attempt to return to their roots.\r\nReturning to a more nomadic practices and traveling on pilgrimages between sites of note for those who worship the Magne-Ge.",
+  "string": "Одно из оружий, созданных на основе тритрилового посоха-копья Ордена Асцендентов. Им пользовалась небольшая секта, недовольная растущим влиянием империи Ремана на орден. Ее члены пытались вернуться к истокам:\nк кочевому образу жизни и паломничествам по святым местам почитателей Магна-Ге.",
+  "form_id": "00000025|Noct_TrithrilWeaponPack.esl",
+  "type": "WEAP DESC",
+  "index": null,
+  "editor_id": "TrithrilQuarterstaff"
+ },
+ {
+  "original": "Trithril War Axe",
+  "string": "Тритриловый боевой топор",
+  "form_id": "00000026|Noct_TrithrilWeaponPack.esl",
+  "type": "WEAP FULL",
+  "index": null,
+  "editor_id": "TrithrilWarAxe"
+ },
+ {
+  "original": "One of the weapons derived from the Ascendent Order’s Trithril Spear-Staff. \r\nInspired by Dwemer Axes from Morrowind after members of the Warrior sect assigned to the researchers and mages during expeditions to Dwarven ruins. Many took a liking to the Circular design as they scavenged for spare weapons in the depths of the ruins as their counterparts recoved Astronomical Equiptment.\r\nOne handed variant favored by those who Duel Wield or keep their staff in their offhand.",
+  "string": "Одно из оружий, созданных на основе тритрилового посоха-копья Ордена Асцендентов. \nСоздано по образцу двемерских топоров из Морровинда: воинов секты приставляли к исследователям и магам в экспедициях по двемерским руинам. Пока их товарищи собирали астрономические приборы, воины искали в глубинах руин запасное оружие, и многим полюбилась круглая форма лезвия.\nОдноручный вариант, который предпочитают те, кто сражается двумя клинками или держит посох во второй руке.",
+  "form_id": "00000026|Noct_TrithrilWeaponPack.esl",
+  "type": "WEAP DESC",
+  "index": null,
+  "editor_id": "TrithrilWarAxe"
+ },
+ {
+  "original": "Trithril Battleaxe",
+  "string": "Тритриловая секира",
+  "form_id": "00000027|Noct_TrithrilWeaponPack.esl",
+  "type": "WEAP FULL",
+  "index": null,
+  "editor_id": "TrithrilBattleaxe"
+ },
+ {
+  "original": "One of the weapons derived from the Ascendent Order’s Trithril Spear-Staff. \r\nInspired by Dwemer Axes from Morrowind after members of the Warrior sect assigned to the researchers and mages during expeditions to Dwarven ruins. Many took a liking to the Circular design as they scavenged for spare weapons in the depths of the ruins as their counterparts recoved Astronomical Equiptment.",
+  "string": "Одно из оружий, созданных на основе тритрилового посоха-копья Ордена Асцендентов. \nСоздано по образцу двемерских топоров из Морровинда: воинов секты приставляли к исследователям и магам в экспедициях по двемерским руинам. Пока их товарищи собирали астрономические приборы, воины искали в глубинах руин запасное оружие, и многим полюбилась круглая форма лезвия.",
+  "form_id": "00000027|Noct_TrithrilWeaponPack.esl",
+  "type": "WEAP DESC",
+  "index": null,
+  "editor_id": "TrithrilBattleaxe"
+ },
+ {
+  "original": "Mzulft Aedrome",
+  "string": "Мзулфт",
+  "form_id": "00054B6F|Skyrim.esm",
+  "type": "CELL FULL",
+  "index": null,
+  "editor_id": "Mzulft03"
+ },
+ {
+  "original": "Creation Club Cell",
+  "string": "Стенд Клуба творчества",
+  "form_id": "000030EB|Update.esm",
+  "type": "CELL FULL",
+  "index": null,
+  "editor_id": "ccPlaceholder13Interior01"
+ },
+ {
+  "original": "Creation Club Cell",
+  "string": "Стенд Клуба творчества",
+  "form_id": "000030EC|Update.esm",
+  "type": "CELL FULL",
+  "index": null,
+  "editor_id": "ccPlaceholder12Interior01"
+ }
+]
