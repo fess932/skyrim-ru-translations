@@ -75617,7 +75617,7 @@
  },
  {
   "original": "I still serve the Divines... but I also serve consequence. They can share a seat, if the King allows it.",
-  "string": "Я по-прежнему служу Божественным... но служу и последствиям. Они могут разделить престол, если король позволит.",
+  "string": "Я по-прежнему служу богам... но служу и последствиям. Они могут разделить престол, если король позволит.",
   "form_id": "00524960|BecomeKingofSkyrimTNG.esp",
   "type": "INFO NAM1",
   "index": 2,
@@ -75633,7 +75633,7 @@
  },
  {
   "original": "I still serve the Divines... but I also serve consequence. They can share a seat, if the Queen allows it.",
-  "string": "Я по-прежнему служу Божественным... но служу и последствиям. Они могут разделить престол, если королева позволит.",
+  "string": "Я по-прежнему служу богам... но служу и последствиям. Они могут разделить престол, если королева позволит.",
   "form_id": "00524961|BecomeKingofSkyrimTNG.esp",
   "type": "INFO NAM1",
   "index": 2,
@@ -75649,7 +75649,7 @@
  },
  {
   "original": "I still serve the Divines... but I also serve consequence. They can share a seat, if you were to allow it.",
-  "string": "Я по-прежнему служу Божественным... но служу и последствиям. Они могут разделить престол, если вы позволите.",
+  "string": "Я по-прежнему служу богам... но служу и последствиям. Они могут разделить престол, если вы позволите.",
   "form_id": "00524962|BecomeKingofSkyrimTNG.esp",
   "type": "INFO NAM1",
   "index": 2,
@@ -75841,7 +75841,7 @@
  },
  {
   "original": "By the ancient rites and the faith of Skyrim, I call upon the Divines to witness this cleansing.",
-  "string": "Древними обрядами и верой Скайрима призываю Божественных засвидетельствовать это очищение.",
+  "string": "Древними обрядами и верой Скайрима призываю богов засвидетельствовать это очищение.",
   "form_id": "00529C21|BecomeKingofSkyrimTNG.esp",
   "type": "INFO NAM1",
   "index": 2,
