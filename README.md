@@ -32,6 +32,7 @@
 | Spell Hotbar 2 | 2.x | `mods/spell-hotbar` (+ ветка навыков "Боевой маг" в `SKSE/Plugins/CustomSkills`) |
 | Noct's Trithril Weapon Pack | - | `mods/trithril` (вместо машинного перевода) |
 | Companions Dialogue Bundle | - | `mods/companions-dialogue-bundle` (ставится как `RU_companions-dialogue-bundle.json`) |
+| Vampire Clans and Bloodlines | - | `mods/vampire-clans` (ставится как `RU_vampire-clans.json`) |
 
 ## Как устроен перевод
 

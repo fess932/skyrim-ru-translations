@@ -1,0 +1,4034 @@
+[
+ {
+  "original": "Orlok Boss",
+  "string": "Главарь Орлоков",
+  "form_id": "00525156|Vampire Clans and Bloodlines.esp",
+  "type": "CLAS FULL",
+  "index": null,
+  "editor_id": "zzVCB_Orlok_Boss_Class"
+ },
+ {
+  "original": "Vargr Warrior",
+  "string": "Воин Варгов",
+  "form_id": "0053955F|Vampire Clans and Bloodlines.esp",
+  "type": "CLAS FULL",
+  "index": null,
+  "editor_id": "zzVCB_Vargr_Warrior_Class"
+ },
+ {
+  "original": "Vargr Skirmisher",
+  "string": "Застрельщик Варгов",
+  "form_id": "00571080|Vampire Clans and Bloodlines.esp",
+  "type": "CLAS FULL",
+  "index": null,
+  "editor_id": "zzVCB_Vargr_Skirmisher_Class"
+ },
+ {
+  "original": "Vargr Boss",
+  "string": "Главарь Варгов",
+  "form_id": "00571081|Vampire Clans and Bloodlines.esp",
+  "type": "CLAS FULL",
+  "index": null,
+  "editor_id": "zzVCB_Vargr_Boss_Class"
+ },
+ {
+  "original": "Skeleton Warrior",
+  "string": "Скелет-воин",
+  "form_id": "0066E2E0|Vampire Clans and Bloodlines.esp",
+  "type": "CLAS FULL",
+  "index": null,
+  "editor_id": "zzVCB_Skeleton_Warrior_Class"
+ },
+ {
+  "original": "Skeleton Bowman",
+  "string": "Скелет-лазутчик",
+  "form_id": "0066E2E1|Vampire Clans and Bloodlines.esp",
+  "type": "CLAS FULL",
+  "index": null,
+  "editor_id": "zzVCB_Skeleton_Bowman_Class"
+ },
+ {
+  "original": "Skeleton Tank",
+  "string": "Скелет-защитник",
+  "form_id": "006733EB|Vampire Clans and Bloodlines.esp",
+  "type": "CLAS FULL",
+  "index": null,
+  "editor_id": "zzVCB_Skeleton_Tank_Class"
+ },
+ {
+  "original": "Orlok Warrior",
+  "string": "Воин Орлоков",
+  "form_id": "0011C11E|Vampire Clans and Bloodlines.esp",
+  "type": "CLAS FULL",
+  "index": null,
+  "editor_id": "zzVCB_Orlok_Warrior_Class"
+ },
+ {
+  "original": "Orlok Mage",
+  "string": "Маг Орлоков",
+  "form_id": "00005904|Vampire Clans and Bloodlines.esp",
+  "type": "CLAS FULL",
+  "index": null,
+  "editor_id": "zzVCB_Orlok_Mage_Class"
+ },
+ {
+  "original": "Revenant Necromancer",
+  "string": "Некромант Ревенантов",
+  "form_id": "0030C62B|Vampire Clans and Bloodlines.esp",
+  "type": "CLAS FULL",
+  "index": null,
+  "editor_id": "zzVCB_Revenant_Necromancer_Class"
+ },
+ {
+  "original": "Lost Soul",
+  "string": "Потерянная душа",
+  "form_id": "0036275D|Vampire Clans and Bloodlines.esp",
+  "type": "CLAS FULL",
+  "index": null,
+  "editor_id": "zzVCB_LostSoul_Class"
+ },
+ {
+  "original": "Clan Orlok",
+  "string": "Клан Орлоков",
+  "form_id": "006130BF|Vampire Clans and Bloodlines.esp",
+  "type": "FACT FULL",
+  "index": null,
+  "editor_id": "zzVCB_Faction_Vampire_Orlok"
+ },
+ {
+  "original": "The Revenants",
+  "string": "Ревенанты",
+  "form_id": "006130C0|Vampire Clans and Bloodlines.esp",
+  "type": "FACT FULL",
+  "index": null,
+  "editor_id": "zzVCB_Faction_Vampire_Revenant"
+ },
+ {
+  "original": "Clan Vargr",
+  "string": "Клан Варгов",
+  "form_id": "006130C1|Vampire Clans and Bloodlines.esp",
+  "type": "FACT FULL",
+  "index": null,
+  "editor_id": "zzVCB_Faction_Vampire_Vargr"
+ },
+ {
+  "original": "VampireHeadElf_M01",
+  "string": "VampireHeadElf_M01",
+  "form_id": "002D9C07|Vampire Clans and Bloodlines.esp",
+  "type": "HDPT FULL",
+  "index": null,
+  "editor_id": "zzVCB_HeadElf_M01"
+ },
+ {
+  "original": "VampireEyebrows_F02",
+  "string": "VampireEyebrows_F02",
+  "form_id": "00316831|Vampire Clans and Bloodlines.esp",
+  "type": "HDPT FULL",
+  "index": null,
+  "editor_id": "zzVCB_Eyebrows_F02"
+ },
+ {
+  "original": "VampireHairDarkElf_F01",
+  "string": "VampireHairDarkElf_F01",
+  "form_id": "00316832|Vampire Clans and Bloodlines.esp",
+  "type": "HDPT FULL",
+  "index": null,
+  "editor_id": "zzVCB_HairDarkElf_F01"
+ },
+ {
+  "original": "VampireHairlineDarkElf_F01",
+  "string": "VampireHairlineDarkElf_F01",
+  "form_id": "00316833|Vampire Clans and Bloodlines.esp",
+  "type": "HDPT FULL",
+  "index": null,
+  "editor_id": "zzVCB_HairlineDarkElf_F01"
+ },
+ {
+  "original": "VampireHairElf_F04",
+  "string": "VampireHairElf_F04",
+  "form_id": "0032FD3B|Vampire Clans and Bloodlines.esp",
+  "type": "HDPT FULL",
+  "index": null,
+  "editor_id": "zzVCB_HairElf_F04"
+ },
+ {
+  "original": "VampireHairlineElf_F04",
+  "string": "VampireHairlineElf_F04",
+  "form_id": "0032FD3C|Vampire Clans and Bloodlines.esp",
+  "type": "HDPT FULL",
+  "index": null,
+  "editor_id": "zzVCB_HairlineElf_F04"
+ },
+ {
+  "original": "VampireHairDarkElf_M03",
+  "string": "VampireHairDarkElf_M03",
+  "form_id": "003D6EAB|Vampire Clans and Bloodlines.esp",
+  "type": "HDPT FULL",
+  "index": null,
+  "editor_id": "zzVCB_HairDarkElf_M03"
+ },
+ {
+  "original": "VampireHairlineDarkElf_M03",
+  "string": "VampireHairlineDarkElf_M03",
+  "form_id": "003D6EAC|Vampire Clans and Bloodlines.esp",
+  "type": "HDPT FULL",
+  "index": null,
+  "editor_id": "zzVCB_HairlineDarkElf_M03"
+ },
+ {
+  "original": "VampireEyebrows_F06",
+  "string": "VampireEyebrows_F06",
+  "form_id": "003FA5B6|Vampire Clans and Bloodlines.esp",
+  "type": "HDPT FULL",
+  "index": null,
+  "editor_id": "zzVCB_Eyebrows_F06"
+ },
+ {
+  "original": "VampireHairDarkElf_F04",
+  "string": "VampireHairDarkElf_F04",
+  "form_id": "003FA5B7|Vampire Clans and Bloodlines.esp",
+  "type": "HDPT FULL",
+  "index": null,
+  "editor_id": "zzVCB_HairDarkElf_F04"
+ },
+ {
+  "original": "VampireHairlineDarkElf_F03",
+  "string": "VampireHairlineDarkElf_F03",
+  "form_id": "003FA5B8|Vampire Clans and Bloodlines.esp",
+  "type": "HDPT FULL",
+  "index": null,
+  "editor_id": "zzVCB_HairlineDarkElf_F03"
+ },
+ {
+  "original": "VampireHairElf_F05",
+  "string": "VampireHairElf_F05",
+  "form_id": "0040E9C4|Vampire Clans and Bloodlines.esp",
+  "type": "HDPT FULL",
+  "index": null,
+  "editor_id": "zzVCB_HairElf_F05"
+ },
+ {
+  "original": "VampireHairlineElf_F05",
+  "string": "VampireHairlineElf_F05",
+  "form_id": "0040E9C5|Vampire Clans and Bloodlines.esp",
+  "type": "HDPT FULL",
+  "index": null,
+  "editor_id": "zzVCB_HairlineElf_F05"
+ },
+ {
+  "original": "VampireHeadHuman_M01",
+  "string": "VampireHeadHuman_M01",
+  "form_id": "0000AA07|Vampire Clans and Bloodlines.esp",
+  "type": "HDPT FULL",
+  "index": null,
+  "editor_id": "zzVCB_HeadHuman_M01"
+ },
+ {
+  "original": "VampireHairHumanBald",
+  "string": "VampireHairHumanBald",
+  "form_id": "0000AA09|Vampire Clans and Bloodlines.esp",
+  "type": "HDPT FULL",
+  "index": null,
+  "editor_id": "zzVCB_HairHuman_Bald"
+ },
+ {
+  "original": "VampireEyesHuman_M01",
+  "string": "VampireEyesHuman_M01",
+  "form_id": "0000AA0A|Vampire Clans and Bloodlines.esp",
+  "type": "HDPT FULL",
+  "index": null,
+  "editor_id": "zzVCB_EyesHuman_M01"
+ },
+ {
+  "original": "VampireEyebrows_M00",
+  "string": "VampireEyebrows_M00",
+  "form_id": "0000AA0D|Vampire Clans and Bloodlines.esp",
+  "type": "HDPT FULL",
+  "index": null,
+  "editor_id": "zzVCB_Eyebrows_M00"
+ },
+ {
+  "original": "VampireEyebrows_M08",
+  "string": "VampireEyebrows_M08",
+  "form_id": "0000AA0F|Vampire Clans and Bloodlines.esp",
+  "type": "HDPT FULL",
+  "index": null,
+  "editor_id": "zzVCB_Eyebrows_M08"
+ },
+ {
+  "original": "VampireBeardHuman_M06",
+  "string": "VampireBeardHuman_M06",
+  "form_id": "0063B8CA|Vampire Clans and Bloodlines.esp",
+  "type": "HDPT FULL",
+  "index": null,
+  "editor_id": "zzVCB_BeardHuman_M06"
+ },
+ {
+  "original": "VampireHairHuman_M06",
+  "string": "VampireHairHuman_M06",
+  "form_id": "0064FCD0|Vampire Clans and Bloodlines.esp",
+  "type": "HDPT FULL",
+  "index": null,
+  "editor_id": "zzVCB_HairHuman_M06"
+ },
+ {
+  "original": "VampireHairlineHuman_M06",
+  "string": "VampireHairlineHuman_M06",
+  "form_id": "0064FCCF|Vampire Clans and Bloodlines.esp",
+  "type": "HDPT FULL",
+  "index": null,
+  "editor_id": "zzVCB_HairlineHuman_M06"
+ },
+ {
+  "original": "VampireHeadOrlok_M01",
+  "string": "VampireHeadOrlok_M01",
+  "form_id": "00060B39|Vampire Clans and Bloodlines.esp",
+  "type": "HDPT FULL",
+  "index": null,
+  "editor_id": "zzVCB_HeadOrlok_M01"
+ },
+ {
+  "original": "VampireTeethOrlok_M01",
+  "string": "VampireTeethOrlok_M01",
+  "form_id": "000A2859|Vampire Clans and Bloodlines.esp",
+  "type": "HDPT FULL",
+  "index": null,
+  "editor_id": "zzVCB_MouthOrlok_M01"
+ },
+ {
+  "original": "VampireEyebrows_F00",
+  "string": "VampireEyebrows_F00",
+  "form_id": "0014EB6A|Vampire Clans and Bloodlines.esp",
+  "type": "HDPT FULL",
+  "index": null,
+  "editor_id": "zzVCB_Eyebrows_F00"
+ },
+ {
+  "original": "VampireBeardPartLongHuman_M12",
+  "string": "VampireBeardPartLongHuman_M12",
+  "form_id": "00682703|Vampire Clans and Bloodlines.esp",
+  "type": "HDPT FULL",
+  "index": null,
+  "editor_id": "zzVCB_BeardPartLongHuman_M12"
+ },
+ {
+  "original": "VampireEyesVargr_F01",
+  "string": "VampireEyesVargr_F01",
+  "form_id": "00682704|Vampire Clans and Bloodlines.esp",
+  "type": "HDPT FULL",
+  "index": null,
+  "editor_id": "zzVCB_EyesVargr_F01"
+ },
+ {
+  "original": "VampireEyesVargr_M01",
+  "string": "VampireEyesVargr_M01",
+  "form_id": "00682705|Vampire Clans and Bloodlines.esp",
+  "type": "HDPT FULL",
+  "index": null,
+  "editor_id": "zzVCB_EyesVargr_M01"
+ },
+ {
+  "original": "VampireHairHuman_M13",
+  "string": "VampireHairHuman_M13",
+  "form_id": "00682706|Vampire Clans and Bloodlines.esp",
+  "type": "HDPT FULL",
+  "index": null,
+  "editor_id": "zzVCB_HairHuman_M13"
+ },
+ {
+  "original": "VampireHairHuman_M04",
+  "string": "VampireHairHuman_M04",
+  "form_id": "00682707|Vampire Clans and Bloodlines.esp",
+  "type": "HDPT FULL",
+  "index": null,
+  "editor_id": "zzVCB_HairHuman_M04"
+ },
+ {
+  "original": "VampireHairlineHuman_M13",
+  "string": "VampireHairlineHuman_M13",
+  "form_id": "00682708|Vampire Clans and Bloodlines.esp",
+  "type": "HDPT FULL",
+  "index": null,
+  "editor_id": "zzVCB_HairlineHuman_M13"
+ },
+ {
+  "original": "VampireHairlineHuman_M04",
+  "string": "VampireHairlineHuman_M04",
+  "form_id": "00682709|Vampire Clans and Bloodlines.esp",
+  "type": "HDPT FULL",
+  "index": null,
+  "editor_id": "zzVCB_HairlineHuman_M04"
+ },
+ {
+  "original": "VampireBeardHuman_M43",
+  "string": "VampireBeardHuman_M43",
+  "form_id": "00682702|Vampire Clans and Bloodlines.esp",
+  "type": "HDPT FULL",
+  "index": null,
+  "editor_id": "zzVCB_BeardHuman_M43"
+ },
+ {
+  "original": "VampireBeard_M00",
+  "string": "VampireBeard_M00",
+  "form_id": "00691A0D|Vampire Clans and Bloodlines.esp",
+  "type": "HDPT FULL",
+  "index": null,
+  "editor_id": "zzVCB_Beard_M00"
+ },
+ {
+  "original": "VampireBeardPartLongHuman_M11",
+  "string": "VampireBeardPartLongHuman_M11",
+  "form_id": "006A5E16|Vampire Clans and Bloodlines.esp",
+  "type": "HDPT FULL",
+  "index": null,
+  "editor_id": "zzVCB_BeardPartLongHuman_M11"
+ },
+ {
+  "original": "VampireBeardHuman_M34",
+  "string": "VampireBeardHuman_M34",
+  "form_id": "006A5E17|Vampire Clans and Bloodlines.esp",
+  "type": "HDPT FULL",
+  "index": null,
+  "editor_id": "zzVCB_BeardHuman_M34"
+ },
+ {
+  "original": "VampireBeardPartShortHuman_M10",
+  "string": "VampireBeardPartShortHuman_M10",
+  "form_id": "006A5E18|Vampire Clans and Bloodlines.esp",
+  "type": "HDPT FULL",
+  "index": null,
+  "editor_id": "zzVCB_BeardPartShortHuman_M10"
+ },
+ {
+  "original": "VampireHairHuman_M05",
+  "string": "VampireHairHuman_M05",
+  "form_id": "006A5E19|Vampire Clans and Bloodlines.esp",
+  "type": "HDPT FULL",
+  "index": null,
+  "editor_id": "zzVCB_HairHuman_M05"
+ },
+ {
+  "original": "VampireHairlineHuman_M05",
+  "string": "VampireHairlineHuman_M05",
+  "form_id": "006A5E1A|Vampire Clans and Bloodlines.esp",
+  "type": "HDPT FULL",
+  "index": null,
+  "editor_id": "zzVCB_HairlineHuman_M05"
+ },
+ {
+  "original": "VampireBeardHuman_M02",
+  "string": "VampireBeardHuman_M02",
+  "form_id": "006A5E1B|Vampire Clans and Bloodlines.esp",
+  "type": "HDPT FULL",
+  "index": null,
+  "editor_id": "zzVCB_BeardHuman_M02"
+ },
+ {
+  "original": "VampireBeardHuman_M42",
+  "string": "VampireBeardHuman_M42",
+  "form_id": "006A5E15|Vampire Clans and Bloodlines.esp",
+  "type": "HDPT FULL",
+  "index": null,
+  "editor_id": "zzVCB_BeardHuman_M42"
+ },
+ {
+  "original": "VampireEyesVargr_F03",
+  "string": "VampireEyesVargr_F03",
+  "form_id": "006B001F|Vampire Clans and Bloodlines.esp",
+  "type": "HDPT FULL",
+  "index": null,
+  "editor_id": "zzVCB_EyesVargr_F03"
+ },
+ {
+  "original": "VampireEyesVargr_F04",
+  "string": "VampireEyesVargr_F04",
+  "form_id": "006B0020|Vampire Clans and Bloodlines.esp",
+  "type": "HDPT FULL",
+  "index": null,
+  "editor_id": "zzVCB_EyesVargr_F04"
+ },
+ {
+  "original": "VampireEyesVargr_F05",
+  "string": "VampireEyesVargr_F05",
+  "form_id": "006B0021|Vampire Clans and Bloodlines.esp",
+  "type": "HDPT FULL",
+  "index": null,
+  "editor_id": "zzVCB_EyesVargr_F05"
+ },
+ {
+  "original": "VampireEyesVargr_F06",
+  "string": "VampireEyesVargr_F06",
+  "form_id": "006B0022|Vampire Clans and Bloodlines.esp",
+  "type": "HDPT FULL",
+  "index": null,
+  "editor_id": "zzVCB_EyesVargr_F06"
+ },
+ {
+  "original": "VampireEyesVargr_M02",
+  "string": "VampireEyesVargr_M02",
+  "form_id": "006B0023|Vampire Clans and Bloodlines.esp",
+  "type": "HDPT FULL",
+  "index": null,
+  "editor_id": "zzVCB_EyesVargr_M02"
+ },
+ {
+  "original": "VampireEyesVargr_M03",
+  "string": "VampireEyesVargr_M03",
+  "form_id": "006B0024|Vampire Clans and Bloodlines.esp",
+  "type": "HDPT FULL",
+  "index": null,
+  "editor_id": "zzVCB_EyesVargr_M03"
+ },
+ {
+  "original": "VampireEyesVargr_M04",
+  "string": "VampireEyesVargr_M04",
+  "form_id": "006B0025|Vampire Clans and Bloodlines.esp",
+  "type": "HDPT FULL",
+  "index": null,
+  "editor_id": "zzVCB_EyesVargr_M04"
+ },
+ {
+  "original": "VampireEyesVargr_M05",
+  "string": "VampireEyesVargr_M05",
+  "form_id": "006B0026|Vampire Clans and Bloodlines.esp",
+  "type": "HDPT FULL",
+  "index": null,
+  "editor_id": "zzVCB_EyesVargr_M05"
+ },
+ {
+  "original": "VampireEyesVargr_M06",
+  "string": "VampireEyesVargr_M06",
+  "form_id": "006B0027|Vampire Clans and Bloodlines.esp",
+  "type": "HDPT FULL",
+  "index": null,
+  "editor_id": "zzVCB_EyesVargr_M06"
+ },
+ {
+  "original": "VampireEyesVargr_F02",
+  "string": "VampireEyesVargr_F02",
+  "form_id": "006B001E|Vampire Clans and Bloodlines.esp",
+  "type": "HDPT FULL",
+  "index": null,
+  "editor_id": "zzVCB_EyesVargr_F02"
+ },
+ {
+  "original": "VampireHairDarkElf_F05",
+  "string": "VampireHairDarkElf_F05",
+  "form_id": "006C442D|Vampire Clans and Bloodlines.esp",
+  "type": "HDPT FULL",
+  "index": null,
+  "editor_id": "zzVCB_HairDarkElf_F05"
+ },
+ {
+  "original": "VampireHairlineDarkElf_F05",
+  "string": "VampireHairlineDarkElf_F05",
+  "form_id": "006C442C|Vampire Clans and Bloodlines.esp",
+  "type": "HDPT FULL",
+  "index": null,
+  "editor_id": "zzVCB_HairlineDarkElf_F05"
+ },
+ {
+  "original": "VampireHairHuman_F06",
+  "string": "VampireHairHuman_F06",
+  "form_id": "006E2A35|Vampire Clans and Bloodlines.esp",
+  "type": "HDPT FULL",
+  "index": null,
+  "editor_id": "zzVCB_HairHuman_F06"
+ },
+ {
+  "original": "VampireHairHuman_F13",
+  "string": "VampireHairHuman_F13",
+  "form_id": "006E2A36|Vampire Clans and Bloodlines.esp",
+  "type": "HDPT FULL",
+  "index": null,
+  "editor_id": "zzVCB_HairHuman_F13"
+ },
+ {
+  "original": "VampireHairHuman_F18",
+  "string": "VampireHairHuman_F18",
+  "form_id": "006E2A37|Vampire Clans and Bloodlines.esp",
+  "type": "HDPT FULL",
+  "index": null,
+  "editor_id": "zzVCB_HairHuman_F18"
+ },
+ {
+  "original": "VampireHairlineHuman_F04",
+  "string": "VampireHairlineHuman_F04",
+  "form_id": "006E2A38|Vampire Clans and Bloodlines.esp",
+  "type": "HDPT FULL",
+  "index": null,
+  "editor_id": "zzVCB_HairlineHuman_F04"
+ },
+ {
+  "original": "VampireHairlineHuman_F06",
+  "string": "VampireHairlineHuman_F06",
+  "form_id": "006E2A39|Vampire Clans and Bloodlines.esp",
+  "type": "HDPT FULL",
+  "index": null,
+  "editor_id": "zzVCB_HairlineHuman_F06"
+ },
+ {
+  "original": "VampireHairlineHuman_F13",
+  "string": "VampireHairlineHuman_F13",
+  "form_id": "006E2A3A|Vampire Clans and Bloodlines.esp",
+  "type": "HDPT FULL",
+  "index": null,
+  "editor_id": "zzVCB_HairlineHuman_F13"
+ },
+ {
+  "original": "VampireHairlineHuman_F18",
+  "string": "VampireHairlineHuman_F18",
+  "form_id": "006E2A3B|Vampire Clans and Bloodlines.esp",
+  "type": "HDPT FULL",
+  "index": null,
+  "editor_id": "zzVCB_HairlineHuman_F18"
+ },
+ {
+  "original": "VampireHairHuman_F04",
+  "string": "VampireHairHuman_F04",
+  "form_id": "006E2A34|Vampire Clans and Bloodlines.esp",
+  "type": "HDPT FULL",
+  "index": null,
+  "editor_id": "zzVCB_HairHuman_F04"
+ },
+ {
+  "original": "VampireEyebrows_F04",
+  "string": "VampireEyebrows_F04",
+  "form_id": "006F1D40|Vampire Clans and Bloodlines.esp",
+  "type": "HDPT FULL",
+  "index": null,
+  "editor_id": "zzVCB_Eyebrows_F04"
+ },
+ {
+  "original": "VampireEyesHuman_F01",
+  "string": "VampireEyesHuman_F01",
+  "form_id": "0014EB6B|Vampire Clans and Bloodlines.esp",
+  "type": "HDPT FULL",
+  "index": null,
+  "editor_id": "zzVCB_EyesHuman_F01"
+ },
+ {
+  "original": "VampireTeethOrlok_F01",
+  "string": "VampireTeethOrlok_F01",
+  "form_id": "0014EB6E|Vampire Clans and Bloodlines.esp",
+  "type": "HDPT FULL",
+  "index": null,
+  "editor_id": "zzVCB_MouthOrlok_F01"
+ },
+ {
+  "original": "VampireEyebrows_F03",
+  "string": "VampireEyebrows_F03",
+  "form_id": "006F1D3F|Vampire Clans and Bloodlines.esp",
+  "type": "HDPT FULL",
+  "index": null,
+  "editor_id": "zzVCB_Eyebrows_F03"
+ },
+ {
+  "original": "VampireHeadOrlok_F01",
+  "string": "VampireHeadOrlok_F01",
+  "form_id": "00158D71|Vampire Clans and Bloodlines.esp",
+  "type": "HDPT FULL",
+  "index": null,
+  "editor_id": "zzVCB_HeadOrlok_F01"
+ },
+ {
+  "original": "VampireHeadHuman_F01",
+  "string": "VampireHeadHuman_F01",
+  "form_id": "00158D72|Vampire Clans and Bloodlines.esp",
+  "type": "HDPT FULL",
+  "index": null,
+  "editor_id": "zzVCB_HeadHuman_F01"
+ },
+ {
+  "original": "VampireEyesOrlok_F01",
+  "string": "VampireEyesOrlok_F01",
+  "form_id": "00177397|Vampire Clans and Bloodlines.esp",
+  "type": "HDPT FULL",
+  "index": null,
+  "editor_id": "zzVCB_EyesOrlok_F01"
+ },
+ {
+  "original": "VampireEyesOrlok_M01",
+  "string": "VampireEyesOrlok_M01",
+  "form_id": "00177398|Vampire Clans and Bloodlines.esp",
+  "type": "HDPT FULL",
+  "index": null,
+  "editor_id": "zzVCB_EyesOrlok_M01"
+ },
+ {
+  "original": "VampireEyesOrlok_F02",
+  "string": "VampireEyesOrlok_F02",
+  "form_id": "00177399|Vampire Clans and Bloodlines.esp",
+  "type": "HDPT FULL",
+  "index": null,
+  "editor_id": "zzVCB_EyesOrlok_F02"
+ },
+ {
+  "original": "VampireEyesOrlok_M02",
+  "string": "VampireEyesOrlok_M02",
+  "form_id": "0017739A|Vampire Clans and Bloodlines.esp",
+  "type": "HDPT FULL",
+  "index": null,
+  "editor_id": "zzVCB_EyesOrlok_M02"
+ },
+ {
+  "original": "VampireEyesOrlok_F03",
+  "string": "VampireEyesOrlok_F03",
+  "form_id": "0017739B|Vampire Clans and Bloodlines.esp",
+  "type": "HDPT FULL",
+  "index": null,
+  "editor_id": "zzVCB_EyesOrlok_F03"
+ },
+ {
+  "original": "VampireEyesOrlok_M03",
+  "string": "VampireEyesOrlok_M03",
+  "form_id": "0017739C|Vampire Clans and Bloodlines.esp",
+  "type": "HDPT FULL",
+  "index": null,
+  "editor_id": "zzVCB_EyesOrlok_M03"
+ },
+ {
+  "original": "VampireEyesElf_M01",
+  "string": "VampireEyesElf_M01",
+  "form_id": "002D9C09|Vampire Clans and Bloodlines.esp",
+  "type": "HDPT FULL",
+  "index": null,
+  "editor_id": "zzVCB_EyesElf_M01"
+ },
+ {
+  "original": "VampireHairDarkElf_M08",
+  "string": "VampireHairDarkElf_M08",
+  "form_id": "002E3E10|Vampire Clans and Bloodlines.esp",
+  "type": "HDPT FULL",
+  "index": null,
+  "editor_id": "zzVCB_HairDarkElf_M08"
+ },
+ {
+  "original": "VampireEyebrows_M05",
+  "string": "VampireEyebrows_M05",
+  "form_id": "002E3E11|Vampire Clans and Bloodlines.esp",
+  "type": "HDPT FULL",
+  "index": null,
+  "editor_id": "zzVCB_Eyebrows_M05"
+ },
+ {
+  "original": "VampireHairlineDarkElf_M08",
+  "string": "VampireHairlineDarkElf_M08",
+  "form_id": "002E3E12|Vampire Clans and Bloodlines.esp",
+  "type": "HDPT FULL",
+  "index": null,
+  "editor_id": "zzVCB_HairlineDarkElf_M08"
+ },
+ {
+  "original": "VampireHeadElf_F01",
+  "string": "VampireHeadElf_F01",
+  "form_id": "002F8225|Vampire Clans and Bloodlines.esp",
+  "type": "HDPT FULL",
+  "index": null,
+  "editor_id": "zzVCB_HeadElf_F01"
+ },
+ {
+  "original": "VampireEyesRevenant_M01",
+  "string": "VampireEyesRevenant_M01",
+  "form_id": "00302428|Vampire Clans and Bloodlines.esp",
+  "type": "HDPT FULL",
+  "index": null,
+  "editor_id": "zzVCB_EyesRevenant_M01"
+ },
+ {
+  "original": "VampireEyesRevenant_F01",
+  "string": "VampireEyesRevenant_F01",
+  "form_id": "0031682F|Vampire Clans and Bloodlines.esp",
+  "type": "HDPT FULL",
+  "index": null,
+  "editor_id": "zzVCB_EyesRevenant_F01"
+ },
+ {
+  "original": "Orlok",
+  "string": "Орлок",
+  "form_id": "00005901|Vampire Clans and Bloodlines.esp",
+  "type": "RACE FULL",
+  "index": null,
+  "editor_id": "zzVCB_Orlok_Race01"
+ },
+ {
+  "original": "Revenant",
+  "string": "Призрак",
+  "form_id": "002D9C06|Vampire Clans and Bloodlines.esp",
+  "type": "RACE FULL",
+  "index": null,
+  "editor_id": "zzVCB_Revenant_Race01"
+ },
+ {
+  "original": "Revenant",
+  "string": "Призрак",
+  "form_id": "0031B935|Vampire Clans and Bloodlines.esp",
+  "type": "RACE FULL",
+  "index": null,
+  "editor_id": "zzVCB_Revenant_Race02"
+ },
+ {
+  "original": "Lost Soul",
+  "string": "Потерянная душа",
+  "form_id": "00349242|Vampire Clans and Bloodlines.esp",
+  "type": "RACE FULL",
+  "index": null,
+  "editor_id": "zzVCB_LostSoul_Race01"
+ },
+ {
+  "original": "Skeleton",
+  "string": "Скелет",
+  "form_id": "00418BC8|Vampire Clans and Bloodlines.esp",
+  "type": "RACE FULL",
+  "index": null,
+  "editor_id": "zzVCB_ArmoredSkeleton_Race01"
+ },
+ {
+  "original": "Vargr",
+  "string": "Варг",
+  "form_id": "0053955E|Vampire Clans and Bloodlines.esp",
+  "type": "RACE FULL",
+  "index": null,
+  "editor_id": "zzVCB_Vargr_Race01"
+ },
+ {
+  "original": "Drain Stamina",
+  "string": "Высасывание запаса сил",
+  "form_id": "007F91B7|Vampire Clans and Bloodlines.esp",
+  "type": "MGEF FULL",
+  "index": null,
+  "editor_id": "zzVCB_AbsorbStamina_01_Effect"
+ },
+ {
+  "original": "Shroud",
+  "string": "Пелена",
+  "form_id": "000A2857|Vampire Clans and Bloodlines.esp",
+  "type": "MGEF FULL",
+  "index": null,
+  "editor_id": "zzVCB_OrlokShroud_01_Effect"
+ },
+ {
+  "original": "The caster becomes invisible and harder to hit for <dur> seconds.",
+  "string": "Заклинатель становится невидимым, и попасть по нему труднее в течение <dur> с.",
+  "form_id": "000A2857|Vampire Clans and Bloodlines.esp",
+  "type": "MGEF DNAM",
+  "index": null,
+  "editor_id": "zzVCB_OrlokShroud_01_Effect"
+ },
+ {
+  "original": "Bat Swarm",
+  "string": "Стая летучих мышей",
+  "form_id": "000D016E|Vampire Clans and Bloodlines.esp",
+  "type": "MGEF FULL",
+  "index": null,
+  "editor_id": "zzVCB_BatSwarm_01_Effect"
+ },
+ {
+  "original": "Drain Health",
+  "string": "Высасывание здоровья",
+  "form_id": "000D0171|Vampire Clans and Bloodlines.esp",
+  "type": "MGEF FULL",
+  "index": null,
+  "editor_id": "zzVCB_BatSwarm_AbsorbHealth_01_Effect"
+ },
+ {
+  "original": "Absorb <mag> points of health per second from the target.",
+  "string": "Поглощает у цели <mag> ед. здоровья в секунду.",
+  "form_id": "000D0171|Vampire Clans and Bloodlines.esp",
+  "type": "MGEF DNAM",
+  "index": null,
+  "editor_id": "zzVCB_BatSwarm_AbsorbHealth_01_Effect"
+ },
+ {
+  "original": "Drain Life",
+  "string": "Высасывание жизни",
+  "form_id": "000DF47D|Vampire Clans and Bloodlines.esp",
+  "type": "MGEF FULL",
+  "index": null,
+  "editor_id": "zzVCB_AbsorbHealth_01_Effect"
+ },
+ {
+  "original": "Absorbs <mag> points of health, magicka and stamina per second from the target.",
+  "string": "Поглощает у цели <mag> ед. здоровья, магии и запаса сил в секунду.",
+  "form_id": "000DF47D|Vampire Clans and Bloodlines.esp",
+  "type": "MGEF DNAM",
+  "index": null,
+  "editor_id": "zzVCB_AbsorbHealth_01_Effect"
+ },
+ {
+  "original": "Bat Swarm",
+  "string": "Стая летучих мышей",
+  "form_id": "000E96B5|Vampire Clans and Bloodlines.esp",
+  "type": "MGEF FULL",
+  "index": null,
+  "editor_id": "zzVCB_BatSwarm_02_Effect"
+ },
+ {
+  "original": "Bat Swarm",
+  "string": "Стая летучих мышей",
+  "form_id": "000E96B6|Vampire Clans and Bloodlines.esp",
+  "type": "MGEF FULL",
+  "index": null,
+  "editor_id": "zzVCB_BatSwarm_03_Effect"
+ },
+ {
+  "original": "Bat Swarm",
+  "string": "Стая летучих мышей",
+  "form_id": "000E96B7|Vampire Clans and Bloodlines.esp",
+  "type": "MGEF FULL",
+  "index": null,
+  "editor_id": "zzVCB_BatSwarm_04_Effect"
+ },
+ {
+  "original": "Bat Swarm",
+  "string": "Стая летучих мышей",
+  "form_id": "000E96B8|Vampire Clans and Bloodlines.esp",
+  "type": "MGEF FULL",
+  "index": null,
+  "editor_id": "zzVCB_BatSwarm_05_Effect"
+ },
+ {
+  "original": "Bat Swarm",
+  "string": "Стая летучих мышей",
+  "form_id": "000E96B9|Vampire Clans and Bloodlines.esp",
+  "type": "MGEF FULL",
+  "index": null,
+  "editor_id": "zzVCB_BatSwarm_06_Effect"
+ },
+ {
+  "original": "Bat Swarm",
+  "string": "Стая летучих мышей",
+  "form_id": "000E96BA|Vampire Clans and Bloodlines.esp",
+  "type": "MGEF FULL",
+  "index": null,
+  "editor_id": "zzVCB_BatSwarm_07_Effect"
+ },
+ {
+  "original": "Fortify Unarmed Damage",
+  "string": "Повышение урона без оружия",
+  "form_id": "000EE7BE|Vampire Clans and Bloodlines.esp",
+  "type": "MGEF FULL",
+  "index": null,
+  "editor_id": "zzVCB_FortifyUnarmedDamage_01_Effect"
+ },
+ {
+  "original": "Improves the caster's unarmed damage by <mag> points for <dur> seconds.",
+  "string": "Увеличивает урон заклинателя без оружия на <mag> ед., действует <dur> с.",
+  "form_id": "000EE7BE|Vampire Clans and Bloodlines.esp",
+  "type": "MGEF DNAM",
+  "index": null,
+  "editor_id": "zzVCB_FortifyUnarmedDamage_01_Effect"
+ },
+ {
+  "original": "Potence",
+  "string": "Мощь",
+  "form_id": "000EE7C0|Vampire Clans and Bloodlines.esp",
+  "type": "MGEF FULL",
+  "index": null,
+  "editor_id": "zzVCB_Potence_FortifyArmorRating_01_Effect"
+ },
+ {
+  "original": "Improves the caster's armor rating by <mag> points for <dur> seconds.",
+  "string": "Увеличивает класс брони заклинателя на <mag> ед., действует <dur> с.",
+  "form_id": "000EE7C0|Vampire Clans and Bloodlines.esp",
+  "type": "MGEF DNAM",
+  "index": null,
+  "editor_id": "zzVCB_Potence_FortifyArmorRating_01_Effect"
+ },
+ {
+  "original": "Bat Swarm",
+  "string": "Стая летучих мышей",
+  "form_id": "000FDAE8|Vampire Clans and Bloodlines.esp",
+  "type": "MGEF FULL",
+  "index": null,
+  "editor_id": "zzVCB_BatSwarm_08_Effect"
+ },
+ {
+  "original": "Drain Life",
+  "string": "Высасывание жизни",
+  "form_id": "00121223|Vampire Clans and Bloodlines.esp",
+  "type": "MGEF FULL",
+  "index": null,
+  "editor_id": "zzVCB_AbsorbHealth_Ranged_01_Effect"
+ },
+ {
+  "original": "A magic bolt that absorbs <mag> points of health, and half as much magicka and stamina, from the target.",
+  "string": "Магический снаряд, который поглощает у цели <mag> ед. здоровья и вдвое меньше магии и запаса сил.",
+  "form_id": "00121223|Vampire Clans and Bloodlines.esp",
+  "type": "MGEF DNAM",
+  "index": null,
+  "editor_id": "zzVCB_AbsorbHealth_Ranged_01_Effect"
+ },
+ {
+  "original": "Drain Magicka",
+  "string": "Высасывание магии",
+  "form_id": "0012122B|Vampire Clans and Bloodlines.esp",
+  "type": "MGEF FULL",
+  "index": null,
+  "editor_id": "zzVCB_AbsorbMagicka_Ranged_01_Effect"
+ },
+ {
+  "original": "Drain Stamina",
+  "string": "Высасывание запаса сил",
+  "form_id": "0012122C|Vampire Clans and Bloodlines.esp",
+  "type": "MGEF FULL",
+  "index": null,
+  "editor_id": "zzVCB_AbsorbStamina_Ranged_01_Effect"
+ },
+ {
+  "original": "Drain Health",
+  "string": "Высасывание здоровья",
+  "form_id": "00130539|Vampire Clans and Bloodlines.esp",
+  "type": "MGEF FULL",
+  "index": null,
+  "editor_id": "zzVCB_AbsorbHealth_Shout_01_Effect"
+ },
+ {
+  "original": "A magic bolt that absorbs <mag> points of health from the target.",
+  "string": "Магический снаряд, который поглощает у цели <mag> ед. здоровья.",
+  "form_id": "00130539|Vampire Clans and Bloodlines.esp",
+  "type": "MGEF DNAM",
+  "index": null,
+  "editor_id": "zzVCB_AbsorbHealth_Shout_01_Effect"
+ },
+ {
+  "original": "Summon Lost Soul",
+  "string": "Призыв заблудшей души",
+  "form_id": "00349246|Vampire Clans and Bloodlines.esp",
+  "type": "MGEF FULL",
+  "index": null,
+  "editor_id": "zzVCB_SummonLostSoul_01_Effect"
+ },
+ {
+  "original": "Summons a Lost Soul for <dur> seconds wherever the caster is pointing.",
+  "string": "Призывает заблудшую душу на <dur> сек. туда, куда указывает заклинатель.",
+  "form_id": "00349246|Vampire Clans and Bloodlines.esp",
+  "type": "MGEF DNAM",
+  "index": null,
+  "editor_id": "zzVCB_SummonLostSoul_01_Effect"
+ },
+ {
+  "original": "Lost Souls FX",
+  "string": "Заблудшие души (эффект)",
+  "form_id": "0034E355|Vampire Clans and Bloodlines.esp",
+  "type": "MGEF FULL",
+  "index": null,
+  "editor_id": "zzVCB_LostSouls_01_FX"
+ },
+ {
+  "original": "Spell Absorption",
+  "string": "Поглощение заклинаний",
+  "form_id": "0036C96A|Vampire Clans and Bloodlines.esp",
+  "type": "MGEF FULL",
+  "index": null,
+  "editor_id": "zzVCB_SpellAbsorptionAbility_Effect"
+ },
+ {
+  "original": "Absorb <mag>% of the magicka from hostile spells.",
+  "string": "Поглощает <mag>% магии из враждебных заклинаний.",
+  "form_id": "0036C96A|Vampire Clans and Bloodlines.esp",
+  "type": "MGEF DNAM",
+  "index": null,
+  "editor_id": "zzVCB_SpellAbsorptionAbility_Effect"
+ },
+ {
+  "original": "Aegis",
+  "string": "Эгида",
+  "form_id": "0037BC6E|Vampire Clans and Bloodlines.esp",
+  "type": "MGEF FULL",
+  "index": null,
+  "editor_id": "zzVCB_Aegis_01_Effect"
+ },
+ {
+  "original": "Improves the caster's armor rating by <mag> points for <dur> seconds.",
+  "string": "Увеличивает класс брони заклинателя на <mag> ед., действует <dur> с.",
+  "form_id": "0037BC6E|Vampire Clans and Bloodlines.esp",
+  "type": "MGEF DNAM",
+  "index": null,
+  "editor_id": "zzVCB_Aegis_01_Effect"
+ },
+ {
+  "original": "Aegis",
+  "string": "Эгида",
+  "form_id": "00390077|Vampire Clans and Bloodlines.esp",
+  "type": "MGEF FULL",
+  "index": null,
+  "editor_id": "zzVCB_Aegis_02_Effect"
+ },
+ {
+  "original": "Improves the caster's armor rating by <mag> points for <dur> seconds.",
+  "string": "Увеличивает класс брони заклинателя на <mag> ед., действует <dur> с.",
+  "form_id": "00390077|Vampire Clans and Bloodlines.esp",
+  "type": "MGEF DNAM",
+  "index": null,
+  "editor_id": "zzVCB_Aegis_02_Effect"
+ },
+ {
+  "original": "Aegis",
+  "string": "Эгида",
+  "form_id": "00390078|Vampire Clans and Bloodlines.esp",
+  "type": "MGEF FULL",
+  "index": null,
+  "editor_id": "zzVCB_Aegis_03_Effect"
+ },
+ {
+  "original": "Improves the caster's armor rating by <mag> points for <dur> seconds.",
+  "string": "Увеличивает класс брони заклинателя на <mag> ед., действует <dur> с.",
+  "form_id": "00390078|Vampire Clans and Bloodlines.esp",
+  "type": "MGEF DNAM",
+  "index": null,
+  "editor_id": "zzVCB_Aegis_03_Effect"
+ },
+ {
+  "original": "Damage Stamina",
+  "string": "Урон запасу сил",
+  "form_id": "0039007D|Vampire Clans and Bloodlines.esp",
+  "type": "MGEF FULL",
+  "index": null,
+  "editor_id": "zzVCB_DamageStamina_01_Effect"
+ },
+ {
+  "original": "Reanimate",
+  "string": "Живой мертвец",
+  "form_id": "003B8895|Vampire Clans and Bloodlines.esp",
+  "type": "MGEF FULL",
+  "index": null,
+  "editor_id": "zzVCB_Reanimate_01_Effect"
+ },
+ {
+  "original": "Temporarily reanimates corpses in the immediate area.",
+  "string": "Временно поднимает мертвых в непосредственной близости.",
+  "form_id": "003B8895|Vampire Clans and Bloodlines.esp",
+  "type": "MGEF DNAM",
+  "index": null,
+  "editor_id": "zzVCB_Reanimate_01_Effect"
+ },
+ {
+  "original": "Skeleton Glowing Eyes",
+  "string": "Светящиеся глаза скелета",
+  "form_id": "00418BCB|Vampire Clans and Bloodlines.esp",
+  "type": "MGEF FULL",
+  "index": null,
+  "editor_id": "zzVCB_SkeletonGlowingEyes_01_FX"
+ },
+ {
+  "original": "Fortify Armor Rating",
+  "string": "Повышение класса брони",
+  "form_id": "004B0A27|Vampire Clans and Bloodlines.esp",
+  "type": "MGEF FULL",
+  "index": null,
+  "editor_id": "zzVCB_BatSwarm_FortifyArmorRating_01_Effect"
+ },
+ {
+  "original": "Aegis",
+  "string": "Эгида",
+  "form_id": "004D4131|Vampire Clans and Bloodlines.esp",
+  "type": "MGEF FULL",
+  "index": null,
+  "editor_id": "zzVCB_Aegis_04_Effect"
+ },
+ {
+  "original": "Improves the caster's armor rating by <mag> points for <dur> seconds.",
+  "string": "Увеличивает класс брони заклинателя на <mag> ед., действует <dur> с.",
+  "form_id": "004D4131|Vampire Clans and Bloodlines.esp",
+  "type": "MGEF DNAM",
+  "index": null,
+  "editor_id": "zzVCB_Aegis_04_Effect"
+ },
+ {
+  "original": "Aegis",
+  "string": "Эгида",
+  "form_id": "004D4132|Vampire Clans and Bloodlines.esp",
+  "type": "MGEF FULL",
+  "index": null,
+  "editor_id": "zzVCB_Aegis_05_Effect"
+ },
+ {
+  "original": "Improves the caster's armor rating by <mag> points for <dur> seconds.",
+  "string": "Увеличивает класс брони заклинателя на <mag> ед., действует <dur> с.",
+  "form_id": "004D4132|Vampire Clans and Bloodlines.esp",
+  "type": "MGEF DNAM",
+  "index": null,
+  "editor_id": "zzVCB_Aegis_05_Effect"
+ },
+ {
+  "original": "Aegis",
+  "string": "Эгида",
+  "form_id": "004D4133|Vampire Clans and Bloodlines.esp",
+  "type": "MGEF FULL",
+  "index": null,
+  "editor_id": "zzVCB_Aegis_06_Effect"
+ },
+ {
+  "original": "Improves the caster's armor rating by <mag> points for <dur> seconds.",
+  "string": "Увеличивает класс брони заклинателя на <mag> ед., действует <dur> с.",
+  "form_id": "004D4133|Vampire Clans and Bloodlines.esp",
+  "type": "MGEF DNAM",
+  "index": null,
+  "editor_id": "zzVCB_Aegis_06_Effect"
+ },
+ {
+  "original": "Aegis",
+  "string": "Эгида",
+  "form_id": "004D4134|Vampire Clans and Bloodlines.esp",
+  "type": "MGEF FULL",
+  "index": null,
+  "editor_id": "zzVCB_Aegis_07_Effect"
+ },
+ {
+  "original": "Improves the caster's armor rating by <mag> points for <dur> seconds.",
+  "string": "Увеличивает класс брони заклинателя на <mag> ед., действует <dur> с.",
+  "form_id": "004D4134|Vampire Clans and Bloodlines.esp",
+  "type": "MGEF DNAM",
+  "index": null,
+  "editor_id": "zzVCB_Aegis_07_Effect"
+ },
+ {
+  "original": "Aegis",
+  "string": "Эгида",
+  "form_id": "004D4135|Vampire Clans and Bloodlines.esp",
+  "type": "MGEF FULL",
+  "index": null,
+  "editor_id": "zzVCB_Aegis_08_Effect"
+ },
+ {
+  "original": "Improves the caster's armor rating by <mag> points for <dur> seconds.",
+  "string": "Увеличивает класс брони заклинателя на <mag> ед., действует <dur> с.",
+  "form_id": "004D4135|Vampire Clans and Bloodlines.esp",
+  "type": "MGEF DNAM",
+  "index": null,
+  "editor_id": "zzVCB_Aegis_08_Effect"
+ },
+ {
+  "original": "Trigger Buff (Cloak)",
+  "string": "Активация усиления (плащ)",
+  "form_id": "0052F359|Vampire Clans and Bloodlines.esp",
+  "type": "MGEF FULL",
+  "index": null,
+  "editor_id": "zzVCB_TriggerBuff_01_Effect"
+ },
+ {
+  "original": "Shroud",
+  "string": "Пелена",
+  "form_id": "00766483|Vampire Clans and Bloodlines.esp",
+  "type": "MGEF FULL",
+  "index": null,
+  "editor_id": "zzzVCB_OrlokShroud_01_EffectBACKUP"
+ },
+ {
+  "original": "The caster becomes invisible, and armor rating is increased by <mag> points for <dur> seconds.\r\n30,40,50,65,80,100,120,150",
+  "string": "Заклинатель становится невидимым, а его класс брони увеличивается на <mag> ед., действует <dur> с.\r\n30,40,50,65,80,100,120,150",
+  "form_id": "00766483|Vampire Clans and Bloodlines.esp",
+  "type": "MGEF DNAM",
+  "index": null,
+  "editor_id": "zzzVCB_OrlokShroud_01_EffectBACKUP"
+ },
+ {
+  "original": "Drain Health",
+  "string": "Высасывание здоровья",
+  "form_id": "0077F990|Vampire Clans and Bloodlines.esp",
+  "type": "MGEF FULL",
+  "index": null,
+  "editor_id": "zzVCB_OrlokClawAttack_01_Effect"
+ },
+ {
+  "original": "Absorb <mag> points of health from the target.",
+  "string": "Поглощение <mag> ед. здоровья у цели.",
+  "form_id": "0077F990|Vampire Clans and Bloodlines.esp",
+  "type": "MGEF DNAM",
+  "index": null,
+  "editor_id": "zzVCB_OrlokClawAttack_01_Effect"
+ },
+ {
+  "original": "Trigger Mist Form",
+  "string": "Активация облика тумана",
+  "form_id": "000A2856|Vampire Clans and Bloodlines.esp",
+  "type": "MGEF FULL",
+  "index": null,
+  "editor_id": "zzzVCB_TEMPOrlokBuff_01_Effect"
+ },
+ {
+  "original": "Drain Magicka",
+  "string": "Высасывание магии",
+  "form_id": "007F91B9|Vampire Clans and Bloodlines.esp",
+  "type": "MGEF FULL",
+  "index": null,
+  "editor_id": "zzVCB_AbsorbMagicka_01_Effect"
+ },
+ {
+  "original": "Shroud",
+  "string": "Пелена",
+  "form_id": "000E9696|Vampire Clans and Bloodlines.esp",
+  "type": "SPEL FULL",
+  "index": null,
+  "editor_id": "zzVCB_Shroud_05_SpellRH"
+ },
+ {
+  "original": "Orlok Abilities",
+  "string": "Способности Орлоков",
+  "form_id": "0003D428|Vampire Clans and Bloodlines.esp",
+  "type": "SPEL FULL",
+  "index": null,
+  "editor_id": "zzVCB_Orlok_Abilities"
+ },
+ {
+  "original": "Shroud",
+  "string": "Пелена",
+  "form_id": "000A2850|Vampire Clans and Bloodlines.esp",
+  "type": "SPEL FULL",
+  "index": null,
+  "editor_id": "zzVCB_Shroud_01_SpellRH"
+ },
+ {
+  "original": "Trigger Bats",
+  "string": "Активация летучих мышей",
+  "form_id": "000CB065|Vampire Clans and Bloodlines.esp",
+  "type": "SPEL FULL",
+  "index": null,
+  "editor_id": "zzzVCB_TEMPOrlokBuff_01Ability"
+ },
+ {
+  "original": "Mist Form",
+  "string": "Туманная форма",
+  "form_id": "000D016B|Vampire Clans and Bloodlines.esp",
+  "type": "SPEL FULL",
+  "index": null,
+  "editor_id": "zzzVCB_TEMPMistform"
+ },
+ {
+  "original": "You become invulnerable, but unable to attack, while health, magicka and Stamina regen quickly.",
+  "string": "Вы становитесь неуязвимы, но теряете способность атаковать. Однако в этом состоянии вы быстро восстанавливаете здоровье, магию и запас сил.",
+  "form_id": "000D016B|Vampire Clans and Bloodlines.esp",
+  "type": "SPEL DESC",
+  "index": null,
+  "editor_id": "zzzVCB_TEMPMistform"
+ },
+ {
+  "original": "Bat Swarm",
+  "string": "Стая летучих мышей",
+  "form_id": "000D016D|Vampire Clans and Bloodlines.esp",
+  "type": "SPEL FULL",
+  "index": null,
+  "editor_id": "zzVCB_BatSwarm_01_SpellRH"
+ },
+ {
+  "original": "Bat Swarm",
+  "string": "Стая летучих мышей",
+  "form_id": "000D0170|Vampire Clans and Bloodlines.esp",
+  "type": "SPEL FULL",
+  "index": null,
+  "editor_id": "zzVCB_BatSwarmDamage_01_Spell"
+ },
+ {
+  "original": "Drain Life",
+  "string": "Высасывание жизни",
+  "form_id": "000DF47B|Vampire Clans and Bloodlines.esp",
+  "type": "SPEL FULL",
+  "index": null,
+  "editor_id": "zzVCB_DrainLife_01_SpellLH"
+ },
+ {
+  "original": "Drain Life",
+  "string": "Высасывание жизни",
+  "form_id": "000DF47F|Vampire Clans and Bloodlines.esp",
+  "type": "SPEL FULL",
+  "index": null,
+  "editor_id": "zzVCB_DrainLife_02_SpellLH"
+ },
+ {
+  "original": "Drain Life",
+  "string": "Высасывание жизни",
+  "form_id": "000DF480|Vampire Clans and Bloodlines.esp",
+  "type": "SPEL FULL",
+  "index": null,
+  "editor_id": "zzVCB_DrainLife_03_SpellLH"
+ },
+ {
+  "original": "Drain Life",
+  "string": "Высасывание жизни",
+  "form_id": "000DF481|Vampire Clans and Bloodlines.esp",
+  "type": "SPEL FULL",
+  "index": null,
+  "editor_id": "zzVCB_DrainLife_04_SpellLH"
+ },
+ {
+  "original": "Drain Life",
+  "string": "Высасывание жизни",
+  "form_id": "000DF483|Vampire Clans and Bloodlines.esp",
+  "type": "SPEL FULL",
+  "index": null,
+  "editor_id": "zzVCB_DrainLife_05_SpellLH"
+ },
+ {
+  "original": "Drain Life",
+  "string": "Высасывание жизни",
+  "form_id": "000DF485|Vampire Clans and Bloodlines.esp",
+  "type": "SPEL FULL",
+  "index": null,
+  "editor_id": "zzVCB_DrainLife_06_SpellLH"
+ },
+ {
+  "original": "Drain Life",
+  "string": "Высасывание жизни",
+  "form_id": "000DF487|Vampire Clans and Bloodlines.esp",
+  "type": "SPEL FULL",
+  "index": null,
+  "editor_id": "zzVCB_DrainLife_07_SpellLH"
+ },
+ {
+  "original": "Shroud",
+  "string": "Пелена",
+  "form_id": "000E9691|Vampire Clans and Bloodlines.esp",
+  "type": "SPEL FULL",
+  "index": null,
+  "editor_id": "zzVCB_Shroud_02_SpellRH"
+ },
+ {
+  "original": "Shroud",
+  "string": "Пелена",
+  "form_id": "000E9693|Vampire Clans and Bloodlines.esp",
+  "type": "SPEL FULL",
+  "index": null,
+  "editor_id": "zzVCB_Shroud_03_SpellRH"
+ },
+ {
+  "original": "Shroud",
+  "string": "Пелена",
+  "form_id": "000E9694|Vampire Clans and Bloodlines.esp",
+  "type": "SPEL FULL",
+  "index": null,
+  "editor_id": "zzVCB_Shroud_04_SpellRH"
+ },
+ {
+  "original": "Potence",
+  "string": "Мощь",
+  "form_id": "000EE7C3|Vampire Clans and Bloodlines.esp",
+  "type": "SPEL FULL",
+  "index": null,
+  "editor_id": "zzVCB_Potence_03_Spell"
+ },
+ {
+  "original": "Shroud",
+  "string": "Пелена",
+  "form_id": "000E9699|Vampire Clans and Bloodlines.esp",
+  "type": "SPEL FULL",
+  "index": null,
+  "editor_id": "zzVCB_Shroud_06_SpellRH"
+ },
+ {
+  "original": "Shroud",
+  "string": "Пелена",
+  "form_id": "000E969A|Vampire Clans and Bloodlines.esp",
+  "type": "SPEL FULL",
+  "index": null,
+  "editor_id": "zzVCB_Shroud_07_SpellRH"
+ },
+ {
+  "original": "Bat Swarm",
+  "string": "Стая летучих мышей",
+  "form_id": "000E969C|Vampire Clans and Bloodlines.esp",
+  "type": "SPEL FULL",
+  "index": null,
+  "editor_id": "zzVCB_BatSwarm_02_SpellRH"
+ },
+ {
+  "original": "Bat Swarm",
+  "string": "Стая летучих мышей",
+  "form_id": "000E969F|Vampire Clans and Bloodlines.esp",
+  "type": "SPEL FULL",
+  "index": null,
+  "editor_id": "zzVCB_BatSwarm_03_SpellRH"
+ },
+ {
+  "original": "Bat Swarm",
+  "string": "Стая летучих мышей",
+  "form_id": "000E96A1|Vampire Clans and Bloodlines.esp",
+  "type": "SPEL FULL",
+  "index": null,
+  "editor_id": "zzVCB_BatSwarm_04_SpellRH"
+ },
+ {
+  "original": "Bat Swarm",
+  "string": "Стая летучих мышей",
+  "form_id": "000E96A3|Vampire Clans and Bloodlines.esp",
+  "type": "SPEL FULL",
+  "index": null,
+  "editor_id": "zzVCB_BatSwarm_05_SpellRH"
+ },
+ {
+  "original": "Bat Swarm",
+  "string": "Стая летучих мышей",
+  "form_id": "000E96A5|Vampire Clans and Bloodlines.esp",
+  "type": "SPEL FULL",
+  "index": null,
+  "editor_id": "zzVCB_BatSwarm_06_SpellRH"
+ },
+ {
+  "original": "Bat Swarm",
+  "string": "Стая летучих мышей",
+  "form_id": "000E96A7|Vampire Clans and Bloodlines.esp",
+  "type": "SPEL FULL",
+  "index": null,
+  "editor_id": "zzVCB_BatSwarm_07_SpellRH"
+ },
+ {
+  "original": "Bat Swarm",
+  "string": "Стая летучих мышей",
+  "form_id": "000E96A9|Vampire Clans and Bloodlines.esp",
+  "type": "SPEL FULL",
+  "index": null,
+  "editor_id": "zzVCB_BatSwarmDamage_02_Spell"
+ },
+ {
+  "original": "Bat Swarm",
+  "string": "Стая летучих мышей",
+  "form_id": "000E96AB|Vampire Clans and Bloodlines.esp",
+  "type": "SPEL FULL",
+  "index": null,
+  "editor_id": "zzVCB_BatSwarmDamage_03_Spell"
+ },
+ {
+  "original": "Bat Swarm",
+  "string": "Стая летучих мышей",
+  "form_id": "000E96AD|Vampire Clans and Bloodlines.esp",
+  "type": "SPEL FULL",
+  "index": null,
+  "editor_id": "zzVCB_BatSwarmDamage_04_Spell"
+ },
+ {
+  "original": "Bat Swarm",
+  "string": "Стая летучих мышей",
+  "form_id": "000E96AF|Vampire Clans and Bloodlines.esp",
+  "type": "SPEL FULL",
+  "index": null,
+  "editor_id": "zzVCB_BatSwarmDamage_05_Spell"
+ },
+ {
+  "original": "Bat Swarm",
+  "string": "Стая летучих мышей",
+  "form_id": "000E96B1|Vampire Clans and Bloodlines.esp",
+  "type": "SPEL FULL",
+  "index": null,
+  "editor_id": "zzVCB_BatSwarmDamage_06_Spell"
+ },
+ {
+  "original": "Bat Swarm",
+  "string": "Стая летучих мышей",
+  "form_id": "000E96B3|Vampire Clans and Bloodlines.esp",
+  "type": "SPEL FULL",
+  "index": null,
+  "editor_id": "zzVCB_BatSwarmDamage_07_Spell"
+ },
+ {
+  "original": "Potence",
+  "string": "Мощь",
+  "form_id": "000EE7BF|Vampire Clans and Bloodlines.esp",
+  "type": "SPEL FULL",
+  "index": null,
+  "editor_id": "zzVCB_Potence_01_Spell"
+ },
+ {
+  "original": "Potence",
+  "string": "Мощь",
+  "form_id": "000EE7C2|Vampire Clans and Bloodlines.esp",
+  "type": "SPEL FULL",
+  "index": null,
+  "editor_id": "zzVCB_Potence_02_Spell"
+ },
+ {
+  "original": "Firebolt",
+  "string": "Огненная стрела",
+  "form_id": "007F40B4|Vampire Clans and Bloodlines.esp",
+  "type": "SPEL FULL",
+  "index": null,
+  "editor_id": "zzVCB_Test_01_Spell"
+ },
+ {
+  "original": "Potence",
+  "string": "Мощь",
+  "form_id": "000EE7C5|Vampire Clans and Bloodlines.esp",
+  "type": "SPEL FULL",
+  "index": null,
+  "editor_id": "zzVCB_Potence_04_Spell"
+ },
+ {
+  "original": "Potence",
+  "string": "Мощь",
+  "form_id": "000EE7C7|Vampire Clans and Bloodlines.esp",
+  "type": "SPEL FULL",
+  "index": null,
+  "editor_id": "zzVCB_Potence_05_Spell"
+ },
+ {
+  "original": "Potence",
+  "string": "Мощь",
+  "form_id": "000EE7C9|Vampire Clans and Bloodlines.esp",
+  "type": "SPEL FULL",
+  "index": null,
+  "editor_id": "zzVCB_Potence_06_Spell"
+ },
+ {
+  "original": "Potence",
+  "string": "Мощь",
+  "form_id": "000EE7CB|Vampire Clans and Bloodlines.esp",
+  "type": "SPEL FULL",
+  "index": null,
+  "editor_id": "zzVCB_Potence_07_Spell"
+ },
+ {
+  "original": "Drain Life",
+  "string": "Высасывание жизни",
+  "form_id": "000FDADF|Vampire Clans and Bloodlines.esp",
+  "type": "SPEL FULL",
+  "index": null,
+  "editor_id": "zzVCB_DrainLife_08_SpellLH"
+ },
+ {
+  "original": "Shroud",
+  "string": "Пелена",
+  "form_id": "000FDAE1|Vampire Clans and Bloodlines.esp",
+  "type": "SPEL FULL",
+  "index": null,
+  "editor_id": "zzVCB_Shroud_08_SpellRH"
+ },
+ {
+  "original": "Potence",
+  "string": "Мощь",
+  "form_id": "000FDAE2|Vampire Clans and Bloodlines.esp",
+  "type": "SPEL FULL",
+  "index": null,
+  "editor_id": "zzVCB_Potence_08_Spell"
+ },
+ {
+  "original": "Bat Swarm",
+  "string": "Стая летучих мышей",
+  "form_id": "000FDAE4|Vampire Clans and Bloodlines.esp",
+  "type": "SPEL FULL",
+  "index": null,
+  "editor_id": "zzVCB_BatSwarmDamage_08_Spell"
+ },
+ {
+  "original": "Bat Swarm",
+  "string": "Стая летучих мышей",
+  "form_id": "000FDAE6|Vampire Clans and Bloodlines.esp",
+  "type": "SPEL FULL",
+  "index": null,
+  "editor_id": "zzVCB_BatSwarm_08_SpellRH"
+ },
+ {
+  "original": "Blood Siphon",
+  "string": "Кровавый сифон",
+  "form_id": "00121224|Vampire Clans and Bloodlines.esp",
+  "type": "SPEL FULL",
+  "index": null,
+  "editor_id": "zzVCB_BloodSiphon_01_SpellLH"
+ },
+ {
+  "original": "Blood Siphon",
+  "string": "Кровавый сифон",
+  "form_id": "00121225|Vampire Clans and Bloodlines.esp",
+  "type": "SPEL FULL",
+  "index": null,
+  "editor_id": "zzVCB_BloodSiphon_02_SpellLH"
+ },
+ {
+  "original": "Blood Siphon",
+  "string": "Кровавый сифон",
+  "form_id": "00121228|Vampire Clans and Bloodlines.esp",
+  "type": "SPEL FULL",
+  "index": null,
+  "editor_id": "zzVCB_BloodSiphon_03_SpellLH"
+ },
+ {
+  "original": "Exsanguinate",
+  "string": "Обескровить",
+  "form_id": "0013053B|Vampire Clans and Bloodlines.esp",
+  "type": "SPEL FULL",
+  "index": null,
+  "editor_id": "zzVCB_Exsanguinate_01_Spell"
+ },
+ {
+  "original": "Exsanguinate",
+  "string": "Обескровить",
+  "form_id": "00144943|Vampire Clans and Bloodlines.esp",
+  "type": "SPEL FULL",
+  "index": null,
+  "editor_id": "zzVCB_Exsanguinate_02_Spell"
+ },
+ {
+  "original": "Exsanguinate",
+  "string": "Обескровить",
+  "form_id": "00144945|Vampire Clans and Bloodlines.esp",
+  "type": "SPEL FULL",
+  "index": null,
+  "editor_id": "zzVCB_Exsanguinate_03_Spell"
+ },
+ {
+  "original": "Revenant Abilities",
+  "string": "Способности Ревенантов",
+  "form_id": "002DED0C|Vampire Clans and Bloodlines.esp",
+  "type": "SPEL FULL",
+  "index": null,
+  "editor_id": "zzVCB_Revenant_Abilities"
+ },
+ {
+  "original": "Summon Lost Souls",
+  "string": "Призыв заблудших душ",
+  "form_id": "00349247|Vampire Clans and Bloodlines.esp",
+  "type": "SPEL FULL",
+  "index": null,
+  "editor_id": "zzVCB_SummonLostSouls_01_Spell"
+ },
+ {
+  "original": "Summon Lost Souls",
+  "string": "Призыв заблудших душ",
+  "form_id": "0034924A|Vampire Clans and Bloodlines.esp",
+  "type": "SPEL FULL",
+  "index": null,
+  "editor_id": "zzVCB_SummonLostSouls_02_Spell"
+ },
+ {
+  "original": "Summon Lost Souls",
+  "string": "Призыв заблудших душ",
+  "form_id": "0034924C|Vampire Clans and Bloodlines.esp",
+  "type": "SPEL FULL",
+  "index": null,
+  "editor_id": "zzVCB_SummonLostSouls_03_Spell"
+ },
+ {
+  "original": "Summon Lost Souls",
+  "string": "Призыв заблудших душ",
+  "form_id": "0034924E|Vampire Clans and Bloodlines.esp",
+  "type": "SPEL FULL",
+  "index": null,
+  "editor_id": "zzVCB_SummonLostSouls_04_Spell"
+ },
+ {
+  "original": "Summon Lost Souls",
+  "string": "Призыв заблудших душ",
+  "form_id": "00349250|Vampire Clans and Bloodlines.esp",
+  "type": "SPEL FULL",
+  "index": null,
+  "editor_id": "zzVCB_SummonLostSouls_05_Spell"
+ },
+ {
+  "original": "Lost Soul Abilities",
+  "string": "Способности заблудшей души",
+  "form_id": "0034E356|Vampire Clans and Bloodlines.esp",
+  "type": "SPEL FULL",
+  "index": null,
+  "editor_id": "zzVCB_LostSoul_Abilities"
+ },
+ {
+  "original": "Aegis",
+  "string": "Эгида",
+  "form_id": "0037BC6F|Vampire Clans and Bloodlines.esp",
+  "type": "SPEL FULL",
+  "index": null,
+  "editor_id": "zzVCB_RevenantAegis_01_SpellRH"
+ },
+ {
+  "original": "Aegis",
+  "string": "Эгида",
+  "form_id": "00390079|Vampire Clans and Bloodlines.esp",
+  "type": "SPEL FULL",
+  "index": null,
+  "editor_id": "zzVCB_RevenantAegis_02_SpellRH"
+ },
+ {
+  "original": "Aegis",
+  "string": "Эгида",
+  "form_id": "0039007B|Vampire Clans and Bloodlines.esp",
+  "type": "SPEL FULL",
+  "index": null,
+  "editor_id": "zzVCB_RevenantAegis_03_SpellRH"
+ },
+ {
+  "original": "Damage Stamina",
+  "string": "Урон запасу сил",
+  "form_id": "0039007E|Vampire Clans and Bloodlines.esp",
+  "type": "SPEL FULL",
+  "index": null,
+  "editor_id": "zzVCB_DamageStamina_01_Spell"
+ },
+ {
+  "original": "Damage Stamina",
+  "string": "Урон запасу сил",
+  "form_id": "003A4486|Vampire Clans and Bloodlines.esp",
+  "type": "SPEL FULL",
+  "index": null,
+  "editor_id": "zzVCB_DamageStamina_02_Spell"
+ },
+ {
+  "original": "Damage Stamina",
+  "string": "Урон запасу сил",
+  "form_id": "003A4488|Vampire Clans and Bloodlines.esp",
+  "type": "SPEL FULL",
+  "index": null,
+  "editor_id": "zzVCB_DamageStamina_03_Spell"
+ },
+ {
+  "original": "Raise Dead",
+  "string": "Поднятие мертвецов",
+  "form_id": "003B8894|Vampire Clans and Bloodlines.esp",
+  "type": "SPEL FULL",
+  "index": null,
+  "editor_id": "zzVCB_Reanimate_01_SpellRH"
+ },
+ {
+  "original": "Skeleton Abilities",
+  "string": "Способности скелета",
+  "form_id": "00418BC9|Vampire Clans and Bloodlines.esp",
+  "type": "SPEL FULL",
+  "index": null,
+  "editor_id": "zzVCB_Skeleton_Abilities"
+ },
+ {
+  "original": "Recovery",
+  "string": "Восполнение",
+  "form_id": "0045A8EC|Vampire Clans and Bloodlines.esp",
+  "type": "SPEL FULL",
+  "index": null,
+  "editor_id": "zzVCB_MagickaRecovery_01Ability"
+ },
+ {
+  "original": "Recovery",
+  "string": "Восполнение",
+  "form_id": "0045A8EE|Vampire Clans and Bloodlines.esp",
+  "type": "SPEL FULL",
+  "index": null,
+  "editor_id": "zzVCB_MagickaRecovery_02Ability"
+ },
+ {
+  "original": "Recovery",
+  "string": "Восполнение",
+  "form_id": "0045A8F0|Vampire Clans and Bloodlines.esp",
+  "type": "SPEL FULL",
+  "index": null,
+  "editor_id": "zzVCB_MagickaRecovery_03Ability"
+ },
+ {
+  "original": "Blood Siphon",
+  "string": "Кровавый сифон",
+  "form_id": "00483107|Vampire Clans and Bloodlines.esp",
+  "type": "SPEL FULL",
+  "index": null,
+  "editor_id": "zzVCB_BloodSiphon_04_SpellLH"
+ },
+ {
+  "original": "Blood Siphon",
+  "string": "Кровавый сифон",
+  "form_id": "00483109|Vampire Clans and Bloodlines.esp",
+  "type": "SPEL FULL",
+  "index": null,
+  "editor_id": "zzVCB_BloodSiphon_05_SpellLH"
+ },
+ {
+  "original": "Exsanguinate",
+  "string": "Обескровить",
+  "form_id": "004AB917|Vampire Clans and Bloodlines.esp",
+  "type": "SPEL FULL",
+  "index": null,
+  "editor_id": "zzVCB_Exsanguinate_04_Spell"
+ },
+ {
+  "original": "Exsanguinate",
+  "string": "Обескровить",
+  "form_id": "004AB919|Vampire Clans and Bloodlines.esp",
+  "type": "SPEL FULL",
+  "index": null,
+  "editor_id": "zzVCB_Exsanguinate_05_Spell"
+ },
+ {
+  "original": "Exsanguinate",
+  "string": "Обескровить",
+  "form_id": "004AB91B|Vampire Clans and Bloodlines.esp",
+  "type": "SPEL FULL",
+  "index": null,
+  "editor_id": "zzVCB_Exsanguinate_06_Spell"
+ },
+ {
+  "original": "Exsanguinate",
+  "string": "Обескровить",
+  "form_id": "004AB91D|Vampire Clans and Bloodlines.esp",
+  "type": "SPEL FULL",
+  "index": null,
+  "editor_id": "zzVCB_Exsanguinate_07_Spell"
+ },
+ {
+  "original": "Exsanguinate",
+  "string": "Обескровить",
+  "form_id": "004AB91F|Vampire Clans and Bloodlines.esp",
+  "type": "SPEL FULL",
+  "index": null,
+  "editor_id": "zzVCB_Exsanguinate_08_Spell"
+ },
+ {
+  "original": "Aegis",
+  "string": "Эгида",
+  "form_id": "004D4136|Vampire Clans and Bloodlines.esp",
+  "type": "SPEL FULL",
+  "index": null,
+  "editor_id": "zzVCB_RevenantAegis_04_SpellRH"
+ },
+ {
+  "original": "Aegis",
+  "string": "Эгида",
+  "form_id": "004D4137|Vampire Clans and Bloodlines.esp",
+  "type": "SPEL FULL",
+  "index": null,
+  "editor_id": "zzVCB_RevenantAegis_05_SpellRH"
+ },
+ {
+  "original": "Aegis",
+  "string": "Эгида",
+  "form_id": "004D413A|Vampire Clans and Bloodlines.esp",
+  "type": "SPEL FULL",
+  "index": null,
+  "editor_id": "zzVCB_RevenantAegis_06_SpellRH"
+ },
+ {
+  "original": "Aegis",
+  "string": "Эгида",
+  "form_id": "004D413B|Vampire Clans and Bloodlines.esp",
+  "type": "SPEL FULL",
+  "index": null,
+  "editor_id": "zzVCB_RevenantAegis_07_SpellRH"
+ },
+ {
+  "original": "Aegis",
+  "string": "Эгида",
+  "form_id": "004D413E|Vampire Clans and Bloodlines.esp",
+  "type": "SPEL FULL",
+  "index": null,
+  "editor_id": "zzVCB_RevenantAegis_08_SpellRH"
+ },
+ {
+  "original": "Vargr Abilities",
+  "string": "Способности Варгов",
+  "form_id": "00608EBB|Vampire Clans and Bloodlines.esp",
+  "type": "SPEL FULL",
+  "index": null,
+  "editor_id": "zzVCB_Vargr_Abilities"
+ },
+ {
+  "original": "Weakness to Sunlight",
+  "string": "Светобоязнь",
+  "form_id": "00710349|Vampire Clans and Bloodlines.esp",
+  "type": "SPEL FULL",
+  "index": null,
+  "editor_id": "zzVCB_VampireSunDamage_Orlok"
+ },
+ {
+  "original": "Absorb Health",
+  "string": "Поглощение здоровья",
+  "form_id": "0077F98F|Vampire Clans and Bloodlines.esp",
+  "type": "SPEL FULL",
+  "index": null,
+  "editor_id": "zzVCB_OrlokClawAttack_01_Spell"
+ },
+ {
+  "original": "Black Shoes",
+  "string": "Черные туфли",
+  "form_id": "003C2A9A|Vampire Clans and Bloodlines.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "zzVCB_Revenant_Shoes_02"
+ },
+ {
+  "original": "Revenant's Robes",
+  "string": "Мантия ревенанта",
+  "form_id": "003D6EAD|Vampire Clans and Bloodlines.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "zzVCB_Revenant_Robe_01"
+ },
+ {
+  "original": "Ancient Steel Shield",
+  "string": "Древний стальной щит",
+  "form_id": "004047C1|Vampire Clans and Bloodlines.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "zzVCB_Skeleton_SteelShield_01"
+ },
+ {
+  "original": "Revenant's Vestments",
+  "string": "Облачение ревенанта",
+  "form_id": "002EE01E|Vampire Clans and Bloodlines.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "zzVCB_Revenant_Robe_02"
+ },
+ {
+  "original": "Black Boots",
+  "string": "Черные сапоги",
+  "form_id": "00098649|Vampire Clans and Bloodlines.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "zzVCB_Orlok_Boots_02"
+ },
+ {
+  "original": "Warlock's Robe",
+  "string": "Мантия чародея",
+  "form_id": "0009864C|Vampire Clans and Bloodlines.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "zzVCB_Orlok_Robe_01"
+ },
+ {
+  "original": "Clothes",
+  "string": "Одежда",
+  "form_id": "0012B430|Vampire Clans and Bloodlines.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "zzVCB_Orlok_Clothes_01"
+ },
+ {
+  "original": "Black Boots",
+  "string": "Черные сапоги",
+  "form_id": "001CD4BC|Vampire Clans and Bloodlines.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "zzVCB_Orlok_Boots_01"
+ },
+ {
+  "original": "Mage's Robe",
+  "string": "Мантия мага",
+  "form_id": "001D25C0|Vampire Clans and Bloodlines.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "zzVCB_Orlok_Robe_02"
+ },
+ {
+  "original": "Fine Clothes",
+  "string": "Богатая одежда",
+  "form_id": "002142E7|Vampire Clans and Bloodlines.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "zzVCB_Orlok_FineClothes_01"
+ },
+ {
+  "original": "Clothes",
+  "string": "Одежда",
+  "form_id": "002142E8|Vampire Clans and Bloodlines.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "zzVCB_Orlok_Clothes_02"
+ },
+ {
+  "original": "Boots",
+  "string": "Сапоги",
+  "form_id": "0021E4EB|Vampire Clans and Bloodlines.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "zzVCB_Orlok_Shoes_01"
+ },
+ {
+  "original": "Boots",
+  "string": "Сапоги",
+  "form_id": "002AC2CE|Vampire Clans and Bloodlines.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "zzVCB_Orlok_Shoes_02"
+ },
+ {
+  "original": "Fine Shoes",
+  "string": "Богатые сапоги",
+  "form_id": "002B64D3|Vampire Clans and Bloodlines.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "zzVCB_Orlok_FineShoes_01"
+ },
+ {
+  "original": "Ancient Steel Sword",
+  "string": "Древний стальной меч",
+  "form_id": "004047BF|Vampire Clans and Bloodlines.esp",
+  "type": "WEAP FULL",
+  "index": null,
+  "editor_id": "zzVCB_Skeleton_SteelSword_01"
+ },
+ {
+  "original": "Revenant's Dagger",
+  "string": "Кинжал ревенанта",
+  "form_id": "003C7B9C|Vampire Clans and Bloodlines.esp",
+  "type": "WEAP FULL",
+  "index": null,
+  "editor_id": "zzVCB_Revenant_Dagger_01"
+ },
+ {
+  "original": "Revenant's Dagger of Binding",
+  "string": "Кинжал пленения ревенанта",
+  "form_id": "003C7B9F|Vampire Clans and Bloodlines.esp",
+  "type": "WEAP FULL",
+  "index": null,
+  "editor_id": "zzVCB_Revenant_Dagger_01_SoulTrap_03"
+ },
+ {
+  "original": "Revenant's Dagger of Animus",
+  "string": "Кинжал одушевления ревенанта",
+  "form_id": "003C7BA0|Vampire Clans and Bloodlines.esp",
+  "type": "WEAP FULL",
+  "index": null,
+  "editor_id": "zzVCB_Revenant_Dagger_01_SoulTrap_04"
+ },
+ {
+  "original": "Revenant's Dagger of Malediction",
+  "string": "Кинжал порчи ревенанта",
+  "form_id": "003C7BA1|Vampire Clans and Bloodlines.esp",
+  "type": "WEAP FULL",
+  "index": null,
+  "editor_id": "zzVCB_Revenant_Dagger_01_SoulTrap_05"
+ },
+ {
+  "original": "Revenant's Dagger of Soul Snares",
+  "string": "Кинжал ловли душ ревенанта",
+  "form_id": "003CCCA5|Vampire Clans and Bloodlines.esp",
+  "type": "WEAP FULL",
+  "index": null,
+  "editor_id": "zzVCB_Revenant_Dagger_01_SoulTrap_02"
+ },
+ {
+  "original": "Revenant's Dagger of Souls",
+  "string": "Кинжал душ ревенанта",
+  "form_id": "003CCCA6|Vampire Clans and Bloodlines.esp",
+  "type": "WEAP FULL",
+  "index": null,
+  "editor_id": "zzVCB_Revenant_Dagger_01_SoulTrap_01"
+ },
+ {
+  "original": "Revenant's Dagger of Damnation",
+  "string": "Кинжал проклятия ревенанта",
+  "form_id": "003CCCA7|Vampire Clans and Bloodlines.esp",
+  "type": "WEAP FULL",
+  "index": null,
+  "editor_id": "zzVCB_Revenant_Dagger_01_SoulTrap_06"
+ },
+ {
+  "original": "Ancient Steel Battleaxe",
+  "string": "Древняя стальная секира",
+  "form_id": "004047BE|Vampire Clans and Bloodlines.esp",
+  "type": "WEAP FULL",
+  "index": null,
+  "editor_id": "zzVCB_Skeleton_SteelBattleaxe_01"
+ },
+ {
+  "original": "Orlok Shadow",
+  "string": "Тень Орлоков",
+  "form_id": "000F38D9|Vampire Clans and Bloodlines.esp",
+  "type": "NPC_ FULL",
+  "index": null,
+  "editor_id": "zzVCB_Enc_05_Orlok_Mage_M01"
+ },
+ {
+  "original": "Orlok Nightfang",
+  "string": "Ночной клык Орлоков",
+  "form_id": "000F38DA|Vampire Clans and Bloodlines.esp",
+  "type": "NPC_ FULL",
+  "index": null,
+  "editor_id": "zzVCB_Enc_06_Orlok_Mage_M01"
+ },
+ {
+  "original": "Orlok Ancient",
+  "string": "Древний из Орлоков",
+  "form_id": "000F38DB|Vampire Clans and Bloodlines.esp",
+  "type": "NPC_ FULL",
+  "index": null,
+  "editor_id": "zzVCB_Enc_08_Orlok_Mage_M01"
+ },
+ {
+  "original": "Orlok Elder",
+  "string": "Старейшина Орлоков",
+  "form_id": "000FDADE|Vampire Clans and Bloodlines.esp",
+  "type": "NPC_ FULL",
+  "index": null,
+  "editor_id": "zzVCB_Enc_07_Orlok_Mage_M01"
+ },
+ {
+  "original": "Orlok Maggot",
+  "string": "Личинка Орлоков",
+  "form_id": "000FDAEA|Vampire Clans and Bloodlines.esp",
+  "type": "NPC_ FULL",
+  "index": null,
+  "editor_id": "zzVCB_Enc_01_Orlok_Mage_M02"
+ },
+ {
+  "original": "Orlok Vermin",
+  "string": "Гнус Орлоков",
+  "form_id": "000FDAEC|Vampire Clans and Bloodlines.esp",
+  "type": "NPC_ FULL",
+  "index": null,
+  "editor_id": "zzVCB_Enc_02_Orlok_Mage_M02"
+ },
+ {
+  "original": "Orlok Parasite",
+  "string": "Паразит Орлоков",
+  "form_id": "000FDAED|Vampire Clans and Bloodlines.esp",
+  "type": "NPC_ FULL",
+  "index": null,
+  "editor_id": "zzVCB_Enc_03_Orlok_Mage_M02"
+ },
+ {
+  "original": "Orlok Lurker",
+  "string": "Луркер Орлоков",
+  "form_id": "000FDAEE|Vampire Clans and Bloodlines.esp",
+  "type": "NPC_ FULL",
+  "index": null,
+  "editor_id": "zzVCB_Enc_04_Orlok_Mage_M02"
+ },
+ {
+  "original": "Orlok Shadow",
+  "string": "Тень Орлоков",
+  "form_id": "000FDAEF|Vampire Clans and Bloodlines.esp",
+  "type": "NPC_ FULL",
+  "index": null,
+  "editor_id": "zzVCB_Enc_05_Orlok_Mage_M02"
+ },
+ {
+  "original": "Orlok Nightfang",
+  "string": "Ночной клык Орлоков",
+  "form_id": "000FDAF0|Vampire Clans and Bloodlines.esp",
+  "type": "NPC_ FULL",
+  "index": null,
+  "editor_id": "zzVCB_Enc_06_Orlok_Mage_M02"
+ },
+ {
+  "original": "Orlok Elder",
+  "string": "Старейшина Орлоков",
+  "form_id": "000FDAF1|Vampire Clans and Bloodlines.esp",
+  "type": "NPC_ FULL",
+  "index": null,
+  "editor_id": "zzVCB_Enc_07_Orlok_Mage_M02"
+ },
+ {
+  "original": "Orlok Ancient",
+  "string": "Древний из Орлоков",
+  "form_id": "000FDAF2|Vampire Clans and Bloodlines.esp",
+  "type": "NPC_ FULL",
+  "index": null,
+  "editor_id": "zzVCB_Enc_08_Orlok_Mage_M02"
+ },
+ {
+  "original": "Orlok Maggot",
+  "string": "Личинка Орлоков",
+  "form_id": "0011C120|Vampire Clans and Bloodlines.esp",
+  "type": "NPC_ FULL",
+  "index": null,
+  "editor_id": "zzVCB_Enc_01_Orlok_Warrior_M01"
+ },
+ {
+  "original": "Orlok Vermin",
+  "string": "Гнус Орлоков",
+  "form_id": "00144949|Vampire Clans and Bloodlines.esp",
+  "type": "NPC_ FULL",
+  "index": null,
+  "editor_id": "zzVCB_Enc_02_Orlok_Warrior_M01"
+ },
+ {
+  "original": "Orlok Parasite",
+  "string": "Паразит Орлоков",
+  "form_id": "0014494A|Vampire Clans and Bloodlines.esp",
+  "type": "NPC_ FULL",
+  "index": null,
+  "editor_id": "zzVCB_Enc_03_Orlok_Warrior_M01"
+ },
+ {
+  "original": "Orlok Lurker",
+  "string": "Луркер Орлоков",
+  "form_id": "0014494B|Vampire Clans and Bloodlines.esp",
+  "type": "NPC_ FULL",
+  "index": null,
+  "editor_id": "zzVCB_Enc_04_Orlok_Warrior_M01"
+ },
+ {
+  "original": "Orlok Shadow",
+  "string": "Тень Орлоков",
+  "form_id": "0014494C|Vampire Clans and Bloodlines.esp",
+  "type": "NPC_ FULL",
+  "index": null,
+  "editor_id": "zzVCB_Enc_05_Orlok_Warrior_M01"
+ },
+ {
+  "original": "Orlok Nightfang",
+  "string": "Ночной клык Орлоков",
+  "form_id": "0014494D|Vampire Clans and Bloodlines.esp",
+  "type": "NPC_ FULL",
+  "index": null,
+  "editor_id": "zzVCB_Enc_06_Orlok_Warrior_M01"
+ },
+ {
+  "original": "Orlok Elder",
+  "string": "Старейшина Орлоков",
+  "form_id": "0014494E|Vampire Clans and Bloodlines.esp",
+  "type": "NPC_ FULL",
+  "index": null,
+  "editor_id": "zzVCB_Enc_07_Orlok_Warrior_M01"
+ },
+ {
+  "original": "Orlok Ancient",
+  "string": "Древний из Орлоков",
+  "form_id": "0014494F|Vampire Clans and Bloodlines.esp",
+  "type": "NPC_ FULL",
+  "index": null,
+  "editor_id": "zzVCB_Enc_08_Orlok_Warrior_M01"
+ },
+ {
+  "original": "Orlok Maggot",
+  "string": "Личинка Орлоков",
+  "form_id": "00144950|Vampire Clans and Bloodlines.esp",
+  "type": "NPC_ FULL",
+  "index": null,
+  "editor_id": "zzVCB_Enc_01_Orlok_Mage_F01"
+ },
+ {
+  "original": "Orlok Maggot",
+  "string": "Личинка Орлоков",
+  "form_id": "00144951|Vampire Clans and Bloodlines.esp",
+  "type": "NPC_ FULL",
+  "index": null,
+  "editor_id": "zzVCB_Enc_01_Orlok_Mage_F02"
+ },
+ {
+  "original": "Orlok Maggot",
+  "string": "Личинка Орлоков",
+  "form_id": "00144952|Vampire Clans and Bloodlines.esp",
+  "type": "NPC_ FULL",
+  "index": null,
+  "editor_id": "zzVCB_Enc_01_Orlok_Warrior_F01"
+ },
+ {
+  "original": "Orlok Vermin",
+  "string": "Гнус Орлоков",
+  "form_id": "00144953|Vampire Clans and Bloodlines.esp",
+  "type": "NPC_ FULL",
+  "index": null,
+  "editor_id": "zzVCB_Enc_02_Orlok_Mage_F01"
+ },
+ {
+  "original": "Orlok Vermin",
+  "string": "Гнус Орлоков",
+  "form_id": "00144954|Vampire Clans and Bloodlines.esp",
+  "type": "NPC_ FULL",
+  "index": null,
+  "editor_id": "zzVCB_Enc_02_Orlok_Mage_F02"
+ },
+ {
+  "original": "Orlok Vermin",
+  "string": "Гнус Орлоков",
+  "form_id": "00144955|Vampire Clans and Bloodlines.esp",
+  "type": "NPC_ FULL",
+  "index": null,
+  "editor_id": "zzVCB_Enc_02_Orlok_Warrior_F01"
+ },
+ {
+  "original": "Orlok Parasite",
+  "string": "Паразит Орлоков",
+  "form_id": "00144956|Vampire Clans and Bloodlines.esp",
+  "type": "NPC_ FULL",
+  "index": null,
+  "editor_id": "zzVCB_Enc_03_Orlok_Mage_F01"
+ },
+ {
+  "original": "Orlok Parasite",
+  "string": "Паразит Орлоков",
+  "form_id": "00144957|Vampire Clans and Bloodlines.esp",
+  "type": "NPC_ FULL",
+  "index": null,
+  "editor_id": "zzVCB_Enc_03_Orlok_Mage_F02"
+ },
+ {
+  "original": "Orlok Parasite",
+  "string": "Паразит Орлоков",
+  "form_id": "00144958|Vampire Clans and Bloodlines.esp",
+  "type": "NPC_ FULL",
+  "index": null,
+  "editor_id": "zzVCB_Enc_03_Orlok_Warrior_F01"
+ },
+ {
+  "original": "Orlok Lurker",
+  "string": "Луркер Орлоков",
+  "form_id": "00144959|Vampire Clans and Bloodlines.esp",
+  "type": "NPC_ FULL",
+  "index": null,
+  "editor_id": "zzVCB_Enc_04_Orlok_Mage_F01"
+ },
+ {
+  "original": "Orlok Lurker",
+  "string": "Луркер Орлоков",
+  "form_id": "0014495A|Vampire Clans and Bloodlines.esp",
+  "type": "NPC_ FULL",
+  "index": null,
+  "editor_id": "zzVCB_Enc_04_Orlok_Mage_F02"
+ },
+ {
+  "original": "Orlok Lurker",
+  "string": "Луркер Орлоков",
+  "form_id": "0014495B|Vampire Clans and Bloodlines.esp",
+  "type": "NPC_ FULL",
+  "index": null,
+  "editor_id": "zzVCB_Enc_04_Orlok_Warrior_F01"
+ },
+ {
+  "original": "Orlok Shadow",
+  "string": "Тень Орлоков",
+  "form_id": "0014495C|Vampire Clans and Bloodlines.esp",
+  "type": "NPC_ FULL",
+  "index": null,
+  "editor_id": "zzVCB_Enc_05_Orlok_Mage_F01"
+ },
+ {
+  "original": "Orlok Shadow",
+  "string": "Тень Орлоков",
+  "form_id": "0014495D|Vampire Clans and Bloodlines.esp",
+  "type": "NPC_ FULL",
+  "index": null,
+  "editor_id": "zzVCB_Enc_05_Orlok_Mage_F02"
+ },
+ {
+  "original": "Orlok Shadow",
+  "string": "Тень Орлоков",
+  "form_id": "0014495E|Vampire Clans and Bloodlines.esp",
+  "type": "NPC_ FULL",
+  "index": null,
+  "editor_id": "zzVCB_Enc_05_Orlok_Warrior_F01"
+ },
+ {
+  "original": "Orlok Nightfang",
+  "string": "Ночной клык Орлоков",
+  "form_id": "0014495F|Vampire Clans and Bloodlines.esp",
+  "type": "NPC_ FULL",
+  "index": null,
+  "editor_id": "zzVCB_Enc_06_Orlok_Mage_F01"
+ },
+ {
+  "original": "Orlok Nightfang",
+  "string": "Ночной клык Орлоков",
+  "form_id": "00144960|Vampire Clans and Bloodlines.esp",
+  "type": "NPC_ FULL",
+  "index": null,
+  "editor_id": "zzVCB_Enc_06_Orlok_Mage_F02"
+ },
+ {
+  "original": "Orlok Nightfang",
+  "string": "Ночной клык Орлоков",
+  "form_id": "00144961|Vampire Clans and Bloodlines.esp",
+  "type": "NPC_ FULL",
+  "index": null,
+  "editor_id": "zzVCB_Enc_06_Orlok_Warrior_F01"
+ },
+ {
+  "original": "Orlok Elder",
+  "string": "Старейшина Орлоков",
+  "form_id": "00144962|Vampire Clans and Bloodlines.esp",
+  "type": "NPC_ FULL",
+  "index": null,
+  "editor_id": "zzVCB_Enc_07_Orlok_Mage_F01"
+ },
+ {
+  "original": "Orlok Elder",
+  "string": "Старейшина Орлоков",
+  "form_id": "00144963|Vampire Clans and Bloodlines.esp",
+  "type": "NPC_ FULL",
+  "index": null,
+  "editor_id": "zzVCB_Enc_07_Orlok_Mage_F02"
+ },
+ {
+  "original": "Orlok Elder",
+  "string": "Старейшина Орлоков",
+  "form_id": "00144964|Vampire Clans and Bloodlines.esp",
+  "type": "NPC_ FULL",
+  "index": null,
+  "editor_id": "zzVCB_Enc_07_Orlok_Warrior_F01"
+ },
+ {
+  "original": "Orlok Ancient",
+  "string": "Древний из Орлоков",
+  "form_id": "00144965|Vampire Clans and Bloodlines.esp",
+  "type": "NPC_ FULL",
+  "index": null,
+  "editor_id": "zzVCB_Enc_08_Orlok_Mage_F01"
+ },
+ {
+  "original": "Orlok Ancient",
+  "string": "Древний из Орлоков",
+  "form_id": "00144966|Vampire Clans and Bloodlines.esp",
+  "type": "NPC_ FULL",
+  "index": null,
+  "editor_id": "zzVCB_Enc_08_Orlok_Mage_F02"
+ },
+ {
+  "original": "Orlok Ancient",
+  "string": "Древний из Орлоков",
+  "form_id": "00144967|Vampire Clans and Bloodlines.esp",
+  "type": "NPC_ FULL",
+  "index": null,
+  "editor_id": "zzVCB_Enc_08_Orlok_Warrior_F01"
+ },
+ {
+  "original": "Orlok Broodmaster",
+  "string": "Повелитель выводка Орлоков",
+  "form_id": "00204FD1|Vampire Clans and Bloodlines.esp",
+  "type": "NPC_ FULL",
+  "index": null,
+  "editor_id": "zzVCB_Enc_02_Orlok_Boss_M01"
+ },
+ {
+  "original": "Orlok Broodmistress",
+  "string": "Повелительница выводка Орлоков",
+  "form_id": "0020A0D9|Vampire Clans and Bloodlines.esp",
+  "type": "NPC_ FULL",
+  "index": null,
+  "editor_id": "zzVCB_Enc_02_Orlok_Boss_F01"
+ },
+ {
+  "original": "Vargr Whelp",
+  "string": "Щенок Варгов",
+  "form_id": "002286EF|Vampire Clans and Bloodlines.esp",
+  "type": "NPC_ FULL",
+  "index": null,
+  "editor_id": "zzVCB_Enc_01_Vargr_Warrior_M01"
+ },
+ {
+  "original": "Vargr Whelp",
+  "string": "Щенок Варгов",
+  "form_id": "002286F0|Vampire Clans and Bloodlines.esp",
+  "type": "NPC_ FULL",
+  "index": null,
+  "editor_id": "zzVCB_Enc_01_Vargr_Warrior_M02"
+ },
+ {
+  "original": "Vargr Whelp",
+  "string": "Щенок Варгов",
+  "form_id": "002286F1|Vampire Clans and Bloodlines.esp",
+  "type": "NPC_ FULL",
+  "index": null,
+  "editor_id": "zzVCB_Enc_01_Vargr_Warrior_F01"
+ },
+ {
+  "original": "Vargr Whelp",
+  "string": "Щенок Варгов",
+  "form_id": "002286F2|Vampire Clans and Bloodlines.esp",
+  "type": "NPC_ FULL",
+  "index": null,
+  "editor_id": "zzVCB_Enc_01_Vargr_Warrior_F02"
+ },
+ {
+  "original": "Vargr Cur",
+  "string": "Шавка Варгов",
+  "form_id": "002286F5|Vampire Clans and Bloodlines.esp",
+  "type": "NPC_ FULL",
+  "index": null,
+  "editor_id": "zzVCB_Enc_02_Vargr_Warrior_F01"
+ },
+ {
+  "original": "Vargr Prowler",
+  "string": "Чистильщик Варгов",
+  "form_id": "002286F6|Vampire Clans and Bloodlines.esp",
+  "type": "NPC_ FULL",
+  "index": null,
+  "editor_id": "zzVCB_Enc_03_Vargr_Warrior_F01"
+ },
+ {
+  "original": "Vargr Bloodhound",
+  "string": "Ищейка Варгов",
+  "form_id": "002286F7|Vampire Clans and Bloodlines.esp",
+  "type": "NPC_ FULL",
+  "index": null,
+  "editor_id": "zzVCB_Enc_04_Vargr_Warrior_F01"
+ },
+ {
+  "original": "Vargr Predator",
+  "string": "Хищник Варгов",
+  "form_id": "002286F8|Vampire Clans and Bloodlines.esp",
+  "type": "NPC_ FULL",
+  "index": null,
+  "editor_id": "zzVCB_Enc_05_Vargr_Warrior_F01"
+ },
+ {
+  "original": "Vargr Scourge",
+  "string": "Бич Варгов",
+  "form_id": "002286F9|Vampire Clans and Bloodlines.esp",
+  "type": "NPC_ FULL",
+  "index": null,
+  "editor_id": "zzVCB_Enc_06_Vargr_Warrior_F01"
+ },
+ {
+  "original": "Vargr Eviscerator",
+  "string": "Потрошитель Варгов",
+  "form_id": "002286FA|Vampire Clans and Bloodlines.esp",
+  "type": "NPC_ FULL",
+  "index": null,
+  "editor_id": "zzVCB_Enc_07_Vargr_Warrior_F01"
+ },
+ {
+  "original": "Vargr Fiend",
+  "string": "Изверг Варгов",
+  "form_id": "002286FB|Vampire Clans and Bloodlines.esp",
+  "type": "NPC_ FULL",
+  "index": null,
+  "editor_id": "zzVCB_Enc_08_Vargr_Warrior_F01"
+ },
+ {
+  "original": "Vargr Cur",
+  "string": "Шавка Варгов",
+  "form_id": "002286FE|Vampire Clans and Bloodlines.esp",
+  "type": "NPC_ FULL",
+  "index": null,
+  "editor_id": "zzVCB_Enc_02_Vargr_Warrior_F02"
+ },
+ {
+  "original": "Vargr Prowler",
+  "string": "Чистильщик Варгов",
+  "form_id": "002286FF|Vampire Clans and Bloodlines.esp",
+  "type": "NPC_ FULL",
+  "index": null,
+  "editor_id": "zzVCB_Enc_03_Vargr_Warrior_F02"
+ },
+ {
+  "original": "Vargr Bloodhound",
+  "string": "Ищейка Варгов",
+  "form_id": "00228700|Vampire Clans and Bloodlines.esp",
+  "type": "NPC_ FULL",
+  "index": null,
+  "editor_id": "zzVCB_Enc_04_Vargr_Warrior_F02"
+ },
+ {
+  "original": "Vargr Predator",
+  "string": "Хищник Варгов",
+  "form_id": "00228701|Vampire Clans and Bloodlines.esp",
+  "type": "NPC_ FULL",
+  "index": null,
+  "editor_id": "zzVCB_Enc_05_Vargr_Warrior_F02"
+ },
+ {
+  "original": "Vargr Scourge",
+  "string": "Бич Варгов",
+  "form_id": "00228702|Vampire Clans and Bloodlines.esp",
+  "type": "NPC_ FULL",
+  "index": null,
+  "editor_id": "zzVCB_Enc_06_Vargr_Warrior_F02"
+ },
+ {
+  "original": "Vargr Eviscerator",
+  "string": "Потрошитель Варгов",
+  "form_id": "00228703|Vampire Clans and Bloodlines.esp",
+  "type": "NPC_ FULL",
+  "index": null,
+  "editor_id": "zzVCB_Enc_07_Vargr_Warrior_F02"
+ },
+ {
+  "original": "Vargr Fiend",
+  "string": "Изверг Варгов",
+  "form_id": "00228704|Vampire Clans and Bloodlines.esp",
+  "type": "NPC_ FULL",
+  "index": null,
+  "editor_id": "zzVCB_Enc_08_Vargr_Warrior_F02"
+ },
+ {
+  "original": "Vargr Cur",
+  "string": "Шавка Варгов",
+  "form_id": "00228706|Vampire Clans and Bloodlines.esp",
+  "type": "NPC_ FULL",
+  "index": null,
+  "editor_id": "zzVCB_Enc_02_Vargr_Warrior_M01"
+ },
+ {
+  "original": "Vargr Prowler",
+  "string": "Чистильщик Варгов",
+  "form_id": "00228707|Vampire Clans and Bloodlines.esp",
+  "type": "NPC_ FULL",
+  "index": null,
+  "editor_id": "zzVCB_Enc_03_Vargr_Warrior_M01"
+ },
+ {
+  "original": "Vargr Bloodhound",
+  "string": "Ищейка Варгов",
+  "form_id": "00228708|Vampire Clans and Bloodlines.esp",
+  "type": "NPC_ FULL",
+  "index": null,
+  "editor_id": "zzVCB_Enc_04_Vargr_Warrior_M01"
+ },
+ {
+  "original": "Vargr Predator",
+  "string": "Хищник Варгов",
+  "form_id": "00228709|Vampire Clans and Bloodlines.esp",
+  "type": "NPC_ FULL",
+  "index": null,
+  "editor_id": "zzVCB_Enc_05_Vargr_Warrior_M01"
+ },
+ {
+  "original": "Vargr Scourge",
+  "string": "Бич Варгов",
+  "form_id": "0022870A|Vampire Clans and Bloodlines.esp",
+  "type": "NPC_ FULL",
+  "index": null,
+  "editor_id": "zzVCB_Enc_06_Vargr_Warrior_M01"
+ },
+ {
+  "original": "Vargr Eviscerator",
+  "string": "Потрошитель Варгов",
+  "form_id": "0022870B|Vampire Clans and Bloodlines.esp",
+  "type": "NPC_ FULL",
+  "index": null,
+  "editor_id": "zzVCB_Enc_07_Vargr_Warrior_M01"
+ },
+ {
+  "original": "Vargr Fiend",
+  "string": "Изверг Варгов",
+  "form_id": "0022870C|Vampire Clans and Bloodlines.esp",
+  "type": "NPC_ FULL",
+  "index": null,
+  "editor_id": "zzVCB_Enc_08_Vargr_Warrior_M01"
+ },
+ {
+  "original": "Vargr Cur",
+  "string": "Шавка Варгов",
+  "form_id": "0022870E|Vampire Clans and Bloodlines.esp",
+  "type": "NPC_ FULL",
+  "index": null,
+  "editor_id": "zzVCB_Enc_02_Vargr_Warrior_M02"
+ },
+ {
+  "original": "Vargr Prowler",
+  "string": "Чистильщик Варгов",
+  "form_id": "0022870F|Vampire Clans and Bloodlines.esp",
+  "type": "NPC_ FULL",
+  "index": null,
+  "editor_id": "zzVCB_Enc_03_Vargr_Warrior_M02"
+ },
+ {
+  "original": "Vargr Bloodhound",
+  "string": "Ищейка Варгов",
+  "form_id": "00228710|Vampire Clans and Bloodlines.esp",
+  "type": "NPC_ FULL",
+  "index": null,
+  "editor_id": "zzVCB_Enc_04_Vargr_Warrior_M02"
+ },
+ {
+  "original": "Vargr Predator",
+  "string": "Хищник Варгов",
+  "form_id": "00228711|Vampire Clans and Bloodlines.esp",
+  "type": "NPC_ FULL",
+  "index": null,
+  "editor_id": "zzVCB_Enc_05_Vargr_Warrior_M02"
+ },
+ {
+  "original": "Vargr Scourge",
+  "string": "Бич Варгов",
+  "form_id": "00228712|Vampire Clans and Bloodlines.esp",
+  "type": "NPC_ FULL",
+  "index": null,
+  "editor_id": "zzVCB_Enc_06_Vargr_Warrior_M02"
+ },
+ {
+  "original": "Vargr Eviscerator",
+  "string": "Потрошитель Варгов",
+  "form_id": "00228713|Vampire Clans and Bloodlines.esp",
+  "type": "NPC_ FULL",
+  "index": null,
+  "editor_id": "zzVCB_Enc_07_Vargr_Warrior_M02"
+ },
+ {
+  "original": "Vargr Fiend",
+  "string": "Изверг Варгов",
+  "form_id": "00228714|Vampire Clans and Bloodlines.esp",
+  "type": "NPC_ FULL",
+  "index": null,
+  "editor_id": "zzVCB_Enc_08_Vargr_Warrior_M02"
+ },
+ {
+  "original": "Revenant Initiate",
+  "string": "Неофит Ревенантов",
+  "form_id": "00228722|Vampire Clans and Bloodlines.esp",
+  "type": "NPC_ FULL",
+  "index": null,
+  "editor_id": "zzVCB_Enc_01_Revenant_Necromancer_F01"
+ },
+ {
+  "original": "Revenant Initiate",
+  "string": "Неофит Ревенантов",
+  "form_id": "00228723|Vampire Clans and Bloodlines.esp",
+  "type": "NPC_ FULL",
+  "index": null,
+  "editor_id": "zzVCB_Enc_01_Revenant_Necromancer_F02"
+ },
+ {
+  "original": "Revenant Initiate",
+  "string": "Неофит Ревенантов",
+  "form_id": "00228724|Vampire Clans and Bloodlines.esp",
+  "type": "NPC_ FULL",
+  "index": null,
+  "editor_id": "zzVCB_Enc_01_Revenant_Necromancer_M01"
+ },
+ {
+  "original": "Revenant Acolyte",
+  "string": "Аколит Ревенантов",
+  "form_id": "00228726|Vampire Clans and Bloodlines.esp",
+  "type": "NPC_ FULL",
+  "index": null,
+  "editor_id": "zzVCB_Enc_02_Revenant_Necromancer_F01"
+ },
+ {
+  "original": "Revenant Acolyte",
+  "string": "Аколит Ревенантов",
+  "form_id": "00228727|Vampire Clans and Bloodlines.esp",
+  "type": "NPC_ FULL",
+  "index": null,
+  "editor_id": "zzVCB_Enc_02_Revenant_Necromancer_F02"
+ },
+ {
+  "original": "Revenant Acolyte",
+  "string": "Аколит Ревенантов",
+  "form_id": "00228728|Vampire Clans and Bloodlines.esp",
+  "type": "NPC_ FULL",
+  "index": null,
+  "editor_id": "zzVCB_Enc_02_Revenant_Necromancer_M01"
+ },
+ {
+  "original": "Revenant Matriarch",
+  "string": "Матриарх Ревенантов",
+  "form_id": "0022872A|Vampire Clans and Bloodlines.esp",
+  "type": "NPC_ FULL",
+  "index": null,
+  "editor_id": "zzVCB_Enc_02_Revenant_Boss_F01"
+ },
+ {
+  "original": "Revenant Patriarch",
+  "string": "Патриарх Ревенантов",
+  "form_id": "0022872B|Vampire Clans and Bloodlines.esp",
+  "type": "NPC_ FULL",
+  "index": null,
+  "editor_id": "zzVCB_Enc_02_Revenant_Boss_M01"
+ },
+ {
+  "original": "Revenant Disciple",
+  "string": "Ученик Ревенантов",
+  "form_id": "0022872C|Vampire Clans and Bloodlines.esp",
+  "type": "NPC_ FULL",
+  "index": null,
+  "editor_id": "zzVCB_Enc_03_Revenant_Necromancer_F01"
+ },
+ {
+  "original": "Revenant Disciple",
+  "string": "Ученик Ревенантов",
+  "form_id": "0022872D|Vampire Clans and Bloodlines.esp",
+  "type": "NPC_ FULL",
+  "index": null,
+  "editor_id": "zzVCB_Enc_03_Revenant_Necromancer_F02"
+ },
+ {
+  "original": "Revenant Disciple",
+  "string": "Ученик Ревенантов",
+  "form_id": "0022872E|Vampire Clans and Bloodlines.esp",
+  "type": "NPC_ FULL",
+  "index": null,
+  "editor_id": "zzVCB_Enc_03_Revenant_Necromancer_M01"
+ },
+ {
+  "original": "Revenant Seer",
+  "string": "Провидец Ревенантов",
+  "form_id": "00228732|Vampire Clans and Bloodlines.esp",
+  "type": "NPC_ FULL",
+  "index": null,
+  "editor_id": "zzVCB_Enc_04_Revenant_Necromancer_F01"
+ },
+ {
+  "original": "Revenant Seer",
+  "string": "Провидец Ревенантов",
+  "form_id": "00228733|Vampire Clans and Bloodlines.esp",
+  "type": "NPC_ FULL",
+  "index": null,
+  "editor_id": "zzVCB_Enc_04_Revenant_Necromancer_F02"
+ },
+ {
+  "original": "Revenant Seer",
+  "string": "Провидец Ревенантов",
+  "form_id": "00228734|Vampire Clans and Bloodlines.esp",
+  "type": "NPC_ FULL",
+  "index": null,
+  "editor_id": "zzVCB_Enc_04_Revenant_Necromancer_M01"
+ },
+ {
+  "original": "Revenant Augur",
+  "string": "Прорицатель Ревенантов",
+  "form_id": "00228738|Vampire Clans and Bloodlines.esp",
+  "type": "NPC_ FULL",
+  "index": null,
+  "editor_id": "zzVCB_Enc_05_Revenant_Necromancer_F01"
+ },
+ {
+  "original": "Revenant Augur",
+  "string": "Прорицатель Ревенантов",
+  "form_id": "00228739|Vampire Clans and Bloodlines.esp",
+  "type": "NPC_ FULL",
+  "index": null,
+  "editor_id": "zzVCB_Enc_05_Revenant_Necromancer_F02"
+ },
+ {
+  "original": "Revenant Augur",
+  "string": "Прорицатель Ревенантов",
+  "form_id": "0022873A|Vampire Clans and Bloodlines.esp",
+  "type": "NPC_ FULL",
+  "index": null,
+  "editor_id": "zzVCB_Enc_05_Revenant_Necromancer_M01"
+ },
+ {
+  "original": "Revenant Diviner",
+  "string": "Предсказатель Ревенантов",
+  "form_id": "0022873E|Vampire Clans and Bloodlines.esp",
+  "type": "NPC_ FULL",
+  "index": null,
+  "editor_id": "zzVCB_Enc_06_Revenant_Necromancer_F01"
+ },
+ {
+  "original": "Revenant Diviner",
+  "string": "Предсказатель Ревенантов",
+  "form_id": "0022873F|Vampire Clans and Bloodlines.esp",
+  "type": "NPC_ FULL",
+  "index": null,
+  "editor_id": "zzVCB_Enc_06_Revenant_Necromancer_F02"
+ },
+ {
+  "original": "Revenant Diviner",
+  "string": "Предсказатель Ревенантов",
+  "form_id": "00228740|Vampire Clans and Bloodlines.esp",
+  "type": "NPC_ FULL",
+  "index": null,
+  "editor_id": "zzVCB_Enc_06_Revenant_Necromancer_M01"
+ },
+ {
+  "original": "Revenant Magister",
+  "string": "Магистр Ревенантов",
+  "form_id": "00228744|Vampire Clans and Bloodlines.esp",
+  "type": "NPC_ FULL",
+  "index": null,
+  "editor_id": "zzVCB_Enc_07_Revenant_Necromancer_F01"
+ },
+ {
+  "original": "Revenant Magister",
+  "string": "Магистр Ревенантов",
+  "form_id": "00228745|Vampire Clans and Bloodlines.esp",
+  "type": "NPC_ FULL",
+  "index": null,
+  "editor_id": "zzVCB_Enc_07_Revenant_Necromancer_F02"
+ },
+ {
+  "original": "Revenant Magister",
+  "string": "Магистр Ревенантов",
+  "form_id": "00228746|Vampire Clans and Bloodlines.esp",
+  "type": "NPC_ FULL",
+  "index": null,
+  "editor_id": "zzVCB_Enc_07_Revenant_Necromancer_M01"
+ },
+ {
+  "original": "Revenant Archon",
+  "string": "Архонт Ревенантов",
+  "form_id": "0022874A|Vampire Clans and Bloodlines.esp",
+  "type": "NPC_ FULL",
+  "index": null,
+  "editor_id": "zzVCB_Enc_08_Revenant_Necromancer_F01"
+ },
+ {
+  "original": "Revenant Archon",
+  "string": "Архонт Ревенантов",
+  "form_id": "0022874B|Vampire Clans and Bloodlines.esp",
+  "type": "NPC_ FULL",
+  "index": null,
+  "editor_id": "zzVCB_Enc_08_Revenant_Necromancer_F02"
+ },
+ {
+  "original": "Revenant Archon",
+  "string": "Архонт Ревенантов",
+  "form_id": "0022874C|Vampire Clans and Bloodlines.esp",
+  "type": "NPC_ FULL",
+  "index": null,
+  "editor_id": "zzVCB_Enc_08_Revenant_Necromancer_M01"
+ },
+ {
+  "original": "Vargr Eviscerator",
+  "string": "Потрошитель Варгов",
+  "form_id": "00256133|Vampire Clans and Bloodlines.esp",
+  "type": "NPC_ FULL",
+  "index": null,
+  "editor_id": "zzVCB_Enc_07_Vargr_Skirmisher_F01"
+ },
+ {
+  "original": "Vargr Scourge",
+  "string": "Бич Варгов",
+  "form_id": "00256134|Vampire Clans and Bloodlines.esp",
+  "type": "NPC_ FULL",
+  "index": null,
+  "editor_id": "zzVCB_Enc_06_Vargr_Skirmisher_F01"
+ },
+ {
+  "original": "Vargr Predator",
+  "string": "Хищник Варгов",
+  "form_id": "00256135|Vampire Clans and Bloodlines.esp",
+  "type": "NPC_ FULL",
+  "index": null,
+  "editor_id": "zzVCB_Enc_05_Vargr_Skirmisher_F01"
+ },
+ {
+  "original": "Vargr Bloodhound",
+  "string": "Ищейка Варгов",
+  "form_id": "00256136|Vampire Clans and Bloodlines.esp",
+  "type": "NPC_ FULL",
+  "index": null,
+  "editor_id": "zzVCB_Enc_04_Vargr_Skirmisher_F01"
+ },
+ {
+  "original": "Vargr Prowler",
+  "string": "Чистильщик Варгов",
+  "form_id": "00256137|Vampire Clans and Bloodlines.esp",
+  "type": "NPC_ FULL",
+  "index": null,
+  "editor_id": "zzVCB_Enc_03_Vargr_Skirmisher_F01"
+ },
+ {
+  "original": "Vargr Cur",
+  "string": "Шавка Варгов",
+  "form_id": "00256138|Vampire Clans and Bloodlines.esp",
+  "type": "NPC_ FULL",
+  "index": null,
+  "editor_id": "zzVCB_Enc_02_Vargr_Skirmisher_F01"
+ },
+ {
+  "original": "Vargr Cur",
+  "string": "Шавка Варгов",
+  "form_id": "0025613D|Vampire Clans and Bloodlines.esp",
+  "type": "NPC_ FULL",
+  "index": null,
+  "editor_id": "zzVCB_Enc_02_Vargr_Skirmisher_M01"
+ },
+ {
+  "original": "Vargr Prowler",
+  "string": "Чистильщик Варгов",
+  "form_id": "0025613E|Vampire Clans and Bloodlines.esp",
+  "type": "NPC_ FULL",
+  "index": null,
+  "editor_id": "zzVCB_Enc_03_Vargr_Skirmisher_M01"
+ },
+ {
+  "original": "Vargr Bloodhound",
+  "string": "Ищейка Варгов",
+  "form_id": "0025613F|Vampire Clans and Bloodlines.esp",
+  "type": "NPC_ FULL",
+  "index": null,
+  "editor_id": "zzVCB_Enc_04_Vargr_Skirmisher_M01"
+ },
+ {
+  "original": "Vargr Predator",
+  "string": "Хищник Варгов",
+  "form_id": "00256140|Vampire Clans and Bloodlines.esp",
+  "type": "NPC_ FULL",
+  "index": null,
+  "editor_id": "zzVCB_Enc_05_Vargr_Skirmisher_M01"
+ },
+ {
+  "original": "Vargr Scourge",
+  "string": "Бич Варгов",
+  "form_id": "00256141|Vampire Clans and Bloodlines.esp",
+  "type": "NPC_ FULL",
+  "index": null,
+  "editor_id": "zzVCB_Enc_06_Vargr_Skirmisher_M01"
+ },
+ {
+  "original": "Vargr Eviscerator",
+  "string": "Потрошитель Варгов",
+  "form_id": "00256142|Vampire Clans and Bloodlines.esp",
+  "type": "NPC_ FULL",
+  "index": null,
+  "editor_id": "zzVCB_Enc_07_Vargr_Skirmisher_M01"
+ },
+ {
+  "original": "Vargr Cur",
+  "string": "Шавка Варгов",
+  "form_id": "00256143|Vampire Clans and Bloodlines.esp",
+  "type": "NPC_ FULL",
+  "index": null,
+  "editor_id": "zzVCB_Enc_02_Vargr_Skirmisher_M02"
+ },
+ {
+  "original": "Vargr Prowler",
+  "string": "Чистильщик Варгов",
+  "form_id": "00256144|Vampire Clans and Bloodlines.esp",
+  "type": "NPC_ FULL",
+  "index": null,
+  "editor_id": "zzVCB_Enc_03_Vargr_Skirmisher_M02"
+ },
+ {
+  "original": "Vargr Bloodhound",
+  "string": "Ищейка Варгов",
+  "form_id": "00256145|Vampire Clans and Bloodlines.esp",
+  "type": "NPC_ FULL",
+  "index": null,
+  "editor_id": "zzVCB_Enc_04_Vargr_Skirmisher_M02"
+ },
+ {
+  "original": "Vargr Predator",
+  "string": "Хищник Варгов",
+  "form_id": "00256146|Vampire Clans and Bloodlines.esp",
+  "type": "NPC_ FULL",
+  "index": null,
+  "editor_id": "zzVCB_Enc_05_Vargr_Skirmisher_M02"
+ },
+ {
+  "original": "Vargr Scourge",
+  "string": "Бич Варгов",
+  "form_id": "00256147|Vampire Clans and Bloodlines.esp",
+  "type": "NPC_ FULL",
+  "index": null,
+  "editor_id": "zzVCB_Enc_06_Vargr_Skirmisher_M02"
+ },
+ {
+  "original": "Vargr Eviscerator",
+  "string": "Потрошитель Варгов",
+  "form_id": "00256148|Vampire Clans and Bloodlines.esp",
+  "type": "NPC_ FULL",
+  "index": null,
+  "editor_id": "zzVCB_Enc_07_Vargr_Skirmisher_M02"
+ },
+ {
+  "original": "Vampire's Thrall",
+  "string": "Трэлл вампиров",
+  "form_id": "00260352|Vampire Clans and Bloodlines.esp",
+  "type": "NPC_ FULL",
+  "index": null,
+  "editor_id": "zzVCB_Lvl_Thrall_Seducer_M01"
+ },
+ {
+  "original": "Vampire's Thrall",
+  "string": "Трэлл вампиров",
+  "form_id": "0026035A|Vampire Clans and Bloodlines.esp",
+  "type": "NPC_ FULL",
+  "index": null,
+  "editor_id": "zzVCB_Lvl_Thrall_Seducer_F01"
+ },
+ {
+  "original": "Vampire's Thrall",
+  "string": "Трэлл вампиров",
+  "form_id": "00260362|Vampire Clans and Bloodlines.esp",
+  "type": "NPC_ FULL",
+  "index": null,
+  "editor_id": "zzVCB_Lvl_Thrall_Seducer_M02"
+ },
+ {
+  "original": "Vampire's Thrall",
+  "string": "Трэлл вампиров",
+  "form_id": "0026036A|Vampire Clans and Bloodlines.esp",
+  "type": "NPC_ FULL",
+  "index": null,
+  "editor_id": "zzVCB_Lvl_Thrall_Seducer_F02"
+ },
+ {
+  "original": "Vampire's Thrall",
+  "string": "Трэлл вампиров",
+  "form_id": "00260372|Vampire Clans and Bloodlines.esp",
+  "type": "NPC_ FULL",
+  "index": null,
+  "editor_id": "zzVCB_Lvl_Thrall_Seducer_M03"
+ },
+ {
+  "original": "Vampire's Thrall",
+  "string": "Трэлл вампиров",
+  "form_id": "00274788|Vampire Clans and Bloodlines.esp",
+  "type": "NPC_ FULL",
+  "index": null,
+  "editor_id": "zzVCB_Lvl_Thrall_Seducer_F03"
+ },
+ {
+  "original": "Vampire's Thrall",
+  "string": "Трэлл вампиров",
+  "form_id": "00274790|Vampire Clans and Bloodlines.esp",
+  "type": "NPC_ FULL",
+  "index": null,
+  "editor_id": "zzVCB_Lvl_Thrall_Seducer_F04"
+ },
+ {
+  "original": "Vampire's Thrall",
+  "string": "Трэлл вампиров",
+  "form_id": "00274798|Vampire Clans and Bloodlines.esp",
+  "type": "NPC_ FULL",
+  "index": null,
+  "editor_id": "zzVCB_Lvl_Thrall_Seducer_F05"
+ },
+ {
+  "original": "Vampire's Thrall",
+  "string": "Трэлл вампиров",
+  "form_id": "002747A0|Vampire Clans and Bloodlines.esp",
+  "type": "NPC_ FULL",
+  "index": null,
+  "editor_id": "zzVCB_Lvl_Thrall_Seducer_M04"
+ },
+ {
+  "original": "Vampire's Thrall",
+  "string": "Трэлл вампиров",
+  "form_id": "002747A8|Vampire Clans and Bloodlines.esp",
+  "type": "NPC_ FULL",
+  "index": null,
+  "editor_id": "zzVCB_Lvl_Thrall_Seducer_M05"
+ },
+ {
+  "original": "Vampire's Thrall",
+  "string": "Трэлл вампиров",
+  "form_id": "002798B1|Vampire Clans and Bloodlines.esp",
+  "type": "NPC_ FULL",
+  "index": null,
+  "editor_id": "zzVCB_Lvl_Thrall_Knight_M01"
+ },
+ {
+  "original": "Vampire's Thrall",
+  "string": "Трэлл вампиров",
+  "form_id": "002798B9|Vampire Clans and Bloodlines.esp",
+  "type": "NPC_ FULL",
+  "index": null,
+  "editor_id": "zzVCB_Lvl_Thrall_Knight_F01"
+ },
+ {
+  "original": "Vampire's Thrall",
+  "string": "Трэлл вампиров",
+  "form_id": "00288BC4|Vampire Clans and Bloodlines.esp",
+  "type": "NPC_ FULL",
+  "index": null,
+  "editor_id": "zzVCB_Lvl_Thrall_Seducer_M06"
+ },
+ {
+  "original": "Vargr Direwolf",
+  "string": "Лютоволк Варгов",
+  "form_id": "0028DCC6|Vampire Clans and Bloodlines.esp",
+  "type": "NPC_ FULL",
+  "index": null,
+  "editor_id": "zzVCB_Enc_02_Vargr_Direwolf01"
+ },
+ {
+  "original": "Vampire's Thrall",
+  "string": "Трэлл вампиров",
+  "form_id": "002CF9EA|Vampire Clans and Bloodlines.esp",
+  "type": "NPC_ FULL",
+  "index": null,
+  "editor_id": "zzVCB_Lvl_Orlok_Thrall_M01"
+ },
+ {
+  "original": "Vampire's Thrall",
+  "string": "Трэлл вампиров",
+  "form_id": "002CF9F2|Vampire Clans and Bloodlines.esp",
+  "type": "NPC_ FULL",
+  "index": null,
+  "editor_id": "zzVCB_Lvl_Orlok_Thrall_F01"
+ },
+ {
+  "original": "Vampire's Thrall",
+  "string": "Трэлл вампиров",
+  "form_id": "002CF9FA|Vampire Clans and Bloodlines.esp",
+  "type": "NPC_ FULL",
+  "index": null,
+  "editor_id": "zzVCB_Lvl_Orlok_Thrall_M02"
+ },
+ {
+  "original": "Vampire's Thrall",
+  "string": "Трэлл вампиров",
+  "form_id": "002CFA02|Vampire Clans and Bloodlines.esp",
+  "type": "NPC_ FULL",
+  "index": null,
+  "editor_id": "zzVCB_Lvl_Orlok_Thrall_F02"
+ },
+ {
+  "original": "Lost Soul",
+  "string": "Потерянная душа",
+  "form_id": "00349245|Vampire Clans and Bloodlines.esp",
+  "type": "NPC_ FULL",
+  "index": null,
+  "editor_id": "zzVCB_Enc_LostSoul_01S"
+ },
+ {
+  "original": "Romanov Nosferatu Mage 1",
+  "string": "Маг-носферату Романовых 1",
+  "form_id": "004F274B|Vampire Clans and Bloodlines.esp",
+  "type": "NPC_ FULL",
+  "index": null,
+  "editor_id": "zzVCB_TestNPC_01"
+ },
+ {
+  "original": "Vargr Pack Leader",
+  "string": "Вожак стаи Варгов",
+  "form_id": "0053445B|Vampire Clans and Bloodlines.esp",
+  "type": "NPC_ FULL",
+  "index": null,
+  "editor_id": "zzVCB_Enc_02_Vargr_Boss_F01"
+ },
+ {
+  "original": "Vargr Pack Leader",
+  "string": "Вожак стаи Варгов",
+  "form_id": "0053445C|Vampire Clans and Bloodlines.esp",
+  "type": "NPC_ FULL",
+  "index": null,
+  "editor_id": "zzVCB_Enc_02_Vargr_Boss_M01"
+ },
+ {
+  "original": "Vargr Fiend",
+  "string": "Изверг Варгов",
+  "form_id": "00557B6F|Vampire Clans and Bloodlines.esp",
+  "type": "NPC_ FULL",
+  "index": null,
+  "editor_id": "zzVCB_Enc_08_Vargr_Skirmisher_F01"
+ },
+ {
+  "original": "Vargr Whelp",
+  "string": "Щенок Варгов",
+  "form_id": "00557B70|Vampire Clans and Bloodlines.esp",
+  "type": "NPC_ FULL",
+  "index": null,
+  "editor_id": "zzVCB_Enc_01_Vargr_Skirmisher_F01"
+ },
+ {
+  "original": "Vargr Whelp",
+  "string": "Щенок Варгов",
+  "form_id": "00557B71|Vampire Clans and Bloodlines.esp",
+  "type": "NPC_ FULL",
+  "index": null,
+  "editor_id": "zzVCB_Enc_01_Vargr_Skirmisher_M01"
+ },
+ {
+  "original": "Vargr Fiend",
+  "string": "Изверг Варгов",
+  "form_id": "00557B72|Vampire Clans and Bloodlines.esp",
+  "type": "NPC_ FULL",
+  "index": null,
+  "editor_id": "zzVCB_Enc_08_Vargr_Skirmisher_M01"
+ },
+ {
+  "original": "Vargr Whelp",
+  "string": "Щенок Варгов",
+  "form_id": "00557B73|Vampire Clans and Bloodlines.esp",
+  "type": "NPC_ FULL",
+  "index": null,
+  "editor_id": "zzVCB_Enc_01_Vargr_Skirmisher_M02"
+ },
+ {
+  "original": "Vargr Fiend",
+  "string": "Изверг Варгов",
+  "form_id": "00557B74|Vampire Clans and Bloodlines.esp",
+  "type": "NPC_ FULL",
+  "index": null,
+  "editor_id": "zzVCB_Enc_08_Vargr_Skirmisher_M02"
+ },
+ {
+  "original": "Skeleton Fighter",
+  "string": "Скелет-боец",
+  "form_id": "0066E2D9|Vampire Clans and Bloodlines.esp",
+  "type": "NPC_ FULL",
+  "index": null,
+  "editor_id": "zzVCB_Enc_01_Skeleton_Warrior_2H"
+ },
+ {
+  "original": "Skeleton Warrior",
+  "string": "Скелет-воин",
+  "form_id": "0066E2DA|Vampire Clans and Bloodlines.esp",
+  "type": "NPC_ FULL",
+  "index": null,
+  "editor_id": "zzVCB_Enc_02_Skeleton_Warrior_2H"
+ },
+ {
+  "original": "Skeleton Raider",
+  "string": "Скелет-налетчик",
+  "form_id": "0066E2DB|Vampire Clans and Bloodlines.esp",
+  "type": "NPC_ FULL",
+  "index": null,
+  "editor_id": "zzVCB_Enc_03_Skeleton_Warrior_2H"
+ },
+ {
+  "original": "Skeleton Reaver",
+  "string": "Скелет-разбойник",
+  "form_id": "0066E2DC|Vampire Clans and Bloodlines.esp",
+  "type": "NPC_ FULL",
+  "index": null,
+  "editor_id": "zzVCB_Enc_04_Skeleton_Warrior_2H"
+ },
+ {
+  "original": "Skeleton Marauder",
+  "string": "Скелет-мародер",
+  "form_id": "0066E2DD|Vampire Clans and Bloodlines.esp",
+  "type": "NPC_ FULL",
+  "index": null,
+  "editor_id": "zzVCB_Enc_05_Skeleton_Warrior_2H"
+ },
+ {
+  "original": "Skeleton Champion",
+  "string": "Скелет",
+  "form_id": "0066E2DE|Vampire Clans and Bloodlines.esp",
+  "type": "NPC_ FULL",
+  "index": null,
+  "editor_id": "zzVCB_Enc_06_Skeleton_Warrior_2H"
+ },
+ {
+  "original": "Skeleton Champion",
+  "string": "Скелет",
+  "form_id": "0066E2DF|Vampire Clans and Bloodlines.esp",
+  "type": "NPC_ FULL",
+  "index": null,
+  "editor_id": "zzVCB_Enc_07_Skeleton_Warrior_2H"
+ },
+ {
+  "original": "Skeleton Fighter",
+  "string": "Скелет-боец",
+  "form_id": "006733F3|Vampire Clans and Bloodlines.esp",
+  "type": "NPC_ FULL",
+  "index": null,
+  "editor_id": "zzVCB_Enc_01_Skeleton_Warrior_1HShield"
+ },
+ {
+  "original": "Skeleton Warrior",
+  "string": "Скелет-воин",
+  "form_id": "006733F4|Vampire Clans and Bloodlines.esp",
+  "type": "NPC_ FULL",
+  "index": null,
+  "editor_id": "zzVCB_Enc_02_Skeleton_Warrior_1HShield"
+ },
+ {
+  "original": "Skeleton Raider",
+  "string": "Скелет-налетчик",
+  "form_id": "006733F5|Vampire Clans and Bloodlines.esp",
+  "type": "NPC_ FULL",
+  "index": null,
+  "editor_id": "zzVCB_Enc_03_Skeleton_Warrior_1HShield"
+ },
+ {
+  "original": "Skeleton Reaver",
+  "string": "Скелет-разбойник",
+  "form_id": "006733F6|Vampire Clans and Bloodlines.esp",
+  "type": "NPC_ FULL",
+  "index": null,
+  "editor_id": "zzVCB_Enc_04_Skeleton_Warrior_1HShield"
+ },
+ {
+  "original": "Skeleton Marauder",
+  "string": "Скелет-мародер",
+  "form_id": "006733F7|Vampire Clans and Bloodlines.esp",
+  "type": "NPC_ FULL",
+  "index": null,
+  "editor_id": "zzVCB_Enc_05_Skeleton_Warrior_1HShield"
+ },
+ {
+  "original": "Skeleton Champion",
+  "string": "Скелет",
+  "form_id": "006733F8|Vampire Clans and Bloodlines.esp",
+  "type": "NPC_ FULL",
+  "index": null,
+  "editor_id": "zzVCB_Enc_06_Skeleton_Warrior_1HShield"
+ },
+ {
+  "original": "Skeleton Champion",
+  "string": "Скелет",
+  "form_id": "006733F9|Vampire Clans and Bloodlines.esp",
+  "type": "NPC_ FULL",
+  "index": null,
+  "editor_id": "zzVCB_Enc_07_Skeleton_Warrior_1HShield"
+ },
+ {
+  "original": "Romanov Nosferatu Mage 2",
+  "string": "Маг-носферату Романовых 2",
+  "form_id": "0078EC96|Vampire Clans and Bloodlines.esp",
+  "type": "NPC_ FULL",
+  "index": null,
+  "editor_id": "zzVCB_TestNPC_02"
+ },
+ {
+  "original": "Romanov Nosferatu Warrior",
+  "string": "Воин-носферату Романовых",
+  "form_id": "0078EC97|Vampire Clans and Bloodlines.esp",
+  "type": "NPC_ FULL",
+  "index": null,
+  "editor_id": "zzVCB_TestNPC_03"
+ },
+ {
+  "original": "Romanov Nosferatu Broodmaster",
+  "string": "Носферату Романовых, повелитель выводка",
+  "form_id": "007BC5A5|Vampire Clans and Bloodlines.esp",
+  "type": "NPC_ FULL",
+  "index": null,
+  "editor_id": "zzVCB_TestNPC_04"
+ },
+ {
+  "original": "Orlok Maggot",
+  "string": "Личинка Орлоков",
+  "form_id": "00005902|Vampire Clans and Bloodlines.esp",
+  "type": "NPC_ FULL",
+  "index": null,
+  "editor_id": "zzVCB_Enc_01_Orlok_Mage_M01"
+ },
+ {
+  "original": "Orlok Vermin",
+  "string": "Гнус Орлоков",
+  "form_id": "000F38D0|Vampire Clans and Bloodlines.esp",
+  "type": "NPC_ FULL",
+  "index": null,
+  "editor_id": "zzVCB_Enc_02_Orlok_Mage_M01"
+ },
+ {
+  "original": "Orlok Parasite",
+  "string": "Паразит Орлоков",
+  "form_id": "000F38D7|Vampire Clans and Bloodlines.esp",
+  "type": "NPC_ FULL",
+  "index": null,
+  "editor_id": "zzVCB_Enc_03_Orlok_Mage_M01"
+ },
+ {
+  "original": "Orlok Lurker",
+  "string": "Луркер Орлоков",
+  "form_id": "000F38D8|Vampire Clans and Bloodlines.esp",
+  "type": "NPC_ FULL",
+  "index": null,
+  "editor_id": "zzVCB_Enc_04_Orlok_Mage_M01"
+ },
+ {
+  "original": "Bonus 1H Weapon Damage",
+  "string": "Бонус к урону одноручным оружием",
+  "form_id": "0071034E|Vampire Clans and Bloodlines.esp",
+  "type": "PERK FULL",
+  "index": null,
+  "editor_id": "zzVCB_Bonus_1HWeaponDamage_Perk_Boss"
+ },
+ {
+  "original": "Bonus 2H Weapon Damage",
+  "string": "Бонус к урону двуручным оружием",
+  "form_id": "0071034F|Vampire Clans and Bloodlines.esp",
+  "type": "PERK FULL",
+  "index": null,
+  "editor_id": "zzVCB_Bonus_2HWeaponDamage_Perk_Boss"
+ },
+ {
+  "original": "Bonus Heavy Armor Protection",
+  "string": "Бонус к защите тяжелой брони",
+  "form_id": "00710350|Vampire Clans and Bloodlines.esp",
+  "type": "PERK FULL",
+  "index": null,
+  "editor_id": "zzVCB_Bonus_HeavyArmorProtection_Perk_Boss"
+ },
+ {
+  "original": "Bonus Light Armor Protection",
+  "string": "Бонус к защите легкой брони",
+  "form_id": "00710351|Vampire Clans and Bloodlines.esp",
+  "type": "PERK FULL",
+  "index": null,
+  "editor_id": "zzVCB_Bonus_LightArmorProtection_Perk_Boss"
+ },
+ {
+  "original": "Bonus Ranged Weapon Damage",
+  "string": "Бонус к урону дальнобойным оружием",
+  "form_id": "00710352|Vampire Clans and Bloodlines.esp",
+  "type": "PERK FULL",
+  "index": null,
+  "editor_id": "zzVCB_Bonus_RangedWeaponDamage_Perk_Boss"
+ },
+ {
+  "original": "Bonus Shield Protection",
+  "string": "Бонус к защите щитом",
+  "form_id": "00710353|Vampire Clans and Bloodlines.esp",
+  "type": "PERK FULL",
+  "index": null,
+  "editor_id": "zzVCB_Bonus_ShieldProtection_Perk_Boss"
+ },
+ {
+  "original": "Orlok Mage II",
+  "string": "Маг Орлоков II",
+  "form_id": "0075717E|Vampire Clans and Bloodlines.esp",
+  "type": "PERK FULL",
+  "index": null,
+  "editor_id": "zzVCB_VampireClan_Orlok_Mage02Perk"
+ },
+ {
+  "original": "Orlok Mage III",
+  "string": "Маг Орлоков III",
+  "form_id": "0075717F|Vampire Clans and Bloodlines.esp",
+  "type": "PERK FULL",
+  "index": null,
+  "editor_id": "zzVCB_VampireClan_Orlok_Mage03Perk"
+ },
+ {
+  "original": "Orlok Boss I",
+  "string": "Главарь Орлоков I",
+  "form_id": "0076B585|Vampire Clans and Bloodlines.esp",
+  "type": "PERK FULL",
+  "index": null,
+  "editor_id": "zzVCB_VampireClan_Orlok_Boss01Perk"
+ },
+ {
+  "original": "Orlok Boss II",
+  "string": "Главарь Орлоков II",
+  "form_id": "0076B586|Vampire Clans and Bloodlines.esp",
+  "type": "PERK FULL",
+  "index": null,
+  "editor_id": "zzVCB_VampireClan_Orlok_Boss02Perk"
+ },
+ {
+  "original": "Orlok Boss III",
+  "string": "Главарь Орлоков III",
+  "form_id": "0076B587|Vampire Clans and Bloodlines.esp",
+  "type": "PERK FULL",
+  "index": null,
+  "editor_id": "zzVCB_VampireClan_Orlok_Boss03Perk"
+ },
+ {
+  "original": "Orlok Warrior I",
+  "string": "Воин Орлоков I",
+  "form_id": "0077578A|Vampire Clans and Bloodlines.esp",
+  "type": "PERK FULL",
+  "index": null,
+  "editor_id": "zzVCB_VampireClan_Orlok_Warrior01Perk"
+ },
+ {
+  "original": "Orlok Warrior II",
+  "string": "Воин Орлоков II",
+  "form_id": "0077578B|Vampire Clans and Bloodlines.esp",
+  "type": "PERK FULL",
+  "index": null,
+  "editor_id": "zzVCB_VampireClan_Orlok_Warrior02Perk"
+ },
+ {
+  "original": "Orlok Warrior III",
+  "string": "Воин Орлоков III",
+  "form_id": "0077578C|Vampire Clans and Bloodlines.esp",
+  "type": "PERK FULL",
+  "index": null,
+  "editor_id": "zzVCB_VampireClan_Orlok_Warrior03Perk"
+ },
+ {
+  "original": "Test Perk",
+  "string": "Тестовый перк",
+  "form_id": "0078EC98|Vampire Clans and Bloodlines.esp",
+  "type": "PERK FULL",
+  "index": null,
+  "editor_id": "zzVCB_Test_Perk"
+ },
+ {
+  "original": "Orlok Mage I",
+  "string": "Маг Орлоков I",
+  "form_id": "000DF478|Vampire Clans and Bloodlines.esp",
+  "type": "PERK FULL",
+  "index": null,
+  "editor_id": "zzVCB_VampireClan_Orlok_Mage01Perk"
+ },
+ {
+  "original": "Bonus Light Armor Protection",
+  "string": "Бонус к защите легкой брони",
+  "form_id": "00107CF6|Vampire Clans and Bloodlines.esp",
+  "type": "PERK FULL",
+  "index": null,
+  "editor_id": "zzVCB_Bonus_LightArmorProtection_Perk"
+ },
+ {
+  "original": "Bonus Ranged Weapon Damage",
+  "string": "Бонус к урону дальнобойным оружием",
+  "form_id": "00107CFC|Vampire Clans and Bloodlines.esp",
+  "type": "PERK FULL",
+  "index": null,
+  "editor_id": "zzVCB_Bonus_RangedWeaponDamage_Perk"
+ },
+ {
+  "original": "Bonus Heavy Armor Protection",
+  "string": "Бонус к защите тяжелой брони",
+  "form_id": "00107CFB|Vampire Clans and Bloodlines.esp",
+  "type": "PERK FULL",
+  "index": null,
+  "editor_id": "zzVCB_Bonus_HeavyArmorProtection_Perk"
+ },
+ {
+  "original": "Bonus Shield Protection",
+  "string": "Бонус к защите щитом",
+  "form_id": "00107CFD|Vampire Clans and Bloodlines.esp",
+  "type": "PERK FULL",
+  "index": null,
+  "editor_id": "zzVCB_Bonus_ShieldProtection_Perk"
+ },
+ {
+  "original": "Bonus 1H Weapon Damage",
+  "string": "Бонус к урону одноручным оружием",
+  "form_id": "00107CF7|Vampire Clans and Bloodlines.esp",
+  "type": "PERK FULL",
+  "index": null,
+  "editor_id": "zzVCB_Bonus_1HWeaponDamage_Perk"
+ },
+ {
+  "original": "Bonus 2H Weapon Damage",
+  "string": "Бонус к урону двуручным оружием",
+  "form_id": "00107CF8|Vampire Clans and Bloodlines.esp",
+  "type": "PERK FULL",
+  "index": null,
+  "editor_id": "zzVCB_Bonus_2HWeaponDamage_Perk"
+ },
+ {
+  "original": "Revenant Bloodline",
+  "string": "Кровь Ревенантов",
+  "form_id": "003B8897|Vampire Clans and Bloodlines.esp",
+  "type": "PERK FULL",
+  "index": null,
+  "editor_id": "zzVCB_VampireClan_Revenants_Perk"
+ },
+ {
+  "original": "Bonus Magic Skills I",
+  "string": "Бонус к магическим навыкам I",
+  "form_id": "0045A8F2|Vampire Clans and Bloodlines.esp",
+  "type": "PERK FULL",
+  "index": null,
+  "editor_id": "zzVCB_Bonus_MagicSkills01_Perk"
+ },
+ {
+  "original": "Bonus Magic Skills II",
+  "string": "Бонус к магическим навыкам II",
+  "form_id": "0045A8F3|Vampire Clans and Bloodlines.esp",
+  "type": "PERK FULL",
+  "index": null,
+  "editor_id": "zzVCB_Bonus_MagicSkills02_Perk"
+ },
+ {
+  "original": "Bonus Magic Skills III",
+  "string": "Бонус к магическим навыкам III",
+  "form_id": "0045A8F4|Vampire Clans and Bloodlines.esp",
+  "type": "PERK FULL",
+  "index": null,
+  "editor_id": "zzVCB_Bonus_MagicSkills03_Perk"
+ },
+ {
+  "original": "Warrior I",
+  "string": "Воин I",
+  "form_id": "0045A8F5|Vampire Clans and Bloodlines.esp",
+  "type": "PERK FULL",
+  "index": null,
+  "editor_id": "zzRnR_VCB_Class_Warrior01_Perk"
+ },
+ {
+  "original": "Warrior II",
+  "string": "Воин II",
+  "form_id": "0045A8F6|Vampire Clans and Bloodlines.esp",
+  "type": "PERK FULL",
+  "index": null,
+  "editor_id": "zzRnR_VCB_Class_Warrior02_Perk"
+ },
+ {
+  "original": "Warrior III",
+  "string": "Воин III",
+  "form_id": "0045A8F7|Vampire Clans and Bloodlines.esp",
+  "type": "PERK FULL",
+  "index": null,
+  "editor_id": "zzRnR_VCB_Class_Warrior03_Perk"
+ },
+ {
+  "original": "Lightly Armored",
+  "string": "В легкой броне",
+  "form_id": "00469BFB|Vampire Clans and Bloodlines.esp",
+  "type": "PERK FULL",
+  "index": null,
+  "editor_id": "zzVCB_Trait_LightlyArmored_Perk"
+ },
+ {
+  "original": "Heavily Armored",
+  "string": "В тяжелой броне",
+  "form_id": "00469BFC|Vampire Clans and Bloodlines.esp",
+  "type": "PERK FULL",
+  "index": null,
+  "editor_id": "zzVCB_Trait_HeavilyArmored_Perk"
+ },
+ {
+  "original": "Crushing Blows",
+  "string": "Дробящие удары",
+  "form_id": "00469BFD|Vampire Clans and Bloodlines.esp",
+  "type": "PERK FULL",
+  "index": null,
+  "editor_id": "zzVCB_Skill_CrushingBlows_Perk"
+ },
+ {
+  "original": "Creature Damage Scaling 1H",
+  "string": "Масштабирование урона существ (одноручное)",
+  "form_id": "00469BFE|Vampire Clans and Bloodlines.esp",
+  "type": "PERK FULL",
+  "index": null,
+  "editor_id": "zzVCB_Creature_DamageScaling1H_Perk"
+ },
+ {
+  "original": "Creature Damage Scaling 2H",
+  "string": "Масштабирование урона существ (двуручное)",
+  "form_id": "00469BFF|Vampire Clans and Bloodlines.esp",
+  "type": "PERK FULL",
+  "index": null,
+  "editor_id": "zzVCB_Creature_DamageScaling2H_Perk"
+ },
+ {
+  "original": "Creature Heavy Armor Scaling",
+  "string": "Масштабирование тяжелой брони существ",
+  "form_id": "00469C00|Vampire Clans and Bloodlines.esp",
+  "type": "PERK FULL",
+  "index": null,
+  "editor_id": "zzVCB_Creature_HeavyArmorScaling_Perk"
+ },
+ {
+  "original": "Creature Light Armor Scaling",
+  "string": "Масштабирование легкой брони существ",
+  "form_id": "00469C01|Vampire Clans and Bloodlines.esp",
+  "type": "PERK FULL",
+  "index": null,
+  "editor_id": "zzVCB_Creature_LightArmorScaling_Perk"
+ },
+ {
+  "original": "Vargr Bloodline",
+  "string": "Кровь Варгов",
+  "form_id": "0055CC7B|Vampire Clans and Bloodlines.esp",
+  "type": "PERK FULL",
+  "index": null,
+  "editor_id": "zzVCB_VampireClan_Vargr_Perk"
+ },
+ {
+  "original": "Archer I",
+  "string": "Лучник I",
+  "form_id": "005EF9A5|Vampire Clans and Bloodlines.esp",
+  "type": "PERK FULL",
+  "index": null,
+  "editor_id": "zzRnR_VCB_Class_Archer01_Perk"
+ },
+ {
+  "original": "Archer II",
+  "string": "Лучник II",
+  "form_id": "005EF9A6|Vampire Clans and Bloodlines.esp",
+  "type": "PERK FULL",
+  "index": null,
+  "editor_id": "zzRnR_VCB_Class_Archer02_Perk"
+ },
+ {
+  "original": "Archer III",
+  "string": "Лучник III",
+  "form_id": "005EF9A7|Vampire Clans and Bloodlines.esp",
+  "type": "PERK FULL",
+  "index": null,
+  "editor_id": "zzRnR_VCB_Class_Archer03_Perk"
+ },
+ {
+  "original": "Bonus Magic Skills I",
+  "string": "Бонус к магическим навыкам I",
+  "form_id": "0071034B|Vampire Clans and Bloodlines.esp",
+  "type": "PERK FULL",
+  "index": null,
+  "editor_id": "zzVCB_Bonus_MagicSkills01_Perk_Boss"
+ },
+ {
+  "original": "Bonus Magic Skills II",
+  "string": "Бонус к магическим навыкам II",
+  "form_id": "0071034C|Vampire Clans and Bloodlines.esp",
+  "type": "PERK FULL",
+  "index": null,
+  "editor_id": "zzVCB_Bonus_MagicSkills02_Perk_Boss"
+ },
+ {
+  "original": "Bonus Magic Skills III",
+  "string": "Бонус к магическим навыкам III",
+  "form_id": "0071034D|Vampire Clans and Bloodlines.esp",
+  "type": "PERK FULL",
+  "index": null,
+  "editor_id": "zzVCB_Bonus_MagicSkills03_Perk_Boss"
+ },
+ {
+  "original": "Exsanguinate",
+  "string": "Обескровить",
+  "form_id": "004AB925|Vampire Clans and Bloodlines.esp",
+  "type": "SHOU FULL",
+  "index": null,
+  "editor_id": "zzVCB_ExsanguinateShout_08"
+ },
+ {
+  "original": "Drain your victims of mortal energies.",
+  "string": "Высасывает из жертв жизненную силу смертных.",
+  "form_id": "004AB925|Vampire Clans and Bloodlines.esp",
+  "type": "SHOU DESC",
+  "index": null,
+  "editor_id": "zzVCB_ExsanguinateShout_08"
+ },
+ {
+  "original": "Summon Lost Souls",
+  "string": "Призыв заблудших душ",
+  "form_id": "004D9241|Vampire Clans and Bloodlines.esp",
+  "type": "SHOU FULL",
+  "index": null,
+  "editor_id": "zzVCB_SummonLostSoulsShout_01"
+ },
+ {
+  "original": "Summons Lost Souls to fight for the caster.",
+  "string": "Призывает заблудшие души, которые сражаются на стороне заклинателя.",
+  "form_id": "004D9241|Vampire Clans and Bloodlines.esp",
+  "type": "SHOU DESC",
+  "index": null,
+  "editor_id": "zzVCB_SummonLostSoulsShout_01"
+ },
+ {
+  "original": "Summon Lost Souls",
+  "string": "Призыв заблудших душ",
+  "form_id": "004D9243|Vampire Clans and Bloodlines.esp",
+  "type": "SHOU FULL",
+  "index": null,
+  "editor_id": "zzVCB_SummonLostSoulsShout_03"
+ },
+ {
+  "original": "Summons Lost Souls to fight for the caster.",
+  "string": "Призывает заблудшие души, которые сражаются на стороне заклинателя.",
+  "form_id": "004D9243|Vampire Clans and Bloodlines.esp",
+  "type": "SHOU DESC",
+  "index": null,
+  "editor_id": "zzVCB_SummonLostSoulsShout_03"
+ },
+ {
+  "original": "Summon Lost Souls",
+  "string": "Призыв заблудших душ",
+  "form_id": "004D9242|Vampire Clans and Bloodlines.esp",
+  "type": "SHOU FULL",
+  "index": null,
+  "editor_id": "zzVCB_SummonLostSoulsShout_02"
+ },
+ {
+  "original": "Summons Lost Souls to fight for the caster.",
+  "string": "Призывает заблудшие души, которые сражаются на стороне заклинателя.",
+  "form_id": "004D9242|Vampire Clans and Bloodlines.esp",
+  "type": "SHOU DESC",
+  "index": null,
+  "editor_id": "zzVCB_SummonLostSoulsShout_02"
+ },
+ {
+  "original": "Summon Lost Souls",
+  "string": "Призыв заблудших душ",
+  "form_id": "004D9245|Vampire Clans and Bloodlines.esp",
+  "type": "SHOU FULL",
+  "index": null,
+  "editor_id": "zzVCB_SummonLostSoulsShout_05"
+ },
+ {
+  "original": "Summons Lost Souls to fight for the caster.",
+  "string": "Призывает заблудшие души, которые сражаются на стороне заклинателя.",
+  "form_id": "004D9245|Vampire Clans and Bloodlines.esp",
+  "type": "SHOU DESC",
+  "index": null,
+  "editor_id": "zzVCB_SummonLostSoulsShout_05"
+ },
+ {
+  "original": "Summon Lost Souls",
+  "string": "Призыв заблудших душ",
+  "form_id": "004D9244|Vampire Clans and Bloodlines.esp",
+  "type": "SHOU FULL",
+  "index": null,
+  "editor_id": "zzVCB_SummonLostSoulsShout_04"
+ },
+ {
+  "original": "Summons Lost Souls to fight for the caster.",
+  "string": "Призывает заблудшие души, которые сражаются на стороне заклинателя.",
+  "form_id": "004D9244|Vampire Clans and Bloodlines.esp",
+  "type": "SHOU DESC",
+  "index": null,
+  "editor_id": "zzVCB_SummonLostSoulsShout_04"
+ },
+ {
+  "original": "Exsanguinate",
+  "string": "Обескровить",
+  "form_id": "00144947|Vampire Clans and Bloodlines.esp",
+  "type": "SHOU FULL",
+  "index": null,
+  "editor_id": "zzVCB_ExsanguinateShout_02"
+ },
+ {
+  "original": "Drain your victims of mortal energies.",
+  "string": "Высасывает из жертв жизненную силу смертных.",
+  "form_id": "00144947|Vampire Clans and Bloodlines.esp",
+  "type": "SHOU DESC",
+  "index": null,
+  "editor_id": "zzVCB_ExsanguinateShout_02"
+ },
+ {
+  "original": "Exsanguinate",
+  "string": "Обескровить",
+  "form_id": "0013053D|Vampire Clans and Bloodlines.esp",
+  "type": "SHOU FULL",
+  "index": null,
+  "editor_id": "zzVCB_ExsanguinateShout_01"
+ },
+ {
+  "original": "Drain your victims of mortal energies.",
+  "string": "Высасывает из жертв жизненную силу смертных.",
+  "form_id": "0013053D|Vampire Clans and Bloodlines.esp",
+  "type": "SHOU DESC",
+  "index": null,
+  "editor_id": "zzVCB_ExsanguinateShout_01"
+ },
+ {
+  "original": "Exsanguinate",
+  "string": "Обескровить",
+  "form_id": "00144948|Vampire Clans and Bloodlines.esp",
+  "type": "SHOU FULL",
+  "index": null,
+  "editor_id": "zzVCB_ExsanguinateShout_03"
+ },
+ {
+  "original": "Drain your victims of mortal energies.",
+  "string": "Высасывает из жертв жизненную силу смертных.",
+  "form_id": "00144948|Vampire Clans and Bloodlines.esp",
+  "type": "SHOU DESC",
+  "index": null,
+  "editor_id": "zzVCB_ExsanguinateShout_03"
+ },
+ {
+  "original": "Exsanguinate",
+  "string": "Обескровить",
+  "form_id": "004AB921|Vampire Clans and Bloodlines.esp",
+  "type": "SHOU FULL",
+  "index": null,
+  "editor_id": "zzVCB_ExsanguinateShout_04"
+ },
+ {
+  "original": "Drain your victims of mortal energies.",
+  "string": "Высасывает из жертв жизненную силу смертных.",
+  "form_id": "004AB921|Vampire Clans and Bloodlines.esp",
+  "type": "SHOU DESC",
+  "index": null,
+  "editor_id": "zzVCB_ExsanguinateShout_04"
+ },
+ {
+  "original": "Exsanguinate",
+  "string": "Обескровить",
+  "form_id": "004AB922|Vampire Clans and Bloodlines.esp",
+  "type": "SHOU FULL",
+  "index": null,
+  "editor_id": "zzVCB_ExsanguinateShout_05"
+ },
+ {
+  "original": "Drain your victims of mortal energies.",
+  "string": "Высасывает из жертв жизненную силу смертных.",
+  "form_id": "004AB922|Vampire Clans and Bloodlines.esp",
+  "type": "SHOU DESC",
+  "index": null,
+  "editor_id": "zzVCB_ExsanguinateShout_05"
+ },
+ {
+  "original": "Exsanguinate",
+  "string": "Обескровить",
+  "form_id": "004AB923|Vampire Clans and Bloodlines.esp",
+  "type": "SHOU FULL",
+  "index": null,
+  "editor_id": "zzVCB_ExsanguinateShout_06"
+ },
+ {
+  "original": "Drain your victims of mortal energies.",
+  "string": "Высасывает из жертв жизненную силу смертных.",
+  "form_id": "004AB923|Vampire Clans and Bloodlines.esp",
+  "type": "SHOU DESC",
+  "index": null,
+  "editor_id": "zzVCB_ExsanguinateShout_06"
+ },
+ {
+  "original": "Exsanguinate",
+  "string": "Обескровить",
+  "form_id": "004AB924|Vampire Clans and Bloodlines.esp",
+  "type": "SHOU FULL",
+  "index": null,
+  "editor_id": "zzVCB_ExsanguinateShout_07"
+ },
+ {
+  "original": "Drain your victims of mortal energies.",
+  "string": "Высасывает из жертв жизненную силу смертных.",
+  "form_id": "004AB924|Vampire Clans and Bloodlines.esp",
+  "type": "SHOU DESC",
+  "index": null,
+  "editor_id": "zzVCB_ExsanguinateShout_07"
+ }
+]

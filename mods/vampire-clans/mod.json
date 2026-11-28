@@ -1,0 +1,11 @@
+{
+  "slug": "vampire-clans",
+  "name": "Vampire Clans and Bloodlines",
+  "reuse_installed": true,
+  "plugins": [
+    "Vampire Clans and Bloodlines.esp"
+  ],
+  "sources": {
+    "Vampire Clans and Bloodlines.esp": "Vampire Clans and Bloodlines"
+  }
+}
