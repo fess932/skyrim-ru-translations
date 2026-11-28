@@ -1,0 +1,5602 @@
+[
+ {
+  "original": "Button",
+  "string": "Кнопка",
+  "form_id": "00000B63|JK's Elgrims Elixirs.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "XJKEElixImpButton01"
+ },
+ {
+  "original": "Dragon Skull",
+  "string": "Череп дракона",
+  "form_id": "007D95FF|LvxMagick - Skyrim - Settlement Builder.esm",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "Placeable_Dragon_Skull06_ApocStone_Act"
+ },
+ {
+  "original": "Golden Dragon Skull",
+  "string": "Золотой череп дракона",
+  "form_id": "008581AA|LvxMagick - Skyrim - Settlement Builder.esm",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "Placeable_Dragon_Skull07_Gold_Act"
+ },
+ {
+  "original": "Quicksilver Ore Vein",
+  "string": "Ртутная жила",
+  "form_id": "0010DB6A|Skyrim.esm",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "MineOreQuicksilver01_CaveGWall"
+ },
+ {
+  "original": "Mine",
+  "string": "Добывать:",
+  "form_id": "0010DB6A|Skyrim.esm",
+  "type": "ACTI RNAM",
+  "index": null,
+  "editor_id": "MineOreQuicksilver01_CaveGWall"
+ },
+ {
+  "original": "Quicksilver Ore Vein",
+  "string": "Ртутная жила",
+  "form_id": "0010DC76|Skyrim.esm",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "MineOreQuicksilver01_CaveIWall"
+ },
+ {
+  "original": "Mine",
+  "string": "Добывать:",
+  "form_id": "0010DC76|Skyrim.esm",
+  "type": "ACTI RNAM",
+  "index": null,
+  "editor_id": "MineOreQuicksilver01_CaveIWall"
+ },
+ {
+  "original": "Quicksilver Ore Vein",
+  "string": "Ртутная жила",
+  "form_id": "0010DC85|Skyrim.esm",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "MineOreQuicksilver01_CaveIDirt"
+ },
+ {
+  "original": "Mine",
+  "string": "Добывать:",
+  "form_id": "0010DC85|Skyrim.esm",
+  "type": "ACTI RNAM",
+  "index": null,
+  "editor_id": "MineOreQuicksilver01_CaveIDirt"
+ },
+ {
+  "original": "Soul Cairn - Block",
+  "string": "Каирн Душ - блок",
+  "form_id": "0076EED5|LvxMagick - Skyrim - Settlement Builder.esm",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "Placeable_sc_mausoleumPlatform01_Gray_Act"
+ },
+ {
+  "original": "Clay Deposit",
+  "string": "Месторождение глины",
+  "form_id": "000009F2|HearthFires.esm",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "BYOHMineClay01FallForestDirt01"
+ },
+ {
+  "original": "Mine",
+  "string": "Добывать:",
+  "form_id": "000009F2|HearthFires.esm",
+  "type": "ACTI RNAM",
+  "index": null,
+  "editor_id": "BYOHMineClay01FallForestDirt01"
+ },
+ {
+  "original": "Clay Deposit",
+  "string": "Месторождение глины",
+  "form_id": "000009F3|HearthFires.esm",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "BYOHMineClay01ReachDirt01"
+ },
+ {
+  "original": "Mine",
+  "string": "Добывать:",
+  "form_id": "000009F3|HearthFires.esm",
+  "type": "ACTI RNAM",
+  "index": null,
+  "editor_id": "BYOHMineClay01ReachDirt01"
+ },
+ {
+  "original": "Clay Deposit",
+  "string": "Месторождение глины",
+  "form_id": "00000A14|HearthFires.esm",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "BYOHMineClay01RiverMud01"
+ },
+ {
+  "original": "Mine",
+  "string": "Добывать:",
+  "form_id": "00000A14|HearthFires.esm",
+  "type": "ACTI RNAM",
+  "index": null,
+  "editor_id": "BYOHMineClay01RiverMud01"
+ },
+ {
+  "original": "Clay Deposit",
+  "string": "Месторождение глины",
+  "form_id": "0000A511|HearthFires.esm",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "BYOHMineClay01Dirt01"
+ },
+ {
+  "original": "Mine",
+  "string": "Добывать:",
+  "form_id": "0000A511|HearthFires.esm",
+  "type": "ACTI RNAM",
+  "index": null,
+  "editor_id": "BYOHMineClay01Dirt01"
+ },
+ {
+  "original": "Pottery",
+  "string": "Керамика",
+  "form_id": "007D95EB|LvxMagick - Skyrim - Settlement Builder.esm",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "Placeable_PotteryBase03_Custom_PortalCave_Act"
+ },
+ {
+  "original": "Planter",
+  "string": "Цветочник",
+  "form_id": "0088FD74|LvxMagick - Skyrim - Settlement Builder.esm",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "Placeable_SBigPlanter01_Sovengarde_Act"
+ },
+ {
+  "original": "Corundum Ore Vein",
+  "string": "Корундовая жила",
+  "form_id": "0010DB5A|Skyrim.esm",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "MineOreCorundum04_CaveGWall"
+ },
+ {
+  "original": "Mine",
+  "string": "Добывать:",
+  "form_id": "0010DB5A|Skyrim.esm",
+  "type": "ACTI RNAM",
+  "index": null,
+  "editor_id": "MineOreCorundum04_CaveGWall"
+ },
+ {
+  "original": "Corundum Ore Vein",
+  "string": "Корундовая жила",
+  "form_id": "0010DC65|Skyrim.esm",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "MineOreCorundum04_CaveIWall"
+ },
+ {
+  "original": "Mine",
+  "string": "Добывать:",
+  "form_id": "0010DC65|Skyrim.esm",
+  "type": "ACTI RNAM",
+  "index": null,
+  "editor_id": "MineOreCorundum04_CaveIWall"
+ },
+ {
+  "original": "Corundum Ore Vein",
+  "string": "Корундовая жила",
+  "form_id": "0010DC96|Skyrim.esm",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "MineOreCorundum04_CaveIDirt"
+ },
+ {
+  "original": "Mine",
+  "string": "Добывать:",
+  "form_id": "0010DC96|Skyrim.esm",
+  "type": "ACTI RNAM",
+  "index": null,
+  "editor_id": "MineOreCorundum04_CaveIDirt"
+ },
+ {
+  "original": "Sand Mound",
+  "string": "Песчаный холм",
+  "form_id": "0010447B|Midwood Isle.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "ActivatorMound01"
+ },
+ {
+  "original": "Dig up",
+  "string": "Взять:",
+  "form_id": "0010447B|Midwood Isle.esp",
+  "type": "ACTI RNAM",
+  "index": null,
+  "editor_id": "ActivatorMound01"
+ },
+ {
+  "original": "Gold Ore Vein",
+  "string": "Золотая жила",
+  "form_id": "0010DB5E|Skyrim.esm",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "MineOreGold04_CaveGWall"
+ },
+ {
+  "original": "Mine",
+  "string": "Добывать:",
+  "form_id": "0010DB5E|Skyrim.esm",
+  "type": "ACTI RNAM",
+  "index": null,
+  "editor_id": "MineOreGold04_CaveGWall"
+ },
+ {
+  "original": "Gold Ore Vein",
+  "string": "Золотая жила",
+  "form_id": "0010DC69|Skyrim.esm",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "MineOreGold04_CaveIWall"
+ },
+ {
+  "original": "Mine",
+  "string": "Добывать:",
+  "form_id": "0010DC69|Skyrim.esm",
+  "type": "ACTI RNAM",
+  "index": null,
+  "editor_id": "MineOreGold04_CaveIWall"
+ },
+ {
+  "original": "Gold Ore Vein",
+  "string": "Золотая жила",
+  "form_id": "0010DC92|Skyrim.esm",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "MineOreGold04_CaveIDirt"
+ },
+ {
+  "original": "Mine",
+  "string": "Добывать:",
+  "form_id": "0010DC92|Skyrim.esm",
+  "type": "ACTI RNAM",
+  "index": null,
+  "editor_id": "MineOreGold04_CaveIDirt"
+ },
+ {
+  "original": "Iron Ore Vein",
+  "string": "Железорудная жила",
+  "form_id": "0010DB61|Skyrim.esm",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "MineOreIron04_CaveGWall"
+ },
+ {
+  "original": "Mine",
+  "string": "Добывать:",
+  "form_id": "0010DB61|Skyrim.esm",
+  "type": "ACTI RNAM",
+  "index": null,
+  "editor_id": "MineOreIron04_CaveGWall"
+ },
+ {
+  "original": "Iron Ore Vein",
+  "string": "Железорудная жила",
+  "form_id": "0010DC6D|Skyrim.esm",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "MineOreIron04_CaveIWall"
+ },
+ {
+  "original": "Mine",
+  "string": "Добывать:",
+  "form_id": "0010DC6D|Skyrim.esm",
+  "type": "ACTI RNAM",
+  "index": null,
+  "editor_id": "MineOreIron04_CaveIWall"
+ },
+ {
+  "original": "Iron Ore Vein",
+  "string": "Железорудная жила",
+  "form_id": "0010DC8E|Skyrim.esm",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "MineOreIron04_CaveIDirt"
+ },
+ {
+  "original": "Mine",
+  "string": "Добывать:",
+  "form_id": "0010DC8E|Skyrim.esm",
+  "type": "ACTI RNAM",
+  "index": null,
+  "editor_id": "MineOreIron04_CaveIDirt"
+ },
+ {
+  "original": "Silver Ore Vein",
+  "string": "Серебряная жила",
+  "form_id": "0010DB6E|Skyrim.esm",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "MineOreSilver01_CaveGWall"
+ },
+ {
+  "original": "Mine",
+  "string": "Добывать:",
+  "form_id": "0010DB6E|Skyrim.esm",
+  "type": "ACTI RNAM",
+  "index": null,
+  "editor_id": "MineOreSilver01_CaveGWall"
+ },
+ {
+  "original": "Silver Ore Vein",
+  "string": "Серебряная жила",
+  "form_id": "0010DC7A|Skyrim.esm",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "MineOreSilver01_CaveIWall"
+ },
+ {
+  "original": "Mine",
+  "string": "Добывать:",
+  "form_id": "0010DC7A|Skyrim.esm",
+  "type": "ACTI RNAM",
+  "index": null,
+  "editor_id": "MineOreSilver01_CaveIWall"
+ },
+ {
+  "original": "Silver Ore Vein",
+  "string": "Серебряная жила",
+  "form_id": "0010DC81|Skyrim.esm",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "MineOreSilver01_CaveIDirt"
+ },
+ {
+  "original": "Mine",
+  "string": "Добывать:",
+  "form_id": "0010DC81|Skyrim.esm",
+  "type": "ACTI RNAM",
+  "index": null,
+  "editor_id": "MineOreSilver01_CaveIDirt"
+ },
+ {
+  "original": "Platform 02",
+  "string": "Платформа 02",
+  "form_id": "0076EEF3|LvxMagick - Skyrim - Settlement Builder.esm",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "Placeable_sc_mausoleumplatformarch02_Gray_Act"
+ },
+ {
+  "original": "Jug",
+  "string": "Кувшин",
+  "form_id": "00D5B79B|LvxMagick - Skyrim - Settlement Builder.esm",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "Placeable_Clutter_GlazedJugSmall01Nordic_Act"
+ },
+ {
+  "original": "Corundum Ore Vein",
+  "string": "Корундовая жила",
+  "form_id": "0010DB57|Skyrim.esm",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "MineOreCorundum01_CaveGWall"
+ },
+ {
+  "original": "Mine",
+  "string": "Добывать:",
+  "form_id": "0010DB57|Skyrim.esm",
+  "type": "ACTI RNAM",
+  "index": null,
+  "editor_id": "MineOreCorundum01_CaveGWall"
+ },
+ {
+  "original": "Corundum Ore Vein",
+  "string": "Корундовая жила",
+  "form_id": "0010DC62|Skyrim.esm",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "MineOreCorundum01_CaveIWall"
+ },
+ {
+  "original": "Mine",
+  "string": "Добывать:",
+  "form_id": "0010DC62|Skyrim.esm",
+  "type": "ACTI RNAM",
+  "index": null,
+  "editor_id": "MineOreCorundum01_CaveIWall"
+ },
+ {
+  "original": "Corundum Ore Vein",
+  "string": "Корундовая жила",
+  "form_id": "0010DC99|Skyrim.esm",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "MineOreCorundum01_CaveIDirt"
+ },
+ {
+  "original": "Mine",
+  "string": "Добывать:",
+  "form_id": "0010DC99|Skyrim.esm",
+  "type": "ACTI RNAM",
+  "index": null,
+  "editor_id": "MineOreCorundum01_CaveIDirt"
+ },
+ {
+  "original": "Sand Mound",
+  "string": "Песчаный холм",
+  "form_id": "0010447C|Midwood Isle.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "ActivatorMound02"
+ },
+ {
+  "original": "Dig up",
+  "string": "Взять:",
+  "form_id": "0010447C|Midwood Isle.esp",
+  "type": "ACTI RNAM",
+  "index": null,
+  "editor_id": "ActivatorMound02"
+ },
+ {
+  "original": "Heavy Armor",
+  "string": "Тяжелая броня",
+  "form_id": "000335F0|ValtaraTower.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "_seTowerRmteChest_armHvy"
+ },
+ {
+  "original": "Search",
+  "string": "Осмотреть:",
+  "form_id": "000335F0|ValtaraTower.esp",
+  "type": "ACTI RNAM",
+  "index": null,
+  "editor_id": "_seTowerRmteChest_armHvy"
+ },
+ {
+  "original": "Light Armor",
+  "string": "Легкая броня",
+  "form_id": "000335F6|ValtaraTower.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "_seTowerRmteChest_armLight"
+ },
+ {
+  "original": "Search",
+  "string": "Осмотреть:",
+  "form_id": "000335F6|ValtaraTower.esp",
+  "type": "ACTI RNAM",
+  "index": null,
+  "editor_id": "_seTowerRmteChest_armLight"
+ },
+ {
+  "original": "Clothes and Robes",
+  "string": "Одежда и мантии",
+  "form_id": "000335F7|ValtaraTower.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "_seTowerRmteChest_armCLoth"
+ },
+ {
+  "original": "Search",
+  "string": "Осмотреть:",
+  "form_id": "000335F7|ValtaraTower.esp",
+  "type": "ACTI RNAM",
+  "index": null,
+  "editor_id": "_seTowerRmteChest_armCLoth"
+ },
+ {
+  "original": "Shields",
+  "string": "Щиты",
+  "form_id": "000335F8|ValtaraTower.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "_seTowerRmteChest_shields"
+ },
+ {
+  "original": "Search",
+  "string": "Осмотреть:",
+  "form_id": "000335F8|ValtaraTower.esp",
+  "type": "ACTI RNAM",
+  "index": null,
+  "editor_id": "_seTowerRmteChest_shields"
+ },
+ {
+  "original": "Bows",
+  "string": "Луки",
+  "form_id": "000335F9|ValtaraTower.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "_seTowerRmteChest_bows"
+ },
+ {
+  "original": "Search",
+  "string": "Осмотреть:",
+  "form_id": "000335F9|ValtaraTower.esp",
+  "type": "ACTI RNAM",
+  "index": null,
+  "editor_id": "_seTowerRmteChest_bows"
+ },
+ {
+  "original": "Staves",
+  "string": "Посохи",
+  "form_id": "000335FB|ValtaraTower.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "_seTowerRmteChest_staves"
+ },
+ {
+  "original": "Search",
+  "string": "Осмотреть:",
+  "form_id": "000335FB|ValtaraTower.esp",
+  "type": "ACTI RNAM",
+  "index": null,
+  "editor_id": "_seTowerRmteChest_staves"
+ },
+ {
+  "original": "Melee Weapons",
+  "string": "Оружие ближнего боя",
+  "form_id": "000335FC|ValtaraTower.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "_seTowerRmteChest_weapons"
+ },
+ {
+  "original": "Search",
+  "string": "Осмотреть:",
+  "form_id": "000335FC|ValtaraTower.esp",
+  "type": "ACTI RNAM",
+  "index": null,
+  "editor_id": "_seTowerRmteChest_weapons"
+ },
+ {
+  "original": "Misc. Items",
+  "string": "Разные предметы",
+  "form_id": "00033606|ValtaraTower.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "_seTowerRmteChest_misc"
+ },
+ {
+  "original": "Search",
+  "string": "Осмотреть:",
+  "form_id": "00033606|ValtaraTower.esp",
+  "type": "ACTI RNAM",
+  "index": null,
+  "editor_id": "_seTowerRmteChest_misc"
+ },
+ {
+  "original": "Poisons",
+  "string": "Зелья",
+  "form_id": "00033607|ValtaraTower.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "_seTowerRmteChest_poison"
+ },
+ {
+  "original": "Search",
+  "string": "Осмотреть:",
+  "form_id": "00033607|ValtaraTower.esp",
+  "type": "ACTI RNAM",
+  "index": null,
+  "editor_id": "_seTowerRmteChest_poison"
+ },
+ {
+  "original": "Potions",
+  "string": "Зелья",
+  "form_id": "00033608|ValtaraTower.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "_seTowerRmteChest_potions"
+ },
+ {
+  "original": "Search",
+  "string": "Осмотреть:",
+  "form_id": "00033608|ValtaraTower.esp",
+  "type": "ACTI RNAM",
+  "index": null,
+  "editor_id": "_seTowerRmteChest_potions"
+ },
+ {
+  "original": "Arrows and Bolts",
+  "string": "Стрелы и болты",
+  "form_id": "0003DB9F|ValtaraTower.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "_seTowerRmteChest_arws2"
+ },
+ {
+  "original": "Search",
+  "string": "Осмотреть:",
+  "form_id": "0003DB9F|ValtaraTower.esp",
+  "type": "ACTI RNAM",
+  "index": null,
+  "editor_id": "_seTowerRmteChest_arws2"
+ },
+ {
+  "original": "Books",
+  "string": "Книги",
+  "form_id": "0003DBA0|ValtaraTower.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "_seTowerRmteChest_books2"
+ },
+ {
+  "original": "Search",
+  "string": "Осмотреть:",
+  "form_id": "0003DBA0|ValtaraTower.esp",
+  "type": "ACTI RNAM",
+  "index": null,
+  "editor_id": "_seTowerRmteChest_books2"
+ },
+ {
+  "original": "Cooked Food and Drinks",
+  "string": "Приготовленные продукты и напитки",
+  "form_id": "0003DBA6|ValtaraTower.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "_seTowerRmteChest_cFood2"
+ },
+ {
+  "original": "Search",
+  "string": "Осмотреть:",
+  "form_id": "0003DBA6|ValtaraTower.esp",
+  "type": "ACTI RNAM",
+  "index": null,
+  "editor_id": "_seTowerRmteChest_cFood2"
+ },
+ {
+  "original": "Gems",
+  "string": "Драгоценные камни",
+  "form_id": "0003DBA7|ValtaraTower.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "_seTowerRmteChest_gems2"
+ },
+ {
+  "original": "Search",
+  "string": "Осмотреть:",
+  "form_id": "0003DBA7|ValtaraTower.esp",
+  "type": "ACTI RNAM",
+  "index": null,
+  "editor_id": "_seTowerRmteChest_gems2"
+ },
+ {
+  "original": "Jewelry",
+  "string": "Ювелирные изделия",
+  "form_id": "0003DBA8|ValtaraTower.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "_seTowerRmteChest_Jewelry2"
+ },
+ {
+  "original": "Search",
+  "string": "Осмотреть:",
+  "form_id": "0003DBA8|ValtaraTower.esp",
+  "type": "ACTI RNAM",
+  "index": null,
+  "editor_id": "_seTowerRmteChest_Jewelry2"
+ },
+ {
+  "original": "Gold",
+  "string": "Золото",
+  "form_id": "0003DBA9|ValtaraTower.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "_seTowerRmteChest_gold2"
+ },
+ {
+  "original": "Search",
+  "string": "Осмотреть:",
+  "form_id": "0003DBA9|ValtaraTower.esp",
+  "type": "ACTI RNAM",
+  "index": null,
+  "editor_id": "_seTowerRmteChest_gold2"
+ },
+ {
+  "original": "Ingredients",
+  "string": "Ингредиенты",
+  "form_id": "0003DBAB|ValtaraTower.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "_seTowerRmteChest_Ingredients2"
+ },
+ {
+  "original": "Search",
+  "string": "Осмотреть:",
+  "form_id": "0003DBAB|ValtaraTower.esp",
+  "type": "ACTI RNAM",
+  "index": null,
+  "editor_id": "_seTowerRmteChest_Ingredients2"
+ },
+ {
+  "original": "Keys",
+  "string": "Ключи",
+  "form_id": "0003DBAC|ValtaraTower.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "_seTowerRmteChest_Keys2"
+ },
+ {
+  "original": "Search",
+  "string": "Осмотреть:",
+  "form_id": "0003DBAC|ValtaraTower.esp",
+  "type": "ACTI RNAM",
+  "index": null,
+  "editor_id": "_seTowerRmteChest_Keys2"
+ },
+ {
+  "original": "Raw Food",
+  "string": "Сырые продукты",
+  "form_id": "0003DBB5|ValtaraTower.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "_seTowerRmteChest_rFood2"
+ },
+ {
+  "original": "Search",
+  "string": "Осмотреть:",
+  "form_id": "0003DBB5|ValtaraTower.esp",
+  "type": "ACTI RNAM",
+  "index": null,
+  "editor_id": "_seTowerRmteChest_rFood2"
+ },
+ {
+  "original": "Soul Gems",
+  "string": "Камни душ",
+  "form_id": "0003DBB6|ValtaraTower.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "_seTowerRmteChest_sGems2"
+ },
+ {
+  "original": "Search",
+  "string": "Осмотреть:",
+  "form_id": "0003DBB6|ValtaraTower.esp",
+  "type": "ACTI RNAM",
+  "index": null,
+  "editor_id": "_seTowerRmteChest_sGems2"
+ },
+ {
+  "original": "Spell Tomes and Scrolls",
+  "string": "Книги заклинаний и свитки",
+  "form_id": "0003DBB7|ValtaraTower.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "_seTowerRmteChest_tomes2"
+ },
+ {
+  "original": "Search",
+  "string": "Осмотреть:",
+  "form_id": "0003DBB7|ValtaraTower.esp",
+  "type": "ACTI RNAM",
+  "index": null,
+  "editor_id": "_seTowerRmteChest_tomes2"
+ },
+ {
+  "original": "Sorting Chest",
+  "string": "Сортировочный сундук",
+  "form_id": "000D1A1A|ValtaraTower.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "_seTowerRmteChest_master2"
+ },
+ {
+  "original": "Search",
+  "string": "Осмотреть:",
+  "form_id": "000D1A1A|ValtaraTower.esp",
+  "type": "ACTI RNAM",
+  "index": null,
+  "editor_id": "_seTowerRmteChest_master2"
+ },
+ {
+  "original": "Paragon Gem Display",
+  "string": "Витрина для камней Образца совершенства",
+  "form_id": "00000F10|JK's Castle Volkihar.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "XJKCVParagonGemDisplay"
+ },
+ {
+  "original": "Placeable",
+  "string": "Размещаемый предмет",
+  "form_id": "00E1C0A9|LvxMagick - Skyrim - Settlement Builder.esm",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "Placeable_Banner_PotemaBanner01_act"
+ },
+ {
+  "original": "Pottery",
+  "string": "Керамика",
+  "form_id": "007CF386|LvxMagick - Skyrim - Settlement Builder.esm",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "Placeable_PotteryBase06_Custom01_Glow_Act"
+ },
+ {
+  "original": "Pottery",
+  "string": "Керамика",
+  "form_id": "007D95EF|LvxMagick - Skyrim - Settlement Builder.esm",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "Placeable_PotteryBase02_Custom02_DarkBrother_Act"
+ },
+ {
+  "original": "Pottery",
+  "string": "Керамика",
+  "form_id": "007D95E2|LvxMagick - Skyrim - Settlement Builder.esm",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "Placeable_PotteryBase02_Custom01_Hawk_Act"
+ },
+ {
+  "original": "Pottery",
+  "string": "Керамика",
+  "form_id": "007D95D0|LvxMagick - Skyrim - Settlement Builder.esm",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "Placeable_PotteryBase01_Custom_Act_Apoc"
+ },
+ {
+  "original": "Corundum Ore Vein",
+  "string": "Корундовая жила",
+  "form_id": "0010DB58|Skyrim.esm",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "MineOreCorundum02_CaveGWall"
+ },
+ {
+  "original": "Mine",
+  "string": "Добывать:",
+  "form_id": "0010DB58|Skyrim.esm",
+  "type": "ACTI RNAM",
+  "index": null,
+  "editor_id": "MineOreCorundum02_CaveGWall"
+ },
+ {
+  "original": "Corundum Ore Vein",
+  "string": "Корундовая жила",
+  "form_id": "0010DC63|Skyrim.esm",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "MineOreCorundum02_CaveIWall"
+ },
+ {
+  "original": "Mine",
+  "string": "Добывать:",
+  "form_id": "0010DC63|Skyrim.esm",
+  "type": "ACTI RNAM",
+  "index": null,
+  "editor_id": "MineOreCorundum02_CaveIWall"
+ },
+ {
+  "original": "Corundum Ore Vein",
+  "string": "Корундовая жила",
+  "form_id": "0010DC98|Skyrim.esm",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "MineOreCorundum02_CaveIDirt"
+ },
+ {
+  "original": "Mine",
+  "string": "Добывать:",
+  "form_id": "0010DC98|Skyrim.esm",
+  "type": "ACTI RNAM",
+  "index": null,
+  "editor_id": "MineOreCorundum02_CaveIDirt"
+ },
+ {
+  "original": "Corundum Ore Vein",
+  "string": "Корундовая жила",
+  "form_id": "0010DB59|Skyrim.esm",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "MineOreCorundum03_CaveGWall"
+ },
+ {
+  "original": "Mine",
+  "string": "Добывать:",
+  "form_id": "0010DB59|Skyrim.esm",
+  "type": "ACTI RNAM",
+  "index": null,
+  "editor_id": "MineOreCorundum03_CaveGWall"
+ },
+ {
+  "original": "Corundum Ore Vein",
+  "string": "Корундовая жила",
+  "form_id": "0010DC64|Skyrim.esm",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "MineOreCorundum03_CaveIWall"
+ },
+ {
+  "original": "Mine",
+  "string": "Добывать:",
+  "form_id": "0010DC64|Skyrim.esm",
+  "type": "ACTI RNAM",
+  "index": null,
+  "editor_id": "MineOreCorundum03_CaveIWall"
+ },
+ {
+  "original": "Corundum Ore Vein",
+  "string": "Корундовая жила",
+  "form_id": "0010DC97|Skyrim.esm",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "MineOreCorundum03_CaveIDirt"
+ },
+ {
+  "original": "Mine",
+  "string": "Добывать:",
+  "form_id": "0010DC97|Skyrim.esm",
+  "type": "ACTI RNAM",
+  "index": null,
+  "editor_id": "MineOreCorundum03_CaveIDirt"
+ },
+ {
+  "original": "Raised Stone",
+  "string": "Приподнятый камень",
+  "form_id": "00000244|JK's Dark Brotherhood Sanctuary.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "XJKDBSTrapStoneButton"
+ },
+ {
+  "original": "Mausoleum Cap",
+  "string": "Навершие мавзолея",
+  "form_id": "0076EEFD|LvxMagick - Skyrim - Settlement Builder.esm",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "Placeable_sc_mausoleumTowerCap01_Gray_Act"
+ },
+ {
+  "original": "Wheat Mill",
+  "string": "Мельница",
+  "form_id": "0010A95D|Skyrim.esm",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "ResourceObjectFarmWR"
+ },
+ {
+  "original": "Dragon Skull",
+  "string": "Череп дракона",
+  "form_id": "00ADCD36|LvxMagick - Skyrim - Settlement Builder.esm",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "Placeable_Dragon_Skull05_Tribal_Act"
+ },
+ {
+  "original": "Dragon Skull",
+  "string": "Череп дракона",
+  "form_id": "00AF11B1|LvxMagick - Skyrim - Settlement Builder.esm",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "Placeable_Dragon_Skull03_Sovngarde_Act"
+ },
+ {
+  "original": "Dragon Skull",
+  "string": "Череп дракона",
+  "form_id": "00AF11B7|LvxMagick - Skyrim - Settlement Builder.esm",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "Placeable_Dragon_Skull02_DB_Act"
+ },
+ {
+  "original": "Moonstone Ore Vein",
+  "string": "Выход лунного камня",
+  "form_id": "0010DB64|Skyrim.esm",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "MineOreMoonstone03_CaveGWall"
+ },
+ {
+  "original": "Mine",
+  "string": "Добывать:",
+  "form_id": "0010DB64|Skyrim.esm",
+  "type": "ACTI RNAM",
+  "index": null,
+  "editor_id": "MineOreMoonstone03_CaveGWall"
+ },
+ {
+  "original": "Moonstone Ore Vein",
+  "string": "Выход лунного камня",
+  "form_id": "0010DC70|Skyrim.esm",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "MineOreMoonstone03_CaveIWall"
+ },
+ {
+  "original": "Mine",
+  "string": "Добывать:",
+  "form_id": "0010DC70|Skyrim.esm",
+  "type": "ACTI RNAM",
+  "index": null,
+  "editor_id": "MineOreMoonstone03_CaveIWall"
+ },
+ {
+  "original": "Moonstone Ore Vein",
+  "string": "Выход лунного камня",
+  "form_id": "0010DC8B|Skyrim.esm",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "MineOreMoonstone03_CaveIDirt"
+ },
+ {
+  "original": "Mine",
+  "string": "Добывать:",
+  "form_id": "0010DC8B|Skyrim.esm",
+  "type": "ACTI RNAM",
+  "index": null,
+  "editor_id": "MineOreMoonstone03_CaveIDirt"
+ },
+ {
+  "original": "Iron Ore Vein",
+  "string": "Железорудная жила",
+  "form_id": "0010DB5F|Skyrim.esm",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "MineOreIron02_CaveGWall"
+ },
+ {
+  "original": "Mine",
+  "string": "Добывать:",
+  "form_id": "0010DB5F|Skyrim.esm",
+  "type": "ACTI RNAM",
+  "index": null,
+  "editor_id": "MineOreIron02_CaveGWall"
+ },
+ {
+  "original": "Iron Ore Vein",
+  "string": "Железорудная жила",
+  "form_id": "0010D749|Skyrim.esm",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "MineOreIron02_LMountainSlab"
+ },
+ {
+  "original": "Mine",
+  "string": "Добывать:",
+  "form_id": "0010D749|Skyrim.esm",
+  "type": "ACTI RNAM",
+  "index": null,
+  "editor_id": "MineOreIron02_LMountainSlab"
+ },
+ {
+  "original": "Iron Ore Vein",
+  "string": "Железорудная жила",
+  "form_id": "0010DC6B|Skyrim.esm",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "MineOreIron02_CaveIWall"
+ },
+ {
+  "original": "Mine",
+  "string": "Добывать:",
+  "form_id": "0010DC6B|Skyrim.esm",
+  "type": "ACTI RNAM",
+  "index": null,
+  "editor_id": "MineOreIron02_CaveIWall"
+ },
+ {
+  "original": "Iron Ore Vein",
+  "string": "Железорудная жила",
+  "form_id": "0010DC90|Skyrim.esm",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "MineOreIron02_CaveIDirt"
+ },
+ {
+  "original": "Mine",
+  "string": "Добывать:",
+  "form_id": "0010DC90|Skyrim.esm",
+  "type": "ACTI RNAM",
+  "index": null,
+  "editor_id": "MineOreIron02_CaveIDirt"
+ },
+ {
+  "original": "Iron Ore Vein",
+  "string": "Железорудная жила",
+  "form_id": "0010DB60|Skyrim.esm",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "MineOreIron03_CaveGWall"
+ },
+ {
+  "original": "Mine",
+  "string": "Добывать:",
+  "form_id": "0010DB60|Skyrim.esm",
+  "type": "ACTI RNAM",
+  "index": null,
+  "editor_id": "MineOreIron03_CaveGWall"
+ },
+ {
+  "original": "Iron Ore Vein",
+  "string": "Железорудная жила",
+  "form_id": "0010DC6C|Skyrim.esm",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "MineOreIron03_CaveIWall"
+ },
+ {
+  "original": "Mine",
+  "string": "Добывать:",
+  "form_id": "0010DC6C|Skyrim.esm",
+  "type": "ACTI RNAM",
+  "index": null,
+  "editor_id": "MineOreIron03_CaveIWall"
+ },
+ {
+  "original": "Iron Ore Vein",
+  "string": "Железорудная жила",
+  "form_id": "0010DC8F|Skyrim.esm",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "MineOreIron03_CaveIDirt"
+ },
+ {
+  "original": "Mine",
+  "string": "Добывать:",
+  "form_id": "0010DC8F|Skyrim.esm",
+  "type": "ACTI RNAM",
+  "index": null,
+  "editor_id": "MineOreIron03_CaveIDirt"
+ },
+ {
+  "original": "Bloody Chopping Block",
+  "string": "Окровавленная колода для рубки",
+  "form_id": "0079C8BA|LvxMagick - Skyrim - Settlement Builder.esm",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "Placeable_ChoppingBlock02_Bloody_Act"
+ },
+ {
+  "original": "Moonstone Ore Vein",
+  "string": "Выход лунного камня",
+  "form_id": "0010DB65|Skyrim.esm",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "MineOreMoonstone04_CaveGWall"
+ },
+ {
+  "original": "Mine",
+  "string": "Добывать:",
+  "form_id": "0010DB65|Skyrim.esm",
+  "type": "ACTI RNAM",
+  "index": null,
+  "editor_id": "MineOreMoonstone04_CaveGWall"
+ },
+ {
+  "original": "Orichalcum Ore Vein",
+  "string": "Выход орихалка",
+  "form_id": "0010DB69|Skyrim.esm",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "MineOreOrichalcum04_CaveGWall"
+ },
+ {
+  "original": "Mine",
+  "string": "Добывать:",
+  "form_id": "0010DB69|Skyrim.esm",
+  "type": "ACTI RNAM",
+  "index": null,
+  "editor_id": "MineOreOrichalcum04_CaveGWall"
+ },
+ {
+  "original": "Quicksilver Ore Vein",
+  "string": "Ртутная жила",
+  "form_id": "0010DB6D|Skyrim.esm",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "MineOreQuicksilver04_CaveGWall"
+ },
+ {
+  "original": "Mine",
+  "string": "Добывать:",
+  "form_id": "0010DB6D|Skyrim.esm",
+  "type": "ACTI RNAM",
+  "index": null,
+  "editor_id": "MineOreQuicksilver04_CaveGWall"
+ },
+ {
+  "original": "Silver Ore Vein",
+  "string": "Серебряная жила",
+  "form_id": "0010DB71|Skyrim.esm",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "MineOreSilver04_CaveGWall"
+ },
+ {
+  "original": "Mine",
+  "string": "Добывать:",
+  "form_id": "0010DB71|Skyrim.esm",
+  "type": "ACTI RNAM",
+  "index": null,
+  "editor_id": "MineOreSilver04_CaveGWall"
+ },
+ {
+  "original": "Moonstone Ore Vein",
+  "string": "Выход лунного камня",
+  "form_id": "0010DC71|Skyrim.esm",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "MineOreMoonstone04_CaveIWall"
+ },
+ {
+  "original": "Mine",
+  "string": "Добывать:",
+  "form_id": "0010DC71|Skyrim.esm",
+  "type": "ACTI RNAM",
+  "index": null,
+  "editor_id": "MineOreMoonstone04_CaveIWall"
+ },
+ {
+  "original": "Orichalcum Ore Vein",
+  "string": "Выход орихалка",
+  "form_id": "0010DC75|Skyrim.esm",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "MineOreOrichalcum04_CaveIWall"
+ },
+ {
+  "original": "Mine",
+  "string": "Добывать:",
+  "form_id": "0010DC75|Skyrim.esm",
+  "type": "ACTI RNAM",
+  "index": null,
+  "editor_id": "MineOreOrichalcum04_CaveIWall"
+ },
+ {
+  "original": "Quicksilver Ore Vein",
+  "string": "Ртутная жила",
+  "form_id": "0010DC79|Skyrim.esm",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "MineOreQuicksilver04_CaveIWall"
+ },
+ {
+  "original": "Mine",
+  "string": "Добывать:",
+  "form_id": "0010DC79|Skyrim.esm",
+  "type": "ACTI RNAM",
+  "index": null,
+  "editor_id": "MineOreQuicksilver04_CaveIWall"
+ },
+ {
+  "original": "Silver Ore Vein",
+  "string": "Серебряная жила",
+  "form_id": "0010DC7D|Skyrim.esm",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "MineOreSilver04_CaveIWall"
+ },
+ {
+  "original": "Mine",
+  "string": "Добывать:",
+  "form_id": "0010DC7D|Skyrim.esm",
+  "type": "ACTI RNAM",
+  "index": null,
+  "editor_id": "MineOreSilver04_CaveIWall"
+ },
+ {
+  "original": "Silver Ore Vein",
+  "string": "Серебряная жила",
+  "form_id": "0010DC7E|Skyrim.esm",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "MineOreSilver04_CaveIDirt"
+ },
+ {
+  "original": "Mine",
+  "string": "Добывать:",
+  "form_id": "0010DC7E|Skyrim.esm",
+  "type": "ACTI RNAM",
+  "index": null,
+  "editor_id": "MineOreSilver04_CaveIDirt"
+ },
+ {
+  "original": "Quicksilver Ore Vein",
+  "string": "Ртутная жила",
+  "form_id": "0010DC82|Skyrim.esm",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "MineOreQuicksilver04_CaveIDirt"
+ },
+ {
+  "original": "Mine",
+  "string": "Добывать:",
+  "form_id": "0010DC82|Skyrim.esm",
+  "type": "ACTI RNAM",
+  "index": null,
+  "editor_id": "MineOreQuicksilver04_CaveIDirt"
+ },
+ {
+  "original": "Orichalcum Ore Vein",
+  "string": "Выход орихалка",
+  "form_id": "0010DC86|Skyrim.esm",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "MineOreOrichalcum04_CaveIDirt"
+ },
+ {
+  "original": "Mine",
+  "string": "Добывать:",
+  "form_id": "0010DC86|Skyrim.esm",
+  "type": "ACTI RNAM",
+  "index": null,
+  "editor_id": "MineOreOrichalcum04_CaveIDirt"
+ },
+ {
+  "original": "Moonstone Ore Vein",
+  "string": "Выход лунного камня",
+  "form_id": "0010DC8A|Skyrim.esm",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "MineOreMoonstone04_CaveIDirt"
+ },
+ {
+  "original": "Mine",
+  "string": "Добывать:",
+  "form_id": "0010DC8A|Skyrim.esm",
+  "type": "ACTI RNAM",
+  "index": null,
+  "editor_id": "MineOreMoonstone04_CaveIDirt"
+ },
+ {
+  "original": "Gold Ore Vein",
+  "string": "Золотая жила",
+  "form_id": "0010DB5D|Skyrim.esm",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "MineOreGold03_CaveGWall"
+ },
+ {
+  "original": "Mine",
+  "string": "Добывать:",
+  "form_id": "0010DB5D|Skyrim.esm",
+  "type": "ACTI RNAM",
+  "index": null,
+  "editor_id": "MineOreGold03_CaveGWall"
+ },
+ {
+  "original": "Orichalcum Ore Vein",
+  "string": "Выход орихалка",
+  "form_id": "0010DB68|Skyrim.esm",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "MineOreOrichalcum03_CaveGWall"
+ },
+ {
+  "original": "Mine",
+  "string": "Добывать:",
+  "form_id": "0010DB68|Skyrim.esm",
+  "type": "ACTI RNAM",
+  "index": null,
+  "editor_id": "MineOreOrichalcum03_CaveGWall"
+ },
+ {
+  "original": "Quicksilver Ore Vein",
+  "string": "Ртутная жила",
+  "form_id": "0010DB6C|Skyrim.esm",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "MineOreQuicksilver03_CaveGWall"
+ },
+ {
+  "original": "Mine",
+  "string": "Добывать:",
+  "form_id": "0010DB6C|Skyrim.esm",
+  "type": "ACTI RNAM",
+  "index": null,
+  "editor_id": "MineOreQuicksilver03_CaveGWall"
+ },
+ {
+  "original": "Silver Ore Vein",
+  "string": "Серебряная жила",
+  "form_id": "0010DB70|Skyrim.esm",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "MineOreSilver03_CaveGWall"
+ },
+ {
+  "original": "Mine",
+  "string": "Добывать:",
+  "form_id": "0010DB70|Skyrim.esm",
+  "type": "ACTI RNAM",
+  "index": null,
+  "editor_id": "MineOreSilver03_CaveGWall"
+ },
+ {
+  "original": "Gold Ore Vein",
+  "string": "Золотая жила",
+  "form_id": "0010DC68|Skyrim.esm",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "MineOreGold03_CaveIWall"
+ },
+ {
+  "original": "Mine",
+  "string": "Добывать:",
+  "form_id": "0010DC68|Skyrim.esm",
+  "type": "ACTI RNAM",
+  "index": null,
+  "editor_id": "MineOreGold03_CaveIWall"
+ },
+ {
+  "original": "Orichalcum Ore Vein",
+  "string": "Выход орихалка",
+  "form_id": "0010DC74|Skyrim.esm",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "MineOreOrichalcum03_CaveIWall"
+ },
+ {
+  "original": "Mine",
+  "string": "Добывать:",
+  "form_id": "0010DC74|Skyrim.esm",
+  "type": "ACTI RNAM",
+  "index": null,
+  "editor_id": "MineOreOrichalcum03_CaveIWall"
+ },
+ {
+  "original": "Quicksilver Ore Vein",
+  "string": "Ртутная жила",
+  "form_id": "0010DC78|Skyrim.esm",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "MineOreQuicksilver03_CaveIWall"
+ },
+ {
+  "original": "Mine",
+  "string": "Добывать:",
+  "form_id": "0010DC78|Skyrim.esm",
+  "type": "ACTI RNAM",
+  "index": null,
+  "editor_id": "MineOreQuicksilver03_CaveIWall"
+ },
+ {
+  "original": "Silver Ore Vein",
+  "string": "Серебряная жила",
+  "form_id": "0010DC7C|Skyrim.esm",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "MineOreSilver03_CaveIWall"
+ },
+ {
+  "original": "Mine",
+  "string": "Добывать:",
+  "form_id": "0010DC7C|Skyrim.esm",
+  "type": "ACTI RNAM",
+  "index": null,
+  "editor_id": "MineOreSilver03_CaveIWall"
+ },
+ {
+  "original": "Silver Ore Vein",
+  "string": "Серебряная жила",
+  "form_id": "0010DC7F|Skyrim.esm",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "MineOreSilver03_CaveIDirt"
+ },
+ {
+  "original": "Mine",
+  "string": "Добывать:",
+  "form_id": "0010DC7F|Skyrim.esm",
+  "type": "ACTI RNAM",
+  "index": null,
+  "editor_id": "MineOreSilver03_CaveIDirt"
+ },
+ {
+  "original": "Quicksilver Ore Vein",
+  "string": "Ртутная жила",
+  "form_id": "0010DC83|Skyrim.esm",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "MineOreQuicksilver03_CaveIDirt"
+ },
+ {
+  "original": "Mine",
+  "string": "Добывать:",
+  "form_id": "0010DC83|Skyrim.esm",
+  "type": "ACTI RNAM",
+  "index": null,
+  "editor_id": "MineOreQuicksilver03_CaveIDirt"
+ },
+ {
+  "original": "Orichalcum Ore Vein",
+  "string": "Выход орихалка",
+  "form_id": "0010DC87|Skyrim.esm",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "MineOreOrichalcum03_CaveIDirt"
+ },
+ {
+  "original": "Mine",
+  "string": "Добывать:",
+  "form_id": "0010DC87|Skyrim.esm",
+  "type": "ACTI RNAM",
+  "index": null,
+  "editor_id": "MineOreOrichalcum03_CaveIDirt"
+ },
+ {
+  "original": "Gold Ore Vein",
+  "string": "Золотая жила",
+  "form_id": "0010DC93|Skyrim.esm",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "MineOreGold03_CaveIDirt"
+ },
+ {
+  "original": "Mine",
+  "string": "Добывать:",
+  "form_id": "0010DC93|Skyrim.esm",
+  "type": "ACTI RNAM",
+  "index": null,
+  "editor_id": "MineOreGold03_CaveIDirt"
+ },
+ {
+  "original": "Pottery",
+  "string": "Керамика",
+  "form_id": "00BA7864|LvxMagick - Skyrim - Settlement Builder.esm",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "Placeable_PotteryBase07_Custom01_ApocraphaSymbols_Act"
+ },
+ {
+  "original": "Gold Ore Vein",
+  "string": "Золотая жила",
+  "form_id": "0010DB5B|Skyrim.esm",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "MineOreGold01_CaveGWall"
+ },
+ {
+  "original": "Mine",
+  "string": "Добывать:",
+  "form_id": "0010DB5B|Skyrim.esm",
+  "type": "ACTI RNAM",
+  "index": null,
+  "editor_id": "MineOreGold01_CaveGWall"
+ },
+ {
+  "original": "Gold Ore Vein",
+  "string": "Золотая жила",
+  "form_id": "0010DC66|Skyrim.esm",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "MineOreGold01_CaveIWall"
+ },
+ {
+  "original": "Mine",
+  "string": "Добывать:",
+  "form_id": "0010DC66|Skyrim.esm",
+  "type": "ACTI RNAM",
+  "index": null,
+  "editor_id": "MineOreGold01_CaveIWall"
+ },
+ {
+  "original": "Gold Ore Vein",
+  "string": "Золотая жила",
+  "form_id": "0010DC95|Skyrim.esm",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "MineOreGold01_CaveIDirt"
+ },
+ {
+  "original": "Mine",
+  "string": "Добывать:",
+  "form_id": "0010DC95|Skyrim.esm",
+  "type": "ACTI RNAM",
+  "index": null,
+  "editor_id": "MineOreGold01_CaveIDirt"
+ },
+ {
+  "original": "Stairs",
+  "string": "Лестница",
+  "form_id": "0093D7A9|LvxMagick - Skyrim - Settlement Builder.esm",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "Placeable_StairsOfBlood_Act"
+ },
+ {
+  "original": "Apple Cabbage Stew",
+  "string": "Похлебка из капусты и яблок",
+  "form_id": "00D891E6|LvxMagick - Skyrim - Settlement Builder.esm",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "Placeable_Clutter_Food_FoodAppleCabbageStew_Act"
+ },
+ {
+  "original": "Cabbage Potato Soup",
+  "string": "Капустный суп с картошкой",
+  "form_id": "00D93425|LvxMagick - Skyrim - Settlement Builder.esm",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "Placeable_Clutter_Food_FoodCabbagePotatoSoup_Act"
+ },
+ {
+  "original": "Elsweyr Fondue",
+  "string": "Эльсвейрское фондю",
+  "form_id": "00D9345A|LvxMagick - Skyrim - Settlement Builder.esm",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "Placeable_Clutter_Food_FoodElsweyrFondue_Act"
+ },
+ {
+  "original": "Tomato Soup",
+  "string": "Томатный суп",
+  "form_id": "00D985F7|LvxMagick - Skyrim - Settlement Builder.esm",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "Placeable_Clutter_Food_FoodTomatoSoup_Act"
+ },
+ {
+  "original": "Vegetable Soup",
+  "string": "Овощной суп",
+  "form_id": "00D985FD|LvxMagick - Skyrim - Settlement Builder.esm",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "Placeable_Clutter_Food_FoodVegetableSoup_Act"
+ },
+ {
+  "original": "Vension Stew",
+  "string": "Тушеная оленина",
+  "form_id": "00D9D710|LvxMagick - Skyrim - Settlement Builder.esm",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "Placeable_Clutter_Food_FoodVenisonStew_Act"
+ },
+ {
+  "original": "Horker Stew",
+  "string": "Похлебка из хоркера",
+  "form_id": "00D9348B|LvxMagick - Skyrim - Settlement Builder.esm",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "Placeable_Clutter_Food_FoodHorkerStew_Act"
+ },
+ {
+  "original": "Horker Ash Yam Stew",
+  "string": "Рагу из хоркера и пепельного батата",
+  "form_id": "00D891DC|LvxMagick - Skyrim - Settlement Builder.esm",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "Placeable_Clutter_Food_DLC2FoodHorkerAshYamStew_Act"
+ },
+ {
+  "original": "Cabbage Soup",
+  "string": "Капустный суп",
+  "form_id": "00D93429|LvxMagick - Skyrim - Settlement Builder.esm",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "Placeable_Clutter_Food_FoodCabbageSoup_Act"
+ },
+ {
+  "original": "Pottery",
+  "string": "Керамика",
+  "form_id": "00BAC979|LvxMagick - Skyrim - Settlement Builder.esm",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "Placeable_PotteryBase08_VampireMe_Act"
+ },
+ {
+  "original": "Riverwood Trader",
+  "string": "Ривервудский торговец",
+  "form_id": "00709919|LvxMagick - Skyrim - Settlement Builder.esm",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "Placeable_wwwSign_RWTrader_Act"
+ },
+ {
+  "original": "Statue Dibella",
+  "string": "Статуя Дибеллы",
+  "form_id": "00B6ABAC|LvxMagick - Skyrim - Settlement Builder.esm",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "Placeable_StatueDibella_Static_Sovngarde_Act"
+ },
+ {
+  "original": "Adjust",
+  "string": "Регулировать",
+  "form_id": "00B6ABAC|LvxMagick - Skyrim - Settlement Builder.esm",
+  "type": "ACTI RNAM",
+  "index": null,
+  "editor_id": "Placeable_StatueDibella_Static_Sovngarde_Act"
+ },
+ {
+  "original": "Statue Dibella",
+  "string": "Статуя Дибеллы",
+  "form_id": "00B6ABAF|LvxMagick - Skyrim - Settlement Builder.esm",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "Placeable_StatueDibella_Static_PortalCave_Act"
+ },
+ {
+  "original": "Adjust",
+  "string": "Регулировать",
+  "form_id": "00B6ABAF|LvxMagick - Skyrim - Settlement Builder.esm",
+  "type": "ACTI RNAM",
+  "index": null,
+  "editor_id": "Placeable_StatueDibella_Static_PortalCave_Act"
+ },
+ {
+  "original": "Statue Dibella",
+  "string": "Статуя Дибеллы",
+  "form_id": "00B6ABB5|LvxMagick - Skyrim - Settlement Builder.esm",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "Placeable_StatueDibella_Static_Chrome_Act"
+ },
+ {
+  "original": "Adjust",
+  "string": "Регулировать",
+  "form_id": "00B6ABB5|LvxMagick - Skyrim - Settlement Builder.esm",
+  "type": "ACTI RNAM",
+  "index": null,
+  "editor_id": "Placeable_StatueDibella_Static_Chrome_Act"
+ },
+ {
+  "original": "Statue Dibella",
+  "string": "Статуя Дибеллы",
+  "form_id": "00B6ABB9|LvxMagick - Skyrim - Settlement Builder.esm",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "Placeable_StatueDibella_Static_PortalValley_Act"
+ },
+ {
+  "original": "Adjust",
+  "string": "Регулировать",
+  "form_id": "00B6ABB9|LvxMagick - Skyrim - Settlement Builder.esm",
+  "type": "ACTI RNAM",
+  "index": null,
+  "editor_id": "Placeable_StatueDibella_Static_PortalValley_Act"
+ },
+ {
+  "original": "Gargoyle Statue - Mud Gardian",
+  "string": "Статуя гаргульи - грязевой страж",
+  "form_id": "0076EF08|LvxMagick - Skyrim - Settlement Builder.esm",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "Placeable_Statue_Gargoyle02_Act"
+ },
+ {
+  "original": "Gargoyle Statue - Chrome Goyle",
+  "string": "Статуя гаргульи - хромированная гаргулья",
+  "form_id": "007D95F7|LvxMagick - Skyrim - Settlement Builder.esm",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "Placeable_Statue_Gargoyle_Custom_Crome_Act"
+ },
+ {
+  "original": "Gargoyle Statue - Black Blood",
+  "string": "Статуя гаргульи - черная кровь",
+  "form_id": "00848E1A|LvxMagick - Skyrim - Settlement Builder.esm",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "Placeable_Statue_Gargoyle03_Custom_BlackBlood_Act"
+ },
+ {
+  "original": "Gargoyle Statue - Blood",
+  "string": "Статуя гаргульи - кровь",
+  "form_id": "00848E20|LvxMagick - Skyrim - Settlement Builder.esm",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "Placeable_Statue_Gargoyle_Custom_Blood_Act"
+ },
+ {
+  "original": "Gargoyle Statue - Gold",
+  "string": "Статуя гаргульи - золото",
+  "form_id": "00848E2E|LvxMagick - Skyrim - Settlement Builder.esm",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "Placeable_Statue_Gargoyle_Custom_Gold_Act"
+ },
+ {
+  "original": "Gargoyle Statue - Soul Gem",
+  "string": "Статуя гаргульи - камень душ",
+  "form_id": "00848E3A|LvxMagick - Skyrim - Settlement Builder.esm",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "Placeable_Statue_Gargoyle_Custom_SoulGem_Act"
+ },
+ {
+  "original": "Gargoyle Statue - Veins",
+  "string": "Статуя гаргульи - прожилки",
+  "form_id": "00848E41|LvxMagick - Skyrim - Settlement Builder.esm",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "Placeable_Statue_Gargoyle_Custom_Vein_Act"
+ },
+ {
+  "original": "Gargoyle Statue - Sovengarde",
+  "string": "Статуя гаргульи - Совнгард",
+  "form_id": "0088FD71|LvxMagick - Skyrim - Settlement Builder.esm",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "Placeable_Statue_Gargoyle_Custom_SOVSky_Act"
+ },
+ {
+  "original": "Gargoyle Statue - Troll Goyle",
+  "string": "Статуя гаргульи - тролль",
+  "form_id": "00843D13|LvxMagick - Skyrim - Settlement Builder.esm",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "Placeable_Statue_Gargoyle_Custom_Troll_Act"
+ },
+ {
+  "original": "Gargoyle Statue - Wood Goyle",
+  "string": "Статуя гаргульи - деревянная гаргулья",
+  "form_id": "00848E25|LvxMagick - Skyrim - Settlement Builder.esm",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "Placeable_Statue_Gargoyle_Custom_WRWood_Act"
+ },
+ {
+  "original": "Platform",
+  "string": "Платформа",
+  "form_id": "0076EEE9|LvxMagick - Skyrim - Settlement Builder.esm",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "Placeable_sc_mausoleumplatformarch01_Gray_Act"
+ },
+ {
+  "original": "Ebony Ore Vein",
+  "string": "Эбонитовая жила",
+  "form_id": "0010640C|Midwood Isle.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "MineOreEbony01Rocks01"
+ },
+ {
+  "original": "Mine",
+  "string": "Добывать:",
+  "form_id": "0010640C|Midwood Isle.esp",
+  "type": "ACTI RNAM",
+  "index": null,
+  "editor_id": "MineOreEbony01Rocks01"
+ },
+ {
+  "original": "Gold Ore Vein",
+  "string": "Золотая жила",
+  "form_id": "0010DB5C|Skyrim.esm",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "MineOreGold02_CaveGWall"
+ },
+ {
+  "original": "Mine",
+  "string": "Добывать:",
+  "form_id": "0010DB5C|Skyrim.esm",
+  "type": "ACTI RNAM",
+  "index": null,
+  "editor_id": "MineOreGold02_CaveGWall"
+ },
+ {
+  "original": "Gold Ore Vein",
+  "string": "Золотая жила",
+  "form_id": "0010DC67|Skyrim.esm",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "MineOreGold02_CaveIWall"
+ },
+ {
+  "original": "Mine",
+  "string": "Добывать:",
+  "form_id": "0010DC67|Skyrim.esm",
+  "type": "ACTI RNAM",
+  "index": null,
+  "editor_id": "MineOreGold02_CaveIWall"
+ },
+ {
+  "original": "Gold Ore Vein",
+  "string": "Золотая жила",
+  "form_id": "0010DC94|Skyrim.esm",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "MineOreGold02_CaveIDirt"
+ },
+ {
+  "original": "Mine",
+  "string": "Добывать:",
+  "form_id": "0010DC94|Skyrim.esm",
+  "type": "ACTI RNAM",
+  "index": null,
+  "editor_id": "MineOreGold02_CaveIDirt"
+ },
+ {
+  "original": "Moonstone Ore Vein",
+  "string": "Выход лунного камня",
+  "form_id": "0010DB63|Skyrim.esm",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "MineOreMoonstone02_CaveGWall"
+ },
+ {
+  "original": "Mine",
+  "string": "Добывать:",
+  "form_id": "0010DB63|Skyrim.esm",
+  "type": "ACTI RNAM",
+  "index": null,
+  "editor_id": "MineOreMoonstone02_CaveGWall"
+ },
+ {
+  "original": "Moonstone Ore Vein",
+  "string": "Выход лунного камня",
+  "form_id": "0010DC6F|Skyrim.esm",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "MineOreMoonstone02_CaveIWall"
+ },
+ {
+  "original": "Mine",
+  "string": "Добывать:",
+  "form_id": "0010DC6F|Skyrim.esm",
+  "type": "ACTI RNAM",
+  "index": null,
+  "editor_id": "MineOreMoonstone02_CaveIWall"
+ },
+ {
+  "original": "Moonstone Ore Vein",
+  "string": "Выход лунного камня",
+  "form_id": "0010DC8C|Skyrim.esm",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "MineOreMoonstone02_CaveIDirt"
+ },
+ {
+  "original": "Mine",
+  "string": "Добывать:",
+  "form_id": "0010DC8C|Skyrim.esm",
+  "type": "ACTI RNAM",
+  "index": null,
+  "editor_id": "MineOreMoonstone02_CaveIDirt"
+ },
+ {
+  "original": "Orichalcum Ore Vein",
+  "string": "Выход орихалка",
+  "form_id": "0010DB67|Skyrim.esm",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "MineOreOrichalcum02_CaveGWall"
+ },
+ {
+  "original": "Mine",
+  "string": "Добывать:",
+  "form_id": "0010DB67|Skyrim.esm",
+  "type": "ACTI RNAM",
+  "index": null,
+  "editor_id": "MineOreOrichalcum02_CaveGWall"
+ },
+ {
+  "original": "Orichalcum Ore Vein",
+  "string": "Выход орихалка",
+  "form_id": "0010DC73|Skyrim.esm",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "MineOreOrichalcum02_CaveIWall"
+ },
+ {
+  "original": "Mine",
+  "string": "Добывать:",
+  "form_id": "0010DC73|Skyrim.esm",
+  "type": "ACTI RNAM",
+  "index": null,
+  "editor_id": "MineOreOrichalcum02_CaveIWall"
+ },
+ {
+  "original": "Orichalcum Ore Vein",
+  "string": "Выход орихалка",
+  "form_id": "0010DC88|Skyrim.esm",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "MineOreOrichalcum02_CaveIDirt"
+ },
+ {
+  "original": "Mine",
+  "string": "Добывать:",
+  "form_id": "0010DC88|Skyrim.esm",
+  "type": "ACTI RNAM",
+  "index": null,
+  "editor_id": "MineOreOrichalcum02_CaveIDirt"
+ },
+ {
+  "original": "Quicksilver Ore Vein",
+  "string": "Ртутная жила",
+  "form_id": "0010DB6B|Skyrim.esm",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "MineOreQuicksilver02_CaveGWall"
+ },
+ {
+  "original": "Mine",
+  "string": "Добывать:",
+  "form_id": "0010DB6B|Skyrim.esm",
+  "type": "ACTI RNAM",
+  "index": null,
+  "editor_id": "MineOreQuicksilver02_CaveGWall"
+ },
+ {
+  "original": "Quicksilver Ore Vein",
+  "string": "Ртутная жила",
+  "form_id": "0010DC77|Skyrim.esm",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "MineOreQuicksilver02_CaveIWall"
+ },
+ {
+  "original": "Mine",
+  "string": "Добывать:",
+  "form_id": "0010DC77|Skyrim.esm",
+  "type": "ACTI RNAM",
+  "index": null,
+  "editor_id": "MineOreQuicksilver02_CaveIWall"
+ },
+ {
+  "original": "Quicksilver Ore Vein",
+  "string": "Ртутная жила",
+  "form_id": "0010DC84|Skyrim.esm",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "MineOreQuicksilver02_CaveIDirt"
+ },
+ {
+  "original": "Mine",
+  "string": "Добывать:",
+  "form_id": "0010DC84|Skyrim.esm",
+  "type": "ACTI RNAM",
+  "index": null,
+  "editor_id": "MineOreQuicksilver02_CaveIDirt"
+ },
+ {
+  "original": "Silver Ore Vein",
+  "string": "Серебряная жила",
+  "form_id": "0010DB6F|Skyrim.esm",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "MineOreSilver02_CaveGWall"
+ },
+ {
+  "original": "Mine",
+  "string": "Добывать:",
+  "form_id": "0010DB6F|Skyrim.esm",
+  "type": "ACTI RNAM",
+  "index": null,
+  "editor_id": "MineOreSilver02_CaveGWall"
+ },
+ {
+  "original": "Silver Ore Vein",
+  "string": "Серебряная жила",
+  "form_id": "0010DC7B|Skyrim.esm",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "MineOreSilver02_CaveIWall"
+ },
+ {
+  "original": "Mine",
+  "string": "Добывать:",
+  "form_id": "0010DC7B|Skyrim.esm",
+  "type": "ACTI RNAM",
+  "index": null,
+  "editor_id": "MineOreSilver02_CaveIWall"
+ },
+ {
+  "original": "Silver Ore Vein",
+  "string": "Серебряная жила",
+  "form_id": "0010DC80|Skyrim.esm",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "MineOreSilver02_CaveIDirt"
+ },
+ {
+  "original": "Mine",
+  "string": "Добывать:",
+  "form_id": "0010DC80|Skyrim.esm",
+  "type": "ACTI RNAM",
+  "index": null,
+  "editor_id": "MineOreSilver02_CaveIDirt"
+ },
+ {
+  "original": "Iron Ore Vein",
+  "string": "Железорудная жила",
+  "form_id": "0010D130|Skyrim.esm",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "MineOreIron01_CaveGWall"
+ },
+ {
+  "original": "Mine",
+  "string": "Добывать:",
+  "form_id": "0010D130|Skyrim.esm",
+  "type": "ACTI RNAM",
+  "index": null,
+  "editor_id": "MineOreIron01_CaveGWall"
+ },
+ {
+  "original": "Iron Ore Vein",
+  "string": "Железорудная жила",
+  "form_id": "0010DC6A|Skyrim.esm",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "MineOreIron01_CaveIWall"
+ },
+ {
+  "original": "Mine",
+  "string": "Добывать:",
+  "form_id": "0010DC6A|Skyrim.esm",
+  "type": "ACTI RNAM",
+  "index": null,
+  "editor_id": "MineOreIron01_CaveIWall"
+ },
+ {
+  "original": "Iron Ore Vein",
+  "string": "Железорудная жила",
+  "form_id": "0010DC91|Skyrim.esm",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "MineOreIron01_CaveIDirt"
+ },
+ {
+  "original": "Mine",
+  "string": "Добывать:",
+  "form_id": "0010DC91|Skyrim.esm",
+  "type": "ACTI RNAM",
+  "index": null,
+  "editor_id": "MineOreIron01_CaveIDirt"
+ },
+ {
+  "original": "Orichalcum Ore Vein",
+  "string": "Выход орихалка",
+  "form_id": "0010DB66|Skyrim.esm",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "MineOreOrichalcum01_CaveGWall"
+ },
+ {
+  "original": "Mine",
+  "string": "Добывать:",
+  "form_id": "0010DB66|Skyrim.esm",
+  "type": "ACTI RNAM",
+  "index": null,
+  "editor_id": "MineOreOrichalcum01_CaveGWall"
+ },
+ {
+  "original": "Orichalcum Ore Vein",
+  "string": "Выход орихалка",
+  "form_id": "0010DC72|Skyrim.esm",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "MineOreOrichalcum01_CaveIWall"
+ },
+ {
+  "original": "Mine",
+  "string": "Добывать:",
+  "form_id": "0010DC72|Skyrim.esm",
+  "type": "ACTI RNAM",
+  "index": null,
+  "editor_id": "MineOreOrichalcum01_CaveIWall"
+ },
+ {
+  "original": "Orichalcum Ore Vein",
+  "string": "Выход орихалка",
+  "form_id": "0010DC89|Skyrim.esm",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "MineOreOrichalcum01_CaveIDirt"
+ },
+ {
+  "original": "Mine",
+  "string": "Добывать:",
+  "form_id": "0010DC89|Skyrim.esm",
+  "type": "ACTI RNAM",
+  "index": null,
+  "editor_id": "MineOreOrichalcum01_CaveIDirt"
+ },
+ {
+  "original": "Moonstone Ore Vein",
+  "string": "Выход лунного камня",
+  "form_id": "0010DB62|Skyrim.esm",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "MineOreMoonstone01_CaveGWall"
+ },
+ {
+  "original": "Mine",
+  "string": "Добывать:",
+  "form_id": "0010DB62|Skyrim.esm",
+  "type": "ACTI RNAM",
+  "index": null,
+  "editor_id": "MineOreMoonstone01_CaveGWall"
+ },
+ {
+  "original": "Moonstone Ore Vein",
+  "string": "Выход лунного камня",
+  "form_id": "0010DC6E|Skyrim.esm",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "MineOreMoonstone01_CaveIWall"
+ },
+ {
+  "original": "Mine",
+  "string": "Добывать:",
+  "form_id": "0010DC6E|Skyrim.esm",
+  "type": "ACTI RNAM",
+  "index": null,
+  "editor_id": "MineOreMoonstone01_CaveIWall"
+ },
+ {
+  "original": "Moonstone Ore Vein",
+  "string": "Выход лунного камня",
+  "form_id": "0010DC8D|Skyrim.esm",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "MineOreMoonstone01_CaveIDirt"
+ },
+ {
+  "original": "Mine",
+  "string": "Добывать:",
+  "form_id": "0010DC8D|Skyrim.esm",
+  "type": "ACTI RNAM",
+  "index": null,
+  "editor_id": "MineOreMoonstone01_CaveIDirt"
+ },
+ {
+  "original": "Planter",
+  "string": "Цветочник",
+  "form_id": "00AF11AB|LvxMagick - Skyrim - Settlement Builder.esm",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "Placeable_BigPlanter04_Nord_Act"
+ },
+ {
+  "original": "Table",
+  "string": "Стол",
+  "form_id": "007ABBEF|LvxMagick - Skyrim - Settlement Builder.esm",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "Placeable_DweFurniture_Blood_Table01_Act"
+ },
+ {
+  "original": "Midwood Isle Guard's Armor",
+  "string": "Броня стражника острова Мидвуд",
+  "form_id": "0014451F|Midwood Isle.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "ArmorGuardCuirassMidwoodIsleYellow"
+ },
+ {
+  "original": "Midwood Isle Guard's Armor",
+  "string": "Броня стражника острова Мидвуд",
+  "form_id": "0003D07F|Midwood Isle.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "ArmorGuardCuirassMidwoodIsle"
+ },
+ {
+  "original": "Blacksmith's Apron",
+  "string": "Фартук кузнеца",
+  "form_id": "0000D564|DwemerSpectresLegendary.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "_DS_blacksmithNP"
+ },
+ {
+  "original": "Blacksmith's Apron",
+  "string": "Фартук кузнеца",
+  "form_id": "0006FF37|Skyrim.esm",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "ClothesBlackSmithVariant"
+ },
+ {
+  "original": "Mazken Warrior Ebony Shield",
+  "string": "Эбонитовый щит воина-мазкена",
+  "form_id": "000000EF|Mazken Warrior Armor.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "Aokili_MazkenWarrior_Ebony_Shield"
+ },
+ {
+  "original": "Mazken Warrior Steel Shield",
+  "string": "Стальной щит воина-мазкена",
+  "form_id": "000000F0|Mazken Warrior Armor.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "Aokili_MazkenWarrior_Steel_Shield"
+ },
+ {
+  "original": "Mazken Warrior Ebony Vambraces",
+  "string": "Эбонитовые наручи воина-мазкена",
+  "form_id": "00000105|Mazken Warrior Armor.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "Aokili_MazkenWarrior_Ebony_Vambraces"
+ },
+ {
+  "original": "Mazken Warrior Steel Vambraces",
+  "string": "Стальные наручи воина-мазкена",
+  "form_id": "00000107|Mazken Warrior Armor.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "Aokili_MazkenWarrior_Steel_Vambraces"
+ },
+ {
+  "original": "Maid Outfit Crimson",
+  "string": "Наряд горничной, багровый",
+  "form_id": "0000185A|Ryn's Snazzy Last Vigil.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "GM_MaidOutfitzzjayCRIMSON"
+ },
+ {
+  "original": "Reinforced Guard Shield",
+  "string": "Усиленный щит стражника",
+  "form_id": "00033231|VanillaPlusBosses.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "MoreBoss_Errantshield"
+ },
+ {
+  "original": "CenturionBoss",
+  "string": "CenturionBoss",
+  "form_id": "00000C35|ccBGSSSE008-Wraithguard.esl",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "ccBGSSE008_SkinCenturionBoss"
+ },
+ {
+  "original": "NPC Chronographer Boots",
+  "string": "Сапоги хронографа (NPC)",
+  "form_id": "003C3023|WheelsOfLull.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "_lull_chronoboots_NPC"
+ },
+ {
+  "original": "Fine Clothes",
+  "string": "Богатая одежда",
+  "form_id": "000F8715|Skyrim.esm",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "ClothesFineClothes02Variant"
+ },
+ {
+  "original": "Mara's Tear Gauntlets",
+  "string": "Перчатки Слезы Мары",
+  "form_id": "00092BC5|Olenveld.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "Olenbluthilgauntlets"
+ },
+ {
+  "original": "Mara's Tear Gauntlets",
+  "string": "Перчатки Слезы Мары",
+  "form_id": "00415BBD|Olenveld.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "OlenbluthilgauntletsS"
+ },
+ {
+  "original": "Haunting Spirit Hood",
+  "string": "Капюшон назойливого духа",
+  "form_id": "00000884|ccVSVSSE003-NecroArts.esl",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "ccVSVSSE003_HauntingSpiritHood"
+ },
+ {
+  "original": "Vagrant Boots of Sneaking",
+  "string": "Бродяжьи сапоги скрытности",
+  "form_id": "00000E51|ccBGSSSE001-Fish.esm",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "ccBGSSSE001_ClothesCollegeBootsVagrantSneak02"
+ },
+ {
+  "original": "Vagrant Boots of Minor Sneaking",
+  "string": "Бродяжьи сапоги малой скрытности",
+  "form_id": "0004D053|ccBGSSSE001-Fish.esm",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "ccBGSSSE001_ClothesCollegeBootsVagrantSneak01"
+ },
+ {
+  "original": "Vagrant Boots of Major Sneaking",
+  "string": "Бродяжьи сапоги настоящей скрытности",
+  "form_id": "0004D054|ccBGSSSE001-Fish.esm",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "ccBGSSSE001_ClothesCollegeBootsVagrantSneak03"
+ },
+ {
+  "original": "Vagrant Boots of Eminent Sneaking",
+  "string": "Бродяжьи сапоги истинной скрытности",
+  "form_id": "0004D055|ccBGSSSE001-Fish.esm",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "ccBGSSSE001_ClothesCollegeBootsVagrantSneak04"
+ },
+ {
+  "original": "Vagrant Boots of Extreme Sneaking",
+  "string": "Бродяжьи сапоги великой скрытности",
+  "form_id": "0004D056|ccBGSSSE001-Fish.esm",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "ccBGSSSE001_ClothesCollegeBootsVagrantSneak05"
+ },
+ {
+  "original": "Vagrant Boots of Peerless Sneaking",
+  "string": "Бродяжьи сапоги несравненной скрытности",
+  "form_id": "0004D057|ccBGSSSE001-Fish.esm",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "ccBGSSSE001_ClothesCollegeBootsVagrantSneak06"
+ },
+ {
+  "original": "Taron Dreth's Robes",
+  "string": "Одеяние Тарона Дрета",
+  "form_id": "00014C03|Dawnguard.esm",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "DLC1_WESC09TaronsRobes"
+ },
+ {
+  "original": "Master Robes",
+  "string": "Одеяние мастера",
+  "form_id": "0010D664|Skyrim.esm",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "TemplateClothesRobesMageMaster"
+ },
+ {
+  "original": "Master Robes of Alteration",
+  "string": "Одеяние мастера школы изменения",
+  "form_id": "0010D66F|Skyrim.esm",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "EnchClothesRobesMageAlteration05"
+ },
+ {
+  "original": "Master Robes of Conjuration",
+  "string": "Одеяние мастера школы колдовства",
+  "form_id": "0010D675|Skyrim.esm",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "EnchClothesRobesMageConjuration05"
+ },
+ {
+  "original": "Master Robes of Destruction",
+  "string": "Одеяние мастера школы разрушения",
+  "form_id": "0010D678|Skyrim.esm",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "EnchClothesRobesMageDestruction05"
+ },
+ {
+  "original": "Master Robes of Illusion",
+  "string": "Одеяние мастера школы иллюзии",
+  "form_id": "0010D67C|Skyrim.esm",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "EnchClothesRobesMageIllusion05"
+ },
+ {
+  "original": "Master Robes",
+  "string": "Одеяние мастера",
+  "form_id": "0010D680|Skyrim.esm",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "EnchClothesRobesMageRegen05"
+ },
+ {
+  "original": "Master Robes of Restoration",
+  "string": "Одеяние мастера школы восстановления",
+  "form_id": "0010D684|Skyrim.esm",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "EnchClothesRobesMageRestoration05"
+ },
+ {
+  "original": "College Robes",
+  "string": "Одеяние ученика Коллегии",
+  "form_id": "0010D6A5|Skyrim.esm",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "ClothesCollegeRobesCommonVariant1"
+ },
+ {
+  "original": "Mage Robes",
+  "string": "Одеяние мага",
+  "form_id": "00000826|ccBGSSSE014-SpellPack01.esl",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "ccBGSSSE014_ClothesRobesMasterBlackOrange"
+ },
+ {
+  "original": "Novice Robes of Destruction & Alteration",
+  "string": "Одеяние новичка школы разрушения и изменения",
+  "form_id": "00000827|ccBGSSSE014-SpellPack01.esl",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "ccBGSSSE014_ClothesRobesMasterBlackBlue_Ench01"
+ },
+ {
+  "original": "Apprentice Robes of Destruction & Alteration",
+  "string": "Одеяние ученика школы разрушения и изменения",
+  "form_id": "00000829|ccBGSSSE014-SpellPack01.esl",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "ccBGSSSE014_ClothesRobesMasterBlackBlue_Ench02"
+ },
+ {
+  "original": "Adept Robes of Destruction & Alteration",
+  "string": "Одеяние адепта школы разрушения и изменения",
+  "form_id": "0000082A|ccBGSSSE014-SpellPack01.esl",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "ccBGSSSE014_ClothesRobesMasterBlackBlue_Ench03"
+ },
+ {
+  "original": "Expert Robes of Destruction & Alteration",
+  "string": "Одеяние эксперта школы разрушения и изменения",
+  "form_id": "0000082B|ccBGSSSE014-SpellPack01.esl",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "ccBGSSSE014_ClothesRobesMasterBlackBlue_Ench04"
+ },
+ {
+  "original": "Master Robes of Destruction & Alteration",
+  "string": "Одеяние мастера школы разрушения и изменения",
+  "form_id": "0000082C|ccBGSSSE014-SpellPack01.esl",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "ccBGSSSE014_ClothesRobesMasterBlackBlue_Ench05"
+ },
+ {
+  "original": "Mage Robes",
+  "string": "Одеяние мага",
+  "form_id": "0000082D|ccBGSSSE014-SpellPack01.esl",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "ccBGSSSE014_ClothesRobesMasterBlackBlue"
+ },
+ {
+  "original": "Novice Robes of Conjuration & Illusion",
+  "string": "Одеяние новичка школы колдовства и иллюзии",
+  "form_id": "00000835|ccBGSSSE014-SpellPack01.esl",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "ccBGSSSE014_ClothesRobesMasterBlackOrange_Ench01"
+ },
+ {
+  "original": "Apprentice Robes of Conjuration & Illusion",
+  "string": "Одеяние ученика школы колдовства и иллюзии",
+  "form_id": "00000836|ccBGSSSE014-SpellPack01.esl",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "ccBGSSSE014_ClothesRobesMasterBlackOrange_Ench02"
+ },
+ {
+  "original": "Adept Robes of Conjuration & Illusion",
+  "string": "Одеяние адепта школы колдовства и иллюзии",
+  "form_id": "00000837|ccBGSSSE014-SpellPack01.esl",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "ccBGSSSE014_ClothesRobesMasterBlackOrange_Ench03"
+ },
+ {
+  "original": "Expert Robes of Conjuration & Illusion",
+  "string": "Одеяние эксперта школы колдовства и иллюзии",
+  "form_id": "00000838|ccBGSSSE014-SpellPack01.esl",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "ccBGSSSE014_ClothesRobesMasterBlackOrange_Ench04"
+ },
+ {
+  "original": "Master Robes of Conjuration & Illusion",
+  "string": "Одеяние мастера школы колдовства и иллюзии",
+  "form_id": "00000839|ccBGSSSE014-SpellPack01.esl",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "ccBGSSSE014_ClothesRobesMasterBlackOrange_Ench05"
+ },
+ {
+  "original": "Traveling Mage Hood Beryl with hair",
+  "string": "Капюшон странствующего мага, берилл, с волосами",
+  "form_id": "0000085A|Traveling Mage - My version by Xtudo.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "_Fuse00_HoodHairOutfitTMageClothingGreen"
+ },
+ {
+  "original": "Traveling Mage Armored Hood Beryl with hair",
+  "string": "Бронированный капюшон странствующего мага, берилл, с волосами",
+  "form_id": "0000085D|Traveling Mage - My version by Xtudo.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "_Fuse00_HoodHairOutfitTMageGreen"
+ },
+ {
+  "original": "Traveling Mage Hood Redwort with hair",
+  "string": "Капюшон странствующего мага, багрянец, с волосами",
+  "form_id": "00000866|Traveling Mage - My version by Xtudo.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "_Fuse00_HoodHairOutfitTMageClothingRed"
+ },
+ {
+  "original": "Traveling Mage Armored Hood Redwort with hair",
+  "string": "Бронированный капюшон странствующего мага, багрянец, с волосами",
+  "form_id": "00000869|Traveling Mage - My version by Xtudo.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "_Fuse00_HoodHairOutfitTMageRed"
+ },
+ {
+  "original": "Traveling Mage Hood Obsidian with hair",
+  "string": "Капюшон странствующего мага, обсидиан, с волосами",
+  "form_id": "00000872|Traveling Mage - My version by Xtudo.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "_Fuse00_HoodHairOutfitTMageClothingBlack"
+ },
+ {
+  "original": "Traveling Mage Armored Hood Obsidian with hair",
+  "string": "Бронированный капюшон странствующего мага, обсидиан, с волосами",
+  "form_id": "00000875|Traveling Mage - My version by Xtudo.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "_Fuse00_HoodHairOutfitTMageBlack"
+ },
+ {
+  "original": "Mazken Warrior Steel Helmet",
+  "string": "Стальной шлем воина-мазкена",
+  "form_id": "000000A3|Mazken Warrior Armor.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "Aokili_MazkenWarrior_Steel_Helmet"
+ },
+ {
+  "original": "Mazken Warrior Ebony Helmet",
+  "string": "Эбонитовый шлем воина-мазкена",
+  "form_id": "000000AC|Mazken Warrior Armor.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "Aokili_MazkenWarrior_Ebony_Helmet"
+ },
+ {
+  "original": "Vampire Armor of Destruction",
+  "string": "Вампирская броня разрушения",
+  "form_id": "00015CBA|Dawnguard.esm",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "DLC1EnchClothesVampireRobesDestruction02"
+ },
+ {
+  "original": "Vampire Armor of Extreme Destruction",
+  "string": "Вампирская броня великого разрушения",
+  "form_id": "00015CBD|Dawnguard.esm",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "DLC1EnchClothesVampireRobesDestruction05"
+ },
+ {
+  "original": "Vampire Armor of Conjuration",
+  "string": "Вампирская броня колдовства",
+  "form_id": "00015CC0|Dawnguard.esm",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "DLC1EnchClothesVampireRobesConjuration02"
+ },
+ {
+  "original": "Vampire Armor of Extreme Conjuration",
+  "string": "Вампирская броня великого колдовства",
+  "form_id": "00015CC3|Dawnguard.esm",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "DLC1EnchClothesVampireRobesConjuration05"
+ },
+ {
+  "original": "Vampire Armor of Recharging",
+  "string": "Вампирская броня перезарядки",
+  "form_id": "00015CC6|Dawnguard.esm",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "DLC1EnchClothesVampireRobesMagickaRate03"
+ },
+ {
+  "original": "Vampire Armor",
+  "string": "Вампирская броня",
+  "form_id": "000191F2|Dawnguard.esm",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "DLC1ArmorVampireArmorGrayLight"
+ },
+ {
+  "original": "Vampire Armor of Major Destruction",
+  "string": "Вампирская броня настоящего разрушения",
+  "form_id": "00015CBB|Dawnguard.esm",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "DLC1EnchClothesVampireRobesDestruction03"
+ },
+ {
+  "original": "Vampire Armor of Peerless Destruction",
+  "string": "Вампирская броня несравненного разрушения",
+  "form_id": "00015CBE|Dawnguard.esm",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "DLC1EnchClothesVampireRobesDestruction06"
+ },
+ {
+  "original": "Vampire Armor of Major Conjuration",
+  "string": "Вампирская броня настоящего колдовства",
+  "form_id": "00015CC1|Dawnguard.esm",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "DLC1EnchClothesVampireRobesConjuration03"
+ },
+ {
+  "original": "Vampire Armor of Peerless Conjuration",
+  "string": "Вампирская броня несравненного колдовства",
+  "form_id": "00015CC4|Dawnguard.esm",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "DLC1EnchClothesVampireRobesConjuration06"
+ },
+ {
+  "original": "Vampire Armor of Replenishing",
+  "string": "Вампирская броня пополнения",
+  "form_id": "00015CC7|Dawnguard.esm",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "DLC1EnchClothesVampireRobesMagickaRate04"
+ },
+ {
+  "original": "Vampire Armor",
+  "string": "Вампирская броня",
+  "form_id": "000191F3|Dawnguard.esm",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "DLC1ArmorVampireArmorRed"
+ },
+ {
+  "original": "Vampiric Heavy Armored Robes",
+  "string": "Вампирская тяжелая бронированная мантия",
+  "form_id": "00000EE4|Vampire Armor Expansion.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "0VCEVampireArmor01Heavy"
+ },
+ {
+  "original": "Vampiric Unarmored Robes",
+  "string": "Вампирская небронированная мантия",
+  "form_id": "00000EEE|Vampire Armor Expansion.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "0VCEVampireArmor01Unarmored"
+ },
+ {
+  "original": "NPC Chronographer Helmet",
+  "string": "Шлем хронографа (NPC)",
+  "form_id": "003EBCB4|WheelsOfLull.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "_lull_chronohelm_NPC"
+ },
+ {
+  "original": "Mazken Warrior Steel Pauldrons",
+  "string": "Стальные наплечники воина-мазкена",
+  "form_id": "000000A2|Mazken Warrior Armor.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "Aokili_MazkenWarrior_Steel_Pauldrons"
+ },
+ {
+  "original": "Mazken Warrior Ebony Pauldrons",
+  "string": "Эбонитовые наплечники воина-мазкена",
+  "form_id": "000000B7|Mazken Warrior Armor.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "Aokili_MazkenWarrior_Ebony_Pauldrons"
+ },
+ {
+  "original": "Penitus Oculatus Boots",
+  "string": "Сапоги Пенитус Окулатус",
+  "form_id": "000D3EA7|Skyrim.esm",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "ArmorPenitusBoots"
+ },
+ {
+  "original": "Morag Tong Hood",
+  "string": "Капюшон Мораг Тонг",
+  "form_id": "000292AE|Dragonborn.esm",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "DLC2MoragTongHood"
+ },
+ {
+  "original": "Vampire Robes",
+  "string": "Одеяние вампира",
+  "form_id": "00019ADF|Dawnguard.esm",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "DLC01ClothesVampire"
+ },
+ {
+  "original": "Clothes",
+  "string": "Одежда",
+  "form_id": "0006C1DA|Skyrim.esm",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "ClothesFarmClothesVariant03"
+ },
+ {
+  "original": "Clothes",
+  "string": "Одежда",
+  "form_id": "0006C1D9|Skyrim.esm",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "ClothesFarmClothesVariant02"
+ },
+ {
+  "original": "Mourner's Clothes",
+  "string": "Траурная одежда",
+  "form_id": "000646A7|Skyrim.esm",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "ClothesMournersClothes"
+ },
+ {
+  "original": "Mazken Warrior Ebony Cuisses",
+  "string": "Эбонитовые набедренники воина-мазкена",
+  "form_id": "00000102|Mazken Warrior Armor.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "Aokili_MazkenWarrior_Ebony_Tassets"
+ },
+ {
+  "original": "Mazken Warrior Steel Cuisses",
+  "string": "Стальные набедренники воина-мазкена",
+  "form_id": "00000104|Mazken Warrior Armor.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "Aokili_MazkenWarrior_Steel_Tassets"
+ },
+ {
+  "original": "Mazken Warrior Steel Gorget",
+  "string": "Стальной горжет воина-мазкена",
+  "form_id": "000000A0|Mazken Warrior Armor.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "Aokili_MazkenWarrior_Steel_Gorget"
+ },
+ {
+  "original": "Mazken Warrior Ebony Gorget",
+  "string": "Эбонитовый горжет воина-мазкена",
+  "form_id": "000000AE|Mazken Warrior Armor.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "Aokili_MazkenWarrior_Ebony_Gorget"
+ },
+ {
+  "original": "Mazken Warrior Steel Cuirass",
+  "string": "Стальная кираса воина-мазкена",
+  "form_id": "00000094|Mazken Warrior Armor.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "Aokili_MazkenWarrior_Steel_Cuirass"
+ },
+ {
+  "original": "Mazken Warrior Ebony Cuirass",
+  "string": "Эбонитовая кираса воина-мазкена",
+  "form_id": "000000B0|Mazken Warrior Armor.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "Aokili_MazkenWarrior_Ebony_Cuirass"
+ },
+ {
+  "original": "Mazken Warrior Steel Gauntlets",
+  "string": "Стальные перчатки воина-мазкена",
+  "form_id": "0000008F|Mazken Warrior Armor.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "Aokili_MazkenWarrior_Steel_Gauntlets"
+ },
+ {
+  "original": "Mazken Warrior Ebony Gauntlets",
+  "string": "Эбонитовые перчатки воина-мазкена",
+  "form_id": "000000B5|Mazken Warrior Armor.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "Aokili_MazkenWarrior_Ebony_Gauntlets"
+ },
+ {
+  "original": "Mazken Warrior Ebony Greaves",
+  "string": "Эбонитовые поножи воина-мазкена",
+  "form_id": "000000FF|Mazken Warrior Armor.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "Aokili_MazkenWarrior_Ebony_Greaves"
+ },
+ {
+  "original": "Mazken Warrior Steel Greaves",
+  "string": "Стальные поножи воина-мазкена",
+  "form_id": "00000101|Mazken Warrior Armor.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "Aokili_MazkenWarrior_Steel_Greaves"
+ },
+ {
+  "original": "Mazken Warrior Steel Skirt",
+  "string": "Стальная юбка воина-мазкена",
+  "form_id": "000000A1|Mazken Warrior Armor.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "Aokili_MazkenWarrior_Steel_Skirt"
+ },
+ {
+  "original": "Mazken Warrior Ebony Skirt",
+  "string": "Эбонитовая юбка воина-мазкена",
+  "form_id": "000000B6|Mazken Warrior Armor.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "Aokili_MazkenWarrior_Ebony_Skirt"
+ },
+ {
+  "original": "Mazken Warrior Steel Sabatons",
+  "string": "Стальные сабатоны воина-мазкена",
+  "form_id": "0000008E|Mazken Warrior Armor.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "Aokili_MazkenWarrior_Steel_Sabatons"
+ },
+ {
+  "original": "Mazken Warrior Ebony Sabatons",
+  "string": "Эбонитовые сабатоны воина-мазкена",
+  "form_id": "000000B8|Mazken Warrior Armor.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "Aokili_MazkenWarrior_Ebony_Sabatons"
+ },
+ {
+  "original": "Clothes",
+  "string": "Одежда",
+  "form_id": "0006C1D8|Skyrim.esm",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "ClothesFarmClothesVariant04"
+ },
+ {
+  "original": "Clavicus Vile's Helmet (No Plume)",
+  "string": "Шлем Клавикуса Вайла (без плюмажа)",
+  "form_id": "00000D6F|ArmorOfClavicus.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "ArmorClavicusHelmetAlt"
+ },
+ {
+  "original": "Test Cuirass",
+  "string": "Тестовая кираса",
+  "form_id": "0025CAA7|Midwood Isle.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "MidwoodIsleTestCuirass"
+ },
+ {
+  "original": "Adept Robes",
+  "string": "Одеяние адепта",
+  "form_id": "0010CEE3|Skyrim.esm",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "TemplateClothesRobesMageAdept"
+ },
+ {
+  "original": "Apprentice Robes",
+  "string": "Одеяние ученика",
+  "form_id": "0010CEE4|Skyrim.esm",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "TemplateClothesRobesMageApprentice"
+ },
+ {
+  "original": "Apprentice Robes of Alteration",
+  "string": "Одеяние ученика школы изменения",
+  "form_id": "0010D66C|Skyrim.esm",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "EnchClothesRobesMageAlteration02"
+ },
+ {
+  "original": "Adept Robes of Alteration",
+  "string": "Одеяние адепта школы изменения",
+  "form_id": "0010D66D|Skyrim.esm",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "EnchClothesRobesMageAlteration03"
+ },
+ {
+  "original": "Apprentice Robes of Destruction",
+  "string": "Одеяние ученика школы разрушения",
+  "form_id": "0010D670|Skyrim.esm",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "EnchClothesRobesMageDestruction02"
+ },
+ {
+  "original": "Apprentice Robes of Conjuration",
+  "string": "Одеяние ученика школы колдовства",
+  "form_id": "0010D672|Skyrim.esm",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "EnchClothesRobesMageConjuration02"
+ },
+ {
+  "original": "Adept Robes of Conjuration",
+  "string": "Одеяние адепта школы колдовства",
+  "form_id": "0010D673|Skyrim.esm",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "EnchClothesRobesMageConjuration03"
+ },
+ {
+  "original": "Adept Robes of Destruction",
+  "string": "Одеяние адепта школы разрушения",
+  "form_id": "0010D676|Skyrim.esm",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "EnchClothesRobesMageDestruction03"
+ },
+ {
+  "original": "Apprentice Robes of Illusion",
+  "string": "Одеяние ученика школы иллюзии",
+  "form_id": "0010D679|Skyrim.esm",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "EnchClothesRobesMageIllusion02"
+ },
+ {
+  "original": "Adept Robes of Illusion",
+  "string": "Одеяние адепта школы иллюзии",
+  "form_id": "0010D67A|Skyrim.esm",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "EnchClothesRobesMageIllusion03"
+ },
+ {
+  "original": "Apprentice Robes",
+  "string": "Одеяние ученика",
+  "form_id": "0010D67D|Skyrim.esm",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "EnchClothesRobesMageRegen02"
+ },
+ {
+  "original": "Adept Robes",
+  "string": "Одеяние адепта",
+  "form_id": "0010D67E|Skyrim.esm",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "EnchClothesRobesMageRegen03"
+ },
+ {
+  "original": "Apprentice Robes of Restoration",
+  "string": "Одеяние ученика школы восстановления",
+  "form_id": "0010D681|Skyrim.esm",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "EnchClothesRobesMageRestoration02"
+ },
+ {
+  "original": "Adept Robes of Restoration",
+  "string": "Одеяние адепта школы восстановления",
+  "form_id": "0010D682|Skyrim.esm",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "EnchClothesRobesMageRestoration03"
+ },
+ {
+  "original": "Mantled College Robes",
+  "string": "Мантия мага Коллегии",
+  "form_id": "0010D691|Skyrim.esm",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "ClothesCollegeRobesApprenticeVariant1"
+ },
+ {
+  "original": "Mantled College Robes",
+  "string": "Мантия мага Коллегии",
+  "form_id": "0010D6A4|Skyrim.esm",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "ClothesCollegeRobesApprenticeVariant2"
+ },
+ {
+  "original": "Morag Tong Boots",
+  "string": "Сапоги Мораг Тонг",
+  "form_id": "000292AB|Dragonborn.esm",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "DLC2MoragTongBoots"
+ },
+ {
+  "original": "Penitus Oculatus Armor",
+  "string": "Броня Пенитус Окулатус",
+  "form_id": "000D3EA0|Skyrim.esm",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "ArmorPenitusCuirass"
+ },
+ {
+  "original": "Wedding Dress",
+  "string": "Свадебный наряд",
+  "form_id": "00088956|Skyrim.esm",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "ClothesWeddingDress"
+ },
+ {
+  "original": "Fine Clothes",
+  "string": "Богатая одежда",
+  "form_id": "000F8713|Skyrim.esm",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "ClothesFineClothes01Variant"
+ },
+ {
+  "original": "Mara's Tear Boots",
+  "string": "Сапоги Слезы Мары",
+  "form_id": "00092BC4|Olenveld.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "Olenbluthilboots"
+ },
+ {
+  "original": "Mara's Tear Boots",
+  "string": "Сапоги Слезы Мары",
+  "form_id": "00415BBC|Olenveld.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "OlenbluthilbootsS"
+ },
+ {
+  "original": "Mara's Tear Cuirass",
+  "string": "Кираса Слезы Мары",
+  "form_id": "0008DA89|Olenveld.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "Olenbluthilnordplate"
+ },
+ {
+  "original": "Mara's Tear Cuirass",
+  "string": "Кираса Слезы Мары",
+  "form_id": "00415BBF|Olenveld.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "OlenbluthilnordplateS"
+ },
+ {
+  "original": "Mara's Tear Helmet",
+  "string": "Шлем Слезы Мары",
+  "form_id": "00092BC6|Olenveld.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "Olenbluthilhelm"
+ },
+ {
+  "original": "Mara's Tear Helmet Hood",
+  "string": "Шлем Слезы Мары с капюшоном",
+  "form_id": "0035A2E3|Olenveld.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "OlenbluthilhelmHooded"
+ },
+ {
+  "original": "Mithril Helmet",
+  "string": "Мифриловый шлем",
+  "form_id": "0035A2E6|Olenveld.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "ArmorOlenveldMithrilHelmetHoodedKnight"
+ },
+ {
+  "original": "Mara's Tear Helmet",
+  "string": "Шлем Слезы Мары",
+  "form_id": "00415BBE|Olenveld.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "OlenbluthilhelmS"
+ },
+ {
+  "original": "Mithril Helmet",
+  "string": "Мифриловый шлем",
+  "form_id": "00AE40F0|Olenveld.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "ArmorOlenveldMithrilHelmetHoodedKnightPlay"
+ },
+ {
+  "original": "Plated Leather Robes",
+  "string": "Кожаная мантия с пластинами",
+  "form_id": "00283D55|Midwood Isle.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "MidwoodIsleLeatherCuirass2"
+ },
+ {
+  "original": "Plated Leather Robes",
+  "string": "Кожаная мантия с пластинами",
+  "form_id": "00283D56|Midwood Isle.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "MidwoodIsleLeatherCuirass3"
+ },
+ {
+  "original": "Telani's Armor",
+  "string": "Броня Телани",
+  "form_id": "0037909B|Midwood Isle.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "MidwoodIsleTelanisArmor"
+ },
+ {
+  "original": "Increase your Magicka and Stamina by <15> per piece of Telani's armor worn.",
+  "string": "Каждая надетая часть брони Телани увеличивает запас магии и сил на <15>.",
+  "form_id": "0037909B|Midwood Isle.esp",
+  "type": "ARMO DESC",
+  "index": null,
+  "editor_id": "MidwoodIsleTelanisArmor"
+ },
+ {
+  "original": "Vampire Royal Armor",
+  "string": "Вампирская королевская броня",
+  "form_id": "000194C5|Dawnguard.esm",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "DLC1ArmorVampireArmorValerica"
+ },
+ {
+  "original": "Morag Tong Armor",
+  "string": "Броня Мораг Тонг",
+  "form_id": "000292AC|Dragonborn.esm",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "DLC2MoragTongCuirass"
+ },
+ {
+  "original": "Mourner's Hat",
+  "string": "Траурный головной убор",
+  "form_id": "000646AB|Skyrim.esm",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "ClothesMournerHat"
+ },
+ {
+  "original": "Seafearer's Hat",
+  "string": "Шляпа мореплавателя",
+  "form_id": "00029021|VanillaPlusBosses.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "MoreBoss_PirateHat"
+ },
+ {
+  "original": "Vampire Boots",
+  "string": "Вампирские сапоги",
+  "form_id": "00019AE1|Dawnguard.esm",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "DlC01ClothesVampireBoots"
+ },
+ {
+  "original": "Vampire Gloves",
+  "string": "Вампирские перчатки",
+  "form_id": "00019AE3|Dawnguard.esm",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "DLC01ClothesVampireGloves"
+ },
+ {
+  "original": "Dark Leather Gloves",
+  "string": "Темные кожаные перчатки",
+  "form_id": "00000AA7|JK's Arnleif and Sons Trading Company.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "XJKSTCDarkGloves"
+ },
+ {
+  "original": "Dark Leather Gloves",
+  "string": "Темные кожаные перчатки",
+  "form_id": "00000A52|JK's Radiant Raiment.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "XJKRadDLC01ClothesVampireGloves"
+ },
+ {
+  "original": "Mithril Chain Hood",
+  "string": "Мифриловый кольчужный капюшон",
+  "form_id": "00343979|Olenveld.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "ArmorOlenveldMithrilHelmet"
+ },
+ {
+  "original": "Mage Hood",
+  "string": "Капюшон мага",
+  "form_id": "0010D6A6|Skyrim.esm",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "ClothesCollegeHoodVariant1"
+ },
+ {
+  "original": "Mage Hood",
+  "string": "Капюшон мага",
+  "form_id": "0010D6A7|Skyrim.esm",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "ClothesCollegeHoodVariant2"
+ },
+ {
+  "original": "Apprentice Hood",
+  "string": "Капюшон ученика",
+  "form_id": "0010DD3B|Skyrim.esm",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "EnchClothesRobesMageHoodApprentice"
+ },
+ {
+  "original": "Adept Hood",
+  "string": "Капюшон адепта",
+  "form_id": "0010DD3C|Skyrim.esm",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "EnchClothesRobesMageHoodAdept"
+ },
+ {
+  "original": "Mithril Chain Hood",
+  "string": "Мифриловый кольчужный капюшон",
+  "form_id": "00AE40ED|Olenveld.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "ArmorOlenveldMithrilHelmetPlay"
+ },
+ {
+  "original": "Miner's Clothes",
+  "string": "Шахтерская одежда",
+  "form_id": "0006FF43|Skyrim.esm",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "ClothesMinerClothesVariant"
+ },
+ {
+  "original": "Clothes",
+  "string": "Одежда",
+  "form_id": "000F1229|Skyrim.esm",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "ClothesGuardSleep"
+ },
+ {
+  "original": "Old Miner Clothes",
+  "string": "Старая одежда шахтера",
+  "form_id": "001A0F61|VanillaPlusBosses.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "moreboss_minerclothes"
+ },
+ {
+  "original": "Redguard Hood",
+  "string": "Редгардский капюшон",
+  "form_id": "00000DA0|ccBGSSSE021-LordsMail.esl",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "ccBGSSSE021_RedguardHoodRed"
+ },
+ {
+  "original": "Redguard Hood",
+  "string": "Редгардский капюшон",
+  "form_id": "0000082F|ccBGSSSE021-LordsMail.esl",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "ccBGSSSE021_RedguardHoodGreen"
+ },
+ {
+  "original": "Redguard Hood",
+  "string": "Редгардский капюшон",
+  "form_id": "00000830|ccBGSSSE021-LordsMail.esl",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "ccBGSSSE021_RedguardHoodTan"
+ },
+ {
+  "original": "Redguard Clothes",
+  "string": "Редгардская одежда",
+  "form_id": "000E0DD0|Skyrim.esm",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "DBClothesRedguardClothes"
+ },
+ {
+  "original": "Redguard Clothes",
+  "string": "Редгардская одежда",
+  "form_id": "0000082D|ccBGSSSE021-LordsMail.esl",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "ccBGSSSE021_RedguardClothesGreen"
+ },
+ {
+  "original": "Redguard Clothes",
+  "string": "Редгардская одежда",
+  "form_id": "0000082E|ccBGSSSE021-LordsMail.esl",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "ccBGSSSE021_RedguardClothesTan"
+ },
+ {
+  "original": "Worshipper Robes",
+  "string": "Мантия поклонника",
+  "form_id": "000459A2|Midwood Isle.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "ClothesWorshipperRobesMidwoodIsle"
+ },
+ {
+  "original": "Green Robes",
+  "string": "Зеленое одеяние",
+  "form_id": "0019D556|Midwood Isle.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "ClothesMonkRobesColorGreenUnplayableMidwoodIsle"
+ },
+ {
+  "original": "Drakus' Robes",
+  "string": "Мантия Дракуса",
+  "form_id": "001BE410|Midwood Isle.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "ClothesDrakusRobesMidwoodIsle"
+ },
+ {
+  "original": "Increases Magicka by <50> points and Spell Absorption by <15>%.",
+  "string": "Увеличивает запас магии на <50> ед., а поглощение заклинаний - на <15>%.",
+  "form_id": "001BE410|Midwood Isle.esp",
+  "type": "ARMO DESC",
+  "index": null,
+  "editor_id": "ClothesDrakusRobesMidwoodIsle"
+ },
+ {
+  "original": "Worshipper Robes",
+  "string": "Мантия поклонника",
+  "form_id": "0020C312|Midwood Isle.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "ClothesWorshipperRobesMidwoodIsleUnplayable"
+ },
+ {
+  "original": "Worshipper Robes",
+  "string": "Мантия поклонника",
+  "form_id": "0040310C|Midwood Isle.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "ClothesWorshipperRobesMidwoodIsleUnplayableNoHood"
+ },
+ {
+  "original": "Brown Robes",
+  "string": "Коричневое одеяние",
+  "form_id": "0010CFEF|Skyrim.esm",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "ClothesMonkRobesColorBrown"
+ },
+ {
+  "original": "Green Robes",
+  "string": "Зеленое одеяние",
+  "form_id": "0010CFF0|Skyrim.esm",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "ClothesMonkRobesColorGreen"
+ },
+ {
+  "original": "Grey Robes",
+  "string": "Серое одеяние",
+  "form_id": "0010CFF1|Skyrim.esm",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "ClothesMonkRobesColorGrey"
+ },
+ {
+  "original": "Red Robes",
+  "string": "Красное одеяние",
+  "form_id": "0010CFF2|Skyrim.esm",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "ClothesMonkRobesColorRed"
+ },
+ {
+  "original": "Emperor's Robes",
+  "string": "Императорская мантия",
+  "form_id": "00015516|Skyrim.esm",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "ClothesEmperor"
+ },
+ {
+  "original": "Morag Tong Bracers",
+  "string": "Наручи Мораг Тонг",
+  "form_id": "000292AD|Dragonborn.esm",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "DLC2MoragTongGauntlets"
+ },
+ {
+  "original": "Dunmer Outfit",
+  "string": "Наряд данмера",
+  "form_id": "0003706B|Dragonborn.esm",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "DLC2DarkElfOutfitBlueNoHood"
+ },
+ {
+  "original": "Dunmer Outfit",
+  "string": "Наряд данмера",
+  "form_id": "0003706C|Dragonborn.esm",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "DLC2DarkElfOutfitRednoHood"
+ },
+ {
+  "original": "Traveling Mage Hood Beryl",
+  "string": "Капюшон странствующего мага, берилл",
+  "form_id": "00000858|Traveling Mage - My version by Xtudo.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "_Fuse00_HoodOutfitTMageClothingGreen"
+ },
+ {
+  "original": "Traveling Mage Armored Hood Beryl",
+  "string": "Бронированный капюшон странствующего мага, берилл",
+  "form_id": "0000085B|Traveling Mage - My version by Xtudo.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "_Fuse00_HoodOutfitTMageGreen"
+ },
+ {
+  "original": "Traveling Mage Hood Redwort",
+  "string": "Капюшон странствующего мага, багрянец",
+  "form_id": "00000864|Traveling Mage - My version by Xtudo.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "_Fuse00_HoodOutfitTMageClothingRed"
+ },
+ {
+  "original": "Traveling Mage Armored Hood Redwort",
+  "string": "Бронированный капюшон странствующего мага, багрянец",
+  "form_id": "00000867|Traveling Mage - My version by Xtudo.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "_Fuse00_HoodOutfitTMageRed"
+ },
+ {
+  "original": "Traveling Mage Hood Obsidian",
+  "string": "Капюшон странствующего мага, обсидиан",
+  "form_id": "00000870|Traveling Mage - My version by Xtudo.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "_Fuse00_HoodOutfitTMageClothingBlack"
+ },
+ {
+  "original": "Traveling Mage Armored Hood Obsidian",
+  "string": "Бронированный капюшон странствующего мага, обсидиан",
+  "form_id": "00000873|Traveling Mage - My version by Xtudo.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "_Fuse00_HoodOutfitTMageBlack"
+ },
+ {
+  "original": "Traveling Mage Armored Boots Obsidian",
+  "string": "Бронированные сапоги странствующего мага, обсидиан",
+  "form_id": "00000826|Traveling Mage - My version by Xtudo.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "Xtudo_Fuse00_BootsOutfitTMageBlack"
+ },
+ {
+  "original": "Traveling Mage Boots Obsidian",
+  "string": "Сапоги странствующего мага, обсидиан",
+  "form_id": "0000083B|Traveling Mage - My version by Xtudo.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "Xtudo_Fuse00_BootsOutfitTMageBlackClothing"
+ },
+ {
+  "original": "Traveling Mage Armored Gauntlets Obsidian",
+  "string": "Бронированные перчатки странствующего мага, обсидиан",
+  "form_id": "00000824|Traveling Mage - My version by Xtudo.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "Xtudo_Fuse00_ArmsOutfitTMageBlack"
+ },
+ {
+  "original": "Traveling Mage Gauntlets Obsidian",
+  "string": "Перчатки странствующего мага, обсидиан",
+  "form_id": "0000083A|Traveling Mage - My version by Xtudo.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "Xtudo_Fuse00_ArmsOutfitTMageBlackClothing"
+ },
+ {
+  "original": "Traveling Mage Hood Beryl lowered down",
+  "string": "Капюшон странствующего мага, берилл, опущенный",
+  "form_id": "00000859|Traveling Mage - My version by Xtudo.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "_Fuse00_HoodDownOutfitTMageClothingGreen"
+ },
+ {
+  "original": "Traveling Mage Armored Hood Beryl lowered down",
+  "string": "Бронированный капюшон странствующего мага, берилл, опущенный",
+  "form_id": "0000085C|Traveling Mage - My version by Xtudo.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "_Fuse00_HoodDownOutfitTMageGreen"
+ },
+ {
+  "original": "Traveling Mage Hood Redwort lowered down",
+  "string": "Капюшон странствующего мага, багрянец, опущенный",
+  "form_id": "00000865|Traveling Mage - My version by Xtudo.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "_Fuse00_HoodDownOutfitTMageClothingRed"
+ },
+ {
+  "original": "Traveling Mage Armored Hood Redwort lowered down",
+  "string": "Бронированный капюшон странствующего мага, багрянец, опущенный",
+  "form_id": "00000868|Traveling Mage - My version by Xtudo.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "_Fuse00_HoodDownOutfitTMageRed"
+ },
+ {
+  "original": "Traveling Mage Hood Obsidian lowered down",
+  "string": "Капюшон странствующего мага, обсидиан, опущенный",
+  "form_id": "00000871|Traveling Mage - My version by Xtudo.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "_Fuse00_HoodDownOutfitTMageClothingBlack"
+ },
+ {
+  "original": "Traveling Mage Armored Hood Obsidian lowered down",
+  "string": "Бронированный капюшон странствующего мага, обсидиан, опущенный",
+  "form_id": "00000874|Traveling Mage - My version by Xtudo.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "_Fuse00_HoodDownOutfitTMageBlack"
+ },
+ {
+  "original": "Traveling Mage Armored Outfit Beryl",
+  "string": "Бронированный наряд странствующего мага, берилл",
+  "form_id": "00000818|Traveling Mage - My version by Xtudo.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "Xtudo_Fuse00_ArmorOutfitTMageGreen"
+ },
+ {
+  "original": "Traveling Mage Armored Outfit Redwort",
+  "string": "Бронированный наряд странствующего мага, багрянец",
+  "form_id": "0000081D|Traveling Mage - My version by Xtudo.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "Xtudo_Fuse00_ArmorOutfitTMageRed"
+ },
+ {
+  "original": "Traveling Mage Outfit Beryl",
+  "string": "Наряд странствующего мага, берилл",
+  "form_id": "00000837|Traveling Mage - My version by Xtudo.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "Xtudo_Fuse00_ArmorOutfitTMageGreenClothing"
+ },
+ {
+  "original": "Traveling Mage Outfit Redwort",
+  "string": "Наряд странствующего мага, багрянец",
+  "form_id": "00000838|Traveling Mage - My version by Xtudo.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "Xtudo_Fuse00_ArmorOutfitTMageRedClothing"
+ },
+ {
+  "original": "Traveling Mage Armored Outfit Obsidian",
+  "string": "Бронированный наряд странствующего мага, обсидиан",
+  "form_id": "00000820|Traveling Mage - My version by Xtudo.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "Xtudo_Fuse00_ArmorOutfitTMageBlack"
+ },
+ {
+  "original": "Traveling Mage Outfit Obsidian",
+  "string": "Наряд странствующего мага, обсидиан",
+  "form_id": "00000839|Traveling Mage - My version by Xtudo.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "Xtudo_Fuse00_ArmorOutfitTMageBlackClothing"
+ },
+ {
+  "original": "Roaming Girl's Outfit Patchwork",
+  "string": "Наряд странницы, лоскутный",
+  "form_id": "00000815|Roaming Girl's Attire.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "RGAtorsoPatchwork"
+ },
+ {
+  "original": "Roaming Girl's Outfit Fur",
+  "string": "Наряд странницы, меховой",
+  "form_id": "00000816|Roaming Girl's Attire.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "RGAtorsoFur"
+ },
+ {
+  "original": "Roaming Girl's Outfit Mottled",
+  "string": "Наряд странницы, пятнистый",
+  "form_id": "00000817|Roaming Girl's Attire.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "RGAtorsoMottled"
+ },
+ {
+  "original": "End Table",
+  "string": "Тумбочка",
+  "form_id": "00000878|ccVSVSSE004-BeAFarmer.esl",
+  "type": "CONT FULL",
+  "index": null,
+  "editor_id": "ccVSVSSE004_CONT_CommonEndTableLong"
+ },
+ {
+  "original": "Specimen Cabinet - Poisons",
+  "string": "Шкаф для образцов - яды",
+  "form_id": "00000829|ClockworkSuperiorSorting.esp",
+  "type": "CONT FULL",
+  "index": null,
+  "editor_id": "CLWASpecimenCabinetPoisons"
+ },
+ {
+  "original": "Urn",
+  "string": "Урна",
+  "form_id": "0000098A|ccEEJSSE002-Tower.esl",
+  "type": "CONT FULL",
+  "index": null,
+  "editor_id": "ccEEJSSE002_UrnSilver"
+ },
+ {
+  "original": "Small Urn",
+  "string": "Маленькая урна",
+  "form_id": "000008F5|ccEEJSSE003-Hollow.esl",
+  "type": "CONT FULL",
+  "index": null,
+  "editor_id": "ccEEJSSE003_SmallUrn2"
+ },
+ {
+  "original": "Test Items",
+  "string": "Тестовые предметы",
+  "form_id": "00000851|ccEEJSSE003-Hollow.esl",
+  "type": "CONT FULL",
+  "index": null,
+  "editor_id": "ccEEJSSE003_TestItems"
+ },
+ {
+  "original": "Test Items",
+  "string": "Тестовые предметы",
+  "form_id": "00000851|ccEEJSSE004-Hall.esl",
+  "type": "CONT FULL",
+  "index": null,
+  "editor_id": "ccEEJSSE004_TestItems"
+ },
+ {
+  "original": "Small Urn",
+  "string": "Маленькая урна",
+  "form_id": "0000089E|ccEEJSSE003-Hollow.esl",
+  "type": "CONT FULL",
+  "index": null,
+  "editor_id": "ccEEJSSE003_SmallUrn"
+ },
+ {
+  "original": "Building Materials",
+  "string": "Строительные материалы",
+  "form_id": "000AD91F|ValtaraTower.esp",
+  "type": "CONT FULL",
+  "index": null,
+  "editor_id": "_SeTowerChest_BuildingMaterials"
+ },
+ {
+  "original": "Ingots and Ore",
+  "string": "Слитки и руда",
+  "form_id": "000AD924|ValtaraTower.esp",
+  "type": "CONT FULL",
+  "index": null,
+  "editor_id": "_SeTowerChest_IngotsAndOre"
+ },
+ {
+  "original": "Leather, Pelts and Parts",
+  "string": "Кожа, шкуры и части тел",
+  "form_id": "000AD928|ValtaraTower.esp",
+  "type": "CONT FULL",
+  "index": null,
+  "editor_id": "_SeTowerChest_Leather"
+ },
+ {
+  "original": "DEBUG: Ingots and Ore",
+  "string": "DEBUG: слитки и руда",
+  "form_id": "000F008C|ValtaraTower.esp",
+  "type": "CONT FULL",
+  "index": null,
+  "editor_id": "_SeTowerChest_DummyDisplayIngotsAndOre"
+ },
+ {
+  "original": "Felsaad Tern",
+  "string": "Фельсадская крачка",
+  "form_id": "00000F1D|ccASVSSE001-ALMSIVI.esm",
+  "type": "CONT FULL",
+  "index": null,
+  "editor_id": "ccASVSSE001_DLC2fcTernGO"
+ },
+ {
+  "original": "End Table",
+  "string": "Тумбочка",
+  "form_id": "0000081B|ccVSVSSE004-BeAFarmer.esl",
+  "type": "CONT FULL",
+  "index": null,
+  "editor_id": "ccVSVSSE004_CONT_FancyEndTable"
+ },
+ {
+  "original": "Urn",
+  "string": "Урна",
+  "form_id": "0006B652|ccEEJSSE005-Cave.esm",
+  "type": "CONT FULL",
+  "index": null,
+  "editor_id": "ccEEJSSE005_Urn"
+ },
+ {
+  "original": "Chest",
+  "string": "Сундук",
+  "form_id": "00000096|_ResourcePack.esl",
+  "type": "CONT FULL",
+  "index": null,
+  "editor_id": "RP_TreasBanditChestBossSand01"
+ },
+ {
+  "original": "Grave",
+  "string": "Могила",
+  "form_id": "00000811|ccEDHSSE002-SplKntSet.esl",
+  "type": "CONT FULL",
+  "index": null,
+  "editor_id": "ccEDHSSE002_MarkarthCoffin01container"
+ },
+ {
+  "original": "Wardrobe",
+  "string": "Шкаф",
+  "form_id": "00000877|ccVSVSSE004-BeAFarmer.esl",
+  "type": "CONT FULL",
+  "index": null,
+  "editor_id": "ccVSVSSE004_CONT_FancyWardrobe"
+ },
+ {
+  "original": "Chest",
+  "string": "Сундук",
+  "form_id": "00000093|_ResourcePack.esl",
+  "type": "CONT FULL",
+  "index": null,
+  "editor_id": "RP_TreasExplorerLootChestSand01"
+ },
+ {
+  "original": "False Wall",
+  "string": "Фальшивая стена",
+  "form_id": "00000AF7|JK's Elgrims Elixirs.esp",
+  "type": "DOOR FULL",
+  "index": null,
+  "editor_id": "XJKEElixRifRmSmSecretCabinetPanel01"
+ },
+ {
+  "original": "Ladder",
+  "string": "Лестница",
+  "form_id": "00000057|Snazzy Interiors - Darkwater Crossing Verner and Annekke's House.esp",
+  "type": "DOOR FULL",
+  "index": null,
+  "editor_id": "GM_RiftenRWHallLadderDoor01A"
+ },
+ {
+  "original": "Door",
+  "string": "Дверь",
+  "form_id": "0018D42E|ValtaraTower.esp",
+  "type": "DOOR FULL",
+  "index": null,
+  "editor_id": "_SERuinsDoor01"
+ },
+ {
+  "original": "Wooden Door",
+  "string": "Деревянная дверь",
+  "form_id": "007BF5FF|Jehanna.esp",
+  "type": "DOOR FULL",
+  "index": null,
+  "editor_id": "KirkmoreImpDoorExtHoleDoorLoad01"
+ },
+ {
+  "original": "Wood Gate",
+  "string": "Деревянные ворота",
+  "form_id": "0033F155|Jehanna.esp",
+  "type": "DOOR FULL",
+  "index": null,
+  "editor_id": "WRFenceStrGate02Door01"
+ },
+ {
+  "original": "Suspicious Rock",
+  "string": "Подозрительный камень",
+  "form_id": "0000021A|JK's Dark Brotherhood Sanctuary.esp",
+  "type": "DOOR FULL",
+  "index": null,
+  "editor_id": "XJKDBSMineSecretDoor01"
+ },
+ {
+  "original": "Door",
+  "string": "Дверь",
+  "form_id": "00000B61|JK's Castle Volkihar.esp",
+  "type": "DOOR FULL",
+  "index": null,
+  "editor_id": "XJKCVRiftenRWDoorSpecial01"
+ },
+ {
+  "original": "Suspicious Wall",
+  "string": "Подозрительная стена",
+  "form_id": "00000B24|JK's New Gnisis Cornerclub.esp",
+  "type": "DOOR FULL",
+  "index": null,
+  "editor_id": "XJKGnisisSecretPanel01"
+ },
+ {
+  "original": "Sandcrab Chitin",
+  "string": "Хитин песчаного краба",
+  "form_id": "00260405|Jehanna.esp",
+  "type": "INGR FULL",
+  "index": null,
+  "editor_id": "KirkmoreMudcrabChitin"
+ },
+ {
+  "original": "Kirkmore Crown",
+  "string": "Киркморская корона",
+  "form_id": "00200793|Jehanna.esp",
+  "type": "INGR FULL",
+  "index": null,
+  "editor_id": "KirkmoreMushroom02"
+ },
+ {
+  "original": "Corrupted Human Heart",
+  "string": "Оскверненное человеческое сердце",
+  "form_id": "0000085B|ccEDHSSE002-SplKntSet.esl",
+  "type": "INGR FULL",
+  "index": null,
+  "editor_id": "ccEDHSSE002_CorruptedHumanHeart"
+ },
+ {
+  "original": "Daedra Venin",
+  "string": "Яд даэдра",
+  "form_id": "0000080B|ccBGSSSE037-Curios.esl",
+  "type": "INGR FULL",
+  "index": null,
+  "editor_id": "ccBGSSSE037_DaedraVenin"
+ },
+ {
+  "original": "Dragon Skull - Apocrypha Stone",
+  "string": "Череп дракона - камень Апокрифа",
+  "form_id": "007D95FD|LvxMagick - Skyrim - Settlement Builder.esm",
+  "type": "MISC FULL",
+  "index": null,
+  "editor_id": "Placeable_Dragon_Skull06_ApocStone_Misc"
+ },
+ {
+  "original": "Dragon Skull - Gold",
+  "string": "Череп дракона - золото",
+  "form_id": "008581A8|LvxMagick - Skyrim - Settlement Builder.esm",
+  "type": "MISC FULL",
+  "index": null,
+  "editor_id": "Placeable_Dragon_Skull07_Gold_Misc"
+ },
+ {
+  "original": "Soul Cairn - Platform - Block - 01",
+  "string": "Каирн Душ - платформа - блок - 01",
+  "form_id": "0076EED3|LvxMagick - Skyrim - Settlement Builder.esm",
+  "type": "MISC FULL",
+  "index": null,
+  "editor_id": "Placeable_sc_mausoleumPlatform01_Gray_Misc"
+ },
+ {
+  "original": "Bowl",
+  "string": "Миска",
+  "form_id": "00057020|ccEEJSSE005-Cave.esm",
+  "type": "MISC FULL",
+  "index": null,
+  "editor_id": "ccEEJSSE005_GlazedBowl01"
+ },
+ {
+  "original": "Pottery - Portal Green Vase",
+  "string": "Керамика - зеленая ваза портала",
+  "form_id": "007D95E9|LvxMagick - Skyrim - Settlement Builder.esm",
+  "type": "MISC FULL",
+  "index": null,
+  "editor_id": "Placeable_PotteryBase03_Custom_PortalCave_Misc"
+ },
+ {
+  "original": "Dragon Heartscales",
+  "string": "Чешуя с сердца дракона",
+  "form_id": "000D0756|Skyrim.esm",
+  "type": "MISC FULL",
+  "index": null,
+  "editor_id": "MGRDragonHeartScales"
+ },
+ {
+  "original": "Jug",
+  "string": "Кувшин",
+  "form_id": "00000818|ccEEJSSE001-Hstead.esm",
+  "type": "MISC FULL",
+  "index": null,
+  "editor_id": "EEJSSE001_MiscJug"
+ },
+ {
+  "original": "Jug",
+  "string": "Кувшин",
+  "form_id": "00000815|ccEEJSSE002-Tower.esl",
+  "type": "MISC FULL",
+  "index": null,
+  "editor_id": "ccEEJSSE002_NordJug"
+ },
+ {
+  "original": "Jug",
+  "string": "Кувшин",
+  "form_id": "000008EB|ccEEJSSE001-Hstead.esm",
+  "type": "MISC FULL",
+  "index": null,
+  "editor_id": "EEJSSE001_MiscJugDwemer"
+ },
+ {
+  "original": "Jug",
+  "string": "Кувшин",
+  "form_id": "00000812|ccEEJSSE002-Tower.esl",
+  "type": "MISC FULL",
+  "index": null,
+  "editor_id": "ccEEJSSE002_JugDwemer"
+ },
+ {
+  "original": "Planter - Glossed - Sovengarde",
+  "string": "Цветочник - глянцевый - Совнгард",
+  "form_id": "0088FD75|LvxMagick - Skyrim - Settlement Builder.esm",
+  "type": "MISC FULL",
+  "index": null,
+  "editor_id": "Placeable_SBigPlanter01_Sovengarde_Misc"
+ },
+ {
+  "original": "Limb",
+  "string": "Конечность",
+  "form_id": "00000826|DF - Official Humanoid Pack.esp",
+  "type": "MISC FULL",
+  "index": null,
+  "editor_id": "DF_Humanoid_Argonian_Male_FarmClothes01_Calf_L_Limb"
+ },
+ {
+  "original": "Limb",
+  "string": "Конечность",
+  "form_id": "00000866|DF - Official Humanoid Pack.esp",
+  "type": "MISC FULL",
+  "index": null,
+  "editor_id": "DF_Humanoid_Khajiit_Male_FarmClothes01_Calf_L_Limb"
+ },
+ {
+  "original": "Limb",
+  "string": "Конечность",
+  "form_id": "00000827|DF - Official Humanoid Pack.esp",
+  "type": "MISC FULL",
+  "index": null,
+  "editor_id": "DF_Humanoid_Argonian_Male_FarmClothes01_Calf_R_Limb"
+ },
+ {
+  "original": "Limb",
+  "string": "Конечность",
+  "form_id": "00000867|DF - Official Humanoid Pack.esp",
+  "type": "MISC FULL",
+  "index": null,
+  "editor_id": "DF_Humanoid_Khajiit_Male_FarmClothes01_Calf_R_Limb"
+ },
+ {
+  "original": "Soul Cairn - Mausoleum Platform - Grey - 02",
+  "string": "Каирн Душ - платформа мавзолея - серая - 02",
+  "form_id": "0076EEF1|LvxMagick - Skyrim - Settlement Builder.esm",
+  "type": "MISC FULL",
+  "index": null,
+  "editor_id": "Placeable_sc_mausoleumplatformarch02_Gray_Misc"
+ },
+ {
+  "original": "Panther Pelt",
+  "string": "Шкура пантеры",
+  "form_id": "0013A041|Midwood Isle.esp",
+  "type": "MISC FULL",
+  "index": null,
+  "editor_id": "PantherPeltMidwoodIsle"
+ },
+ {
+  "original": "Jug",
+  "string": "Кувшин",
+  "form_id": "00885B4D|LvxMagick - Skyrim - Settlement Builder.esm",
+  "type": "MISC FULL",
+  "index": null,
+  "editor_id": "Placeable_Clutter_GlazedJugSmall01Nordic_Misc"
+ },
+ {
+  "original": "Banner - Potema",
+  "string": "Знамя - Потема",
+  "form_id": "00E1C0A7|LvxMagick - Skyrim - Settlement Builder.esm",
+  "type": "MISC FULL",
+  "index": null,
+  "editor_id": "Placeable_Banner_PotemaBanner01_Misc"
+ },
+ {
+  "original": "Banner - The Dawnguard",
+  "string": "Знамя - Стража Рассвета",
+  "form_id": "00E1C0E2|LvxMagick - Skyrim - Settlement Builder.esm",
+  "type": "MISC FULL",
+  "index": null,
+  "editor_id": "Placeable_Banner_DLC1DBanner_Misc"
+ },
+ {
+  "original": "Banner - Mage's Banner",
+  "string": "Знамя - знамя магов",
+  "form_id": "00E21223|LvxMagick - Skyrim - Settlement Builder.esm",
+  "type": "MISC FULL",
+  "index": null,
+  "editor_id": "Placeable_Banner_WinterholdBanner_Misc"
+ },
+ {
+  "original": "Pottery - Black Reach",
+  "string": "Керамика - Черный Предел",
+  "form_id": "007CF384|LvxMagick - Skyrim - Settlement Builder.esm",
+  "type": "MISC FULL",
+  "index": null,
+  "editor_id": "Placeable_PotteryBase06_Custom01_Glow_Misc"
+ },
+ {
+  "original": "Pottery - Mothers Vase",
+  "string": "Керамика - ваза Матери",
+  "form_id": "007D95ED|LvxMagick - Skyrim - Settlement Builder.esm",
+  "type": "MISC FULL",
+  "index": null,
+  "editor_id": "Placeable_PotteryBase02_Custom02_DarkBrother_Misc"
+ },
+ {
+  "original": "Pottery - The Hawk",
+  "string": "Керамика - ястреб",
+  "form_id": "007D95E0|LvxMagick - Skyrim - Settlement Builder.esm",
+  "type": "MISC FULL",
+  "index": null,
+  "editor_id": "Placeable_PotteryBase02_Custom01_Hawk_Misc"
+ },
+ {
+  "original": "Pottery - Apocrypha",
+  "string": "Керамика - Апокриф",
+  "form_id": "007D95CE|LvxMagick - Skyrim - Settlement Builder.esm",
+  "type": "MISC FULL",
+  "index": null,
+  "editor_id": "Placeable_PotteryBase01_Custom_Misc_Apoc"
+ },
+ {
+  "original": "Candlestick",
+  "string": "Подсвечник",
+  "form_id": "000008A9|ccEEJSSE002-Tower.esl",
+  "type": "MISC FULL",
+  "index": null,
+  "editor_id": "ccEEJSSE002_SilverCandleStick1Misc"
+ },
+ {
+  "original": "Candlestick",
+  "string": "Подсвечник",
+  "form_id": "0000080A|ccEEJSSE003-Hollow.esl",
+  "type": "MISC FULL",
+  "index": null,
+  "editor_id": "ccEEJSSE003_BronzeCandleStick1Misc"
+ },
+ {
+  "original": "Candlestick",
+  "string": "Подсвечник",
+  "form_id": "0007AA56|ccEEJSSE005-Cave.esm",
+  "type": "MISC FULL",
+  "index": null,
+  "editor_id": "ccEEJSSE005_SilverCandleStick01Off"
+ },
+ {
+  "original": "Candlestick",
+  "string": "Подсвечник",
+  "form_id": "0000089B|ccEEJSSE002-Tower.esl",
+  "type": "MISC FULL",
+  "index": null,
+  "editor_id": "ccEEJSSE002_SilverCandleStick3Misc"
+ },
+ {
+  "original": "Candlestick",
+  "string": "Подсвечник",
+  "form_id": "00000809|ccEEJSSE003-Hollow.esl",
+  "type": "MISC FULL",
+  "index": null,
+  "editor_id": "ccEEJSSE003_BronzeCandleStick3Misc"
+ },
+ {
+  "original": "Candlestick",
+  "string": "Подсвечник",
+  "form_id": "00000899|ccEEJSSE002-Tower.esl",
+  "type": "MISC FULL",
+  "index": null,
+  "editor_id": "ccEEJSSE002_SilverCandleStick2Misc"
+ },
+ {
+  "original": "Candlestick",
+  "string": "Подсвечник",
+  "form_id": "0000080B|ccEEJSSE003-Hollow.esl",
+  "type": "MISC FULL",
+  "index": null,
+  "editor_id": "ccEEJSSE003_BronzeCandleStick2Misc"
+ },
+ {
+  "original": "Candlestick",
+  "string": "Подсвечник",
+  "form_id": "00089E7A|ccEEJSSE005-Cave.esm",
+  "type": "MISC FULL",
+  "index": null,
+  "editor_id": "ccEEJSSE005_SilverCandleStick02Off"
+ },
+ {
+  "original": "Basket",
+  "string": "Корзина",
+  "form_id": "00000B43|ccEEJSSE003-Hollow.esl",
+  "type": "MISC FULL",
+  "index": null,
+  "editor_id": "ccEEJSSE003_Basket05"
+ },
+ {
+  "original": "Basket",
+  "string": "Корзина",
+  "form_id": "00000814|ccEEJSSE004-Hall.esl",
+  "type": "MISC FULL",
+  "index": null,
+  "editor_id": "ccEEJSSE004_Basket5"
+ },
+ {
+  "original": "Basket",
+  "string": "Корзина",
+  "form_id": "00057090|ccEEJSSE005-Cave.esm",
+  "type": "MISC FULL",
+  "index": null,
+  "editor_id": "ccEEJSSE005_Basket05"
+ },
+ {
+  "original": "Soul Cairn - Mausoleum Cap - Grey",
+  "string": "Каирн Душ - навершие мавзолея - серое",
+  "form_id": "0076EEFB|LvxMagick - Skyrim - Settlement Builder.esm",
+  "type": "MISC FULL",
+  "index": null,
+  "editor_id": "Placeable_sc_mausoleumTowerCap01_Gray_Misc"
+ },
+ {
+  "original": "Dragon Skull - Tribal",
+  "string": "Череп дракона - племенной",
+  "form_id": "00ADCD2E|LvxMagick - Skyrim - Settlement Builder.esm",
+  "type": "MISC FULL",
+  "index": null,
+  "editor_id": "Placeable_Dragon_Skull05_Tribal_Misc"
+ },
+ {
+  "original": "Dragon Skull - Sovngarde",
+  "string": "Череп дракона - Совнгард",
+  "form_id": "00AF11AF|LvxMagick - Skyrim - Settlement Builder.esm",
+  "type": "MISC FULL",
+  "index": null,
+  "editor_id": "Placeable_Dragon_Skull03_Sovngarde_Misc"
+ },
+ {
+  "original": "Dragon Skull - Dark Brotherhood",
+  "string": "Череп дракона - Темное Братство",
+  "form_id": "00AF11B5|LvxMagick - Skyrim - Settlement Builder.esm",
+  "type": "MISC FULL",
+  "index": null,
+  "editor_id": "Placeable_Dragon_Skull02_DB_Misc"
+ },
+ {
+  "original": "Basket",
+  "string": "Корзина",
+  "form_id": "00000921|ccEEJSSE001-Hstead.esm",
+  "type": "MISC FULL",
+  "index": null,
+  "editor_id": "EEJSSE001_Basket03"
+ },
+ {
+  "original": "Basket",
+  "string": "Корзина",
+  "form_id": "00000813|ccEEJSSE002-Tower.esl",
+  "type": "MISC FULL",
+  "index": null,
+  "editor_id": "ccEEJSSE002_Basket2"
+ },
+ {
+  "original": "Basket",
+  "string": "Корзина",
+  "form_id": "00000B08|ccEEJSSE003-Hollow.esl",
+  "type": "MISC FULL",
+  "index": null,
+  "editor_id": "ccEEJSSE003_Basket03"
+ },
+ {
+  "original": "Basket",
+  "string": "Корзина",
+  "form_id": "00000826|ccEEJSSE004-Hall.esl",
+  "type": "MISC FULL",
+  "index": null,
+  "editor_id": "ccEEJSSE004_Basket3"
+ },
+ {
+  "original": "Basket",
+  "string": "Корзина",
+  "form_id": "00057091|ccEEJSSE005-Cave.esm",
+  "type": "MISC FULL",
+  "index": null,
+  "editor_id": "ccEEJSSE005_Basket03"
+ },
+ {
+  "original": "Chopping Block - 02 - Bloody",
+  "string": "Колода для рубки - 02 - окровавленная",
+  "form_id": "0079C8B8|LvxMagick - Skyrim - Settlement Builder.esm",
+  "type": "MISC FULL",
+  "index": null,
+  "editor_id": "Placeable_ChoppingBlock02_Bloody_Misc"
+ },
+ {
+  "original": "Goblet",
+  "string": "Кубок",
+  "form_id": "00051E1B|ccEEJSSE005-Cave.esm",
+  "type": "MISC FULL",
+  "index": null,
+  "editor_id": "ccEEJSSE005_SilverGoblet02"
+ },
+ {
+  "original": "Pottery - 07 - Apocrypha Symbols",
+  "string": "Керамика - 07 - символы Апокрифа",
+  "form_id": "00BA7862|LvxMagick - Skyrim - Settlement Builder.esm",
+  "type": "MISC FULL",
+  "index": null,
+  "editor_id": "Placeable_PotteryBase07_Custom01_ApocraphaSymbols_Misc"
+ },
+ {
+  "original": "Stairs Of Blood",
+  "string": "Кровавая лестница",
+  "form_id": "0093D7A7|LvxMagick - Skyrim - Settlement Builder.esm",
+  "type": "MISC FULL",
+  "index": null,
+  "editor_id": "Placeable_StairsOfBlood_Misc"
+ },
+ {
+  "original": "Basket",
+  "string": "Корзина",
+  "form_id": "00057092|ccEEJSSE005-Cave.esm",
+  "type": "MISC FULL",
+  "index": null,
+  "editor_id": "ccEEJSSE005_Basket06"
+ },
+ {
+  "original": "Basket",
+  "string": "Корзина",
+  "form_id": "0000092F|ccEEJSSE001-Hstead.esm",
+  "type": "MISC FULL",
+  "index": null,
+  "editor_id": "EEJSSE001_Basket01"
+ },
+ {
+  "original": "Basket",
+  "string": "Корзина",
+  "form_id": "00000814|ccEEJSSE002-Tower.esl",
+  "type": "MISC FULL",
+  "index": null,
+  "editor_id": "ccEEJSSE002_Basket1"
+ },
+ {
+  "original": "Basket",
+  "string": "Корзина",
+  "form_id": "000009DF|ccEEJSSE003-Hollow.esl",
+  "type": "MISC FULL",
+  "index": null,
+  "editor_id": "ccEEJSSE003_Basket01"
+ },
+ {
+  "original": "Basket",
+  "string": "Корзина",
+  "form_id": "00000815|ccEEJSSE004-Hall.esl",
+  "type": "MISC FULL",
+  "index": null,
+  "editor_id": "ccEEJSSE004_Basket1"
+ },
+ {
+  "original": "Basket",
+  "string": "Корзина",
+  "form_id": "00066465|ccEEJSSE005-Cave.esm",
+  "type": "MISC FULL",
+  "index": null,
+  "editor_id": "ccEEJSSE005_Basket01"
+ },
+ {
+  "original": "Map of Wild Horses",
+  "string": "Карта мест обитания диких лошадей",
+  "form_id": "00000D67|ccBGSSSE034-MntUni.esl",
+  "type": "MISC FULL",
+  "index": null,
+  "editor_id": "ccBGSSSE034_WildHorseMap"
+ },
+ {
+  "original": "Cup",
+  "string": "Чашка",
+  "form_id": "000008ED|ccEEJSSE001-Hstead.esm",
+  "type": "MISC FULL",
+  "index": null,
+  "editor_id": "EEJSSE001_GlazedCup01Dwemer"
+ },
+ {
+  "original": "Cup",
+  "string": "Чашка",
+  "form_id": "0000087D|ccEEJSSE002-Tower.esl",
+  "type": "MISC FULL",
+  "index": null,
+  "editor_id": "ccEEJSSE002_SilverCup"
+ },
+ {
+  "original": "Jug",
+  "string": "Кувшин",
+  "form_id": "0000086D|ccEEJSSE002-Tower.esl",
+  "type": "MISC FULL",
+  "index": null,
+  "editor_id": "ccEEJSSE002_LargeJug"
+ },
+ {
+  "original": "Jug",
+  "string": "Кувшин",
+  "form_id": "0000080F|ccEEJSSE003-Hollow.esl",
+  "type": "MISC FULL",
+  "index": null,
+  "editor_id": "ccEEJSSE003_LargeJug"
+ },
+ {
+  "original": "Valtara Tower",
+  "string": "Башня Валтара",
+  "form_id": "000DB43D|ValtaraTower.esp",
+  "type": "MISC FULL",
+  "index": null,
+  "editor_id": "_SETowerTowerPart"
+ },
+ {
+  "original": "Food - Apple Cabbage Stew",
+  "string": "Еда - похлебка из капусты и яблок",
+  "form_id": "00D891E8|LvxMagick - Skyrim - Settlement Builder.esm",
+  "type": "MISC FULL",
+  "index": null,
+  "editor_id": "Placeable_Clutter_Food_FoodAppleCabbageStew_Misc"
+ },
+ {
+  "original": "Food - Cabbage Potato Soup",
+  "string": "Еда - капустный суп с картошкой",
+  "form_id": "00D93423|LvxMagick - Skyrim - Settlement Builder.esm",
+  "type": "MISC FULL",
+  "index": null,
+  "editor_id": "Placeable_Clutter_Food_FoodCabbagePotatoSoup_Misc"
+ },
+ {
+  "original": "Food - Elswer Fondue",
+  "string": "Еда - эльсвейрское фондю",
+  "form_id": "00D9345C|LvxMagick - Skyrim - Settlement Builder.esm",
+  "type": "MISC FULL",
+  "index": null,
+  "editor_id": "Placeable_Clutter_Food_FoodElsweyrFondue_Misc"
+ },
+ {
+  "original": "Food - Tomato Soup",
+  "string": "Еда - томатный суп",
+  "form_id": "00D985F9|LvxMagick - Skyrim - Settlement Builder.esm",
+  "type": "MISC FULL",
+  "index": null,
+  "editor_id": "Placeable_Clutter_Food_FoodTomatoSoup_Misc"
+ },
+ {
+  "original": "Food - Vegetable Soup",
+  "string": "Еда - овощной суп",
+  "form_id": "00D985FF|LvxMagick - Skyrim - Settlement Builder.esm",
+  "type": "MISC FULL",
+  "index": null,
+  "editor_id": "Placeable_Clutter_Food_FoodVegetableSoup_Misc"
+ },
+ {
+  "original": "Food - Vensions Stew",
+  "string": "Еда - тушеная оленина",
+  "form_id": "00D9D70F|LvxMagick - Skyrim - Settlement Builder.esm",
+  "type": "MISC FULL",
+  "index": null,
+  "editor_id": "Placeable_Clutter_Food_FoodVenisonStew_Misc"
+ },
+ {
+  "original": "Food - Horker Stew",
+  "string": "Еда - рагу из хоркера",
+  "form_id": "00D9348D|LvxMagick - Skyrim - Settlement Builder.esm",
+  "type": "MISC FULL",
+  "index": null,
+  "editor_id": "Placeable_Clutter_Food_FoodHorkerStew_Misc"
+ },
+ {
+  "original": "Food - Horker Ash Yam Stew",
+  "string": "Еда - рагу из хоркера и пепельного батата",
+  "form_id": "00D891DA|LvxMagick - Skyrim - Settlement Builder.esm",
+  "type": "MISC FULL",
+  "index": null,
+  "editor_id": "Placeable_Clutter_Food_DLC2FoodHorkerAshYamStew_Misc"
+ },
+ {
+  "original": "Food - Cabbage Soup",
+  "string": "Еда - капустный суп",
+  "form_id": "00D9342B|LvxMagick - Skyrim - Settlement Builder.esm",
+  "type": "MISC FULL",
+  "index": null,
+  "editor_id": "Placeable_Clutter_Food_FoodCabbageSoup_Misc"
+ },
+ {
+  "original": "Jeweled Pitcher",
+  "string": "Драгоценный кувшин",
+  "form_id": "00000861|ccEEJSSE002-Tower.esl",
+  "type": "MISC FULL",
+  "index": null,
+  "editor_id": "ccEEJSSE002_Pitcher"
+ },
+ {
+  "original": "Jeweled Pitcher",
+  "string": "Драгоценный кувшин",
+  "form_id": "0000080D|ccEEJSSE003-Hollow.esl",
+  "type": "MISC FULL",
+  "index": null,
+  "editor_id": "ccEEJSSE003_Pitcher"
+ },
+ {
+  "original": "Jeweled Pitcher",
+  "string": "Драгоценный кувшин",
+  "form_id": "00000861|ccEEJSSE003-Hollow.esl",
+  "type": "MISC FULL",
+  "index": null,
+  "editor_id": "ccEEJSSE002_PitcherDUPLICATE001"
+ },
+ {
+  "original": "Linen Wrap",
+  "string": "Льняная ткань",
+  "form_id": "00000938|JK's Haelga's Bunkhouse.esp",
+  "type": "MISC FULL",
+  "index": null,
+  "editor_id": "XJKHBHRuinsLinenPile01"
+ },
+ {
+  "original": "Pottery - 08 - Vampire Me",
+  "string": "Керамика - 08 - вампир",
+  "form_id": "00BAC977|LvxMagick - Skyrim - Settlement Builder.esm",
+  "type": "MISC FULL",
+  "index": null,
+  "editor_id": "Placeable_PotteryBase08_VampireMe_Misc"
+ },
+ {
+  "original": "Sign: Trader",
+  "string": "Вывеска: торговец",
+  "form_id": "0023EBC7|LvxMagick - Skyrim - Settlement Builder.esm",
+  "type": "MISC FULL",
+  "index": null,
+  "editor_id": "Placeable_wwwSign_RWTrader_Misc"
+ },
+ {
+  "original": "Bowl",
+  "string": "Миска",
+  "form_id": "0000087B|ccEEJSSE002-Tower.esl",
+  "type": "MISC FULL",
+  "index": null,
+  "editor_id": "ccEEJSSE002_SilverBowl01"
+ },
+ {
+  "original": "Bowl",
+  "string": "Миска",
+  "form_id": "0000080C|ccEEJSSE003-Hollow.esl",
+  "type": "MISC FULL",
+  "index": null,
+  "editor_id": "ccEEJSSE004_BronzeBowl"
+ },
+ {
+  "original": "Bowl",
+  "string": "Миска",
+  "form_id": "00000B71|ccEEJSSE003-Hollow.esl",
+  "type": "MISC FULL",
+  "index": null,
+  "editor_id": "ccEEJSSE003_BronzeBowl2"
+ },
+ {
+  "original": "Goblet",
+  "string": "Кубок",
+  "form_id": "000008E9|ccEEJSSE001-Hstead.esm",
+  "type": "MISC FULL",
+  "index": null,
+  "editor_id": "EEJSSE001_Goblet01Dwemer"
+ },
+ {
+  "original": "Goblet",
+  "string": "Кубок",
+  "form_id": "0000084A|ccEEJSSE002-Tower.esl",
+  "type": "MISC FULL",
+  "index": null,
+  "editor_id": "ccEEJSSE002_GobletSilver"
+ },
+ {
+  "original": "Goblet",
+  "string": "Кубок",
+  "form_id": "00000812|ccEEJSSE003-Hollow.esl",
+  "type": "MISC FULL",
+  "index": null,
+  "editor_id": "ccEEJSSE003_GobletBronze"
+ },
+ {
+  "original": "Goblet",
+  "string": "Кубок",
+  "form_id": "00000812|ccEEJSSE004-Hall.esl",
+  "type": "MISC FULL",
+  "index": null,
+  "editor_id": "ccEEJSSE004_FancyGoblet"
+ },
+ {
+  "original": "Goblet",
+  "string": "Кубок",
+  "form_id": "00057027|ccEEJSSE005-Cave.esm",
+  "type": "MISC FULL",
+  "index": null,
+  "editor_id": "ccEEJSSE005_SilverGoblet01"
+ },
+ {
+  "original": "Platter",
+  "string": "Блюдо",
+  "form_id": "0000091C|ccEEJSSE001-Hstead.esm",
+  "type": "MISC FULL",
+  "index": null,
+  "editor_id": "EEJSSE001_PlatterNordic"
+ },
+ {
+  "original": "Platter",
+  "string": "Блюдо",
+  "form_id": "00000858|ccEEJSSE002-Tower.esl",
+  "type": "MISC FULL",
+  "index": null,
+  "editor_id": "ccEEJSSE002_Platter"
+ },
+ {
+  "original": "Platter",
+  "string": "Блюдо",
+  "form_id": "00000ABD|ccEEJSSE003-Hollow.esl",
+  "type": "MISC FULL",
+  "index": null,
+  "editor_id": "ccEEJSSE003_Platter"
+ },
+ {
+  "original": "Platter",
+  "string": "Блюдо",
+  "form_id": "00000823|ccEEJSSE004-Hall.esl",
+  "type": "MISC FULL",
+  "index": null,
+  "editor_id": "ccEEJSSE004_Platter"
+ },
+ {
+  "original": "Platter",
+  "string": "Блюдо",
+  "form_id": "00057084|ccEEJSSE005-Cave.esm",
+  "type": "MISC FULL",
+  "index": null,
+  "editor_id": "ccEEJSSE005_SilverPlatter01"
+ },
+ {
+  "original": "Jug",
+  "string": "Кувшин",
+  "form_id": "00000868|ccEEJSSE002-Tower.esl",
+  "type": "MISC FULL",
+  "index": null,
+  "editor_id": "ccEEJSSE002_SilverJugLg"
+ },
+ {
+  "original": "Jug",
+  "string": "Кувшин",
+  "form_id": "0000080E|ccEEJSSE003-Hollow.esl",
+  "type": "MISC FULL",
+  "index": null,
+  "editor_id": "ccEEJSSE003_BronzeJugLg"
+ },
+ {
+  "original": "Jug",
+  "string": "Кувшин",
+  "form_id": "00000813|ccEEJSSE004-Hall.esl",
+  "type": "MISC FULL",
+  "index": null,
+  "editor_id": "ccEEJSSE004_Jug2"
+ },
+ {
+  "original": "Jug",
+  "string": "Кувшин",
+  "form_id": "00057039|ccEEJSSE005-Cave.esm",
+  "type": "MISC FULL",
+  "index": null,
+  "editor_id": "ccEEJSSE005_SilverJug01"
+ },
+ {
+  "original": "Clutter - Dibella Statue - Sovngarde",
+  "string": "Декор - статуя Дибеллы - Совнгард",
+  "form_id": "00B6AB9D|LvxMagick - Skyrim - Settlement Builder.esm",
+  "type": "MISC FULL",
+  "index": null,
+  "editor_id": "Placeable_StatueDibella_Static_Sovngarde_Misc"
+ },
+ {
+  "original": "Clutter - Dibella Statue - Chrome",
+  "string": "Декор - статуя Дибеллы - хром",
+  "form_id": "00B6AB9E|LvxMagick - Skyrim - Settlement Builder.esm",
+  "type": "MISC FULL",
+  "index": null,
+  "editor_id": "Placeable_StatueDibella_Static_Chrome_Misc"
+ },
+ {
+  "original": "Clutter - Dibella Statue - Portal Cave",
+  "string": "Декор - статуя Дибеллы - пещера портала",
+  "form_id": "00B6AB9F|LvxMagick - Skyrim - Settlement Builder.esm",
+  "type": "MISC FULL",
+  "index": null,
+  "editor_id": "Placeable_StatueDibella_Static_PortalCave_Misc"
+ },
+ {
+  "original": "Clutter - Dibella Statue - Portal Valley",
+  "string": "Декор - статуя Дибеллы - долина портала",
+  "form_id": "00B6ABB7|LvxMagick - Skyrim - Settlement Builder.esm",
+  "type": "MISC FULL",
+  "index": null,
+  "editor_id": "Placeable_StatueDibella_Static_PortalValley_Misc"
+ },
+ {
+  "original": "Snow Fox Pelt",
+  "string": "Шкура снежной лисицы",
+  "form_id": "000D4BE7|Skyrim.esm",
+  "type": "MISC FULL",
+  "index": null,
+  "editor_id": "FoxPeltSnow"
+ },
+ {
+  "original": "Silver Jug",
+  "string": "Серебряный кувшин",
+  "form_id": "00051E26|ccEEJSSE005-Cave.esm",
+  "type": "MISC FULL",
+  "index": null,
+  "editor_id": "ccEEJSSE005_DLC1SilverJugBlood01"
+ },
+ {
+  "original": "Silver Goblet",
+  "string": "Серебряный кубок",
+  "form_id": "00051E2D|ccEEJSSE005-Cave.esm",
+  "type": "MISC FULL",
+  "index": null,
+  "editor_id": "ccEEJSSE005_DLC1SilverGobletBlood01"
+ },
+ {
+  "original": "Gargoyle Statue - Mud Guardian",
+  "string": "Статуя гаргульи - грязевой страж",
+  "form_id": "0076EF06|LvxMagick - Skyrim - Settlement Builder.esm",
+  "type": "MISC FULL",
+  "index": null,
+  "editor_id": "Placeable_Statue_Gargoyle02_Misc"
+ },
+ {
+  "original": "Gargoyle Statue - Chrome Goyle",
+  "string": "Статуя гаргульи - хромированная гаргулья",
+  "form_id": "007D95F5|LvxMagick - Skyrim - Settlement Builder.esm",
+  "type": "MISC FULL",
+  "index": null,
+  "editor_id": "Placeable_Statue_Gargoyle_Custom_Crome_Misc"
+ },
+ {
+  "original": "Gargoyle Statue - Black Blood",
+  "string": "Статуя гаргульи - черная кровь",
+  "form_id": "00848E18|LvxMagick - Skyrim - Settlement Builder.esm",
+  "type": "MISC FULL",
+  "index": null,
+  "editor_id": "Placeable_Statue_Gargoyle03_Custom_BlackBlood_Misc"
+ },
+ {
+  "original": "Gargoyle Statue - Blood",
+  "string": "Статуя гаргульи - кровь",
+  "form_id": "00848E1E|LvxMagick - Skyrim - Settlement Builder.esm",
+  "type": "MISC FULL",
+  "index": null,
+  "editor_id": "Placeable_Statue_Gargoyle_Custom_Blood_Misc"
+ },
+ {
+  "original": "Gargoyle Statue - Gold",
+  "string": "Статуя гаргульи - золото",
+  "form_id": "00848E2C|LvxMagick - Skyrim - Settlement Builder.esm",
+  "type": "MISC FULL",
+  "index": null,
+  "editor_id": "Placeable_Statue_Gargoyle_Custom_Gold_Misc"
+ },
+ {
+  "original": "Gargoyle Statue - Soul Gem",
+  "string": "Статуя гаргульи - камень душ",
+  "form_id": "00848E38|LvxMagick - Skyrim - Settlement Builder.esm",
+  "type": "MISC FULL",
+  "index": null,
+  "editor_id": "Placeable_Statue_Gargoyle_Custom_SoulGem_Misc"
+ },
+ {
+  "original": "Gargoyle Statue - Veins",
+  "string": "Статуя гаргульи - прожилки",
+  "form_id": "00848E3D|LvxMagick - Skyrim - Settlement Builder.esm",
+  "type": "MISC FULL",
+  "index": null,
+  "editor_id": "Placeable_Statue_Gargoyle_Custom_Vein_Misc"
+ },
+ {
+  "original": "Gargoyle Statue - Sovengarde",
+  "string": "Статуя гаргульи - Совнгард",
+  "form_id": "0088FD6F|LvxMagick - Skyrim - Settlement Builder.esm",
+  "type": "MISC FULL",
+  "index": null,
+  "editor_id": "Placeable_Statue_Gargoyle_Custom_SOVSky_Misc"
+ },
+ {
+  "original": "Gargoyle Statue - Troll Goyle",
+  "string": "Статуя гаргульи - тролль",
+  "form_id": "00843D11|LvxMagick - Skyrim - Settlement Builder.esm",
+  "type": "MISC FULL",
+  "index": null,
+  "editor_id": "Placeable_Statue_Gargoyle_Custom_Troll_Misc"
+ },
+ {
+  "original": "Gargoyle Statue - Wood Goyle",
+  "string": "Статуя гаргульи - деревянная гаргулья",
+  "form_id": "00848E23|LvxMagick - Skyrim - Settlement Builder.esm",
+  "type": "MISC FULL",
+  "index": null,
+  "editor_id": "Placeable_Statue_Gargoyle_Custom_WRWood_Misc"
+ },
+ {
+  "original": "Soul Cairn - Mausoleum Platform - Grey - 01",
+  "string": "Каирн Душ - платформа мавзолея - серая - 01",
+  "form_id": "0076EEE7|LvxMagick - Skyrim - Settlement Builder.esm",
+  "type": "MISC FULL",
+  "index": null,
+  "editor_id": "Placeable_sc_mausoleumplatformarch01_Gray_Misc"
+ },
+ {
+  "original": "Planter - Nordic",
+  "string": "Цветочник - нордский",
+  "form_id": "00AF11A9|LvxMagick - Skyrim - Settlement Builder.esm",
+  "type": "MISC FULL",
+  "index": null,
+  "editor_id": "Placeable_BigPlanter04_Nord_Misc"
+ },
+ {
+  "original": "Dwemer - Table - Blood",
+  "string": "Двемер - стол - кровь",
+  "form_id": "007ABBED|LvxMagick - Skyrim - Settlement Builder.esm",
+  "type": "MISC FULL",
+  "index": null,
+  "editor_id": "Placeable_DweFurniture_Blood_Table01_Misc"
+ },
+ {
+  "original": "Kirkmore Crown",
+  "string": "Киркморская корона",
+  "form_id": "001FDFED|Jehanna.esp",
+  "type": "FLOR FULL",
+  "index": null,
+  "editor_id": "KirkmoreFloraMushroom02"
+ },
+ {
+  "original": "Harvest",
+  "string": "Сорвать:",
+  "form_id": "001FDFED|Jehanna.esp",
+  "type": "FLOR RNAM",
+  "index": null,
+  "editor_id": "KirkmoreFloraMushroom02"
+ },
+ {
+  "original": "Bench",
+  "string": "Скамья",
+  "form_id": "0000071E|JK's Dark Brotherhood Sanctuary.esp",
+  "type": "FURN FULL",
+  "index": null,
+  "editor_id": "XJKDBSSEBench01"
+ },
+ {
+  "original": "Stone Bench",
+  "string": "Каменная скамья",
+  "form_id": "00000CB1|JK's Sky Haven Temple.esp",
+  "type": "FURN FULL",
+  "index": null,
+  "editor_id": "XJKSHTRuinsBench01"
+ },
+ {
+  "original": "Smelter",
+  "string": "Плавильня",
+  "form_id": "00019F60|JK's Riverfall Cottage.esp",
+  "type": "FURN FULL",
+  "index": null,
+  "editor_id": "XJKHomeCraftingSmelterMarker1"
+ },
+ {
+  "original": "Bench",
+  "string": "Скамья",
+  "form_id": "00000417|JK's Castle Volkihar.esp",
+  "type": "FURN FULL",
+  "index": null,
+  "editor_id": "XJKCVstoneBench01"
+ },
+ {
+  "original": "Workbench",
+  "string": "Верстак",
+  "form_id": "0008F9B2|Ryn's Snazzy Last Vigil.esp",
+  "type": "FURN FULL",
+  "index": null,
+  "editor_id": "GM_CraftingBlacksmithArmorWorkbench"
+ },
+ {
+  "original": "Hay Pile",
+  "string": "Лежанка",
+  "form_id": "000758D1|ccEEJSSE005-Cave.esm",
+  "type": "FURN FULL",
+  "index": null,
+  "editor_id": "ccEEJSSE005_BedrollHay01L"
+ },
+ {
+  "original": "Hay Pile",
+  "string": "Лежанка",
+  "form_id": "00018617|Dragonborn.esm",
+  "type": "FURN FULL",
+  "index": null,
+  "editor_id": "BedrollHay01LDirtSnowPath01F"
+ },
+ {
+  "original": "Hay Pile",
+  "string": "Лежанка",
+  "form_id": "00018618|Dragonborn.esm",
+  "type": "FURN FULL",
+  "index": null,
+  "editor_id": "BedrollHay01LDirtSnowPath01R"
+ },
+ {
+  "original": "Hay Pile",
+  "string": "Лежанка",
+  "form_id": "0001EE28|Dragonborn.esm",
+  "type": "FURN FULL",
+  "index": null,
+  "editor_id": "BedrollHay01LDirtSnowPath"
+ },
+ {
+  "original": "Hay Pile",
+  "string": "Лежанка",
+  "form_id": "00028A68|Dragonborn.esm",
+  "type": "FURN FULL",
+  "index": null,
+  "editor_id": "BedrollHay01R_Ash"
+ },
+ {
+  "original": "Hay Pile",
+  "string": "Лежанка",
+  "form_id": "00028AA9|Dragonborn.esm",
+  "type": "FURN FULL",
+  "index": null,
+  "editor_id": "BedrollHay01L_Ash"
+ },
+ {
+  "original": "Hay Pile",
+  "string": "Лежанка",
+  "form_id": "0002C0B2|Dragonborn.esm",
+  "type": "FURN FULL",
+  "index": null,
+  "editor_id": "BedrollHay01LDirtPath01L"
+ },
+ {
+  "original": "Hay Pile",
+  "string": "Лежанка",
+  "form_id": "0002C0B3|Dragonborn.esm",
+  "type": "FURN FULL",
+  "index": null,
+  "editor_id": "BedrollHay01LDirtPath01F"
+ },
+ {
+  "original": "Hay Pile",
+  "string": "Лежанка",
+  "form_id": "0002C0B4|Dragonborn.esm",
+  "type": "FURN FULL",
+  "index": null,
+  "editor_id": "BedrollHay01LDirtPath01R"
+ },
+ {
+  "original": "Hay Pile",
+  "string": "Лежанка",
+  "form_id": "000264C8|Skyrim.esm",
+  "type": "FURN FULL",
+  "index": null,
+  "editor_id": "BedrollHay01LDirt02"
+ },
+ {
+  "original": "Hay Pile",
+  "string": "Лежанка",
+  "form_id": "0006AF7E|Skyrim.esm",
+  "type": "FURN FULL",
+  "index": null,
+  "editor_id": "BedrollHay01LDirtSnowPath01L"
+ },
+ {
+  "original": "Hay Pile",
+  "string": "Лежанка",
+  "form_id": "00074B6E|Skyrim.esm",
+  "type": "FURN FULL",
+  "index": null,
+  "editor_id": "BedrollHay01CaveDirt"
+ },
+ {
+  "original": "Hay Pile",
+  "string": "Лежанка",
+  "form_id": "000A4E08|Skyrim.esm",
+  "type": "FURN FULL",
+  "index": null,
+  "editor_id": "BedrollHay01LDirt01"
+ },
+ {
+  "original": "Hay Pile",
+  "string": "Лежанка",
+  "form_id": "000A4E09|Skyrim.esm",
+  "type": "FURN FULL",
+  "index": null,
+  "editor_id": "BedrollHay01LDirtPath"
+ },
+ {
+  "original": "Hay Pile",
+  "string": "Лежанка",
+  "form_id": "000C1988|Skyrim.esm",
+  "type": "FURN FULL",
+  "index": null,
+  "editor_id": "BedrollHay01LPineForest03F"
+ },
+ {
+  "original": "Hay Pile",
+  "string": "Лежанка",
+  "form_id": "000C2295|Skyrim.esm",
+  "type": "FURN FULL",
+  "index": null,
+  "editor_id": "BedrollHay01LReachDirt01"
+ },
+ {
+  "original": "Hay Pile",
+  "string": "Лежанка",
+  "form_id": "000C2694|Skyrim.esm",
+  "type": "FURN FULL",
+  "index": null,
+  "editor_id": "BedrollHay01LFrozenMarshDirt01"
+ },
+ {
+  "original": "Hay Pile",
+  "string": "Лежанка",
+  "form_id": "000D1619|Skyrim.esm",
+  "type": "FURN FULL",
+  "index": null,
+  "editor_id": "BedrollHay01LFallForestDirt01"
+ },
+ {
+  "original": "Hay Pile",
+  "string": "Лежанка",
+  "form_id": "000D88D7|Skyrim.esm",
+  "type": "FURN FULL",
+  "index": null,
+  "editor_id": "BedrollHay01LCaveDirtL"
+ },
+ {
+  "original": "Hay Pile",
+  "string": "Лежанка",
+  "form_id": "000D88D8|Skyrim.esm",
+  "type": "FURN FULL",
+  "index": null,
+  "editor_id": "BedrollHay01LCaveDirtR"
+ },
+ {
+  "original": "Hay Pile",
+  "string": "Лежанка",
+  "form_id": "000DC365|Skyrim.esm",
+  "type": "FURN FULL",
+  "index": null,
+  "editor_id": "BedrollHay01LFieldGrass01"
+ },
+ {
+  "original": "Hay Pile",
+  "string": "Лежанка",
+  "form_id": "000DC366|Skyrim.esm",
+  "type": "FURN FULL",
+  "index": null,
+  "editor_id": "BedrollHay01LTundra01"
+ },
+ {
+  "original": "Hay Pile",
+  "string": "Лежанка",
+  "form_id": "000E0BA9|Skyrim.esm",
+  "type": "FURN FULL",
+  "index": null,
+  "editor_id": "BedrollHay01FallForestDirt01F"
+ },
+ {
+  "original": "Hay Pile",
+  "string": "Лежанка",
+  "form_id": "000E0BAA|Skyrim.esm",
+  "type": "FURN FULL",
+  "index": null,
+  "editor_id": "BedrollHay01FallForestDirt01L"
+ },
+ {
+  "original": "Hay Pile",
+  "string": "Лежанка",
+  "form_id": "000E0BAF|Skyrim.esm",
+  "type": "FURN FULL",
+  "index": null,
+  "editor_id": "BedrollHay01FallForestDirt01R"
+ },
+ {
+  "original": "Hay Pile",
+  "string": "Лежанка",
+  "form_id": "000E23FA|Skyrim.esm",
+  "type": "FURN FULL",
+  "index": null,
+  "editor_id": "BedrollHay01LDirt01F"
+ },
+ {
+  "original": "Hay Pile",
+  "string": "Лежанка",
+  "form_id": "000E23FB|Skyrim.esm",
+  "type": "FURN FULL",
+  "index": null,
+  "editor_id": "BedrollHay01LDirt02F"
+ },
+ {
+  "original": "Hay Pile",
+  "string": "Лежанка",
+  "form_id": "000E23FC|Skyrim.esm",
+  "type": "FURN FULL",
+  "index": null,
+  "editor_id": "BedrollHay01LDirt02L"
+ },
+ {
+  "original": "Hay Pile",
+  "string": "Лежанка",
+  "form_id": "000E23FD|Skyrim.esm",
+  "type": "FURN FULL",
+  "index": null,
+  "editor_id": "BedrollHay01LDirt02R"
+ },
+ {
+  "original": "Hay Pile",
+  "string": "Лежанка",
+  "form_id": "000E23FE|Skyrim.esm",
+  "type": "FURN FULL",
+  "index": null,
+  "editor_id": "BedrollHay01LDirt02LR"
+ },
+ {
+  "original": "Hay Pile",
+  "string": "Лежанка",
+  "form_id": "000E23FF|Skyrim.esm",
+  "type": "FURN FULL",
+  "index": null,
+  "editor_id": "BedrollHay01LDirt02FR"
+ },
+ {
+  "original": "Hay Pile",
+  "string": "Лежанка",
+  "form_id": "000E2400|Skyrim.esm",
+  "type": "FURN FULL",
+  "index": null,
+  "editor_id": "BedrollHay01LDirt02FL"
+ },
+ {
+  "original": "Hay Pile",
+  "string": "Лежанка",
+  "form_id": "000E2401|Skyrim.esm",
+  "type": "FURN FULL",
+  "index": null,
+  "editor_id": "BedrollHay01LDirtPathFL"
+ },
+ {
+  "original": "Hay Pile",
+  "string": "Лежанка",
+  "form_id": "000E2402|Skyrim.esm",
+  "type": "FURN FULL",
+  "index": null,
+  "editor_id": "BedrollHay01LFieldGrass01F"
+ },
+ {
+  "original": "Hay Pile",
+  "string": "Лежанка",
+  "form_id": "000E2403|Skyrim.esm",
+  "type": "FURN FULL",
+  "index": null,
+  "editor_id": "BedrollHay01LFrozenMarshDirt01F"
+ },
+ {
+  "original": "Hay Pile",
+  "string": "Лежанка",
+  "form_id": "000E2404|Skyrim.esm",
+  "type": "FURN FULL",
+  "index": null,
+  "editor_id": "BedrollHay01LReachDirt01L"
+ },
+ {
+  "original": "Hay Pile",
+  "string": "Лежанка",
+  "form_id": "000E2405|Skyrim.esm",
+  "type": "FURN FULL",
+  "index": null,
+  "editor_id": "BedrollHay01LReachDirt01FL"
+ },
+ {
+  "original": "Hay Pile",
+  "string": "Лежанка",
+  "form_id": "000E2406|Skyrim.esm",
+  "type": "FURN FULL",
+  "index": null,
+  "editor_id": "BedrollHay01LReachDirt01R"
+ },
+ {
+  "original": "Hay Pile",
+  "string": "Лежанка",
+  "form_id": "000E2407|Skyrim.esm",
+  "type": "FURN FULL",
+  "index": null,
+  "editor_id": "BedrollHay01LTundra01F"
+ },
+ {
+  "original": "Hay Pile",
+  "string": "Лежанка",
+  "form_id": "000E2408|Skyrim.esm",
+  "type": "FURN FULL",
+  "index": null,
+  "editor_id": "BedrollHay01CaveDirtF"
+ },
+ {
+  "original": "Hay Pile",
+  "string": "Лежанка",
+  "form_id": "000E2409|Skyrim.esm",
+  "type": "FURN FULL",
+  "index": null,
+  "editor_id": "BedrollHay01CaveDirtL"
+ },
+ {
+  "original": "Hay Pile",
+  "string": "Лежанка",
+  "form_id": "000E240A|Skyrim.esm",
+  "type": "FURN FULL",
+  "index": null,
+  "editor_id": "BedrollHay01CaveDirtR"
+ },
+ {
+  "original": "Hay Pile",
+  "string": "Лежанка",
+  "form_id": "000E240B|Skyrim.esm",
+  "type": "FURN FULL",
+  "index": null,
+  "editor_id": "BedrollHay01CaveDirtFL"
+ },
+ {
+  "original": "Hay Pile",
+  "string": "Лежанка",
+  "form_id": "000E240C|Skyrim.esm",
+  "type": "FURN FULL",
+  "index": null,
+  "editor_id": "BedrollHay01CaveDirtFR"
+ },
+ {
+  "original": "Hay Pile",
+  "string": "Лежанка",
+  "form_id": "000E240D|Skyrim.esm",
+  "type": "FURN FULL",
+  "index": null,
+  "editor_id": "BedrollHay01CaveDirtLR"
+ },
+ {
+  "original": "Hay Pile",
+  "string": "Лежанка",
+  "form_id": "000ECFF5|Skyrim.esm",
+  "type": "FURN FULL",
+  "index": null,
+  "editor_id": "BedrollHay01LReachDirt01F"
+ },
+ {
+  "original": "Hay Pile",
+  "string": "Лежанка",
+  "form_id": "000F18FC|Skyrim.esm",
+  "type": "FURN FULL",
+  "index": null,
+  "editor_id": "BedrollHay01ReachGrassFL"
+ },
+ {
+  "original": "Hay Pile",
+  "string": "Лежанка",
+  "form_id": "001015F5|Skyrim.esm",
+  "type": "FURN FULL",
+  "index": null,
+  "editor_id": "BedrollHay01PineForest01F"
+ },
+ {
+  "original": "Hay Pile",
+  "string": "Лежанка",
+  "form_id": "00101A65|Skyrim.esm",
+  "type": "FURN FULL",
+  "index": null,
+  "editor_id": "BedrollHay01FGrassSnow01"
+ },
+ {
+  "original": "Hay Pile",
+  "string": "Лежанка",
+  "form_id": "0010308F|Skyrim.esm",
+  "type": "FURN FULL",
+  "index": null,
+  "editor_id": "BedrollHay01LReachMoss01F"
+ },
+ {
+  "original": "Hay Pile",
+  "string": "Лежанка",
+  "form_id": "001036FF|Skyrim.esm",
+  "type": "FURN FULL",
+  "index": null,
+  "editor_id": "BedrollHay01LTundraRocks01F"
+ },
+ {
+  "original": "Hay Pile",
+  "string": "Лежанка",
+  "form_id": "00104B9C|Skyrim.esm",
+  "type": "FURN FULL",
+  "index": null,
+  "editor_id": "BedrollHay01FDirt02"
+ },
+ {
+  "original": "Hay Pile",
+  "string": "Лежанка",
+  "form_id": "00025E51|Dragonborn.esm",
+  "type": "FURN FULL",
+  "index": null,
+  "editor_id": "BedrollHay01IceL"
+ },
+ {
+  "original": "Hay Pile",
+  "string": "Лежанка",
+  "form_id": "00025E52|Dragonborn.esm",
+  "type": "FURN FULL",
+  "index": null,
+  "editor_id": "BedrollHay01IceR"
+ },
+ {
+  "original": "Hay Pile",
+  "string": "Лежанка",
+  "form_id": "0003D131|Dragonborn.esm",
+  "type": "FURN FULL",
+  "index": null,
+  "editor_id": "BedrollHay01GlacierL"
+ },
+ {
+  "original": "Hay Pile",
+  "string": "Лежанка",
+  "form_id": "0003D132|Dragonborn.esm",
+  "type": "FURN FULL",
+  "index": null,
+  "editor_id": "BedrollHay01GlacierR"
+ },
+ {
+  "original": "Hay Pile",
+  "string": "Лежанка",
+  "form_id": "000752B9|Skyrim.esm",
+  "type": "FURN FULL",
+  "index": null,
+  "editor_id": "BedrollHay01LSnow01L"
+ },
+ {
+  "original": "Hay Pile",
+  "string": "Лежанка",
+  "form_id": "000752BC|Skyrim.esm",
+  "type": "FURN FULL",
+  "index": null,
+  "editor_id": "BedrollHay01Snow01R"
+ },
+ {
+  "original": "Hay Pile",
+  "string": "Лежанка",
+  "form_id": "001015FE|Skyrim.esm",
+  "type": "FURN FULL",
+  "index": null,
+  "editor_id": "BedrollHay01FSnow01"
+ },
+ {
+  "original": "Hay Pile",
+  "string": "Лежанка",
+  "form_id": "000C4BF1|Skyrim.esm",
+  "type": "FURN FULL",
+  "index": null,
+  "editor_id": "BedrollHay01ImpExtWall"
+ },
+ {
+  "original": "Hay Pile",
+  "string": "Лежанка",
+  "form_id": "000CCCDA|Skyrim.esm",
+  "type": "FURN FULL",
+  "index": null,
+  "editor_id": "BedrollHay01ImpExtWallFL"
+ },
+ {
+  "original": "Hay Pile",
+  "string": "Лежанка",
+  "form_id": "000E23F9|Skyrim.esm",
+  "type": "FURN FULL",
+  "index": null,
+  "editor_id": "BedrollHay01ImpExtWallF"
+ },
+ {
+  "original": "Stone Bench",
+  "string": "Каменная скамья",
+  "form_id": "00000973|JK's Haelga's Bunkhouse.esp",
+  "type": "FURN FULL",
+  "index": null,
+  "editor_id": "XJKHBHBathFurnitureBench01"
+ },
+ {
+  "original": "Stone Bench",
+  "string": "Каменная скамья",
+  "form_id": "00000B51|JK's New Gnisis Cornerclub.esp",
+  "type": "FURN FULL",
+  "index": null,
+  "editor_id": "XJKGnisisBathtubBench01"
+ },
+ {
+  "original": "Chair",
+  "string": "Стул",
+  "form_id": "000008D6|JK's Sky Haven Temple.esp",
+  "type": "FURN FULL",
+  "index": null,
+  "editor_id": "XJKSHTFurnitureChair02F"
+ },
+ {
+  "original": "Chair",
+  "string": "Стул",
+  "form_id": "00000A49|JK's Sky Haven Temple.esp",
+  "type": "FURN FULL",
+  "index": null,
+  "editor_id": "XJKSHTHHFurnitureChair02R"
+ },
+ {
+  "original": "Chair",
+  "string": "Стул",
+  "form_id": "00000A4A|JK's Sky Haven Temple.esp",
+  "type": "FURN FULL",
+  "index": null,
+  "editor_id": "XJKSHTHHFurnitureChair02L"
+ },
+ {
+  "original": "Lumber Pile",
+  "string": "Бревна",
+  "form_id": "00000194|Riverwood Has Charm.esp",
+  "type": "FURN FULL",
+  "index": null,
+  "editor_id": "J3_RW_ResourceObjectSawmill"
+ },
+ {
+  "original": "Chair",
+  "string": "Стул",
+  "form_id": "000C1D85|ccEEJSSE005-Cave.esm",
+  "type": "FURN FULL",
+  "index": null,
+  "editor_id": "ccEEJSSE001_NobleChair01"
+ },
+ {
+  "original": "TEMPLATE - Nettlebane",
+  "string": "TEMPLATE - Крапивник",
+  "form_id": "002701B9|ZIA_Complete Pack.esp",
+  "type": "WEAP FULL",
+  "index": null,
+  "editor_id": "ZNB_V7_Template"
+ },
+ {
+  "original": "Mazken Ebony Sword",
+  "string": "Эбонитовый меч мазкена",
+  "form_id": "000000E1|Mazken Warrior Armor.esp",
+  "type": "WEAP FULL",
+  "index": null,
+  "editor_id": "Aokili_MazkenWarrior_Ebony_Sword"
+ },
+ {
+  "original": "Mazken Steel Sword",
+  "string": "Стальной меч мазкена",
+  "form_id": "000000E2|Mazken Warrior Armor.esp",
+  "type": "WEAP FULL",
+  "index": null,
+  "editor_id": "Aokili_MazkenWarrior_Steel_Sword"
+ },
+ {
+  "original": "Green Scimitar",
+  "string": "Зеленый скимитар",
+  "form_id": "00000116|PiratesHammerfell.esp",
+  "type": "WEAP FULL",
+  "index": null,
+  "editor_id": "PIRHScimitarGreen"
+ },
+ {
+  "original": "Blue Scimitar",
+  "string": "Синий скимитар",
+  "form_id": "00000117|PiratesHammerfell.esp",
+  "type": "WEAP FULL",
+  "index": null,
+  "editor_id": "PIRHScimitarBlue"
+ },
+ {
+  "original": "Blessed Crossbow",
+  "string": "Осененный арбалет",
+  "form_id": "0081A3A5|Jehanna.esp",
+  "type": "WEAP FULL",
+  "index": null,
+  "editor_id": "DLC1CrossBowKirkmore"
+ },
+ {
+  "original": "Blessed",
+  "string": "Благословенный",
+  "form_id": "0081A3A5|Jehanna.esp",
+  "type": "WEAP DESC",
+  "index": null,
+  "editor_id": "DLC1CrossBowKirkmore"
+ },
+ {
+  "original": "Kirkmore Stew",
+  "string": "Киркморское рагу",
+  "form_id": "003B18BD|Jehanna.esp",
+  "type": "ALCH FULL",
+  "index": null,
+  "editor_id": "Kirkmorefoodredcabbagestew"
+ },
+ {
+  "original": "Milk",
+  "string": "Молоко",
+  "form_id": "0014F9C0|Jehanna.esp",
+  "type": "ALCH FULL",
+  "index": null,
+  "editor_id": "HaafstadHawksnowmilk"
+ },
+ {
+  "original": "Ol' Sten",
+  "string": "Старина Стен",
+  "form_id": "003BBD30|Jehanna.esp",
+  "type": "ALCH FULL",
+  "index": null,
+  "editor_id": "KirkmoreFoodOldSten"
+ },
+ {
+  "original": "Ol' Sten",
+  "string": "Старина Стен",
+  "form_id": "003BBD33|Jehanna.esp",
+  "type": "ALCH FULL",
+  "index": null,
+  "editor_id": "KirkmoreFoodOldStenquest"
+ },
+ {
+  "original": "Soup of Old Sten",
+  "string": "Суп старины Стена",
+  "form_id": "00B620E8|Jehanna.esp",
+  "type": "ALCH FULL",
+  "index": null,
+  "editor_id": "KirkmoreSoupofOldSten"
+ }
+]

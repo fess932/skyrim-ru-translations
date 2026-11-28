@@ -1,0 +1,13 @@
+{
+  "slug": "generated-patches",
+  "name": "Сгенерированные патчи сборки (ParallaxGen) и фикс жил руды",
+  "reuse_installed": true,
+  "plugins": [
+    "PG_1.esp",
+    "OreVeinTextureFix.esp"
+  ],
+  "sources": {
+    "PG_1.esp": "ElderTeej - PG Patcher Output",
+    "OreVeinTextureFix.esp": "Ore Vein Texture Fix - Fixed"
+  }
+}
