@@ -52,7 +52,18 @@ def installed(mod):
     covered = load_json(os.path.join(ROOT, 'vanilla', 'covered.json'))
     if known is None or covered is None:
         sys.exit('reuse_installed: run tools/harvest.py first')
-    return known, set(covered)
+    covered = set(covered)
+    # our own translations of other mods count too (harvest.py skips them on purpose)
+    from harvest import key
+    pattern = os.path.join(ROOT, 'mods', '*', 'SKSE', 'Plugins', 'DynamicStringDistributor', '*', '*.json')
+    for f in glob.glob(pattern):
+        if os.path.normpath(f).split(os.sep)[-6] == mod.get('slug'):
+            continue
+        for e in load_json(f, []):
+            if e.get('string'):
+                covered.add(key(e))
+                known.setdefault(e['original'], e['string'])
+    return known, covered
 
 
 def wanted(e, covered):
