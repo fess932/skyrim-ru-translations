@@ -8041,7 +8041,7 @@
  },
  {
   "original": "Void Heart Sapphire",
-  "string": "Сапфир Сердца пустоты",
+  "string": "Сапфир",
   "form_id": "0016255D|BecomeKingofSkyrimTNG.esp",
   "type": "MISC FULL",
   "index": null,
@@ -31873,7 +31873,7 @@
  },
  {
   "original": "Voidheart Sapphires?",
-  "string": "Сапфиры Сердца пустоты?",
+  "string": "Сапфиры?",
   "form_id": "0016256F|BecomeKingofSkyrimTNG.esp",
   "type": "DIAL FULL",
   "index": null,
@@ -31905,7 +31905,7 @@
  },
  {
   "original": "I have the Voidheart Sapphires. Forge the ring.",
-  "string": "Сапфиры Сердца пустоты у меня. Куй кольцо.",
+  "string": "Сапфиры у меня. Куй кольцо.",
   "form_id": "00162572|BecomeKingofSkyrimTNG.esp",
   "type": "DIAL FULL",
   "index": null,
@@ -42601,7 +42601,7 @@
  },
  {
   "original": "Brodran forged this in secret - a matching band to yours, infused with the same Voidheart Sapphire essence.",
-  "string": "Бродран тайно выковал его - кольцо под стать твоему, напоенное той же сутью Сапфира Сердца Пустоты.",
+  "string": "Бродран тайно выковал его - кольцо под стать твоему, напоенное той же сутью Сапфира.",
   "form_id": "0016CA5F|BecomeKingofSkyrimTNG.esp",
   "type": "INFO NAM1",
   "index": 2,
@@ -76993,7 +76993,7 @@
  },
  {
   "original": "I must venture into Blackreach to find three legendary Voidheart Sapphires for the Royal Blacksmith.",
-  "string": "Мне нужно отправиться в Черный Предел и найти три легендарных сапфира Сердца Пустоты для королевского кузнеца.",
+  "string": "Мне нужно отправиться в Черный Предел и найти три легендарных сапфира Сердца пустоты для королевского кузнеца.",
   "form_id": "001AF4CF|BecomeKingofSkyrimTNG.esp",
   "type": "QUST CNAM",
   "index": 15,
@@ -77001,7 +77001,7 @@
  },
  {
   "original": "I've collected the Voidheart Sapphires. I should return to Brodran to have the ring forged.",
-  "string": "Сапфиры Сердца Пустоты собраны. Нужно вернуться к Бродрану, чтобы он выковал кольцо.",
+  "string": "Сапфиры собраны. Нужно вернуться к Бродрану, чтобы он выковал кольцо.",
   "form_id": "001AF4CF|BecomeKingofSkyrimTNG.esp",
   "type": "QUST CNAM",
   "index": 16,
@@ -77137,7 +77137,7 @@
  },
  {
   "original": "Collect three Voidheart Crystals",
-  "string": "Собрать три кристалла Сердца Пустоты",
+  "string": "Собрать три кристалла Сердца пустоты",
   "form_id": "001AF4CF|BecomeKingofSkyrimTNG.esp",
   "type": "QUST NNAM",
   "index": 15,
@@ -77145,7 +77145,7 @@
  },
  {
   "original": "Return to Brodran with the Voidheart Crystals",
-  "string": "Вернуться к Бродрану с кристаллами Сердца Пустоты",
+  "string": "Вернуться к Бродрану с кристаллами Сердца пустоты",
   "form_id": "001AF4CF|BecomeKingofSkyrimTNG.esp",
   "type": "QUST NNAM",
   "index": 16,
@@ -79913,7 +79913,7 @@
  },
  {
   "original": "You carefully extract a Voidheart Sapphire from the ancient crystal formation. The gem pulses with ethereal energy. (1 of 3 found)",
-  "string": "Вы осторожно извлекаете Сапфир Сердца Пустоты из древнего кристаллического нароста. Камень пульсирует бестелесной энергией. (Найдено: 1 из 3)",
+  "string": "Вы осторожно извлекаете Сапфир из древнего кристаллического нароста. Камень пульсирует бестелесной энергией. (Найдено: 1 из 3)",
   "form_id": "00162567|BecomeKingofSkyrimTNG.esp",
   "type": "MESG DESC",
   "index": null,
@@ -80001,7 +80001,7 @@
  },
  {
   "original": "Another Voidheart Sapphire joins your collection. The stones seem to resonate with each other. (2 of 3 found)",
-  "string": "Еще один Сапфир Сердца Пустоты пополняет вашу коллекцию. Камни будто резонируют друг с другом. (Найдено: 2 из 3)",
+  "string": "Еще один Сапфир пополняет вашу коллекцию. Камни будто резонируют друг с другом. (Найдено: 2 из 3)",
   "form_id": "00162568|BecomeKingofSkyrimTNG.esp",
   "type": "MESG DESC",
   "index": null,
@@ -80545,7 +80545,7 @@
  },
  {
   "original": "You've found the final Voidheart Sapphire! All three gems pulse in harmony, ready for the Royal Blacksmith's legendary craft. Return to Highreach Castle.",
-  "string": "Вы нашли последний Сапфир Сердца Пустоты! Все три камня пульсируют в гармонии, готовые к легендарному мастерству королевского кузнеца. Возвращайтесь в замок Горного Предела.",
+  "string": "Вы нашли последний Сапфир! Все три камня пульсируют в гармонии, готовые к легендарному мастерству королевского кузнеца. Возвращайтесь в замок Горного Предела.",
   "form_id": "00162569|BecomeKingofSkyrimTNG.esp",
   "type": "MESG DESC",
   "index": null,
