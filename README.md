@@ -34,6 +34,7 @@
 | Companions Dialogue Bundle | - | `mods/companions-dialogue-bundle` (ставится как `RU_companions-dialogue-bundle.json`) |
 | Vampire Clans and Bloodlines | - | `mods/vampire-clans` (ставится как `RU_vampire-clans.json`) |
 | Nyhus and the border of Cyrodiil | - | `mods/nyhus` (ставится как `RU_nyhus.json`) |
+| The Gray Cowl of Nocturnal: дополнения (Дом вора, метки, патчи) | - | `mods/gray-cowl` (недостающие строки поверх готового перевода; `RU_gray-cowl.json`) |
 
 ## Как устроен перевод
 

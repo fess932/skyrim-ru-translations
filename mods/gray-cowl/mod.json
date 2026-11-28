@@ -1,0 +1,17 @@
+{
+  "slug": "gray-cowl",
+  "name": "The Gray Cowl of Nocturnal - недостающие строки",
+  "reuse_installed": true,
+  "plugins": [
+    "Gray Fox Cowl.esm",
+    "Gray Fox Cowl - House of the Thief Start.esp",
+    "Gray Fox Cowl - Map Markers.esp",
+    "Gray Fox Cowl - Camel patch.esp"
+  ],
+  "sources": {
+    "Gray Fox Cowl.esm": "The Gray Cowl of Nocturnal - 10th anniversary",
+    "Gray Fox Cowl - House of the Thief Start.esp": "House of the Thief",
+    "Gray Fox Cowl - Map Markers.esp": "Map Markers",
+    "Gray Fox Cowl - Camel patch.esp": "Camel Patch"
+  }
+}

@@ -1,0 +1,26 @@
+[
+ {
+  "original": "Gray Fox bust",
+  "string": "Бюст Серого Лиса",
+  "form_id": "00000E7F|Gray Fox Cowl - House of the Thief Start.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "manny_GF_Activator_GrayFoxActivator03"
+ },
+ {
+  "original": "House of the Thief",
+  "string": "Дом вора",
+  "form_id": "00000D6E|Gray Fox Cowl - House of the Thief Start.esp",
+  "type": "CELL FULL",
+  "index": null,
+  "editor_id": "mannyGFIntHouseThief"
+ },
+ {
+  "original": "House of the Thief",
+  "string": "Дом вора",
+  "form_id": "00000D6A|Gray Fox Cowl - House of the Thief Start.esp",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": null
+ }
+]

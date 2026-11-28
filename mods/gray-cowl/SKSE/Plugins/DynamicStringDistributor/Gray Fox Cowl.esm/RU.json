@@ -1,0 +1,410 @@
+[
+ {
+  "original": "Ancestral Cheetah Faction",
+  "string": "Фракция племенных гепардов",
+  "form_id": "000360D7|Gray Fox Cowl.esm",
+  "type": "FACT FULL",
+  "index": null,
+  "editor_id": "manny_GF_Faction_AncestralCheetah"
+ },
+ {
+  "original": "Mummies and Skeletons Faction",
+  "string": "Фракция мумий и скелетов",
+  "form_id": "00003AA1|Gray Fox Cowl.esm",
+  "type": "FACT FULL",
+  "index": null,
+  "editor_id": "manny_GF_Faction_MummiesAndSkeletons"
+ },
+ {
+  "original": "Cursed Alik'r Warriors Faction",
+  "string": "Фракция проклятых воинов Алик'ра",
+  "form_id": "0002F52C|Gray Fox Cowl.esm",
+  "type": "FACT FULL",
+  "index": null,
+  "editor_id": "manny_GF_Faction_CursedAlikrWarriors"
+ },
+ {
+  "original": "Ben Erai Telrav Service Faction",
+  "string": "Фракция службы Телрава (Бен Эрай)",
+  "form_id": "0003E05A|Gray Fox Cowl.esm",
+  "type": "FACT FULL",
+  "index": null,
+  "editor_id": "manny_GF_Faction_Service_Telrav"
+ },
+ {
+  "original": "Spider Faction",
+  "string": "Фракция пауков",
+  "form_id": "00039039|Gray Fox Cowl.esm",
+  "type": "FACT FULL",
+  "index": null,
+  "editor_id": "manny_GF_Faction_Spider"
+ },
+ {
+  "original": "Ben Erai Ilrav Service Faction",
+  "string": "Фракция службы Ильрава (Бен Эрай)",
+  "form_id": "000167FF|Gray Fox Cowl.esm",
+  "type": "FACT FULL",
+  "index": null,
+  "editor_id": "manny_GF_Faction_Service_Ilrav"
+ },
+ {
+  "original": "Predator Faction",
+  "string": "Факция хищника",
+  "form_id": "00600097|Gray Fox Cowl.esm",
+  "type": "FACT FULL",
+  "index": null,
+  "editor_id": "mihailwormmouthfaction"
+ },
+ {
+  "original": "Alik'r Warriors Ancient Fortress Faction B",
+  "string": "Фракция воинов Алик'ра из древней крепости Б",
+  "form_id": "0005EA12|Gray Fox Cowl.esm",
+  "type": "FACT FULL",
+  "index": null,
+  "editor_id": "manny_GF_Faction_AncientFortress_B"
+ },
+ {
+  "original": "Wormmouth Faction",
+  "string": "Фракция Вормута",
+  "form_id": "006289BC|Gray Fox Cowl.esm",
+  "type": "FACT FULL",
+  "index": null,
+  "editor_id": "manny_GF_Faction_Wormmouth"
+ },
+ {
+  "original": "Umbra",
+  "string": "Умбра",
+  "form_id": "00017622|Gray Fox Cowl.esm",
+  "type": "FACT FULL",
+  "index": null,
+  "editor_id": "manny_GF_Faction_Arena_Umbra"
+ },
+ {
+  "original": "Draukiir Ghots Faction",
+  "string": "Фракция призраков Дракиира",
+  "form_id": "0068E56F|Gray Fox Cowl.esm",
+  "type": "FACT FULL",
+  "index": null,
+  "editor_id": "manny_GF_Faction_DraukiirGhost"
+ },
+ {
+  "original": "Ben Erai Malpenix Service Faction",
+  "string": "Фракция службы Малпеникса (Бен Эрай)",
+  "form_id": "0003ECB5|Gray Fox Cowl.esm",
+  "type": "FACT FULL",
+  "index": null,
+  "editor_id": "manny_GF_Faction_Service_Malpenix"
+ },
+ {
+  "original": "The Pit Sparring Faction",
+  "string": "Фракция спарринга в Яме",
+  "form_id": "000691FB|Gray Fox Cowl.esm",
+  "type": "FACT FULL",
+  "index": null,
+  "editor_id": "manny_GF_Faction_ThePitSparring"
+ },
+ {
+  "original": "Ben Erai citizens faction",
+  "string": "Фракция жителей Бен Эрая",
+  "form_id": "00009236|Gray Fox Cowl.esm",
+  "type": "FACT FULL",
+  "index": null,
+  "editor_id": "manny_GF_Faction_BenErai"
+ },
+ {
+  "original": "Duneripper Faction",
+  "string": "Фракция песчаных потрошителей",
+  "form_id": "00039038|Gray Fox Cowl.esm",
+  "type": "FACT FULL",
+  "index": null,
+  "editor_id": "manny_GF_Faction_Duneripper"
+ },
+ {
+  "original": "Ben Erai Gordon Service Faction",
+  "string": "Фракция службы Гордона (Бен Эрай)",
+  "form_id": "00042FF0|Gray Fox Cowl.esm",
+  "type": "FACT FULL",
+  "index": null,
+  "editor_id": "manny_GF_Faction_Service_Gordon"
+ },
+ {
+  "original": "Goron Faction",
+  "string": "Фракция Горона",
+  "form_id": "0060A2E4|Gray Fox Cowl.esm",
+  "type": "FACT FULL",
+  "index": null,
+  "editor_id": "manny_GF_Faction_Goron"
+ },
+ {
+  "original": "Alik'r Warriors Ancient Fortress Faction A",
+  "string": "Фракция воинов Алик'ра из древней крепости А",
+  "form_id": "0005EA11|Gray Fox Cowl.esm",
+  "type": "FACT FULL",
+  "index": null,
+  "editor_id": "manny_GF_Faction_AncientFortress_A"
+ },
+ {
+  "original": "The Pit Faction",
+  "string": "Фракция Ямы",
+  "form_id": "00068719|Gray Fox Cowl.esm",
+  "type": "FACT FULL",
+  "index": null,
+  "editor_id": "manny_GF_Faction_ThePit"
+ },
+ {
+  "original": "SprigganFX Ability",
+  "string": "Способность SprigganFX",
+  "form_id": "006000AA|Gray Fox Cowl.esm",
+  "type": "MGEF FULL",
+  "index": null,
+  "editor_id": "mihaildwarvenspinnerfx"
+ },
+ {
+  "original": "Blessing of Night Healer",
+  "string": "Благословение Ночного целителя",
+  "form_id": "0074F543|Gray Fox Cowl.esm",
+  "type": "SPEL FULL",
+  "index": null,
+  "editor_id": "manny_GF_Spell_AltarNightHealer"
+ },
+ {
+  "original": "Shrine of Night Healer",
+  "string": "Святилище Ночного целителя",
+  "form_id": "0074F542|Gray Fox Cowl.esm",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "manny_GF_Activator_AltarNightHealer"
+ },
+ {
+  "original": "Nordic Dagger of Scorching",
+  "string": "Нордский кинжал сжигания",
+  "form_id": "00028347|Dragonborn.esm",
+  "type": "WEAP FULL",
+  "index": null,
+  "editor_id": "DLC2EnchNordicDaggerFire03"
+ },
+ {
+  "original": "Dawn of Man",
+  "string": "Рассвет человечества",
+  "form_id": "007D317B|Gray Fox Cowl.esm",
+  "type": "WEAP FULL",
+  "index": null,
+  "editor_id": "manny_GF_Weapon_DawnOfMan"
+ },
+ {
+  "original": "The first weapon ever used",
+  "string": "Самое первое оружие в истории",
+  "form_id": "007D317B|Gray Fox Cowl.esm",
+  "type": "WEAP DESC",
+  "index": null,
+  "editor_id": "manny_GF_Weapon_DawnOfMan"
+ },
+ {
+  "original": "Scorch of the Undead",
+  "string": "Погибель нежити",
+  "form_id": "00851D0A|Gray Fox Cowl.esm",
+  "type": "WEAP FULL",
+  "index": null,
+  "editor_id": "manny_GF_Weapon_ScorchOfTheUndead"
+ },
+ {
+  "original": "Especially deadly to undeads",
+  "string": "Особенно смертоносно против нежити",
+  "form_id": "00851D0A|Gray Fox Cowl.esm",
+  "type": "WEAP DESC",
+  "index": null,
+  "editor_id": "manny_GF_Weapon_ScorchOfTheUndead"
+ },
+ {
+  "original": "AudioTemplateDwarvenSphere",
+  "string": "AudioTemplateDwarvenSphere",
+  "form_id": "0060009F|Gray Fox Cowl.esm",
+  "type": "NPC_ FULL",
+  "index": null,
+  "editor_id": "mihaildwarvenspinnnersoundentrance"
+ },
+ {
+  "original": "Citizen",
+  "string": "Гражданин",
+  "form_id": "00009235|Gray Fox Cowl.esm",
+  "type": "NPC_ SHRT",
+  "index": null,
+  "editor_id": "manny_GF_BenEraiFortress_Guard01"
+ },
+ {
+  "original": "Citizen",
+  "string": "Гражданин",
+  "form_id": "00009237|Gray Fox Cowl.esm",
+  "type": "NPC_ SHRT",
+  "index": null,
+  "editor_id": "manny_GF_BenEraiFortress_Guard02"
+ },
+ {
+  "original": "Citizen",
+  "string": "Гражданин",
+  "form_id": "00009238|Gray Fox Cowl.esm",
+  "type": "NPC_ SHRT",
+  "index": null,
+  "editor_id": "manny_GF_BenEraiFortress_Guard03"
+ },
+ {
+  "original": "Citizen",
+  "string": "Гражданин",
+  "form_id": "00009239|Gray Fox Cowl.esm",
+  "type": "NPC_ SHRT",
+  "index": null,
+  "editor_id": "manny_GF_BenEraiFortress_Guard04"
+ },
+ {
+  "original": "AudioTemplateAtronachFlame",
+  "string": "AudioTemplateAtronachFlame",
+  "form_id": "00000812|Gray Fox Cowl.esm",
+  "type": "NPC_ FULL",
+  "index": null,
+  "editor_id": "mihailgoronaudio"
+ },
+ {
+  "original": "Citizen",
+  "string": "Гражданин",
+  "form_id": "000097A8|Gray Fox Cowl.esm",
+  "type": "NPC_ SHRT",
+  "index": null,
+  "editor_id": "manny_GF_BenEraiWatchTower_Guard01"
+ },
+ {
+  "original": "AudioTemplateMammoth",
+  "string": "AudioTemplateMammoth",
+  "form_id": "00600099|Gray Fox Cowl.esm",
+  "type": "NPC_ FULL",
+  "index": null,
+  "editor_id": "mihailwormmouthsoundtemplate"
+ },
+ {
+  "original": "Key to Tower Ruins",
+  "string": "Ключ от руин башни",
+  "form_id": "0085BFE0|Gray Fox Cowl.esm",
+  "type": "KEYM FULL",
+  "index": null,
+  "editor_id": "manny_GF_Key_TowerRuins"
+ },
+ {
+  "original": "Tower ruins",
+  "string": "Руины башни",
+  "form_id": "00856E21|Gray Fox Cowl.esm",
+  "type": "CELL FULL",
+  "index": null,
+  "editor_id": "mannyGFIntBenEraiTowers"
+ },
+ {
+  "original": "The Pit",
+  "string": "Яма",
+  "form_id": "00838757|Gray Fox Cowl.esm",
+  "type": "REFR FULL",
+  "index": null,
+  "editor_id": null
+ },
+ {
+  "original": "manny_GF_Dialogues_Hello",
+  "string": "manny_GF_Dialogues_Hello",
+  "form_id": "00003552|Gray Fox Cowl.esm",
+  "type": "DIAL FULL",
+  "index": null,
+  "editor_id": "manny_GF_Dialogues_Hello"
+ },
+ {
+  "original": "manny_GF_T_IrlavWhyStore",
+  "string": "manny_GF_T_IrlavWhyStore",
+  "form_id": "00016DDC|Gray Fox Cowl.esm",
+  "type": "DIAL FULL",
+  "index": null,
+  "editor_id": "manny_GF_T_IrlavWhyStore"
+ },
+ {
+  "original": "manny_GF_ThePit_T_Shared",
+  "string": "manny_GF_ThePit_T_Shared",
+  "form_id": "000252E8|Gray Fox Cowl.esm",
+  "type": "DIAL FULL",
+  "index": null,
+  "editor_id": "manny_GF_ThePit_T_Shared"
+ },
+ {
+  "original": "Yeah, yeah! Figthing can be scaring, am I right?",
+  "string": "Да-да! Драться бывает страшно, правда ведь?",
+  "form_id": "000252EE|Gray Fox Cowl.esm",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "manny_GF_ThePit_T_AboutKeeperTopic",
+  "string": "manny_GF_ThePit_T_AboutKeeperTopic",
+  "form_id": "0006AE5C|Gray Fox Cowl.esm",
+  "type": "DIAL FULL",
+  "index": null,
+  "editor_id": "manny_GF_ThePit_T_AboutKeeperTopic"
+ },
+ {
+  "original": "manny_GF_ThePit_T_BetTopic",
+  "string": "manny_GF_ThePit_T_BetTopic",
+  "form_id": "0006AE5F|Gray Fox Cowl.esm",
+  "type": "DIAL FULL",
+  "index": null,
+  "editor_id": "manny_GF_ThePit_T_BetTopic"
+ },
+ {
+  "original": "manny_GF_ThePit_T_BetOnRed",
+  "string": "manny_GF_ThePit_T_BetOnRed",
+  "form_id": "0006AE62|Gray Fox Cowl.esm",
+  "type": "DIAL FULL",
+  "index": null,
+  "editor_id": "manny_GF_ThePit_T_BetOnRed"
+ },
+ {
+  "original": "manny_GF_ThePit_B_BetAmount50Topic",
+  "string": "manny_GF_ThePit_B_BetAmount50Topic",
+  "form_id": "0006AE66|Gray Fox Cowl.esm",
+  "type": "DIAL FULL",
+  "index": null,
+  "editor_id": "manny_GF_ThePit_T_BetAmount50"
+ },
+ {
+  "original": "manny_GF_ThePit_T_BetAmount100",
+  "string": "manny_GF_ThePit_T_BetAmount100",
+  "form_id": "0006AE69|Gray Fox Cowl.esm",
+  "type": "DIAL FULL",
+  "index": null,
+  "editor_id": "manny_GF_ThePit_T_BetAmount100"
+ },
+ {
+  "original": "manny_GF_ThePit_T_BetAmount300",
+  "string": "manny_GF_ThePit_T_BetAmount300",
+  "form_id": "0006AE6A|Gray Fox Cowl.esm",
+  "type": "DIAL FULL",
+  "index": null,
+  "editor_id": "manny_GF_ThePit_T_BetAmount300"
+ },
+ {
+  "original": "Ben Erai Tower Ruins",
+  "string": "Руины башни Бен Эрая",
+  "form_id": "00856E76|Gray Fox Cowl.esm",
+  "type": "LCTN FULL",
+  "index": null,
+  "editor_id": "manny_GF_L_BenEraiTowers"
+ },
+ {
+  "original": "I'm ashamed for asking, but yes, take me back!",
+  "string": "Мне стыдно за то, что спросил, но да, верни меня!",
+  "form_id": "00011C1E|Gray Fox Cowl.esm",
+  "type": "MESG ITXT",
+  "index": 0,
+  "editor_id": "manny_GF_Options_AltarOfShame"
+ },
+ {
+  "original": "No, I want to go on!",
+  "string": "Нет, я хочу продолжить!",
+  "form_id": "00011C1E|Gray Fox Cowl.esm",
+  "type": "MESG ITXT",
+  "index": 1,
+  "editor_id": "manny_GF_Options_AltarOfShame"
+ }
+]
