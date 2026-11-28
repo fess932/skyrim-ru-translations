@@ -29,7 +29,7 @@ def status(work):
 
 def task(mod_dir, work, n):
     doc = json.load(open(os.path.join(work, 'batches', f'{n}.json'), encoding='utf-8'))
-    memory = tm.Memory(tm.load_pairs())
+    memory = tm.Memory(tm.load_pairs(os.path.basename(work)))
     examples = tm.examples_for([i['en'] for i in doc['items']], memory)
     guide = open(os.path.join(ROOT, 'prompts', 'translate.md'), encoding='utf-8').read()
     notes_p = os.path.join(mod_dir, 'notes.md')

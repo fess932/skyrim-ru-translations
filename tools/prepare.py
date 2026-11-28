@@ -133,7 +133,11 @@ def glossary_for(mod_dir, extra_names=None):
         if all(w.lower() in common for w in words):
             continue
         g[en] = ru
+    # lore terms the official translation uses inside sentences (tools/lore_terms.py)
+    for en, ru in load_json(os.path.join(ROOT, 'vanilla', 'lore.json'), {}).items():
+        g.setdefault(en, ru)
     g.update(load_json(os.path.join(ROOT, 'glossary', 'base.json'), {}))
+    g.update(load_json(os.path.join(ROOT, 'glossary', 'lore.json'), {}))  # curated, checked against vanilla
     g.update(load_json(os.path.join(mod_dir, 'glossary.json'), {}))
     return {k: v for k, v in g.items() if v}
 

@@ -22,14 +22,26 @@ def grams(s):
     return Counter(s[i:i + 3] for i in range(len(s) - 2))
 
 
+# ranking bonus by source: the same mod keeps names and tone consistent inside a quest,
+# the official translation (vanilla/exact.json) shows the house style
+BONUS = {'same': 0.12, 'ours': 0.04, 'vanilla': 0.0}
+
+
 def load_pairs(slug=None):
-    """EN->RU pairs from published translations and current work."""
+    """EN -> (RU, source) pairs: this mod's work, our other translations, official vanilla text."""
     pairs = {}
+    exact = os.path.join(ROOT, 'vanilla', 'exact.json')
+    if os.path.exists(exact):
+        for en, ru in json.load(open(exact, encoding='utf-8')).items():
+            if 20 <= len(en) <= 400:
+                pairs[en] = (ru, 'vanilla')
     for f in glob.glob(os.path.join(ROOT, 'mods', '*', 'SKSE', 'Plugins', 'DynamicStringDistributor', '*', 'RU.json')):
+        src = 'same' if slug and os.path.normpath(f).split(os.sep)[-6] == slug else 'ours'
         for e in json.load(open(f, encoding='utf-8')):
             if e.get('string'):
-                pairs.setdefault(e['original'], e['string'])
+                pairs[e['original']] = (e['string'], src)
     for work in glob.glob(os.path.join(ROOT, 'work', '*')):
+        src = 'same' if slug and os.path.basename(work) == slug else 'ours'
         batches = {}
         for b in glob.glob(os.path.join(work, 'batches', '*.json')):
             for it in json.load(open(b, encoding='utf-8'))['items']:
@@ -37,16 +49,16 @@ def load_pairs(slug=None):
         for o in glob.glob(os.path.join(work, 'out', '*.json')):
             for i, ru in json.load(open(o, encoding='utf-8')).items():
                 if i in batches and ru:
-                    pairs[batches[i]] = ru
+                    pairs[batches[i]] = (ru, src)
     return pairs
 
 
 class Memory:
     def __init__(self, pairs):
-        self.items = [(en, ru) for en, ru in pairs.items() if 3 <= len(en) <= 600]
+        self.items = [(en, ru, src) for en, (ru, src) in pairs.items() if 3 <= len(en) <= 600]
         self.vecs = []
         df = Counter()
-        for en, _ in self.items:
+        for en, _, _ in self.items:
             g = grams(en)
             self.vecs.append(g)
             df.update(g.keys())
@@ -76,9 +88,9 @@ class Memory:
             dot = sum(qw[g] * v[g] for g in qw if g in v)
             s = dot / (qn * self.norm[c])
             if s >= min_score and self.items[c][0] != text:
-                scored.append((s, c))
+                scored.append((s + BONUS.get(self.items[c][2], 0), c))
         scored.sort(reverse=True)
-        return [(round(s, 2), *self.items[c]) for s, c in scored[:k]]
+        return [(round(s, 2), *self.items[c][:2]) for s, c in scored[:k]]
 
 
 def examples_for(texts, memory, per_item=2, limit=20):
