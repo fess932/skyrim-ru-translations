@@ -38,6 +38,7 @@
 | Vigilant Armors, RCBE Crossbow Integration | - | `mods/armor-weapon-misc` (`RU_armor-weapon-misc.json`) |
 | Сгенерированный патч сборки ParallaxGen (PG_1.esp), Ore Vein Texture Fix | - | `mods/generated-patches` (названия, которые патч перезаписывает английскими; `RU_generated-patches.json`). PG_1.esp пересобирается патчером: после пересборки перепроверить. |
 | [Olenveld](https://nexusmods.com/skyrimspecialedition/mods/133579) | - | `mods/olenveld` (`RU_olenveld.json`) |
+| Haafstad and the Border of High Rock | - | `mods/haafstad` (Jehanna.esp; `RU_haafstad.json`) |
 
 ## Как устроен перевод
 

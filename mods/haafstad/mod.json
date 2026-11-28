@@ -1,0 +1,11 @@
+{
+  "slug": "haafstad",
+  "name": "Haafstad and the Border of High Rock",
+  "reuse_installed": true,
+  "plugins": [
+    "Jehanna.esp"
+  ],
+  "sources": {
+    "Jehanna.esp": "Haafstad and the Border of High Rock"
+  }
+}
