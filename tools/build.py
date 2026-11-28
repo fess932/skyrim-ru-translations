@@ -13,6 +13,7 @@ report, so the game falls back to English for them instead of breaking.
 import glob
 import json
 import os
+import re
 import sys
 
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
@@ -20,6 +21,20 @@ from prepare import installed, uid, wanted  # noqa: E402
 from validate import DROPCAP, check  # noqa: E402
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+
+DUR_SEC = re.compile(r'(<dur>|\d+) сек\.?(?=\s+[А-ЯЁA-Z<]|\s*$)', re.M)
+DUR_SEC_MID = re.compile(r'(<dur>|\d+) сек\.?')
+
+
+def house_style(ru):
+    """Mechanical conventions of the official Russian translation (measured on vanilla text)."""
+    ru = ru.replace('ё', 'е').replace('Ё', 'Е')        # vanilla book fonts have no glyph for it
+    ru = ru.replace('«', '"').replace('»', '"')         # straight quotes, as in vanilla
+    ru = ru.replace(' — ', ' - ').replace('—', '-')     # vanilla uses a hyphen as a dash
+    ru = ru.replace('…', '...')
+    ru = DUR_SEC.sub(r"\1 с.", ru)                   # "на 5 с." at the end of a sentence
+    ru = DUR_SEC_MID.sub(r"\1 с", ru)                # "в течение <dur> с" (vanilla: 182 vs 37)
+    return ru
 
 
 def main(mod_dir, allow_missing):
@@ -51,7 +66,7 @@ def main(mod_dir, allow_missing):
             if probs:
                 report.append(f'INVALID {plugin} {e["form_id"]} {e["type"]} {probs}: {e["original"][:80]!r}')
                 continue
-            ru = ru.replace('ё', 'е').replace('Ё', 'Е')  # vanilla book fonts have no glyph for it
+            ru = house_style(ru)
             out.append({**{k: v for k, v in e.items() if not k.startswith('_')}, 'string': ru})
             total_ok += 1
         if not out:
