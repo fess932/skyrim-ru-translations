@@ -70,5 +70,13 @@
   "type": "LSCR DESC",
   "index": null,
   "editor_id": "DynDOLOD_FirstbornBoyScreen1"
+ },
+ {
+  "original": "Highreach Keep",
+  "string": "Крепость Горного Предела",
+  "form_id": "0005556B|BecomeKingofSkyrimTNG.esp",
+  "type": "WRLD FULL",
+  "index": null,
+  "editor_id": "AAHighreachCity"
  }
 ]
