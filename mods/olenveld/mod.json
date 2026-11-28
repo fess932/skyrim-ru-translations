@@ -1,0 +1,11 @@
+{
+  "slug": "olenveld",
+  "name": "Olenveld",
+  "reuse_installed": true,
+  "plugins": [
+    "Olenveld.esp"
+  ],
+  "sources": {
+    "Olenveld.esp": "Olenveld"
+  }
+}
