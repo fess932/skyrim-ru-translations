@@ -39,6 +39,7 @@
 | Сгенерированные патчи сборки: ParallaxGen (PG_1.esp), DynDOLOD, Ore Vein Texture Fix | - | `mods/generated-patches` (названия, которые патч перезаписывает английскими; `RU_generated-patches.json`). PG_1.esp пересобирается патчером: после пересборки перепроверить. |
 | [Olenveld](https://nexusmods.com/skyrimspecialedition/mods/133579) | - | `mods/olenveld` (`RU_olenveld.json`) |
 | Haafstad and the Border of High Rock | - | `mods/haafstad` (Jehanna.esp; `RU_haafstad.json`) |
+| [Character Menu SE](https://www.nexusmods.com/skyrimspecialedition/mods/173074) | 1.2.1 | `mods/character-menu-se` (файл перевода интерфейса) |
 
 ## Как устроен перевод
 
