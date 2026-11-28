@@ -70409,7 +70409,7 @@
  },
  {
   "original": "The Green Pact binds us to the forest. You stone-dwellers cannot understand.",
-  "string": "Зеленый Пакт связывает нас с лесом. Вам, жителям камня, этого не понять.",
+  "string": "Зеленый пакт связывает нас с лесом. Вам, жителям камня, этого не понять.",
   "form_id": "00500702|BecomeKingofSkyrimTNG.esp",
   "type": "INFO NAM1",
   "index": 1,
@@ -73793,7 +73793,7 @@
  },
  {
   "original": "My training was in Green Pact law. The old agreements between Y'ffre and the Bosmer.",
-  "string": "Я обучалась законам Зеленого Договора. Древним соглашениям между Y'ффре и босмерами.",
+  "string": "Я обучалась законам Зеленого пакта. Древним соглашениям между И'ффре и босмерами.",
   "form_id": "00524866|BecomeKingofSkyrimTNG.esp",
   "type": "INFO NAM1",
   "index": 3,
@@ -73969,7 +73969,7 @@
  },
  {
   "original": "Y'ffre's bones hold us together and keep us true. ",
-  "string": "Кости Y'ффре держат нас вместе и хранят нашу верность. ",
+  "string": "Кости И'ффре держат нас вместе и хранят нашу верность. ",
   "form_id": "00524867|BecomeKingofSkyrimTNG.esp",
   "type": "INFO NAM1",
   "index": 2,
@@ -73977,7 +73977,7 @@
  },
  {
   "original": "We Bosmer honor the Green Pact. We do not harm the forest or eat plant life. We hunt what walks or flies.",
-  "string": "Мы, босмеры, чтим Зеленый Договор. Мы не вредим лесу и не едим растений. Мы охотимся на то, что ходит или летает.",
+  "string": "Мы, босмеры, чтим Зеленый пакт. Мы не вредим лесу и не едим растений. Мы охотимся на то, что ходит или летает.",
   "form_id": "00524867|BecomeKingofSkyrimTNG.esp",
   "type": "INFO NAM1",
   "index": 3,
