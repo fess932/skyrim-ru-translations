@@ -161,7 +161,7 @@
  },
  {
   "original": "Summons a Scamp for <dur> seconds wherever the caster is pointing.",
-  "string": "Призывает скампа на <dur> секунд в точку, в которую указывает заклинатель.",
+  "string": "Призывает скампа на <dur> сунд в точку, в которую указывает заклинатель.",
   "form_id": "00D0B256|Jehanna.esp",
   "type": "MGEF DNAM",
   "index": null,

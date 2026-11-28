@@ -169,7 +169,7 @@
  },
  {
   "original": "Summons a Skeleton Mage for <dur> seconds wherever the caster is pointing.",
-  "string": "Призывает скелета-мага на <dur> сек. туда, куда указывает заклинатель.",
+  "string": "Призывает скелета-мага на <dur> с туда, куда указывает заклинатель.",
   "form_id": "0034FFBC|Olenveld.esp",
   "type": "MGEF DNAM",
   "index": null,
@@ -233,7 +233,7 @@
  },
  {
   "original": "Summons a Glacier Spawn for <dur> seconds.",
-  "string": "Призывает ледниковое отродье на <dur> сек.",
+  "string": "Призывает ледниковое отродье на <dur> с.",
   "form_id": "00462F93|Olenveld.esp",
   "type": "MGEF DNAM",
   "index": null,
@@ -249,7 +249,7 @@
  },
  {
   "original": "Summons an Imperial Skeleton for <dur> seconds wherever the caster is pointing.",
-  "string": "Призывает имперского скелета на <dur> сек. туда, куда указывает заклинатель.",
+  "string": "Призывает имперского скелета на <dur> с туда, куда указывает заклинатель.",
   "form_id": "0034A26A|Olenveld.esp",
   "type": "MGEF DNAM",
   "index": null,
@@ -265,7 +265,7 @@
  },
  {
   "original": "Summons an Armored Skeleton for <dur> seconds wherever the caster is pointing.",
-  "string": "Призывает бронированного скелета на <dur> сек. туда, куда указывает заклинатель.",
+  "string": "Призывает бронированного скелета на <dur> с туда, куда указывает заклинатель.",
   "form_id": "0034FFBD|Olenveld.esp",
   "type": "MGEF DNAM",
   "index": null,
@@ -313,7 +313,7 @@
  },
  {
   "original": "Summons a Glacier Spriggan for <dur> seconds.",
-  "string": "Призывает ледникового сприггана на <dur> сек.",
+  "string": "Призывает ледникового сприггана на <dur> с.",
   "form_id": "00462FAE|Olenveld.esp",
   "type": "MGEF DNAM",
   "index": null,
@@ -425,7 +425,7 @@
  },
  {
   "original": "Summons a Steel Armored Skeleton for <dur> seconds wherever the caster is pointing.",
-  "string": "Призывает скелета в стальной броне на <dur> сек. туда, куда указывает заклинатель.",
+  "string": "Призывает скелета в стальной броне на <dur> с туда, куда указывает заклинатель.",
   "form_id": "0034FFBB|Olenveld.esp",
   "type": "MGEF DNAM",
   "index": null,
@@ -529,7 +529,7 @@
  },
  {
   "original": "Summons a Skeleton Berserker for <dur> seconds wherever the caster is pointing.",
-  "string": "Призывает скелета-берсерка на <dur> сек. туда, куда указывает заклинатель.",
+  "string": "Призывает скелета-берсерка на <dur> с туда, куда указывает заклинатель.",
   "form_id": "0034FFBE|Olenveld.esp",
   "type": "MGEF DNAM",
   "index": null,
@@ -10329,7 +10329,7 @@
  },
  {
   "original": "Watch your troops (30 sec will ask again)",
-  "string": "Наблюдать за войсками (вопрос повторится через 30 сек.)",
+  "string": "Наблюдать за войсками (вопрос повторится через 30 с)",
   "form_id": "00627C97|Olenveld.esp",
   "type": "MESG ITXT",
   "index": 0,

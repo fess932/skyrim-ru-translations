@@ -9,7 +9,7 @@
  },
  {
   "original": "Chef Doll",
-  "string": "Кукла «Шеф-повар»",
+  "string": "Кукла \"Шеф-повар\"",
   "form_id": "00000805|DBM_AdditionalHFDolls_Patch.esp",
   "type": "ACTI FULL",
   "index": null,
@@ -17,7 +17,7 @@
  },
  {
   "original": "Dark Brotherhood Doll",
-  "string": "Кукла «Темное Братство»",
+  "string": "Кукла \"Темное Братство\"",
   "form_id": "00000806|DBM_AdditionalHFDolls_Patch.esp",
   "type": "ACTI FULL",
   "index": null,
@@ -25,7 +25,7 @@
  },
  {
   "original": "Dragonborn Doll",
-  "string": "Кукла «Довакин»",
+  "string": "Кукла \"Довакин\"",
   "form_id": "00000807|DBM_AdditionalHFDolls_Patch.esp",
   "type": "ACTI FULL",
   "index": null,
@@ -33,7 +33,7 @@
  },
  {
   "original": "Dragon Priest Doll",
-  "string": "Кукла «Драконий жрец»",
+  "string": "Кукла \"Драконий жрец\"",
   "form_id": "00000828|DBM_AdditionalHFDolls_Patch.esp",
   "type": "ACTI FULL",
   "index": null,
@@ -41,7 +41,7 @@
  },
  {
   "original": "Blacksmith Doll",
-  "string": "Кукла «Кузнец»",
+  "string": "Кукла \"Кузнец\"",
   "form_id": "00000829|DBM_AdditionalHFDolls_Patch.esp",
   "type": "ACTI FULL",
   "index": null,
@@ -49,7 +49,7 @@
  },
  {
   "original": "Imperial Doll",
-  "string": "Кукла «Имперец»",
+  "string": "Кукла \"Имперец\"",
   "form_id": "0000082A|DBM_AdditionalHFDolls_Patch.esp",
   "type": "ACTI FULL",
   "index": null,
@@ -57,7 +57,7 @@
  },
  {
   "original": "Stormcloak Doll",
-  "string": "Кукла «Брат Бури»",
+  "string": "Кукла \"Брат Бури\"",
   "form_id": "0000082B|DBM_AdditionalHFDolls_Patch.esp",
   "type": "ACTI FULL",
   "index": null,
@@ -65,7 +65,7 @@
  },
  {
   "original": "Thalmor Doll",
-  "string": "Кукла «Талморец»",
+  "string": "Кукла \"Талморец\"",
   "form_id": "0000082C|DBM_AdditionalHFDolls_Patch.esp",
   "type": "ACTI FULL",
   "index": null,
@@ -73,7 +73,7 @@
  },
  {
   "original": "Spriggan Doll",
-  "string": "Кукла «Спригган»",
+  "string": "Кукла \"Спригган\"",
   "form_id": "0000082D|DBM_AdditionalHFDolls_Patch.esp",
   "type": "ACTI FULL",
   "index": null,
@@ -81,7 +81,7 @@
  },
  {
   "original": "Mythic Dawn Doll",
-  "string": "Кукла «Мифический Рассвет»",
+  "string": "Кукла \"Мифический Рассвет\"",
   "form_id": "0000082E|DBM_AdditionalHFDolls_Patch.esp",
   "type": "ACTI FULL",
   "index": null,
@@ -89,7 +89,7 @@
  },
  {
   "original": "Orc Doll",
-  "string": "Кукла «Орочьи доспехи»",
+  "string": "Кукла \"Орочьи доспехи\"",
   "form_id": "0000082F|DBM_AdditionalHFDolls_Patch.esp",
   "type": "ACTI FULL",
   "index": null,
@@ -97,7 +97,7 @@
  },
  {
   "original": "Executioner Doll",
-  "string": "Кукла «Палач»",
+  "string": "Кукла \"Палач\"",
   "form_id": "00000830|DBM_AdditionalHFDolls_Patch.esp",
   "type": "ACTI FULL",
   "index": null,
@@ -105,7 +105,7 @@
  },
  {
   "original": "Archmage Doll",
-  "string": "Кукла «Архимаг»",
+  "string": "Кукла \"Архимаг\"",
   "form_id": "000008D0|DBM_AdditionalHFDolls_Patch.esp",
   "type": "ACTI FULL",
   "index": null,
@@ -161,7 +161,7 @@
  },
  {
   "original": "Jester Doll",
-  "string": "Кукла «Шут»",
+  "string": "Кукла \"Шут\"",
   "form_id": "00000919|DBM_AdditionalHFDolls_Patch.esp",
   "type": "ACTI FULL",
   "index": null,
@@ -169,7 +169,7 @@
  },
  {
   "original": "Frost Atronach Doll",
-  "string": "Кукла «Ледяной атронах»",
+  "string": "Кукла \"Ледяной атронах\"",
   "form_id": "0000091A|DBM_AdditionalHFDolls_Patch.esp",
   "type": "ACTI FULL",
   "index": null,
@@ -193,7 +193,7 @@
  },
  {
   "original": "Graybeard Doll",
-  "string": "Кукла «Седобородый»",
+  "string": "Кукла \"Седобородый\"",
   "form_id": "0000091D|DBM_AdditionalHFDolls_Patch.esp",
   "type": "ACTI FULL",
   "index": null,
@@ -265,7 +265,7 @@
  },
  {
   "original": "Hooded Doll",
-  "string": "Кукла «Смертник в капюшоне»",
+  "string": "Кукла \"Смертник в капюшоне\"",
   "form_id": "00000926|DBM_AdditionalHFDolls_Patch.esp",
   "type": "ACTI FULL",
   "index": null,
@@ -273,7 +273,7 @@
  },
  {
   "original": "Nightingale Doll",
-  "string": "Кукла «Соловей»",
+  "string": "Кукла \"Соловей\"",
   "form_id": "00000927|DBM_AdditionalHFDolls_Patch.esp",
   "type": "ACTI FULL",
   "index": null,
@@ -297,7 +297,7 @@
  },
  {
   "original": "Mage Doll",
-  "string": "Кукла «Маг»",
+  "string": "Кукла \"Маг\"",
   "form_id": "00000A26|DBM_AdditionalHFDolls_Patch.esp",
   "type": "ACTI FULL",
   "index": null,
@@ -305,7 +305,7 @@
  },
  {
   "original": "Prisoner Doll",
-  "string": "Кукла «Узник»",
+  "string": "Кукла \"Узник\"",
   "form_id": "00000A27|DBM_AdditionalHFDolls_Patch.esp",
   "type": "ACTI FULL",
   "index": null,
@@ -313,7 +313,7 @@
  },
  {
   "original": "Redguard Doll",
-  "string": "Кукла «Редгард»",
+  "string": "Кукла \"Редгард\"",
   "form_id": "00000A28|DBM_AdditionalHFDolls_Patch.esp",
   "type": "ACTI FULL",
   "index": null,
@@ -321,7 +321,7 @@
  },
  {
   "original": "Thief Doll",
-  "string": "Кукла «Вор»",
+  "string": "Кукла \"Вор\"",
   "form_id": "00000A29|DBM_AdditionalHFDolls_Patch.esp",
   "type": "ACTI FULL",
   "index": null,
@@ -361,7 +361,7 @@
  },
  {
   "original": "Chef Doll (replica)",
-  "string": "Кукла «Шеф-повар» (копия)",
+  "string": "Кукла \"Шеф-повар\" (копия)",
   "form_id": "00000831|DBM_AdditionalHFDolls_Patch.esp",
   "type": "MISC FULL",
   "index": null,
@@ -369,7 +369,7 @@
  },
  {
   "original": "Dark Brotherhood Doll (replica)",
-  "string": "Кукла «Темное Братство» (копия)",
+  "string": "Кукла \"Темное Братство\" (копия)",
   "form_id": "00000832|DBM_AdditionalHFDolls_Patch.esp",
   "type": "MISC FULL",
   "index": null,
@@ -377,7 +377,7 @@
  },
  {
   "original": "Dragonborn Doll (replica)",
-  "string": "Кукла «Довакин» (копия)",
+  "string": "Кукла \"Довакин\" (копия)",
   "form_id": "00000833|DBM_AdditionalHFDolls_Patch.esp",
   "type": "MISC FULL",
   "index": null,
@@ -385,7 +385,7 @@
  },
  {
   "original": "Jester Doll (replica)",
-  "string": "Кукла «Шут» (копия)",
+  "string": "Кукла \"Шут\" (копия)",
   "form_id": "00000834|DBM_AdditionalHFDolls_Patch.esp",
   "type": "MISC FULL",
   "index": null,
@@ -393,7 +393,7 @@
  },
  {
   "original": "Mage Doll (replica)",
-  "string": "Кукла «Маг» (копия)",
+  "string": "Кукла \"Маг\" (копия)",
   "form_id": "00000835|DBM_AdditionalHFDolls_Patch.esp",
   "type": "MISC FULL",
   "index": null,
@@ -401,7 +401,7 @@
  },
  {
   "original": "Prisoner Doll (replica)",
-  "string": "Кукла «Узник» (копия)",
+  "string": "Кукла \"Узник\" (копия)",
   "form_id": "00000836|DBM_AdditionalHFDolls_Patch.esp",
   "type": "MISC FULL",
   "index": null,
@@ -409,7 +409,7 @@
  },
  {
   "original": "Redguard Doll (replica)",
-  "string": "Кукла «Редгард» (копия)",
+  "string": "Кукла \"Редгард\" (копия)",
   "form_id": "00000837|DBM_AdditionalHFDolls_Patch.esp",
   "type": "MISC FULL",
   "index": null,
@@ -417,7 +417,7 @@
  },
  {
   "original": "Thief Doll (replica)",
-  "string": "Кукла «Вор» (копия)",
+  "string": "Кукла \"Вор\" (копия)",
   "form_id": "00000838|DBM_AdditionalHFDolls_Patch.esp",
   "type": "MISC FULL",
   "index": null,
@@ -425,7 +425,7 @@
  },
  {
   "original": "Companion Doll (replica)",
-  "string": "Кукла «Соратник» (копия)",
+  "string": "Кукла \"Соратник\" (копия)",
   "form_id": "00000839|DBM_AdditionalHFDolls_Patch.esp",
   "type": "MISC FULL",
   "index": null,
@@ -433,7 +433,7 @@
  },
  {
   "original": "Blacksmith Doll (replica)",
-  "string": "Кукла «Кузнец» (копия)",
+  "string": "Кукла \"Кузнец\" (копия)",
   "form_id": "00000844|DBM_AdditionalHFDolls_Patch.esp",
   "type": "MISC FULL",
   "index": null,
@@ -441,7 +441,7 @@
  },
  {
   "original": "Dragon Priest Doll (replica)",
-  "string": "Кукла «Драконий жрец» (копия)",
+  "string": "Кукла \"Драконий жрец\" (копия)",
   "form_id": "00000845|DBM_AdditionalHFDolls_Patch.esp",
   "type": "MISC FULL",
   "index": null,
@@ -449,7 +449,7 @@
  },
  {
   "original": "Executioner Doll (replica)",
-  "string": "Кукла «Палач» (копия)",
+  "string": "Кукла \"Палач\" (копия)",
   "form_id": "00000846|DBM_AdditionalHFDolls_Patch.esp",
   "type": "MISC FULL",
   "index": null,
@@ -457,7 +457,7 @@
  },
  {
   "original": "Imperial Doll (replica)",
-  "string": "Кукла «Имперец» (копия)",
+  "string": "Кукла \"Имперец\" (копия)",
   "form_id": "00000847|DBM_AdditionalHFDolls_Patch.esp",
   "type": "MISC FULL",
   "index": null,
@@ -465,7 +465,7 @@
  },
  {
   "original": "Mythic Dawn Doll (replica)",
-  "string": "Кукла «Мифический Рассвет» (копия)",
+  "string": "Кукла \"Мифический Рассвет\" (копия)",
   "form_id": "00000848|DBM_AdditionalHFDolls_Patch.esp",
   "type": "MISC FULL",
   "index": null,
@@ -473,7 +473,7 @@
  },
  {
   "original": "Orc Doll (replica)",
-  "string": "Кукла «Орочьи доспехи» (копия)",
+  "string": "Кукла \"Орочьи доспехи\" (копия)",
   "form_id": "00000849|DBM_AdditionalHFDolls_Patch.esp",
   "type": "MISC FULL",
   "index": null,
@@ -481,7 +481,7 @@
  },
  {
   "original": "Spriggan Doll (replica)",
-  "string": "Кукла «Спригган» (копия)",
+  "string": "Кукла \"Спригган\" (копия)",
   "form_id": "0000084A|DBM_AdditionalHFDolls_Patch.esp",
   "type": "MISC FULL",
   "index": null,
@@ -489,7 +489,7 @@
  },
  {
   "original": "Stormcloak Doll (replica)",
-  "string": "Кукла «Брат Бури» (копия)",
+  "string": "Кукла \"Брат Бури\" (копия)",
   "form_id": "0000084B|DBM_AdditionalHFDolls_Patch.esp",
   "type": "MISC FULL",
   "index": null,
@@ -497,7 +497,7 @@
  },
  {
   "original": "Thalmor Doll (replica)",
-  "string": "Кукла «Талморец» (копия)",
+  "string": "Кукла \"Талморец\" (копия)",
   "form_id": "0000084C|DBM_AdditionalHFDolls_Patch.esp",
   "type": "MISC FULL",
   "index": null,
@@ -505,7 +505,7 @@
  },
  {
   "original": "Archmage Doll (replica)",
-  "string": "Кукла «Архимаг» (копия)",
+  "string": "Кукла \"Архимаг\" (копия)",
   "form_id": "000008CD|DBM_AdditionalHFDolls_Patch.esp",
   "type": "MISC FULL",
   "index": null,
@@ -561,7 +561,7 @@
  },
  {
   "original": "Frost Atronach Doll (replica)",
-  "string": "Кукла «Ледяной атронах» (копия)",
+  "string": "Кукла \"Ледяной атронах\" (копия)",
   "form_id": "000008D7|DBM_AdditionalHFDolls_Patch.esp",
   "type": "MISC FULL",
   "index": null,
@@ -577,7 +577,7 @@
  },
  {
   "original": "Graybeard Doll (replica)",
-  "string": "Кукла «Седобородый» (копия)",
+  "string": "Кукла \"Седобородый\" (копия)",
   "form_id": "000008D9|DBM_AdditionalHFDolls_Patch.esp",
   "type": "MISC FULL",
   "index": null,
@@ -657,7 +657,7 @@
  },
  {
   "original": "Hooded Doll (replica)",
-  "string": "Кукла «Смертник в капюшоне» (копия)",
+  "string": "Кукла \"Смертник в капюшоне\" (копия)",
   "form_id": "000008E3|DBM_AdditionalHFDolls_Patch.esp",
   "type": "MISC FULL",
   "index": null,
@@ -665,7 +665,7 @@
  },
  {
   "original": "Nightingale Doll (replica)",
-  "string": "Кукла «Соловей» (копия)",
+  "string": "Кукла \"Соловей\" (копия)",
   "form_id": "000008E4|DBM_AdditionalHFDolls_Patch.esp",
   "type": "MISC FULL",
   "index": null,

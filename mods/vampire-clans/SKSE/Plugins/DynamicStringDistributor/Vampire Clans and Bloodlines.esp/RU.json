@@ -1001,7 +1001,7 @@
  },
  {
   "original": "Summons a Lost Soul for <dur> seconds wherever the caster is pointing.",
-  "string": "Призывает заблудшую душу на <dur> сек. туда, куда указывает заклинатель.",
+  "string": "Призывает заблудшую душу на <dur> с туда, куда указывает заклинатель.",
   "form_id": "00349246|Vampire Clans and Bloodlines.esp",
   "type": "MGEF DNAM",
   "index": null,

@@ -513,7 +513,7 @@
  },
  {
   "original": "Projects a beam of volatile light that deals <mag> damage per second to Health, Stamina, and Magicka for <dur> seconds.",
-  "string": "Луч нестабильного света, который в течение <dur> сек. наносит <mag> ед. урона здоровью, запасу сил и магии в секунду.",
+  "string": "Луч нестабильного света, который в течение <dur> с наносит <mag> ед. урона здоровью, запасу сил и магии в секунду.",
   "form_id": "00000801|BecomeKingofSkyrimTNG.esp",
   "type": "MGEF DNAM",
   "index": null,
@@ -665,7 +665,7 @@
  },
  {
   "original": "Circles the caster in blades of divine light. For <dur> seconds, nearby enemies stagger and take <40> damage to Health, Stamina, and Magicka each second.",
-  "string": "Окружает заклинателя клинками божественного света. В течение <dur> сек. ближайшие враги ошеломлены и получают <40> ед. урона здоровью, запасу сил и магии в секунду.",
+  "string": "Окружает заклинателя клинками божественного света. В течение <dur> с ближайшие враги ошеломлены и получают <40> ед. урона здоровью, запасу сил и магии в секунду.",
   "form_id": "0000080F|BecomeKingofSkyrimTNG.esp",
   "type": "MGEF DNAM",
   "index": null,
@@ -729,7 +729,7 @@
  },
  {
   "original": "Searing light dealing <mag> points of Health, Stamina, and Magicka damage. Cannot move for <dur> seconds.",
-  "string": "Обжигающий свет наносит <mag> ед. урона здоровью, запасу сил и магии. Цель не может двигаться <dur> сек.",
+  "string": "Обжигающий свет наносит <mag> ед. урона здоровью, запасу сил и магии. Цель не может двигаться <dur> с.",
   "form_id": "00000817|BecomeKingofSkyrimTNG.esp",
   "type": "MGEF DNAM",
   "index": null,
@@ -929,7 +929,7 @@
  },
  {
   "original": "Calls forth spectral vines born of royal decree, binding enemies for <dur> seconds. Their bodies harden into living stone as the thorns pierce flesh, dealing <mag> poison damage each second. Justice blooms from the soil of Highreach.",
-  "string": "Призывает призрачные лозы, рожденные королевским указом, которые сковывают врагов на <dur> сек. Их тела каменеют, а шипы пронзают плоть, нанося <mag> ед. урона ядом в секунду. Правосудие прорастает из почвы Горного Предела.",
+  "string": "Призывает призрачные лозы, рожденные королевским указом, которые сковывают врагов на <dur> с. Их тела каменеют, а шипы пронзают плоть, нанося <mag> ед. урона ядом в секунду. Правосудие прорастает из почвы Горного Предела.",
   "form_id": "00055AD2|BecomeKingofSkyrimTNG.esp",
   "type": "MGEF DNAM",
   "index": null,
@@ -1065,7 +1065,7 @@
  },
  {
   "original": "Targets take <mag> poison damage per second for <dur> seconds.",
-  "string": "Цели получают <mag> ед. урона ядом в секунду в течение <dur> сек.",
+  "string": "Цели получают <mag> ед. урона ядом в секунду в течение <dur> с.",
   "form_id": "00055AE5|BecomeKingofSkyrimTNG.esp",
   "type": "MGEF DNAM",
   "index": null,
@@ -1241,7 +1241,7 @@
  },
  {
   "original": "Victims will attack anyone nearby for <dur> seconds.",
-  "string": "В течение <dur> сек. жертвы нападают на всех, кто рядом.",
+  "string": "В течение <dur> с жертвы нападают на всех, кто рядом.",
   "form_id": "00055B43|BecomeKingofSkyrimTNG.esp",
   "type": "MGEF DNAM",
   "index": null,
@@ -1265,7 +1265,7 @@
  },
  {
   "original": "For <dur> seconds, Royal spells deal 100% more damage but cost 50% more Magicka. Dual cast to end the effect.",
-  "string": "В течение <dur> сек. королевские заклинания наносят на 100% больше урона, но стоят на 50% больше магии. Сотворите двумя руками, чтобы прекратить эффект.",
+  "string": "В течение <dur> с королевские заклинания наносят на 100% больше урона, но стоят на 50% больше магии. Сотворите двумя руками, чтобы прекратить эффект.",
   "form_id": "00055B45|BecomeKingofSkyrimTNG.esp",
   "type": "MGEF DNAM",
   "index": null,
@@ -1281,7 +1281,7 @@
  },
  {
   "original": "For <dur> seconds, Royal spells deal 50% less damage, cost 50% less Magicka, and are less likely to alert enemies. Dual cast to end the effect.",
-  "string": "В течение <dur> сек. королевские заклинания наносят на 50% меньше урона, стоят на 50% меньше магии и реже привлекают внимание врагов. Сотворите двумя руками, чтобы прекратить эффект.",
+  "string": "В течение <dur> с королевские заклинания наносят на 50% меньше урона, стоят на 50% меньше магии и реже привлекают внимание врагов. Сотворите двумя руками, чтобы прекратить эффект.",
   "form_id": "00055B46|BecomeKingofSkyrimTNG.esp",
   "type": "MGEF DNAM",
   "index": null,
@@ -1369,7 +1369,7 @@
  },
  {
   "original": "Creates a radiant ward that protects against disease and hostile magic for <dur> seconds. When struck, beams of royal light arc between attackers, dealing <mag> damage.",
-  "string": "Создает сияющий оберег, который защищает от болезней и враждебной магии в течение <dur> сек. При ударе лучи королевского света бьют по нападающим, нанося <mag> ед. урона.",
+  "string": "Создает сияющий оберег, который защищает от болезней и враждебной магии в течение <dur> с. При ударе лучи королевского света бьют по нападающим, нанося <mag> ед. урона.",
   "form_id": "00055B92|BecomeKingofSkyrimTNG.esp",
   "type": "MGEF DNAM",
   "index": null,
@@ -1569,7 +1569,7 @@
  },
  {
   "original": "For <dur> seconds, bolts of sunlight are cast from the sky to strike nearby opponents, each dealing <mag> points of damage. Undead take double damage.",
-  "string": "В течение <dur> сек. с неба бьют лучи солнечного света, поражая ближайших противников. Каждый наносит <mag> ед. урона. Нежить получает двойной урон.",
+  "string": "В течение <dur> с с неба бьют лучи солнечного света, поражая ближайших противников. Каждый наносит <mag> ед. урона. Нежить получает двойной урон.",
   "form_id": "00055BA6|BecomeKingofSkyrimTNG.esp",
   "type": "MGEF DNAM",
   "index": null,
@@ -1681,7 +1681,7 @@
  },
  {
   "original": "Summons a mace of divine power for <dur> seconds. It deals sun damage, additional damage to undead, and heals you for the damage dealt.",
-  "string": "Призывает булаву божественной силы на <dur> сек. Она наносит урон солнечным светом, дополнительный урон нежити и исцеляет вас на величину нанесенного урона.",
+  "string": "Призывает булаву божественной силы на <dur> с. Она наносит урон солнечным светом, дополнительный урон нежити и исцеляет вас на величину нанесенного урона.",
   "form_id": "00055BDC|BecomeKingofSkyrimTNG.esp",
   "type": "MGEF DNAM",
   "index": null,
@@ -1705,7 +1705,7 @@
  },
  {
   "original": "Detonates in a fiery explosion for <mag> damage, leaving behind burning mist that lasts for <dur> seconds.",
-  "string": "Взрывается огненным взрывом, нанося <mag> ед. урона, и оставляет горящий туман, который держится <dur> сек.",
+  "string": "Взрывается огненным взрывом, нанося <mag> ед. урона, и оставляет горящий туман, который держится <dur> с.",
   "form_id": "00055BDE|BecomeKingofSkyrimTNG.esp",
   "type": "MGEF DNAM",
   "index": null,
@@ -1913,7 +1913,7 @@
  },
  {
   "original": "Summons the Lady of the Lake wielding the Blade of Light for <dur> seconds.",
-  "string": "Призывает Владычицу Озера с Клинком света на <dur> сек.",
+  "string": "Призывает Владычицу Озера с Клинком света на <dur> с.",
   "form_id": "000660A1|BecomeKingofSkyrimTNG.esp",
   "type": "MGEF DNAM",
   "index": null,
@@ -1945,7 +1945,7 @@
  },
  {
   "original": "Forces creatures and people up to level <mag> to flee in fear for <dur> seconds.",
-  "string": "Существа и люди до <mag> уровня в страхе убегают на <dur> сек.",
+  "string": "Существа и люди до <mag> уровня в страхе убегают на <dur> с.",
   "form_id": "00071181|BecomeKingofSkyrimTNG.esp",
   "type": "MGEF DNAM",
   "index": null,
@@ -2393,7 +2393,7 @@
  },
  {
   "original": "Summons two Crownsguard to fight for you for 10 seconds.",
-  "string": "Призывает двух бойцов коронной стражи, которые сражаются за вас 10 сек.",
+  "string": "Призывает двух бойцов коронной стражи, которые сражаются за вас 10 с.",
   "form_id": "0006609A|BecomeKingofSkyrimTNG.esp",
   "type": "SPEL DESC",
   "index": null,
@@ -2417,7 +2417,7 @@
  },
  {
   "original": "Summons five Argonian Rootbind warriors for 5 seconds to fight under your command.",
-  "string": "Призывает пятерых аргониан-воинов корневязов, которые 5 сек. сражаются под вашим командованием.",
+  "string": "Призывает пятерых аргониан-воинов корневязов, которые 5 с сражаются под вашим командованием.",
   "form_id": "0006609D|BecomeKingofSkyrimTNG.esp",
   "type": "SPEL DESC",
   "index": null,
@@ -2433,7 +2433,7 @@
  },
  {
   "original": "Calms the target for 30 seconds, easing hostility through the Crown's command.",
-  "string": "Успокаивает цель на 30 сек., смиряя ее враждебность волей короны.",
+  "string": "Успокаивает цель на 30 с, смиряя ее враждебность волей короны.",
   "form_id": "000660A5|BecomeKingofSkyrimTNG.esp",
   "type": "SPEL DESC",
   "index": null,
@@ -2457,7 +2457,7 @@
  },
  {
   "original": "Targets will not flee for 300 seconds and gain +50 Health and +50 Stamina.",
-  "string": "Цели не убегают в течение 300 сек. и получают +50 к здоровью и +50 к запасу сил.",
+  "string": "Цели не убегают в течение 300 с и получают +50 к здоровью и +50 к запасу сил.",
   "form_id": "000660A8|BecomeKingofSkyrimTNG.esp",
   "type": "SPEL DESC",
   "index": null,
@@ -2897,7 +2897,7 @@
  },
  {
   "original": "Summons a mystic bow for 10 seconds, used by Highreach's royal rangers.",
-  "string": "Призывает на 10 сек. мистический лук, которым пользуются королевские следопыты Горного Предела.",
+  "string": "Призывает на 10 с мистический лук, которым пользуются королевские следопыты Горного Предела.",
   "form_id": "000660AA|BecomeKingofSkyrimTNG.esp",
   "type": "SPEL DESC",
   "index": null,
@@ -63089,7 +63089,7 @@
  },
  {
   "original": "Don't trust a talking bucket. Just… don't.",
-  "string": "Не доверяйте говорящему ведру. Просто… не надо.",
+  "string": "Не доверяйте говорящему ведру. Просто... не надо.",
   "form_id": "00409C36|BecomeKingofSkyrimTNG.esp",
   "type": "INFO NAM1",
   "index": 1,

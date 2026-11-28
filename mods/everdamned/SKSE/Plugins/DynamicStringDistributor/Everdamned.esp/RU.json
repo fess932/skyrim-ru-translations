@@ -241,7 +241,7 @@
  },
  {
   "original": "Blend into your surroundings, gaining unbreakable invisibility for <dur> seconds while sneaking. <Nightlord> vampires or older do not have to sneak. Ends immediately when hit. (Cost: 300 Vitae)",
-  "string": "Слияние с окружением: нерушимая невидимость на <dur> сек. при скрытном передвижении. Вампирам ранга <Владыка ночи> и старше красться не нужно. Эффект сразу прекращается при получении удара. (Цена: 300 ед. витэ)",
+  "string": "Слияние с окружением: нерушимая невидимость на <dur> с при скрытном передвижении. Вампирам ранга <Владыка ночи> и старше красться не нужно. Эффект сразу прекращается при получении удара. (Цена: 300 ед. витэ)",
   "form_id": "0056D524|Everdamned.esp",
   "type": "MGEF DNAM",
   "index": null,
@@ -257,7 +257,7 @@
  },
  {
   "original": "When talking to unoccupied people, adds new dialogue options that must be obeyed. Lasts <dur> seconds. Costs <400> Vitae.",
-  "string": "В разговоре с незанятыми людьми появляются новые варианты реплик, которым нельзя не подчиниться. Длительность: <dur> сек. Цена: <400> ед. витэ.",
+  "string": "В разговоре с незанятыми людьми появляются новые варианты реплик, которым нельзя не подчиниться. Длительность: <dur> с. Цена: <400> ед. витэ.",
   "form_id": "00572629|Everdamned.esp",
   "type": "MGEF DNAM",
   "index": null,
@@ -273,7 +273,7 @@
  },
  {
   "original": "Power belongs to those who take it. Combat and social skills are <30>% better for <dur> seconds.",
-  "string": "Власть принадлежит тем, кто ее берет. Боевые и социальные навыки на <30>% эффективнее в течение <dur> сек.",
+  "string": "Власть принадлежит тем, кто ее берет. Боевые и социальные навыки на <30>% эффективнее в течение <dur> с.",
   "form_id": "0058BB35|Everdamned.esp",
   "type": "MGEF DNAM",
   "index": null,
@@ -345,7 +345,7 @@
  },
  {
   "original": "Blend into your surroundings, gaining unbreakable invisibility for <dur> seconds.",
-  "string": "Слияние с окружением: нерушимая невидимость на <dur> сек.",
+  "string": "Слияние с окружением: нерушимая невидимость на <dur> с.",
   "form_id": "00033975|Skyrim.esm",
   "type": "MGEF DNAM",
   "index": null,
@@ -681,7 +681,7 @@
  },
  {
   "original": "Poisoned talons do <mag> points of damage for <dur> seconds and absorb the same amount of Magicka.",
-  "string": "Отравленные когти наносят <mag> ед. урона в течение <dur> сек. и поглощают столько же магии.",
+  "string": "Отравленные когти наносят <mag> ед. урона в течение <dur> с и поглощают столько же магии.",
   "form_id": "000059A2|Dawnguard.esm",
   "type": "MGEF DNAM",
   "index": null,
@@ -705,7 +705,7 @@
  },
  {
   "original": "You are invulnerable but unable to attack for <dur> seconds, recovering Health, Magicka and Stamina.",
-  "string": "Неуязвимость и невозможность атаковать в течение <dur> сек., с восстановлением здоровья, магии и запаса сил.",
+  "string": "Неуязвимость и невозможность атаковать в течение <dur> с, с восстановлением здоровья, магии и запаса сил.",
   "form_id": "0000D651|Dawnguard.esm",
   "type": "MGEF DNAM",
   "index": null,
@@ -825,7 +825,7 @@
  },
  {
   "original": "Transform into a swarm of bats for <dur> seconds and dash a short distance.",
-  "string": "Превращение в стаю летучих мышей на <dur> сек. и короткий рывок.",
+  "string": "Превращение в стаю летучих мышей на <dur> с и короткий рывок.",
   "form_id": "0001571A|Dawnguard.esm",
   "type": "MGEF DNAM",
   "index": null,
@@ -841,7 +841,7 @@
  },
  {
   "original": "Summons a Gargoyle for <dur> seconds. (Cost: 100 Vitae)",
-  "string": "Призывает гаргулью на <dur> сек. (Цена: 100 ед. витэ)",
+  "string": "Призывает гаргулью на <dur> с (Цена: 100 ед. витэ)",
   "form_id": "00016906|Dawnguard.esm",
   "type": "MGEF DNAM",
   "index": null,
@@ -913,7 +913,7 @@
  },
  {
   "original": "Invisible and invulnerable but unable to fight for <dur> seconds, recovering Health, Magicka and Stamina.",
-  "string": "Невидимость и неуязвимость, но невозможность сражаться в течение <dur> сек., с восстановлением здоровья, магии и запаса сил.",
+  "string": "Невидимость и неуязвимость, но невозможность сражаться в течение <dur> с, с восстановлением здоровья, магии и запаса сил.",
   "form_id": "0001A321|Dawnguard.esm",
   "type": "MGEF DNAM",
   "index": null,
@@ -985,7 +985,7 @@
  },
  {
   "original": "With a small chance, upon receiving an unblocked hit you will retaliate with a <Calming> charm. Effect lasts <15> seconds and has <30> seconds cooldown per person. Only works if attacking group in no smaller than two members.",
-  "string": "С небольшой вероятностью при пропущенном ударе срабатывает ответное <успокаивающее> очарование. Эффект длится <15> сек., перезарядка — <30> сек. для каждого человека. Работает, только если нападающих не меньше двух.",
+  "string": "С небольшой вероятностью при пропущенном ударе срабатывает ответное <успокаивающее> очарование. Эффект длится <15> сек., перезарядка - <30> сек. для каждого человека. Работает, только если нападающих не меньше двух.",
   "form_id": "000073DE|Everdamned.esp",
   "type": "MGEF DNAM",
   "index": null,
@@ -1017,7 +1017,7 @@
  },
  {
   "original": "For <dur> seconds you move with speed so great that to those around you appear as nothing but a blur. Tap Hotkey <A> to activate, hold to dispel prematurely. (Cost: <400> Vitae)",
-  "string": "В течение <dur> сек. скорость движения так велика, что окружающие видят лишь размытую тень. Нажатие клавиши <A> активирует эффект, удержание досрочно отключает его. (Цена: <400> ед. витэ)",
+  "string": "В течение <dur> с скорость движения так велика, что окружающие видят лишь размытую тень. Нажатие клавиши <A> активирует эффект, удержание досрочно отключает его. (Цена: <400> ед. витэ)",
   "form_id": "00011D3B|Everdamned.esp",
   "type": "MGEF DNAM",
   "index": null,
@@ -1033,7 +1033,7 @@
  },
  {
   "original": "Time is slowed for <dur> seconds.",
-  "string": "Время замедлено на <dur> сек.",
+  "string": "Время замедлено на <dur> с.",
   "form_id": "00011D3C|Everdamned.esp",
   "type": "MGEF DNAM",
   "index": null,
@@ -1361,7 +1361,7 @@
  },
  {
   "original": "Summons a Fogling for <dur> seconds.",
-  "string": "Призывает туманника на <dur> сек.",
+  "string": "Призывает туманника на <dur> с.",
   "form_id": "0006C84D|Everdamned.esp",
   "type": "MGEF DNAM",
   "index": null,
@@ -1513,7 +1513,7 @@
  },
  {
   "original": "Razor-sharp claws leave deep wounds, doing <mag> points of bleed damage for <dur> seconds.",
-  "string": "Острые как бритва когти оставляют глубокие раны, нанося <mag> ед. урона кровотечением в течение <dur> сек.",
+  "string": "Острые как бритва когти оставляют глубокие раны, нанося <mag> ед. урона кровотечением в течение <dur> с.",
   "form_id": "000935BA|Everdamned.esp",
   "type": "MGEF DNAM",
   "index": null,
@@ -1537,7 +1537,7 @@
  },
  {
   "original": "Restores <mag> Vitae for <dur> seconds.",
-  "string": "Восстанавливает <mag> ед. витэ в течение <dur> сек.",
+  "string": "Восстанавливает <mag> ед. витэ в течение <dur> с.",
   "form_id": "00095D59|Everdamned.esp",
   "type": "MGEF DNAM",
   "index": null,
@@ -1833,7 +1833,7 @@
  },
  {
   "original": "Reanimate a dead body up to level <mag> to fight for you for <dur> seconds. (Cost: <100> Vitae)",
-  "string": "Оживляет мертвое тело уровня не выше <mag>, чтобы оно сражалось за заклинателя <dur> сек. (Цена: <100> ед. витэ)",
+  "string": "Оживляет мертвое тело уровня не выше <mag>, чтобы оно сражалось за заклинателя <dur> с (Цена: <100> ед. витэ)",
   "form_id": "001506DC|Everdamned.esp",
   "type": "MGEF DNAM",
   "index": null,
@@ -1937,7 +1937,7 @@
  },
  {
   "original": "Your thirst is quenched for now - you are <Sated>.",
-  "string": "Жажда пока утолена — состояние: <Сытый>.",
+  "string": "Жажда пока утолена - состояние: <Сытый>.",
   "form_id": "001BC6C7|Everdamned.esp",
   "type": "MGEF DNAM",
   "index": null,
@@ -1969,7 +1969,7 @@
  },
  {
   "original": "You can hardly think about anything other than warm, tasty blood and how <Parched> you are for it. You cannof feed without draining, suffer a -<mag> penalty to Speech and sunlight becomes far more punishing, but growing blood lust adds <6.5> to the base damage of Vampiric Drain and makes it much easier to drain enemies in combat.",
-  "string": "Все мысли — только о теплой, вкусной крови: состояние <Иссохший>. Кормиться можно только осушая жертву; штраф -<mag> к красноречию, солнечный свет гораздо опаснее, но растущая жажда крови добавляет <6.5> к базовому урону Вампирского высасывания и намного облегчает высасывание врагов в бою.",
+  "string": "Все мысли - только о теплой, вкусной крови: состояние <Иссохший>. Кормиться можно только осушая жертву; штраф -<mag> к красноречию, солнечный свет гораздо опаснее, но растущая жажда крови добавляет <6.5> к базовому урону Вампирского высасывания и намного облегчает высасывание врагов в бою.",
   "form_id": "001BC6C9|Everdamned.esp",
   "type": "MGEF DNAM",
   "index": null,
@@ -2041,7 +2041,7 @@
  },
  {
   "original": "Your Vampiric influence makes Illusion spells be <mag>% stronger and longer, and makes intimidation attempts twice as likely to succeed.",
-  "string": "Вампирское влияние делает заклинания Иллюзии на <mag>% сильнее и дольше, а попытки запугивания — вдвое успешнее.",
+  "string": "Вампирское влияние делает заклинания Иллюзии на <mag>% сильнее и дольше, а попытки запугивания - вдвое успешнее.",
   "form_id": "001CB478|Everdamned.esp",
   "type": "MGEF DNAM",
   "index": null,
@@ -2145,7 +2145,7 @@
  },
  {
   "original": "Silently bewitches a person up to level <mag> for <dur> seconds, calming them and allowing you to feed.",
-  "string": "Беззвучно околдовывает человека уровня не выше <mag> на <dur> сек., успокаивая его и позволяя кормиться.",
+  "string": "Беззвучно околдовывает человека уровня не выше <mag> на <dur> с, успокаивая его и позволяя кормиться.",
   "form_id": "001D2B66|Everdamned.esp",
   "type": "MGEF DNAM",
   "index": null,
@@ -2425,7 +2425,7 @@
  },
  {
   "original": "Jagged bone shards grow in a living or undead target, dealing <mag> magic damage for <dur> seconds. (Cost: <20> Vitae)",
-  "string": "Зазубренные осколки кости прорастают в живой цели или нежити, нанося <mag> ед. магического урона в течение <dur> сек. (Цена: <20> ед. витэ)",
+  "string": "Зазубренные осколки кости прорастают в живой цели или нежити, нанося <mag> ед. магического урона в течение <dur> с (Цена: <20> ед. витэ)",
   "form_id": "001FCCBE|Everdamned.esp",
   "type": "MGEF DNAM",
   "index": null,
@@ -2449,7 +2449,7 @@
  },
  {
   "original": "After <dur> seconds, detonates for <mag> damage.",
-  "string": "Через <dur> сек. взрывается, нанося <mag> ед. урона.",
+  "string": "Через <dur> с взрывается, нанося <mag> ед. урона.",
   "form_id": "001FF46B|Everdamned.esp",
   "type": "MGEF DNAM",
   "index": null,
@@ -2537,7 +2537,7 @@
  },
  {
   "original": "Casts <Blood> <Seed> on all targets, inflicting <mag> magic damage for <dur> seconds. (Cost: <80> Vitae)",
-  "string": "Накладывает <Кровавое> <семя> на все цели, нанося <mag> ед. магического урона в течение <dur> сек. (Цена: <80> ед. витэ)",
+  "string": "Накладывает <Кровавое> <семя> на все цели, нанося <mag> ед. магического урона в течение <dur> с (Цена: <80> ед. витэ)",
   "form_id": "0020BA89|Everdamned.esp",
   "type": "MGEF DNAM",
   "index": null,
@@ -2561,7 +2561,7 @@
  },
  {
   "original": "Living or undead target takes <mag> magic damage for <dur> seconds. On death, spreads to all nearby targets. (Cost: <200> Vitae)",
-  "string": "Живая цель или нежить получает <mag> ед. магического урона в течение <dur> сек. После смерти эффект переходит на все цели поблизости. (Цена: <200> ед. витэ)",
+  "string": "Живая цель или нежить получает <mag> ед. магического урона в течение <dur> с. После смерти эффект переходит на все цели поблизости. (Цена: <200> ед. витэ)",
   "form_id": "0020E230|Everdamned.esp",
   "type": "MGEF DNAM",
   "index": null,
@@ -2585,7 +2585,7 @@
  },
  {
   "original": "Living or undead target takes <mag> magic damage for <dur> seconds. On death, spreads to all nearby targets.",
-  "string": "Живая цель или нежить получает <mag> ед. магического урона в течение <dur> сек. После смерти эффект переходит на все цели поблизости.",
+  "string": "Живая цель или нежить получает <mag> ед. магического урона в течение <dur> с. После смерти эффект переходит на все цели поблизости.",
   "form_id": "002109D3|Everdamned.esp",
   "type": "MGEF DNAM",
   "index": null,
@@ -2681,7 +2681,7 @@
  },
  {
   "original": "Jagged bone shards grow in a living or undead target, dealing <mag> magic damage for <dur> seconds.",
-  "string": "Зазубренные осколки кости прорастают в живой цели или нежити, нанося <mag> ед. магического урона в течение <dur> сек.",
+  "string": "Зазубренные осколки кости прорастают в живой цели или нежити, нанося <mag> ед. магического урона в течение <dur> с.",
   "form_id": "0021A84E|Everdamned.esp",
   "type": "MGEF DNAM",
   "index": null,
@@ -2761,7 +2761,7 @@
  },
  {
   "original": "A living target burns for <mag> magic damage for <dur> seconds. At half Health, blood boils in their veins, leading to an unpreventable violent explosion that knocks everyone down and deals <500> magic damage in a large area. Only <1> victim can burn at a time. (Cost: <600> Vitae)",
-  "string": "Живая цель горит, получая <mag> ед. урона магией в течение <dur> сек. Когда у нее остается половина здоровья, кровь вскипает в ее жилах, вызывая неотвратимый мощный взрыв, который сбивает с ног всех вокруг и наносит <500> ед. урона магией на большой площади. Гореть может только <1> жертва одновременно. (Стоимость: <600> ед. витэ)",
+  "string": "Живая цель горит, получая <mag> ед. урона магией в течение <dur> с. Когда у нее остается половина здоровья, кровь вскипает в ее жилах, вызывая неотвратимый мощный взрыв, который сбивает с ног всех вокруг и наносит <500> ед. урона магией на большой площади. Гореть может только <1> жертва одновременно. (Стоимость: <600> ед. витэ)",
   "form_id": "00233460|Everdamned.esp",
   "type": "MGEF DNAM",
   "index": null,
@@ -3025,7 +3025,7 @@
  },
  {
   "original": "By channeling your inner Beast you can push your body beyond all physical limits. For <dur> seconds you become almost completely tireless, attack 20% faster, melee strikes hit all targets in front of you and Combat Drain does not require target to be staggered. (Cost: <600> Vitae)",
-  "string": "Призвав внутреннего Зверя, можно вывести тело за все физические пределы. На <dur> сек. вы почти не знаете усталости, атакуете на 20% быстрее, удары в ближнем бою поражают всех противников перед вами, а боевое высасывание не требует, чтобы цель была ошеломлена. (Стоимость: <600> ед. витэ)",
+  "string": "Призвав внутреннего Зверя, можно вывести тело за все физические пределы. На <dur> с вы почти не знаете усталости, атакуете на 20% быстрее, удары в ближнем бою поражают всех противников перед вами, а боевое высасывание не требует, чтобы цель была ошеломлена. (Стоимость: <600> ед. витэ)",
   "form_id": "002586E0|Everdamned.esp",
   "type": "MGEF DNAM",
   "index": null,
@@ -3185,7 +3185,7 @@
  },
  {
   "original": "Flaming star that follows the target for <dur> seconds, dealing <mag> magic and fire damage to living targets near it.",
-  "string": "Пылающая звезда, которая <dur> сек. следует за целью, нанося <mag> ед. урона магией и огнем живым существам рядом с ней.",
+  "string": "Пылающая звезда, которая <dur> с следует за целью, нанося <mag> ед. урона магией и огнем живым существам рядом с ней.",
   "form_id": "00273AA3|Everdamned.esp",
   "type": "MGEF DNAM",
   "index": null,
@@ -3289,7 +3289,7 @@
  },
  {
   "original": "Concentrate to unleash foul flames, burning units hit for <mag> fire damage per second for <dur> seconds.",
-  "string": "Концентрация высвобождает мерзкое пламя, которое наносит пораженным <mag> ед. урона огнем в секунду в течение <dur> сек.",
+  "string": "Концентрация высвобождает мерзкое пламя, которое наносит пораженным <mag> ед. урона огнем в секунду в течение <dur> с.",
   "form_id": "0028A109|Everdamned.esp",
   "type": "MGEF DNAM",
   "index": null,
@@ -3481,7 +3481,7 @@
  },
  {
   "original": "Reanimate a dead body up to level <mag> to fight for you for <dur> seconds.",
-  "string": "Оживляет мертвое тело (до уровня <mag>), которое сражается за вас <dur> сек.",
+  "string": "Оживляет мертвое тело (до уровня <mag>), которое сражается за вас <dur> с.",
   "form_id": "003312C2|Everdamned.esp",
   "type": "MGEF DNAM",
   "index": null,
@@ -3521,7 +3521,7 @@
  },
  {
   "original": "Reanimate a dead body up to level <mag> to fight for you for <dur> seconds.",
-  "string": "Оживляет мертвое тело (до уровня <mag>), которое сражается за вас <dur> сек.",
+  "string": "Оживляет мертвое тело (до уровня <mag>), которое сражается за вас <dur> с.",
   "form_id": "003549D3|Everdamned.esp",
   "type": "MGEF DNAM",
   "index": null,
@@ -3537,7 +3537,7 @@
  },
  {
   "original": "Curse the ground with the chill of the grave, raising corpses under your command for <dur>. Reanimated undead turns to ash afterwards.",
-  "string": "Проклинает землю могильным холодом, поднимая трупы, которые подчиняются вам <dur> сек. Затем оживленная нежить обращается в пепел.",
+  "string": "Проклинает землю могильным холодом, поднимая трупы, которые подчиняются вам <dur> с. Затем оживленная нежить обращается в пепел.",
   "form_id": "00359AD9|Everdamned.esp",
   "type": "MGEF DNAM",
   "index": null,
@@ -4017,7 +4017,7 @@
  },
  {
   "original": "Become invisible for <dur> seconds or until you take an action.",
-  "string": "Невидимость на <dur> сек. или до первого действия.",
+  "string": "Невидимость на <dur> с или до первого действия.",
   "form_id": "0044CB94|Everdamned.esp",
   "type": "MGEF DNAM",
   "index": null,
@@ -4033,7 +4033,7 @@
  },
  {
   "original": "Directs attention of a living creature away from you. For <dur> seconds, it is less likely to detect you sneaking and ignores you feeding on others. Can only affect <1> target at a time. Illusion masters can learn to affect undead, daedra and automatons.",
-  "string": "Отвлекает внимание живого существа. В течение <dur> сек. оно с меньшей вероятностью замечает вас в режиме скрытности и не обращает внимания, когда вы питаетесь другими. Действует только на <1> цель одновременно. Мастера иллюзии могут научиться влиять на нежить, даэдра и механизмы.",
+  "string": "Отвлекает внимание живого существа. В течение <dur> с оно с меньшей вероятностью замечает вас в режиме скрытности и не обращает внимания, когда вы питаетесь другими. Действует только на <1> цель одновременно. Мастера иллюзии могут научиться влиять на нежить, даэдра и механизмы.",
   "form_id": "00451C95|Everdamned.esp",
   "type": "MGEF DNAM",
   "index": null,
@@ -4129,7 +4129,7 @@
  },
  {
   "original": "Deals <mag> magic damage for <dur> seconds to a living or undead target. When time runs out, deals damage equal to all Health lost by the target during this time. (Cost: <400> Vitae)",
-  "string": "Наносит живой цели или нежити <mag> ед. урона магией в течение <dur> сек. Когда время истекает, наносит урон, равный всему здоровью, потерянному целью за это время. (Стоимость: <400> ед. витэ)",
+  "string": "Наносит живой цели или нежити <mag> ед. урона магией в течение <dur> с. Когда время истекает, наносит урон, равный всему здоровью, потерянному целью за это время. (Стоимость: <400> ед. витэ)",
   "form_id": "004A2CE9|Everdamned.esp",
   "type": "MGEF DNAM",
   "index": null,
@@ -4721,7 +4721,7 @@
  },
  {
   "original": "You have recently influenced this person with Confusion, and cannot do it again for <dur> seconds.",
-  "string": "Вы недавно повлияли на этого человека Смятением и не можете сделать это снова в течение <dur> сек.",
+  "string": "Вы недавно повлияли на этого человека Смятением и не можете сделать это снова в течение <dur> с.",
   "form_id": "0075D85E|Everdamned.esp",
   "type": "MGEF DNAM",
   "index": null,
@@ -4817,7 +4817,7 @@
  },
  {
   "original": "Silently bewitches a person for <dur> seconds, calming them and allowing you to feed. Works on targets whose level does not exceed your <Vampirism> skill. Feeding this way alerts bystanders, do it away from prying eyes. Target must be facing and detecting you.",
-  "string": "Беззвучно околдовывает человека на <dur> сек., успокаивая его и позволяя питаться. Действует на цели, чей уровень не превышает ваш навык <Вампиризм>. Такое питание тревожит свидетелей, так что делайте это вдали от посторонних глаз. Цель должна смотреть на вас и видеть вас.",
+  "string": "Беззвучно околдовывает человека на <dur> с, успокаивая его и позволяя питаться. Действует на цели, чей уровень не превышает ваш навык <Вампиризм>. Такое питание тревожит свидетелей, так что делайте это вдали от посторонних глаз. Цель должна смотреть на вас и видеть вас.",
   "form_id": "007DC1E0|Everdamned.esp",
   "type": "MGEF DNAM",
   "index": null,
@@ -5257,7 +5257,7 @@
  },
  {
   "original": "By tapping into primal rage you can push your body beyond all physical limits. For <dur> seconds you become almost completely tireless, and your melee attacks hit all targets in front of you.",
-  "string": "Обратившись к первобытной ярости, можно вывести тело за все физические пределы. На <dur> сек. вы почти не знаете усталости, а удары в ближнем бою поражают всех противников перед вами.",
+  "string": "Обратившись к первобытной ярости, можно вывести тело за все физические пределы. На <dur> с вы почти не знаете усталости, а удары в ближнем бою поражают всех противников перед вами.",
   "form_id": "0088335F|Everdamned.esp",
   "type": "MGEF DNAM",
   "index": null,
@@ -5377,7 +5377,7 @@
  },
  {
   "original": "Blend into your surroundings, gaining unbreakable invisibility for <dur> seconds while sneaking. Vampires of higher ranks do not have to sneak. Ends immediately when hit.",
-  "string": "Вы сливаетесь с окружением и в режиме скрытности получаете нерушимую невидимость на <dur> сек. Вампирам высоких рангов не нужно красться. Эффект сразу прекращается при получении удара.",
+  "string": "Вы сливаетесь с окружением и в режиме скрытности получаете нерушимую невидимость на <dur> с. Вампирам высоких рангов не нужно красться. Эффект сразу прекращается при получении удара.",
   "form_id": "0089777D|Everdamned.esp",
   "type": "MGEF DNAM",
   "index": null,
@@ -5633,7 +5633,7 @@
  },
  {
   "original": "Silently bewitches a person up to level <mag> for <dur> seconds, calming them and allowing you to feed.",
-  "string": "Беззвучно околдовывает человека уровня не выше <mag> на <dur> сек., успокаивая его и позволяя кормиться.",
+  "string": "Беззвучно околдовывает человека уровня не выше <mag> на <dur> с, успокаивая его и позволяя кормиться.",
   "form_id": "00952CB1|Everdamned.esp",
   "type": "MGEF DNAM",
   "index": null,
@@ -5769,7 +5769,7 @@
  },
  {
   "original": "Poisoned talons do <mag> points of damage for <dur> seconds and absorb the same amount of Stamina.",
-  "string": "Отравленные когти наносят <mag> ед. урона в течение <dur> сек. и поглощают столько же запаса сил.",
+  "string": "Отравленные когти наносят <mag> ед. урона в течение <dur> с и поглощают столько же запаса сил.",
   "form_id": "009763CE|Everdamned.esp",
   "type": "MGEF DNAM",
   "index": null,
@@ -6537,7 +6537,7 @@
  },
  {
   "original": "absorbs <mag> vitae per sec for <dur> sec.",
-  "string": "поглощает <mag> ед. витэ в секунду в течение <dur> сек.",
+  "string": "поглощает <mag> ед. витэ в секунду в течение <dur> с.",
   "form_id": "00DF3998|Everdamned.esp",
   "type": "MGEF DNAM",
   "index": null,
@@ -6753,7 +6753,7 @@
  },
  {
   "original": "Power belongs to those who take it. Combat and social skills are <30>% better for <dur> seconds.",
-  "string": "Власть принадлежит тем, кто ее берет. Боевые и социальные навыки на <30>% эффективнее в течение <dur> сек.",
+  "string": "Власть принадлежит тем, кто ее берет. Боевые и социальные навыки на <30>% эффективнее в течение <dur> с.",
   "form_id": "00EA9DE2|Everdamned.esp",
   "type": "MGEF DNAM",
   "index": null,
@@ -6769,7 +6769,7 @@
  },
  {
   "original": "Reanimate a dead body up to level <mag> to fight for you for <dur> seconds.",
-  "string": "Оживляет мертвое тело (до уровня <mag>), которое сражается за вас <dur> сек.",
+  "string": "Оживляет мертвое тело (до уровня <mag>), которое сражается за вас <dur> с.",
   "form_id": "00EB90EA|Everdamned.esp",
   "type": "MGEF DNAM",
   "index": null,
@@ -7065,7 +7065,7 @@
  },
  {
   "original": "absorbs Vitae <mag> per sec for <dur> sec.",
-  "string": "поглощает <mag> ед. витэ в секунду в течение <dur> сек.",
+  "string": "поглощает <mag> ед. витэ в секунду в течение <dur> с.",
   "form_id": "00FAC193|Everdamned.esp",
   "type": "MGEF DNAM",
   "index": null,
@@ -15057,7 +15057,7 @@
  },
  {
   "original": "Bend mortals to your will. When Dominate is active, you can command any mortal to Stay, Follow, Flee or be Mesmerized, which places them under the effect of Vampire's Seduction. Applied this way, it works on targets up to 50 levels higher. Lasts 60 seconds. (Cost: 400 Vitae)",
-  "string": "Подчинение смертных своей воле. Пока действует Подчинение, можно приказать любому смертному стоять, следовать за вами, бежать или впасть в гипноз, что накладывает на него Обольщение вампира. Примененное так, оно действует на цели до 50 уровней выше. Длится 60 секунд. (Стоимость: 400 витэ)",
+  "string": "Подчинение смертных своей воле. Пока действует Подчинение, можно приказать любому смертному стоять, следовать за вами, бежать или впасть в гипноз, что накладывает на него Обольщение вампира. Примененное так, оно действует на цели до 50 уровней выше. Длится 60 сунд. (Стоимость: 400 витэ)",
   "form_id": "0024E843|Everdamned.esp",
   "type": "PERK DESC",
   "index": null,
@@ -15089,7 +15089,7 @@
  },
  {
   "original": "Directs attention of a living creature away from you for 60 seconds. They are less likely to detect you sneaking, and are oblivious to you feeding on others. Master practitioners of School of Illusion can learn to affect Daedra and Undead. Only works on 1 target at a time.",
-  "string": "Отвлекает внимание живого существа на 60 секунд. Оно хуже замечает крадущегося вампира и не обращает внимания на то, как он питается другими. Мастера школы Иллюзии могут научиться влиять на даэдра и нежить. Действует только на 1 цель одновременно.",
+  "string": "Отвлекает внимание живого существа на 60 сунд. Оно хуже замечает крадущегося вампира и не обращает внимания на то, как он питается другими. Мастера школы Иллюзии могут научиться влиять на даэдра и нежить. Действует только на 1 цель одновременно.",
   "form_id": "0024E846|Everdamned.esp",
   "type": "PERK DESC",
   "index": null,
@@ -15105,7 +15105,7 @@
  },
  {
   "original": "Upon receiving an unblocked hit, there is a small chance you will retaliate with a Calming charm. Effect lasts 15 seconds and has 30 seconds cooldown per person. Only works if attacking group in no smaller than 2 members. Effect can be toggled off.",
-  "string": "При пропущенном ударе есть небольшой шанс ответить успокаивающими чарами. Эффект длится 15 секунд, перезарядка - 30 секунд для каждого человека. Срабатывает, только если нападающих не меньше 2. Эффект можно отключить.",
+  "string": "При пропущенном ударе есть небольшой шанс ответить успокаивающими чарами. Эффект длится 15 сунд, перезарядка - 30 сунд для каждого человека. Срабатывает, только если нападающих не меньше 2. Эффект можно отключить.",
   "form_id": "0024E847|Everdamned.esp",
   "type": "PERK DESC",
   "index": null,
@@ -15185,7 +15185,7 @@
  },
  {
   "original": "Through channeling your inner Beast you can push your body beyond all physical limits. For 4 seconds you become almost completely tireless, attack 20% faster, melee strikes hit all targets in front of you and Combat Drain does not require stagger. Lasts longer with age, up to 13 seconds. (Cost: 600 Vitae)",
-  "string": "Высвобождая внутреннего Зверя, можно вывести тело за все физические пределы. На 4 секунды усталость почти не ощущается, скорость атаки увеличивается на 20%, удары в ближнем бою поражают все цели впереди, а боевое высасывание не требует оглушения. С возрастом длится дольше, до 13 секунд. (Стоимость: 600 витэ)",
+  "string": "Высвобождая внутреннего Зверя, можно вывести тело за все физические пределы. На 4 сунды усталость почти не ощущается, скорость атаки увеличивается на 20%, удары в ближнем бою поражают все цели впереди, а боевое высасывание не требует оглушения. С возрастом длится дольше, до 13 сунд. (Стоимость: 600 витэ)",
   "form_id": "00250FEA|Everdamned.esp",
   "type": "PERK DESC",
   "index": null,
@@ -15217,7 +15217,7 @@
  },
  {
   "original": "Melee hits of targets affected by a Hemomancy spell regenerates 30 Vitae over 2 seconds. During that time, Vampiric Drain is 50% more effective.",
-  "string": "Удары в ближнем бою по целям под действием заклинания гемомантии восстанавливают 30 витэ за 2 секунды. В это время Вампирское высасывание на 50% эффективнее.",
+  "string": "Удары в ближнем бою по целям под действием заклинания гемомантии восстанавливают 30 витэ за 2 сунды. В это время Вампирское высасывание на 50% эффективнее.",
   "form_id": "00250FEC|Everdamned.esp",
   "type": "PERK DESC",
   "index": null,
@@ -15361,7 +15361,7 @@
  },
  {
   "original": "Curse the ground around target area, bringing all of the dead lying upon it to animation for 40 seconds. Raised this way do not count against summon limit. Corpses disintegrate when the effect ends. (Cost: 300 Magicka, 800 Vitae)",
-  "string": "Проклятие земли вокруг указанной области: все мертвецы на ней оживают на 40 секунд. Поднятые так не учитываются в лимите призыва. Трупы рассыпаются в прах, когда эффект заканчивается. (Стоимость: 300 магии, 800 витэ)",
+  "string": "Проклятие земли вокруг указанной области: все мертвецы на ней оживают на 40 сунд. Поднятые так не учитываются в лимите призыва. Трупы рассыпаются в прах, когда эффект заканчивается. (Стоимость: 300 магии, 800 витэ)",
   "form_id": "0041A159|Everdamned.esp",
   "type": "PERK DESC",
   "index": null,
@@ -15377,7 +15377,7 @@
  },
  {
   "original": "Channel necrotic energy to empower commanded undead for 30 Health per second and 30% movement speed. Exposure for 6 seconds grants them Unholy Strength. It increases Health and Stamina by 50, attack speed for 20% for 15 seconds, and resets reanimation duration. (Cost: 30 Magicka, 30 Vitae)",
-  "string": "Поток некротической энергии усиливает подчиненную нежить: она восстанавливает 30 ед. здоровья в секунду и движется на 30% быстрее. Воздействие в течение 6 секунд дает ей Нечестивую силу: здоровье и запас сил увеличиваются на 50, скорость атаки - на 20% на 15 секунд, а длительность воскрешения обновляется. (Стоимость: 30 магии, 30 витэ)",
+  "string": "Поток некротической энергии усиливает подчиненную нежить: она восстанавливает 30 ед. здоровья в секунду и движется на 30% быстрее. Воздействие в течение 6 сунд дает ей Нечестивую силу: здоровье и запас сил увеличиваются на 50, скорость атаки - на 20% на 15 сунд, а длительность воскрешения обновляется. (Стоимость: 30 магии, 30 витэ)",
   "form_id": "0041A15A|Everdamned.esp",
   "type": "PERK DESC",
   "index": null,
@@ -15393,7 +15393,7 @@
  },
  {
   "original": "Create an imploding vortex that pulls all within 50 feet into the center, stunning them and reducing magic resistance by 50% for 3 seconds. (Cost: 150 Magicka, 400 Vitae)",
-  "string": "Создает схлопывающийся вихрь, который затягивает в центр всех в радиусе 50 футов, оглушая их и снижая сопротивление магии на 50% на 3 секунды. (Стоимость: 150 магии, 400 витэ)",
+  "string": "Создает схлопывающийся вихрь, который затягивает в центр всех в радиусе 50 футов, оглушая их и снижая сопротивление магии на 50% на 3 сунды. (Стоимость: 150 магии, 400 витэ)",
   "form_id": "0041F25B|Everdamned.esp",
   "type": "PERK DESC",
   "index": null,
@@ -15409,7 +15409,7 @@
  },
  {
   "original": "If standing still and claws are drawn, ground landing emits a shockwave that throws all within 2 feet into the air. Cooldown: 30 seconds.",
-  "string": "Если стоять на месте с выпущенными когтями, приземление вызывает ударную волну, подбрасывающую в воздух всех в радиусе 2 футов. Перезарядка: 30 секунд.",
+  "string": "Если стоять на месте с выпущенными когтями, приземление вызывает ударную волну, подбрасывающую в воздух всех в радиусе 2 футов. Перезарядка: 30 сунд.",
   "form_id": "00433677|Everdamned.esp",
   "type": "PERK DESC",
   "index": null,
@@ -15473,7 +15473,7 @@
  },
  {
   "original": "Chokeholding a corpse or a reanimated undead minion places a hex on them. In 4 seconds they explode violently, damaging all targets in 15 feet for 200 magic damage. Release Chokehold to hurl them forward.",
-  "string": "Удушающий захват трупа или воскрешенного прислужника налагает на него проклятие. Через 4 секунды он взрывается, нанося 200 ед. магического урона всем целям в радиусе 15 футов. Если отпустить захват, жертва будет отброшена вперед.",
+  "string": "Удушающий захват трупа или воскрешенного прислужника налагает на него проклятие. Через 4 сунды он взрывается, нанося 200 ед. магического урона всем целям в радиусе 15 футов. Если отпустить захват, жертва будет отброшена вперед.",
   "form_id": "004E9AFF|Everdamned.esp",
   "type": "PERK DESC",
   "index": null,
@@ -15489,7 +15489,7 @@
  },
  {
   "original": "Charge Lord's Servant for 3 seconds to increase its magnitude twofold, make reanimated thrall last indefinitely and not disintegrate on death. Upon reverting to mortal form, the thrall will be displaced to the realm of Coldharbour and wait there for you to put on a mantle of Vampire Lord once again. (Cost: 300 Vitae)",
-  "string": "Если заряжать \"Слугу лорда\" 3 секунды, его сила удваивается, а воскрешенный раб служит бессрочно и не рассыпается после смерти. При возвращении в смертный облик раб переносится в Хладную Гавань и ждет там, пока вы снова не примете облик лорда-вампира. (Стоимость: 300 витэ)",
+  "string": "Если заряжать \"Слугу лорда\" 3 сунды, его сила удваивается, а воскрешенный раб служит бессрочно и не рассыпается после смерти. При возвращении в смертный облик раб переносится в Хладную Гавань и ждет там, пока вы снова не примете облик лорда-вампира. (Стоимость: 300 витэ)",
   "form_id": "004E9B00|Everdamned.esp",
   "type": "PERK DESC",
   "index": null,
@@ -15553,7 +15553,7 @@
  },
  {
   "original": "When cast at an ally, instead of regular effects Blood Bloom heal them for 150 health over 2 seconds. If you are sneaking, applies regular Blood Blossom effects.",
-  "string": "При применении к союзнику вместо обычных эффектов Кровавый цветок восстанавливает ему 150 ед. здоровья за 2 секунды. В режиме скрытности накладываются обычные эффекты Кровавого цветка.",
+  "string": "При применении к союзнику вместо обычных эффектов Кровавый цветок восстанавливает ему 150 ед. здоровья за 2 сунды. В режиме скрытности накладываются обычные эффекты Кровавого цветка.",
   "form_id": "0069D201|Everdamned.esp",
   "type": "PERK DESC",
   "index": null,
@@ -15569,7 +15569,7 @@
  },
  {
   "original": "Transfusion now also makes its target immune to all other effects of Hemomancy for 8 seconds.",
-  "string": "Переливание теперь также делает цель невосприимчивой ко всем остальным эффектам гемомантии на 8 секунд.",
+  "string": "Переливание теперь также делает цель невосприимчивой ко всем остальным эффектам гемомантии на 8 сунд.",
   "form_id": "0069D202|Everdamned.esp",
   "type": "PERK DESC",
   "index": null,
@@ -15601,7 +15601,7 @@
  },
  {
   "original": "Increases duration of Vampire's Seduction by 30 seconds and up to 3 minutes total, based on Vampirism progress. You now can apply it when seducing through conversation instead of feeding, free of cooldown. Affected, if asked, will follow you, unless you move too far away from them.",
-  "string": "Обольщение вампира длится на 30 секунд дольше, в сумме до 3 минут в зависимости от развития вампиризма. Теперь его можно наложить, соблазняя в разговоре вместо кормления, без перезарядки. Цель, если попросить, последует за вами, пока вы не отойдете слишком далеко.",
+  "string": "Обольщение вампира длится на 30 сунд дольше, в сумме до 3 минут в зависимости от развития вампиризма. Теперь его можно наложить, соблазняя в разговоре вместо кормления, без перезарядки. Цель, если попросить, последует за вами, пока вы не отойдете слишком далеко.",
   "form_id": "006AC504|Everdamned.esp",
   "type": "PERK DESC",
   "index": null,
@@ -16209,7 +16209,7 @@
  },
  {
   "original": "For 4 seconds you move with speed so great that to those around you appear as nothing but a blur. Effect grows with age. Tap Hotkey A to activate, hold to dispel prematurely. (Cost: 400 Vitae)",
-  "string": "На 4 секунды скорость движения становится столь велика, что окружающие видят лишь размытое пятно. Эффект растет с возрастом. Нажмите горячую клавишу A для активации, удерживайте для досрочной отмены. (Стоимость: 400 витэ)",
+  "string": "На 4 сунды скорость движения становится столь велика, что окружающие видят лишь размытое пятно. Эффект растет с возрастом. Нажмите горячую клавишу A для активации, удерживайте для досрочной отмены. (Стоимость: 400 витэ)",
   "form_id": "00250FE4|Everdamned.esp",
   "type": "PERK DESC",
   "index": null,
@@ -16225,7 +16225,7 @@
  },
  {
   "original": "Blend into your surroundings, gaining unbreakable invisibility for 60 seconds while sneaking. Nightstalker vampires and older do not have to sneak. Ends immediately when hit. (Cost: 300 Vitae)",
-  "string": "Слияние с окружением дает нерушимую невидимость на 60 секунд в режиме скрытности. Вампирам ранга Ночной охотник и старше не нужно красться. Мгновенно прекращается при получении удара. (Стоимость: 300 витэ)",
+  "string": "Слияние с окружением дает нерушимую невидимость на 60 сунд в режиме скрытности. Вампирам ранга Ночной охотник и старше не нужно красться. Мгновенно прекращается при получении удара. (Стоимость: 300 витэ)",
   "form_id": "0024E848|Everdamned.esp",
   "type": "PERK DESC",
   "index": null,
@@ -16305,7 +16305,7 @@
  },
  {
   "original": "Attacks in melee form deliver an unnatural toxin, dealing 25 points of poison damage and absorbing 50 points of Magicka and Vitae over 5 seconds.",
-  "string": "Атаки в облике для ближнего боя впрыскивают противоестественный яд, нанося 25 ед. урона ядом и поглощая 50 ед. магии и витэ за 5 секунд.",
+  "string": "Атаки в облике для ближнего боя впрыскивают противоестественный яд, нанося 25 ед. урона ядом и поглощая 50 ед. магии и витэ за 5 сунд.",
   "form_id": "00005996|Dawnguard.esm",
   "type": "PERK DESC",
   "index": null,
@@ -16409,7 +16409,7 @@
  },
  {
   "original": "Disperse into a dark mist for 15 seconds, becoming undetectable and invulnerable but unable to fight while regenerating 25 points of Health, Magicka and Stamina per second. Has 30 seconds cooldown.",
-  "string": "Превращение в темный туман на 15 секунд: персонаж становится незаметным и неуязвимым, но не может сражаться, а здоровье, магия и запас сил восстанавливаются на 25 ед. в секунду. Перезарядка: 30 секунд.",
+  "string": "Превращение в темный туман на 15 сунд: персонаж становится незаметным и неуязвимым, но не может сражаться, а здоровье, магия и запас сил восстанавливаются на 25 ед. в секунду. Перезарядка: 30 сунд.",
   "form_id": "0000599C|Dawnguard.esm",
   "type": "PERK DESC",
   "index": null,
@@ -16481,7 +16481,7 @@
  },
  {
   "original": "Conjure a gargoyle to fight for you for 120 seconds. Available in mortal form as well. (Cost: 50 Magicka, 100 Vitae)",
-  "string": "Призыв гаргульи, которая сражается на стороне заклинателя 120 секунд. Доступно также в смертном облике. (Стоимость: 50 магии, 100 витэ)",
+  "string": "Призыв гаргульи, которая сражается на стороне заклинателя 120 сунд. Доступно также в смертном облике. (Стоимость: 50 магии, 100 витэ)",
   "form_id": "00016908|Dawnguard.esm",
   "type": "PERK DESC",
   "index": null,
@@ -16657,7 +16657,7 @@
  },
  {
   "original": "Channel for 20 Frost damage, engulfing target in cold-flames to be sent to Coldharbour upon death as tribute. A minion will be summoned for 30 seconds shortly after, that will not be counted against your summon limit. Works on corpses, does not work on dragons. (Cost: 20 Magicka, 20 Vitae)",
-  "string": "Поток холода наносит 20 ед. урона холодом и окутывает цель ледяным пламенем: после смерти она отправится в Хладную Гавань как дань. Вскоре после этого на 30 секунд призывается прислужник, который не учитывается в лимите призванных существ. Действует на трупы, не действует на драконов. (Стоимость: 20 магии, 20 витэ)",
+  "string": "Поток холода наносит 20 ед. урона холодом и окутывает цель ледяным пламенем: после смерти она отправится в Хладную Гавань как дань. Вскоре после этого на 30 сунд призывается прислужник, который не учитывается в лимите призванных существ. Действует на трупы, не действует на драконов. (Стоимость: 20 магии, 20 витэ)",
   "form_id": "0041A157|Everdamned.esp",
   "type": "PERK DESC",
   "index": null,
@@ -16673,7 +16673,7 @@
  },
  {
   "original": "Volkihar's breath is said to freeze victim's blood in the veins. Concentrate to freeze the ground beneath you, making it hazardous. After 4 seconds of channel, release the spell to launch forward an icy storm, dealing 100 Frost damage and staggering or knocking victims down. (Cost: 35 Magicka, 40 Vitae)",
-  "string": "Говорят, дыхание Волкихара замораживает кровь в жилах жертвы. При концентрации заклинания земля вокруг покрывается опасным льдом. Если удерживать заклинание 4 секунды, а затем отпустить, вперед вырывается ледяная буря, которая наносит 100 ед. урона холодом и оглушает или сбивает жертв с ног. (Стоимость: 35 магии, 40 витэ)",
+  "string": "Говорят, дыхание Волкихара замораживает кровь в жилах жертвы. При концентрации заклинания земля вокруг покрывается опасным льдом. Если удерживать заклинание 4 сунды, а затем отпустить, вперед вырывается ледяная буря, которая наносит 100 ед. урона холодом и оглушает или сбивает жертв с ног. (Стоимость: 35 магии, 40 витэ)",
   "form_id": "0041A158|Everdamned.esp",
   "type": "PERK DESC",
   "index": null,

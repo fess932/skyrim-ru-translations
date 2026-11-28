@@ -169,7 +169,7 @@
  },
  {
   "original": "Summons a Zombie Wolf for <dur> seconds wherever the caster is pointing.",
-  "string": "Призывает волка-зомби на <dur> сек. туда, куда указывает заклинатель.",
+  "string": "Призывает волка-зомби на <dur> с туда, куда указывает заклинатель.",
   "form_id": "00379B89|Nyhus.esp",
   "type": "MGEF DNAM",
   "index": null,

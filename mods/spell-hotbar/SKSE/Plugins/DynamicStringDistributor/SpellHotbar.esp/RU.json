@@ -137,7 +137,7 @@
  },
  {
   "original": "Casting a concentration spell for 6 seconds can trigger Novice or Apprentice spell procs. Requires a Magic Skill of at least 25.",
-  "string": "Поддержание заклинания концентрации в течение 6 секунд может само выпускать заклинания уровня \"Новичок\" или \"Ученик\". Требуется любой магический навык не ниже 25.",
+  "string": "Поддержание заклинания концентрации в течение 6 сунд может само выпускать заклинания уровня \"Новичок\" или \"Ученик\". Требуется любой магический навык не ниже 25.",
   "form_id": "00000849|SpellHotbar.esp",
   "type": "PERK DESC",
   "index": null,

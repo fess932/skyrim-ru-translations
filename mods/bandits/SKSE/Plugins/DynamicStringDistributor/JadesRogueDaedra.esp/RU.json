@@ -9,7 +9,7 @@
  },
  {
   "original": "Summons a Dark Seducer Warrior for <dur> seconds wherever the caster is pointing.",
-  "string": "Призывает воина темных соблазнителей на <dur> сек. в точку, в которую указывает заклинатель.",
+  "string": "Призывает воина темных соблазнителей на <dur> с в точку, в которую указывает заклинатель.",
   "form_id": "00000816|JadesRogueDaedra.esp",
   "type": "MGEF DNAM",
   "index": null,
@@ -25,7 +25,7 @@
  },
  {
   "original": "Summons a Dark Seducer Warrior for <dur> seconds wherever the caster is pointing.",
-  "string": "Призывает воина темных соблазнителей на <dur> сек. в точку, в которую указывает заклинатель.",
+  "string": "Призывает воина темных соблазнителей на <dur> с в точку, в которую указывает заклинатель.",
   "form_id": "00000818|JadesRogueDaedra.esp",
   "type": "MGEF DNAM",
   "index": null,

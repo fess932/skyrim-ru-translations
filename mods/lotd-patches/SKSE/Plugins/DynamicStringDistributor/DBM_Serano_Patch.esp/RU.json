@@ -9,7 +9,7 @@
  },
  {
   "original": "Sailor's Bargain",
-  "string": "«Сделка моряка»",
+  "string": "\"Сделка моряка\"",
   "form_id": "00000043|DBM_Serano_Patch.esp",
   "type": "ACTI FULL",
   "index": null,
@@ -209,7 +209,7 @@
  },
  {
   "original": "Black Book: Sailor's Bargain (replica)",
-  "string": "Черная книга: «Сделка моряка» (копия)",
+  "string": "Черная книга: \"Сделка моряка\" (копия)",
   "form_id": "0000007F|DBM_Serano_Patch.esp",
   "type": "BOOK FULL",
   "index": null,
@@ -217,7 +217,7 @@
  },
  {
   "original": "<font face=\"$HandwrittenFont\">\r\n<p align=\"center\">\r\n\r\nSailor's Bargain\r\n\r\nby the Drowned\r\n</p>\r\n\r\n\r\n[pagebreak]\r\n<p align=\"left\">\r\n<img src='img://Textures/Interface/Books/Illuminated_Letters/B_letter.png'>eneath the waves lies the deep, the cold, seek it out. Depths of the mind that the denziens know, did know, will know. Cast within, exhale,  the deep, the dying of the light, the dying of breath, the dying of self...",
-  "string": "<font face=\"$HandwrittenFont\">\r\n<p align=\"center\">\r\n\r\n«Сделка моряка»\r\n\r\nот Утонувших\r\n</p>\r\n\r\n\r\n[pagebreak]\r\n<p align=\"left\">\r\nПод волнами лежит глубина, холодная, отыщи ее. Глубины разума, что ведомы обитателям, были ведомы, будут ведомы. Погрузись, выдохни, глубина, угасание света, угасание дыхания, угасание себя...",
+  "string": "<font face=\"$HandwrittenFont\">\r\n<p align=\"center\">\r\n\r\n\"Сделка моряка\"\r\n\r\nот Утонувших\r\n</p>\r\n\r\n\r\n[pagebreak]\r\n<p align=\"left\">\r\nПод волнами лежит глубина, холодная, отыщи ее. Глубины разума, что ведомы обитателям, были ведомы, будут ведомы. Погрузись, выдохни, глубина, угасание света, угасание дыхания, угасание себя...",
   "form_id": "0000007F|DBM_Serano_Patch.esp",
   "type": "BOOK DESC",
   "index": null,
@@ -313,7 +313,7 @@
  },
  {
   "original": "Dark Rose Pirate Cutlass (replica)",
-  "string": "Пиратская сабля «Темной Розы» (копия)",
+  "string": "Пиратская сабля \"Темной Розы\" (копия)",
   "form_id": "0000007A|DBM_Serano_Patch.esp",
   "type": "WEAP FULL",
   "index": null,

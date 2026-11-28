@@ -49,7 +49,7 @@
  },
  {
   "original": "Cat's Eye Pendant",
-  "string": "Подвеска «Кошачий глаз»",
+  "string": "Подвеска \"Кошачий глаз\"",
   "form_id": "000008E4|DBM_KhajiitFollow_Patch.esp",
   "type": "ACTI FULL",
   "index": null,
@@ -137,7 +137,7 @@
  },
  {
   "original": "Cat's Eye Amethyst",
-  "string": "Аметист «Кошачий глаз»",
+  "string": "Аметист \"Кошачий глаз\"",
   "form_id": "000008EF|DBM_KhajiitFollow_Patch.esp",
   "type": "ACTI FULL",
   "index": null,
@@ -225,7 +225,7 @@
  },
  {
   "original": "Cat's Eye Pendant (replica)",
-  "string": "Подвеска «Кошачий глаз» (копия)",
+  "string": "Подвеска \"Кошачий глаз\" (копия)",
   "form_id": "000008B4|DBM_KhajiitFollow_Patch.esp",
   "type": "ARMO FULL",
   "index": null,
@@ -249,7 +249,7 @@
  },
  {
   "original": "Cat's Eye Amethyst (replica)",
-  "string": "Аметист «Кошачий глаз» (копия)",
+  "string": "Аметист \"Кошачий глаз\" (копия)",
   "form_id": "000008B8|DBM_KhajiitFollow_Patch.esp",
   "type": "MISC FULL",
   "index": null,

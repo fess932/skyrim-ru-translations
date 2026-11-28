@@ -737,7 +737,7 @@
  },
  {
   "original": "Stamina regenerates ten times faster for <dur> seconds.",
-  "string": "Запас сил восстанавливается в 10 раз быстрее в течение <dur> сек.",
+  "string": "Запас сил восстанавливается в 10 раз быстрее в течение <dur> с.",
   "form_id": "0016D306|Rogues 'n Raiders.esp",
   "type": "MGEF DNAM",
   "index": null,
@@ -753,7 +753,7 @@
  },
  {
   "original": "Attacks with melee weapons are faster for <dur> seconds.",
-  "string": "Атаки оружием ближнего боя быстрее в течение <dur> сек.",
+  "string": "Атаки оружием ближнего боя быстрее в течение <dur> с.",
   "form_id": "0016D307|Rogues 'n Raiders.esp",
   "type": "MGEF DNAM",
   "index": null,
@@ -857,7 +857,7 @@
  },
  {
   "original": "Restores <mag> points of health for <dur> seconds, then heals all minor injuries.",
-  "string": "Восстанавливает <mag> ед. здоровья в течение <dur> сек., затем излечивает все легкие травмы.",
+  "string": "Восстанавливает <mag> ед. здоровья в течение <dur> с, затем излечивает все легкие травмы.",
   "form_id": "001F0DF8|Rogues 'n Raiders.esp",
   "type": "MGEF DNAM",
   "index": null,
@@ -881,7 +881,7 @@
  },
  {
   "original": "Restores <mag> points of health for <dur> seconds, then heals all injuries.",
-  "string": "Восстанавливает <mag> ед. здоровья в течение <dur> сек., затем излечивает все травмы.",
+  "string": "Восстанавливает <mag> ед. здоровья в течение <dur> с, затем излечивает все травмы.",
   "form_id": "001F5EFD|Rogues 'n Raiders.esp",
   "type": "MGEF DNAM",
   "index": null,
@@ -993,7 +993,7 @@
  },
  {
   "original": "Restores <mag> points of health for <dur> seconds, then heals all minor injuries.",
-  "string": "Восстанавливает <mag> ед. здоровья в течение <dur> сек., затем излечивает все легкие травмы.",
+  "string": "Восстанавливает <mag> ед. здоровья в течение <dur> с, затем излечивает все легкие травмы.",
   "form_id": "002A73D9|Rogues 'n Raiders.esp",
   "type": "MGEF DNAM",
   "index": null,
@@ -1017,7 +1017,7 @@
  },
  {
   "original": "Restores <mag> points of health for <dur> seconds, then heals all injuries.",
-  "string": "Восстанавливает <mag> ед. здоровья в течение <dur> сек., затем излечивает все травмы.",
+  "string": "Восстанавливает <mag> ед. здоровья в течение <dur> с, затем излечивает все травмы.",
   "form_id": "002A73DB|Rogues 'n Raiders.esp",
   "type": "MGEF DNAM",
   "index": null,
@@ -1153,7 +1153,7 @@
  },
  {
   "original": "The caster becomes invisible and harder to hit for <dur> seconds.",
-  "string": "Заклинатель становится невидимым, и в него труднее попасть, в течение <dur> сек.",
+  "string": "Заклинатель становится невидимым, и в него труднее попасть, в течение <dur> с.",
   "form_id": "0032C73F|Rogues 'n Raiders.esp",
   "type": "MGEF DNAM",
   "index": null,
@@ -1225,7 +1225,7 @@
  },
  {
   "original": "Reveals Hexes, Curses and Maledictions for <dur> seconds.",
-  "string": "Показывает порчу, проклятия и злые чары в течение <dur> сек.",
+  "string": "Показывает порчу, проклятия и злые чары в течение <dur> с.",
   "form_id": "003DDC94|Rogues 'n Raiders.esp",
   "type": "MGEF DNAM",
   "index": null,
@@ -1385,7 +1385,7 @@
  },
  {
   "original": "Restores a target's health by <mag> points for <dur> seconds, then heals all injuries. Undead, atronachs and machines are not affected.",
-  "string": "Восстанавливает цели <mag> ед. здоровья в течение <dur> сек., затем излечивает все травмы. Не действует на нежить, атронахов и механизмы.",
+  "string": "Восстанавливает цели <mag> ед. здоровья в течение <dur> с, затем излечивает все травмы. Не действует на нежить, атронахов и механизмы.",
   "form_id": "004CF61B|Rogues 'n Raiders.esp",
   "type": "MGEF DNAM",
   "index": null,
@@ -1529,7 +1529,7 @@
  },
  {
   "original": "Causes <mag> points of damage to Health for <dur> seconds.",
-  "string": "Наносит <mag> ед. урона здоровью в течение <dur> сек.",
+  "string": "Наносит <mag> ед. урона здоровью в течение <dur> с.",
   "form_id": "005270A9|Rogues 'n Raiders.esp",
   "type": "MGEF DNAM",
   "index": null,
@@ -1713,7 +1713,7 @@
  },
  {
   "original": "Living creatures who have been injured are marked for <dur> seconds.",
-  "string": "Раненые живые существа помечаются на <dur> сек.",
+  "string": "Раненые живые существа помечаются на <dur> с.",
   "form_id": "005E0D7C|Rogues 'n Raiders.esp",
   "type": "MGEF DNAM",
   "index": null,
@@ -1937,7 +1937,7 @@
  },
  {
   "original": "Summons an Undead Fighter for <dur> seconds wherever the caster is pointing.",
-  "string": "Призывает мертвого бойца на <dur> сек. туда, куда указывает заклинатель.",
+  "string": "Призывает мертвого бойца на <dur> с туда, куда указывает заклинатель.",
   "form_id": "00775F10|Rogues 'n Raiders.esp",
   "type": "MGEF DNAM",
   "index": null,
@@ -1953,7 +1953,7 @@
  },
  {
   "original": "Summons an Undead Warrior for <dur> seconds wherever the caster is pointing.",
-  "string": "Призывает мертвого воина на <dur> сек. туда, куда указывает заклинатель.",
+  "string": "Призывает мертвого воина на <dur> с туда, куда указывает заклинатель.",
   "form_id": "00775F11|Rogues 'n Raiders.esp",
   "type": "MGEF DNAM",
   "index": null,
@@ -1969,7 +1969,7 @@
  },
  {
   "original": "Summons an Undead Raider for <dur> seconds wherever the caster is pointing.",
-  "string": "Призывает мертвого налетчика на <dur> сек. туда, куда указывает заклинатель.",
+  "string": "Призывает мертвого налетчика на <dur> с туда, куда указывает заклинатель.",
   "form_id": "00775F12|Rogues 'n Raiders.esp",
   "type": "MGEF DNAM",
   "index": null,
@@ -1985,7 +1985,7 @@
  },
  {
   "original": "Summons an Undead Reaver for <dur> seconds wherever the caster is pointing.",
-  "string": "Призывает мертвого разбойника на <dur> сек. туда, куда указывает заклинатель.",
+  "string": "Призывает мертвого разбойника на <dur> с туда, куда указывает заклинатель.",
   "form_id": "00775F13|Rogues 'n Raiders.esp",
   "type": "MGEF DNAM",
   "index": null,
@@ -2001,7 +2001,7 @@
  },
  {
   "original": "Summons an Undead Marauder for <dur> seconds wherever the caster is pointing.",
-  "string": "Призывает мертвого мародера на <dur> сек. туда, куда указывает заклинатель.",
+  "string": "Призывает мертвого мародера на <dur> с туда, куда указывает заклинатель.",
   "form_id": "00775F14|Rogues 'n Raiders.esp",
   "type": "MGEF DNAM",
   "index": null,
@@ -2017,7 +2017,7 @@
  },
  {
   "original": "Summons an Undead Champion for <dur> seconds wherever the caster is pointing.",
-  "string": "Призывает мертвого поборника на <dur> сек. туда, куда указывает заклинатель.",
+  "string": "Призывает мертвого поборника на <dur> с туда, куда указывает заклинатель.",
   "form_id": "00775F15|Rogues 'n Raiders.esp",
   "type": "MGEF DNAM",
   "index": null,
@@ -2033,7 +2033,7 @@
  },
  {
   "original": "Summons an Undead Hero for <dur> seconds wherever the caster is pointing.",
-  "string": "Призывает мертвого героя на <dur> сек. туда, куда указывает заклинатель.",
+  "string": "Призывает мертвого героя на <dur> с туда, куда указывает заклинатель.",
   "form_id": "00775F16|Rogues 'n Raiders.esp",
   "type": "MGEF DNAM",
   "index": null,
@@ -2129,7 +2129,7 @@
  },
  {
   "original": "Does <mag> points of damage for <dur> seconds.",
-  "string": "Наносит <mag> ед. урона в течение <dur> сек.",
+  "string": "Наносит <mag> ед. урона в течение <dur> с.",
   "form_id": "00873317|Rogues 'n Raiders.esp",
   "type": "MGEF DNAM",
   "index": null,
@@ -2241,7 +2241,7 @@
  },
  {
   "original": "Creates a flaming sword for <dur> seconds.",
-  "string": "Создает пылающий меч на <dur> сек.",
+  "string": "Создает пылающий меч на <dur> с.",
   "form_id": "008B19F8|Rogues 'n Raiders.esp",
   "type": "MGEF DNAM",
   "index": null,
@@ -2257,7 +2257,7 @@
  },
  {
   "original": "Creates a flaming sword for <dur> seconds.",
-  "string": "Создает пылающий меч на <dur> сек.",
+  "string": "Создает пылающий меч на <dur> с.",
   "form_id": "008BBC1B|Rogues 'n Raiders.esp",
   "type": "MGEF DNAM",
   "index": null,
@@ -2273,7 +2273,7 @@
  },
  {
   "original": "Creates a flaming sword for <dur> seconds.",
-  "string": "Создает пылающий меч на <dur> сек.",
+  "string": "Создает пылающий меч на <dur> с.",
   "form_id": "008BBC1C|Rogues 'n Raiders.esp",
   "type": "MGEF DNAM",
   "index": null,
@@ -2289,7 +2289,7 @@
  },
  {
   "original": "Creates a flaming sword for <dur> seconds.",
-  "string": "Создает пылающий меч на <dur> сек.",
+  "string": "Создает пылающий меч на <dur> с.",
   "form_id": "008BBC1D|Rogues 'n Raiders.esp",
   "type": "MGEF DNAM",
   "index": null,
@@ -2305,7 +2305,7 @@
  },
  {
   "original": "Creates a flaming sword for <dur> seconds.",
-  "string": "Создает пылающий меч на <dur> сек.",
+  "string": "Создает пылающий меч на <dur> с.",
   "form_id": "008BBC1E|Rogues 'n Raiders.esp",
   "type": "MGEF DNAM",
   "index": null,
@@ -2321,7 +2321,7 @@
  },
  {
   "original": "Creates a flaming sword for <dur> seconds.",
-  "string": "Создает пылающий меч на <dur> сек.",
+  "string": "Создает пылающий меч на <dur> с.",
   "form_id": "008BBC1F|Rogues 'n Raiders.esp",
   "type": "MGEF DNAM",
   "index": null,
@@ -2337,7 +2337,7 @@
  },
  {
   "original": "Creates a flaming sword for <dur> seconds.",
-  "string": "Создает пылающий меч на <dur> сек.",
+  "string": "Создает пылающий меч на <dur> с.",
   "form_id": "008BBC20|Rogues 'n Raiders.esp",
   "type": "MGEF DNAM",
   "index": null,
@@ -2585,7 +2585,7 @@
  },
  {
   "original": "Summons a Dremora Lord for <dur> seconds.",
-  "string": "Призывает лорда дремора на <dur> сек.",
+  "string": "Призывает лорда дремора на <dur> с.",
   "form_id": "00942D31|Rogues 'n Raiders.esp",
   "type": "MGEF DNAM",
   "index": null,
@@ -2889,7 +2889,7 @@
  },
  {
   "original": "Improves the caster's armor rating by <mag> points for <dur> seconds. Has a chance to damage or banish summoned daedra.",
-  "string": "Повышает класс брони заклинателя на <mag> ед. в течение <dur> сек. Может ранить или изгнать призванных даэдра.",
+  "string": "Повышает класс брони заклинателя на <mag> ед. в течение <dur> с. Может ранить или изгнать призванных даэдра.",
   "form_id": "0099DFAD|Rogues 'n Raiders.esp",
   "type": "MGEF DNAM",
   "index": null,
@@ -3041,7 +3041,7 @@
  },
  {
   "original": "Improves the caster's armor rating by <mag> points for <dur> seconds. Has a chance to damage or banish summoned daedra.",
-  "string": "Повышает класс брони заклинателя на <mag> ед. в течение <dur> сек. Может ранить или изгнать призванных даэдра.",
+  "string": "Повышает класс брони заклинателя на <mag> ед. в течение <dur> с. Может ранить или изгнать призванных даэдра.",
   "form_id": "009DFD98|Rogues 'n Raiders.esp",
   "type": "MGEF DNAM",
   "index": null,
@@ -3057,7 +3057,7 @@
  },
  {
   "original": "Improves the caster's armor rating by <mag> points for <dur> seconds. Has a chance to damage or banish summoned daedra.",
-  "string": "Повышает класс брони заклинателя на <mag> ед. в течение <dur> сек. Может ранить или изгнать призванных даэдра.",
+  "string": "Повышает класс брони заклинателя на <mag> ед. в течение <dur> с. Может ранить или изгнать призванных даэдра.",
   "form_id": "009DFD99|Rogues 'n Raiders.esp",
   "type": "MGEF DNAM",
   "index": null,
@@ -3073,7 +3073,7 @@
  },
  {
   "original": "Improves the caster's armor rating by <mag> points for <dur> seconds. Has a chance to damage or banish summoned daedra.",
-  "string": "Повышает класс брони заклинателя на <mag> ед. в течение <dur> сек. Может ранить или изгнать призванных даэдра.",
+  "string": "Повышает класс брони заклинателя на <mag> ед. в течение <dur> с. Может ранить или изгнать призванных даэдра.",
   "form_id": "009DFD9A|Rogues 'n Raiders.esp",
   "type": "MGEF DNAM",
   "index": null,
@@ -3089,7 +3089,7 @@
  },
  {
   "original": "Improves the caster's armor rating by <mag> points for <dur> seconds. Has a chance to damage or banish summoned daedra.",
-  "string": "Повышает класс брони заклинателя на <mag> ед. в течение <dur> сек. Может ранить или изгнать призванных даэдра.",
+  "string": "Повышает класс брони заклинателя на <mag> ед. в течение <dur> с. Может ранить или изгнать призванных даэдра.",
   "form_id": "009DFD9B|Rogues 'n Raiders.esp",
   "type": "MGEF DNAM",
   "index": null,
@@ -3105,7 +3105,7 @@
  },
  {
   "original": "Improves the caster's armor rating by <mag> points for <dur> seconds. Has a chance to damage or banish summoned daedra.",
-  "string": "Повышает класс брони заклинателя на <mag> ед. в течение <dur> сек. Может ранить или изгнать призванных даэдра.",
+  "string": "Повышает класс брони заклинателя на <mag> ед. в течение <dur> с. Может ранить или изгнать призванных даэдра.",
   "form_id": "009DFD9C|Rogues 'n Raiders.esp",
   "type": "MGEF DNAM",
   "index": null,
@@ -3121,7 +3121,7 @@
  },
  {
   "original": "Improves the caster's armor rating by <mag> points for <dur> seconds. Has a chance to damage or banish summoned daedra.",
-  "string": "Повышает класс брони заклинателя на <mag> ед. в течение <dur> сек. Может ранить или изгнать призванных даэдра.",
+  "string": "Повышает класс брони заклинателя на <mag> ед. в течение <dur> с. Может ранить или изгнать призванных даэдра.",
   "form_id": "009DFD9D|Rogues 'n Raiders.esp",
   "type": "MGEF DNAM",
   "index": null,
