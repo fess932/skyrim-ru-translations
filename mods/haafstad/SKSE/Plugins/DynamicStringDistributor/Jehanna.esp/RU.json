@@ -2416,6 +2416,46 @@
   "editor_id": "Kirkmoreguard28"
  },
  {
+  "original": "Andard",
+  "string": "Андард",
+  "form_id": "00035D1D|Jehanna.esp",
+  "type": "NPC_ FULL",
+  "index": null,
+  "editor_id": "Andard"
+ },
+ {
+  "original": "Andard",
+  "string": "Андард",
+  "form_id": "00035D1D|Jehanna.esp",
+  "type": "NPC_ SHRT",
+  "index": null,
+  "editor_id": "Andard"
+ },
+ {
+  "original": "\"Handyman\" Tyrik",
+  "string": "Тирик \"Мастер на все руки\"",
+  "form_id": "0091ED2C|Jehanna.esp",
+  "type": "NPC_ FULL",
+  "index": null,
+  "editor_id": "MochTyrik"
+ },
+ {
+  "original": "Ysyn",
+  "string": "Исин",
+  "form_id": "000380CA|Jehanna.esp",
+  "type": "NPC_ FULL",
+  "index": null,
+  "editor_id": "Ysyn"
+ },
+ {
+  "original": "Ysyn",
+  "string": "Исин",
+  "form_id": "000380CA|Jehanna.esp",
+  "type": "NPC_ SHRT",
+  "index": null,
+  "editor_id": "Ysyn"
+ },
+ {
   "original": "Uthyn the Innkeeper",
   "string": "Утин Трактирщик",
   "form_id": "000373FD|Jehanna.esp",
