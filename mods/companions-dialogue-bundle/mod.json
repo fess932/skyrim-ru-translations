@@ -1,0 +1,11 @@
+{
+  "slug": "companions-dialogue-bundle",
+  "name": "Companions Dialogue Bundle",
+  "reuse_installed": true,
+  "plugins": [
+    "Companions Dialogue Bundle.esp"
+  ],
+  "sources": {
+    "Companions Dialogue Bundle.esp": "Companions Dialogue Bundle"
+  }
+}

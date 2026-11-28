@@ -1,0 +1,1570 @@
+[
+ {
+  "original": "Inspired",
+  "string": "Воодушевление",
+  "form_id": "000008C0|Companions Dialogue Bundle.esp",
+  "type": "SPEL FULL",
+  "index": null,
+  "editor_id": "_JQ_SkjorsInspiration"
+ },
+ {
+  "original": "This had better be important. ",
+  "string": "Надеюсь, дело важное.",
+  "form_id": "00023998|Skyrim.esm",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "What do you want? Make it quick.",
+  "string": "Чего тебе? Только быстро.",
+  "form_id": "00000849|Companions Dialogue Bundle.esp",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "Spare me the idle chatter, we have business to attend to.",
+  "string": "Избавь меня от пустой болтовни, у нас есть дела.",
+  "form_id": "00000848|Companions Dialogue Bundle.esp",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "If you wish to hunt with me, your feet need to be quick, and your eyes quicker.",
+  "string": "Если хочешь пойти на охоту со мной, твои ноги должны быть быстрыми, а глаза - зоркими.",
+  "form_id": "000239A7|Skyrim.esm",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "When I'm out there, tracking prey and feeling the wind on my face, I know I'm where I'm meant to be.",
+  "string": "Когда я там, иду по следу добычи и ветер бьет в лицо, я знаю, что я на своем месте.",
+  "form_id": "0000083C|Companions Dialogue Bundle.esp",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "The moon's light guides our path. There's a certain power that comes with embracing our inner beasts.",
+  "string": "Лунный свет указывает нам путь. Когда принимаешь зверя внутри себя, в этом есть особая сила.",
+  "form_id": "0000083D|Companions Dialogue Bundle.esp",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "Ysgramor himself wouldn't have the patience to deal with all the rabble around here.",
+  "string": "Самому Исграмору не хватило бы терпения, чтобы справиться со всем окрестным сбродом.",
+  "form_id": "000239A8|Skyrim.esm",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "Patience and perseverance are the keys to a successful hunt.",
+  "string": "Терпение и упорство - вот залог удачной охоты.",
+  "form_id": "0000083E|Companions Dialogue Bundle.esp",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "Blood running hot? ",
+  "string": "Кровь играет?",
+  "form_id": "000239B3|Skyrim.esm",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "Some people don't think I'm smart. Those people get my fist. But you, I like.",
+  "string": "Некоторые думают, я дурак. Они получают в рыло. Но ты мне нравишься.",
+  "form_id": "00023A14|Skyrim.esm",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "I've been thinking much clearer since Ysgramor's Tomb.",
+  "string": "После Гробницы Исграмора у меня в голове прояснилось.",
+  "form_id": "00000842|Companions Dialogue Bundle.esp",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "I'm here to help.",
+  "string": "Я здесь, чтобы помогать. Что нужно сделать?",
+  "form_id": "00023A29|Skyrim.esm",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "We fight as a pack, and our strength lies in our unity.",
+  "string": "Мы сражаемся стаей, и наша сила - в единстве.",
+  "form_id": "00000840|Companions Dialogue Bundle.esp",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "A true warrior knows when to fight and when to show mercy.",
+  "string": "Настоящий воин знает, когда драться, а когда проявить милосердие.",
+  "form_id": "00000841|Companions Dialogue Bundle.esp",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "Do you think Kodlak is arm-wrestling Ysgramor right now?",
+  "string": "Как думаешь, Кодлак сейчас меряется с Исграмором силой на руках?",
+  "form_id": "0000083F|Companions Dialogue Bundle.esp",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "Great, another ambitious visitor. You think you can just wander in here and join us?",
+  "string": "Великолепно, еще один посетитель с претензией. Думаешь, мы принимаем всех подряд?",
+  "form_id": "00023A47|Skyrim.esm",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "Learn from your defeats. Every battle, every loss holds a lesson.",
+  "string": "Учись на своих поражениях. В каждой битве, в каждой неудаче есть урок.",
+  "form_id": "00000846|Companions Dialogue Bundle.esp",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "I know I'm no Skjor, but I'm by your side if you need me, Harbinger.",
+  "string": "Знаю, я не Скьор, но если понадоблюсь - я рядом, Предвестник.",
+  "form_id": "00000847|Companions Dialogue Bundle.esp",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "Did you just wander in out of the white? ",
+  "string": "Ты что, вот так вот просто сюда заявляешься, на голубом глазу?",
+  "form_id": "00023A46|Skyrim.esm",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "A well-prepared warrior is a formidable one.",
+  "string": "Хорошо подготовленный воин - грозный воин.",
+  "form_id": "00000844|Companions Dialogue Bundle.esp",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "Stay vigilant, danger lurks in every corner.",
+  "string": "Будь начеку, опасность таится за каждым углом.",
+  "form_id": "00000845|Companions Dialogue Bundle.esp",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "You know, knowledge is a weapon in itself.",
+  "string": "Знаешь, знание само по себе оружие.",
+  "form_id": "00000843|Companions Dialogue Bundle.esp",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "You've got the skills to back up your title. Just don't let it go to your head.",
+  "string": "Мастерства тебе хватает, чтобы носить свое звание. Только не зазнавайся.",
+  "form_id": "0000083A|Companions Dialogue Bundle.esp",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "You've earned your place as the Harbinger, and I won't deny your accomplishments.",
+  "string": "Ты по праву занимаешь место Предвестника, и твоих заслуг я не отрицаю.",
+  "form_id": "00000839|Companions Dialogue Bundle.esp",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "Just remember, respect is earned, not given.",
+  "string": "Только помни: уважение заслуживают, его не дарят.",
+  "form_id": "0000083B|Companions Dialogue Bundle.esp",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "I've seen you in action. I can't deny your expertise.",
+  "string": "Я видел тебя в деле. Твоего мастерства не отнять.",
+  "form_id": "00000838|Companions Dialogue Bundle.esp",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "I walk with the spirits of my ancestors, guiding my every step.",
+  "string": "Со мной идут духи моих предков, они направляют каждый мой шаг.",
+  "form_id": "00000836|Companions Dialogue Bundle.esp",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "A well-placed strike from a small blade can be just as lethal as any big weapon.",
+  "string": "Точный удар коротким клинком убивает не хуже любого большого оружия.",
+  "form_id": "00000837|Companions Dialogue Bundle.esp",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "They say the bigger they are, the harder they fall. Well, I say the smaller the blade, the faster they bleed.",
+  "string": "Говорят, чем больше шкаф, тем громче падает. А я говорю: чем меньше клинок, тем быстрее истекают кровью.",
+  "form_id": "00000835|Companions Dialogue Bundle.esp",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "Sorry, can't talk right now.",
+  "string": "Прости, сейчас не могу говорить.",
+  "form_id": "00000834|Companions Dialogue Bundle.esp",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "Don't you have something more important to do?",
+  "string": "Тебе что, заняться больше нечем?",
+  "form_id": "00000833|Companions Dialogue Bundle.esp",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "Look, I've got training to get to.",
+  "string": "Слушай, мне нужно тренироваться.",
+  "form_id": "00023E40|Skyrim.esm",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "You don't belong here. What do you think you have to offer?",
+  "string": "Тебе здесь не место. Какая нам от тебя польза?",
+  "form_id": "00023E41|Skyrim.esm",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "Keep your distance, unless you want to taste the sharp end of my blade.",
+  "string": "Держись подальше, если не хочешь отведать острия моего клинка.",
+  "form_id": "0000081C|Companions Dialogue Bundle.esp",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "Don't mistake my bluntness for rudeness. I simply don't have time to coddle the fragile egos of others.",
+  "string": "Не путай мою прямоту с грубостью. Просто у меня нет времени нянчиться с чужим хрупким самолюбием.",
+  "form_id": "0000081D|Companions Dialogue Bundle.esp",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "The world outside is harsh and unforgiving. If you want to survive, toughen up and stop expecting handouts.",
+  "string": "Мир снаружи суров и беспощаден. Хочешь выжить - закаляйся и не жди подачек.",
+  "form_id": "0000081E|Companions Dialogue Bundle.esp",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "I'm still trying to figure out why Skjor let you in in the first place. ",
+  "string": "Я все пытаюсь понять, почему Скьор вообще тебя впустил.",
+  "form_id": "00023E42|Skyrim.esm",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "If the Circle vouches for you, I'm sworn to respect their judgment. But that doesn't mean I like it.",
+  "string": "Если Круг голосует за тебя - я приму его решение. Но это не значит, что оно мне нравится.",
+  "form_id": "00023E43|Skyrim.esm",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "I may not say it often, but your skill and dedication inspire us all.",
+  "string": "Я говорю это нечасто, но твое мастерство и преданность вдохновляют всех нас.",
+  "form_id": "00000820|Companions Dialogue Bundle.esp",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "I'm at your service, Harbinger.",
+  "string": "К твоим услугам, Предвестник.",
+  "form_id": "0000081F|Companions Dialogue Bundle.esp",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "What now?",
+  "string": "Что теперь?",
+  "form_id": "00023E44|Skyrim.esm",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "Go bother someone else.",
+  "string": "Иди надоедай другим.",
+  "form_id": "0000081B|Companions Dialogue Bundle.esp",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "Oh, it's you.",
+  "string": "А, это ты.",
+  "form_id": "00023E45|Skyrim.esm",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "Here to be a Companion? Well, they just let me in, so there's probably no more room.",
+  "string": "Хочешь стать Соратником? Они только что приняли меня, так что, вероятно, мест больше нет.",
+  "form_id": "00023E46|Skyrim.esm",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "Have you seen Skjor around? I want to ask him about the Great War.",
+  "string": "Скьора нигде не видать? Хочу расспросить его о Великой войне.",
+  "form_id": "00000823|Companions Dialogue Bundle.esp",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "Oh, hey there. I killed a bear yesterday. Did you kill anything?",
+  "string": "А, привет тебе. Я вчера убила медведя. А как твои успехи?",
+  "form_id": "00023E48|Skyrim.esm",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "Hammers and blades, that's what we do best. But there's more to life than just fighting.",
+  "string": "Молоты и клинки - вот что у нас выходит лучше всего. Но в жизни есть кое-что и помимо драки.",
+  "form_id": "00000829|Companions Dialogue Bundle.esp",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "Vilkas may seem rough around the edges, but deep down, he's loyal to the core.",
+  "string": "Вилкас может казаться грубоватым, но в глубине души он предан до мозга костей.",
+  "form_id": "00000827|Companions Dialogue Bundle.esp",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "The people of Whiterun look up to the Companions. It's a responsibility we take seriously.",
+  "string": "Жители Вайтрана смотрят на Соратников с уважением. И к этой ответственности мы относимся серьезно.",
+  "form_id": "00000828|Companions Dialogue Bundle.esp",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "Kodlak's wisdom is unmatched. I'm grateful for his guidance.",
+  "string": "Мудрости Кодлака нет равных. Я благодарен ему за наставления.",
+  "form_id": "00000826|Companions Dialogue Bundle.esp",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "Aela's an impressive warrior. I hope to be as skilled as her one day.",
+  "string": "Эйла - потрясающий воин. Надеюсь, однажды я стану таким же умелым, как она.",
+  "form_id": "00000825|Companions Dialogue Bundle.esp",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "Do you have any guidance for me, Harbinger?",
+  "string": "Дашь мне какой-нибудь совет, Предвестник?",
+  "form_id": "0000082A|Companions Dialogue Bundle.esp",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "I hope you don't take this the wrong way, but I miss Kodlak.",
+  "string": "Не пойми меня неправильно, но я скучаю по Кодлаку.",
+  "form_id": "0000082C|Companions Dialogue Bundle.esp",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "I may not always see eye to eye with you, but I respect your position, Harbinger.",
+  "string": "Может, я и не всегда с тобой согласен, но твое положение я уважаю, Предвестник.",
+  "form_id": "0000082B|Companions Dialogue Bundle.esp",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "Good to have some fresh eyes up there at the top. I follow your lead, Harbinger.",
+  "string": "Хорошо, что наверху есть кому взглянуть на все свежим взглядом. Я иду за тобой, Предвестник.",
+  "form_id": "000BFCC3|Skyrim.esm",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "Jorrvaskr really feels like home now.",
+  "string": "Йоррваскр теперь и правда стал мне домом.",
+  "form_id": "00000824|Companions Dialogue Bundle.esp",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "The thrill of battle is like nothing else. It gets my blood pumping.",
+  "string": "С азартом битвы ничто не сравнится. Кровь так и кипит.",
+  "form_id": "00000822|Companions Dialogue Bundle.esp",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "Training hard keeps me sharp. Can't afford to slack off.",
+  "string": "Упорные тренировки держат меня в форме. Расслабляться нельзя.",
+  "form_id": "00000821|Companions Dialogue Bundle.esp",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "What's on your mind?",
+  "string": "Что у тебя на уме?",
+  "form_id": "00023E4A|Skyrim.esm",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "Being Harbinger means you've got the weight of the pack on your shoulders. I don't envy you.",
+  "string": "Быть Предвестником - значит нести на плечах всю стаю. Не завидую я тебе.",
+  "form_id": "00000830|Companions Dialogue Bundle.esp",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "Keep leading, and I'll keep swinging my axe for you.",
+  "string": "Веди нас и дальше, а я буду и дальше махать за тебя топором.",
+  "form_id": "00000832|Companions Dialogue Bundle.esp",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "How about celebrating our victories with a drink? My treat, of course.",
+  "string": "Может, отметим наши победы выпивкой? Я угощаю, само собой.",
+  "form_id": "00000831|Companions Dialogue Bundle.esp",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "The latest recruit! Right? Wait, is that right? ",
+  "string": "Ты из новеньких! Да? Стой, это правда?",
+  "form_id": "00023E4C|Skyrim.esm",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "Give me a brawl and a mug of ale any day, and I'm a happy warrior.",
+  "string": "Дай мне добрую драку и кружку эля - и я счастливейший из воинов.",
+  "form_id": "0000082F|Companions Dialogue Bundle.esp",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "Don't let my drunken demeanor fool you. When it's time to raise arms, I'm as focused as a bear on the hunt.",
+  "string": "Пусть тебя не обманывает, что я под хмельком. Когда приходит время браться за оружие, я собран, как медведь на охоте.",
+  "form_id": "0000082E|Companions Dialogue Bundle.esp",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "The mead flows freely, my friend! Just don't expect me to hold my liquor as well as I hold a battleaxe.",
+  "string": "Мед льется рекой, друг мой! Только не жди, что я держу выпивку так же хорошо, как секиру.",
+  "form_id": "0000082D|Companions Dialogue Bundle.esp",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "You're a talker, eh?",
+  "string": "Болтать любишь, а?",
+  "form_id": "00023E4F|Skyrim.esm",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "I'm looking for work.",
+  "string": "Я ищу работу.",
+  "form_id": "00055699|Skyrim.esm",
+  "type": "DIAL FULL",
+  "index": null,
+  "editor_id": "CRNoWorkBranchTopic"
+ },
+ {
+  "original": "We don't just take in any milk drinker who stumbles in. Talk to Kodlak if you think you have what it takes to be a Companion.",
+  "string": "Мы не принимаем всех молокососов подряд. Поговори с Кодлаком, если думаешь, что из тебя может выйти Соратник.",
+  "form_id": "000231C8|Skyrim.esm",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "Can I join the Companions?",
+  "string": "Могу я присоединиться к Соратникам?",
+  "form_id": "000231C8|Skyrim.esm",
+  "type": "INFO RNAM",
+  "index": null,
+  "editor_id": null
+ },
+ {
+  "original": "I don't know if you're capable, and I don't have time to find out. If Kodlak will vouch for you, I might have some work you could do.",
+  "string": "Не знаю, есть ли у тебя способности, и у меня нет времени это выяснять. Если Кодлак поручится за тебя, может, я и найду для тебя задание.",
+  "form_id": "0005477B|Skyrim.esm",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "Can I join the Companions?",
+  "string": "Могу я присоединиться к Соратникам?",
+  "form_id": "0005477B|Skyrim.esm",
+  "type": "INFO RNAM",
+  "index": null,
+  "editor_id": null
+ },
+ {
+  "original": "Kodlak is the one who figures out who can be a Companion. So talk to him. It's out of my hands.",
+  "string": "Быть тебе Соратником или нет, решит Кодлак. Поговори с ним. Я тут ничего не решаю.",
+  "form_id": "0005477C|Skyrim.esm",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "Can I join the Companions?",
+  "string": "Могу я присоединиться к Соратникам?",
+  "form_id": "0005477C|Skyrim.esm",
+  "type": "INFO RNAM",
+  "index": null,
+  "editor_id": null
+ },
+ {
+  "original": "So you think you have what it takes? Huh. Lucky for you, I'm not the one who makes that decision. Talk to Kodlak.",
+  "string": "Так ты думаешь, что справишься? Ха. Тебе повезло, решение принимаю не я. Поговори с Кодлаком.",
+  "form_id": "0005477D|Skyrim.esm",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "Who knows, maybe he's in a generous mood.",
+  "string": "Кто знает, может, у него сегодня приступ великодушия.",
+  "form_id": "0005477D|Skyrim.esm",
+  "type": "INFO NAM1",
+  "index": 2,
+  "editor_id": null
+ },
+ {
+  "original": "Can I join the Companions?",
+  "string": "Могу я присоединиться к Соратникам?",
+  "form_id": "0005477D|Skyrim.esm",
+  "type": "INFO RNAM",
+  "index": null,
+  "editor_id": null
+ },
+ {
+  "original": "You handle yourself well. You could make for a decent Shield-Brother.",
+  "string": "Ты неплохо справляешься. Можешь стать достойным братом по оружию.",
+  "form_id": "000CF2D8|Skyrim.esm",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "You handle yourself well. You could make for a decent Shield-Sister.",
+  "string": "Ты неплохо справляешься. Можешь стать достойной сестрой по оружию.",
+  "form_id": "000CF2D9|Skyrim.esm",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "Well, that's taken care of. No thanks to you. ",
+  "string": "Ладно, с этим разобрались. Без тебя.",
+  "form_id": "000CF2DA|Skyrim.esm",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "Kodlak? You'll most likely find him in his quarters in Jorrvaskr.",
+  "string": "Кодлак? Скорее всего, он у себя в покоях в Йоррваскре.",
+  "form_id": "00000818|Companions Dialogue Bundle.esp",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": "C00FindKodlakOutsideAela"
+ },
+ {
+  "original": "Have you checked his quarters in Jorrvaskr? It's downstairs, at the end of the hall.",
+  "string": "Загляни к нему в покои в Йоррваскре. Это внизу, в конце коридора.",
+  "form_id": "00000817|Companions Dialogue Bundle.esp",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": "C00FindKodlakOutsideJorrFarkas"
+ },
+ {
+  "original": "He's probably in his quarters in Jorrvaskr. Just head downstairs and you'll find his room at the end of the hall.",
+  "string": "Наверное, он у себя в покоях в Йоррваскре. Спустись вниз - его комната в конце коридора.",
+  "form_id": "00000816|Companions Dialogue Bundle.esp",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": "C00FindKodlakOutsideSkjor"
+ },
+ {
+  "original": "Have you checked his quarters in Jorrvaskr? It's downstairs, at the end of the hall.",
+  "string": "Загляни к нему в покои в Йоррваскре. Это внизу, в конце коридора.",
+  "form_id": "00000815|Companions Dialogue Bundle.esp",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": "C00FindKodlakOutsideFarkas"
+ },
+ {
+  "original": "He's probably in his quarters in Jorrvaskr. Just head downstairs and you'll find his room at the end of the hall.",
+  "string": "Наверное, он у себя в покоях в Йоррваскре. Спустись вниз - его комната в конце коридора.",
+  "form_id": "00000814|Companions Dialogue Bundle.esp",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": "C00WhereIsKodlakOutsideJorrvaskrSkjor"
+ },
+ {
+  "original": "Kodlak? You'll most likely find him in his quarters in Jorrvaskr.",
+  "string": "Кодлак? Скорее всего, он у себя в покоях в Йоррваскре.",
+  "form_id": "00000813|Companions Dialogue Bundle.esp",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": "C00WhereIsKodlakOutsideJorrvaskrAela1"
+ },
+ {
+  "original": "How should I know? He's most likely in Jorrvaskr, in his quarters.",
+  "string": "Мне-то откуда знать? Скорее всего, в Йоррваскре, у себя в покоях.",
+  "form_id": "00000812|Companions Dialogue Bundle.esp",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": "C00WhereIsKodlakOutsideJorrvaskrFarkas"
+ },
+ {
+  "original": "He's probably in his quarters in Jorrvaskr. Just head downstairs and you'll find his room at the end of the hall.",
+  "string": "Наверное, он у себя в покоях в Йоррваскре. Спустись вниз - его комната в конце коридора.",
+  "form_id": "00000811|Companions Dialogue Bundle.esp",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": "C00WhereIsKodlakOutsideJorrvaskrAela"
+ },
+ {
+  "original": "Try downstairs in the living quarters.",
+  "string": "Поищи внизу, в жилых комнатах.",
+  "form_id": "0000080D|Companions Dialogue Bundle.esp",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": "C00FindKodlakSkjor"
+ },
+ {
+  "original": "How should I know? Have you checked downstairs?",
+  "string": "Мне-то откуда знать? А внизу поискать?",
+  "form_id": "0000080C|Companions Dialogue Bundle.esp",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": "C00FindKodlakFarkas"
+ },
+ {
+  "original": "Check downstairs in his room. At the end of the hall.",
+  "string": "Загляни вниз, в его комнату. В конце коридора.",
+  "form_id": "0000080B|Companions Dialogue Bundle.esp",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": "C00FindKodlak"
+ },
+ {
+  "original": "We are. This giant was bothering the farmers in the area, so we took care of it.",
+  "string": "Да. Этот великан досаждал здешним фермерам, вот мы с ним и разобрались.",
+  "form_id": "00000801|Companions Dialogue Bundle.esp",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "Shield-Brother? So you're Companions?",
+  "string": "Брат по оружию? Так вы Соратники?",
+  "form_id": "00000801|Companions Dialogue Bundle.esp",
+  "type": "INFO RNAM",
+  "index": null,
+  "editor_id": null
+ },
+ {
+  "original": "We are. This giant was bothering the farmers in the area, so we took care of it.",
+  "string": "Да. Этот великан досаждал здешним фермерам, вот мы с ним и разобрались.",
+  "form_id": "0000081A|Companions Dialogue Bundle.esp",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "Shield-Sister? So you're Companions?",
+  "string": "Сестра по оружию? Так вы Соратники?",
+  "form_id": "0000081A|Companions Dialogue Bundle.esp",
+  "type": "INFO RNAM",
+  "index": null,
+  "editor_id": null
+ },
+ {
+  "original": "It was dead before I had a chance to help.",
+  "string": "Он был мертв еще до того, как мне удалось помочь.",
+  "form_id": "00000802|Companions Dialogue Bundle.esp",
+  "type": "DIAL FULL",
+  "index": null,
+  "editor_id": "C00GiantAttackChillOut"
+ },
+ {
+  "original": "I guess so. I'm sorry.",
+  "string": "Похоже на то. Прошу прощения.",
+  "form_id": "00000803|Companions Dialogue Bundle.esp",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "Ah... my mistake.",
+  "string": "А... моя ошибка.",
+  "form_id": "00000804|Companions Dialogue Bundle.esp",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "Who are you?",
+  "string": "Кто ты?",
+  "form_id": "00000805|Companions Dialogue Bundle.esp",
+  "type": "DIAL FULL",
+  "index": null,
+  "editor_id": "C00GiantAttackWhatYouDoin"
+ },
+ {
+  "original": "We are Companions.",
+  "string": "Мы Соратники.",
+  "form_id": "00000806|Companions Dialogue Bundle.esp",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "An order of warriors. We are brothers and sisters in honor.",
+  "string": "Орден воинов. Мы братья и сестры по доблести.",
+  "form_id": "00000806|Companions Dialogue Bundle.esp",
+  "type": "INFO NAM1",
+  "index": 2,
+  "editor_id": null
+ },
+ {
+  "original": "And we show up to solve problems if the coin is good enough.",
+  "string": "Мы приходим на помощь, если плата достойная.",
+  "form_id": "00000806|Companions Dialogue Bundle.esp",
+  "type": "INFO NAM1",
+  "index": 3,
+  "editor_id": null
+ },
+ {
+  "original": "Check downstairs in his room. At the end of the hall.",
+  "string": "Загляни вниз, в его комнату. В конце коридора.",
+  "form_id": "00000808|Companions Dialogue Bundle.esp",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "Where can I find Kodlak?",
+  "string": "Где найти Кодлака?",
+  "form_id": "00000808|Companions Dialogue Bundle.esp",
+  "type": "INFO RNAM",
+  "index": null,
+  "editor_id": null
+ },
+ {
+  "original": "How should I know? Have you checked downstairs?",
+  "string": "Мне-то откуда знать? А внизу поискать?",
+  "form_id": "00000809|Companions Dialogue Bundle.esp",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "Where can I find Kodlak?",
+  "string": "Где найти Кодлака?",
+  "form_id": "00000809|Companions Dialogue Bundle.esp",
+  "type": "INFO RNAM",
+  "index": null,
+  "editor_id": null
+ },
+ {
+  "original": "Try downstairs in the living quarters.",
+  "string": "Поищи внизу, в жилых комнатах.",
+  "form_id": "0000080A|Companions Dialogue Bundle.esp",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "Where can I find Kodlak?",
+  "string": "Где найти Кодлака?",
+  "form_id": "0000080A|Companions Dialogue Bundle.esp",
+  "type": "INFO RNAM",
+  "index": null,
+  "editor_id": null
+ },
+ {
+  "original": "He's probably in his quarters in Jorrvaskr. Just head downstairs and you'll find his room at the end of the hall.",
+  "string": "Наверное, он у себя в покоях в Йоррваскре. Спустись вниз - его комната в конце коридора.",
+  "form_id": "0000080E|Companions Dialogue Bundle.esp",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "Where can I find Kodlak?",
+  "string": "Где найти Кодлака?",
+  "form_id": "0000080E|Companions Dialogue Bundle.esp",
+  "type": "INFO RNAM",
+  "index": null,
+  "editor_id": null
+ },
+ {
+  "original": "Have you checked his quarters in Jorrvaskr? It's downstairs, at the end of the hall.",
+  "string": "Загляни к нему в покои в Йоррваскре. Это внизу, в конце коридора.",
+  "form_id": "0000080F|Companions Dialogue Bundle.esp",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "Where can I find Kodlak?",
+  "string": "Где найти Кодлака?",
+  "form_id": "0000080F|Companions Dialogue Bundle.esp",
+  "type": "INFO RNAM",
+  "index": null,
+  "editor_id": null
+ },
+ {
+  "original": "Kodlak? You'll most likely find him in his quarters in Jorrvaskr.",
+  "string": "Кодлак? Скорее всего, он у себя в покоях в Йоррваскре.",
+  "form_id": "00000810|Companions Dialogue Bundle.esp",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "Where can I find Kodlak?",
+  "string": "Где найти Кодлака?",
+  "form_id": "00000810|Companions Dialogue Bundle.esp",
+  "type": "INFO RNAM",
+  "index": null,
+  "editor_id": null
+ },
+ {
+  "original": "Courage is not the absence of fear, but the will to face it head-on. Embrace your fears, and they will become your allies.",
+  "string": "Храбрость - это не отсутствие страха, а готовность встретить его лицом к лицу. Прими свои страхи, и они станут твоими союзниками.",
+  "form_id": "0000084C|Companions Dialogue Bundle.esp",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "Any advice for me?",
+  "string": "Дашь какой-нибудь совет?",
+  "form_id": "0000084C|Companions Dialogue Bundle.esp",
+  "type": "INFO RNAM",
+  "index": null,
+  "editor_id": null
+ },
+ {
+  "original": "In battle, focus on your instincts and let them guide you. Trust yourself.",
+  "string": "В бою слушай свое чутье, пусть оно ведет тебя. Доверяй себе.",
+  "form_id": "0000084D|Companions Dialogue Bundle.esp",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "Any advice for me?",
+  "string": "Дашь какой-нибудь совет?",
+  "form_id": "0000084D|Companions Dialogue Bundle.esp",
+  "type": "INFO RNAM",
+  "index": null,
+  "editor_id": null
+ },
+ {
+  "original": "Learn from your failures, for they are the stepping stones to greatness.",
+  "string": "Учись на своих неудачах - это ступени к величию.",
+  "form_id": "0000084E|Companions Dialogue Bundle.esp",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "Any advice for me?",
+  "string": "Дашь какой-нибудь совет?",
+  "form_id": "0000084E|Companions Dialogue Bundle.esp",
+  "type": "INFO RNAM",
+  "index": null,
+  "editor_id": null
+ },
+ {
+  "original": "The path of a warrior is filled with challenges, but with each trial, you grow stronger. Embrace the journey.",
+  "string": "Путь воина полон испытаний, но каждое делает тебя сильнее. Иди по нему смело.",
+  "form_id": "0000084F|Companions Dialogue Bundle.esp",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "Any advice for me?",
+  "string": "Дашь какой-нибудь совет?",
+  "form_id": "0000084F|Companions Dialogue Bundle.esp",
+  "type": "INFO RNAM",
+  "index": null,
+  "editor_id": null
+ },
+ {
+  "original": "The Companions are bound by honor and loyalty. Protect those in need, and they will find strength in your presence.",
+  "string": "Соратников связывают честь и верность. Защищай тех, кто нуждается в помощи, и рядом с тобой они обретут силу.",
+  "form_id": "00000850|Companions Dialogue Bundle.esp",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "Any advice for me?",
+  "string": "Дашь какой-нибудь совет?",
+  "form_id": "00000850|Companions Dialogue Bundle.esp",
+  "type": "INFO RNAM",
+  "index": null,
+  "editor_id": null
+ },
+ {
+  "original": "Remember, a leader leads by example, not just with words. Show your comrades the way with unwavering resolve.",
+  "string": "Помни: вожак ведет за собой примером, а не одними словами. Покажи товарищам путь своей непоколебимой решимостью.",
+  "form_id": "00000851|Companions Dialogue Bundle.esp",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "Any advice for me?",
+  "string": "Дашь какой-нибудь совет?",
+  "form_id": "00000851|Companions Dialogue Bundle.esp",
+  "type": "INFO RNAM",
+  "index": null,
+  "editor_id": null
+ },
+ {
+  "original": "I got no more advice for you, whelp. Seek your own path now.",
+  "string": "Больше советов у меня для тебя нет, щенок. Теперь ищи свой путь сам.",
+  "form_id": "00000852|Companions Dialogue Bundle.esp",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "Any more advice for me?",
+  "string": "Еще посоветуешь что-нибудь?",
+  "form_id": "00000852|Companions Dialogue Bundle.esp",
+  "type": "INFO RNAM",
+  "index": null,
+  "editor_id": null
+ },
+ {
+  "original": "Thank you for your guidance. I'll keep your advice in mind.",
+  "string": "Спасибо за наставления. Буду помнить твои советы.",
+  "form_id": "00000853|Companions Dialogue Bundle.esp",
+  "type": "DIAL FULL",
+  "index": null,
+  "editor_id": "C00SkjorAdviceBranchNoAdvice"
+ },
+ {
+  "original": "You've grown. Remember, the true strength lies within you. Forge your own destiny with the wisdom you've gained.",
+  "string": "В тебе прибавилось силы. Помни: истинная сила - внутри тебя. Куй свою судьбу с той мудростью, что теперь у тебя есть.",
+  "form_id": "00000854|Companions Dialogue Bundle.esp",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "Is that all? I was hoping for more.",
+  "string": "И это все? Хотелось бы большего.",
+  "form_id": "00000856|Companions Dialogue Bundle.esp",
+  "type": "DIAL FULL",
+  "index": null,
+  "editor_id": "C00SkjorAdviceBranchNoAdviceEntitled"
+ },
+ {
+  "original": "You've got fire in your words, but remember, true strength is earned, not entitled.",
+  "string": "Слова у тебя горячие, но помни: истинную силу заслуживают, а не получают по праву.",
+  "form_id": "00000855|Companions Dialogue Bundle.esp",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "Find your own path, prove your worth, and perhaps then you'll understand.",
+  "string": "Найди свой путь, докажи, чего стоишь, - может, тогда и поймешь.",
+  "form_id": "00000855|Companions Dialogue Bundle.esp",
+  "type": "INFO NAM1",
+  "index": 2,
+  "editor_id": null
+ },
+ {
+  "original": "A story from the Great War? Sure, which one would you like to hear?",
+  "string": "История о Великой войне? Конечно, какую хочешь услышать?",
+  "form_id": "0000085B|Companions Dialogue Bundle.esp",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "Any stories from the war you could share?",
+  "string": "Расскажешь что-нибудь о войне?",
+  "form_id": "0000085B|Companions Dialogue Bundle.esp",
+  "type": "INFO RNAM",
+  "index": null,
+  "editor_id": null
+ },
+ {
+  "original": "A victory forged in fire.",
+  "string": "Победа, выкованная в огне.",
+  "form_id": "0000085D|Companions Dialogue Bundle.esp",
+  "type": "DIAL FULL",
+  "index": null,
+  "editor_id": "C00SkjorWarStoryVictoryForgedInFire"
+ },
+ {
+  "original": "During the Great War, I found myself deep into enemy territory. Outnumbered and outmatched.",
+  "string": "Во время Великой войны я оказался глубоко на вражеской земле. Их было больше, и они были сильнее.",
+  "form_id": "0000085C|Companions Dialogue Bundle.esp",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "The battlefield was a chaotic maelstrom of blood and steel.",
+  "string": "Поле боя превратилось в хаос, в вихрь крови и стали.",
+  "form_id": "0000085C|Companions Dialogue Bundle.esp",
+  "type": "INFO NAM1",
+  "index": 2,
+  "editor_id": null
+ },
+ {
+  "original": "In the face of overwhelming odds.",
+  "string": "Когда силы неравны.",
+  "form_id": "0000085E|Companions Dialogue Bundle.esp",
+  "type": "DIAL FULL",
+  "index": null,
+  "editor_id": "C00SkjorWarStoryOverwhelmingOdds"
+ },
+ {
+  "original": "In the heart of the Great War, I stood shoulder to shoulder with my comrades, surrounded by the deafening roar of battle.",
+  "string": "В самый разгар Великой войны я стоял плечом к плечу с товарищами, а вокруг гремел оглушительный рев битвы.",
+  "form_id": "0000085F|Companions Dialogue Bundle.esp",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "We were cut off from reinforcements, trapped behind enemy lines.",
+  "string": "Мы были отрезаны от подкреплений, заперты в тылу врага.",
+  "form_id": "0000085F|Companions Dialogue Bundle.esp",
+  "type": "INFO NAM1",
+  "index": 2,
+  "editor_id": null
+ },
+ {
+  "original": "The indomitable spirit of warriors.",
+  "string": "Несокрушимый дух воинов.",
+  "form_id": "00000860|Companions Dialogue Bundle.esp",
+  "type": "DIAL FULL",
+  "index": null,
+  "editor_id": "C00SkjorWarStorySpiritOfWarriors"
+ },
+ {
+  "original": "Picture this: In the midst of the Great War, I found myself leading a small band of warriors on a mission deep into enemy territory.",
+  "string": "Представь: в разгар Великой войны я веду небольшой отряд воинов на задание глубоко во вражеский тыл.",
+  "form_id": "00000861|Companions Dialogue Bundle.esp",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "We were outnumbered and surrounded, but that didn't deter us.",
+  "string": "Нас было меньше, нас окружили, но это нас не остановило.",
+  "form_id": "00000861|Companions Dialogue Bundle.esp",
+  "type": "INFO NAM1",
+  "index": 2,
+  "editor_id": null
+ },
+ {
+  "original": "How did you get out of it?",
+  "string": "Как вы оттуда выбрались?",
+  "form_id": "00000862|Companions Dialogue Bundle.esp",
+  "type": "DIAL FULL",
+  "index": null,
+  "editor_id": "C00ForgedInFireHowDidYouGetOut"
+ },
+ {
+  "original": "In those desperate moments, I discovered the true meaning of brotherhood.",
+  "string": "В те отчаянные минуты я понял, что такое настоящее братство.",
+  "form_id": "00000863|Companions Dialogue Bundle.esp",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "Together we held the line, unwavering in our resolve and turned the tide of the battle.",
+  "string": "Вместе мы удержали строй, не дрогнув ни на миг, и переломили ход битвы.",
+  "form_id": "00000863|Companions Dialogue Bundle.esp",
+  "type": "INFO NAM1",
+  "index": 2,
+  "editor_id": null
+ },
+ {
+  "original": "It was a victory forged in fire and it forever etched in my memory the strength of unity and the price of sacrifice.",
+  "string": "Эта победа была выкована в огне, и она навсегда врезала мне в память силу единства и цену жертвы.",
+  "form_id": "00000863|Companions Dialogue Bundle.esp",
+  "type": "INFO NAM1",
+  "index": 3,
+  "editor_id": null
+ },
+ {
+  "original": "Was there no way out?",
+  "string": "Неужели выхода не было?",
+  "form_id": "00000864|Companions Dialogue Bundle.esp",
+  "type": "DIAL FULL",
+  "index": null,
+  "editor_id": "C00OverwhelmingOddsHowDidItGo"
+ },
+ {
+  "original": "It seemed like an impossible situation, but we refused to yield. Through sheer determination and resourcefulness, we devised a plan to break free.",
+  "string": "Положение казалось безнадежным, но мы не сдались. Благодаря упорству и находчивости мы придумали, как вырваться.",
+  "form_id": "00000865|Companions Dialogue Bundle.esp",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "Under the cover of darkness, we slipped past enemy patrols, navigating treachearous terrain until we finally reached friendly territory.",
+  "string": "Под покровом темноты мы проскользнули мимо вражеских дозоров, пробираясь по опасным тропам, пока наконец не вышли к своим.",
+  "form_id": "00000865|Companions Dialogue Bundle.esp",
+  "type": "INFO NAM1",
+  "index": 2,
+  "editor_id": null
+ },
+ {
+  "original": "That experience taught me the value of adaptability and the power of strategic thinking in the face of overwhelming odds.",
+  "string": "Тогда я понял, как важно уметь приспосабливаться и думать головой, когда враг намного сильнее.",
+  "form_id": "00000865|Companions Dialogue Bundle.esp",
+  "type": "INFO NAM1",
+  "index": 3,
+  "editor_id": null
+ },
+ {
+  "original": "Did you take them head-on?",
+  "string": "Вы ударили в лоб?",
+  "form_id": "00000866|Companions Dialogue Bundle.esp",
+  "type": "DIAL FULL",
+  "index": null,
+  "editor_id": "C00SpiritOfWarriorsHowToFight"
+ },
+ {
+  "original": "As we charged into battle, the enemies ranks broke before our relentless onslaught.",
+  "string": "Мы ринулись в бой, и ряды врага дрогнули под нашим неудержимым натиском.",
+  "form_id": "00000867|Companions Dialogue Bundle.esp",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "We fought with a ferocity born of desperation, our every strike echoing with defiance.",
+  "string": "Мы бились с яростью отчаяния, и в каждом нашем ударе звучал вызов.",
+  "form_id": "00000867|Companions Dialogue Bundle.esp",
+  "type": "INFO NAM1",
+  "index": 2,
+  "editor_id": null
+ },
+ {
+  "original": "Did you have to retreat?",
+  "string": "Пришлось отступить?",
+  "form_id": "00000868|Companions Dialogue Bundle.esp",
+  "type": "DIAL FULL",
+  "index": null,
+  "editor_id": "C00SpiritOfWarriorsIncredible"
+ },
+ {
+  "original": "Amidst the chaos, I glimpsed victory and it ignited a fire within me that burned brighter than ever.",
+  "string": "Посреди хаоса я увидел проблеск победы, и во мне вспыхнул огонь - ярче, чем когда-либо.",
+  "form_id": "00000869|Companions Dialogue Bundle.esp",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "That day we carved a path through adversity, leaving a trail of fallen foes in our wake.",
+  "string": "В тот день мы проложили себе путь через все невзгоды, оставив за собой след из павших врагов.",
+  "form_id": "00000869|Companions Dialogue Bundle.esp",
+  "type": "INFO NAM1",
+  "index": 2,
+  "editor_id": null
+ },
+ {
+  "original": "It was a testament to the indomitable spirit of warriors who refuse to be crushed by the weight of war.",
+  "string": "Это доказало, что дух воинов несокрушим и тяжесть войны их не сломит.",
+  "form_id": "00000869|Companions Dialogue Bundle.esp",
+  "type": "INFO NAM1",
+  "index": 3,
+  "editor_id": null
+ },
+ {
+  "original": "Your blade looks a bit dull. When was the last time you sharpened it?",
+  "string": "Что-то клинок у тебя туповат. Когда ты его в последний раз точил?",
+  "form_id": "0000086D|Companions Dialogue Bundle.esp",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "You know me, I get caught up in the heat of battle, and the maintenance stuff slips my mind.",
+  "string": "Ты же меня знаешь: в пылу боя я увлекаюсь, а про всякий уход забываю.",
+  "form_id": "0000086F|Companions Dialogue Bundle.esp",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "Always forgetting the little things. A warrior's weapon should be an extension of themselves, sharp and ready.",
+  "string": "Вечно забываешь о мелочах. Оружие воина должно быть продолжением его самого - острым и готовым к бою.",
+  "form_id": "00000871|Companions Dialogue Bundle.esp",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "And that's why I have you, brother. The meticulous one who keeps everything in order.",
+  "string": "Поэтому у меня и есть ты, брат. Дотошный, у которого все по порядку.",
+  "form_id": "00000873|Companions Dialogue Bundle.esp",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "Take care of your own weapon, Farkas. It's a vital skill for any warrior. You do remember how to sharpen a blade, right?",
+  "string": "Следи за своим оружием сам, Фаркас. Это необходимый навык для любого воина. Ты ведь помнишь, как точить клинок?",
+  "form_id": "00000875|Companions Dialogue Bundle.esp",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "Of course I do...",
+  "string": "Конечно, помню...",
+  "form_id": "00000877|Companions Dialogue Bundle.esp",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "Meet me in the training yard. I'll show you how it's done.",
+  "string": "Жду тебя на тренировочном дворе. Покажу, как это делается.",
+  "form_id": "00000879|Companions Dialogue Bundle.esp",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "You know, you're one fierce warrior. I can't help but be attracted to a woman who can swing a sword like you.",
+  "string": "А ты, знаешь ли, свирепый воин. Не могу устоять перед женщиной, которая так машет мечом.",
+  "form_id": "0000087D|Companions Dialogue Bundle.esp",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "Thanks, Torvar. I appreciate the compliment. But you know I value our friendship, and I'm not looking for anything more than that.",
+  "string": "Спасибо, Торвар. Приятно слышать. Но ты же знаешь, я дорожу нашей дружбой, и большего мне не нужно.",
+  "form_id": "0000087F|Companions Dialogue Bundle.esp",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "Ah, come on, Ria. Let's have some fun. You never know what could happen between us.",
+  "string": "Да брось, Риа. Давай повеселимся. Кто знает, что у нас с тобой может выйти.",
+  "form_id": "00000881|Companions Dialogue Bundle.esp",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "Torvar, you're a great guy and a skilled fighter. But right now, I think it's the mead talking. Let's enjoy the night as friends, okay?",
+  "string": "Торвар, ты отличный парень и умелый боец. Но сейчас, по-моему, в тебе говорит мед. Давай просто проведем вечер как друзья, ладно?",
+  "form_id": "00000883|Companions Dialogue Bundle.esp",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "Alright, Ria. Friends it is.",
+  "string": "Ладно, Риа. Друзья так друзья.",
+  "form_id": "00000885|Companions Dialogue Bundle.esp",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "Mind if I join you on your hunt? I've been practicing my archery skills, and I could use some guidance from someone like you.",
+  "string": "Можно мне с тобой на охоту? Я тут налегаю на стрельбу из лука, и мне бы пригодились советы от кого-то вроде тебя.",
+  "form_id": "00000889|Companions Dialogue Bundle.esp",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "You want to come hunting with me? It takes more than just shooting arrows, you know.",
+  "string": "Хочешь пойти со мной на охоту? Знаешь, тут мало просто пускать стрелы.",
+  "form_id": "0000088B|Companions Dialogue Bundle.esp",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "I know. I've been studying your techniques, and I can't wait to put them into practice. Plus, spending time together would be nice.",
+  "string": "Знаю. Я давно присматриваюсь к твоим приемам и не могу дождаться, чтобы попробовать их в деле. К тому же провести время вместе было бы здорово.",
+  "form_id": "0000088D|Companions Dialogue Bundle.esp",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "Alright, I'll give you a chance. But remember, hunting is about survival and respect for nature.",
+  "string": "Ладно, дам тебе шанс. Но помни: охота - это выживание и уважение к природе.",
+  "form_id": "0000088F|Companions Dialogue Bundle.esp",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "So see you tomorrow morning then?",
+  "string": "Значит, до завтрашнего утра?",
+  "form_id": "00000891|Companions Dialogue Bundle.esp",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "Farkas, you ever think about what we'd do if we weren't Companions?",
+  "string": "Фаркас, ты никогда не думал, чем бы мы занимались, если бы не были Соратниками?",
+  "form_id": "00000895|Companions Dialogue Bundle.esp",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "My mind can barely fathom a life without battling beasts and sharing mead with you lot.",
+  "string": "Я и представить себе не могу жизни без драк со зверьем и меда в вашей компании.",
+  "form_id": "00000897|Companions Dialogue Bundle.esp",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "Hah, you're right. I can't picture us doing anything else but hunting and causing mayhem.",
+  "string": "Ха, твоя правда. Не представляю нас ни за чем, кроме охоты и всякой катавасии.",
+  "form_id": "00000899|Companions Dialogue Bundle.esp",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "Maybe we could open a tavern someday? Where the mead flows and the bards sing of our epic battles.",
+  "string": "Может, однажды откроем таверну? Чтобы мед лился рекой, а барды пели о наших великих битвах.",
+  "form_id": "0000089B|Companions Dialogue Bundle.esp",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "I like the way you think, Farkas. A place where warriors can unwind and share their tales. Count me in!",
+  "string": "Мне нравится, как ты мыслишь, Фаркас. Место, где воины могут расслабиться и поделиться историями. Я в деле!",
+  "form_id": "0000089D|Companions Dialogue Bundle.esp",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "Any pointers on my sword and shield technique?",
+  "string": "Подскажешь что-нибудь насчет моей техники с мечом и щитом?",
+  "form_id": "000008A1|Companions Dialogue Bundle.esp",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "Seriously Ria? You swing that blade like a blind mammoth. Try moving your feet for once.",
+  "string": "Серьезно, Риа? Ты машешь клинком, как слепой мамонт. Попробуй хоть раз переставлять ноги.",
+  "form_id": "000008A3|Companions Dialogue Bundle.esp",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "Alright, no need to be so snarky.",
+  "string": "Ладно, незачем так язвить.",
+  "form_id": "000008A5|Companions Dialogue Bundle.esp",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "Just stating the obvious. Keep practicing, maybe you'll catch up someday.",
+  "string": "Говорю как есть. Тренируйся дальше, может, когда-нибудь и догонишь.",
+  "form_id": "000008A7|Companions Dialogue Bundle.esp",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "Don't think I'm impressed just because you won that stupid fist fight.",
+  "string": "Не думай, что я впечатлен только потому, что ты выиграл эту дурацкую драку на кулаках.",
+  "form_id": "000008AB|Companions Dialogue Bundle.esp",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "Oh, look who's bitter. Can't handle losing?",
+  "string": "О, кто-то злится. Не умеешь проигрывать?",
+  "form_id": "000008AD|Companions Dialogue Bundle.esp",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "Oh shut it. It was a fluke and you know it.",
+  "string": "Ой, заткнись. Это была случайность, и ты сам это знаешь.",
+  "form_id": "000008AF|Companions Dialogue Bundle.esp",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "Fluke or not, I still came out on top. Deal with it, loser.",
+  "string": "Случайность или нет, а верх взял я. Смирись, неудачник.",
+  "form_id": "000008B1|Companions Dialogue Bundle.esp",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "You won't have the upper hand forever. I'll make sure of it.",
+  "string": "Вечно у тебя верх не будет. Уж я об этом позабочусь.",
+  "form_id": "000008B3|Companions Dialogue Bundle.esp",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "You've got a spring in your step today. Got someone on your mind, do you?",
+  "string": "Что-то ты сегодня так и порхаешь. Кто-то запал в душу, а?",
+  "form_id": "000008B7|Companions Dialogue Bundle.esp",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "Oh come on, Skjor. Can't I just enjoy the day without your teasing?",
+  "string": "Да брось, Скьор. Можно мне просто порадоваться дню без твоих подначек?",
+  "form_id": "000008B9|Companions Dialogue Bundle.esp",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "Teasing? Me? Never. But I've seen that look before, my friend. Don't deny it!",
+  "string": "Подначек? От меня? Никогда. Но этот взгляд я уже видел, друг мой. Не отпирайся!",
+  "form_id": "000008BB|Companions Dialogue Bundle.esp",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "Fine, you caught me. There might be someone who caught my eye, but that is all there is to it.",
+  "string": "Ладно, поймал. Может, кто-то мне и приглянулся, но не более того.",
+  "form_id": "000008BD|Companions Dialogue Bundle.esp",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "Vilkas, you sly dog. Keep me updated, alright? I want all the gossip.",
+  "string": "Вилкас, хитрый ты пес. Держи меня в курсе, ладно? Хочу знать все сплетни.",
+  "form_id": "000008BF|Companions Dialogue Bundle.esp",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ }
+]
