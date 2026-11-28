@@ -33,6 +33,7 @@
 | Noct's Trithril Weapon Pack | - | `mods/trithril` (вместо машинного перевода) |
 | Companions Dialogue Bundle | - | `mods/companions-dialogue-bundle` (ставится как `RU_companions-dialogue-bundle.json`) |
 | Vampire Clans and Bloodlines | - | `mods/vampire-clans` (ставится как `RU_vampire-clans.json`) |
+| Nyhus and the border of Cyrodiil | - | `mods/nyhus` (ставится как `RU_nyhus.json`) |
 
 ## Как устроен перевод
 

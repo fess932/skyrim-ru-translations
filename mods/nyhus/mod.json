@@ -1,0 +1,11 @@
+{
+  "slug": "nyhus",
+  "name": "Nyhus and the border of Cyrodiil",
+  "reuse_installed": true,
+  "plugins": [
+    "Nyhus.esp"
+  ],
+  "sources": {
+    "Nyhus.esp": "Nyhus and the border of Cyrodiil"
+  }
+}
