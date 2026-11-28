@@ -1897,7 +1897,7 @@
  },
  {
   "original": "Summon Rootbind Covenant",
-  "string": "Призыв ковенанта корневязов",
+  "string": "Призыв Завета Корнесплета",
   "form_id": "0006609F|BecomeKingofSkyrimTNG.esp",
   "type": "MGEF FULL",
   "index": null,
@@ -2409,7 +2409,7 @@
  },
  {
   "original": "Summon The Rootbind Covenant",
-  "string": "Призыв ковенанта корневязов",
+  "string": "Призыв Завета Корнесплета",
   "form_id": "0006609D|BecomeKingofSkyrimTNG.esp",
   "type": "SPEL FULL",
   "index": null,
@@ -58065,7 +58065,7 @@
  },
  {
   "original": "Telvanni steel is reborn in exile!",
-  "string": "Сталь Тельванни возрождается в изгнании!",
+  "string": "Сталь Телванни возрождается в изгнании!",
   "form_id": "002EF49B|BecomeKingofSkyrimTNG.esp",
   "type": "INFO NAM1",
   "index": 0,
@@ -58313,7 +58313,7 @@
  },
  {
   "original": "Even a Telvanni knows when to vanish.",
-  "string": "Даже Тельванни знает, когда пора исчезнуть.",
+  "string": "Даже Телванни знает, когда пора исчезнуть.",
   "form_id": "002EF4BB|BecomeKingofSkyrimTNG.esp",
   "type": "INFO NAM1",
   "index": 0,
@@ -58449,7 +58449,7 @@
  },
  {
   "original": "You think pain humbles me? You don't know Telvanni.",
-  "string": "Думаешь, боль меня усмирит? Ты не знаешь Тельванни.",
+  "string": "Думаешь, боль меня усмирит? Ты не знаешь Телванни.",
   "form_id": "002EF4AD|BecomeKingofSkyrimTNG.esp",
   "type": "INFO NAM1",
   "index": 0,

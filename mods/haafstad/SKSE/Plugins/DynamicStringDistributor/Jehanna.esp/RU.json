@@ -10113,7 +10113,7 @@
  },
  {
   "original": "Farewell",
-  "string": "Прощай",
+  "string": "Прощание",
   "form_id": "0044C6C9|Jehanna.esp",
   "type": "INFO NAM1",
   "index": 1,
@@ -11889,7 +11889,7 @@
  },
  {
   "original": "Joto Fish-breath is pleased you wish to trade.",
-  "string": "Джото Рыбий Дух рад, что ты хочешь поторговать.",
+  "string": "Йото Рыбий Дух рад, что ты хочешь поторговать.",
   "form_id": "006A1600|Jehanna.esp",
   "type": "INFO NAM1",
   "index": 1,

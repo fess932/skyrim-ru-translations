@@ -3369,7 +3369,7 @@
  },
  {
   "original": "Get frosted by VL",
-  "string": "Заморожен Вампиром-лордом",
+  "string": "Заморожен Лордом-вампиром",
   "form_id": "002C1C95|Everdamned.esp",
   "type": "MGEF DNAM",
   "index": null,
@@ -5801,7 +5801,7 @@
  },
  {
   "original": "Vampire Lord Devour Perk Holder",
-  "string": "Носитель навыка пожирания вампира-лорда",
+  "string": "Носитель навыка пожирания лорда-вампира",
   "form_id": "009856D8|Everdamned.esp",
   "type": "MGEF FULL",
   "index": null,
@@ -6617,7 +6617,7 @@
  },
  {
   "original": "Get frosted by VL",
-  "string": "Заморожен Вампиром-лордом",
+  "string": "Заморожен Лордом-вампиром",
   "form_id": "00E356B3|Everdamned.esp",
   "type": "MGEF DNAM",
   "index": null,
@@ -6649,7 +6649,7 @@
  },
  {
   "original": "Get frosted by VL",
-  "string": "Заморожен Вампиром-лордом",
+  "string": "Заморожен Лордом-вампиром",
   "form_id": "00E356B5|Everdamned.esp",
   "type": "MGEF DNAM",
   "index": null,
@@ -7841,7 +7841,7 @@
  },
  {
   "original": "Transform into a Vampire Lord. Its power is based on your character level and progress of your Vampire Curse. In this form, Sunlight is scorching regardless of <Vitae> level.",
-  "string": "Превращение в вампира-лорда. Его сила зависит от уровня персонажа и развития вампирского проклятия. В этом облике солнце обжигает независимо от запаса <витэ>.",
+  "string": "Превращение в лорда-вампира. Его сила зависит от уровня персонажа и развития вампирского проклятия. В этом облике солнце обжигает независимо от запаса <витэ>.",
   "form_id": "0000283B|Dawnguard.esm",
   "type": "SPEL DESC",
   "index": null,
@@ -8033,7 +8033,7 @@
  },
  {
   "original": "Vampire Lord FX",
-  "string": "Эффект Вампира-лорда",
+  "string": "Эффект Лорда-вампира",
   "form_id": "000781F9|Everdamned.esp",
   "type": "SPEL FULL",
   "index": null,
@@ -8177,7 +8177,7 @@
  },
  {
   "original": "Vampire Lord Items",
-  "string": "Предметы Вампира-лорда",
+  "string": "Предметы Лорда-вампира",
   "form_id": "0001462A|Dawnguard.esm",
   "type": "SPEL FULL",
   "index": null,
@@ -9665,7 +9665,7 @@
  },
  {
   "original": "Vampire Lord Stat Choice",
-  "string": "Выбор характеристики Вампира-лорда",
+  "string": "Выбор характеристики Лорда-вампира",
   "form_id": "004C12FB|Everdamned.esp",
   "type": "SPEL FULL",
   "index": null,
@@ -14617,7 +14617,7 @@
  },
  {
   "original": "Vampire Lords start with a powerful life draining spell in their right hand and a Lord's Servant reanimation spell in their left hand. The power button transforms him into a cloud of bats that reforms in the distance. ",
-  "string": "Вампир-лорд начинает с мощным заклинанием высасывания жизни в правой руке и заклинанием воскрешения \"Слуга лорда\" в левой. Кнопка способностей превращает его в стаю летучих мышей, которая вновь собирается в отдалении. ",
+  "string": "Лорд-вампир начинает с мощным заклинанием высасывания жизни в правой руке и заклинанием воскрешения \"Слуга лорда\" в левой. Кнопка способностей превращает его в стаю летучих мышей, которая вновь собирается в отдалении. ",
   "form_id": "00019ADA|Dawnguard.esm",
   "type": "LSCR DESC",
   "index": null,
@@ -14641,7 +14641,7 @@
  },
  {
   "original": "As a Vampire Lord, the inventory button will bring up the Vampire Lord perk tree. Vampire Lord can earn these by killing enemies with drain spells in magic mode, or with the power bite attack in melee mode. Advancing Vampiric skill will also award a certain number of perk points, but only by using the Transformation a true mastery over powers offered by royal blood can be achieved.",
-  "string": "В облике вампира-лорда кнопка инвентаря открывает дерево перков вампира-лорда. Вампир-лорд получает перки, убивая врагов высасывающими заклинаниями в магическом режиме или мощным укусом в ближнем бою. Развитие навыка вампиризма также дает некоторое количество очков перков, но истинного мастерства над силами королевской крови можно достичь только с помощью превращения.",
+  "string": "В облике лорда-вампира кнопка инвентаря открывает дерево перков лорда-вампира. Лорд-вампир получает перки, убивая врагов высасывающими заклинаниями в магическом режиме или мощным укусом в ближнем бою. Развитие навыка вампиризма также дает некоторое количество очков перков, но истинного мастерства над силами королевской крови можно достичь только с помощью превращения.",
   "form_id": "0000F834|Dawnguard.esm",
   "type": "LSCR DESC",
   "index": null,
@@ -14665,7 +14665,7 @@
  },
  {
   "original": "Vampire Lord perks points are separate from regular Vampirism tree. They are earned by killing enemies with the Drain Life spell, or with the bite attack in melee mode. Each perk takes more feedings to earn than the previous one. A number perk points will get awarded when vampire ages.",
-  "string": "Очки перков вампира-лорда не связаны с обычным деревом вампиризма. Они зарабатываются убийством врагов заклинанием \"Высасывание жизни\" или укусом в ближнем бою. Каждый следующий перк требует больше кормлений, чем предыдущий. Несколько очков перков вампир получает по мере взросления.",
+  "string": "Очки перков лорда-вампира не связаны с обычным деревом вампиризма. Они зарабатываются убийством врагов заклинанием \"Высасывание жизни\" или укусом в ближнем бою. Каждый следующий перк требует больше кормлений, чем предыдущий. Несколько очков перков вампир получает по мере взросления.",
   "form_id": "0000F835|Dawnguard.esm",
   "type": "LSCR DESC",
   "index": null,
@@ -14769,7 +14769,7 @@
  },
  {
   "original": "VL Vampires Sight holder",
-  "string": "Держатель Взгляда вампира для вампира-лорда",
+  "string": "Держатель Взгляда вампира для лорда-вампира",
   "form_id": "001557E0|Everdamned.esp",
   "type": "PERK FULL",
   "index": null,
@@ -15329,7 +15329,7 @@
  },
  {
   "original": "Controlling VL spell performance",
-  "string": "Управление эффективностью заклинаний вампира-лорда",
+  "string": "Управление эффективностью заклинаний лорда-вампира",
   "form_id": "0041A14F|Everdamned.esp",
   "type": "PERK DESC",
   "index": null,
@@ -15345,7 +15345,7 @@
  },
  {
   "original": "Controlling VL spell performance",
-  "string": "Управление эффективностью заклинаний вампира-лорда",
+  "string": "Управление эффективностью заклинаний лорда-вампира",
   "form_id": "0041A152|Everdamned.esp",
   "type": "PERK DESC",
   "index": null,
@@ -15489,7 +15489,7 @@
  },
  {
   "original": "Charge Lord's Servant for 3 seconds to increase its magnitude twofold, make reanimated thrall last indefinitely and not disintegrate on death. Upon reverting to mortal form, the thrall will be displaced to the realm of Coldharbour and wait there for you to put on a mantle of Vampire Lord once again. (Cost: 300 Vitae)",
-  "string": "Если заряжать \"Слугу лорда\" 3 секунды, его сила удваивается, а воскрешенный раб служит бессрочно и не рассыпается после смерти. При возвращении в смертный облик раб переносится в Хладную Гавань и ждет там, пока вы снова не примете облик вампира-лорда. (Стоимость: 300 витэ)",
+  "string": "Если заряжать \"Слугу лорда\" 3 секунды, его сила удваивается, а воскрешенный раб служит бессрочно и не рассыпается после смерти. При возвращении в смертный облик раб переносится в Хладную Гавань и ждет там, пока вы снова не примете облик лорда-вампира. (Стоимость: 300 витэ)",
   "form_id": "004E9B00|Everdamned.esp",
   "type": "PERK DESC",
   "index": null,
@@ -16273,7 +16273,7 @@
  },
  {
   "original": "Killing a person in melee with a bite attack in all forms form fully restores all your attributes. Draining a victim in mortal form counts towards Vampire Lord perk progression.",
-  "string": "Убийство человека укусом в ближнем бою в любом облике полностью восстанавливает все атрибуты. Высасывание жертвы в смертном облике засчитывается в прогресс перков вампира-лорда.",
+  "string": "Убийство человека укусом в ближнем бою в любом облике полностью восстанавливает все атрибуты. Высасывание жертвы в смертном облике засчитывается в прогресс перков лорда-вампира.",
   "form_id": "00005994|Dawnguard.esm",
   "type": "PERK DESC",
   "index": null,
@@ -16345,7 +16345,7 @@
  },
  {
   "original": "All attributes (Health, Magicka, Stamina) are increased by 50 points as Vampire Lord. Choose an attribute to further increase by 100 points. Most Vampire Lord`s spells and powers become stronger with progression of Vampirism skill.",
-  "string": "В облике вампира-лорда все атрибуты (здоровье, магия, запас сил) увеличиваются на 50 ед. Выберите атрибут, который увеличится еще на 100 ед. Большинство заклинаний и способностей вампира-лорда усиливаются по мере развития навыка вампиризма.",
+  "string": "В облике лорда-вампира все атрибуты (здоровье, магия, запас сил) увеличиваются на 50 ед. Выберите атрибут, который увеличится еще на 100 ед. Большинство заклинаний и способностей лорда-вампира усиливаются по мере развития навыка вампиризма.",
   "form_id": "00005998|Dawnguard.esm",
   "type": "PERK DESC",
   "index": null,
@@ -16529,7 +16529,7 @@
  },
  {
   "original": "Controlling VL spell performance",
-  "string": "Управление эффективностью заклинаний вампира-лорда",
+  "string": "Управление эффективностью заклинаний лорда-вампира",
   "form_id": "0040AE48|Everdamned.esp",
   "type": "PERK DESC",
   "index": null,
@@ -16545,7 +16545,7 @@
  },
  {
   "original": "Controlling VL spell performance",
-  "string": "Управление эффективностью заклинаний вампира-лорда",
+  "string": "Управление эффективностью заклинаний лорда-вампира",
   "form_id": "0041A150|Everdamned.esp",
   "type": "PERK DESC",
   "index": null,
@@ -16577,7 +16577,7 @@
  },
  {
   "original": "Controlling VL spell performance",
-  "string": "Управление эффективностью заклинаний вампира-лорда",
+  "string": "Управление эффективностью заклинаний лорда-вампира",
   "form_id": "0041A151|Everdamned.esp",
   "type": "PERK DESC",
   "index": null,
@@ -16609,7 +16609,7 @@
  },
  {
   "original": "Cast a wave of blood that cuts through targets in a line, absorbing 15 - 25 Health and dealing 35 - 60 additional magic damage, based on your level. Permanently replaces standard Vampire Lord right hand spell.",
-  "string": "Волна крови рассекает цели на линии, поглощая 15-25 ед. здоровья и нанося 35-60 ед. дополнительного магического урона в зависимости от уровня. Навсегда заменяет стандартное заклинание правой руки вампира-лорда.",
+  "string": "Волна крови рассекает цели на линии, поглощая 15-25 ед. здоровья и нанося 35-60 ед. дополнительного магического урона в зависимости от уровня. Навсегда заменяет стандартное заклинание правой руки лорда-вампира.",
   "form_id": "0041A156|Everdamned.esp",
   "type": "PERK DESC",
   "index": null,
@@ -17305,7 +17305,7 @@
  },
  {
   "original": "A new Vampire Lord perk is available.",
-  "string": "Доступен новый перк вампира-лорда.",
+  "string": "Доступен новый перк лорда-вампира.",
   "form_id": "0001571C|Dawnguard.esm",
   "type": "MESG DESC",
   "index": null,

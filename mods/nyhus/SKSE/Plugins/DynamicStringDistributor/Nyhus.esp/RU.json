@@ -11377,7 +11377,7 @@
  },
  {
   "original": "I killed the vampire lord and all other evil vermin. Now, I'll return to Vilhelm in Nyhus and tell him that there will not be a threat coming from that remote area.",
-  "string": "Вампир-лорд и вся прочая нечисть уничтожены. Теперь нужно вернуться к Вильгельму в Нюхус и сказать ему, что из тех глухих мест угрозы больше не будет.",
+  "string": "Лорд-вампир и вся прочая нечисть уничтожены. Теперь нужно вернуться к Вильгельму в Нюхус и сказать ему, что из тех глухих мест угрозы больше не будет.",
   "form_id": "00280617|Nyhus.esp",
   "type": "QUST CNAM",
   "index": 30,
@@ -11393,7 +11393,7 @@
  },
  {
   "original": "Kill the Vampire Lord Mordar",
-  "string": "Убить вампира-лорда Мордара",
+  "string": "Убить лорда-вампира Мордара",
   "form_id": "00280617|Nyhus.esp",
   "type": "QUST NNAM",
   "index": 20,

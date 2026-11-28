@@ -145,7 +145,7 @@
  },
  {
   "original": "While you have the Staff of the Curator equipped, your spells and enchantments are <10>% more effective.",
-  "string": "Пока у вас в руках Посох хранителя, ваши заклинания и зачарования на <10>% эффективнее.",
+  "string": "Пока у вас в руках Посох куратора, ваши заклинания и зачарования на <10>% эффективнее.",
   "form_id": "009B242D|DBM_RelicNotifications.esp",
   "type": "SPEL DESC",
   "index": null,
@@ -161,7 +161,7 @@
  },
  {
   "original": "While you have the Shield of the Curator equipped, incoming physical damage is reduced by <10>%.",
-  "string": "Пока у вас в руках Щит хранителя, получаемый физический урон снижается на <10>%.",
+  "string": "Пока у вас в руках Щит куратора, получаемый физический урон снижается на <10>%.",
   "form_id": "009B242E|DBM_RelicNotifications.esp",
   "type": "SPEL DESC",
   "index": null,
@@ -193,7 +193,7 @@
  },
  {
   "original": "While wearing the Cloak of the Curator, fall damage is reduced by <50>%.",
-  "string": "Пока на вас Плащ хранителя, урон от падения снижается на <50>%.",
+  "string": "Пока на вас Плащ куратора, урон от падения снижается на <50>%.",
   "form_id": "009B2430|DBM_RelicNotifications.esp",
   "type": "SPEL DESC",
   "index": null,
@@ -2897,7 +2897,7 @@
  },
  {
   "original": "While you have the Staff of the Curator equipped, your spells and enchantments are 10% more effective.",
-  "string": "Пока у вас в руках Посох хранителя, ваши заклинания и зачарования на 10% эффективнее.",
+  "string": "Пока у вас в руках Посох куратора, ваши заклинания и зачарования на 10% эффективнее.",
   "form_id": "009B2428|DBM_RelicNotifications.esp",
   "type": "PERK DESC",
   "index": null,
@@ -2929,7 +2929,7 @@
  },
  {
   "original": "While wearing the Cloak of the Curator, fall damage is reduced by 50%",
-  "string": "Пока на вас Плащ хранителя, урон от падения снижается на 50%",
+  "string": "Пока на вас Плащ куратора, урон от падения снижается на 50%",
   "form_id": "009B2427|DBM_RelicNotifications.esp",
   "type": "PERK DESC",
   "index": null,
@@ -2945,7 +2945,7 @@
  },
  {
   "original": "While you have the Shield of the Curator equipped, incoming physical damage is reduced by 10%.",
-  "string": "Пока у вас в руках Щит хранителя, получаемый физический урон снижается на 10%.",
+  "string": "Пока у вас в руках Щит куратора, получаемый физический урон снижается на 10%.",
   "form_id": "009B2426|DBM_RelicNotifications.esp",
   "type": "PERK DESC",
   "index": null,

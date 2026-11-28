@@ -73,7 +73,7 @@
  },
  {
   "original": "The Dragonborn decided the fate of Telvanni outpost Sadrith Kegran by launching the Aetherial Hyperspace Observatory.",
-  "string": "Довакин решил судьбу телваннийского форпоста Садрит Кегран, запустив Этерийскую гиперпространственную обсерваторию.",
+  "string": "Довакин решил судьбу телваннийского форпоста Садрит Кегран, запустив Этериевую гиперпространственную обсерваторию.",
   "form_id": "0000081C|DBM_AHO_Patch.esp",
   "type": "MESG DESC",
   "index": null,
