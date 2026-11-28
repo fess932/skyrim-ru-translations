@@ -1,0 +1,178 @@
+[
+ {
+  "original": "Windmill Fan",
+  "string": "Крылья мельницы",
+  "form_id": "002B3568|LvxMagick - Skyrim - Settlement Builder.esm",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "Placeable_WindmillFan_Act"
+ },
+ {
+  "original": "ThouShaltBowToSheson",
+  "string": "ThouShaltBowToSheson",
+  "form_id": "00000901|DynDOLOD.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DynDOLOD_MasterActivator"
+ },
+ {
+  "original": "ThouShaltBowToObject",
+  "string": "ThouShaltBowToObject",
+  "form_id": "00000905|DynDOLOD.esp",
+  "type": "ACTI FULL",
+  "index": null,
+  "editor_id": "DynDOLOD_ObjectActivator"
+ },
+ {
+  "original": "???",
+  "string": "???",
+  "form_id": "000109CC|Glenmoril.esm",
+  "type": "WRLD FULL",
+  "index": null,
+  "editor_id": "zGHMilkySeaRealm"
+ },
+ {
+  "original": "Midwood Isle",
+  "string": "Остров Мидвуд",
+  "form_id": "00000801|Midwood Isle.esp",
+  "type": "WRLD FULL",
+  "index": null,
+  "editor_id": "MidwoodIsle"
+ },
+ {
+  "original": "Lastendell",
+  "string": "Ластенделл",
+  "form_id": "0004FB97|Midwood Isle.esp",
+  "type": "WRLD FULL",
+  "index": null,
+  "editor_id": "Lastendell"
+ },
+ {
+  "original": "Eltheric Ocean",
+  "string": "Элтерический океан",
+  "form_id": "001062EC|Midwood Isle.esp",
+  "type": "WRLD FULL",
+  "index": null,
+  "editor_id": "ElthericOcean"
+ },
+ {
+  "original": "Eltheric Ocean",
+  "string": "Элтерический океан",
+  "form_id": "001062ED|Midwood Isle.esp",
+  "type": "WRLD FULL",
+  "index": null,
+  "editor_id": "DesertIsland"
+ },
+ {
+  "original": "Oblivion",
+  "string": "Обливион",
+  "form_id": "0074CA41|Midwood Isle.esp",
+  "type": "WRLD FULL",
+  "index": null,
+  "editor_id": "MIOblivionRealmSCW"
+ },
+ {
+  "original": "Oblivion",
+  "string": "Обливион",
+  "form_id": "0074CA42|Midwood Isle.esp",
+  "type": "WRLD FULL",
+  "index": null,
+  "editor_id": "MIOblivionRealmSCE"
+ },
+ {
+  "original": "Oblivion",
+  "string": "Обливион",
+  "form_id": "007B9F17|Midwood Isle.esp",
+  "type": "WRLD FULL",
+  "index": null,
+  "editor_id": "MIOblivionRealmDNN"
+ },
+ {
+  "original": "Oblivion",
+  "string": "Обливион",
+  "form_id": "007B9F18|Midwood Isle.esp",
+  "type": "WRLD FULL",
+  "index": null,
+  "editor_id": "MIOblivionRealmDSE"
+ },
+ {
+  "original": "Oblivion",
+  "string": "Обливион",
+  "form_id": "007E36BC|Midwood Isle.esp",
+  "type": "WRLD FULL",
+  "index": null,
+  "editor_id": "MIOblivionRealmQ27"
+ },
+ {
+  "original": "Oblivion",
+  "string": "Обливион",
+  "form_id": "007E36BD|Midwood Isle.esp",
+  "type": "WRLD FULL",
+  "index": null,
+  "editor_id": "MIOblivionRealmQ14"
+ },
+ {
+  "original": "Velothi Mountains Pass",
+  "string": "Перевал Велотских гор",
+  "form_id": "00006352|CavesofMorrowind.esp",
+  "type": "WRLD FULL",
+  "index": null,
+  "editor_id": "DLC04VelothiMountains"
+ },
+ {
+  "original": "Velothi Mountains",
+  "string": "Велотские горы",
+  "form_id": "0003F36F|CavesofMorrowind.esp",
+  "type": "WRLD FULL",
+  "index": null,
+  "editor_id": "DLC04VelothiMountainsMW"
+ },
+ {
+  "original": "Velothi Lava Flows",
+  "string": "Лавовые поля Велоти",
+  "form_id": "0003F780|CavesofMorrowind.esp",
+  "type": "WRLD FULL",
+  "index": null,
+  "editor_id": "DLC04VelothiLavaFlows"
+ },
+ {
+  "original": "ThouShaltBowToUser",
+  "string": "ThouShaltBowToUser",
+  "form_id": "0000090F|DynDOLOD.esp",
+  "type": "QUST FULL",
+  "index": null,
+  "editor_id": "DynDOLOD_MCM"
+ },
+ {
+  "original": "ThouShaltBowToQuest",
+  "string": "ThouShaltBowToQuest",
+  "form_id": "00000911|DynDOLOD.esp",
+  "type": "QUST FULL",
+  "index": null,
+  "editor_id": "DynDOLOD_Quest"
+ },
+ {
+  "original": "I've got your firstborn \r\nMOO-HAHAHAHAHA",
+  "string": "Твой первенец у меня \nМУ-ХА-ХА-ХА-ХА-ХА",
+  "form_id": "0025FAD6|DynDOLOD.esp",
+  "type": "LSCR DESC",
+  "index": null,
+  "editor_id": "DynDOLOD_HolyCowScreen2"
+ },
+ {
+  "original": "Your firstborn is safe with me \r\nMUWHAHAHAHAHA",
+  "string": "Твой первенец у меня в надежных руках \nМУА-ХА-ХА-ХА-ХА-ХА",
+  "form_id": "0025FAD8|DynDOLOD.esp",
+  "type": "LSCR DESC",
+  "index": null,
+  "editor_id": "DynDOLOD_FirstbornGirlScreen2"
+ },
+ {
+  "original": "Your firstborn is safe with me \r\nMUWHAHAHAHAHA",
+  "string": "Твой первенец у меня в надежных руках \nМУА-ХА-ХА-ХА-ХА-ХА",
+  "form_id": "0025FADA|DynDOLOD.esp",
+  "type": "LSCR DESC",
+  "index": null,
+  "editor_id": "DynDOLOD_FirstbornBoyScreen2"
+ }
+]

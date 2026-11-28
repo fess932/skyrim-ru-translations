@@ -1,13 +1,17 @@
 {
   "slug": "generated-patches",
-  "name": "Сгенерированные патчи сборки (ParallaxGen) и фикс жил руды",
+  "name": "Сгенерированные патчи сборки (ParallaxGen, DynDOLOD) и фикс жил руды",
   "reuse_installed": true,
   "plugins": [
     "PG_1.esp",
-    "OreVeinTextureFix.esp"
+    "OreVeinTextureFix.esp",
+    "DynDOLOD.esm",
+    "DynDOLOD.esp"
   ],
   "sources": {
     "PG_1.esp": "ElderTeej - PG Patcher Output",
-    "OreVeinTextureFix.esp": "Ore Vein Texture Fix - Fixed"
+    "OreVeinTextureFix.esp": "Ore Vein Texture Fix - Fixed",
+    "DynDOLOD.esm": "ElderTeej - DynDOLOD Output",
+    "DynDOLOD.esp": "ElderTeej - DynDOLOD Output"
   }
 }

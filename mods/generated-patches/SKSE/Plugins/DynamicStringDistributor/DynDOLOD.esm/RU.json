@@ -1,0 +1,74 @@
+[
+ {
+  "original": "Midwood Isle",
+  "string": "Остров Мидвуд",
+  "form_id": "00000801|Midwood Isle.esp",
+  "type": "WRLD FULL",
+  "index": null,
+  "editor_id": "MidwoodIsle"
+ },
+ {
+  "original": "Lastendell",
+  "string": "Ластенделл",
+  "form_id": "0004FB97|Midwood Isle.esp",
+  "type": "WRLD FULL",
+  "index": null,
+  "editor_id": "Lastendell"
+ },
+ {
+  "original": "Oblivion",
+  "string": "Обливион",
+  "form_id": "0074CA41|Midwood Isle.esp",
+  "type": "WRLD FULL",
+  "index": null,
+  "editor_id": "MIOblivionRealmSCW"
+ },
+ {
+  "original": "Oblivion",
+  "string": "Обливион",
+  "form_id": "0074CA42|Midwood Isle.esp",
+  "type": "WRLD FULL",
+  "index": null,
+  "editor_id": "MIOblivionRealmSCE"
+ },
+ {
+  "original": "Oblivion",
+  "string": "Обливион",
+  "form_id": "007B9F17|Midwood Isle.esp",
+  "type": "WRLD FULL",
+  "index": null,
+  "editor_id": "MIOblivionRealmDNN"
+ },
+ {
+  "original": "Oblivion",
+  "string": "Обливион",
+  "form_id": "007B9F18|Midwood Isle.esp",
+  "type": "WRLD FULL",
+  "index": null,
+  "editor_id": "MIOblivionRealmDSE"
+ },
+ {
+  "original": "I've got your firstborn \r\nMOO-HAHAHAHAHA",
+  "string": "Твой первенец у меня \nМУ-ХА-ХА-ХА-ХА-ХА",
+  "form_id": "000DAAAD|DynDOLOD.esm",
+  "type": "LSCR DESC",
+  "index": null,
+  "editor_id": "DynDOLOD_HolyCowScreen1"
+ },
+ {
+  "original": "Your firstborn is safe with me \r\nMUWHAHAHAHAHA",
+  "string": "Твой первенец у меня в надежных руках \nМУА-ХА-ХА-ХА-ХА-ХА",
+  "form_id": "000DAAAF|DynDOLOD.esm",
+  "type": "LSCR DESC",
+  "index": null,
+  "editor_id": "DynDOLOD_FirstbornGirlScreen1"
+ },
+ {
+  "original": "Your firstborn is safe with me \r\nMUWHAHAHAHAHA",
+  "string": "Твой первенец у меня в надежных руках \nМУА-ХА-ХА-ХА-ХА-ХА",
+  "form_id": "000DAAB1|DynDOLOD.esm",
+  "type": "LSCR DESC",
+  "index": null,
+  "editor_id": "DynDOLOD_FirstbornBoyScreen1"
+ }
+]
