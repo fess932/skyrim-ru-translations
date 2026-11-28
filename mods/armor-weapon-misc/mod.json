@@ -1,0 +1,13 @@
+{
+  "slug": "armor-weapon-misc",
+  "name": "Мелкие моды брони и оружия (Vigilant Armors, RCBE Crossbow Integration)",
+  "reuse_installed": true,
+  "plugins": [
+    "Mk2_VigilantArmor.esp",
+    "RCBE - Crossbow Light Integration.esp"
+  ],
+  "sources": {
+    "Mk2_VigilantArmor.esp": "Vigilant Armors",
+    "RCBE - Crossbow Light Integration.esp": "RCBE - Crossbow Integration Addon"
+  }
+}

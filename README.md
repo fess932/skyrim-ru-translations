@@ -35,6 +35,7 @@
 | Vampire Clans and Bloodlines | - | `mods/vampire-clans` (ставится как `RU_vampire-clans.json`) |
 | Nyhus and the border of Cyrodiil | - | `mods/nyhus` (ставится как `RU_nyhus.json`) |
 | The Gray Cowl of Nocturnal: дополнения (Дом вора, метки, патчи) | - | `mods/gray-cowl` (недостающие строки поверх готового перевода; `RU_gray-cowl.json`) |
+| Vigilant Armors, RCBE Crossbow Integration | - | `mods/armor-weapon-misc` (`RU_armor-weapon-misc.json`) |
 
 ## Как устроен перевод
 

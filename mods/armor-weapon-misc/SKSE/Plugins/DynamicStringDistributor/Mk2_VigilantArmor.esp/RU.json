@@ -1,0 +1,114 @@
+[
+ {
+  "original": "Vigilant Boots",
+  "string": "Сапоги Дозорного",
+  "form_id": "00000800|Mk2_VigilantArmor.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "Mk2_Vigilant_Boots"
+ },
+ {
+  "original": "Vigilant Gauntlets",
+  "string": "Наручи Дозорного",
+  "form_id": "00000801|Mk2_VigilantArmor.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "Mk2_Vigilant_Gauntlets"
+ },
+ {
+  "original": "Vigilant Armor",
+  "string": "Броня Дозорного",
+  "form_id": "00000802|Mk2_VigilantArmor.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "Mk2_Vigilant_Armor"
+ },
+ {
+  "original": "Vigilant Helmet",
+  "string": "Шлем Дозорного",
+  "form_id": "00000803|Mk2_VigilantArmor.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "Mk2_Vigilant_Helm"
+ },
+ {
+  "original": "Vigilant Hood",
+  "string": "Капюшон Дозорного",
+  "form_id": "00000804|Mk2_VigilantArmor.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "Mk2_Vigilant_Hood"
+ },
+ {
+  "original": "Vigilant Keeper Armor",
+  "string": "Броня Хранителя Дозорных",
+  "form_id": "0000080B|Mk2_VigilantArmor.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "Mk2_Vigilant_Armor_Keeper"
+ },
+ {
+  "original": "Vigilant Keeper Gloves",
+  "string": "Перчатки Хранителя Дозорных",
+  "form_id": "0000080C|Mk2_VigilantArmor.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "Mk2_Vigilant_Gloves_Keeper"
+ },
+ {
+  "original": "Vigilant Keeper Boots",
+  "string": "Сапоги Хранителя Дозорных",
+  "form_id": "0000080D|Mk2_VigilantArmor.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "Mk2_Vigilant_Boots_Keeper"
+ },
+ {
+  "original": "Vigilant Keeper Hood",
+  "string": "Капюшон Хранителя Дозорных",
+  "form_id": "0000080E|Mk2_VigilantArmor.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "Mk2_Vigilant_Hood_Keeper"
+ },
+ {
+  "original": "Vigilant Elite Boots",
+  "string": "Сапоги элитного Дозорного",
+  "form_id": "0000081F|Mk2_VigilantArmor.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "Mk2_Vigilant_Boots_Elite"
+ },
+ {
+  "original": "Vigilant Elite Gauntlets",
+  "string": "Наручи элитного Дозорного",
+  "form_id": "00000820|Mk2_VigilantArmor.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "Mk2_Vigilant_Gauntlets_Elite"
+ },
+ {
+  "original": "Vigilant Elite Armor",
+  "string": "Броня элитного Дозорного",
+  "form_id": "00000821|Mk2_VigilantArmor.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "Mk2_Vigilant_Armor_Elite"
+ },
+ {
+  "original": "Vigilant Elite Helmet",
+  "string": "Шлем элитного Дозорного",
+  "form_id": "00000822|Mk2_VigilantArmor.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "Mk2_Vigilant_Helm_Elite"
+ },
+ {
+  "original": "Vigilant Elite Hood",
+  "string": "Капюшон элитного Дозорного",
+  "form_id": "00000823|Mk2_VigilantArmor.esp",
+  "type": "ARMO FULL",
+  "index": null,
+  "editor_id": "Mk2_Vigilant_Hood_Elite"
+ }
+]

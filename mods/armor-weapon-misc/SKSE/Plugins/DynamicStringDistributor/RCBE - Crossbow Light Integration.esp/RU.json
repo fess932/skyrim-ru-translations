@@ -1,0 +1,378 @@
+[
+ {
+  "original": "Steel Crossbow",
+  "string": "Стальной арбалет",
+  "form_id": "00000801|Dawnguard.esm",
+  "type": "WEAP FULL",
+  "index": null,
+  "editor_id": "DLC1CrossBow"
+ },
+ {
+  "original": "Dwarven Crossbow",
+  "string": "Двемерский арбалет",
+  "form_id": "0000B647|Dawnguard.esm",
+  "type": "WEAP FULL",
+  "index": null,
+  "editor_id": "DLC1DwarvenCrossBow"
+ },
+ {
+  "original": "Attacks with this crossbow ignore 50% of armor.",
+  "string": "При попадании из арбалета игнорируется 50% брони противника.",
+  "form_id": "0000F19E|Dawnguard.esm",
+  "type": "WEAP DESC",
+  "index": null,
+  "editor_id": "DLC1CrossBowEnhanced"
+ },
+ {
+  "original": "Attacks with this crossbow ignore 50% of armor.",
+  "string": "При попадании из арбалета игнорируется 50% брони противника.",
+  "form_id": "0000F19F|Dawnguard.esm",
+  "type": "WEAP DESC",
+  "index": null,
+  "editor_id": "DLC1DwarvenCrossbowEnhanced"
+ },
+ {
+  "original": "Elven Crossbow",
+  "string": "Эльфийский арбалет",
+  "form_id": "00000801|ccbgssse043-crosselv.esl",
+  "type": "WEAP FULL",
+  "index": null,
+  "editor_id": "ccBGSSSE043_ElvenCrossbow"
+ },
+ {
+  "original": "Elven Enhanced Crossbow",
+  "string": "Улучшенный эльфийский арбалет",
+  "form_id": "00000809|ccbgssse043-crosselv.esl",
+  "type": "WEAP FULL",
+  "index": null,
+  "editor_id": "ccBGSSSE043_ElvenCrossbowEnhanced"
+ },
+ {
+  "original": "Attacks with this crossbow ignore 50% of armor.",
+  "string": "При попадании из арбалета игнорируется 50% брони противника.",
+  "form_id": "00000809|ccbgssse043-crosselv.esl",
+  "type": "WEAP DESC",
+  "index": null,
+  "editor_id": "ccBGSSSE043_ElvenCrossbowEnhanced"
+ },
+ {
+  "original": "Ebony Crossbow",
+  "string": "Эбонитовый арбалет",
+  "form_id": "000008A6|ccbgssse043-crosselv.esl",
+  "type": "WEAP FULL",
+  "index": null,
+  "editor_id": "ccBGSSSE043_EbonyCrossbow"
+ },
+ {
+  "original": "Ebony Enhanced Crossbow",
+  "string": "Улучшенный эбонитовый арбалет",
+  "form_id": "000008AE|ccbgssse043-crosselv.esl",
+  "type": "WEAP FULL",
+  "index": null,
+  "editor_id": "ccBGSSSE043_EbonyCrossbowEnhanced"
+ },
+ {
+  "original": "Attacks with this crossbow ignore 50% of armor.",
+  "string": "При попадании из арбалета игнорируется 50% брони противника.",
+  "form_id": "000008AE|ccbgssse043-crosselv.esl",
+  "type": "WEAP DESC",
+  "index": null,
+  "editor_id": "ccBGSSSE043_EbonyCrossbowEnhanced"
+ },
+ {
+  "original": "Daedric Crossbow",
+  "string": "Даэдрический арбалет",
+  "form_id": "00000808|ccffbsse002-crossbowpack.esl",
+  "type": "WEAP FULL",
+  "index": null,
+  "editor_id": "ccFFBSSE002_DaedricCrossbow"
+ },
+ {
+  "original": "Dragonbone Crossbow",
+  "string": "Драконий костяной арбалет",
+  "form_id": "00000809|ccffbsse002-crossbowpack.esl",
+  "type": "WEAP FULL",
+  "index": null,
+  "editor_id": "ccFFBSSE002_DragonboneCrossbow"
+ },
+ {
+  "original": "Glass Crossbow",
+  "string": "Стеклянный арбалет",
+  "form_id": "0000080A|ccffbsse002-crossbowpack.esl",
+  "type": "WEAP FULL",
+  "index": null,
+  "editor_id": "ccFFBSSE002_GlassCrossbow"
+ },
+ {
+  "original": "Imperial Crossbow",
+  "string": "Имперский арбалет",
+  "form_id": "0000080B|ccffbsse002-crossbowpack.esl",
+  "type": "WEAP FULL",
+  "index": null,
+  "editor_id": "ccFFBSSE002_ImperialCrossbow"
+ },
+ {
+  "original": "Nordic Crossbow",
+  "string": "Нордский арбалет",
+  "form_id": "0000080C|ccffbsse002-crossbowpack.esl",
+  "type": "WEAP FULL",
+  "index": null,
+  "editor_id": "ccFFBSSE002_NordicCrossbow"
+ },
+ {
+  "original": "Orcish Crossbow",
+  "string": "Орочий арбалет",
+  "form_id": "0000080D|ccffbsse002-crossbowpack.esl",
+  "type": "WEAP FULL",
+  "index": null,
+  "editor_id": "ccFFBSSE002_OrcishCrossbow"
+ },
+ {
+  "original": "Stalhrim Crossbow",
+  "string": "Сталгримовый арбалет",
+  "form_id": "0000080F|ccffbsse002-crossbowpack.esl",
+  "type": "WEAP FULL",
+  "index": null,
+  "editor_id": "ccFFBSSE002_StalhrimCrossbow"
+ },
+ {
+  "original": "Daedric Enhanced Crossbow",
+  "string": "Улучшенный даэдрический арбалет",
+  "form_id": "00000814|ccffbsse002-crossbowpack.esl",
+  "type": "WEAP FULL",
+  "index": null,
+  "editor_id": "ccFFBSSE002_DaedricCrossbowEnhanced"
+ },
+ {
+  "original": "Attacks with this crossbow ignore 50% of armor.",
+  "string": "При попадании из арбалета игнорируется 50% брони противника.",
+  "form_id": "00000814|ccffbsse002-crossbowpack.esl",
+  "type": "WEAP DESC",
+  "index": null,
+  "editor_id": "ccFFBSSE002_DaedricCrossbowEnhanced"
+ },
+ {
+  "original": "Dragonbone Enhanced Crossbow",
+  "string": "Улучшенный арбалет из драконьей кости",
+  "form_id": "00000815|ccffbsse002-crossbowpack.esl",
+  "type": "WEAP FULL",
+  "index": null,
+  "editor_id": "ccFFBSSE002_DragonboneCrossbowEnhanced"
+ },
+ {
+  "original": "Attacks with this crossbow ignore 50% of armor.",
+  "string": "При попадании из арбалета игнорируется 50% брони противника.",
+  "form_id": "00000815|ccffbsse002-crossbowpack.esl",
+  "type": "WEAP DESC",
+  "index": null,
+  "editor_id": "ccFFBSSE002_DragonboneCrossbowEnhanced"
+ },
+ {
+  "original": "Glass Enhanced Crossbow",
+  "string": "Улучшенный стеклянный арбалет",
+  "form_id": "00000816|ccffbsse002-crossbowpack.esl",
+  "type": "WEAP FULL",
+  "index": null,
+  "editor_id": "ccFFBSSE002_GlassCrossbowEnhanced"
+ },
+ {
+  "original": "Attacks with this crossbow ignore 50% of armor.",
+  "string": "При попадании из арбалета игнорируется 50% брони противника.",
+  "form_id": "00000816|ccffbsse002-crossbowpack.esl",
+  "type": "WEAP DESC",
+  "index": null,
+  "editor_id": "ccFFBSSE002_GlassCrossbowEnhanced"
+ },
+ {
+  "original": "Imperial Enhanced Crossbow",
+  "string": "Улучшенный имперский арбалет",
+  "form_id": "00000817|ccffbsse002-crossbowpack.esl",
+  "type": "WEAP FULL",
+  "index": null,
+  "editor_id": "ccFFBSSE002_ImperialCrossbowEnhanced"
+ },
+ {
+  "original": "Attacks with this crossbow ignore 50% of armor.",
+  "string": "При попадании из арбалета игнорируется 50% брони противника.",
+  "form_id": "00000817|ccffbsse002-crossbowpack.esl",
+  "type": "WEAP DESC",
+  "index": null,
+  "editor_id": "ccFFBSSE002_ImperialCrossbowEnhanced"
+ },
+ {
+  "original": "Nordic Enhanced Crossbow",
+  "string": "Улучшенный нордский арбалет",
+  "form_id": "00000818|ccffbsse002-crossbowpack.esl",
+  "type": "WEAP FULL",
+  "index": null,
+  "editor_id": "ccFFBSSE002_NordicCrossbowEnhanced"
+ },
+ {
+  "original": "Attacks with this crossbow ignore 50% of armor.",
+  "string": "При попадании из арбалета игнорируется 50% брони противника.",
+  "form_id": "00000818|ccffbsse002-crossbowpack.esl",
+  "type": "WEAP DESC",
+  "index": null,
+  "editor_id": "ccFFBSSE002_NordicCrossbowEnhanced"
+ },
+ {
+  "original": "Orcish Enhanced Crossbow",
+  "string": "Улучшенный орочий арбалет",
+  "form_id": "00000819|ccffbsse002-crossbowpack.esl",
+  "type": "WEAP FULL",
+  "index": null,
+  "editor_id": "ccFFBSSE002_OrcishCrossbowEnhanced"
+ },
+ {
+  "original": "Attacks with this crossbow ignore 50% of armor.",
+  "string": "При попадании из арбалета игнорируется 50% брони противника.",
+  "form_id": "00000819|ccffbsse002-crossbowpack.esl",
+  "type": "WEAP DESC",
+  "index": null,
+  "editor_id": "ccFFBSSE002_OrcishCrossbowEnhanced"
+ },
+ {
+  "original": "Attacks with this crossbow ignore 50% of armor.",
+  "string": "При попадании из арбалета игнорируется 50% брони противника.",
+  "form_id": "0000081A|ccffbsse002-crossbowpack.esl",
+  "type": "WEAP DESC",
+  "index": null,
+  "editor_id": "ccFFBSSE002_SilverCrossbowEnhanced"
+ },
+ {
+  "original": "Stalhrim Enhanced Crossbow",
+  "string": "Улучшенный сталгримовый арбалет",
+  "form_id": "0000081B|ccffbsse002-crossbowpack.esl",
+  "type": "WEAP FULL",
+  "index": null,
+  "editor_id": "ccFFBSSE002_StalhrimCrossbowEnhanced"
+ },
+ {
+  "original": "Attacks with this crossbow ignore 50% of armor.",
+  "string": "При попадании из арбалета игнорируется 50% брони противника.",
+  "form_id": "0000081B|ccffbsse002-crossbowpack.esl",
+  "type": "WEAP DESC",
+  "index": null,
+  "editor_id": "ccFFBSSE002_StalhrimCrossbowEnhanced"
+ },
+ {
+  "original": "Steel Bolt",
+  "string": "Стальной болт",
+  "form_id": "00000809|RCBE - Crossbow Light Integration.esp",
+  "type": "AMMO FULL",
+  "index": null,
+  "editor_id": "JELMQ101DLC1BoltSteel"
+ },
+ {
+  "original": "Silver Hand",
+  "string": "Воин Серебряной руки",
+  "form_id": "00000801|RCBE - Crossbow Light Integration.esp",
+  "type": "NPC_ FULL",
+  "index": null,
+  "editor_id": "JELLvlSilverhandBossIronback"
+ },
+ {
+  "original": "Silver Hand",
+  "string": "Воин Серебряной руки",
+  "form_id": "00000802|RCBE - Crossbow Light Integration.esp",
+  "type": "NPC_ FULL",
+  "index": null,
+  "editor_id": "JELLvlSilverhandMissileIronback"
+ },
+ {
+  "original": "I'm back from <Alias=Dungeon> with the <Alias=Item>.",
+  "string": "<Alias=Dungeon> больше не представляет интереса для охотников за редкостями. <Alias=Item> у меня.",
+  "form_id": "00006BA6|Dawnguard.esm",
+  "type": "DIAL FULL",
+  "index": null,
+  "editor_id": "DLC1RH05EndTopic"
+ },
+ {
+  "original": "Back already? Can't wait.",
+  "string": "Уже здесь? Жду не дождусь!",
+  "form_id": "0000F7FD|Dawnguard.esm",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "We've been so terribly fortunate. I can't wait to see what's in these drawings.",
+  "string": "Какое потрясающее везение. Мне нужно немедленно посмотреть на эти чертежи.",
+  "form_id": "00002F17|Dawnguard.esm",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "I think even Gunmar's been impressed with what we've managed to do with the Dwemer drawings. Let's see what we can do with these ones!",
+  "string": "Нам удалось извлечь прок из тех двемерских чертежей, даже Гунмар впечатлился. Посмотрим, что получится с этими!",
+  "form_id": "00002F18|Dawnguard.esm",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "It's amazing what I'm able to learn from studying these Dwemer plans.",
+  "string": "Подумать только, сколько всего полезного в этих двемерских чертежах.",
+  "form_id": "00002F1D|Dawnguard.esm",
+  "type": "INFO NAM1",
+  "index": 2,
+  "editor_id": null
+ },
+ {
+  "original": "Want to head out there and collect some more?",
+  "string": "Не хочешь сходить и принести мне еще порцию?",
+  "form_id": "00002F1D|Dawnguard.esm",
+  "type": "INFO NAM1",
+  "index": 3,
+  "editor_id": null
+ },
+ {
+  "original": "I'm starting to think you like this as much as I do!",
+  "string": "Я начинаю думать, что тебе все это нравится не меньше, чем мне.",
+  "form_id": "00002F1E|Dawnguard.esm",
+  "type": "INFO NAM1",
+  "index": 2,
+  "editor_id": null
+ },
+ {
+  "original": "Here's the location of the next set of Dwemer diagrams. Thanks!",
+  "string": "Вот, здесь находится очередная порция двемерских чертежей. Спасибо!",
+  "form_id": "00002F1E|Dawnguard.esm",
+  "type": "INFO NAM1",
+  "index": 3,
+  "editor_id": null
+ },
+ {
+  "original": "...",
+  "string": "Прошу прощения?",
+  "form_id": "0000F7F9|Dawnguard.esm",
+  "type": "DIAL FULL",
+  "index": null,
+  "editor_id": "DLC1RH05End1"
+ },
+ {
+  "original": "Now this is a find! Plans for improving the Dwemer crossbow. This should add some extra punch to an already devastating weapon.",
+  "string": "Вот это находка! Схема усовершенствования двемерского арбалета. Добавит ему пробивной силы, а он и так очень мощный.",
+  "form_id": "0000F804|Dawnguard.esm",
+  "type": "INFO NAM1",
+  "index": 1,
+  "editor_id": null
+ },
+ {
+  "original": "Night Hunter",
+  "string": "Ночной охотник",
+  "form_id": "0000089E|ccbgssse043-crosselv.esl",
+  "type": "QUST FULL",
+  "index": null,
+  "editor_id": "ccBGSSSE043_VampireHunterQuest"
+ },
+ {
+  "original": "Seeding Quest",
+  "string": "Стартовое задание",
+  "form_id": "0000083E|ccffbsse002-crossbowpack.esl",
+  "type": "QUST FULL",
+  "index": null,
+  "editor_id": "ccFFBSSE002_Quest"
+ }
+]
